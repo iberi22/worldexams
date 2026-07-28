@@ -8,681 +8,6 @@
   },
   "questions": [
     {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v1",
-      "statement": "¿Cuáles son las tres partes fundamentales de un ensayo?",
-      "context": "En clase de lenguaje en Bogotá, la profesora explica la estructura del ensayo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Sujeto, verbo y predicado",
-          "is_correct": false,
-          "feedback": "Incorrect. Esos son elementos de la oración, no del ensayo."
-        },
-        {
-          "letter": "B",
-          "text": "Introducción, desarrollo (cuerpo argumentativo) y conclusión",
-          "is_correct": true,
-          "feedback": "Correct. El ensayo tiene una estructura de tres partes: introduce el tema, lo desarrolla argumentativamente y cierra con una conclusión."
-        },
-        {
-          "letter": "C",
-          "text": "Planteamiento, nudo y desenlace",
-          "is_correct": false,
-          "feedback": "Incorrect. Esa es la estructura de la narración, no del ensayo."
-        },
-        {
-          "letter": "D",
-          "text": "Título, subtítulo y párrafos",
-          "is_correct": false,
-          "feedback": "Incorrect. Esos son elementos formales, no la estructura argumentativa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El ensayo es un texto argumentativo breve donde el autor expone su punto de vista sobre un tema. Su estructura clásica: introducción (presenta el tema y la tesis), desarrollo (argumentos, ejemplos, contraargumentos) y conclusión (síntesis y cierre).\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Identificación de contenidos locales",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v2",
-      "statement": "¿Quién fue el filósofo griego que desarrolló el método de la mayéutica (diálogo para llegar a la verdad)?",
-      "context": "Se estudian las principales corrientes filosóficas de la antigüedad.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Aristóteles",
-          "is_correct": false,
-          "feedback": "Incorrect. Aristóteles desarrolló la lógica formal, no la mayéutica."
-        },
-        {
-          "letter": "B",
-          "text": "Sócrates",
-          "is_correct": true,
-          "feedback": "Correct. Sócrates usaba el diálogo y la mayéutica para hacer que sus interlocutores descubrieran la verdad por sí mismos."
-        },
-        {
-          "letter": "C",
-          "text": "Platón",
-          "is_correct": false,
-          "feedback": "Incorrect. Platón escribió los diálogos socráticos pero el método mayéutico es de Sócrates."
-        },
-        {
-          "letter": "D",
-          "text": "Heráclito",
-          "is_correct": false,
-          "feedback": "Incorrect. Heráclito es conocido por su filosofía del cambio (\"todo fluye\")."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Sócrates (470-399 a.C.) no escribió libros, pero su método de enseñanza (mayéutica) consistía en hacer preguntas para llevar al interlocutor a cuestionar sus propias creencias y descubrir la verdad por sí mismo. Su lema: \"Solo sé que no sé nada\".\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Identificación de contenidos locales",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v3",
-      "statement": "Según el texto, ¿qué implica que el ser humano sea \"social por naturaleza\"?",
-      "context": "Un estudiante lee el siguiente fragmento: \"El hombre es un ser social por naturaleza. Quien vive aislado no es ni un animal ni un dios, sino una bestia o una divinidad.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que puede elegir si vivir en sociedad o no.",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Por naturaleza\" implica que no es opcional."
-        },
-        {
-          "letter": "B",
-          "text": "Que la sociabilidad es inherente al ser humano, no puede desarrollarse plenamente fuera de la sociedad.",
-          "is_correct": true,
-          "feedback": "Correct. La frase sugiere que la vida en sociedad es esencial para la realización humana."
-        },
-        {
-          "letter": "C",
-          "text": "Que todos los humanos son iguales en sociedad.",
-          "is_correct": false,
-          "feedback": "Incorrect. El texto no habla de igualdad."
-        },
-        {
-          "letter": "D",
-          "text": "Que los humanos son mejores que los animales.",
-          "is_correct": false,
-          "feedback": "Incorrect. El texto compara pero no afirma superioridad."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aristóteles afirmó en su \"Política\" que el ser humano es un \"animal político\" (zoon politikon). Esto significa que la sociedad no es un lujo sino una necesidad para la realización plena del ser humano.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión de textos",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v4",
-      "statement": "¿Cuál es la tesis del ensayo?",
-      "context": "Se analiza un ensayo corto sobre el impacto de las redes sociales. El autor afirma en la introducción: \"Las redes sociales han transformado la comunicación, pero también han generado nuevas formas de aislamiento social.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Las redes sociales son malas y deben eliminarse",
-          "is_correct": false,
-          "feedback": "Incorrect. La tesis es más matizada."
-        },
-        {
-          "letter": "B",
-          "text": "Las redes sociales solo tienen efectos positivos",
-          "is_correct": false,
-          "feedback": "Incorrect. La tesis menciona también aspectos negativos."
-        },
-        {
-          "letter": "C",
-          "text": "Las redes sociales han transformado la comunicación pero también generan aislamiento",
-          "is_correct": true,
-          "feedback": "Correct. La tesis presenta una postura equilibrada: reconoce beneficios y problemas."
-        },
-        {
-          "letter": "D",
-          "text": "Las redes sociales no han cambiado nada en la comunicación humana",
-          "is_correct": false,
-          "feedback": "Incorrect. La tesis afirma que sí han transformado la comunicación."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La tesis es la idea principal que el autor defiende en un ensayo. Se presenta generalmente en la introducción y guía todo el desarrollo argumentativo. Una buena tesis es clara, debatible y específica.\r\n\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión de textos",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v5",
-      "statement": "¿Cuál de las siguientes sería una tesis adecuada para este ensayo?",
-      "context": "Un estudiante debe escribir un ensayo sobre el cuidado del medio ambiente en Colombia.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "\"El medio ambiente es importante.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. Es muy general y no es debatible."
-        },
-        {
-          "letter": "B",
-          "text": "\"Colombia es un país con mucha agua.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. Es un hecho, no una tesis argumentativa."
-        },
-        {
-          "letter": "C",
-          "text": "\"La deforestación en la Amazonía colombiana requiere políticas más estrictas y una mayor participación de las comunidades indígenas para ser detenida.\"",
-          "is_correct": true,
-          "feedback": "Correct. Es específica, debatible y plantea una postura clara que se puede argumentar."
-        },
-        {
-          "letter": "D",
-          "text": "\"Los árboles son bonitos.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. Es una opinión subjetiva no argumentativa."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Una tesis efectiva debe ser: 1) Específica (no general), 2) Debatible (no un hecho obvio), 3) Clara (fácil de entender), 4) Argumentable (se puede respaldar con evidencia).\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comprensión de textos",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v6",
-      "statement": "¿Qué representa el \"Mito de la Caverna\" de Platón?",
-      "context": "Se lee un fragmento del \"Mito de la Caverna\" de Platón, donde unos prisioneros solo ven sombras en una pared y creen que esa es la realidad.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que el conocimiento verdadero se obtiene solo a través de los sentidos",
-          "is_correct": false,
-          "feedback": "Incorrect. Platón criticaba el conocimiento basado solo en sentidos."
-        },
-        {
-          "letter": "B",
-          "text": "La diferencia entre la apariencia (mundo sensible) y la realidad verdadera (mundo de las Ideas), y el proceso de acceder al conocimiento auténtico",
-          "is_correct": true,
-          "feedback": "Correct. La caverna representa el mundo de las apariencias; salir de ella, el camino hacia el conocimiento verdadero."
-        },
-        {
-          "letter": "C",
-          "text": "Que es mejor permanecer en la ignorancia porque la verdad duele",
-          "is_correct": false,
-          "feedback": "Incorrect. Platón defendía la búsqueda de la verdad."
-        },
-        {
-          "letter": "D",
-          "text": "Que todos los seres humanos son iguales en conocimiento",
-          "is_correct": false,
-          "feedback": "Incorrect. La alegoría muestra diferentes niveles de conocimiento."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El Mito de la Caverna (Libro VII de \"La República\") es una alegoría sobre el conocimiento: los prisioneros (ignorancia), las sombras (apariencia), la salida (educación), el mundo exterior (conocimiento verdadero o mundo de las Ideas).\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comprensión de textos",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v7",
-      "statement": "¿Qué tipo de razonamiento se emplea en este argumento?",
-      "context": "Se presenta un argumento: \"Todos los estudiantes de noveno grado deben usar uniforme. María es estudiante de noveno grado. Por lo tanto, María debe usar uniforme.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Razonamiento inductivo (de lo particular a lo general)",
-          "is_correct": false,
-          "feedback": "Incorrect. Va de lo general a lo particular."
-        },
-        {
-          "letter": "B",
-          "text": "Razonamiento deductivo (silogismo: de una premisa general a una conclusión particular)",
-          "is_correct": true,
-          "feedback": "Correct. Es un silogismo clásico: premisa mayor, premisa menor y conclusión."
-        },
-        {
-          "letter": "C",
-          "text": "Razonamiento analógico (comparación)",
-          "is_correct": false,
-          "feedback": "Incorrect. No hay comparación entre dos casos."
-        },
-        {
-          "letter": "D",
-          "text": "Razonamiento causal (causa-efecto)",
-          "is_correct": false,
-          "feedback": "Incorrect. No establece una relación causal."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El razonamiento deductivo va de lo general a lo particular. El silogismo fue desarrollado por Aristóteles. Si las premisas son verdaderas, la conclusión necesariamente lo es.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Pensamiento crítico",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v8",
-      "statement": "¿Qué tipo de evidencia usa el autor y es suficiente para sostener su tesis?",
-      "context": "Un ensayo argumenta que \"la tecnología está destruyendo la capacidad de concentración de los jóvenes.\" Como evidencia, el autor cita un estudio que muestra que los jóvenes pasan 6 horas diarias en redes sociales.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Evidencia estadística suficiente: 6 horas en redes sociales demuestra falta de concentración",
-          "is_correct": false,
-          "feedback": "Incorrect. Las horas en redes no miden directamente la capacidad de concentración."
-        },
-        {
-          "letter": "B",
-          "text": "Evidencia anecdótica: suficiente porque todos los jóvenes usan tecnología",
-          "is_correct": false,
-          "feedback": "Incorrect. Las anécdotas no son evidencia suficiente."
-        },
-        {
-          "letter": "C",
-          "text": "Evidencia estadística, pero insuficiente: correlación no implica causalidad. Las horas en redes no demuestran que la capacidad de concentración haya disminuido.",
-          "is_correct": true,
-          "feedback": "Correct. Se necesitaría medir la capacidad de concentración antes y después, no solo el tiempo en redes sociales."
-        },
-        {
-          "letter": "D",
-          "text": "No usa evidencia, solo opinión",
-          "is_correct": false,
-          "feedback": "Incorrect. Sí usa una estadística, pero es insuficiente."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "En un ensayo argumentativo, la evidencia debe ser suficiente, pertinente y fiable. La falacia de \"correlación no implica causalidad\" es común: el hecho de que dos cosas ocurran juntas no significa que una cause la otra.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión de textos",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v9",
-      "statement": "¿En qué consiste la falacia del falso dilema?",
-      "context": "Se estudia la falacia del \"falso dilema\": \"O estás con nosotros o estás contra nosotros.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Presentar solo dos opciones cuando existen más alternativas",
-          "is_correct": false,
-          "feedback": "Correct. Esta falacia reduce artificialmente las opciones posibles."
-        },
-        {
-          "letter": "B",
-          "text": "Atacar a la persona que argumenta en lugar de al argumento",
-          "is_correct": false,
-          "feedback": "Incorrect. Esa es la falacia ad hominem."
-        },
-        {
-          "letter": "C",
-          "text": "Repetir una idea muchas veces para que parezca verdadera",
-          "is_correct": false,
-          "feedback": "Incorrect. Esa es la falacia de repetición."
-        },
-        {
-          "letter": "D",
-          "text": "Usar una autoridad no experta para respaldar un argumento",
-          "is_correct": false,
-          "feedback": "Incorrect. Esa es la falacia de autoridad."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Identificar falacias es una habilidad clave del pensamiento crítico. El falso dilema (o falsa dicotomía) limita las opciones para forzar una conclusión. Ejemplo: \"O apruebas esta ley o habrá caos\" ignora otras posibilidades.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Pensamiento crítico",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v10",
-      "statement": "¿Qué falacia lógica se está cometiendo?",
-      "context": "Un político dice: \"No debemos escuchar las críticas de mi oponente porque él fue condenado por evasión de impuestos hace 10 años.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Falso dilema",
-          "is_correct": false,
-          "feedback": "Incorrect. No se presentan solo dos opciones."
-        },
-        {
-          "letter": "B",
-          "text": "Petición de principio",
-          "is_correct": false,
-          "feedback": "Incorrect. No se asume la conclusión como premisa."
-        },
-        {
-          "letter": "C",
-          "text": "Ad hominem (atacar a la persona en lugar de al argumento)",
-          "is_correct": true,
-          "feedback": "Correct. En lugar de refutar la crítica, se ataca al crítico por su pasado."
-        },
-        {
-          "letter": "D",
-          "text": "Generalización apresurada",
-          "is_correct": false,
-          "feedback": "Incorrect. No se generaliza a partir de una muestra pequeña."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La falacia ad hominem (literalmente \"contra el hombre\") ocurre cuando se ataca a la persona que presenta un argumento en lugar de refutar el argumento mismo. Es una de las falacias más comunes en debates políticos.\r\n\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Pensamiento crítico",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v11",
-      "statement": "¿Qué error de razonamiento contiene este argumento?",
-      "context": "Se analiza un texto que dice: \"El calentamiento global es un mito. Hace unos días nevó en Bogotá, lo que demuestra que el clima no se está calentando.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Es un argumento válido científicamente",
-          "is_correct": false,
-          "feedback": "Incorrect. La nieve en un lugar no contradice el calentamiento global."
-        },
-        {
-          "letter": "B",
-          "text": "Confunde clima (tendencias a largo plazo) con tiempo meteorológico (eventos locales y cortos). Una nevada local no refuta el calentamiento global.",
-          "is_correct": true,
-          "feedback": "Correct. El clima se mide en décadas, el tiempo atmosférico en días."
-        },
-        {
-          "letter": "C",
-          "text": "Usa evidencia estadística sólida",
-          "is_correct": false,
-          "feedback": "Incorrect. Usa una anécdota como si fuera evidencia global."
-        },
-        {
-          "letter": "D",
-          "text": "Es un razonamiento deductivo correcto",
-          "is_correct": false,
-          "feedback": "Incorrect. La conclusión no se sigue de la premisa."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La falacia de \"confundir clima con tiempo\" es común en debates sobre cambio climático. El clima es el promedio del tiempo atmosférico durante 30 años. Un evento climático local no refuta la tendencia global.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Pensamiento crítico",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v12",
-      "statement": "¿Qué problema buscaba resolver Descartes con esta afirmación?",
-      "context": "Se lee: \"El filósofo Descartes afirmó 'Pienso, luego existo' (Cogito, ergo sum) como primera certeza indudable.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Demostrar que Dios existe",
-          "is_correct": false,
-          "feedback": "Incorrect. Descartes usó el cogito como base, luego demostró a Dios."
-        },
-        {
-          "letter": "B",
-          "text": "Probar que todo conocimiento es imposible",
-          "is_correct": false,
-          "feedback": "Incorrect. Buscaba una base segura para el conocimiento."
-        },
-        {
-          "letter": "C",
-          "text": "Encontrar una verdad indudable a partir de la cual construir todo el conocimiento, después de dudar metódicamente de todo",
-          "is_correct": true,
-          "feedback": "Correct. Descartes dudó de todo (duda metódica) hasta encontrar el cogito como primera certeza."
-        },
-        {
-          "letter": "D",
-          "text": "Demostrar que el cuerpo es más importante que la mente",
-          "is_correct": false,
-          "feedback": "Incorrect. Descartes defendía el dualismo mente-cuerpo."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "René Descartes (1596-1650), considerado el padre de la filosofía moderna, usó la duda metódica para encontrar una base segura para el conocimiento. \"Pienso, luego existo\" es la primera certeza que resiste cualquier duda.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comprensión de textos",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v13",
-      "statement": "Evalúe la validez de esta conclusión.",
-      "context": "Un ensayo concluye: \"La educación virtual es superior a la presencial. Esto se demuestra porque durante la pandemia los estudiantes aprendieron desde casa.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La conclusión es válida porque la pandemia demostró que se puede aprender desde casa",
-          "is_correct": false,
-          "feedback": "Incorrect. Sobrevivir no equivale a superioridad."
-        },
-        {
-          "letter": "B",
-          "text": "La conclusión es válida porque hay evidencia estadística",
-          "is_correct": false,
-          "feedback": "Incorrect. No se presentan estadísticas comparativas."
-        },
-        {
-          "letter": "C",
-          "text": "La conclusión no es válida. La pandemia fue una situación de emergencia, no un experimento controlado. Además, \"aprender desde casa\" no demuestra que la educación virtual sea superior en calidad.",
-          "is_correct": true,
-          "feedback": "Correct. Se necesita evidencia comparativa de resultados de aprendizaje, no solo la factibilidad."
-        },
-        {
-          "letter": "D",
-          "text": "La conclusión es válida porque la tecnología siempre mejora la educación",
-          "is_correct": false,
-          "feedback": "Incorrect. Es una generalización sin evidencia."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Evaluar argumentos requiere examinar si la evidencia respalda la conclusión. Aquí se comete una falacia de generalización apresurada: de una situación excepcional (pandemia) se saca una conclusión general sobre superioridad pedagógica.\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Pensamiento crítico",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v14",
-      "statement": "¿Qué tipo de estructura argumentativa tiene este texto?",
-      "context": "Se analiza un texto que contiene múltiples argumentos: \"Colombia debe invertir más en educación rural porque: 1) reduce la desigualdad, 2) mejora la productividad agrícola, 3) disminuye la migración forzada a las ciudades.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Estructura narrativa: cuenta una historia sobre la educación rural",
-          "is_correct": false,
-          "feedback": "Incorrect. No hay narración de eventos."
-        },
-        {
-          "letter": "B",
-          "text": "Estructura argumentativa múltiple: una tesis respaldada por varias razones independientes (argumentos en paralelo)",
-          "is_correct": true,
-          "feedback": "Correct. La tesis se apoya en tres argumentos diferentes que convergen en la misma conclusión."
-        },
-        {
-          "letter": "C",
-          "text": "Estructura contraargumentativa: presenta y refuta objeciones",
-          "is_correct": false,
-          "feedback": "Incorrect. Solo presenta argumentos a favor."
-        },
-        {
-          "letter": "D",
-          "text": "Estructura descriptiva: solo describe la situación sin tomar postura",
-          "is_correct": false,
-          "feedback": "Incorrect. Sí hay una tesis clara y argumentos."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Los textos argumentativos pueden tener diferentes estructuras: argumentación en paralelo (varias razones independientes para una tesis), en cadena (argumentos que se apoyan entre sí) o contraargumentativa (presenta y refuta objeciones).\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comprensión de textos",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v15",
-      "statement": "¿Cuál de los siguientes esquemas representa la mejor estructura para un ensayo argumentativo sobre este tema?",
-      "context": "Un estudiante debe escribir un ensayo sobre la pregunta: \"¿Es la inteligencia artificial una amenaza para el empleo juvenil en Colombia?\" Debe planificar su estructura argumentativa.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Introducción (cuento personal), desarrollo (anécdotas), conclusión (opinión)",
-          "is_correct": false,
-          "feedback": "Incorrect. Un ensayo académico requiere argumentos, no solo anécdotas."
-        },
-        {
-          "letter": "B",
-          "text": "Introducción (contexto + tesis clara), desarrollo (argumento 1: IA elimina empleos rutinarios, argumento 2: IA crea nuevos empleos tecnológicos, contraargumento y refutación), conclusión (síntesis y postura final)",
-          "is_correct": true,
-          "feedback": "Correct. Esta estructura presenta tesis, argumentos, reconoce posiciones contrarias y cierra con una conclusión sólida."
-        },
-        {
-          "letter": "C",
-          "text": "Solo una lista de ventajas y desventajas sin conclusión",
-          "is_correct": false,
-          "feedback": "Incorrect. Un ensayo debe tener una tesis y una conclusión."
-        },
-        {
-          "letter": "D",
-          "text": "Introducción larga, desarrollo sin argumentos, conclusión que contradice la introducción",
-          "is_correct": false,
-          "feedback": "Incorrect. El ensayo debe ser coherente."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Un buen ensayo argumentativo debe: 1) Tener una tesis clara, 2) Presentar argumentos con evidencia, 3) Reconocer y refutar contraargumentos (esto muestra que el autor consideró otras perspectivas), 4) Concluir reforzando la tesis.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Create",
-      "icfes_type": "Pensamiento crítico",
-      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura-critica",
-      "grade": 9,
-      "country": "co"
-    },
-    {
       "id": "CO-LC-9-2026-P1-P4-comprehensive-001-MASTERY-v1",
       "statement": "¿Cuál de las siguientes es la principal característica de un texto narrativo?",
       "context": "En clase de lengua castellana, los estudiantes estudian las tipologías textuales.",
@@ -1350,6 +675,681 @@
       "bloom": "Evaluate",
       "icfes_type": "Pensamiento Reflexivo y Sistémico",
       "bundle_id": "CO-LC-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v1",
+      "statement": "¿Cuáles son las tres partes fundamentales de un ensayo?",
+      "context": "En clase de lenguaje en Bogotá, la profesora explica la estructura del ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto, verbo y predicado",
+          "is_correct": false,
+          "feedback": "Incorrect. Esos son elementos de la oración, no del ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "Introducción, desarrollo (cuerpo argumentativo) y conclusión",
+          "is_correct": true,
+          "feedback": "Correct. El ensayo tiene una estructura de tres partes: introduce el tema, lo desarrolla argumentativamente y cierra con una conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Planteamiento, nudo y desenlace",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es la estructura de la narración, no del ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Título, subtítulo y párrafos",
+          "is_correct": false,
+          "feedback": "Incorrect. Esos son elementos formales, no la estructura argumentativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo es un texto argumentativo breve donde el autor expone su punto de vista sobre un tema. Su estructura clásica: introducción (presenta el tema y la tesis), desarrollo (argumentos, ejemplos, contraargumentos) y conclusión (síntesis y cierre).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v2",
+      "statement": "¿Quién fue el filósofo griego que desarrolló el método de la mayéutica (diálogo para llegar a la verdad)?",
+      "context": "Se estudian las principales corrientes filosóficas de la antigüedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aristóteles",
+          "is_correct": false,
+          "feedback": "Incorrect. Aristóteles desarrolló la lógica formal, no la mayéutica."
+        },
+        {
+          "letter": "B",
+          "text": "Sócrates",
+          "is_correct": true,
+          "feedback": "Correct. Sócrates usaba el diálogo y la mayéutica para hacer que sus interlocutores descubrieran la verdad por sí mismos."
+        },
+        {
+          "letter": "C",
+          "text": "Platón",
+          "is_correct": false,
+          "feedback": "Incorrect. Platón escribió los diálogos socráticos pero el método mayéutico es de Sócrates."
+        },
+        {
+          "letter": "D",
+          "text": "Heráclito",
+          "is_correct": false,
+          "feedback": "Incorrect. Heráclito es conocido por su filosofía del cambio (\"todo fluye\")."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sócrates (470-399 a.C.) no escribió libros, pero su método de enseñanza (mayéutica) consistía en hacer preguntas para llevar al interlocutor a cuestionar sus propias creencias y descubrir la verdad por sí mismo. Su lema: \"Solo sé que no sé nada\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v3",
+      "statement": "Según el texto, ¿qué implica que el ser humano sea \"social por naturaleza\"?",
+      "context": "Un estudiante lee el siguiente fragmento: \"El hombre es un ser social por naturaleza. Quien vive aislado no es ni un animal ni un dios, sino una bestia o una divinidad.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que puede elegir si vivir en sociedad o no.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Por naturaleza\" implica que no es opcional."
+        },
+        {
+          "letter": "B",
+          "text": "Que la sociabilidad es inherente al ser humano, no puede desarrollarse plenamente fuera de la sociedad.",
+          "is_correct": true,
+          "feedback": "Correct. La frase sugiere que la vida en sociedad es esencial para la realización humana."
+        },
+        {
+          "letter": "C",
+          "text": "Que todos los humanos son iguales en sociedad.",
+          "is_correct": false,
+          "feedback": "Incorrect. El texto no habla de igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Que los humanos son mejores que los animales.",
+          "is_correct": false,
+          "feedback": "Incorrect. El texto compara pero no afirma superioridad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aristóteles afirmó en su \"Política\" que el ser humano es un \"animal político\" (zoon politikon). Esto significa que la sociedad no es un lujo sino una necesidad para la realización plena del ser humano.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v4",
+      "statement": "¿Cuál es la tesis del ensayo?",
+      "context": "Se analiza un ensayo corto sobre el impacto de las redes sociales. El autor afirma en la introducción: \"Las redes sociales han transformado la comunicación, pero también han generado nuevas formas de aislamiento social.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las redes sociales son malas y deben eliminarse",
+          "is_correct": false,
+          "feedback": "Incorrect. La tesis es más matizada."
+        },
+        {
+          "letter": "B",
+          "text": "Las redes sociales solo tienen efectos positivos",
+          "is_correct": false,
+          "feedback": "Incorrect. La tesis menciona también aspectos negativos."
+        },
+        {
+          "letter": "C",
+          "text": "Las redes sociales han transformado la comunicación pero también generan aislamiento",
+          "is_correct": true,
+          "feedback": "Correct. La tesis presenta una postura equilibrada: reconoce beneficios y problemas."
+        },
+        {
+          "letter": "D",
+          "text": "Las redes sociales no han cambiado nada en la comunicación humana",
+          "is_correct": false,
+          "feedback": "Incorrect. La tesis afirma que sí han transformado la comunicación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis es la idea principal que el autor defiende en un ensayo. Se presenta generalmente en la introducción y guía todo el desarrollo argumentativo. Una buena tesis es clara, debatible y específica.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes sería una tesis adecuada para este ensayo?",
+      "context": "Un estudiante debe escribir un ensayo sobre el cuidado del medio ambiente en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El medio ambiente es importante.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es muy general y no es debatible."
+        },
+        {
+          "letter": "B",
+          "text": "\"Colombia es un país con mucha agua.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es un hecho, no una tesis argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "\"La deforestación en la Amazonía colombiana requiere políticas más estrictas y una mayor participación de las comunidades indígenas para ser detenida.\"",
+          "is_correct": true,
+          "feedback": "Correct. Es específica, debatible y plantea una postura clara que se puede argumentar."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los árboles son bonitos.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una opinión subjetiva no argumentativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis efectiva debe ser: 1) Específica (no general), 2) Debatible (no un hecho obvio), 3) Clara (fácil de entender), 4) Argumentable (se puede respaldar con evidencia).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v6",
+      "statement": "¿Qué representa el \"Mito de la Caverna\" de Platón?",
+      "context": "Se lee un fragmento del \"Mito de la Caverna\" de Platón, donde unos prisioneros solo ven sombras en una pared y creen que esa es la realidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el conocimiento verdadero se obtiene solo a través de los sentidos",
+          "is_correct": false,
+          "feedback": "Incorrect. Platón criticaba el conocimiento basado solo en sentidos."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia entre la apariencia (mundo sensible) y la realidad verdadera (mundo de las Ideas), y el proceso de acceder al conocimiento auténtico",
+          "is_correct": true,
+          "feedback": "Correct. La caverna representa el mundo de las apariencias; salir de ella, el camino hacia el conocimiento verdadero."
+        },
+        {
+          "letter": "C",
+          "text": "Que es mejor permanecer en la ignorancia porque la verdad duele",
+          "is_correct": false,
+          "feedback": "Incorrect. Platón defendía la búsqueda de la verdad."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los seres humanos son iguales en conocimiento",
+          "is_correct": false,
+          "feedback": "Incorrect. La alegoría muestra diferentes niveles de conocimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Mito de la Caverna (Libro VII de \"La República\") es una alegoría sobre el conocimiento: los prisioneros (ignorancia), las sombras (apariencia), la salida (educación), el mundo exterior (conocimiento verdadero o mundo de las Ideas).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v7",
+      "statement": "¿Qué tipo de razonamiento se emplea en este argumento?",
+      "context": "Se presenta un argumento: \"Todos los estudiantes de noveno grado deben usar uniforme. María es estudiante de noveno grado. Por lo tanto, María debe usar uniforme.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Razonamiento inductivo (de lo particular a lo general)",
+          "is_correct": false,
+          "feedback": "Incorrect. Va de lo general a lo particular."
+        },
+        {
+          "letter": "B",
+          "text": "Razonamiento deductivo (silogismo: de una premisa general a una conclusión particular)",
+          "is_correct": true,
+          "feedback": "Correct. Es un silogismo clásico: premisa mayor, premisa menor y conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Razonamiento analógico (comparación)",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay comparación entre dos casos."
+        },
+        {
+          "letter": "D",
+          "text": "Razonamiento causal (causa-efecto)",
+          "is_correct": false,
+          "feedback": "Incorrect. No establece una relación causal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El razonamiento deductivo va de lo general a lo particular. El silogismo fue desarrollado por Aristóteles. Si las premisas son verdaderas, la conclusión necesariamente lo es.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento crítico",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v8",
+      "statement": "¿Qué tipo de evidencia usa el autor y es suficiente para sostener su tesis?",
+      "context": "Un ensayo argumenta que \"la tecnología está destruyendo la capacidad de concentración de los jóvenes.\" Como evidencia, el autor cita un estudio que muestra que los jóvenes pasan 6 horas diarias en redes sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evidencia estadística suficiente: 6 horas en redes sociales demuestra falta de concentración",
+          "is_correct": false,
+          "feedback": "Incorrect. Las horas en redes no miden directamente la capacidad de concentración."
+        },
+        {
+          "letter": "B",
+          "text": "Evidencia anecdótica: suficiente porque todos los jóvenes usan tecnología",
+          "is_correct": false,
+          "feedback": "Incorrect. Las anécdotas no son evidencia suficiente."
+        },
+        {
+          "letter": "C",
+          "text": "Evidencia estadística, pero insuficiente: correlación no implica causalidad. Las horas en redes no demuestran que la capacidad de concentración haya disminuido.",
+          "is_correct": true,
+          "feedback": "Correct. Se necesitaría medir la capacidad de concentración antes y después, no solo el tiempo en redes sociales."
+        },
+        {
+          "letter": "D",
+          "text": "No usa evidencia, solo opinión",
+          "is_correct": false,
+          "feedback": "Incorrect. Sí usa una estadística, pero es insuficiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un ensayo argumentativo, la evidencia debe ser suficiente, pertinente y fiable. La falacia de \"correlación no implica causalidad\" es común: el hecho de que dos cosas ocurran juntas no significa que una cause la otra.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v9",
+      "statement": "¿En qué consiste la falacia del falso dilema?",
+      "context": "Se estudia la falacia del \"falso dilema\": \"O estás con nosotros o estás contra nosotros.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar solo dos opciones cuando existen más alternativas",
+          "is_correct": false,
+          "feedback": "Correct. Esta falacia reduce artificialmente las opciones posibles."
+        },
+        {
+          "letter": "B",
+          "text": "Atacar a la persona que argumenta en lugar de al argumento",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es la falacia ad hominem."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir una idea muchas veces para que parezca verdadera",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es la falacia de repetición."
+        },
+        {
+          "letter": "D",
+          "text": "Usar una autoridad no experta para respaldar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa es la falacia de autoridad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar falacias es una habilidad clave del pensamiento crítico. El falso dilema (o falsa dicotomía) limita las opciones para forzar una conclusión. Ejemplo: \"O apruebas esta ley o habrá caos\" ignora otras posibilidades.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento crítico",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v10",
+      "statement": "¿Qué falacia lógica se está cometiendo?",
+      "context": "Un político dice: \"No debemos escuchar las críticas de mi oponente porque él fue condenado por evasión de impuestos hace 10 años.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falso dilema",
+          "is_correct": false,
+          "feedback": "Incorrect. No se presentan solo dos opciones."
+        },
+        {
+          "letter": "B",
+          "text": "Petición de principio",
+          "is_correct": false,
+          "feedback": "Incorrect. No se asume la conclusión como premisa."
+        },
+        {
+          "letter": "C",
+          "text": "Ad hominem (atacar a la persona en lugar de al argumento)",
+          "is_correct": true,
+          "feedback": "Correct. En lugar de refutar la crítica, se ataca al crítico por su pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Generalización apresurada",
+          "is_correct": false,
+          "feedback": "Incorrect. No se generaliza a partir de una muestra pequeña."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia ad hominem (literalmente \"contra el hombre\") ocurre cuando se ataca a la persona que presenta un argumento en lugar de refutar el argumento mismo. Es una de las falacias más comunes en debates políticos.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento crítico",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v11",
+      "statement": "¿Qué error de razonamiento contiene este argumento?",
+      "context": "Se analiza un texto que dice: \"El calentamiento global es un mito. Hace unos días nevó en Bogotá, lo que demuestra que el clima no se está calentando.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un argumento válido científicamente",
+          "is_correct": false,
+          "feedback": "Incorrect. La nieve en un lugar no contradice el calentamiento global."
+        },
+        {
+          "letter": "B",
+          "text": "Confunde clima (tendencias a largo plazo) con tiempo meteorológico (eventos locales y cortos). Una nevada local no refuta el calentamiento global.",
+          "is_correct": true,
+          "feedback": "Correct. El clima se mide en décadas, el tiempo atmosférico en días."
+        },
+        {
+          "letter": "C",
+          "text": "Usa evidencia estadística sólida",
+          "is_correct": false,
+          "feedback": "Incorrect. Usa una anécdota como si fuera evidencia global."
+        },
+        {
+          "letter": "D",
+          "text": "Es un razonamiento deductivo correcto",
+          "is_correct": false,
+          "feedback": "Incorrect. La conclusión no se sigue de la premisa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia de \"confundir clima con tiempo\" es común en debates sobre cambio climático. El clima es el promedio del tiempo atmosférico durante 30 años. Un evento climático local no refuta la tendencia global.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento crítico",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v12",
+      "statement": "¿Qué problema buscaba resolver Descartes con esta afirmación?",
+      "context": "Se lee: \"El filósofo Descartes afirmó 'Pienso, luego existo' (Cogito, ergo sum) como primera certeza indudable.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que Dios existe",
+          "is_correct": false,
+          "feedback": "Incorrect. Descartes usó el cogito como base, luego demostró a Dios."
+        },
+        {
+          "letter": "B",
+          "text": "Probar que todo conocimiento es imposible",
+          "is_correct": false,
+          "feedback": "Incorrect. Buscaba una base segura para el conocimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Encontrar una verdad indudable a partir de la cual construir todo el conocimiento, después de dudar metódicamente de todo",
+          "is_correct": true,
+          "feedback": "Correct. Descartes dudó de todo (duda metódica) hasta encontrar el cogito como primera certeza."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el cuerpo es más importante que la mente",
+          "is_correct": false,
+          "feedback": "Incorrect. Descartes defendía el dualismo mente-cuerpo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "René Descartes (1596-1650), considerado el padre de la filosofía moderna, usó la duda metódica para encontrar una base segura para el conocimiento. \"Pienso, luego existo\" es la primera certeza que resiste cualquier duda.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v13",
+      "statement": "Evalúe la validez de esta conclusión.",
+      "context": "Un ensayo concluye: \"La educación virtual es superior a la presencial. Esto se demuestra porque durante la pandemia los estudiantes aprendieron desde casa.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión es válida porque la pandemia demostró que se puede aprender desde casa",
+          "is_correct": false,
+          "feedback": "Incorrect. Sobrevivir no equivale a superioridad."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión es válida porque hay evidencia estadística",
+          "is_correct": false,
+          "feedback": "Incorrect. No se presentan estadísticas comparativas."
+        },
+        {
+          "letter": "C",
+          "text": "La conclusión no es válida. La pandemia fue una situación de emergencia, no un experimento controlado. Además, \"aprender desde casa\" no demuestra que la educación virtual sea superior en calidad.",
+          "is_correct": true,
+          "feedback": "Correct. Se necesita evidencia comparativa de resultados de aprendizaje, no solo la factibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión es válida porque la tecnología siempre mejora la educación",
+          "is_correct": false,
+          "feedback": "Incorrect. Es una generalización sin evidencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar argumentos requiere examinar si la evidencia respalda la conclusión. Aquí se comete una falacia de generalización apresurada: de una situación excepcional (pandemia) se saca una conclusión general sobre superioridad pedagógica.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento crítico",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v14",
+      "statement": "¿Qué tipo de estructura argumentativa tiene este texto?",
+      "context": "Se analiza un texto que contiene múltiples argumentos: \"Colombia debe invertir más en educación rural porque: 1) reduce la desigualdad, 2) mejora la productividad agrícola, 3) disminuye la migración forzada a las ciudades.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura narrativa: cuenta una historia sobre la educación rural",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay narración de eventos."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura argumentativa múltiple: una tesis respaldada por varias razones independientes (argumentos en paralelo)",
+          "is_correct": true,
+          "feedback": "Correct. La tesis se apoya en tres argumentos diferentes que convergen en la misma conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura contraargumentativa: presenta y refuta objeciones",
+          "is_correct": false,
+          "feedback": "Incorrect. Solo presenta argumentos a favor."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura descriptiva: solo describe la situación sin tomar postura",
+          "is_correct": false,
+          "feedback": "Incorrect. Sí hay una tesis clara y argumentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos argumentativos pueden tener diferentes estructuras: argumentación en paralelo (varias razones independientes para una tesis), en cadena (argumentos que se apoyan entre sí) o contraargumentativa (presenta y refuta objeciones).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión de textos",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-v15",
+      "statement": "¿Cuál de los siguientes esquemas representa la mejor estructura para un ensayo argumentativo sobre este tema?",
+      "context": "Un estudiante debe escribir un ensayo sobre la pregunta: \"¿Es la inteligencia artificial una amenaza para el empleo juvenil en Colombia?\" Debe planificar su estructura argumentativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducción (cuento personal), desarrollo (anécdotas), conclusión (opinión)",
+          "is_correct": false,
+          "feedback": "Incorrect. Un ensayo académico requiere argumentos, no solo anécdotas."
+        },
+        {
+          "letter": "B",
+          "text": "Introducción (contexto + tesis clara), desarrollo (argumento 1: IA elimina empleos rutinarios, argumento 2: IA crea nuevos empleos tecnológicos, contraargumento y refutación), conclusión (síntesis y postura final)",
+          "is_correct": true,
+          "feedback": "Correct. Esta estructura presenta tesis, argumentos, reconoce posiciones contrarias y cierra con una conclusión sólida."
+        },
+        {
+          "letter": "C",
+          "text": "Solo una lista de ventajas y desventajas sin conclusión",
+          "is_correct": false,
+          "feedback": "Incorrect. Un ensayo debe tener una tesis y una conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "Introducción larga, desarrollo sin argumentos, conclusión que contradice la introducción",
+          "is_correct": false,
+          "feedback": "Incorrect. El ensayo debe ser coherente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen ensayo argumentativo debe: 1) Tener una tesis clara, 2) Presentar argumentos con evidencia, 3) Reconocer y refutar contraargumentos (esto muestra que el autor consideró otras perspectivas), 4) Concluir reforzando la tesis.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Create",
+      "icfes_type": "Pensamiento crítico",
+      "bundle_id": "CO-LC-9-2026-P1-comprehensive-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,

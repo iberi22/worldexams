@@ -8,6 +8,2061 @@
   },
   "questions": [
     {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v1",
+      "statement": "¿Cuándo y dónde se adoptó la Declaración Universal de los Derechos Humanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En 1789, durante la Revolución Francesa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese año se proclamó la Declaración de los Derechos del Hombre y del Ciudadano, no la DUDH."
+        },
+        {
+          "letter": "B",
+          "text": "En 1948, por la Asamblea General de las Naciones Unidas en París",
+          "is_correct": true,
+          "feedback": "Correcto. La DUDH fue adoptada el 10 de diciembre de 1948."
+        },
+        {
+          "letter": "C",
+          "text": "En 1991, con la nueva Constitución colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución colombiana incorpora los DDHH, pero la DUDH es anterior."
+        },
+        {
+          "letter": "D",
+          "text": "En 1919, al finalizar la Primera Guerra Mundial",
+          "is_correct": false,
+          "feedback": "Incorrecto. La DUDH se adoptó después de la Segunda Guerra Mundial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Declaración Universal de Derechos Humanos de 1948 fue una respuesta a las atrocidades de la Segunda Guerra Mundial y el Holocausto. Por primera vez en la historia, la comunidad internacional acordó un conjunto de derechos que todas las personas tienen por el simple hecho de ser humanas, sin importar su nacionalidad, raza, religión o género.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v2",
+      "statement": "¿Cuántos artículos tiene la Declaración Universal de los Derechos Humanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son muchos más."
+        },
+        {
+          "letter": "B",
+          "text": "50 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son menos."
+        },
+        {
+          "letter": "C",
+          "text": "30 artículos",
+          "is_correct": true,
+          "feedback": "Correcto. La DUDH contiene 30 artículos que detallan derechos civiles, políticos, económicos, sociales y culturales."
+        },
+        {
+          "letter": "D",
+          "text": "100 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La DUDH no tiene tantos artículos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los 30 artículos de la DUDH cubren derechos como la vida (art. 3), la prohibición de la esclavitud (art. 4), la libertad de expresión (art. 19), la educación (art. 26) y el derecho al trabajo (art. 23). Es el documento más traducido del mundo, disponible en más de 500 idiomas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v3",
+      "statement": "¿Cuáles son las tres generaciones de derechos humanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos antiguos, modernos y futuros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es esa la clasificación."
+        },
+        {
+          "letter": "B",
+          "text": "Derechos civiles y políticos (1° generación), derechos económicos, sociales y culturales (2° generación), y derechos de solidaridad o colectivos (3° generación)",
+          "is_correct": true,
+          "feedback": "Correcto. Es la clasificación histórica de los DDHH."
+        },
+        {
+          "letter": "C",
+          "text": "Derechos individuales, familiares y comunitarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la clasificación estándar."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos nacionales, internacionales y globales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a las generaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los derechos de primera generación (libertad) surgen de las revoluciones burguesas del siglo XVIII. Los de segunda generación (igualdad) emergen de las luchas obreras del siglo XIX y XX. Los de tercera generación (solidaridad) son más recientes, del siglo XX y XXI, e incluyen el derecho al desarrollo, la paz y un medio ambiente sano.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v4",
+      "statement": "¿Cuál de los siguientes es un derecho de primera generación (derechos civiles y políticos)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un derecho de segunda generación."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la vivienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. También de segunda generación."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la libertad de expresión",
+          "is_correct": true,
+          "feedback": "Correcto. La libertad de expresión es un derecho civil de primera generación."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho al medio ambiente sano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es de tercera generación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los derechos de primera generación son aquellos que protegen la libertad individual frente al Estado. Incluyen: derecho a la vida, libertad de pensamiento, libertad de expresión, libertad religiosa, derecho al voto, derecho a un juicio justo y la prohibición de la tortura y la esclavitud.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v5",
+      "statement": "¿Qué organismo de la ONU es el principal encargado de velar por la protección de los derechos humanos en el mundo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La FAO (Organización para la Alimentación y la Agricultura)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La FAO se ocupa de la alimentación, no de DDHH en general."
+        },
+        {
+          "letter": "B",
+          "text": "La OMS (Organización Mundial de la Salud)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La OMS se enfoca en la salud."
+        },
+        {
+          "letter": "C",
+          "text": "El Consejo de Derechos Humanos de la ONU y la Oficina del Alto Comisionado para los Derechos Humanos",
+          "is_correct": true,
+          "feedback": "Correcto. Son los organismos principales para la protección y promoción de los DDHH a nivel global."
+        },
+        {
+          "letter": "D",
+          "text": "La UNESCO (Organización para la Educación, la Ciencia y la Cultura)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La UNESCO trabaja en educación y cultura, no es el principal organismo de DDHH."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Consejo de Derechos Humanos de la ONU, con sede en Ginebra, examina la situación de DDHH en todos los países miembros. La Oficina del Alto Comisionado (ACNUDH) investiga violaciones y brinda asistencia técnica. Colombia se ha sometido voluntariamente a varios mecanismos de revisión internacional de DDHH.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v6",
+      "statement": "Un grupo de indígenas en Colombia denuncia que una empresa minera está contaminando sus fuentes de agua sin consultarles. ¿Qué derecho humano está siendo vulnerado además del derecho al ambiente sano?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a tener un automóvil",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un derecho humano reconocido internacionalmente."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la consulta previa, libre e informada de los pueblos indígenas",
+          "is_correct": true,
+          "feedback": "Correcto. El Convenio 169 de la OIT protege este derecho, que es vinculante para Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a no pagar impuestos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un derecho humano."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a la propiedad intelectual de la empresa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad intelectual no está por encima de los derechos indígenas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La consulta previa es un derecho fundamental de los pueblos indígenas y afrocolombianos. El Convenio 169 de la OIT y la jurisprudencia de la Corte Constitucional colombiana establecen que antes de realizar proyectos en sus territorios, el Estado debe consultarlos de manera libre, previa e informada.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v7",
+      "statement": "Si una persona considera que el Estado colombiano violó sus derechos humanos y no encontró justicia en los tribunales nacionales, ¿a qué organismo internacional puede acudir?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al Consejo de Seguridad de la ONU",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Consejo de Seguridad se ocupa de la paz y seguridad internacional, no de casos individuales."
+        },
+        {
+          "letter": "B",
+          "text": "A la Corte Interamericana de Derechos Humanos (Corte IDH)",
+          "is_correct": true,
+          "feedback": "Correcto. La Corte IDH es el tribunal regional que juzga violaciones de DDHH en los países miembros de la OEA."
+        },
+        {
+          "letter": "C",
+          "text": "A la FIFA (Federación Internacional de Fútbol)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La FIFA regula el fútbol, no los DDHH."
+        },
+        {
+          "letter": "D",
+          "text": "A la Interpol (Policía Internacional)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpol coopera en temas policiales, pero no juzga violaciones de DDHH."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia reconoce la competencia de la Corte Interamericana de Derechos Humanos desde 1985. Si una persona agota los recursos internos sin obtener justicia, puede presentar una petición ante la Comisión Interamericana de Derechos Humanos (CIDH), que puede llevar el caso a la Corte.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v8",
+      "statement": "En Colombia, un periodista es amenazado por publicar información sobre corrupción. ¿Qué derecho humano está en riesgo y qué organismos deben protegerlo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho al entretenimiento; debe llamar a Netflix",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un derecho ni el organismo adecuado."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la libertad de expresión y a la vida; el Estado colombiano a través de la Fiscalía y la UNP (Unidad Nacional de Protección) deben protegerlo",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado tiene la obligación de proteger a los periodistas amenazados."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la propiedad intelectual; debe acudir a la Cámara de Comercio",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de propiedad intelectual."
+        },
+        {
+          "letter": "D",
+          "text": "No hay derecho vulnerado porque los periodistas pueden dedicarse a otra cosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libertad de expresión es un derecho humano fundamental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia es uno de los países más peligrosos del mundo para el ejercicio del periodismo. La Unidad Nacional de Protección (UNP) es la entidad estatal encargada de proteger a periodistas, líderes sociales y defensores de DDHH que estén en riesgo. A pesar de esto, muchos periodistas colombianos han sido asesinados.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v9",
+      "statement": "¿Por qué los derechos humanos se consideran \"universales, indivisibles e interdependientes\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada país puede elegir qué derechos aplicar y cuáles no",
+          "is_correct": false,
+          "feedback": "Incorrecto. La universalidad significa que aplican a todas las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque algunos derechos son más importantes que otros y pueden separarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indivisibilidad significa que no hay jerarquía entre ellos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque pertenecen a todas las personas por igual, no pueden separarse unos de otros, y la violación de un derecho afecta el ejercicio de los demás",
+          "is_correct": true,
+          "feedback": "Correcto. Estos principios fueron reafirmados en la Conferencia Mundial de DDHH de Viena en 1993."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo aplican en los países que firmaron la DUDH",
+          "is_correct": false,
+          "feedback": "Incorrecto. La DUDH se considera un estándar universal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Estos tres principios son fundamentales: universales (aplican a todas las personas sin excepción), indivisibles (no se puede elegir cuáles cumplir: los derechos civiles y políticos son tan importantes como los económicos y sociales), e interdependientes (sin educación no se puede ejercer la libertad de expresión; sin salud no se puede participar políticamente).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v10",
+      "statement": "¿Qué relación existe entre el conflicto armado colombiano y la violación de derechos humanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay relación, el conflicto armado no viola derechos humanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto armado ha sido la principal causa de violaciones."
+        },
+        {
+          "letter": "B",
+          "text": "El conflicto solo ha afectado derechos económicos, no los fundamentales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ha afectado todos los tipos de derechos."
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto armado ha generado violaciones masivas de DDHH: desplazamiento forzado, desapariciones, asesinatos, reclutamiento de menores y violencia sexual",
+          "is_correct": true,
+          "feedback": "Correcto. El conflicto ha tenido un impacto devastador en los DDHH en Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "El conflicto armado ha mejorado los derechos humanos en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ha sido la principal causa de su violación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Según el Registro Único de Víctimas, más de 9 millones de colombianos han sido víctimas del conflicto armado. El desplazamiento forzado es la violación más masiva, con más de 8 millones de personas obligadas a abandonar sus hogares. La Jurisdicción Especial para la Paz (JEP) busca juzgar estas graves violaciones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v11",
+      "statement": "¿Cuál es la relación entre los Objetivos de Desarrollo Sostenible (ODS) y los derechos humanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay relación, son temas completamente diferentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ODS están profundamente vinculados a los DDHH."
+        },
+        {
+          "letter": "B",
+          "text": "Los ODS reemplazan a los derechos humanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ODS complementan y buscan hacer efectivos los DDHH."
+        },
+        {
+          "letter": "C",
+          "text": "Los ODS están basados en la DUDH y buscan garantizar condiciones para que los derechos humanos se hagan realidad: fin de la pobreza, educación de calidad, igualdad de género, etc.",
+          "is_correct": true,
+          "feedback": "Correcto. Los 17 ODS están alineados con los principios de la Declaración Universal."
+        },
+        {
+          "letter": "D",
+          "text": "Los ODS solo aplican en Europa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ODS son una agenda global adoptada por todos los países de la ONU, incluyendo Colombia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los ODS (Agenda 2030) fueron adoptados por la ONU en 2015. Objetivos como \"Hambre Cero\" (ODS 2), \"Salud y Bienestar\" (ODS 3), \"Educación de Calidad\" (ODS 4) e \"Igualdad de Género\" (ODS 5) están directamente relacionados con la realización de derechos humanos económicos, sociales y culturales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v12",
+      "statement": "¿Qué es el derecho internacional humanitario (DIH) y en qué se diferencia de los derechos humanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es lo mismo que los derechos humanos con otro nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay diferencias importantes."
+        },
+        {
+          "letter": "B",
+          "text": "El DIH es el conjunto de normas que se aplican durante los conflictos armados para limitar sus efectos y proteger a las personas que no participan en las hostilidades. Se diferencia de los DDHH porque aplica específicamente en contextos de guerra",
+          "is_correct": true,
+          "feedback": "Correcto. El DIH se conoce como \"Derecho de la Guerra\"."
+        },
+        {
+          "letter": "C",
+          "text": "El DIH protege solo a los soldados, no a los civiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. El DIH protege especialmente a los civiles."
+        },
+        {
+          "letter": "D",
+          "text": "El DIH es una ley colombiana, no internacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conjunto de tratados internacionales como los Convenios de Ginebra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia ha sido un campo de aplicación del DIH debido a su prolongado conflicto armado. Principios fundamentales del DIH son: distinción (separar combatientes de civiles), proporcionalidad (no usar fuerza excesiva) y limitación (no causar sufrimiento innecesario). La Corte Penal Internacional puede juzgar violaciones graves del DIH.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v13",
+      "statement": "¿Por qué la defensa de los derechos humanos es considerada una labor peligrosa en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los defensores de DDHH son delincuentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los defensores de DDHH protegen derechos legítimos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los líderes sociales y defensores de DDHH son amenazados y asesinados por grupos armados por denunciar violaciones y defender a comunidades vulnerables",
+          "is_correct": true,
+          "feedback": "Correcto. Colombia es uno de los países más peligrosos para ser defensor de DDHH."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la Constitución colombiana prohíbe defender los DDHH",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución los protege y promueve."
+        },
+        {
+          "letter": "D",
+          "text": "Porque defender los DDHH es ilegal en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un derecho y un deber constitucional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Según organizaciones internacionales, Colombia es uno de los países donde más defensores de DDHH son asesinados cada año. Líderes indígenas, afrocolombianos, campesinos y ambientales son blanco de ataques por oponerse a proyectos mineros, palmicultoras o grupos armados. El Estado ha implementado programas de protección pero la violencia persiste.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v14",
+      "statement": "Analiza: la libertad de expresión es un derecho humano fundamental (art. 19 DUDH), pero también existe el derecho al honor y a la buena reputación. ¿Qué ocurre cuando alguien usa la libertad de expresión para difamar o mentir sobre otra persona?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libertad de expresión es absoluta y no tiene límites",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún derecho humano es absoluto."
+        },
+        {
+          "letter": "B",
+          "text": "Los derechos humanos tienen límites para proteger los derechos de los demás. La difamación y la calumnia no están protegidas por la libertad de expresión.",
+          "is_correct": true,
+          "feedback": "Correcto. El derecho al honor es un límite legítimo a la libertad de expresión."
+        },
+        {
+          "letter": "C",
+          "text": "La libertad de expresión solo aplica para políticos, no para ciudadanos comunes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un derecho universal."
+        },
+        {
+          "letter": "D",
+          "text": "La difamación es un derecho protegido por la DUDH",
+          "is_correct": false,
+          "feedback": "Incorrecto. La DUDH protege la expresión, no la mentira o la difamación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ningún derecho humano es absoluto: todos tienen límites en los derechos de los demás y en el orden público. La libertad de expresión no protege la pornografía infantil, la incitación al genocidio, la difamación o las amenazas. En Colombia, la Corte Constitucional ha desarrollado una jurisprudencia sofisticada sobre el balance entre libertad de expresión y derecho al honor.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-v15",
+      "statement": "Analiza el siguiente dilema: una empresa minera ofrece empleo y desarrollo económico a una región pobre de Colombia, pero para operar necesita el territorio donde vive una comunidad indígena. Si se reubica a la comunidad, se viola su derecho a la identidad cultural y al territorio. Si no se hace el proyecto, la región pierde inversión y empleo. ¿Cómo debería resolverse este conflicto de derechos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La empresa debe imponer el proyecto porque el desarrollo económico está por encima de los derechos indígenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos humanos no pueden sacrificarse por el desarrollo económico."
+        },
+        {
+          "letter": "B",
+          "text": "La comunidad indígena debe aceptar la reubicación sin condiciones porque la minería es más importante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pueblos indígenas tienen derecho a la consulta previa y a decidir sobre su territorio."
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto debe resolverse mediante un proceso de consulta previa, libre e informada, buscando acuerdos que respeten los derechos de la comunidad y consideren alternativas de desarrollo",
+          "is_correct": true,
+          "feedback": "Correcto. El diálogo y la consulta previa son los mecanismos constitucionales para resolver estos conflictos."
+        },
+        {
+          "letter": "D",
+          "text": "La policía debe desalojar a la comunidad por la fuerza para que la empresa pueda operar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desalojo forzoso sería una violación grave de derechos humanos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este dilema refleja conflictos reales en Colombia, como los que ocurren en Chocó, La Guajira y el Cauca. La Corte Constitucional ha establecido que la consulta previa no es un simple trámite: debe ser un proceso de diálogo de buena fe, con el objetivo de llegar a un acuerdo. Si no hay acuerdo, el proyecto no puede realizarse si afecta derechos fundamentales de la comunidad.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.35,
+      "bundle_id": "CO-SOC-7-2026-P1-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v1",
+      "statement": "¿Qué es la globalización?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El proceso mediante el cual un país conquista a otros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es colonialismo, no globalización."
+        },
+        {
+          "letter": "B",
+          "text": "El proceso de interconexión económica, política, cultural y tecnológica a escala mundial",
+          "is_correct": true,
+          "feedback": "Correcto. La globalización integra mercados, sociedades y culturas alrededor del mundo."
+        },
+        {
+          "letter": "C",
+          "text": "La construcción de un gobierno mundial único",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe un gobierno mundial."
+        },
+        {
+          "letter": "D",
+          "text": "La creación de una moneda única para todos los países",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada país o región mantiene su moneda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La globalización es un proceso complejo que ha acelerado la interconexión del mundo desde finales del siglo XX. Gracias a la tecnología, el comercio y los medios de comunicación, lo que ocurre en un país puede afectar rápidamente a otros. Colombia está profundamente integrada en este proceso.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes es un ejemplo de globalización económica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un colegio que solo enseña historia local",
+          "is_correct": false,
+          "feedback": "Incorrecto. No refleja interconexión global."
+        },
+        {
+          "letter": "B",
+          "text": "Un agricultor que vende sus productos solo en su vereda",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay conexión global."
+        },
+        {
+          "letter": "C",
+          "text": "Una empresa colombiana que exporta flores a Estados Unidos y Europa",
+          "is_correct": true,
+          "feedback": "Correcto. La exportación a múltiples países muestra integración económica global."
+        },
+        {
+          "letter": "D",
+          "text": "Un pueblo aislado que no tiene acceso a internet",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lo opuesto a la globalización."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La floricultura colombiana es un excelente ejemplo de globalización: las flores cultivadas en la Sabana de Bogotá se venden en supermercados de Estados Unidos, Europa y Asia. Colombia es el segundo exportador mundial de flores, lo que genera empleo y divisas para el país.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v3",
+      "statement": "¿Qué papel juega internet en la globalización cultural?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene ninguna influencia en la cultura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Internet transforma la cultura globalmente."
+        },
+        {
+          "letter": "B",
+          "text": "Solo sirve para que los jóvenes pierdan el tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una herramienta de intercambio cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Permite el intercambio instantáneo de información, música, cine y costumbres entre personas de diferentes países",
+          "is_correct": true,
+          "feedback": "Correcto. Internet ha acelerado la difusión cultural global."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplaza completamente las culturas locales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las culturas locales se adaptan, no desaparecen por completo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Internet ha sido el motor más importante de la globalización cultural. Un joven en Bogotá puede escuchar K-pop coreano, ver series turcas, jugar con alguien en Japón y usar aplicaciones creadas en Estados Unidos, todo en el mismo día. Esto crea una cultura global compartida, pero también plantea retos para la identidad cultural local.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v4",
+      "statement": "¿Qué son los Tratados de Libre Comercio (TLC) y cómo se relacionan con la globalización?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son acuerdos para evitar que los países comercien entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lo opuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Son acuerdos entre países para eliminar o reducir aranceles y barreras comerciales, facilitando el intercambio de bienes y servicios",
+          "is_correct": true,
+          "feedback": "Correcto. Los TLC son instrumentos clave de la globalización económica."
+        },
+        {
+          "letter": "C",
+          "text": "Son tratados militares entre países aliados",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son acuerdos militares."
+        },
+        {
+          "letter": "D",
+          "text": "Son acuerdos para unificar los idiomas de los países firmantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tienen relación con los idiomas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia tiene TLC con Estados Unidos, la Unión Europea, Canadá, México, Chile, Corea del Sur y otros países. Estos acuerdos buscan facilitar las exportaciones colombianas y atraer inversión extranjera, pero también exponen a la industria nacional a la competencia internacional.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v5",
+      "statement": "¿Qué es una multinacional o empresa transnacional?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una empresa que solo vende productos en su país de origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería una empresa nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Una empresa que opera en varios países del mundo, con sedes, fábricas o tiendas en diferentes naciones",
+          "is_correct": true,
+          "feedback": "Correcto. Las multinacionales son actores clave de la globalización."
+        },
+        {
+          "letter": "C",
+          "text": "Una empresa que pertenece a varios gobiernos simultáneamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden ser privadas."
+        },
+        {
+          "letter": "D",
+          "text": "Una tienda que vende productos importados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier tienda puede vender importados sin ser multinacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ejemplos de multinacionales presentes en Colombia son McDonald's, Coca-Cola, Microsoft, Toyota y Nestlé. Estas empresas llevan sus productos, marcas y formas de trabajar a diferentes países, generando empleo pero también compitiendo con empresas locales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v6",
+      "statement": "Un agricultor colombiano cultiva arroz y compite con arroz importado de Estados Unidos que es más barato. ¿Qué impacto de la globalización está experimentando?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un beneficio, porque puede comprar arroz extranjero más barato",
+          "is_correct": false,
+          "feedback": "Si bien como consumidor se beneficia, como productor está perdiendo mercado."
+        },
+        {
+          "letter": "B",
+          "text": "Ningún impacto, la globalización no afecta la agricultura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La globalización afecta profundamente la agricultura."
+        },
+        {
+          "letter": "C",
+          "text": "Un impacto negativo como productor local, al enfrentar competencia internacional que puede bajar sus ingresos y afectar su sustento",
+          "is_correct": true,
+          "feedback": "Correcto. La globalización crea ganadores y perdedores."
+        },
+        {
+          "letter": "D",
+          "text": "El agricultor debe dedicarse a otra actividad sin más",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis requiere entender los efectos, no solo una solución simplista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La globalización genera efectos contradictorios: mientras los consumidores se benefician de productos más baratos, los productores locales pueden verse afectados por la competencia internacional. Este dilema es central en el debate sobre el libre comercio y requiere políticas de protección y apoyo a los sectores vulnerables.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v7",
+      "statement": "¿Cómo ha afectado la globalización al idioma español en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El español ha desaparecido por completo en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español sigue siendo el idioma oficial."
+        },
+        {
+          "letter": "B",
+          "text": "La globalización no tiene relación con el idioma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La globalización tiene un fuerte impacto lingüístico."
+        },
+        {
+          "letter": "C",
+          "text": "Ha introducido muchos anglicismos (palabras del inglés) en el vocabulario cotidiano y ha hecho del inglés un idioma cada vez más necesario",
+          "is_correct": true,
+          "feedback": "Correcto. Términos como \"marketing\", \"software\", \"delivery\" son ejemplos de influencia del inglés en el español colombiano."
+        },
+        {
+          "letter": "D",
+          "text": "El inglés ha reemplazado al español en las escuelas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español sigue siendo la lengua principal de enseñanza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La globalización ha impulsado el aprendizaje del inglés como \"lengua global\" para los negocios, la tecnología y la ciencia. En Colombia, se han implementado programas de bilingüismo en las escuelas públicas. Al mismo tiempo, el español incorpora cada vez más palabras extranjeras, especialmente del inglés.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v8",
+      "statement": "Un colombiano trabaja en un call center que presta servicios a una empresa estadounidense. Sus compañeros están en México, India y Filipinas. ¿Qué tipo de globalización representa este empleo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Globalización agrícola",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un trabajo del campo."
+        },
+        {
+          "letter": "B",
+          "text": "Globalización industrial tradicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es manufactura."
+        },
+        {
+          "letter": "C",
+          "text": "Globalización de servicios y deslocalización (outsourcing)",
+          "is_correct": true,
+          "feedback": "Correcto. Los call centers son un ejemplo clásico de globalización de servicios."
+        },
+        {
+          "letter": "D",
+          "text": "Globalización cultural exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Involucra también lo económico y tecnológico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombia se ha convertido en un destino importante para la deslocalización de servicios (outsourcing) gracias a su huso horario cercano al de Estados Unidos, su nivel de inglés y sus costos competitivos. Ciudades como Bogotá, Medellín y Cali albergan cientos de call centers que prestan servicios a empresas globales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v9",
+      "statement": "¿Por qué la globalización puede aumentar la desigualdad entre países ricos y pobres?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los países pobres se niegan a participar en la globalización",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos países pobres participan activamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la globalización solo beneficia a los países del hemisferio sur",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los beneficios no se distribuyen equitativamente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los países ricos tienen tecnología, capital e industrias más desarrolladas, mientras que muchos países pobres solo exportan materias primas con bajo valor agregado",
+          "is_correct": true,
+          "feedback": "Correcto. Los términos de intercambio desiguales perpetúan la brecha."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la globalización elimina todas las fronteras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fronteras siguen existiendo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombia es un ejemplo de esta dinámica: exporta principalmente materias primas (petróleo, carbón, café, flores) que tienen precios volátiles y bajo valor agregado, mientras importa productos tecnológicos y manufacturados de alto valor. Esto crea una dependencia económica que limita el desarrollo industrial del país.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v10",
+      "statement": "¿Qué es la \"homogeneización cultural\" en el contexto de la globalización?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El enriquecimiento de todas las culturas del mundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las culturas se enriquecen por igual."
+        },
+        {
+          "letter": "B",
+          "text": "El aislamiento de las culturas locales para protegerlas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería lo opuesto a la homogeneización."
+        },
+        {
+          "letter": "C",
+          "text": "La tendencia a que las culturas se vuelvan más similares entre sí debido a la difusión global de productos, marcas y costumbres",
+          "is_correct": true,
+          "feedback": "Correcto. La homogeneización cultural preocupa a defensores de la diversidad cultural."
+        },
+        {
+          "letter": "D",
+          "text": "El intercambio equilibrado de tradiciones entre países",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercambio no es equilibrado: las culturas dominantes tienen más influencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En Colombia se ve la homogeneización cultural en la difusión de marcas globales (McDonald's, Starbucks, Netflix) y en la pérdida de tradiciones locales frente a costumbres importadas. Sin embargo, también hay resistencia cultural y revitalización de tradiciones indígenas y afrocolombianas como forma de preservar la identidad.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v11",
+      "statement": "¿Cómo afecta la globalización al medio ambiente global?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización siempre protege el medio ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene impactos negativos significativos."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta el transporte de mercancías por todo el mundo, lo que incrementa las emisiones de CO₂, y fomula el consumo de productos que requieren grandes cantidades de recursos naturales",
+          "is_correct": true,
+          "feedback": "Correcto. La huella ecológica de la globalización es enorme."
+        },
+        {
+          "letter": "C",
+          "text": "La globalización no tiene ningún efecto en el medio ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impacto ambiental es uno de los temas más debatidos."
+        },
+        {
+          "letter": "D",
+          "text": "Solo afecta positivamente porque permite compartir tecnologías verdes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay intercambio de tecnologías limpias, los impactos negativos son mayores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un ejemplo concreto: las flores colombianas que se venden en Estados Unidos viajan en avión, generando emisiones de carbono. La producción de bienes en un país para consumirlos en otro aumenta significativamente la huella de carbono global. Por eso surge el concepto de \"comercio justo\" y \"consumo local\" como alternativas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v12",
+      "statement": "¿Qué son los movimientos antiglobalización y qué critican?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son grupos que quieren más globalización y más libre comercio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Critican la globalización."
+        },
+        {
+          "letter": "B",
+          "text": "Son movimientos que defienden el colonialismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No defienden el colonialismo."
+        },
+        {
+          "letter": "C",
+          "text": "Son movimientos sociales que critican los efectos negativos de la globalización: desigualdad, explotación laboral, daño ambiental y pérdida de identidad cultural",
+          "is_correct": true,
+          "feedback": "Correcto. Critican el modelo neoliberal de globalización."
+        },
+        {
+          "letter": "D",
+          "text": "Son movimientos que quieren eliminar todos los medios de transporte internacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus críticas son más profundas y matizadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los movimientos antiglobalización (o \"altermundistas\") no rechazan la interconexión mundial, sino el modelo económico actual que, según ellos, beneficia a las grandes corporaciones y a los países ricos a costa de los trabajadores y el medio ambiente. Proponen una globalización más justa y solidaria.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v13",
+      "statement": "¿Qué papel han jugado las remesas (dinero que envían los emigrantes a sus familias) en la economía colombiana en el contexto de la globalización?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las remesas no existen en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son muy importantes."
+        },
+        {
+          "letter": "B",
+          "text": "Las remesas son un fenómeno menor sin impacto económico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen un impacto significativo."
+        },
+        {
+          "letter": "C",
+          "text": "Las remesas son una fuente importante de ingresos para millones de familias colombianas y representan una entrada significativa de divisas al país, mostrando la conexión global de las personas",
+          "is_correct": true,
+          "feedback": "Correcto. Colombia recibe miles de millones de dólares anuales en remesas."
+        },
+        {
+          "letter": "D",
+          "text": "Las remesas solo benefician a los bancos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Benefician directamente a las familias receptoras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Millones de colombianos han emigrado a Estados Unidos, España, Venezuela y otros países. Las remesas que envían a sus familias son una fuente crucial de ingresos para muchas regiones del país. En 2024, Colombia recibió más de 10 mil millones de dólares en remesas, una cifra superior a las exportaciones de café.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v14",
+      "statement": "Analiza: una empresa textil colombiana no puede competir con la ropa importada de China que llega mucho más barata. Sus trabajadores pierden sus empleos. ¿Qué medidas podría tomar el gobierno colombiano para mitigar este impacto negativo de la globalización?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir todas las importaciones de China",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería una medida proteccionista extrema que violaría acuerdos comerciales."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar el problema porque la globalización no tiene solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay opciones de política pública."
+        },
+        {
+          "letter": "C",
+          "text": "Implementar programas de reconversión laboral, apoyar a la industria textil con innovación y tecnología, y negociar condiciones comerciales más equilibradas",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado puede intervenir para mitigar efectos negativos sin aislarse del comercio global."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar a los consumidores a comprar solo ropa colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería una restricción ilegal a la libertad de consumo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Estado tiene herramientas para enfrentar los efectos negativos de la globalización: inversión en educación y capacitación, apoyo a la innovación industrial, protección temporal a sectores estratégicos, y redes de protección social para trabajadores desplazados. La clave no es aislarse, sino gestionar la integración global de manera inteligente y equitativa.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-v15",
+      "statement": "Analiza el siguiente dilema: la globalización ha permitido que el conocimiento médico y las vacunas se compartan rápidamente entre países (como durante la pandemia de COVID-19). Pero también ha permitido que las crisis económicas se propaguen instantáneamente (como la crisis financiera de 2008). ¿Qué conclusión podemos sacar sobre la globalización?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización es completamente buena y no tiene aspectos negativos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene impactos positivos y negativos."
+        },
+        {
+          "letter": "B",
+          "text": "La globalización es completamente mala y debería eliminarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene beneficios innegables."
+        },
+        {
+          "letter": "C",
+          "text": "La globalización es un proceso ambivalente que crea tanto oportunidades como riesgos, y su gestión requiere cooperación internacional y políticas equilibradas",
+          "is_correct": true,
+          "feedback": "Correcto. La globalización no es buena ni mala en sí misma: depende de cómo se gestione."
+        },
+        {
+          "letter": "D",
+          "text": "La globalización solo afecta a los países ricos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afecta a todos los países, aunque de maneras diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pandemia demostró el doble filo de la globalización: por un lado, la rápida propagación del virus, pero por otro, la cooperación científica global que desarrolló vacunas en tiempo récord. La lección es que necesitamos instituciones globales fuertes para maximizar los beneficios de la interconexión y minimizar sus riesgos, un desafío central para las nuevas generaciones.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y sistémico",
+      "expected_success": 0.35,
+      "bundle_id": "CO-SOC-7-2026-P1-globalizacion-impactos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v1",
+      "statement": "¿Cómo se llamaba el sistema político, social y económico que predominó en Europa durante la Edad Media?",
+      "context": "En la clase de sociales del Colegio San José de las Vegas de Medellín, el profesor explica cómo se organizó la sociedad durante la Edad Media en Europa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Capitalismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El capitalismo se desarrolló después, en la Edad Moderna."
+        },
+        {
+          "letter": "B",
+          "text": "Esclavismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El esclavismo predominó en la Edad Antigua."
+        },
+        {
+          "letter": "C",
+          "text": "Feudalismo.",
+          "is_correct": true,
+          "feedback": "Correcto. El feudalismo fue el sistema dominante en la Edad Media, basado en relaciones de vasallaje y tenencia de tierras."
+        },
+        {
+          "letter": "D",
+          "text": "Socialismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El socialismo es un sistema de los siglos XIX y XX."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El feudalismo se caracterizó por la descentralización del poder, la economía agraria y las relaciones de vasallaje entre señores y siervos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v2",
+      "statement": "¿Quién ocupaba la cúspide de la pirámide social en el feudalismo?",
+      "context": "En la clase de sociales de la I.E. Olaya de Pereira, el profesor dibuja una pirámide para explicar la sociedad feudal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los siervos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los siervos estaban en la base."
+        },
+        {
+          "letter": "B",
+          "text": "Los caballeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los caballeros estaban en un nivel medio."
+        },
+        {
+          "letter": "C",
+          "text": "El rey.",
+          "is_correct": true,
+          "feedback": "Correcto. En teoría, el rey estaba en la cima, aunque su poder era limitado por los señores feudales."
+        },
+        {
+          "letter": "D",
+          "text": "Los comerciantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los comerciantes no tenían un lugar fijo en la sociedad estamental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sociedad feudal era estamental (estratos cerrados): rey en la cima, luego nobles y clero, después caballeros, y en la base los campesinos y siervos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v3",
+      "statement": "¿Por qué los mapas medievales incluían estos dibujos fantásticos?",
+      "context": "En un museo de la ciudad de Tunja, hay un mapa medieval que muestra el mundo conocido en el siglo XII. Los bordes están decorados con dibujos de monstruos marinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los cartógrafos eran artistas que querían decorar sus obras.",
+          "is_correct": false,
+          "feedback": "Parcial, pero la razón principal era la falta de conocimiento geográfico preciso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en esa época realmente existían monstruos marinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de que existieran."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los cartógrafos medievales tenían poca información sobre esos territorios y llenaban los espacios vacíos con elementos imaginarios.",
+          "is_correct": true,
+          "feedback": "Correcto. Los mapas medievales reflejaban el conocimiento limitado de la época."
+        },
+        {
+          "letter": "D",
+          "text": "Porque querían asustar a los navegantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No era una intención deliberada de asustar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los mapamundis medievales (como el Mapamundi de Hereford) reflejaban una visión del mundo influenciada por la religión y el conocimiento limitado. Las zonas desconocidas se \"llenaban\" con elementos fantásticos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v4",
+      "statement": "¿Cuál de las siguientes funciones cumplía la Iglesia durante la Edad Media?",
+      "context": "En la clase de la I.E. Normal Superior de Ibagué, el profesor explica que en la Edad Media la Iglesia católica tenía mucho poder.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gobernar los feudos y cobrar impuestos directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Iglesia no gobernaba directamente los feudos, aunque poseía tierras."
+        },
+        {
+          "letter": "B",
+          "text": "Preservar el conocimiento a través de los monasterios, educar y tener influencia política y cultural.",
+          "is_correct": true,
+          "feedback": "Correcto. Los monasterios fueron centros de conocimiento y la Iglesia tenía gran influencia."
+        },
+        {
+          "letter": "C",
+          "text": "Liderar ejércitos en las guerras feudales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Iglesia predicaba la paz aunque a veces participaba en conflictos."
+        },
+        {
+          "letter": "D",
+          "text": "Comerciar con los pueblos de Asia y África.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comercio no era función principal de la Iglesia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Durante la Edad Media, la Iglesia Católica fue la institución más poderosa y estable: preservó manuscritos, controló la educación, determinó la visión del mundo y tuvo enorme influencia política.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v5",
+      "statement": "¿Qué representan las líneas curvas cerradas (curvas de nivel) en un mapa topográfico?",
+      "context": "En la clase de geografía del Colegio La Salle de Apartadó, el profesor enseña el uso del mapa topográfico para identificar el relieve.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los límites políticos de los municipios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos límites se representan con líneas punteadas o continuas diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Las rutas de los ríos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ríos se representan con líneas azules."
+        },
+        {
+          "letter": "C",
+          "text": "La altitud del terreno: cada línea conecta puntos de la misma altura.",
+          "is_correct": true,
+          "feedback": "Correcto. Las curvas de nivel unen puntos con la misma elevación sobre el nivel del mar."
+        },
+        {
+          "letter": "D",
+          "text": "Las carreteras y caminos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las carreteras se representan con líneas de otro tipo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las curvas de nivel son líneas imaginarias que conectan puntos de igual altura. Cuando están muy juntas indican terreno empinado; separadas indican terreno plano.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v6",
+      "statement": "¿Cuál era la principal obligación de un siervo hacia su señor feudal?",
+      "context": "En la clase de sociales del Colegio INEM de Sincelejo, el profesor explica las diferencias entre un señor feudal y un siervo en la Edad Media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pagar impuestos en dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el feudalismo no se usaba moneda de forma generalizada."
+        },
+        {
+          "letter": "B",
+          "text": "Servir en el ejército del rey.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los siervos no servían en el ejército."
+        },
+        {
+          "letter": "C",
+          "text": "Trabajar las tierras del señor, entregar parte de la cosecha y realizar ciertos servicios.",
+          "is_correct": true,
+          "feedback": "Correcto. El siervo trabajaba la tierra del señor a cambio de protección."
+        },
+        {
+          "letter": "D",
+          "text": "Estudiar en las escuelas de los monasterios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación era privilegio del clero y la nobleza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El siervo era la base del sistema feudal: trabajaba la tierra del señor, entregaba parte de su producción (tributo) y recibía protección militar y el derecho a cultivar una parcela para su subsistencia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v7",
+      "statement": "¿Qué principio físico utiliza la brújula para señalar el norte?",
+      "context": "En la clase de geografía de la I.E. Técnica de Pitalito (Huila), se usa una brújula para encontrar el norte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La atracción gravitacional de la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad atrae hacia el centro, no hacia el norte."
+        },
+        {
+          "letter": "B",
+          "text": "La rotación de la Tierra sobre su eje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rotación no determina la dirección norte-sur."
+        },
+        {
+          "letter": "C",
+          "text": "El magnetismo terrestre: la aguja imantada se alinea con el campo magnético de la Tierra.",
+          "is_correct": true,
+          "feedback": "Correcto. La Tierra actúa como un gran imán, y la aguja de la brújula se orienta hacia el polo norte magnético."
+        },
+        {
+          "letter": "D",
+          "text": "La posición del Sol en el cielo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Sol se usa para orientación, pero no es el principio de la brújula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La brújula funciona gracias al campo magnético terrestre. La aguja imantada se alinea con las líneas de fuerza magnética que van del polo sur al polo norte magnético.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v8",
+      "statement": "¿Cuál fue la causa principal del surgimiento del feudalismo en Europa?",
+      "context": "En la clase de la I.E. San Simón de Sincelejo, se discute por qué el sistema feudal surgió en Europa después de la caída del Imperio Romano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El deseo de los reyes de tener más poder centralizado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El feudalismo fragmentó el poder, no lo centralizó."
+        },
+        {
+          "letter": "B",
+          "text": "El crecimiento de las ciudades y el comercio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ciudades crecieron después del feudalismo."
+        },
+        {
+          "letter": "C",
+          "text": "La inseguridad y las invasiones (vikings, magiares, musulmanes) tras la caída del Imperio Romano, que llevaron a la población a buscar protección de señores locales.",
+          "is_correct": true,
+          "feedback": "Correcto. El feudalismo surgió como respuesta a la necesidad de protección en tiempos de invasiones."
+        },
+        {
+          "letter": "D",
+          "text": "La invención de la imprenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imprenta se inventó en el siglo XV, al final de la Edad Media."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tras la caída del Imperio Romano (476 d.C.), Europa sufrió invasiones constantes. La gente buscó protección de señores locales con ejércitos, dando origen al sistema feudal.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v9",
+      "statement": "¿Qué miden las líneas de latitud en un mapa?",
+      "context": "En el Colegio Santa María de Popayán, un estudiante consulta un mapa de Colombia en el que aparecen las coordenadas geográficas: latitud y longitud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distancia al este u oeste del meridiano de Greenwich.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de longitud."
+        },
+        {
+          "letter": "B",
+          "text": "La distancia al norte o al sur del ecuador.",
+          "is_correct": true,
+          "feedback": "Correcto. La latitud mide la posición angular respecto al ecuador terrestre."
+        },
+        {
+          "letter": "C",
+          "text": "La altitud sobre el nivel del mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altitud se representa con curvas de nivel."
+        },
+        {
+          "letter": "D",
+          "text": "La distancia al polo norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La latitud se mide en grados desde el ecuador (0°) hasta los polos (90°)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La latitud se mide en grados, desde 0° en el ecuador hasta 90° en los polos. Las líneas de latitud son paralelas al ecuador y se llaman paralelos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v10",
+      "statement": "¿Cuál es la diferencia más notable entre un mapa medieval y un mapa satelital moderno?",
+      "context": "En el Museo del Oro de Bogotá hay una exposición sobre cartografía. Se muestra un mapa del siglo XIV junto a un mapa satelital moderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mapa medieval usaba colores diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos usan colores, no es la diferencia fundamental."
+        },
+        {
+          "letter": "B",
+          "text": "El mapa satelital es más pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no define la diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "El mapa satelital tiene mayor precisión, representa la forma real de los continentes y usa proyecciones matemáticas, mientras que el medieval reflejaba una visión del mundo limitada e influenciada por la religión.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia fundamental es la precisión basada en tecnología."
+        },
+        {
+          "letter": "D",
+          "text": "El mapa medieval solo mostraba Europa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mostraba Europa, Asia y África (el mundo conocido de la época)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cartografía ha evolucionado desde mapas simbólicos medievales (como los mapamundis T-O) hasta mapas modernos con proyecciones matemáticas (Mercator, Peters) e imágenes satelitales de alta precisión.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v11",
+      "statement": "¿Por qué la Iglesia medieval apoyaba la teoría geocéntrica?",
+      "context": "En la clase de sociales del Colegio San José de Cúcuta, se debate por qué la Iglesia Católica promovía que la Tierra era el centro del universo (geocentrismo).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tenía evidencia científica comprobada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No había evidencia científica sólida."
+        },
+        {
+          "letter": "B",
+          "text": "Porque coincidía con una interpretación bíblica que situaba al ser humano y la Tierra en el centro de la creación.",
+          "is_correct": true,
+          "feedback": "Correcto. El geocentrismo se alineaba con la visión teológica del mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los astrónomos medievales la descubrieron.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El geocentrismo era una herencia de la astronomía griega (Ptolomeo)."
+        },
+        {
+          "letter": "D",
+          "text": "Porque facilitaba la navegación marítima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El geocentrismo no facilitaba la navegación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El geocentrismo (modelo de Ptolomeo) ubicaba a la Tierra en el centro del universo. La Iglesia lo adoptó porque se alineaba con la visión bíblica de la creación. El heliocentrismo (Copérnico, Galileo) fue rechazado inicialmente.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v12",
+      "statement": "¿Cuál era la principal desventaja del feudalismo para los campesinos?",
+      "context": "En la clase de sociales de la I.E. Nacional de Comercio de Buga, se analizan las ventajas y desventajas del sistema feudal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tenían que pagar muchos impuestos al rey directamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los campesinos no tenían relación directa con el rey."
+        },
+        {
+          "letter": "B",
+          "text": "No podían casarse ni tener hijos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Podían tener familia."
+        },
+        {
+          "letter": "C",
+          "text": "Estaban atados a la tierra, no podían moverse libremente ni cambiar de oficio, y vivían en condiciones de pobreza y dependencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Los siervos no eran libres: estaban vinculados a la tierra del señor."
+        },
+        {
+          "letter": "D",
+          "text": "Tenían que estudiar latín en los monasterios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación no era obligatoria ni accesible para ellos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El siervo no era un esclavo, pero tampoco libre. Estaba ligado a la tierra del señor feudal, no podía abandonarla sin permiso y debía entregar parte de su producción.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v13",
+      "statement": "¿Cuál es la principal diferencia entre la sociedad estamental feudal y la sociedad actual en Colombia?",
+      "context": "En el Colegio Cooperativo de Bucaramanga, se compara la organización social feudal con la organización social actual en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el feudalismo todos eran iguales; hoy hay clases sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el feudalismo había marcadas diferencias estamentales."
+        },
+        {
+          "letter": "B",
+          "text": "En Colombia actual no existen diferencias sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Colombia hay desigualdad social, pero no es un sistema estamental legal."
+        },
+        {
+          "letter": "C",
+          "text": "En el feudalismo el estamento social se determinaba al nacer y era prácticamente imposible cambiar de estrato; hoy en Colombia la movilidad social es posible (aunque limitada) por mérito y educación.",
+          "is_correct": true,
+          "feedback": "Correcto. Los estamentos eran cerrados e inamovibles legalmente."
+        },
+        {
+          "letter": "D",
+          "text": "El feudalismo era más justo porque todos tenían un lugar fijo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La movilidad social restringida no es justicia social."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sociedad estamental medieval se basaba en el nacimiento: si nacías siervo, morías siervo. En las sociedades modernas, aunque existe desigualdad, la movilidad social es teóricamente posible.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v14",
+      "statement": "¿Por qué el latín se mantuvo como lengua de la cultura y la educación durante la Edad Media?",
+      "context": "En el Colegio Cambridge de Sincelejo, un estudiante pregunta por qué el latín era la lengua culta en la Edad Media europea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque era la lengua que hablaba todo el pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pueblo hablaba lenguas romances (español primitivo, francés, etc.)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los reyes impusieron el latín como idioma oficial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada reino usaba su lengua vernácula."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la Iglesia Católica lo usaba en sus rituales, documentos y escuelas, y los monasterios preservaban textos en latín.",
+          "is_correct": true,
+          "feedback": "Correcto. La Iglesia mantuvo el latín como lengua litúrgica y académica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque era más fácil de aprender que las lenguas romances.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No era más fácil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El latín sobrevivió a la caída del Imperio Romano gracias a la Iglesia. Los monasterios copiaban y preservaban manuscritos en latín, y todas las universidades medievales enseñaban en latín.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-P1-comprehensive-001-MASTERY-v15",
+      "statement": "¿Cuál era la función principal de los castillos en el sistema feudal?",
+      "context": "En la clase de sociales de la I.E. Técnica de Tuluá, se analiza por qué los castillos medievales se construían en colinas y tenían murallas gruesas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Servir como residencia de lujo para la nobleza.",
+          "is_correct": false,
+          "feedback": "Es parcialmente cierto, pero no la función principal."
+        },
+        {
+          "letter": "B",
+          "text": "Almacenar alimentos para toda la población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El almacenamiento era una función secundaria."
+        },
+        {
+          "letter": "C",
+          "text": "Servir como centro de defensa militar y administrativo del feudo, protegiendo a la población en tiempos de ataque.",
+          "is_correct": true,
+          "feedback": "Correcto. El castillo era fortaleza militar y sede del poder del señor feudal."
+        },
+        {
+          "letter": "D",
+          "text": "Ser escuelas para los hijos de los siervos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los castillos no se educaba a los siervos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los castillos medievales cumplían funciones militares (defensa, protección), administrativas (centro del feudo) y residenciales. Su ubicación estratégica y diseño defensivo reflejaban el contexto de inseguridad de la época.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Social",
+      "bundle_id": "CO-SOC-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
       "id": "CO-SOC-7-2026-W01-edad-moderna-001-MASTERY-v1",
       "statement": "¿Cuál de los siguientes acontecimientos se considera tradicionalmente como el inicio de la Edad Moderna?",
       "context": "En la clase de sociales del Colegio San Bartolomé de Bogotá, la profesora Ana explica las grandes etapas de la historia y pregunta por los hitos que marcan el inicio de la Edad Moderna.",

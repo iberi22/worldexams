@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Historia y Ciencias Sociales",
+    "country": "cl",
+    "pack_id": "cl-week-1-grade-11-subject-historia_y_ciencias_sociales",
+    "generated_at": "2026-07-28T22:11:07.515Z"
+  },
+  "questions": [
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v1",
+      "statement": "Simplifique: (3)(9x + 48)",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 27x + 144",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 27x + 48",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 12x + 144",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 27x - 144\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (3)(9x + 48) = 27x + 144.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 4) = 14",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** 2(x+4) = 14 -> x+4 = 7 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v3",
+      "statement": "Maria compro 3 cuadernos a $10.4 c/u en Puerto Montt. Cuanto gasto?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $30.4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $3.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $10.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $13.4\r\n  \r\n\r\n**Explicacion:** Total = 3 x 10 = $30.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v4",
+      "statement": "Un estudiante de Liceo Oscar Castro en Rancagua grafica f(x) = 2x + 5. Cual es la pendiente?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v5",
+      "statement": "En Chillan, un estudiante del Liceo Narciso Tondreau resuelve: 8x + 5 = 45. Cual es el valor de x?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** Se resta 5 de ambos lados. Luego se divide por 8: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v6",
+      "statement": "Simplifique: (2)(6x + 41)",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 12x + 82",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 12x + 41",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8x + 82",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 12x - 82\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(6x + 41) = 12x + 82.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v7",
+      "statement": "Resuelve: 2(x + 5) = 16",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 4\r\n  \r\n\r\n**Explicacion:** 2(x+5) = 16 -> x+5 = 8 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v8",
+      "statement": "Maria compro 4 cuadernos a $3.2 c/u en Arica. Cuanto gasto?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $12.2",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $3.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $7.2\r\n  \r\n\r\n**Explicacion:** Total = 4 x 3 = $12.2.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v9",
+      "statement": "Un estudiante de Liceo Bernardo O'Higgins en Iquique grafica f(x) = 6x + 5. Cual es la pendiente?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 6",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 6.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v10",
+      "statement": "En Antofagasta, un estudiante del Liceo Mario Bahamonde resuelve: 6x + 1 = 31. Cual es el valor de x?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explicacion:** Se resta 1 de ambos lados. Luego se divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v11",
+      "statement": "Simplifique: (6)(2x + 17)",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 12x + 102",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 12x + 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8x + 102",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 12x - 102\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(2x + 17) = 12x + 102.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 8) = 22",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** 2(x+8) = 22 -> x+8 = 11 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v13",
+      "statement": "Maria compro 8 cuadernos a $5.3 c/u en Puerto Montt. Cuanto gasto?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $40.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $8.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $5.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $13.3\r\n  \r\n\r\n**Explicacion:** Total = 8 x 5 = $40.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v14",
+      "statement": "Un estudiante de Liceo Pablo Neruda en Temuco grafica f(x) = 3x + 4. Cual es la pendiente?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v15",
+      "statement": "En Arica, un estudiante del Liceo Domingo Santa Maria resuelve: 6x + 2 = 32. Cual es el valor de x?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 10\r\n  \r\n\r\n**Explicacion:** Se resta 2 de ambos lados. Luego se divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v16",
+      "statement": "Simplifique: (2)(9x + 49)",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 18x + 98",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 18x + 49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11x + 98",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 18x - 98\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (2)(9x + 49) = 18x + 98.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v17",
+      "statement": "Resuelve: 2(x + 8) = 22",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** 2(x+8) = 22 -> x+8 = 11 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v18",
+      "statement": "Maria compro 4 cuadernos a $4.3 c/u en Concepcion. Cuanto gasto?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $16.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $4.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $8.3\r\n  \r\n\r\n**Explicacion:** Total = 4 x 4 = $16.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v19",
+      "statement": "Un estudiante de Liceo Pablo Neruda en Temuco grafica f(x) = 8x + 6. Cual es la pendiente?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-v20",
+      "statement": "En Valparaiso, un estudiante del Liceo Eduardo de la Barra resuelve: 2x + 7 = 17. Cual es el valor de x?",
+      "context": "Estudiantes de CL practicando prehistoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 8\r\n  \r\n\r\n**Explicacion:** Se resta 7 de ambos lados. Luego se divide por 2: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "CL-SOC-11-2026-W01-prehistoria-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Historia y Ciencias Sociales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

@@ -456,6 +456,2766 @@
       "subject": "lectura-critica",
       "grade": 11,
       "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v1",
+      "statement": "¿Cual es la tesis principal del texto?",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rapidez siempre produce mejores ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto cuestiona esa creencia."
+        },
+        {
+          "letter": "B",
+          "text": "Pensar con prisa evita los errores de comunicacion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sugiere lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "El valor de una opinion tambien depende del tiempo que se le dedica a revisarla.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la idea central declarada al final del fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "Responder de inmediato demuestra superioridad moral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no conecta rapidez con superioridad moral."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estudiante debe reconocer la frase que concentra la postura del autor.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identifica la tesis explicita de un texto breve.",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v2",
+      "statement": "En el texto, la oposicion entre \"rapidez\" y \"revisarla\" sirve para:",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar que toda opinion rapida es falsa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no hace una generalizacion absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "Contraponer impulso inmediato y reflexion antes de hablar.",
+          "is_correct": true,
+          "feedback": "Correcto. La oposicion organiza el argumento principal."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar un problema tecnico de escritura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es argumentativo, no tecnico."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir una lista de ejemplos historicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una lista historica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La funcion del contraste es ordenar la idea central del autor.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reconoce una oposicion conceptual basica.",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v3",
+      "statement": "¿Que se infiere de una persona que responde de inmediato sin detenerse a revisar?",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que siempre conoce mejor el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez no garantiza dominio."
+        },
+        {
+          "letter": "B",
+          "text": "Que puede estar actuando por costumbre y no por claridad.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto asocia la respuesta inmediata con una practica automatica."
+        },
+        {
+          "letter": "C",
+          "text": "Que ha resuelto todas las dudas del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de eso."
+        },
+        {
+          "letter": "D",
+          "text": "Que necesita un texto mas largo para empezar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema planteado no es la extension."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia debe conservar la linea argumentativa del fragmento.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Distingue entre afirmacion y consecuencia.",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v4",
+      "statement": "¿Que funcion cumple la frase \"la idea central de este texto es simple\"?",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar una prueba estadistica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aporta datos numericos."
+        },
+        {
+          "letter": "B",
+          "text": "Anunciar de forma directa la tesis del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase prepara el cierre argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar de tema hacia otra discusion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue en el mismo tema."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir una cita literaria ajena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cita externa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oracion funciona como puente entre la reflexion y la conclusion.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce funcion de una frase explicativa.",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v5",
+      "statement": "¿Que idea fortalece mejor el argumento del autor?",
+      "context": "*En muchas conversaciones se celebra la rapidez como si fuera una prueba de inteligencia. Sin embargo, pensar con prisa no siempre significa pensar mejor. Cuando una persona responde de inmediato, a veces no expresa claridad sino una costumbre de no detenerse a revisar lo que dice. La idea central de este texto es simple: el valor de una opinion depende tambien del tiempo que se le da para revisarla.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revisar una idea antes de responder suele mejorar la precision de la respuesta.",
+          "is_correct": true,
+          "feedback": "Correcto. Apoya directamente la relacion entre revision y calidad argumentativa."
+        },
+        {
+          "letter": "B",
+          "text": "Responder rapido siempre elimina los malentendidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa afirmacion contradice el texto."
+        },
+        {
+          "letter": "C",
+          "text": "La rapidez vuelve irrelevante la reflexion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto defiende lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Todo juicio debe evitar cualquier forma de opinion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no propone eliminar las opiniones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se busca seleccionar una idea que sostenga la conclusion del autor sin exagerarla.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evalua la solidez de una postura.",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v6",
+      "statement": "¿Cual es la idea principal del fragmento?",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar siempre basta para cualquier prueba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto distingue memorizar de comprender."
+        },
+        {
+          "letter": "B",
+          "text": "Aprender implica relacionar conceptos con problemas reales.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la afirmacion que organiza todo el fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "Las pruebas deben eliminar todo contenido teorico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se propone eliminar teoria."
+        },
+        {
+          "letter": "D",
+          "text": "La autonomia depende solo de la disciplina escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto la vincula con comparar, preguntar y justificar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea central se reconoce por su capacidad de explicar las demas oraciones.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identifica la idea que organiza un argumento.",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v7",
+      "statement": "¿Que busca mostrar la comparacion entre el estudiante que memoriza y el que entiende?",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que comprender permite aplicar el conocimiento en situaciones nuevas.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparacion diferencia rendimiento mecanico y uso real del saber."
+        },
+        {
+          "letter": "B",
+          "text": "Que ambos estudiantes logran exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto los distingue claramente."
+        },
+        {
+          "letter": "C",
+          "text": "Que el conocimiento teorico no sirve para nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no lo invalida, solo exige relacionarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la evaluacion escolar es inutil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La critica no apunta a eliminar la evaluacion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comparacion cumple una funcion de contraste pedagogico.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce la funcion de una comparacion.",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v8",
+      "statement": "Segun el fragmento, una persona autonoma intelectual se caracteriza sobre todo por:",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir respuestas exactas sin variarlas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa conducta corresponde a la memorizacion mecanica."
+        },
+        {
+          "letter": "B",
+          "text": "Comparar, preguntar y justificar sus respuestas.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto define la autonomia con esas tres acciones."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar toda referencia a problemas reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Depender siempre de un unico libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se propone dependencia exclusiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto se define por acciones de elaboracion critica.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identifica implicaciones del concepto de autonomia.",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v9",
+      "statement": "Si un estudiante solo memoriza y no relaciona, ¿cual seria la consecuencia mas probable segun el texto?",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resolveria mejor los problemas nuevos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comprension mecanica no garantiza transferencia."
+        },
+        {
+          "letter": "B",
+          "text": "Podria contestar una prueba, pero tendria dificultades para usar el saber en otra situacion.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la diferencia central marcada por el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Superaria toda conversacion critica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta analisis y justificacion."
+        },
+        {
+          "letter": "D",
+          "text": "Desarrollaria mas autonomia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autonomia requiere mas que repeticion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La consecuencia debe mantenerse dentro de la logica del fragmento.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evalua una consecuencia razonable de la postura del autor.",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v10",
+      "statement": "¿Para que sirve la oposicion entre \"responder una prueba\" y \"usar en una situacion nueva\"?",
+      "context": "*Aprender no es repetir definiciones, sino relacionar conceptos con problemas reales. Un estudiante que memoriza un dato puede responder una prueba; un estudiante que entiende por que ese dato importa puede usarlo en una situacion nueva. La autonomia intelectual aparece cuando la persona compara, pregunta y justifica sus respuestas.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para afirmar que las pruebas deben desaparecer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no propone eliminar pruebas."
+        },
+        {
+          "letter": "B",
+          "text": "Para mostrar la diferencia entre repetir y comprender.",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste sostiene la tesis sobre aprendizaje real."
+        },
+        {
+          "letter": "C",
+          "text": "Para narrar una experiencia personal del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una autobiografia."
+        },
+        {
+          "letter": "D",
+          "text": "Para explicar una regla gramatical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco es argumentativo, no gramatical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contraste ejemplifica el paso de memoria a uso significativo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce la relacion entre ejemplo y tesis.",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v11",
+      "statement": "¿Cual es la consecuencia principal de las notificaciones, segun el texto?",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacen la atencion mas continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que la fragmentan."
+        },
+        {
+          "letter": "B",
+          "text": "Fragmentan la atencion en partes.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la consecuencia declarada explicitamente."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminan la necesidad de decidir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto insiste en decidir a que mirar."
+        },
+        {
+          "letter": "D",
+          "text": "Garantizan autonomia completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No la garantizan; la ponen en riesgo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se requiere leer la cadena causa-consecuencia del fragmento.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identifica la consecuencia de una idea central.",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v12",
+      "statement": "La expresion \"deja de ser un detalle tecnico y se vuelve una forma de autonomia\" busca:",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minimizar el valor de la atencion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En realidad la eleva."
+        },
+        {
+          "letter": "B",
+          "text": "Revalorizar la atencion como una decision etica y personal.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor la presenta como parte de la autonomia."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar de tema hacia la tecnologia de celulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue en la misma linea critica."
+        },
+        {
+          "letter": "D",
+          "text": "Probar que toda tecnica es mala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se condena toda tecnica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje abstracto convierte una practica cotidiana en problema argumentativo.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reconoce el proposito de una formulacion abstracta.",
+      "expected_success": 0.46,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v13",
+      "statement": "Segun el texto, ¿que pasa cuando cada sonido reclama una respuesta inmediata?",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La persona pierde capacidad de elegir con calma a que prestar atencion.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la implicacion de la fragmentacion de la atencion."
+        },
+        {
+          "letter": "B",
+          "text": "La persona entiende mejor todos los mensajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay mejor comprension, sino interrupcion."
+        },
+        {
+          "letter": "C",
+          "text": "La persona deja de usar tecnologia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se habla de abandono total."
+        },
+        {
+          "letter": "D",
+          "text": "La persona se concentra mas tiempo en una sola tarea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto plantea lo contrario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La consecuencia debe mantenerse fiel a la descripcion de interrupcion.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpreta una implicacion conceptual.",
+      "expected_success": 0.44,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v14",
+      "statement": "¿Cual de las siguientes formulaciones resume mejor la postura del autor frente a las notificaciones?",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son utiles porque reemplazan toda decision humana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor critica ese reemplazo."
+        },
+        {
+          "letter": "B",
+          "text": "Pueden ser utiles, pero exigen una gestion consciente de la atencion.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa postura es mas fiel al fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "Deben eliminarse por completo en toda situacion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no propone prohibicion absoluta."
+        },
+        {
+          "letter": "D",
+          "text": "No tienen efecto alguno sobre la experiencia diaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto enfatiza su efecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluacion correcta evita extremos no escritos por el autor.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reconoce el tipo de postura del autor.",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v15",
+      "statement": "La relacion entre \"la atencion se parte en fragmentos\" y \"se vuelve una forma de autonomia\" es:",
+      "context": "*Las notificaciones prometen ayudarnos a no perder nada, pero terminan interrumpiendo casi todo. Cuando cada sonido reclama una respuesta inmediata, la atencion se parte en fragmentos. En ese escenario, decidir a que mirar y a que no mirar deja de ser un detalle tecnico y se vuelve una forma de autonomia.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De ejemplo y definicion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una definicion sinonimica."
+        },
+        {
+          "letter": "B",
+          "text": "De problema y respuesta conceptual.",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se plantea la dificultad, luego la exigencia etica."
+        },
+        {
+          "letter": "C",
+          "text": "De lista y resumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay enumeracion."
+        },
+        {
+          "letter": "D",
+          "text": "De cita y contra-cita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aparece una cita externa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El autor pasa del diagnostico a la conclusion normativa.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce la relacion entre dos afirmaciones.",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v16",
+      "statement": "¿Cual es la conclusion principal del fragmento?",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ciudad depende solo de la policia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto enfatiza la corresponsabilidad ciudadana."
+        },
+        {
+          "letter": "B",
+          "text": "El espacio comun se preserva con gestos cotidianos y responsabilidad compartida.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la conclusion del fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "Las normas escritas hacen innecesaria la convivencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Lo comun solo importa en emergencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor lo presenta como parte de la vida diaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conclusion integra norma, gesto y sentido de pertenencia.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evalua una conclusion general.",
+      "expected_success": 0.38,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v17",
+      "statement": "La frase \"el espacio publico es de nadie\" significa que:",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nadie puede entrar al espacio publico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No habla de prohibicion."
+        },
+        {
+          "letter": "B",
+          "text": "Algunas personas actuan como si no tuviera dueños ni responsabilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase describe una actitud de descuido."
+        },
+        {
+          "letter": "C",
+          "text": "El Estado ha vendido las calles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se plantea esa situacion."
+        },
+        {
+          "letter": "D",
+          "text": "Todo espacio comun debe cerrarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto defiende su cuidado, no su cierre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresion critica la falta de sentido de pertenencia.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpreta una expresion figurada.",
+      "expected_success": 0.36,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v18",
+      "statement": "¿Para que sirve mencionar la fila, el parque y el espacio compartido?",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para decorar el texto con imagenes sin relacion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ejemplos sostienen la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Para volver concreta una idea abstracta sobre la responsabilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Los ejemplos aterrizan la nocion de cuidado comun."
+        },
+        {
+          "letter": "C",
+          "text": "Para introducir una historia personal del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relato autobiografico."
+        },
+        {
+          "letter": "D",
+          "text": "Para demostrar que la ciudad es un tema inutil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el centro del argumento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ejemplos cotidianos transforman un juicio general en experiencia visible.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce la funcion de un ejemplo cotidiano.",
+      "expected_success": 0.35,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v19",
+      "statement": "¿Que opcion resume mejor la postura del autor sobre la convivencia urbana?",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La convivencia depende solo de reglas externas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor agrega conducta cotidiana."
+        },
+        {
+          "letter": "B",
+          "text": "La convivencia requiere normas y acciones pequenas que expresen cuidado.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa sintesis recoge las dos dimensiones del texto."
+        },
+        {
+          "letter": "C",
+          "text": "La convivencia es imposible en cualquier ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay fatalismo."
+        },
+        {
+          "letter": "D",
+          "text": "La convivencia solo importa en actos oficiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento insiste en la vida diaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mejor sintesis conserva el doble eje del fragmento: norma y practica.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Valora la fuerza de una postura argumentativa.",
+      "expected_success": 0.34,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-001-v20",
+      "statement": "¿Cual afirmacion critica mejor el riesgo de creer que lo comun \"es de uso momentaneo\"?",
+      "context": "*Una ciudad no se sostiene solo con normas escritas. Tambien depende de gestos pequenos: respetar la fila, cuidar el parque y no ensuciar el espacio compartido. Quien cree que el espacio publico es de nadie termina actuando como si fuera de uso momentaneo. La responsabilidad comun empieza cuando entendemos que lo comun tambien nos define.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esa creencia debilita la responsabilidad porque vuelve provisional el cuidado.",
+          "is_correct": true,
+          "feedback": "Correcto. Resume el problema etico planteado por el autor."
+        },
+        {
+          "letter": "B",
+          "text": "Esa creencia mejora automaticamente la limpieza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sugiere lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Esa creencia elimina la necesidad de convivir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convivencia sigue siendo necesaria."
+        },
+        {
+          "letter": "D",
+          "text": "Esa creencia prueba que las normas sobran.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor las complementa con gestos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cierre exige juzgar el efecto moral de una idea sobre el espacio compartido.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reconoce un cierre argumentativo.",
+      "expected_success": 0.32,
+      "bundle_id": "CO-LEC-11-P1-ensayo-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v1",
+      "statement": "¿Cuál es el tema central del fragmento?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento del precio de los dispositivos móviles.",
+          "is_correct": false,
+          "feedback": "El texto no discute costos de mercado."
+        },
+        {
+          "letter": "B",
+          "text": "El efecto de la hiperconexión sobre la atención y el juicio crítico.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la tesis general del pasaje."
+        },
+        {
+          "letter": "C",
+          "text": "La historia de las redes sociales en América Latina.",
+          "is_correct": false,
+          "feedback": "El fragmento no desarrolla un recorrido histórico."
+        },
+        {
+          "letter": "D",
+          "text": "La superioridad de la lectura impresa sobre cualquier medio digital.",
+          "is_correct": false,
+          "feedback": "El autor no formula esa comparación absoluta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pregunta exige reconocer la idea global del texto, no un detalle secundario.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Comprender",
+      "icfes_type": "Identifica y entiende contenidos locales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v2",
+      "statement": "En la expresión \"reorganiza nuestra atención\", el autor sugiere que las notificaciones",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aumentan siempre la calidad de nuestras decisiones.",
+          "is_correct": false,
+          "feedback": "El fragmento es crítico, no celebratorio."
+        },
+        {
+          "letter": "B",
+          "text": "modifican el orden de lo que atendemos, incluso sin decisión plenamente consciente.",
+          "is_correct": true,
+          "feedback": "Correcto. La reorganización alude a un cambio inducido de prioridades."
+        },
+        {
+          "letter": "C",
+          "text": "eliminan por completo la capacidad humana de concentrarse.",
+          "is_correct": false,
+          "feedback": "Es una exageración que el texto no sostiene."
+        },
+        {
+          "letter": "D",
+          "text": "solo afectan a quienes usan el celular con fines de entretenimiento.",
+          "is_correct": false,
+          "feedback": "El autor habla de una condición social más amplia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia debe mantenerse dentro del alcance del verbo y del tono del fragmento.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Comprender",
+      "icfes_type": "Comprende como se articulan las partes del texto",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v3",
+      "statement": "¿Cuál situación ejemplifica mejor la preocupación del autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un estudiante interrumpe varias veces la lectura de un ensayo y termina repitiendo opiniones ajenas sin examinar sus argumentos.",
+          "is_correct": true,
+          "feedback": "Correcto. Conecta interrupción, atención dispersa y juicio superficial."
+        },
+        {
+          "letter": "B",
+          "text": "Un lector subraya un texto y toma apuntes antes de escribir una conclusión.",
+          "is_correct": false,
+          "feedback": "Ese caso refuerza la atención crítica, no la debilita."
+        },
+        {
+          "letter": "C",
+          "text": "Una persona apaga su celular para concentrarse en resolver un problema.",
+          "is_correct": false,
+          "feedback": "Es una respuesta al problema, no el problema mismo."
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo debate un tema luego de revisar varias fuentes contradictorias.",
+          "is_correct": false,
+          "feedback": "Esa práctica fortalece el juicio maduro que el texto defiende."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar una tesis implica identificar un caso concreto que reproduzca su lógica.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Aplicar",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v4",
+      "statement": "La frase \"por eso\" cumple la función de",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "introducir una objeción parcial al argumento previo.",
+          "is_correct": false,
+          "feedback": "No hay oposición en ese punto."
+        },
+        {
+          "letter": "B",
+          "text": "señalar una conclusión derivada de la observación anterior.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor extrae una consecuencia de lo dicho antes."
+        },
+        {
+          "letter": "C",
+          "text": "presentar un ejemplo anecdótico sin relación lógica.",
+          "is_correct": false,
+          "feedback": "La conexión es causal, no anecdótica."
+        },
+        {
+          "letter": "D",
+          "text": "cambiar de tema para abrir un nuevo asunto independiente.",
+          "is_correct": false,
+          "feedback": "El texto mantiene una misma línea argumental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores orientan la estructura del razonamiento del autor.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Comprender",
+      "icfes_type": "Comprende como se articulan las partes del texto",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v5",
+      "statement": "Cuando el autor pregunta \"quién decide qué merece nuestra concentración\", desplaza el problema desde el tiempo de uso hacia",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la calidad técnica de las baterías de los dispositivos.",
+          "is_correct": false,
+          "feedback": "Ese aspecto material no aparece en la argumentación."
+        },
+        {
+          "letter": "B",
+          "text": "la edad promedio de los usuarios conectados.",
+          "is_correct": false,
+          "feedback": "El fragmento no segmenta por edades."
+        },
+        {
+          "letter": "C",
+          "text": "el poder que orienta la atención y condiciona la formación del juicio.",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta introduce una dimensión de control y orientación."
+        },
+        {
+          "letter": "D",
+          "text": "el número de aplicaciones instaladas en cada teléfono.",
+          "is_correct": false,
+          "feedback": "Eso sería un dato técnico, no el foco del argumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ensayo no se limita a medir hábitos; examina relaciones de poder sobre la atención.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v6",
+      "statement": "¿Cuál afirmación resume mejor la tesis del autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda tecnología digital destruye inevitablemente la vida intelectual.",
+          "is_correct": false,
+          "feedback": "La tesis es crítica, pero no determinista en ese grado."
+        },
+        {
+          "letter": "B",
+          "text": "La dificultad contemporánea consiste en proteger la atención crítica frente a dinámicas que la fragmentan y orientan desde afuera.",
+          "is_correct": true,
+          "feedback": "Correcto. Integra atención, fragmentación y juicio."
+        },
+        {
+          "letter": "C",
+          "text": "La única solución posible es prohibir las redes sociales en contextos educativos.",
+          "is_correct": false,
+          "feedback": "El texto no propone una prohibición total."
+        },
+        {
+          "letter": "D",
+          "text": "Las notificaciones son útiles porque vuelven más rápida la circulación de opiniones.",
+          "is_correct": false,
+          "feedback": "El autor cuestiona precisamente esa rapidez acrítica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una buena síntesis conserva el núcleo argumentativo sin exagerarlo ni reducirlo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Identifica y entiende contenidos locales",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v7",
+      "statement": "Según el texto, la tolerancia se entiende como",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "renunciar por completo a cualquier juicio propio.",
+          "is_correct": false,
+          "feedback": "El autor afirma lo contrario al inicio del pasaje."
+        },
+        {
+          "letter": "B",
+          "text": "aceptar cualquier opinión sin examinarla críticamente.",
+          "is_correct": false,
+          "feedback": "Tolerancia no equivale a suspensión del pensamiento crítico."
+        },
+        {
+          "letter": "C",
+          "text": "reconocer los límites del propio juicio y mantener apertura argumentativa ante otros puntos de vista.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición propuesta por el fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "evitar las discusiones públicas para preservar la convivencia.",
+          "is_correct": false,
+          "feedback": "El texto valora la escucha y la discrepancia, no su evasión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comprensión exige distinguir entre apertura crítica y relativismo indiferente.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Comprender",
+      "icfes_type": "Identifica y entiende contenidos locales",
+      "expected_success": 0.51,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v8",
+      "statement": "La frase \"no es un gesto de cortesía sino una disciplina intelectual\" indica que escuchar al otro",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pertenece solo al campo de la buena educación formal.",
+          "is_correct": false,
+          "feedback": "El autor niega precisamente esa reducción."
+        },
+        {
+          "letter": "B",
+          "text": "tiene valor cognitivo porque mejora y corrige la propia comprensión.",
+          "is_correct": true,
+          "feedback": "Correcto. La escucha se presenta como práctica intelectual."
+        },
+        {
+          "letter": "C",
+          "text": "es útil únicamente cuando el otro comparte la misma posición ideológica.",
+          "is_correct": false,
+          "feedback": "El sentido del pluralismo contradice esa lectura."
+        },
+        {
+          "letter": "D",
+          "text": "reemplaza toda necesidad de argumentar con claridad.",
+          "is_correct": false,
+          "feedback": "Escuchar y argumentar son complementarios, no excluyentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conector \"sino\" reorienta el sentido de la afirmación hacia una definición más fuerte.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Comprende como se articulan las partes del texto",
+      "expected_success": 0.49,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v9",
+      "statement": "¿Cuál caso refleja mejor la \"cerrazón\" criticada por el autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una persona modifica parcialmente su posición tras revisar un argumento mejor fundamentado.",
+          "is_correct": false,
+          "feedback": "Ese caso muestra apertura intelectual."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo académico contrasta hipótesis rivales antes de decidir.",
+          "is_correct": false,
+          "feedback": "Eso expresa la disciplina intelectual defendida."
+        },
+        {
+          "letter": "C",
+          "text": "Un ciudadano descalifica como enemigo a cualquiera que cuestione sus ideas políticas sin examinar sus razones.",
+          "is_correct": true,
+          "feedback": "Correcto. Convierte discrepancia en amenaza."
+        },
+        {
+          "letter": "D",
+          "text": "Un lector anota objeciones a un ensayo para discutirlas luego con otros.",
+          "is_correct": false,
+          "feedback": "Esa conducta mantiene el debate racional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el concepto requiere identificar el comportamiento que encarna la tesis.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Aplicar",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.47,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v10",
+      "statement": "¿Qué relación lógica une las dos primeras oraciones del texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda contradice frontalmente la primera.",
+          "is_correct": false,
+          "feedback": "No hay contradicción, sino desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda precisa la primera al definir en qué consiste realmente la tolerancia.",
+          "is_correct": true,
+          "feedback": "Correcto. Pasa de negar una idea errada a proponer la definición."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda ofrece un ejemplo histórico ajeno a la tesis inicial.",
+          "is_correct": false,
+          "feedback": "No introduce un caso histórico."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda cambia del plano ético al económico.",
+          "is_correct": false,
+          "feedback": "El texto se mantiene en el plano argumentativo y cívico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura del ensayo suele avanzar corrigiendo una idea previa y afinando el concepto central.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Comprende como se articulan las partes del texto",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v11",
+      "statement": "¿Qué objeción sería más pertinente al Texto 2 sin tergiversarlo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que escuchar al otro solo sirve en ciencias naturales, no en política.",
+          "is_correct": false,
+          "feedback": "Es una restricción arbitraria sin base textual."
+        },
+        {
+          "letter": "B",
+          "text": "Que reconocer la incompletitud del juicio propio no siempre garantiza diálogo genuino si también faltan condiciones institucionales y materiales para debatir.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una objeción compatible que amplía el problema."
+        },
+        {
+          "letter": "C",
+          "text": "Que la tolerancia exige eliminar toda convicción firme para evitar conflictos.",
+          "is_correct": false,
+          "feedback": "Esa objeción deforma la tesis original."
+        },
+        {
+          "letter": "D",
+          "text": "Que el pluralismo desaparece cuando dos personas están de acuerdo.",
+          "is_correct": false,
+          "feedback": "No responde críticamente al planteamiento del autor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una objeción pertinente discute el argumento desde dentro, sin inventar una tesis distinta.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v12",
+      "statement": "En ambos textos, el autor problematiza principalmente",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la falta de avances tecnológicos en sociedades rurales.",
+          "is_correct": false,
+          "feedback": "Esa comparación no organiza ninguno de los fragmentos."
+        },
+        {
+          "letter": "B",
+          "text": "las condiciones que debilitan el juicio crítico en la vida pública contemporánea.",
+          "is_correct": true,
+          "feedback": "Correcto. Uno lo hace desde la atención y otro desde la escucha plural."
+        },
+        {
+          "letter": "C",
+          "text": "la imposibilidad total de convivir en sociedades democráticas.",
+          "is_correct": false,
+          "feedback": "Ninguno sostiene una imposibilidad total."
+        },
+        {
+          "letter": "D",
+          "text": "el fracaso completo de la educación formal en América Latina.",
+          "is_correct": false,
+          "feedback": "Esa tesis no aparece formulada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integración entre textos exige encontrar el problema común que los articula.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Comprende como se articulan las partes del texto",
+      "expected_success": 0.39,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v13",
+      "statement": "Si se combinan las tesis de los textos, la mejor conclusión es que una ciudadanía crítica requiere",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "más velocidad para producir opiniones y mayor firmeza para defenderlas sin revisión.",
+          "is_correct": false,
+          "feedback": "Ambas tesis cuestionan esa lógica."
+        },
+        {
+          "letter": "B",
+          "text": "menos debate público y más decisiones individuales privadas.",
+          "is_correct": false,
+          "feedback": "Los textos valoran la deliberación y la atención crítica."
+        },
+        {
+          "letter": "C",
+          "text": "proteger la atención, examinar argumentos y reconocer límites del propio punto de vista al dialogar con otros.",
+          "is_correct": true,
+          "feedback": "Correcto. Integra los dos núcleos temáticos."
+        },
+        {
+          "letter": "D",
+          "text": "sustituir el desacuerdo por consensos rápidos para evitar polarización.",
+          "is_correct": false,
+          "feedback": "La disciplina intelectual no equivale a eliminar el desacuerdo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La síntesis exige unir elementos centrales sin perder precisión conceptual.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Sintetizar",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.37,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v14",
+      "statement": "¿Cuál es la tesis principal del Texto 3?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tecnología debe rechazarse porque destruye toda forma de trabajo previo.",
+          "is_correct": false,
+          "feedback": "El autor no propone rechazo total."
+        },
+        {
+          "letter": "B",
+          "text": "El progreso técnico es neutral y solo depende de la velocidad de adopción.",
+          "is_correct": false,
+          "feedback": "Esa es precisamente la idea cuestionada."
+        },
+        {
+          "letter": "C",
+          "text": "Las innovaciones tecnológicas tienen efectos políticos y por eso su orientación debe discutirse democráticamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Resume el argumento central del pasaje."
+        },
+        {
+          "letter": "D",
+          "text": "El criterio decisivo sobre tecnología debe quedar solo en manos de expertos empresariales.",
+          "is_correct": false,
+          "feedback": "El texto enfatiza participación democrática, no exclusividad tecnocrática."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis está dada por la crítica a la neutralidad y la exigencia de deliberación pública.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Identifica y entiende contenidos locales",
+      "expected_success": 0.34,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v15",
+      "statement": "¿Cuál ejemplo apoya mejor la tesis del autor?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una aplicación cambia de color de interfaz sin alterar sus usos ni condiciones.",
+          "is_correct": false,
+          "feedback": "El caso no muestra redistribución de poder ni cambio social relevante."
+        },
+        {
+          "letter": "B",
+          "text": "La automatización en una empresa reduce ciertos empleos, crea otros y obliga a debatir quién asume los costos de transición laboral.",
+          "is_correct": true,
+          "feedback": "Correcto. Muestra cómo la innovación reordena ventajas y capacidades valoradas."
+        },
+        {
+          "letter": "C",
+          "text": "Un teléfono nuevo incorpora una cámara de mayor resolución para fotos personales.",
+          "is_correct": false,
+          "feedback": "El ejemplo es demasiado superficial frente a la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo de amigos prefiere usar mensajes de voz en lugar de texto.",
+          "is_correct": false,
+          "feedback": "No expresa la dimensión estructural del argumento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evidencia más fuerte debe reflejar la relación entre innovación, distribución y decisión política.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.33,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v16",
+      "statement": "La pregunta final del texto cumple principalmente la función de",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cerrar la discusión afirmando que no existen criterios democráticos posibles.",
+          "is_correct": false,
+          "feedback": "El texto no clausura la discusión; la abre."
+        },
+        {
+          "letter": "B",
+          "text": "reemplazar la tesis inicial por una duda sin orientación argumentativa.",
+          "is_correct": false,
+          "feedback": "La pregunta mantiene y refuerza la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "desplazar la atención desde la adopción técnica hacia las condiciones políticas de su orientación.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la reorientación central del fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "demostrar que toda decisión técnica depende exclusivamente del mercado global.",
+          "is_correct": false,
+          "feedback": "El autor no reduce el problema a una sola variable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En ensayos argumentativos, las preguntas pueden funcionar como cierre crítico y no como simple duda.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analizar",
+      "icfes_type": "Comprende como se articulan las partes del texto",
+      "expected_success": 0.31,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v17",
+      "statement": "¿Cuál afirmación integra mejor los tres textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vida democrática mejora cuando las decisiones son más rápidas y menos discutidas.",
+          "is_correct": false,
+          "feedback": "Los tres textos cuestionan la rapidez irreflexiva."
+        },
+        {
+          "letter": "B",
+          "text": "El principal problema contemporáneo es únicamente el exceso de tiempo frente a las pantallas.",
+          "is_correct": false,
+          "feedback": "Esa lectura reduce indebidamente el alcance de los textos."
+        },
+        {
+          "letter": "C",
+          "text": "La democracia exige condiciones cognitivas y políticas: atención sostenida, apertura al desacuerdo y deliberación sobre cómo se orientan las transformaciones tecnológicas.",
+          "is_correct": true,
+          "feedback": "Correcto. Integra los tres núcleos argumentativos."
+        },
+        {
+          "letter": "D",
+          "text": "La solución a la polarización consiste en suspender todo juicio individual.",
+          "is_correct": false,
+          "feedback": "El Texto 2 rechaza explícitamente esa idea."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La respuesta correcta vincula atención, pluralismo y control democrático sobre la técnica.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.28,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v18",
+      "statement": "¿Cuál crítica sería menos compatible con el conjunto de textos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las plataformas y tecnologías no son neutrales respecto a la formación del juicio público.",
+          "is_correct": false,
+          "feedback": "Esa crítica sí es compatible con los textos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el pluralismo requiere disciplina intelectual y no solo buena intención.",
+          "is_correct": false,
+          "feedback": "Esa idea coincide con el Texto 2."
+        },
+        {
+          "letter": "C",
+          "text": "Que la atención dispersa debilita la evaluación madura de opiniones.",
+          "is_correct": false,
+          "feedback": "Esa es una tesis central del Texto 1."
+        },
+        {
+          "letter": "D",
+          "text": "Que la deliberación democrática debe ceder por completo ante decisiones técnicas tomadas sin participación ciudadana.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa posición contradice abiertamente el conjunto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La opción menos compatible es la que niega el hilo argumental compartido por los textos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Comprende como se articulan las partes del texto",
+      "expected_success": 0.26,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v19",
+      "statement": "¿Cuál decisión está mejor sustentada por las tesis de los textos?",
+      "context": "Una universidad diseña una política para uso de inteligencia artificial en trabajos académicos. Debe decidir entre prohibición total, libertad irrestricta o regulación con criterios pedagógicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir toda herramienta digital porque cualquier mediación tecnológica anula el pensamiento crítico.",
+          "is_correct": false,
+          "feedback": "Esa respuesta radical no se deriva de los textos."
+        },
+        {
+          "letter": "B",
+          "text": "Permitir cualquier uso sin criterios porque la tecnología es neutral y el estudiante decide individualmente.",
+          "is_correct": false,
+          "feedback": "Niega la dimensión política y cognitiva discutida."
+        },
+        {
+          "letter": "C",
+          "text": "Establecer reglas de uso, transparencia y evaluación del razonamiento para que la herramienta no reemplace atención, juicio ni deliberación académica.",
+          "is_correct": true,
+          "feedback": "Correcto. Integra orientación democrática y formación crítica."
+        },
+        {
+          "letter": "D",
+          "text": "Delegar toda decisión en una empresa tecnológica para ahorrar debate institucional.",
+          "is_correct": false,
+          "feedback": "Contradice el llamado a participación y orientación pública."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La aplicación adecuada no rechaza ni absolutiza la tecnología: la somete a criterios formativos y públicos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Crear",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.24,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-11-P1-ensayo-002-MASTERY-v20",
+      "statement": "¿Cuál formulación expresa mejor el aporte de los ensayos filosóficos a la vida democrática?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reemplazan los debates ciudadanos por definiciones abstractas sin consecuencias prácticas.",
+          "is_correct": false,
+          "feedback": "Los textos muestran efectos concretos sobre juicio y decisión pública."
+        },
+        {
+          "letter": "B",
+          "text": "Sirven solo para resumir autores clásicos y memorizar conceptos.",
+          "is_correct": false,
+          "feedback": "Esa visión escolarizada empobrece su función crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrecen marcos para examinar supuestos, discutir criterios y evaluar las condiciones bajo las cuales decidimos colectivamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Resume la función crítica del ensayo en democracia."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminan el conflicto interpretativo al fijar una verdad única para todos.",
+          "is_correct": false,
+          "feedback": "Los ensayos valoran la discusión, no la clausuran."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ensayo filosófico fortalece la ciudadanía cuando ayuda a interrogar supuestos y no solo a repetir ideas.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluar",
+      "icfes_type": "Reflexiona a partir de un texto y evalua su contenido",
+      "expected_success": 0.22,
+      "bundle_id": "CO-LEC-11-P1-ensayo-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v1",
+      "statement": "¿Cual es la tesis principal del texto?",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La verdad no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no niega la verdad; cuestiona la idea de una verdad sin perspectiva."
+        },
+        {
+          "letter": "B",
+          "text": "La objetividad exige reconocer y revisar la propia perspectiva.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la idea central del fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "Toda opinion es igual de valida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no iguala todas las opiniones."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la costumbre produce conocimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor critica esa reduccion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis se reconoce por la afirmacion que organiza el resto del argumento.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identifica la tesis principal del fragmento.",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v2",
+      "statement": "La expresion \"Por eso\" en el texto cumple la funcion de:",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducir una contradiccion absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contradice lo anterior."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar una conclusion derivada de las ideas previas.",
+          "is_correct": true,
+          "feedback": "Correcto. El conector introduce consecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar de tema sin relacion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue el mismo hilo."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar un ejemplo historico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ejemplo historico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conector ordena la secuencia argumentativa.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce la funcion de un conector logico.",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v3",
+      "statement": "¿Que critica el texto cuando afirma que quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre?",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lectura personal de un texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La critica no es a leer, sino a no reconocer la perspectiva."
+        },
+        {
+          "letter": "B",
+          "text": "La falsa neutralidad que convierte una costumbre en verdad.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la critica central."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de distintas miradas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto las admite."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de normas escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No trata de normas escolares."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inferencia sale de relacionar \"verdad sin perspectiva\" con \"costumbre\".",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpreta una implicacion de la frase inicial.",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v4",
+      "statement": "Segun el texto, la objetividad consiste en:",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar toda opinion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no exige eliminar toda opinion."
+        },
+        {
+          "letter": "B",
+          "text": "Revisar la propia perspectiva antes de tomarla como norma.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definicion que propone el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir lo que dice la mayoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoria no garantiza objetividad."
+        },
+        {
+          "letter": "D",
+          "text": "Aceptar solo datos numericos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No reduce la objetividad a numeros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El autor redefine objetividad como revision critica, no ausencia total de punto de vista.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce una definicion conceptual.",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v5",
+      "statement": "¿Que afirmacion fortalece mejor el argumento del texto?",
+      "context": "*Quien busca una verdad sin perspectiva suele terminar defendiendo una costumbre. Toda mirada selecciona, ordena y omite. Por eso la pregunta correcta no es si observamos desde un punto de vista, sino si somos capaces de reconocerlo. La objetividad no consiste en no tener perspectiva, sino en revisar la propia antes de convertirla en norma.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda interpretacion debe examinar desde donde mira antes de proclamarse universal.",
+          "is_correct": true,
+          "feedback": "Correcto. Refuerza la tesis del fragmento."
+        },
+        {
+          "letter": "B",
+          "text": "La primera impresion siempre basta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contradice el texto."
+        },
+        {
+          "letter": "C",
+          "text": "La perspectiva no influye en nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto la pone en el centro."
+        },
+        {
+          "letter": "D",
+          "text": "La costumbre vale mas que la revision.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor critica esa idea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se pide una afirmacion coherente con la conclusion del autor.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Valora la fuerza de la postura.",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v6",
+      "statement": "¿Cual es la idea principal del fragmento?",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La memoria funciona como una foto exacta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Recordar implica reconstruir el pasado.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la idea central."
+        },
+        {
+          "letter": "C",
+          "text": "Dos versiones distintas siempre son falsas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que no necesariamente mienten."
+        },
+        {
+          "letter": "D",
+          "text": "El pasado no influye en el presente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presente interviene en el recuerdo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea central se identifica por su alcance explicativo sobre todo el fragmento.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identifica la idea principal de un fragmento reflexivo.",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v7",
+      "statement": "¿Por que el autor dice que la memoria no guarda el pasado como una vitrina?",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el pasado es inutil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dice que sea inutil."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el recuerdo no es pasivo ni exacto.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparacion niega la conservacion pura."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo existen objetos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparacion critica la idea de archivo fijo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque nadie puede hablar del pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se puede hablar, pero reconstruyendolo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La imagen de la vitrina contrasta con la naturaleza activa del recordar.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpreta el sentido de una comparacion.",
+      "expected_success": 0.57,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v8",
+      "statement": "¿Que se concluye de que dos personas narren un mismo hecho de forma distinta?",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que una necesariamente miente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto niega esa conclusion."
+        },
+        {
+          "letter": "B",
+          "text": "Que el recuerdo depende tambien de quien recuerda.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la implicacion explicita."
+        },
+        {
+          "letter": "C",
+          "text": "Que el hecho nunca ocurrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se afirma eso."
+        },
+        {
+          "letter": "D",
+          "text": "Que el lenguaje no sirve para narrar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si sirve, aunque filtre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia entre relatos se explica por la reconstruccion subjetiva.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce una consecuencia explicita.",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v9",
+      "statement": "¿Que interpretacion es mas fiel al texto?",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recordar es una actividad activa que mezcla pasado y presente.",
+          "is_correct": true,
+          "feedback": "Correcto. Resume bien la postura del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Recordar es copiar un archivo fijo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto lo niega."
+        },
+        {
+          "letter": "C",
+          "text": "El recuerdo elimina toda subjetividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subjetividad es central."
+        },
+        {
+          "letter": "D",
+          "text": "La memoria impide cualquier narracion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la hace posible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mejor interpretacion conserva el papel del presente en la memoria.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evalua una interpretacion adecuada.",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v10",
+      "statement": "La relacion entre \"reorganiza cada vez que lo recuerda\" y \"volver a construir\" es:",
+      "context": "*La memoria no guarda el pasado como una vitrina guarda objetos. Lo reorganiza cada vez que lo recuerda. Por eso dos personas pueden narrar el mismo hecho de forma distinta sin que una de ellas mienta necesariamente. Recordar no es fotografiar; es volver a construir con lo que queda y con lo que hoy somos.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De contradiccion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas ideas apuntan a lo mismo."
+        },
+        {
+          "letter": "B",
+          "text": "De ampliacion y reformulacion.",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda expresa la primera con mas detalle."
+        },
+        {
+          "letter": "C",
+          "text": "De ejemplo y dato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una relation ejemplar."
+        },
+        {
+          "letter": "D",
+          "text": "De cita y comentario externo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas pertenecen al mismo texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El autor reitera su tesis con dos formulaciones complementarias.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Relaciona dos ideas del fragmento.",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v11",
+      "statement": "¿Cual es la postura del autor frente a la tecnologia?",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tecnologia destruye siempre la atencion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no la demoniza por completo."
+        },
+        {
+          "letter": "B",
+          "text": "La tecnologia no es el problema unico; lo es la forma en que exige prioridad total.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la postura del fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "La tecnologia no afecta nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si afecta."
+        },
+        {
+          "letter": "D",
+          "text": "La tecnologia solo sirve para estudiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se limita a eso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La postura evita extremos y apunta a una gestion critica del uso.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identifica la postura del autor.",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v12",
+      "statement": "Si un dispositivo exige prioridad total, segun el texto, entonces:",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El criterio desaparece por magia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desaparicion no es magica, sino una consecuencia de la falta de decision."
+        },
+        {
+          "letter": "B",
+          "text": "La atencion deja de depender del tiempo y pasa a depender del juicio.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la tension que propone el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Ya no existe presencia humana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exagera el problema."
+        },
+        {
+          "letter": "D",
+          "text": "Toda espera se vuelve ilegal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay esa afirmacion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La clave esta en la relacion entre demanda tecnica y criterio humano.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Juzga una consecuencia razonable.",
+      "expected_success": 0.46,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v13",
+      "statement": "La oposicion entre \"falta tiempo\" y \"falta criterio\" busca mostrar que:",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El problema siempre es de horario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto cambia el foco hacia el criterio."
+        },
+        {
+          "letter": "B",
+          "text": "El obstaculo principal es etico y no solo logistico.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor desplaza la explicacion hacia la decision."
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dice eso."
+        },
+        {
+          "letter": "D",
+          "text": "El criterio solo sirve en matematicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se limita a una materia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contraste separa disponibilidad material de juicio practico.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpreta una oposicion conceptual.",
+      "expected_success": 0.44,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v14",
+      "statement": "¿Cual reformulacion conserva mejor el sentido del texto?",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tecnologia obliga a responder todo de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa formulacion es demasiado absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "La tecnologia exige decisiones sobre que atender y que dejar en espera.",
+          "is_correct": true,
+          "feedback": "Correcto. Resume la idea central."
+        },
+        {
+          "letter": "C",
+          "text": "La atencion solo depende del reloj.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio tambien importa."
+        },
+        {
+          "letter": "D",
+          "text": "La espera no tiene relacion con la vida digital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto la pone al centro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reformulacion correcta debe conservar el foco en la decision atencional.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Valora una reformulacion fiel.",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v15",
+      "statement": "¿Que sugiere el fragmento sobre la presencia?",
+      "context": "*La tecnologia no destruye por si misma la atencion; la distribuye y la disputa. El problema aparece cuando todo dispositivo exige prioridad total. En ese punto, no falta tiempo: falta criterio para decidir que merece presencia y que merece espera.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es un accidente sin valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor la trata como algo importante."
+        },
+        {
+          "letter": "B",
+          "text": "Que requiere seleccionar con cuidado a que dedicarle atencion.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la implicacion normativa."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo importa en vacaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay esa limitacion."
+        },
+        {
+          "letter": "D",
+          "text": "Que depende unicamente de la tecnologia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Depende del juicio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La presencia se convierte en una practica de seleccion consciente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce una implicacion normativa.",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v16",
+      "statement": "¿Cual es la conclusion principal del fragmento?",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto debe eliminarse siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto acepta la discrepancia."
+        },
+        {
+          "letter": "B",
+          "text": "Una comunidad sana cuida la forma en que discute.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la conclusion general."
+        },
+        {
+          "letter": "C",
+          "text": "La verdad solo sirve para ganar discusiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto critica ese uso."
+        },
+        {
+          "letter": "D",
+          "text": "El desacuerdo no tiene valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si lo tiene cuando se cuida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conclusion integra comunidad, conflicto y responsabilidad discursiva.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evalua una conclusion general.",
+      "expected_success": 0.38,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v17",
+      "statement": "¿Que significa que la verdad \"empieza a exhibirse como arma\"?",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la verdad desaparece.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue presente, pero usada de forma agresiva."
+        },
+        {
+          "letter": "B",
+          "text": "Que se usa para atacar en lugar de dialogar.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la imagen critica."
+        },
+        {
+          "letter": "C",
+          "text": "Que la verdad se vuelve un objeto fisico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una metafora."
+        },
+        {
+          "letter": "D",
+          "text": "Que el conflicto termina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En realidad empeora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metafora revela una critica al uso belico del lenguaje.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpreta una metafora.",
+      "expected_success": 0.36,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v18",
+      "statement": "La oposicion entre \"evitar el conflicto\" y \"discutirlo\" sirve para:",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Definir dos paises distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay geografia."
+        },
+        {
+          "letter": "B",
+          "text": "Diferenciar huida de elaboracion critica.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor valora el segundo camino."
+        },
+        {
+          "letter": "C",
+          "text": "Mostrar un dato estadistico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay estadistica."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar una receta de cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contraste organiza la conclusion sobre convivencia.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reconoce la funcion de un contraste.",
+      "expected_success": 0.35,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v19",
+      "statement": "¿Que afirmacion resume mejor la postura del autor?",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desacuerdo debe ocultarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto propone tratarlo bien, no ocultarlo."
+        },
+        {
+          "letter": "B",
+          "text": "El desacuerdo puede ser fecundo si no destruye al otro.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la sintesis mas fiel."
+        },
+        {
+          "letter": "C",
+          "text": "La comunidad solo existe sin diferencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto parte de la discrepancia."
+        },
+        {
+          "letter": "D",
+          "text": "El insulto fortalece el dialogo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo destruye."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mejor sintesis conserva conflicto, cuidado y posibilidad de novedad.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Valora una postura argumentativa.",
+      "expected_success": 0.34,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-P1-continuos-003-v20",
+      "statement": "¿Cual consecuencia se deriva de cuidar el desacuerdo?",
+      "context": "*Una comunidad madura no es la que evita el conflicto, sino la que sabe discutirlo sin convertir al otro en enemigo. Cuando la discrepancia se vuelve insulto, la verdad deja de buscarse y empieza a exhibirse como arma. Cuidar el desacuerdo es cuidar el espacio comun donde todavia puede aparecer algo nuevo.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se mantiene abierto el espacio para construir algo nuevo.",
+          "is_correct": true,
+          "feedback": "Correcto. Resume el efecto final del fragmento."
+        },
+        {
+          "letter": "B",
+          "text": "Desaparece toda tension para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no promete eliminar el conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "La verdad deja de existir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue buscandose."
+        },
+        {
+          "letter": "D",
+          "text": "El otro deja de tener valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El otro es parte del espacio comun."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cierre une desacuerdo cuidado y apertura a novedades.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reconoce una implicacion final.",
+      "expected_success": 0.32,
+      "bundle_id": "CO-LC-11-P1-continuos-003-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
     }
   ]
 }

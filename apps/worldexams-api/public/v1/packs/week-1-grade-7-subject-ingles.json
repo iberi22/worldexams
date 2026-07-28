@@ -1,0 +1,3451 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-1-grade-7-subject-ingles",
+    "generated_at": "2026-07-28T22:11:09.201Z"
+  },
+  "questions": [
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v1",
+      "statement": "What is this?",
+      "context": "**Definition:** \"Causing unnecessary pain or suffering to an animal.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kindness",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Animal Cruelty",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Training",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Vet care",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Cruelty**. Unethical treatment.\r\n*Español: Crueldad animal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v2",
+      "statement": "What symbol usually implies this?",
+      "context": "**Label:** \"This shampoo was NOT tested on animals.\"",
+      "options": [
+        {
+          "letter": "B",
+          "text": "A Rabbit (Cruelty-Free)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "A",
+          "text": "A Skull",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Tree",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Car",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Cruelty-Free**. No animal testing.\r\n*Español: Libre de crueldad (Cruelty-Free).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v3",
+      "statement": "This is a...",
+      "context": "**Place:** \"A huge industrial farm where animals are kept in tiny cages.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Petting Zoo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Factory Farm",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Forest",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hotel",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Factory Farming**. Industrialized production vs Welfare.\r\n*Español: Granjas industriales.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v4",
+      "statement": "They are...",
+      "context": "**Diet:** \"A person who eats no meat, eggs, or dairy.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carnivore",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Vegan",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Vegetarian (Might eat eggs/dairy)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Omnivore",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Vegan**. Plant-based diet.\r\n*Español: Vegano.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v5",
+      "statement": "What do they use instead?",
+      "context": "**Clothing:** \"Many brands stopped using real animal fur.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Skin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Faux Fur (Fake fur)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Paper",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nothing",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Faux Fur**. Synthetic alternative.\r\n*Español: Piel sintética (Faux fur).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v6",
+      "statement": "Leaving a dog on the side of the road is...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A vacation",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Abandonment (A crime)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Freedom",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Funny",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Abandonment**. Illegal and cruel.\r\n*Español: Abandono animal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v7",
+      "statement": "Many countries have _______ this practice.",
+      "context": "**Debate:** \"Should wild animals perform tricks in the circus?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Started",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Banned / Stopped",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Loved",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Watched",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Banned**. Prohibited by law due to welfare concerns.\r\n*Español: Prohibición de animales en circos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v8",
+      "statement": "This means they are ________ beings.",
+      "context": "**Science:** \"Animals can feel pain and emotions.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Robotic",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sentient",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Stupid",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dead",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Sentient**. Capable of feeling.\r\n*Español: Seres sintientes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v9",
+      "statement": "Is this correct?",
+      "context": "**Example:** A Guide Dog for the blind.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, dogs shouldn't work.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, if treated well (Service Animals).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Only if the dog pays taxes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No, cats are better.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Service Animals**. Working partners, not exploited.\r\n*Español: Animales de servicio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-animal-rights-001-v10",
+      "statement": "Why say \"Adopt, Don't Shop\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shops are expensive.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "To save homeless animals in shelters instead of supporting puppy mills.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Shopping is boring.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Unknown.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Adopt Don't Shop**. Slogan for animal welfare.\r\n*Español: Adopta, no compres.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-animal-rights-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v1",
+      "statement": "What is the universal emergency number in the USA (and many movies)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "123",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "911",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "000",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "555",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **911**. Universal knowledge. (112 in Europe, 123 in Colombia).\r\n*Español: Número de emergencia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v2",
+      "statement": "You should...",
+      "context": "**Alarm:** The school fire alarm rings.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panic and scream.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Walk calmly to the exit (Evacuate).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hide under the desk.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Finish your lunch.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Evacuation**. Stay calm.\r\n*Español: Simulacro de incendio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v3",
+      "statement": "What is the rule?",
+      "context": "**Event:** The ground starts shaking.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Run to the window.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Drop, Cover, and Hold On.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Jump.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Call Mom.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Drop, Cover, Hold On**. Earthquake safety.\r\n*Español: Seguridad en terremotos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v4",
+      "statement": "Put it under...",
+      "context": "**Injury:** You burned your finger on the stove.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hot water",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cool running water",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Butter",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ice (Direct ice can damage tissue)",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Cool water**. First aid for burns.\r\n*Español: Primeros auxilios (Quemaduras).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v5",
+      "statement": "They are...",
+      "context": "**Sign:** Keep clutching their throat and cannot speak.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Singing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Choking",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sleeping",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Thinking",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Choking**. Universal sign.\r\n*Español: Atragantamiento.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v6",
+      "statement": "What do you apply?",
+      "context": "**Injury:** A deep cut is bleeding.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pressure (to stop the blood)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Toothpaste",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nothing",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Pressure**. Stop bleeding.\r\n*Español: Hemorragia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v7",
+      "statement": "You should...",
+      "context": "**Situation:** The room is full of smoke during a fire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stand up tall",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Crawl low (Smoke rises)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dance",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sing",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Crawl low**. Air is cleaner near floor.\r\n*Español: Humo e incendios.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v8",
+      "statement": "This means...",
+      "context": "**Symbol:** A Skull and Crossbones on a bottle. ☠️",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pirate treasure",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Poison / Toxic",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Candy",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Poison**. Warning symbols.\r\n*Español: Símbolo de veneno.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v9",
+      "statement": "What is this?",
+      "context": "**Technique:** Pushing on the chest to help a heart that stopped.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "MRI",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "CPR (Cardiopulmonary Resuscitation)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "X-Ray",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hug",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **CPR**. Life-saving technique.\r\n*Español: RCP (CPR).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-emergency-response-001-v10",
+      "statement": "What should you say first?",
+      "context": "**Call:** \"911, what is your emergency?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Hi, how are you?\"",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Your location and the problem.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A joke.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nothing.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Location**. Most important info.\r\n*Español: Llamada de emergencia.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-emergency-response-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v1",
+      "statement": "What went wrong if the screws are tight but Part C is not attached yet?",
+      "context": "**Instructions:**\r\n1. Connect Part A to Part B.\r\n2. Do NOT screw tight until Part C is attached.\r\n3. Attach Part C.\r\n4. Tighten all screws.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You followed the instructions perfectly.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Part A is broken.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "You skipped step 3 and did step 4 too early.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The instructions are wrong.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Logic flow error. Instruction 2 explicitly warns NOT to tighten until Part C is attached.\r\n*Español: Error de seguimiento de instrucciones (Condition failed).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v2",
+      "statement": "How much is a Pizza with 2 toppings and a Water?",
+      "context": "**Menu:**\r\n- Pizza: $10 (Toppings +$2 each)\r\n- Burger: $8 (Cheese +$1)\r\n- Water: Free",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$14",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$10",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$11",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Math: Pizza $10 + Topping 1 ($2) + Topping 2 ($2) + Water $0 = **$14**.\r\n*Español: Cálculo simple: Base + Extras.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v3",
+      "statement": "John took a pill at 8:00 AM on an empty stomach. What mistake did he make?",
+      "context": "**Label:**\r\n\"Take 1 pill every 6 hours. Do not exceed 4 pills in 24 hours. Take with food.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He took too many pills.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "He took it at the wrong time.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "He did not eat food with it.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "He waited too long.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Condition check: \"Take with food\". He took it on an \"empty stomach\" (no food).\r\n*Español: Incumplimiento de condición médica (Tomar con comida).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v4",
+      "statement": "How much does a 4-year-old pay?",
+      "context": "**Sign:**\r\n\"Free entry for children under 5. Half price for students. Full price ($20) for adults.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$10",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$0 (Free)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$5",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Categorization: 4-year-old is \"children under 5\". Price is **Free**.\r\n*Español: Categorización por edad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v5",
+      "statement": "Can I return a shirt I bought 10 days ago if I lost the receipt?",
+      "context": "**Policy:**\r\n\"Returns accepted within 30 days of purchase only with a receipt. No returns on socks or underwear.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, because it's only 10 days.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because it's not socks.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, because the receipt is missing.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Maybe.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** AND Logic: (Within 30 days) AND (With Receipt) AND (Not Socks/Underwear). Missing receipt = **No**.\r\n*Español: Lógica de condiciones múltiples (AND).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v6",
+      "statement": "If you turn left instead of right, where do you go?",
+      "context": "**Directions:** \"Go out the front door. Turn right. Walk past the shop. The cafe is next to the bank.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To the cafe.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Past the shop.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "In the wrong direction / Away from the cafe.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Into the bank.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Spatial logic. Left is opposite of Right. You go away from the target.\r\n*Español: Navegación espacial básica.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v7",
+      "statement": "Is this email safe?",
+      "context": "**Email Subject:** \"Urgent: Your account password\"\r\n**Sender:** \"security@goggle-mail.com\" (Notice spelling)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, it says Urgent.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, it is from Google.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, it is likely a scam/phishing (wrong spelling).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Yes, I need to fix my password.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Observation: \"goggle-mail\" is a typo/fake domain. Scams often use similar names.\r\n*Español: Detección de Phishing por error ortográfico en dominio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v8",
+      "statement": "My mixture acts like water. What should I add?",
+      "context": "**Recipe:** \"If the mixture is too dry, add milk. If it is too wet, add flour.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Milk",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Flour",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Eggs",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Logic: \"Acts like water\" = \"Too wet\". Therefore -> Add **Flour**.\r\n*Español: Resolución de problemas condicionales (If-Then).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v9",
+      "statement": "Can I use it on Tuesday at 4pm (if it is not a holiday)?",
+      "context": "**Ticket:** \"Valid Mon-Fri, 9am-5pm. Not valid on Public Holidays.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, it's too late.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, it's a holiday.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Only if I pay extra.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** Check: Day (Tue is Mon-Fri) = OK. Time (4pm is 9-5) = OK. Holiday (Not holiday) = OK. All True.\r\n*Español: Verificación triple de validez.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-functional-logic-001-v10",
+      "statement": "Where do I put a broken glass bottle?",
+      "context": "**Bin Labels:**\r\n- Blue: Paper\r\n- Green: Glass\r\n- Black: General Waste (No Food)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blue Bin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Green Bin",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Black Bin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "On the floor",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Catgorization: Glass bottle = **Glass** = Green Bin.\r\n*Español: Clasificación por categorías.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-functional-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v1",
+      "statement": "**Definition:** A strong desire to achieve something, such as success or power.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fear",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Ambition",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Doubt",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Memory",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Her **ambition** is to become a world-famous scientist.\r\n*Español: Su **ambición/deseo (ambition)** es convertirse en una científica famosa.*\r\n\r\n**Vocabulary Table:**\r\n| English | Español | Example |\r\n|---------|---------|---------|\r\n| Ambition | Ambición/Deseo | He has no ambition. |\r\n| Goal | Meta | My goal is to finish the marathon. |\r\n| Success | Éxito | Hard work leads to success. |\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v2",
+      "statement": "**Definition:** The object of a person's ambition or effort; an aim or desired result.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Problem",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Task",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Goal",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Past",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Setting a clear **goal** helps you stay focused on your work.\r\n*Español: Establecer una **meta (goal)** clara te ayuda a mantenerte enfocado.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v3",
+      "statement": "What is this workshop for?",
+      "context": "**Poster for a school workshop:** \"CAREER PLANNING DAY. Learn how to write a CV and find your dream job. Wednesday in the Main Hall.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To learn about ancient history.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "To play video games all day.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "To help students prepare for their future professional lives.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "To clean the classroom.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** \"Career planning\" and \"CV writing\" are activities to prepare for **jobs**.\r\n*Español: Se trata de preparar a los estudiantes para sus vidas profesionales.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v4",
+      "statement": "Choose the most appropriate response using the future tense.",
+      "context": "**Friend A:** \"Where do you see yourself in five years?\"\r\n**Friend B:** \"___________________\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was playing soccer yesterday.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "I hope I will be studying at the university of my dreams.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "I am five years old today.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Five is a lucky number.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Friend B uses **\"I hope I will be...\"** to express a future aspiration.\r\n*Español: El amigo B usa \"I hope I will be...\" para expresar una aspiración futura.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v5",
+      "statement": "Choose the correct verb for (5).",
+      "context": "**Text:**\r\nIf you (5) ______ hard, you (6) ______ reach your goals. It takes time and dedication.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "works",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "work",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "working",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "worked",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **First Conditional** (\"If + present simple...\").\r\n*Español: Primer Condicional.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v6",
+      "statement": "Choose the correct verb for (6).",
+      "context": "**Text (same as above):**\r\nIf you (5) ______ hard, you (6) ______ reach your goals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "will",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "would",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** We use **will** in the main clause of the first conditional for a certain result.\r\n*Español: Usamos **will** en la oración principal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v7",
+      "statement": "According to the text, what is one requirement to be a successful content creator?",
+      "context": "**Reading passage:**\r\n\"Many young people dream of becoming 'influencers' or content creators. While it looks easy, it actually requires many skills, such as video editing, communication, and marketing. It also requires consistency; successful creators post content regularly and interact with their audience to build a community. It is a modern career that combines creativity with technology.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You only need to have a lot of money.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "You must never talk to anyone online.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "You need several skills and consistency in posting content.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "You only need to play video games.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The text mentions: \"...requires many skills... successful creators post content regularly...\"\r\n*Español: El texto afirma que requiere habilidades y consistencia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v8",
+      "statement": "What does the author imply about people's perception of becoming an influencer?",
+      "context": "**Reading passage (Same as above):**\r\n\"While it looks easy, it actually requires many skills...\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "People think it is the most difficult job in the world.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "People often underestimate the work involved in this career.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "People think influencers are not real people.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "People think it is impossible for anyone to succeed.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** If it **\"looks easy\"** but is **\"actually\"** hard, people **underestimate** (**don't value enough**) the effort.\r\n*Español: Se infiere que la gente subestima el trabajo involucrado.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v9",
+      "statement": "Choose the correct verb form for (9).",
+      "context": "**Text:**\r\nShe (9) ______ to become a doctor (10) ______ she was a little girl.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wants",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "has wanted",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "wanting",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "were wanting",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Has wanted** (Present Perfect) describes a feeling that has continued from the past to the present.\r\n*Español: Presente Perfecto.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-future-001-v10",
+      "statement": "Choose the correct word for (10).",
+      "context": "**Text (same as above):**\r\nShe (9) ______ to become a doctor (10) ______ she was a little girl.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "since",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "during",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Since** marks the specific point in time where the desire began.\r\n*Español: **Since (desde)** marca el punto de inicio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-future-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v1",
+      "statement": "What is the honest thing to do?",
+      "context": "**Situation:** You find a wallet full of money on the bus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Give it to the bus driver or police.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Buy candy.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Throw it out.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Honesty**. Returning lost property.\r\n*Español: Honestidad (Objeto perdido).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v2",
+      "statement": "Should you look at your neighbor's paper?",
+      "context": "**Situation:** You don't know the answer to a test question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, if the teacher isn't looking.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, that is cheating.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Yes, if they are smart.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Only once.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Academic Integrity**. Cheating is dishonest.\r\n*Español: Integridad académica / Copiar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v3",
+      "statement": "What is this called?",
+      "context": "**Definition:** \"A small lie told to be polite or avoid hurting feelings.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Black Lie",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A White Lie",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Red Lie",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A True Lie",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **White Lie**. Socially acceptable untruth (sometimes).\r\n*Español: Mentira piadosa (White Lie).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v4",
+      "statement": "What does this mean?",
+      "context": "**Phrase:** \"I give you my word.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am giving you a dictionary.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "I promise (You can trust me).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "I am lying.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "I am speaking.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **\"My word\"**. Honor/Promise.\r\n*Español: Dar mi palabra.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v5",
+      "statement": "What shows integrity?",
+      "context": "**Situation:** You forgot to do your chores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blaming your brother.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Admitting you forgot and doing them now.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Says the dog ate them.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Crying.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Integrity**. Owning your mistakes.\r\n*Español: Admitir errores.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v6",
+      "statement": "You should...",
+      "context": "**Situation:** A friend tells you a secret (unless it is dangerous).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Put it on Facebook.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Keep the secret (Trust).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tell everyone.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sell it.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Trustworthiness**. Keeping confidence.\r\n*Español: Guardar secretos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v7",
+      "statement": "Is this honest?",
+      "context": "**Action:** Copying homework from the internet and saying you wrote it.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, if it is correct.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, it is plagiarism (stealing ideas).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Yes, everyone does it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Maybe.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Plagiarism** is academic dishonesty.\r\n*Español: Plagio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v8",
+      "statement": "This is called...",
+      "context": "**Action:** Spreading rumors about people behind their backs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "News",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Gossip",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "History",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Facts",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Gossip**. Examples of bad character.\r\n*Español: Chisme (Gossip).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v9",
+      "statement": "This is your...",
+      "context": "**Concept:** \"What other people think of your character based on your actions.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Popularity",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Reputation",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Style",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Height",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Reputation**. Built on honesty.\r\n*Español: Reputación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-honesty-honor-001-v10",
+      "statement": "What does an honorable player do?",
+      "context": "**Game:** You lose a soccer match.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fight the winner.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Shake hands (Sportsmanship).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Steal the ball.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cry on the floor.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Sportsmanship/Fair Play**. Honor in defeat.\r\n*Español: Deportividad.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-honesty-honor-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v1",
+      "statement": "Where are you?",
+      "context": "**Map instructions:**\r\n1. Start at the bank.\r\n2. Go straight for two blocks.\r\n3. Turn left at the park.\r\n4. The destination is on your right, opposite the school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At the bank",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "In the park",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Detailed location (Library/Shop/etc.) - *Matches logic*",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Behind the school",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Follow the sequence: Bank -> Straight (2 blocks) -> Left -> Right side + Opposite School. This requires holding multiple spatial constraints in memory.\r\n*Español: Secuencia espacial compleja.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v2",
+      "statement": "Do they have enough time to get to dinner?",
+      "context": "**Schedule:**\r\n- Movie starts: 4:15 PM\r\n- Movie ends: 6:30 PM\r\n- Dinner reservation: 7:00 PM\r\n- Travel time schedule to restaurant: 45 minutes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, they have 1 hour.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, they have exactly 45 minutes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, they will be 15 minutes late.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No, they are 2 hours late.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Calculation: 6:30 (End) + 45 min (Travel) = 7:15 arrival. Reservation is 7:00. 7:15 is **15 minutes late**.\r\n*Español: Cálculo matemático-temporal. 6:30 + 45m = 7:15. Llegan tarde.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v3",
+      "statement": "Which pet is best for Sarah?",
+      "context": "**Text:**\r\n\"Sarah loves animals but she is allergic to cats. She wants a pet that can learn tricks.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A cat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A goldfish",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A dog",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A rock",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Constraints: 1. Animal (Not D), 2. Not cat (Not A), 3. Learn tricks (Dogs do this better than fish). **Dog** is the logical choice.\r\n*Español: Satisfacción de restricciones: Animal + No gato + Trucos = Perro.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v4",
+      "statement": "What implies the cause?",
+      "context": "**Situation:**\r\n\"The plants in the garden are brown and dry.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It rained too much clearly.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Someone painted them brown.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "They did not get enough water.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The plants are sleeping.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** \"Brown and dry\" is the universal sign of **dehydration** in plants. C is the only scientific cause.\r\n*Español: Plantas marrones y secas = falta de agua.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v5",
+      "statement": "What is the writer doing?",
+      "context": "**Email:**\r\n\"Hi John, I'm afraid I can't make it to your party on Saturday. I have a family dinner.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accepting an invitation.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Declining an invitation politely.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Asking for food.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Making a joke.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"I can't make it\" + Reason = **Declining**. Identifying the *social function* of the text.\r\n*Español: Identificar la función social (rechazar invitación).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v6",
+      "statement": "How much do you save with the deal?",
+      "context": "**Price List:**\r\n- Burger: $5\r\n- Fries: $3\r\n- Soda: $2\r\n**Deal:** Buy all three for $8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "$1",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "$2",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$3",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Sum: $5 + $3 + $2 = $10. Deal: $8. Savings: $10 - $8 = **$2**.\r\n*Español: Aritmética simple aplicada a contexto real.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v7",
+      "statement": "Which item does NOT belong in the suitcase for a beach holiday?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Swimsuit",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sunglasses",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Winter coat",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sunscreen",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Context: **Beach holiday** (Hot/Sun). \"Winter coat\" is for cold weather. It is illogical.\r\n*Español: Categorización lógica basada en contexto (Playa vs Invierno).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v8",
+      "statement": "Tom finished his homework but his room is messy. Can he watch TV?",
+      "context": "**Rule:**\r\n\"You can watch TV only if you finish your homework and clean your room.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, because he did his homework.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, because he didn't do both tasks.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Yes, if he asks nicely.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Maybe tomorrow.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Boolean Logic: (Homework AND Room) = TV. True AND False = **False**.\r\n*Español: Lógica booleana (AND). Debe cumplir ambas condiciones.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v9",
+      "statement": "What is it?",
+      "context": "**Clue:**\r\n\"It has keys but opens no locks. It has space but no room. You can enter but never go inside.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A house",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A computer keyboard",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A piano",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A box",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Riddle. Keys (typing), Space (bar), Enter (key). **Keyboard**.\r\n*Español: Adivinanza clásica de tecnología.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-problem-solving-001-v10",
+      "statement": "What is this advertisement trying to do?",
+      "context": "**Ad:**\r\n\"9 out of 10 dentists recommend Sparkle Toothpaste!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tell a funny story.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Persuade you to buy the product using authority.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Warn you about dentists.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Teach you math.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Identifying **persuasion** techniques (Authority). It's not just information; it's marketing.\r\n*Español: Identificar propósito persuasivo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-problem-solving-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v1",
+      "statement": "Which word completes the phrase?",
+      "context": "**Motto:** \"Reduce, Reuse, _______\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Run",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Recycle",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Read",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Rest",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Reduce, Reuse, Recycle**. The hierarchy of waste.\r\n*Español: Las 3 R.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v2",
+      "statement": "What does \"Reduce\" mean?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use more plastic.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Create less trash in the first place.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Paint it red.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Burn it.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Reduce**. Minimizing consumption.\r\n*Español: Reducir residuos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v3",
+      "statement": "This is an example of...",
+      "context": "**Action:** \"Using a jam jar to store pens.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recycling (Changing material).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Reusing (Using again for same/new purpose).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Littering.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Buying.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Reuse**. Extending the life of an item.\r\n*Español: Reutilizar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v4",
+      "statement": "Is this recyclable?",
+      "context": "**Material:** \"A plastic water bottle.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Never.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Usually, yes (PET plastic).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Only if it is broken.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "It is food.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Most bottles are recyclable PET.\r\n*Español: Reciclaje de plástico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v5",
+      "statement": "Can you recycle the greasy part?",
+      "context": "**Item:** \"A pizza box covered in grease and cheese.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, paper is paper.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, food grease ruins the recycling process.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Only if you fold it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Yes, cheese is recyclable.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Contamination**. Greasy cardboard cannot be recycled.\r\n*Español: Contaminación de reciclaje (Grasa).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v6",
+      "statement": "What can you do with these?",
+      "context": "**Category:** \"Banana peels, apple cores, and eggshells.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recycle them with glass.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Compost them (Organic recycling).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Put them in electronics bin.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Eat them again.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Composting**. Recycling organic matter.\r\n*Español: Compostaje.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v7",
+      "statement": "Where do you put old batteries?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the normal trash.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "In the river.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "In a special battery collection point (Hazardous).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "In the fire.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Batteries are toxic/hazardous. Special disposal needed.\r\n*Español: Disposición de baterías.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v8",
+      "statement": "This is a...",
+      "context": "**Item:** \"A plastic straw used for 5 minutes.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Durable good.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Single-use plastic.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Valuable antique.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Healthy food.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Single-use**. The problem with modern waste.\r\n*Español: Plástico de un solo uso.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v9",
+      "statement": "Instead of taking a plastic bag at the shop, you should...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carry everything in your teeth.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bring your own reusable cloth bag.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Buy 10 bags.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Don't buy anything.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Reusable bags**. Preventing waste.\r\n*Español: Bolsas reutilizables.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-recycling-hero-001-v10",
+      "statement": "What is this called?",
+      "context": "**Place:** \"Where trash goes to be buried.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Park",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Landfill / Dump",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Included",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Recycling Center",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Landfill**. The destination of non-recycled trash.\r\n*Español: Relleno sanitario (Landfill).*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-recycling-hero-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v1",
+      "statement": "Which celebration happens on December 31st / January 1st?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Easter",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "New Year's Eve",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Halloween",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Christmas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **New Year**. Global celebration.\r\n*Español: Año Nuevo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v2",
+      "statement": "It is...",
+      "context": "**Event:** Famous in Rio de Janeiro (Brazil) with parades and masks.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Funeral",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Carnival",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "School",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Work",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Carnival**. Cultural festival.\r\n*Español: Carnaval.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v3",
+      "statement": "On October 31st, children wear costumes and say...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Please and Thanks",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Trick or Treat",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hello",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Goodbye",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Trick or Treat**. Halloween tradition.\r\n*Español: Dulce o Truco (Halloween).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v4",
+      "statement": "It is called...",
+      "context": "**Festival:** The Indian \"Festival of Lights\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Christmas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Diwali",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Easter",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Holi",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Diwali**. Hindu festival of lights.\r\n*Español: Diwali (Festival de las luces).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v5",
+      "statement": "It is...",
+      "context": "**Holiday:** Celebrated in USA/Canada with a big Turkey dinner to say thanks.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thanksgiving",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Thanksgiving",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Birthday",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Friday",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Thanksgiving**. Harvest festival.\r\n*Español: Acción de Gracias.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v6",
+      "statement": "Explosive lights in the sky used for celebrations.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stars",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Fireworks",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bombs",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Lamps",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Fireworks**. Celebration lights.\r\n*Español: Fuegos artificiales.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v7",
+      "statement": "People walking and dancing in the street in a line.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traffic",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Parade",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fight",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Race",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Parade**. Procession.\r\n*Español: Desfile.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v8",
+      "statement": "It is a Sky...",
+      "context": "**Object:** A paper light released into the sky (common in Asia).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rocket",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Lantern",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bird",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Balloon",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Lantern**. Cultural object.\r\n*Español: Linterna / Farol.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v9",
+      "statement": "February 14th is the day of Love and Friendship, known as...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "St. Patrick's",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "St. Valentine's Day",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Labor Day",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Earth Day",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Valentine's Day**. Love celebration.\r\n*Español: San Valentín / Amor y Amistad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-07-world-festivals-001-v10",
+      "statement": "Clothes you wear to look like someone else (e.g., a Superhero).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniform",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Costume",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pyjamas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Suit",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Costume**. Disguise.\r\n*Español: Disfraz.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-07-world-festivals-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A2",
+      "subject": "ingles",
+      "grade": 7,
+      "country": "global"
+    }
+  ]
+}

@@ -916,6 +916,1806 @@
       "subject": "ciencias-naturales",
       "grade": 4,
       "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v1",
+      "statement": "¿Qué es un **ecosistema**?",
+      "context": "En la clase de ciencias naturales de la Escuela \"Francisco José de Caldas\" de Pasto, el profesor explica qué es un ecosistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un lugar donde solo hay animales",
+          "is_correct": false,
+          "feedback": "No. Los ecosistemas incluyen también plantas y otros seres."
+        },
+        {
+          "letter": "B",
+          "text": "Un tipo de clima",
+          "is_correct": false,
+          "feedback": "No. El clima es parte del ecosistema, no el ecosistema completo."
+        },
+        {
+          "letter": "C",
+          "text": "Un conjunto formado por los seres vivos y el lugar donde viven",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ecosistema incluye seres vivos y su entorno."
+        },
+        {
+          "letter": "D",
+          "text": "Un recipiente con agua en un laboratorio",
+          "is_correct": false,
+          "feedback": "No. Eso podría ser un acuario, no un ecosistema natural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un ecosistema es la interacción entre los seres vivos (factores bióticos: animales, plantas, hongos, bacterias) y el lugar donde viven (factores abióticos: agua, aire, suelo, luz solar).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v2",
+      "statement": "Colombia es uno de los países con más ecosistemas del mundo. ¿Cuál de los siguientes es un ecosistema colombiano?",
+      "context": "Los estudiantes del colegio \"Liceo Nacional\" de Quibdó aprenden sobre los ecosistemas de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Páramo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Colombia tiene páramos como el de Sumapaz, los más grandes del mundo."
+        },
+        {
+          "letter": "B",
+          "text": "Desierto de Sahara",
+          "is_correct": false,
+          "feedback": "No. Ese desierto está en África, no en Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Taiga siberiana",
+          "is_correct": false,
+          "feedback": "No. La taiga es un ecosistema de Rusia y Canadá."
+        },
+        {
+          "letter": "D",
+          "text": "Gran Barrera de Coral australiana",
+          "is_correct": false,
+          "feedback": "No. Ese ecosistema está en Australia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia tiene una gran diversidad de ecosistemas: páramos (Sumapaz, Chingaza), selvas (Amazonía), manglares (costa Pacífica y Caribe), bosques andinos y desiertos (La Guajira).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v3",
+      "statement": "En un ecosistema, el **agua, la luz solar, el suelo y el aire** son:",
+      "context": "En la clase de ciencias del colegio \"Nuestra Señora de las Lajas\" de Ipiales, estudian los factores del ecosistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Factores bióticos",
+          "is_correct": false,
+          "feedback": "No. Los factores bióticos son los seres vivos."
+        },
+        {
+          "letter": "B",
+          "text": "Factores abióticos",
+          "is_correct": true,
+          "feedback": "¡Correcto! El agua, la luz, el suelo y el aire son elementos no vivos del ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponedores",
+          "is_correct": false,
+          "feedback": "No. Los descomponedores son seres vivos como los hongos."
+        },
+        {
+          "letter": "D",
+          "text": "Consumidores",
+          "is_correct": false,
+          "feedback": "No. Los consumidores son animales que se alimentan de otros seres vivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los factores abióticos son todos los componentes no vivos del ecosistema: agua, luz solar, temperatura, suelo, aire y minerales. Los factores bióticos son los seres vivos.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v4",
+      "statement": "El **páramo** es un ecosistema colombiano muy importante. ¿Por qué es importante?",
+      "context": "Los niños de la escuela \"Pedro Apóstol\" de Facatativá visitan un páramo cercano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es el lugar más caliente de Colombia",
+          "is_correct": false,
+          "feedback": "No. El páramo es frío, no caliente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque allí nace la mayor parte del agua que consumimos en las ciudades",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los páramos son fábricas de agua."
+        },
+        {
+          "letter": "C",
+          "text": "Porque allí viven los leones africanos",
+          "is_correct": false,
+          "feedback": "No. En los páramos colombianos no hay leones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es el único lugar donde crecen manglares",
+          "is_correct": false,
+          "feedback": "No. Los manglares crecen en la costa, no en los páramos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los páramos son ecosistemas de alta montaña que atrapan la humedad de las nubes y la liberan lentamente, formando quebradas y ríos. Por eso se les llama \"fábricas de agua\". El páramo de Sumapaz es el más grande del mundo.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v5",
+      "statement": "Los **manglares** crecen en la costa, donde el agua del mar se mezcla con el agua dulce de los ríos. ¿Qué adaptación tienen los árboles de manglar para vivir allí?",
+      "context": "En la costa Pacífica colombiana, los estudiantes del colegio \"El Pacífico\" de Tumaco estudian los manglares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hojas muy grandes para atrapar insectos",
+          "is_correct": false,
+          "feedback": "No. Esa no es una adaptación típica de los manglares."
+        },
+        {
+          "letter": "B",
+          "text": "Raíces aéreas que les ayudan a respirar en el agua salada",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las raíces respiratorias permiten al manglar vivir en agua salada."
+        },
+        {
+          "letter": "C",
+          "text": "Espinas para defenderse de los peces",
+          "is_correct": false,
+          "feedback": "No. Las espinas no son necesarias contra animales acuáticos."
+        },
+        {
+          "letter": "D",
+          "text": "Flores que producen calor para calentar el agua",
+          "is_correct": false,
+          "feedback": "No. Eso no ocurre en los manglares."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los manglares tienen raíces aéreas o neumatóforos que sobresalen del agua para tomar oxígeno. También pueden eliminar el exceso de sal a través de sus hojas. Son ecosistemas muy importantes para peces y aves.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v6",
+      "statement": "En la Sierra Nevada de Santa Marta se encuentran diferentes ecosistemas: selva tropical en la parte baja, bosque nublado en la parte media y nieves perpetuas en la cima. Esto es posible porque:",
+      "context": "Los estudiantes de la escuela \"Simón Bolívar\" de Santa Marta visitan la Sierra Nevada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Sierra Nevada cambia de lugar cada día",
+          "is_correct": false,
+          "feedback": "No. La montaña no se mueve."
+        },
+        {
+          "letter": "B",
+          "text": "A medida que se sube en altitud, la temperatura disminuye",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por eso hay diferentes climas y ecosistemas en la misma montaña."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en la cima hay volcanes que mantienen el calor",
+          "is_correct": false,
+          "feedback": "No. La Sierra Nevada no es volcánica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la brisa del mar lleva calor solo a la parte baja",
+          "is_correct": false,
+          "feedback": "No. La razón principal es la altitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En las montañas, la temperatura disminuye aproximadamente 1°C por cada 180 metros de altitud. Esto permite que en una misma montaña haya varios pisos térmicos con diferentes ecosistemas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v7",
+      "statement": "¿Cuál es la principal diferencia entre una **selva amazónica** y una **sabana** (como los Llanos Orientales)?",
+      "context": "En la clase de ciencias del colegio \"La Salle\" de Sincelejo, estudian la sabana y la selva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la selva llueve poco y en la sabana llueve mucho",
+          "is_correct": false,
+          "feedback": "No. Es al revés."
+        },
+        {
+          "letter": "B",
+          "text": "En la selva los árboles son muy altos y están muy juntos; en la sabana hay pastizales y pocos árboles",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esa es una diferencia clave entre ambos ecosistemas."
+        },
+        {
+          "letter": "C",
+          "text": "La selva solo tiene animales y la sabana solo plantas",
+          "is_correct": false,
+          "feedback": "No. Ambos tienen animales y plantas."
+        },
+        {
+          "letter": "D",
+          "text": "En la sabana hace mucho frío y en la selva hace calor",
+          "is_correct": false,
+          "feedback": "No. Ambas son regiones cálidas aunque diferentes en vegetación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La selva amazónica es un bosque muy denso con árboles altos, mucha lluvia y sombra. La sabana (Llanos Orientales) tiene pastizales extensos, pocos árboles y una estación seca marcada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v8",
+      "statement": "En el **desierto de La Guajira**, los cactus almacenan agua en sus tallos y tienen espinas en lugar de hojas. ¿Por qué tienen estas adaptaciones?",
+      "context": "Los estudiantes de la escuela rural de Uribia, La Guajira, conocen bien el desierto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para atraer más insectos polinizadores",
+          "is_correct": false,
+          "feedback": "No. Las espinas no atraen insectos."
+        },
+        {
+          "letter": "B",
+          "text": "Para verse más bonitos",
+          "is_correct": false,
+          "feedback": "No. Las adaptaciones tienen función de supervivencia, no estética."
+        },
+        {
+          "letter": "C",
+          "text": "Para sobrevivir con poca agua y protegerse de animales que quieran tomar su agua",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los cactus se adaptan a la sequía y se protegen con espinas."
+        },
+        {
+          "letter": "D",
+          "text": "Para crecer más rápido",
+          "is_correct": false,
+          "feedback": "No. Los cactus crecen lentamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el desierto, el agua es escasa. Los cactus almacenan agua en sus tallos carnosos y tienen espinas que reducen la pérdida de agua (en lugar de hojas grandes) y los protegen de animales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v9",
+      "statement": "Un ecosistema de Colombia tiene las siguientes características:\n- Está a más de 3.000 metros de altitud.\n- Hace frío y hay neblina casi todo el día.\n- Tiene plantas llamadas frailejones que almacenan agua.\n- De allí nacen muchos ríos.\n\n¿De qué ecosistema se trata?",
+      "context": "La profesora Ana presenta un caso para analizar en clase en el colegio de Zipaquirá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Selva tropical",
+          "is_correct": false,
+          "feedback": "No. La selva es cálida y está a baja altitud."
+        },
+        {
+          "letter": "B",
+          "text": "Manglar",
+          "is_correct": false,
+          "feedback": "No. El manglar está en la costa al nivel del mar."
+        },
+        {
+          "letter": "C",
+          "text": "Páramo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El frailejón, el frío, la neblina y la alta montaña son características del páramo."
+        },
+        {
+          "letter": "D",
+          "text": "Desierto",
+          "is_correct": false,
+          "feedback": "No. El desierto es cálido y seco, no tiene neblina ni frailejones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todas las características corresponden al páramo: alta montaña, clima frío, frailejones (planta típica), neblina constante y función de regulación hídrica (nacimiento de ríos).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-v10",
+      "statement": "Si en la selva amazónica se talan muchos árboles para sembrar cultivos, ¿qué puede suceder con el ecosistema?",
+      "context": "En el colegio de Leticia, Amazonas, los estudiantes analizan un problema ambiental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La selva se vuelve más frondosa",
+          "is_correct": false,
+          "feedback": "No. Talar árboles reduce la vegetación."
+        },
+        {
+          "letter": "B",
+          "text": "Llegarán más animales a vivir allí",
+          "is_correct": false,
+          "feedback": "No. Muchos animales perderán su hogar."
+        },
+        {
+          "letter": "C",
+          "text": "El ecosistema se daña porque los árboles son el hogar de muchos animales y regulan el clima",
+          "is_correct": true,
+          "feedback": "¡Correcto! La deforestación afecta todo el ecosistema."
+        },
+        {
+          "letter": "D",
+          "text": "No pasa nada, la selva se recupera sola en un día",
+          "is_correct": false,
+          "feedback": "No. La recuperación de la selva tarda muchos años."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los árboles de la selva son el hábitat de innumerables especies, producen oxígeno y regulan el clima. La deforestación daña gravemente el ecosistema y puede causar la extinción de especies y alterar el clima regional.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-4-P1-ecosistemas-colombianos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes es una **parte de la planta**?",
+      "context": "En la clase de ciencias de la Escuela \"Técnica Ambiental\" de Yopal, la profesora pregunta sobre las partes de las plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estómago",
+          "is_correct": false,
+          "feedback": "No. El estómago es parte de los animales, no de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "El corazón",
+          "is_correct": false,
+          "feedback": "No. Las plantas no tienen corazón."
+        },
+        {
+          "letter": "C",
+          "text": "La raíz",
+          "is_correct": true,
+          "feedback": "¡Correcto! La raíz es una parte fundamental de las plantas."
+        },
+        {
+          "letter": "D",
+          "text": "Los pulmones",
+          "is_correct": false,
+          "feedback": "No. Las plantas no tienen pulmones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas tienen cuatro partes principales: raíz (sostiene la planta y absorbe agua y minerales), tallo (transporta sustancias), hojas (donde ocurre la fotosíntesis) y flores (órganos reproductores).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v2",
+      "statement": "¿Qué necesitan las plantas para realizar la **fotosíntesis**?",
+      "context": "Los estudiantes del colegio \"Agropecuario\" de Aguazul aprenden sobre el proceso de fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo agua",
+          "is_correct": false,
+          "feedback": "No. Necesitan más elementos."
+        },
+        {
+          "letter": "B",
+          "text": "Comida y juguetes",
+          "is_correct": false,
+          "feedback": "No. Las plantas no comen como los animales."
+        },
+        {
+          "letter": "C",
+          "text": "Luz solar, agua y dióxido de carbono",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estos son los ingredientes de la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "Arena y viento",
+          "is_correct": false,
+          "feedback": "No. La arena y el viento no son necesarios para la fotosíntesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fotosíntesis necesita tres ingredientes principales: luz solar (energía), agua (absorbida por las raíces) y dióxido de carbono (tomado del aire por las hojas).\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v3",
+      "statement": "¿Qué sustancia verde, llamada **clorofila**, les da el color a las hojas de las plantas?",
+      "context": "En el laboratorio de ciencias del colegio \"San Luis Gonzaga\" de Rionegro, los estudiantes estudian la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un colorante artificial",
+          "is_correct": false,
+          "feedback": "No. La clorofila es natural, no artificial."
+        },
+        {
+          "letter": "B",
+          "text": "Una sustancia que captura la energía del Sol para la fotosíntesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La clorofila atrapa la luz solar."
+        },
+        {
+          "letter": "C",
+          "text": "Un veneno que protege a la planta",
+          "is_correct": false,
+          "feedback": "No. La clorofila no es un veneno."
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de tierra que crece en las hojas",
+          "is_correct": false,
+          "feedback": "No. La clorofila está dentro de las células de la hoja."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La clorofila es un pigmento verde que se encuentra en los cloroplastos de las células vegetales. Su función es capturar la energía de la luz solar para iniciar el proceso de fotosíntesis.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v4",
+      "statement": "¿Qué **produce** la fotosíntesis que es útil para los animales y las personas?",
+      "context": "Los estudiantes de la escuela \"Carlos Lleras Restrepo\" de Bogotá aprenden sobre el producto de la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dióxido de carbono",
+          "is_correct": false,
+          "feedback": "No. Las plantas consumen dióxido de carbono y producen oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fotosíntesis produce oxígeno, que los animales y humanos necesitan para respirar."
+        },
+        {
+          "letter": "C",
+          "text": "Nitrógeno",
+          "is_correct": false,
+          "feedback": "No. Las plantas no producen nitrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Humo",
+          "is_correct": false,
+          "feedback": "No. Las plantas no producen humo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Durante la fotosíntesis, las plantas toman dióxido de carbono (CO₂) y liberan oxígeno (O₂). Por eso los bosques y las plantas son llamados \"los pulmones del planeta\".\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v5",
+      "statement": "Santiago pone una planta en una caja oscura y no le da luz durante una semana. Otra planta igual la deja en el patio con luz solar. ¿Qué cree que sucede?",
+      "context": "En el jardín botánico de Medellín, los estudiantes observan diferentes plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos plantas crecen igual",
+          "is_correct": false,
+          "feedback": "No. La falta de luz afecta a la planta."
+        },
+        {
+          "letter": "B",
+          "text": "La planta sin luz se debilita porque no puede hacer fotosíntesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin luz, la planta no produce su alimento."
+        },
+        {
+          "letter": "C",
+          "text": "La planta sin luz crece más rápido",
+          "is_correct": false,
+          "feedback": "No. La luz es necesaria para su crecimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La planta con luz se muere",
+          "is_correct": false,
+          "feedback": "No. La luz solar es necesaria para las plantas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La luz solar es esencial para la fotosíntesis. Sin luz, la planta no puede producir su alimento (glucosa) y se debilita, sus hojas se vuelven amarillas y puede morir.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v6",
+      "statement": "¿Cuál es la función principal del **tallo** en una planta?",
+      "context": "En la clase de ciencias del colegio \"José Antonio Galán\" de San Gil, la profesora explica la función del tallo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer la fotosíntesis",
+          "is_correct": false,
+          "feedback": "No. La fotosíntesis ocurre principalmente en las hojas."
+        },
+        {
+          "letter": "B",
+          "text": "Sostener la planta y transportar agua y nutrientes",
+          "is_correct": false,
+          "feedback": "¡Correcto! El tallo sostiene la planta y transporta sustancias."
+        },
+        {
+          "letter": "C",
+          "text": "Absorber agua del suelo",
+          "is_correct": false,
+          "feedback": "No. Eso es función de las raíces."
+        },
+        {
+          "letter": "D",
+          "text": "Producir semillas",
+          "is_correct": false,
+          "feedback": "No. Las semillas se producen en las flores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tallo tiene dos funciones importantes: sostiene las hojas y las flores para que reciban luz solar, y transporta el agua y los minerales desde la raíz hasta las hojas, y el alimento desde las hojas al resto de la planta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v7",
+      "statement": "María riega su planta con agua normal y su amigo Pedro riega la suya con agua con sal. Después de una semana, la planta de Pedro se marchita. ¿Por qué?",
+      "context": "En la clase de ciencias, los estudiantes de la escuela \"Gabriela Mistral\" de Fusagasugá miden el crecimiento de plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la sal atrae insectos que dañan la planta",
+          "is_correct": false,
+          "feedback": "No. La sal no atrae necesariamente insectos dañinos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la sal impide que la raíz absorba agua correctamente",
+          "is_correct": true,
+          "feedback": "¡Correcto! La sal afecta la absorción de agua."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la sal no tiene color",
+          "is_correct": false,
+          "feedback": "No. El color no afecta el crecimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sal alimenta demasiado a la planta",
+          "is_correct": false,
+          "feedback": "No. La sal no es un nutriente para la mayoría de las plantas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sal en el agua dificulta que las raíces absorban agua por ósmosis. Las plantas no pueden tomar agua salada, por eso la mayoría no crece en suelos salinos. Sin embargo, los manglares sí están adaptados a la sal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v8",
+      "statement": "¿Qué parte del árbol de mango **produce el fruto** que comemos?",
+      "context": "Los estudiantes de la escuela rural de Machetá observan un árbol de mango.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La raíz",
+          "is_correct": false,
+          "feedback": "No. Las raíces están bajo tierra y no producen frutos."
+        },
+        {
+          "letter": "B",
+          "text": "El tallo",
+          "is_correct": false,
+          "feedback": "No. El tallo sostiene la planta, pero no produce frutos directamente."
+        },
+        {
+          "letter": "C",
+          "text": "La flor",
+          "is_correct": true,
+          "feedback": "¡Correcto! La flor se poliniza y se convierte en fruto (el mango)."
+        },
+        {
+          "letter": "D",
+          "text": "La hoja",
+          "is_correct": false,
+          "feedback": "No. Las hojas hacen fotosíntesis pero no producen frutos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las flores son los órganos reproductores de las plantas. Después de ser polinizadas (por insectos, aves o el viento), las flores se transforman en frutos que contienen las semillas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v9",
+      "statement": "¿Por qué los bosques y selvas son llamados **\"los pulmones del planeta\"**?",
+      "context": "La profesora de ciencias del colegio \"Los Pinos\" de Villavicencio presenta un análisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los árboles tienen forma de pulmones",
+          "is_correct": false,
+          "feedback": "No. La forma no es la razón."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los árboles respiran como los humanos",
+          "is_correct": false,
+          "feedback": "No. Los árboles no tienen pulmones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los árboles producen oxígeno y limpian el aire que respiramos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por eso se llaman pulmones del planeta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los árboles toman oxígeno y botan dióxido de carbono",
+          "is_correct": false,
+          "feedback": "No. Es al revés: toman CO₂ y botan O₂."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Durante la fotosíntesis, las plantas absorben dióxido de carbono (CO₂) y liberan oxígeno (O₂), que es el gas que los animales y humanos necesitamos para respirar. Por eso los bosques son esenciales para la vida.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-v10",
+      "statement": "Imagina que por una erupción volcánica, el cielo se cubre de cenizas por varios meses y la luz solar no llega bien a la superficie. ¿Qué pasaría con las plantas?",
+      "context": "En el colegio \"San José de Cúcuta\", los estudiantes analizan un experimento mental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plantas crecerían más rápido sin el calor del sol",
+          "is_correct": false,
+          "feedback": "No. Sin luz no pueden hacer fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Las plantas se volverían fluorescentes para producir su propia luz",
+          "is_correct": false,
+          "feedback": "No. Las plantas no pueden hacer eso."
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas no podrían hacer fotosíntesis y se debilitarían hasta morir",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin luz solar, la fotosíntesis se detiene."
+        },
+        {
+          "letter": "D",
+          "text": "Las plantas no se verían afectadas porque la fotosíntesis no necesita luz",
+          "is_correct": false,
+          "feedback": "No. La luz solar es esencial para la fotosíntesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La luz solar es el motor de la fotosíntesis. Sin luz solar suficiente, las plantas no pueden producir su alimento. Esto afectaría no solo a las plantas, sino a todos los animales que dependen de ellas para alimentarse.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-4-P1-plantas-fotosintesis-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v1",
+      "statement": "¿Cuál de los siguientes es una característica de los **seres vivos**?",
+      "context": "En la clase de ciencias naturales de la Escuela Rural \"El Trébol\" de Santander, la profesora Julia pregunta sobre los seres vivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son inmóviles siempre",
+          "is_correct": false,
+          "feedback": "No. Los seres vivos pueden moverse, aunque no todos se desplacen."
+        },
+        {
+          "letter": "B",
+          "text": "Nacen, crecen, se reproducen y mueren",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas son las características fundamentales de los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Están hechos de metal",
+          "is_correct": false,
+          "feedback": "No. Los seres vivos están hechos de células."
+        },
+        {
+          "letter": "D",
+          "text": "Permanecen iguales toda su vida",
+          "is_correct": false,
+          "feedback": "No. Los seres vivos cambian y crecen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todos los seres vivos comparten un ciclo de vida: nacen, crecen, se reproducen (tienen crías) y mueren. También se alimentan y responden a estímulos.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v2",
+      "statement": "¿En cuántos **reinos** se clasifican los seres vivos?",
+      "context": "Los estudiantes del colegio \"Guillermo León Valencia\" de Popayán aprenden los reinos de la naturaleza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos reinos",
+          "is_correct": false,
+          "feedback": "No. Antes se clasificaban en dos, pero actualmente son más."
+        },
+        {
+          "letter": "B",
+          "text": "Tres reinos",
+          "is_correct": false,
+          "feedback": "No. Son más de tres."
+        },
+        {
+          "letter": "C",
+          "text": "Cinco reinos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los seres vivos se clasifican en cinco reinos."
+        },
+        {
+          "letter": "D",
+          "text": "Diez reinos",
+          "is_correct": false,
+          "feedback": "No. La clasificación científica reconoce cinco reinos principales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La clasificación más aceptada divide los seres vivos en cinco reinos: Animal, Vegetal, Hongos, Móneras (bacterias) y Protistas.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v3",
+      "statement": "Una **planta** como el árbol de mango pertenece al reino:",
+      "context": "Los niños de la escuela \"Santa María Goretti\" de Buga clasifican diferentes organismos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Animal",
+          "is_correct": false,
+          "feedback": "No. Las plantas no son animales."
+        },
+        {
+          "letter": "B",
+          "text": "Vegetal o Plantae",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los árboles, flores y plantas en general pertenecen al reino Vegetal (Plantae)."
+        },
+        {
+          "letter": "C",
+          "text": "Hongo",
+          "is_correct": false,
+          "feedback": "No. Los hongos son otro reino diferente."
+        },
+        {
+          "letter": "D",
+          "text": "Móneras",
+          "is_correct": false,
+          "feedback": "No. Las bacterias pertenecen al reino Móneras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El reino Vegetal (Plantae) incluye todas las plantas: árboles, arbustos, hierbas, musgos y helechos. Las plantas producen su propio alimento mediante la fotosíntesis.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v4",
+      "statement": "¿En qué se diferencian los **animales** de las **plantas**?",
+      "context": "En el laboratorio de ciencias del colegio \"San Carlos\" de Medellín, los estudiantes observan muestras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los animales crecen y las plantas no",
+          "is_correct": false,
+          "feedback": "No. Ambos crecen."
+        },
+        {
+          "letter": "B",
+          "text": "Los animales se desplazan y las plantas no se desplazan",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los animales se mueven, las plantas permanecen fijas."
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas respiran y los animales no",
+          "is_correct": false,
+          "feedback": "No. Ambos respiran."
+        },
+        {
+          "letter": "D",
+          "text": "Los animales son verdes y las plantas no",
+          "is_correct": false,
+          "feedback": "No. Es al contrario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una diferencia clave es que los animales pueden desplazarse de un lugar a otro, mientras que las plantas viven fijas en un lugar. Otra diferencia es que las plantas producen su alimento y los animales lo buscan.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v5",
+      "statement": "Samuel encontró un organismo que crece en el tronco de un árbol, tiene sombrero y no es verde. No se mueve. ¿A qué reino pertenece?",
+      "context": "En el parque ecológico de Bucaramanga, los estudiantes observan diferentes organismos y deben clasificarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reino Animal",
+          "is_correct": false,
+          "feedback": "No. No se mueve y no tiene características de animal."
+        },
+        {
+          "letter": "B",
+          "text": "Reino Vegetal",
+          "is_correct": false,
+          "feedback": "No. No es verde y no hace fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Reino Hongo",
+          "is_correct": true,
+          "feedback": "¡Correcto! La descripción corresponde a un hongo (seta)."
+        },
+        {
+          "letter": "D",
+          "text": "Reino Móneras",
+          "is_correct": false,
+          "feedback": "No. Los hongos son diferentes de las bacterias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los hongos (reino Fungi) son organismos que no se desplazan, no son verdes y no hacen fotosíntesis. Se alimentan absorbiendo nutrientes de otros seres. Los champiñones y las setas son ejemplos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v6",
+      "statement": "La profesora muestra la imagen de una bacteria vista al microscopio. Las bacterias son organismos **unicelulares** y no tienen núcleo definido. ¿A qué reino pertenecen?",
+      "context": "En la clase de ciencias del colegio \"José Celestino Mutis\" de Bogotá, la profesora muestra imágenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reino Animal",
+          "is_correct": false,
+          "feedback": "No. Los animales tienen muchas células y núcleo definido."
+        },
+        {
+          "letter": "B",
+          "text": "Reino Vegetal",
+          "is_correct": false,
+          "feedback": "No. Las plantas tienen núcleo definido."
+        },
+        {
+          "letter": "C",
+          "text": "Reino Hongo",
+          "is_correct": false,
+          "feedback": "No. Los hongos tienen núcleo definido."
+        },
+        {
+          "letter": "D",
+          "text": "Reino Móneras",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las bacterias pertenecen al reino Móneras. Son unicelulares y sin núcleo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El reino Móneras incluye las bacterias, que son organismos unicelulares (una sola célula) y no tienen núcleo definido (procariotas). Son los seres vivos más pequeños y abundantes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v7",
+      "statement": "Clasifica los siguientes organismos según su reino: **un perro, un rosal, un champiñón, una bacteria**.",
+      "context": "Los estudiantes de la escuela \"Nuestra Señora del Rosario\" de Girón observan su entorno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perro: Animal, Rosal: Vegetal, Champiñón: Hongo, Bacteria: Móneras",
+          "is_correct": true,
+          "feedback": "¡Correcto! Todos están en el reino correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Perro: Animal, Rosal: Hongo, Champiñón: Vegetal, Bacteria: Móneras",
+          "is_correct": false,
+          "feedback": "No. Rosal y champiñón están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Perro: Móneras, Rosal: Vegetal, Champiñón: Hongo, Bacteria: Animal",
+          "is_correct": false,
+          "feedback": "No. Perro y bacteria están en reinos incorrectos."
+        },
+        {
+          "letter": "D",
+          "text": "Perro: Animal, Rosal: Vegetal, Champiñón: Móneras, Bacteria: Hongo",
+          "is_correct": false,
+          "feedback": "No. Champiñón y bacteria están intercambiados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Perro → reino Animal (se desplaza, tiene muchas células). Rosal → reino Vegetal (hace fotosíntesis). Champiñón → reino Hongo (no hace fotosíntesis, absorbe nutrientes). Bacteria → reino Móneras (unicelular sin núcleo).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v8",
+      "statement": "¿Por qué la **piedra** NO es un ser vivo?",
+      "context": "En el jardín de la escuela de Pamplona, los niños comparan una piedra y una lagartija.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es dura",
+          "is_correct": false,
+          "feedback": "No. Hay seres vivos duros, como los caracoles."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no nace, no crece, no se reproduce ni muere",
+          "is_correct": true,
+          "feedback": "¡Correcto! La piedra no cumple con las funciones vitales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es pequeña",
+          "is_correct": false,
+          "feedback": "No. Hay seres vivos muy pequeños como las hormigas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no se mueve",
+          "is_correct": false,
+          "feedback": "No. Las plantas tampoco se mueven y son seres vivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los seres inertes como las piedras no cumplen con las funciones vitales: no nacen, no crecen (aunque se desgasten), no se reproducen y no mueren (solo se rompen o desgastan).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación y Comprensión",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v9",
+      "statement": "Valentina dice que una **araña** es un insecto. Carlos dice que las arañas NO son insectos. ¿Quién tiene la razón y por qué?",
+      "context": "La profesora Carolina les presenta un problema de clasificación a sus estudiantes de la escuela de Chía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Valentina, porque las arañas tienen muchas patas.",
+          "is_correct": false,
+          "feedback": "No. Eso no es suficiente para clasificarlas como insectos."
+        },
+        {
+          "letter": "B",
+          "text": "Carlos, porque las arañas tienen 8 patas y los insectos tienen 6.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las arañas son arácnidos, no insectos. Los insectos tienen 6 patas."
+        },
+        {
+          "letter": "C",
+          "text": "Valentina, porque las arañas vuelan.",
+          "is_correct": false,
+          "feedback": "No. Las arañas no vuelan."
+        },
+        {
+          "letter": "D",
+          "text": "Carlos, porque las arañas son más grandes.",
+          "is_correct": false,
+          "feedback": "No. El tamaño no define la clasificación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los insectos tienen 6 patas y 3 partes del cuerpo (cabeza, tórax, abdomen). Las arañas son arácnidos: tienen 8 patas y 2 partes del cuerpo (cefalotórax y abdomen). Pertenecen al mismo filo (artrópodos) pero son clases diferentes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-v10",
+      "statement": "La profesora muestra estos organismos: **musgo** (crece en paredes húmedas), **lombriz de tierra**, **levadura** (usada para hacer pan). Pide clasificarlos por reino. ¿Cuál es la clasificación correcta?",
+      "context": "En la clase de ciencias del colegio \"San José\" de Sincelejo, los estudiantes analizan un caso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Musgo: Vegetal, Lombriz: Animal, Levadura: Hongo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada uno pertenece al reino indicado."
+        },
+        {
+          "letter": "B",
+          "text": "Musgo: Hongo, Lombriz: Animal, Levadura: Vegetal",
+          "is_correct": false,
+          "feedback": "No. Musgo es una planta y la levadura es un hongo."
+        },
+        {
+          "letter": "C",
+          "text": "Musgo: Vegetal, Lombriz: Hongo, Levadura: Animal",
+          "is_correct": false,
+          "feedback": "No. La lombriz es un animal y la levadura es un hongo."
+        },
+        {
+          "letter": "D",
+          "text": "Musgo: Móneras, Lombriz: Animal, Levadura: Hongo",
+          "is_correct": false,
+          "feedback": "No. El musgo no es una bacteria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El musgo es una planta pequeña (reino Vegetal). La lombriz es un animal invertebrado (reino Animal). La levadura es un hongo microscópico unicelular (reino Hongo) que se usa para hacer pan y cerveza.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-4-P1-seres-vivos-clasificacion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v1",
+      "statement": "Cuando masticas un trozo de arepa, el proceso de digestión comienza en la boca. ¿Qué sustancia producida por el cuerpo ayuda a humedecer los alimentos y comenzar a descomponerlos químicamente en este primer paso?",
+      "context": "La hora del almuerzo en un colegio de Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jugo gástrico",
+          "is_correct": false,
+          "feedback": "Incorrect. El jugo gástrico se produce en el estómago, no en la boca. Su función es descomponer los alimentos más adelante en el proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Saliva",
+          "is_correct": true,
+          "feedback": "Correct. La saliva es producida por las glándulas salivales en la boca; contiene enzimas que inician la digestión de los carbohidratos y humedecen el alimento para formar el bolo alimenticio."
+        },
+        {
+          "letter": "C",
+          "text": "Bilis",
+          "is_correct": false,
+          "feedback": "Incorrect. La bilis es producida por el hígado y ayuda en la digestión de las grasas en el intestino delgado, no en la boca."
+        },
+        {
+          "letter": "D",
+          "text": "Sangre",
+          "is_correct": false,
+          "feedback": "Incorrect. La sangre transporta los nutrientes ya procesados, pero no participa directamente en la descomposición química inicial de los alimentos en la boca."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el conocimiento sobre las etapas iniciales de la digestión. La respuesta correcta identifica la saliva como el agente químico inicial en la boca. Un error común es confundir los diferentes jugos digestivos según el órgano donde se producen.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "[Remember]",
+      "icfes_type": "[Uso comprensivo del conocimiento científico]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v2",
+      "statement": "Después de tragar el alimento, este pasa por un tubo largo y muscular que conecta la boca con el estómago. ¿Cuál es el nombre de este órgano?",
+      "context": "Un video educativo sobre el viaje de la comida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tráquea",
+          "is_correct": false,
+          "feedback": "Incorrect. La tráquea es parte del sistema respiratorio y conduce el aire a los pulmones. Si la comida entra allí, la persona se atora."
+        },
+        {
+          "letter": "B",
+          "text": "Esófago",
+          "is_correct": true,
+          "feedback": "Correct. El esófago es el conducto del sistema digestivo que transporta el bolo alimenticio desde la faringe hasta el estómago mediante movimientos llamados peristálticos."
+        },
+        {
+          "letter": "C",
+          "text": "Intestino delgado",
+          "is_correct": false,
+          "feedback": "Incorrect. El intestino delgado se encuentra después del estómago, no entre la boca y el estómago."
+        },
+        {
+          "letter": "D",
+          "text": "Páncreas",
+          "is_correct": false,
+          "feedback": "Incorrect. El páncreas es una glándula que produce jugos digestivos, pero no es un tubo por donde pase el alimento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la identificación de los órganos del tracto digestivo y su ubicación. La respuesta correcta distingue el esófago como el conector principal. Un error frecuente es confundir el esófago con la tráquea debido a su proximidad física.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "[Understand]",
+      "icfes_type": "[Explicación de fenómenos]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v3",
+      "statement": "¿En qué órgano del sistema digestivo ocurre la mayor parte de la absorción de los nutrientes para que pasen a la sangre y lleguen a todo el cuerpo?",
+      "context": "Visita a un museo de ciencias en Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estómago",
+          "is_correct": false,
+          "feedback": "Incorrect. En el estómago se realiza principalmente una descomposición química y mecánica, pero la absorción de nutrientes es mínima allí."
+        },
+        {
+          "letter": "B",
+          "text": "Intestino delgado",
+          "is_correct": true,
+          "feedback": "Correct. El intestino delgado tiene paredes especializadas con vellosidades que permiten que los nutrientes ya digeridos pasen al torrente sanguíneo."
+        },
+        {
+          "letter": "C",
+          "text": "Intestino grueso",
+          "is_correct": false,
+          "feedback": "Incorrect. El intestino grueso se encarga principalmente de absorber agua y formar las heces, no de absorber la mayoría de los nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "Boca",
+          "is_correct": false,
+          "feedback": "Incorrect. En la boca solo comienza la digestión; no hay absorción significativa de nutrientes hacia el cuerpo en esta etapa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la función de absorción dentro del proceso digestivo. La respuesta correcta localiza esta función en el intestino delgado. Los estudiantes suelen pensar erróneamente que el estómago es el lugar donde se realiza todo el proceso de nutrición.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "[Understand]",
+      "icfes_type": "[Uso comprensivo del conocimiento científico]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v4",
+      "statement": "Para crecer sanos y tener energía para jugar fútbol, los niños deben consumir alimentos ricos en proteínas. ¿Cuál de estos alimentos es una excelente fuente de proteína en la dieta colombiana?",
+      "context": "Charla sobre nutrición en un centro de salud de Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panela",
+          "is_correct": false,
+          "feedback": "Incorrect. La panela es principalmente una fuente de carbohidratos (energía rápida), pero no aporta las proteínas necesarias para la formación de tejidos."
+        },
+        {
+          "letter": "B",
+          "text": "Huevo",
+          "is_correct": true,
+          "feedback": "Correct. El huevo es una de las fuentes de proteína más completas y accesibles, esencial para el crecimiento de los músculos y tejidos en los niños."
+        },
+        {
+          "letter": "C",
+          "text": "Aceite de girasol",
+          "is_correct": false,
+          "feedback": "Incorrect. El aceite es una fuente de lípidos o grasas, que son importantes pero tienen una función diferente a las proteínas."
+        },
+        {
+          "letter": "D",
+          "text": "Lechuga",
+          "is_correct": false,
+          "feedback": "Incorrect. La lechuga aporta vitaminas, minerales y fibra, pero su contenido de proteína es muy bajo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la clasificación de los alimentos según sus nutrientes principales. La respuesta correcta identifica al huevo como fuente proteica. El error común es no distinguir entre carbohidratos (energía) y proteínas (construcción).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "[Apply]",
+      "icfes_type": "[Ciencia, tecnología y sociedad]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v5",
+      "statement": "Si una persona no consume suficiente agua y fibra (que se encuentra en frutas y verduras), su intestino grueso tendrá dificultades para eliminar los desechos. ¿Qué problema de salud podría presentar?",
+      "context": "Situación cotidiana después de comer mucho en una fiesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caries dentales",
+          "is_correct": false,
+          "feedback": "Incorrect. Las caries se relacionan con la higiene bucal y el exceso de azúcar, no con la falta de fibra en el sistema digestivo inferior."
+        },
+        {
+          "letter": "B",
+          "text": "Gripe",
+          "is_correct": false,
+          "feedback": "Incorrect. La gripe es una enfermedad respiratoria causada por virus, no tiene relación directa con el consumo de fibra."
+        },
+        {
+          "letter": "C",
+          "text": "Estreñimiento",
+          "is_correct": true,
+          "feedback": "Correct. La fibra y el agua son necesarias para que el intestino grueso pueda mover los desechos y formar las heces correctamente. Su falta causa dificultad para evacuar."
+        },
+        {
+          "letter": "D",
+          "text": "Mareo",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque el malestar digestivo puede causar incomodidad, el mareo no es el síntoma principal o directo de la falta de fibra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la relación entre la dieta y el funcionamiento de los órganos digestivos. La respuesta correcta asocia la fibra con la salud del colon. Los estudiantes a veces asocian cualquier malestar con la nutrición sin identificar el síntoma específico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "[Analyze]",
+      "icfes_type": "[Explicación de fenómenos]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v6",
+      "statement": "El hígado y el páncreas son órganos que no están en el \"tubo\" digestivo por donde pasa la comida, pero son fundamentales porque:",
+      "context": "Esquema del sistema digestivo en el libro de texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almacenan la comida por varios días para que no tengamos hambre.",
+          "is_correct": false,
+          "feedback": "Incorrect. Ningún órgano del sistema digestivo almacena comida por días; el proceso de digestión dura unas pocas horas."
+        },
+        {
+          "letter": "B",
+          "text": "Producen sustancias químicas (jugos) que ayudan a descomponer las grasas y proteínas.",
+          "is_correct": true,
+          "feedback": "Correct. El hígado produce bilis y el páncreas jugos pancreáticos que se vierten al intestino para completar la digestión química."
+        },
+        {
+          "letter": "C",
+          "text": "Se encargan de masticar los alimentos más duros que llegan al estómago.",
+          "is_correct": false,
+          "feedback": "Incorrect. La masticación solo ocurre en la boca. Estos órganos funcionan de manera química, no mecánica."
+        },
+        {
+          "letter": "D",
+          "text": "Ayudan a que el aire llegue más rápido a los pulmones durante la comida.",
+          "is_correct": false,
+          "feedback": "Incorrect. Estos órganos no tienen funciones respiratorias; pertenecen exclusivamente al sistema digestivo y metabólico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa el papel de las glándulas anexas en la digestión. La respuesta correcta explica su función química. El error común es ignorar la existencia de órganos que participan en la digestión sin estar en contacto directo con el trayecto del bolo alimenticio.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "[Understand]",
+      "icfes_type": "[Uso comprensivo del conocimiento científico]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v7",
+      "statement": "Si pones un trozo de galleta en tu boca y lo dejas allí sin tragar por un minuto, notarás que empieza a saber dulce. Esto sucede porque la saliva está rompiendo el almidón de la galleta. ¿Qué pasaría con la digestión si una persona produjera muy poca saliva?",
+      "context": "Un experimento sobre la digestión de carbohidratos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La comida llegaría más rápido al estómago.",
+          "is_correct": false,
+          "feedback": "Incorrect. Al contrario, sin saliva el bolo alimenticio sería seco y difícil de tragar, moviéndose más lento y con dolor."
+        },
+        {
+          "letter": "B",
+          "text": "Se absorberían más vitaminas en el intestino grueso.",
+          "is_correct": false,
+          "feedback": "Incorrect. La producción de saliva no afecta la capacidad de absorción del intestino grueso, que ocurre mucho después."
+        },
+        {
+          "letter": "C",
+          "text": "Sería más difícil tragar y la digestión de las harinas sería incompleta.",
+          "is_correct": true,
+          "feedback": "Correct. La saliva es esencial para lubricar el alimento (facilitar el paso) y para iniciar la descomposición de los carbohidratos (harinas/almidones)."
+        },
+        {
+          "letter": "D",
+          "text": "El estómago dejaría de producir ácidos para compensar.",
+          "is_correct": false,
+          "feedback": "Incorrect. El estómago no reduce sus ácidos por falta de saliva; de hecho, podría trabajar más para intentar compensar la falta de digestión inicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de predecir consecuencias basadas en el funcionamiento de un componente del sistema. La respuesta correcta integra la función mecánica y química de la saliva. Es una pregunta de nivel analítico que requiere conectar causa y efecto.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "[Apply]",
+      "icfes_type": "[Formulación de hipótesis]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v8",
+      "statement": "En la pirámide alimenticia, las grasas y los dulces se encuentran en la punta más pequeña. ¿Qué significa esto para nuestra salud?",
+      "context": "Lectura de etiquetas en productos de la tienda del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que debemos comerlos en todas las comidas del día para ser fuertes.",
+          "is_correct": false,
+          "feedback": "Incorrect. Las grasas y azúcares en exceso causan problemas de salud como obesidad y diabetes."
+        },
+        {
+          "letter": "B",
+          "text": "Que son los alimentos más importantes para el crecimiento de los huesos.",
+          "is_correct": false,
+          "feedback": "Incorrect. Para los huesos es más importante el calcio y las vitaminas presentes en lácteos y verduras."
+        },
+        {
+          "letter": "C",
+          "text": "Que debemos consumirlos en cantidades muy pequeñas y ocasionalmente.",
+          "is_correct": true,
+          "feedback": "Correct. Al estar en la punta más estrecha, la pirámide indica que nuestro cuerpo necesita muy poco de estos alimentos para funcionar bien."
+        },
+        {
+          "letter": "D",
+          "text": "Que no aportan absolutamente nada de energía al cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sí aportan mucha energía, pero el problema es que el exceso se almacena como grasa dañina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la interpretación de modelos gráficos sobre nutrición. La respuesta correcta traduce la forma de la pirámide a una recomendación dietética. Los errores suelen ser por una mala interpretación de la importancia de los alimentos \"ricos\" en sabor pero pobres en nutrientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "[Understand]",
+      "icfes_type": "[Ciencia, tecnología y sociedad]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v9",
+      "statement": "Los seres humanos tenemos diferentes tipos de dientes: incisivos para cortar, caninos para desgarrar y molares para triturar. ¿Por qué es importante tener esta variedad de dientes para nuestra nutrición?",
+      "context": "Comparación entre los dientes de un perro y los de un niño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así se ven más bonitos cuando nos tomamos una foto.",
+          "is_correct": false,
+          "feedback": "Incorrect. La función de los dientes es biológica y digestiva, no puramente estética."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así podemos respirar mejor mientras comemos.",
+          "is_correct": false,
+          "feedback": "Incorrect. Los dientes no tienen una función en el intercambio de gases de la respiración."
+        },
+        {
+          "letter": "C",
+          "text": "Porque nos permite comer diferentes tipos de alimentos (carne, frutas, granos).",
+          "is_correct": true,
+          "feedback": "Correct. Al ser omnívoros, necesitamos herramientas diferentes para procesar mecánicamente la variedad de texturas de nuestra dieta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los dientes molares ayudan a que el estómago trabaje menos.",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque ayudan, la razón principal de la variedad es la adaptación a diferentes alimentos, no simplemente ahorrar trabajo al estómago."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la relación entre la anatomía y la función dietética. La respuesta correcta identifica la adaptación a una dieta variada. Los estudiantes a veces olvidan la conexión entre la forma de los órganos y su utilidad práctica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "[Analyze]",
+      "icfes_type": "[Uso comprensivo del conocimiento científico]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-v10",
+      "statement": "Si un estudiante de cuarto grado come su almuerzo muy rápido, casi sin masticar, y se va a correr inmediatamente, es probable que sienta dolor de estómago. ¿A qué se debe esto principalmente?",
+      "context": "Un caso de indigestión por comer muy rápido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que la comida se fue directamente a los pulmones por el esfuerzo.",
+          "is_correct": false,
+          "feedback": "Incorrect. La comida no llega a los pulmones a menos que haya un accidente grave de atragantamiento; el dolor de estómago tiene otra causa."
+        },
+        {
+          "letter": "B",
+          "text": "A que el estómago tiene que trabajar mucho más para deshacer trozos grandes de comida.",
+          "is_correct": true,
+          "feedback": "Correct. La digestión mecánica (masticar) facilita la digestión química. Trozos grandes requieren más ácido y tiempo, causando pesadez y dolor."
+        },
+        {
+          "letter": "C",
+          "text": "A que el páncreas dejó de producir insulina por el ejercicio.",
+          "is_correct": false,
+          "feedback": "Incorrect. La insulina regula el azúcar, pero el dolor inmediato por no masticar se debe al esfuerzo mecánico del estómago."
+        },
+        {
+          "letter": "D",
+          "text": "A que el agua que bebió se convirtió en gas inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrect. El agua no se convierte en gas por correr; el malestar es por la falta de procesamiento inicial de los sólidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se evalúa la comprensión de la digestión mecánica y su importancia. La respuesta correcta conecta la masticación con la eficiencia estomacal. Los errores comunes incluyen explicaciones fantásticas o relacionadas con otros sistemas sin base científica.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "[Apply]",
+      "icfes_type": "[Explicación de fenómenos]",
+      "bundle_id": "CO-CN-4-2026-P1-sistema-digestivo-nutricion-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
     }
   ]
 }

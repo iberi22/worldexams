@@ -1,0 +1,5171 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-1-grade-10-subject-ingles",
+    "generated_at": "2026-07-28T22:11:09.224Z"
+  },
+  "questions": [
+    {
+      "id": "UNI-ENG-10-art-history-001-v1",
+      "statement": "What word describes these colors?",
+      "context": "**Description:** \"The colors are not bright; they are muted, soft, and slightly grey.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vivid",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pastel / Muted",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Neon",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sharpened",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Muted/Pastel**. Opposite of vivid/bright.\r\n*Español: Descripción de colores (Tenues/Pastel).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v2",
+      "statement": "What is this period called?",
+      "context": "**Period:** \"A rebirth of art and learning in Europe (14th-17th C.), featuring Da Vinci and Michelangelo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Middle Ages",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The Renaissance",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The Industrial Revolution",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Modern Art",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **The Renaissance** (literally \"Rebirth\") is the era of da Vinci.\r\n*Español: El Renacimiento.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v3",
+      "statement": "What is this technique?",
+      "context": "**Technique:** \"Creating the illusion of depth and 3D space on a flat surface, with distant objects appearing smaller.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abstract",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Perspective",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Collage",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sculpture",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Perspective**. Essential for realistic depth in painting.\r\n*Español: Perspectiva.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v4",
+      "statement": "What style is this?",
+      "context": "**Painting:** \"It does not look like a person or a tree. It is just shapes, lines, and blobs of color.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realistic",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Portrait",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Abstract",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Landscape",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Abstract**. Non-representational art.\r\n*Español: Arte Abstracto.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v5",
+      "statement": "Why is flash forbidden?",
+      "context": "**Sign:** \"Flash photography causes degradation of pigments over time.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It annoys other people.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The light damages the paint (Degradation).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "It is too expensive.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The ghosts don't like it.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Conservation logic. **Pigment degradation** = Paint damage.\r\n*Español: Conservación museística.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v6",
+      "statement": "What movement is this?",
+      "context": "**Movement:** \"Monet and Renoir. Small, visible brushstrokes. Focus on light and changing weather. Not highly detailed.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cubism",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Impressionism",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Surrealism",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Gothic",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Impressionism**. Focus on \"impression\" of light/moment, not detail.\r\n*Español: Impresionismo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v7",
+      "statement": "What is this material?",
+      "context": "**Material:** \"A hard white stone often used for statues (like The David).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wood",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Clay",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Marble",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Canvas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Marble**. The classic material for high Renaissance sculpture.\r\n*Español: Mármol.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v8",
+      "statement": "What genre is this?",
+      "context": "**Subject:** \"A painting of a bowl of fruit, a vase of flowers, and a skull.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Self-portrait",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Landscape",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Still Life",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "History Painting",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Still Life**. Inanimate objects as subject matter.\r\n*Español: Naturaleza muerta / Bodegón.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v9",
+      "statement": "Who is this professional?",
+      "context": "**Job:** \"The person who selects the artworks, organizes the exhibition, and writes the descriptions.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Janitor",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The Artist",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The Curator",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The Security Guard",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Curator**. The organizer/manager of an exhibition.\r\n*Español: Curador de arte.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-art-history-001-v10",
+      "statement": "What does this show about art?",
+      "context": "**Viewer A:** \"It looks sad.\"\r\n**Viewer B:** \"No, it looks peaceful.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One of them is lying.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Art interpretation is subjective.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The painting is broken.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "They need glasses.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Subjectivity**. Different people perceive different things (Interpretation).\r\n*Español: Subjetividad en el arte.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-art-history-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v1",
+      "statement": "What is the acronym for this?",
+      "context": "**Feeling:** \"Anxiety that an exciting event may currently be happening elsewhere.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "YOLO",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "LOL",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "FOMO (Fear Of Missing Out)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "ASAP",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **FOMO**. A major driver of addiction.\r\n*Español: FOMO (Miedo a perderse algo).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v2",
+      "statement": "What is this chemical?",
+      "context": "**Biology:** \"Social media likes release a chemical in the brain associated with pleasure and reward.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adrenaline",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dopamine",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Insulin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Vitamin C",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Dopamine**. The reward neurotransmitter hijacked by apps.\r\n*Español: Dopamina y recompensa.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v3",
+      "statement": "What is this design feature designated to do?",
+      "context": "**Design:** \"The page never ends. New content loads automatically so you never stop looking.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Save your time.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Keep you on the app as long as possible (Addiction).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Help you find information.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Use less battery.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Infinite Scroll**. A design pattern to maximize engagement/addiction.\r\n*Español: Scroll infinito.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v4",
+      "statement": "What is this called?",
+      "context": "**Symptom:** \"Feeling irritable, anxious, and shaky when you cannot check your phone.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happiness",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Withdrawal symptoms",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Focus",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Boredom",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Withdrawal**. Signs of dependency when the substance/activity is removed.\r\n*Español: Síndrome de abstinencia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v5",
+      "statement": "What is this practice?",
+      "context": "**Activity:** \"Spending a weekend without any screens or electronics.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A system update",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Digital Detox",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A punishment",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Camping",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Digital Detox**. Taking a break to reset.\r\n*Español: Desintoxicación digital.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v6",
+      "statement": "What is the portmanteau word for this (Phone + Snubbing)?",
+      "context": "**Behavior:** \"Ignoring the person you are with in order to look at your phone.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texting",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Calling",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Phubbing",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hiking",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Phubbing**. Phone snubbing. Rude social behavior.\r\n*Español: Phubbing (Ningufoneo).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v7",
+      "statement": "What is this called?",
+      "context": "**Phenomenon:** \"Hearing a 'ding' sound that isn't really there.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phantom Vibration / Ringing Syndrome",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Phantom Vibration Syndrome",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Deafness",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Madness",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Phantom Vibration**. Brain expecting notifications.\r\n*Español: Síndrome de vibración fantasma.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v8",
+      "statement": "Who/What decides what you see?",
+      "context": "**System:** \"The app shows you exactly what you like to keep you watching.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A human editor",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "An Algorithm (AI)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Random luck",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Your parents",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Algorithm**. Automated curation for retention.\r\n*Español: Algoritmos de recomendación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v9",
+      "statement": "What does this affect?",
+      "context": "**Fact:** \"Blue light from screens suppresses melatonin.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Your appetite.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Your ability to fall asleep (Sleep cycle).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Your hearing.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Your hair.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Melatonin** regulates sleep. Blue light blocks it.\r\n*Español: Luz azul y sueño.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-cyber-addiction-001-v10",
+      "statement": "What is a healthy relationship with technology?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Using it 24/7.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Never using it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Using it as a tool, not a master (Conscious usage).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Watching only cats.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Balance/Conscious usage.\r\n*Español: Uso equilibrado.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-cyber-addiction-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v1",
+      "statement": "The person or company who pays you for your work.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teacher",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Client",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Student",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Enemy",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Client**. Customer.\r\n*Español: Cliente.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v2",
+      "statement": "The specific time or date by which a job must be finished.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Startline",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Deadline",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Lifeline",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Headline",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Deadline**. Due date.\r\n*Español: Fecha límite (Deadline).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v3",
+      "statement": "\"Check out my online...\"",
+      "context": "**Tool:** A collection of your best work to show potential clients.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wallet",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Portfolio",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bag",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Toy",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Portfolio**. Work samples.\r\n*Español: Portafolio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v4",
+      "statement": "The amount of money you charge per hour or per project.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Rate",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Weight",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Height",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Rate**. Price.\r\n*Español: Tarifa.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v5",
+      "statement": "A document you send to a client explaining how you will solve their problem and how much it costs.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marriage Proposal",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Business Proposal",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Novel",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Complaint",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Proposal**. Offer of work.\r\n*Español: Propuesta comercial.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v6",
+      "statement": "A labor market characterized by short-term contracts or freelance work (e.g., Uber, Upwork).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Big Economy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Gig Economy",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Old Economy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Slow Economy",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Gig Economy**. Short-term jobs.\r\n*Español: Economía Gig (colaborativa).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v7",
+      "statement": "Feedback left by a client (usually 1-5 stars) after a job is done.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Preview",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Review / Rating",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Interview",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Overview",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Review**. Feedback.\r\n*Español: Reseña / Calificación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v8",
+      "statement": "\"Please send me the...\"",
+      "context": "**Document:** A bill you send to the client so they pay you.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Invoice",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Invoice",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Invitation",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Invention",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Invoice**. Bill.\r\n*Español: Factura / Cuenta de cobro.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v9",
+      "statement": "A legal agreement between you and the client detailing the work.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Contract",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Contact",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Contest",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Contract**. Legal agreement.\r\n*Español: Contrato.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-freelancing-001-v10",
+      "statement": "Learning new skills to stay competitive in the market.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Downskill",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Upskill",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Kill",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Still",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Upskill**. Improving skills.\r\n*Español: Capacitarse / Mejorar habilidades.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-freelancing-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v1",
+      "statement": "What is this called?",
+      "context": "**Concept:** Prices go up over time, so $100 buys less today than 10 years ago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deflation",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Inflation",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Stagnation",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Profit",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Inflation**. Loss of purchasing power.\r\n*Español: Inflación.*\r\n\r\n**Why incorrect?**\r\n*   Deflation is prices going down.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v2",
+      "statement": "You buy...",
+      "context": "**Asset:** \"Ownership of a tiny piece of a company (share).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Bond",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Stock / Share",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Loan",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Tax",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Stock/Share**. Equity in a company.\r\n*Español: Acciones (Bolsa).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v3",
+      "statement": "Albert Einstein called \"Interest on top of interest\" the eighth wonder of the world.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simple Interest",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Compound Interest",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bad Interest",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "No Interest",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Compound Interest**. Exponential growth.\r\n*Español: Interés compuesto.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v4",
+      "statement": "Complete the rule.",
+      "context": "**Rule:** \"High potential return usually implies...\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero Risk",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "High Risk",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Guaranteed Safety",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Low Cost",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Risk vs Return**. Fundamental principle.\r\n*Español: Riesgo vs Retorno.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v5",
+      "statement": "In investing, this means you should...",
+      "context": "**Adage:** \"Don't put all your eggs in one basket.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buy only one stock.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Diversify (Buy many different things).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Buy only eggs.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Not invest.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Diversification**. Spreading risk.\r\n*Español: Diversificación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v6",
+      "statement": "Some companies pay cash to shareholders every quarter from their profits. This is a...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fee",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dividend",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Loss",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Salary",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Dividend**. Profit distribution.\r\n*Español: Dividendos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v7",
+      "statement": "It is a...",
+      "context": "**Market:** \"A market where prices are falling and people are pessimistic.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bull Market",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bear Market",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fish Market",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Supermarket",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Bear Market** (Falling) vs **Bull Market** (Rising).\r\n*Español: Mercado bajista (Bear) vs alcista (Bull).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v8",
+      "statement": "What does it stand for?",
+      "context": "**Acronym:** ROI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rate of Interest",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Return on Investment",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Risk of Inflation",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Run on Ice",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **ROI**. Efficiency of investment.\r\n*Español: Retorno de Inversión.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v9",
+      "statement": "This is a...",
+      "context": "**Asset:** \"You lend money to the government, and they pay you back with interest.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stock",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bond",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bitcoin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Gift",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Bond**. Debt security.\r\n*Español: Bonos (Deuda pública).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-investment-basics-001-v10",
+      "statement": "When stock prices go up and down very fast and unpredictably, the market has high...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stability",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Volatility",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Volume",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Silence",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Volatility**. Price instability.\r\n*Español: Volatilidad.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-investment-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v1",
+      "statement": "What characteristic does this headline show?",
+      "context": "**Headline:**\r\n\"Doctors HATE this one simple trick to lose weight overnight!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objective reporting",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sensationalism / Clickbait",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Medical accuracy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Calm analysis",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"HATE this one trick\" and \"Overnight\" are classic markers of **Clickbait/Sensationalism**.\r\n*Español: Identificación de sensacionalismo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v2",
+      "statement": "How should you treat this information?",
+      "context": "**Statement:**\r\n\"A random user on social media posted that the moon is made of cheese.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Believe it immediately because it's online.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Share it with all your friends.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Verify it with reliable scientific sources.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Print it out.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Media Literacy 101: **Verify** sources before believing. Random users are not reliable.\r\n*Español: Verificación de fuentes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v3",
+      "statement": "What is this an example of?",
+      "context": "**Situation:**\r\n\"You search for 'running shoes' on Google. Later, you see ads for Nike and Adidas on Instagram.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coincidence",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Targeted advertising / Tracking",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Magic",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A virus",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Understanding **digital tracking** is essential for modern media literacy.\r\n*Español: Publicidad dirigida (Targeted advertising).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v4",
+      "statement": "What is this technology called?",
+      "context": "**Definition:**\r\n\"A video that uses AI to make a person say or do things they never did.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Photoshop",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Deepfake",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Filter",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Montage",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Deepfake** is the specific term for AI-generated synthetic media impersonating people.\r\n*Español: Reconocimiento de Deepfakes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v5",
+      "statement": "What logical error is this?",
+      "context": "**Claim:**\r\n\"Ice cream sales increase in summer. Shark attacks increase in summer. Therefore, ice cream causes shark attacks.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a fact.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Circular reasoning.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Confusing correlation with causation.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ad hominem.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Both increase due to a third factor (Heat), not because one causes the other. **Correlation is not causation**.\r\n*Español: Correlación no implica causalidad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v6",
+      "statement": "Which website URL ending is generally considered most reliable for academic research?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": ".com",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": ".edu or .gov",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": ".net",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": ".xyz",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **.edu** (Education) and **.gov** (Government) are regulated domains, unlike .com or .xyz.\r\n*Español: Dominios confiables (.edu, .gov).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v7",
+      "statement": "How do the headlines differ?",
+      "context": "**Two headlines about the same event:**\r\n1. \"Youth protestors demand climate action.\"\r\n2. \"Truant teens disrupt traffic in city center.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They describe different events.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "They use different 'framing' to influence opinion (Positive vs Negative).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "They are identical.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Neither is in English.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Framing**: Same event, different angle. Headline 1 frames them as activists (positive); Headline 2 frames them as criminals/nuisance (negative).\r\n*Español: Framing (Encuadre) para influir opinión.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v8",
+      "statement": "What is this phenomenon called?",
+      "context": "**Situation:**\r\n\"Social media algorithms only show you opinions that you already agree with.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Public Square",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "An Echo Chamber / Filter Bubble",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The Internet",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Breaking News",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Echo Chamber**: Your own voice comes back to you. You don't hear opposing views.\r\n*Español: Cámara de eco (Echo Chamber).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v9",
+      "statement": "What is the genre of this article likely to be?",
+      "context": "**Article Title:**\r\n\"Cat elected Mayor, promises free fish for all.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hard News",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Satire / Comedy",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Biography",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tragedy",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Absurd content usually indicates **Satire** (like The Onion). It is not real news.\r\n*Español: Sátira.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-media-bias-001-v10",
+      "statement": "What is this permanent record called?",
+      "context": "**Concept:**\r\n\"Everything you post online can be found years later, even if you delete it.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Digital ghost",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Digital footprint",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Browser history",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cloud storage",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Digital footprint** refers to the trail of data you leave behind permanently.\r\n*Español: Huella digital.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-media-bias-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v1",
+      "statement": "Which of these is NOT a macronutrient?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protein",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Carbohydrates",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Vitamin C (Micronutrient)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Fats",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Macronutrients** are Protein, Carbs, Fats. Vitamins are Micro.\r\n*Español: Macronutrientes vs Micronutrientes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v2",
+      "statement": "This is...",
+      "context": "**Definition:** \"Food that has been chemically altered and packaged with preservatives.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Whole food",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Processed food / Ultra-processed",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Organic food",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Raw food",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Processed food**. Industrialized food.\r\n*Español: Alimentos procesados.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v3",
+      "statement": "What does this measure?",
+      "context": "**Rate:** \"BMR (Basal Metabolic Rate).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How fast you run.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Calories burned at rest (just to stay alive).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Heart rate.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Weight.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **BMR**. Energy for basic functions.\r\n*Español: Tasa metabólica basal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v4",
+      "statement": "This is called...",
+      "context": "**Condition:** \"Lack of iron in the blood, causing fatigue.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diabetes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Anemia",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Obesity",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Flu",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Anemia**. Iron deficiency.\r\n*Español: Anemia (Hierro).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v5",
+      "statement": "What do **antioxidants** (found in berries) do?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Make you fat.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Protect cells from damage (Oxidative stress).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cause cancer.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dehydrate you.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Antioxidants**. Protect cells.\r\n*Español: Antioxidantes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v6",
+      "statement": "These are synthetic...",
+      "context": "**Ingredients:** \"Red Dye #40, High Fructose Corn Syrup, Sodium Benzoate.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vitamins",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Additives",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Vegetables",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Proteins",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Additives**. Artificial ingredients.\r\n*Español: Aditivos alimentarios.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v7",
+      "statement": "**Celiac disease** means you cannot eat...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Meat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Gluten (Protein in wheat)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sugar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Gluten**. Celiac trigger.\r\n*Español: Gluten / Celíaquía.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v8",
+      "statement": "Which fat is generally considered \"bad\" in excess (clogs arteries)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unsaturated fat (Olive oil)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Saturated / Trans fat",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Air",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Saturated/Trans fats**. Heart health risks.\r\n*Español: Grasas saturadas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v9",
+      "statement": "Which hormone regulates blood sugar?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adrenaline",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Insulin",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Estrogen",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dopamine",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Insulin**. Sugar regulation hormone.\r\n*Español: Insulina.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-nutrition-science-001-v10",
+      "statement": "**BMI** stands for...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Big Mac Index",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Body Mass Index",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Body Muscle Indicator",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Big Man Inside",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **BMI**. Height/Weight ratio.\r\n*Español: Índice de Masa Corporal (IMC).*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-nutrition-science-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v1",
+      "statement": "What does it mean?",
+      "context": "**Acronym:** WFH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Work For Health",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Work From Home",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Wait For Help",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Wifi For Hotels",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **WFH**. Common acronym.\r\n*Español: Trabajo en casa (WFH).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v2",
+      "statement": "A person who travels the world while working online.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Digital Doctor",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Digital Nomad",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Digital Native",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Digital Farmer",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Digital Nomad**. Location independent.\r\n*Español: Nómada digital.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v3",
+      "statement": "When you speak but nobody can hear you.",
+      "context": "**Zoom phrase:** \"You are on ____!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loud",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Mute",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Camera",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Screen",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Mute**. No sound.\r\n*Español: Silencio / Mute.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v4",
+      "statement": "To work remotely, the most important utility you need is robust...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "WiFi / Internet",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Gas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Paper",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **WiFi**. Connectivity.\r\n*Español: WiFi / Internet.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v5",
+      "statement": "A shared office space where freelancers and remote workers rent desks.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Co-living",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Co-working Space",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Co-sleeping",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Co-playing",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Co-working**. Shared office.\r\n*Español: Espacio de Co-working.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v6",
+      "statement": "If you can choose your own working hours (e.g., start at 10 AM or 8 AM), you have a ________ schedule.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rigorous",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Flexible",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fixed",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Broken",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Flexible**. Not fixed.\r\n*Español: Flexible.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v7",
+      "statement": "This is...",
+      "context": "**Communication:** Sending a message now, and the person replies hours later (not real-time).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Synchronous",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Asynchronous (Async)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Instant",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Live",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Asynchronous**. Not at the same time.\r\n*Español: Asincrónico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v8",
+      "statement": "Physical and emotional exhaustion caused by working too much and not separating home from work.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Workout",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Burnout",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hangout",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Blackout",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Burnout**. Exhaustion.\r\n*Español: Agotamiento laboral (Burnout).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v9",
+      "statement": "What is this?",
+      "context": "**Event:** An online seminar or workshop.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Web-show",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Webinar",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Web-party",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Website",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Webinar**. Web Seminar.\r\n*Español: Seminario web.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-remote-work-001-v10",
+      "statement": "A worker who is self-employed and works for different clients, not just one boss.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Employee",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Freelancer",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Intern",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Manager",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Freelancer**. Self-employed.\r\n*Español: Trabajador independiente / Freelancer.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-remote-work-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v1",
+      "statement": "Energy captured from the sun's rays.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lunar Energy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Solar Energy",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Wind Energy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Coal",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Solar**. Sun energy.\r\n*Español: Energía Solar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v2",
+      "statement": "These are...",
+      "context": "**Group:** Oil, Coal, and Natural Gas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Renewable",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Fossil Fuels (Non-renewable)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Clean",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "New",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Fossil Fuels**. Ancient carbon.\r\n*Español: Combustibles fósiles.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v3",
+      "statement": "It is a Wind...",
+      "context": "**Machine:** A large device with blades that spins to create electricity from wind.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fan",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Turbine",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mill",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Spinner",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Wind Turbine**. Generates power.\r\n*Español: Turbina eólica.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v4",
+      "statement": "The total amount of greenhouse gases generated by our actions is our...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Handprint",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Carbon Footprint",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Shoe size",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Energy Bill",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Carbon Footprint**. Environmental impact.\r\n*Español: Huella de carbono.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v5",
+      "statement": "Using resources in a way that does not deplete them for future generations.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wasteful",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sustainable",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Temporary",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Fast",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Sustainable**. Long-term viability.\r\n*Español: Sostenible / Sustentable.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v6",
+      "statement": "Gases trap heat in the atmosphere, warming the planet. This is the...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cooling Effect",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Greenhouse Effect",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Glass Effect",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "House Effect",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Greenhouse Effect**. Global warming mechanism.\r\n*Español: Efecto Invernadero.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v7",
+      "statement": "Energy generated by moving water (dams).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hydroelectric / Hydropower",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Geothermal",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nuclear",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Hydroelectric**. Water power.\r\n*Español: Hidroeléctrica.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v8",
+      "statement": "It creates no carbon, but produces radioactive waste.",
+      "context": "**Source:** Splitting atoms (Uranium).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Nuclear Energy",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Coal",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Gas",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Nuclear**. Atomic energy.\r\n*Español: Energía Nuclear.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v9",
+      "statement": "The network of cables that delivers electricity from power plants to homes.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Internet",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The Power Grid",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The Web",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The Road",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Power Grid**. Infrastructure.\r\n*Español: Red eléctrica.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-renewable-energy-001-v10",
+      "statement": "LED lightbulbs use less energy than old bulbs to produce the same light. They have high...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Weight",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Efficiency",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cost",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Heat",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Efficiency**. Doing more with less.\r\n*Español: Eficiencia energética.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-renewable-energy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v1",
+      "statement": "This is a...",
+      "context": "**Process:** \"Looking at a situation to see what could go wrong.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guess",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Risk Assessment",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Game",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Mistake",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Risk Assessment**. Identifying hazards.\r\n*Español: Evaluación de riesgos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v2",
+      "statement": "Complete the proverb.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reaction",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cure",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Falling",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Losing",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Prevention is better than cure**.\r\n*Español: Más vale prevenir que curar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v3",
+      "statement": "What is this?",
+      "context": "**Product:** \"You pay a monthly fee so that if your house burns down, the company pays for it.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tax",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Insurance",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Rent",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Security",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Insurance**. Transferring risk.\r\n*Español: Seguros.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v4",
+      "statement": "If the shark is in a tank and you are outside, the hazard exists but the risk is...",
+      "context": "**Concepts:**\r\n- **Hazard:** Something that can cause harm (e.g., a shark).\r\n- **Risk:** The chance of that harm happening (e.g., swimming with the shark).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "High",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Low / Zero",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Huge",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The same",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Hazard vs Risk**. Exposure matters.\r\n*Español: Peligro vs Riesgo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v5",
+      "statement": "This social force is called...",
+      "context": "**Situation:** \"All your friends are drinking alcohol and driving. They tell you to join them.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peer Review",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Peer Pressure",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Peer Support",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Friendship",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Peer Pressure**. A major risk factor for teens.\r\n*Español: Presión social.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v6",
+      "statement": "Calculating risk involves weighing the Benefit against the...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fun",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cost / Consequence",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Time",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Color",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Cost-Benefit Analysis**.\r\n*Español: Costo-Beneficio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v7",
+      "statement": "These are collectively known as...",
+      "context": "**Items:** Goggles, gloves, helmets.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fashion",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "PPE (Personal Protective Equipment)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tools",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Toys",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **PPE**. Safety equipment.\r\n*Español: EPP (Equipo de Protección Personal).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v8",
+      "statement": "Ignoring this sign leads to...",
+      "context": "**Sign:** \"High Voltage.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A prize",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Electrocution / Death",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Power",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Light",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **High Voltage**. Mortal danger.\r\n*Español: Alto voltaje.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v9",
+      "statement": "This is a...",
+      "context": "**Strategy:** \"Having a backup plan in case the first one fails.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bad idea",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Contingency Plan",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Primary Plan",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Secret",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Contingency Plan**. Managing failure.\r\n*Español: Plan de contingencia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-risk-management-001-v10",
+      "statement": "What is this?",
+      "context": "**Skill:** \"Paying attention to your surroundings to spot threats early.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paranoia",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Situational Awareness",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sleepwalking",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Relaxing",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Situational Awareness**. Being alert.\r\n*Español: Conciencia situacional.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-risk-management-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v1",
+      "statement": "How would you describe the trend?",
+      "context": "**Graph:** The line goes UP from 2010 to 2015, then stays FLAT until 2020.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It decreased constantly.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It increased and then decreased.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "It increased and then stabilized (plateaued).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "It fluctuated wildly.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Vocabulary: \"Increased\" (Up) + \"Stabilized/Plateaued\" (Flat).\r\n*Español: Interpretación de tendencias gráficas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v2",
+      "statement": "What is the problem with this study?",
+      "context": "**Study:** \"We asked 5 people in our office if they like coffee. 100% said yes. Conclusion: Everyone in the world likes coffee.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The questions were too hard.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The sample size is too small and biased.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Coffee is not popular.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The math is wrong.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Sample Size Bias**. 5 people in one office cannot represent \"everyone in the world\".\r\n*Español: Sesgo de tamaño de muestra (Sample Size).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v3",
+      "statement": "In science, what is a \"Theory\" (like Evolution or Gravity)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Just a guess or hunch.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A rule that never changes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "An opinion.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A well-substantiated explanation based on evidence.",
+          "is_correct": true,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "**English:** Scientific literacy: A **Theory** is not a guess; it is a robust explanation supported by evidence.\r\n*Español: Definición científica de \"Teoría\" vs uso coloquial.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v4",
+      "statement": "What is the **Independent Variable** (the thing we change)?",
+      "context": "**Experiment:** \"We water Plant A with water and Plant B with soda to see which grows taller.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The height of the plants.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The type of liquid (water vs soda).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The pot size.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The sunlight.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Independent Variable = The cause/input we change (**Liquid**). Dependent Variable = The result (Height).\r\n*Español: Identificación de variables experimentales (Independiente).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v5",
+      "statement": "Does being tall CAUSE you to know more words?",
+      "context": "**Data:** \"Tall children usually have bigger vocabularies.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, height improves memory.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, vocabulary makes you grow.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, both increase with age (a third variable).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Yes, short people cannot read.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Confounding Variable (Age)**. Older kids are taller AND know more words. Height doesn't cause vocab.\r\n*Español: Variable de confusión (Edad).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v6",
+      "statement": "Does X strongly determine Y?",
+      "context": "**Abstract:** \"Results indicate a significant but weak correlation (r=0.2) between x and y.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, it is significant.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, r=0.2 is huge.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No, the correlation exists but it is weak.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "X has no relationship to Y.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Understanding stats terms. \"Significant\" means *reliable*, not *strong*. \"Weak correlation\" means X doesn't strongly determine Y.\r\n*Español: Interpretación estadística (Significativo no es igual a Fuerte).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v7",
+      "statement": "What is Group B called?",
+      "context": "**Study:** \"Group A took the medicine. Group B took a sugar pill (placebo).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Experimental Group",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The Control Group",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The Doctor Group",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The Failure Group",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Control Group**: The group that sets the baseline for comparison.\r\n*Español: Grupo de Control.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v8",
+      "statement": "This is an example of what?",
+      "context": "**Scientist:** \"I only looked for data that supported my idea and ignored the rest.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good research",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The Scientific Method",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cherry-picking / Confirmation Bias",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Peer review",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Cherry-picking**: Selecting only evidence that supports you. This is bad science.\r\n*Español: Cherry-picking (Falacia de prueba incompleta).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v9",
+      "statement": "Is 10 inches longer than 20 cm?",
+      "context": "**Fact:** 1 inch = 2.54 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes (10 in = 25.4 cm).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No (10 in = 10 cm).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No (20 cm is clearly bigger than 10).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "They are equal.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** Math: 10 * 2.54 = 25.4 cm. 25.4 > 20. So **Yes**.\r\n*Español: Conversión de unidades y comparación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-scientific-literacy-001-v10",
+      "statement": "What is the logical next step (Step 3)?",
+      "context": "**Step 1:** Observe a phenomenon. **Step 2:** Form a hypothesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Write a book.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Assume it is true.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Design an experiment to test it.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Forget about it.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** The **Scientific Method**: Observation -> Hypothesis -> **Experiment/Test**.\r\n*Español: Pasos del Método Científico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-scientific-literacy-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v1",
+      "statement": "What are these people doing?",
+      "context": "**Action:** \"Marching in the street holding signs to demand change.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shopping",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Protesting / Demonstrating",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Commuting",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Touring",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Protesting**. Public display of disapproval.\r\n*Español: Protesta.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v2",
+      "statement": "What is this strategy called?",
+      "context": "**Action:** \"Refusing to buy products from a company because they use child labor.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Investing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Boycotting",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Stealing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Marketing",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Boycott**. Voting with your wallet.\r\n*Español: Boicot.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v3",
+      "statement": "What is this?",
+      "context": "**Document:** \"A paper signed by 1,000 people asking the government to fix the road.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A check",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Petition",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Diploma",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Magazine",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Petition**. Formal request signed by many.\r\n*Español: Petición.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v4",
+      "statement": "The right to say what you think without fear of prison is called...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Freedom of Movement",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Freedom of Speech",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Freedom of Silence",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Freedom of Cost",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Freedom of Speech**. Fundamental democratic right.\r\n*Español: Libertad de expresión.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v5",
+      "statement": "What type of racism is this?",
+      "context": "**Concept:** \"Racism that is built into the laws and institutions of a society, not just individual actions.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Casual",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Systemic / Institutional",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Reverse",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Temporary",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Systemic Racism**. Structural, not just individual.\r\n*Español: Racismo sistémico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v6",
+      "statement": "They are an...",
+      "context": "**Person:** \"Someone who publicly supports or suggests an idea/policy.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enemy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Advocate / Activist",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Observer",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Opponent",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Advocate**. A supporter/proponent.\r\n*Español: Defensor (Advocate).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v7",
+      "statement": "Which is more fair?",
+      "context": "**Scenario:**\r\n- **Equality:** Giving everyone the same size shoe.\r\n- **Equity:** Giving everyone a shoe that fits their foot.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equality",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Equity (Fairness based on need)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Neither",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Barefoot",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Equity**. Fairness (getting what you need) vs Equality (getting the same).\r\n*Español: Equidad vs Igualdad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v8",
+      "statement": "What word is missing?",
+      "context": "**Document:** \"The Universal Declaration of ____ Rights (1948).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Animal",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Human",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Business",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Alien",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **UDHR**. Foundation of international law.\r\n*Español: Derechos Humanos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v9",
+      "statement": "They are...",
+      "context": "**Groups:** \"People pushed to the edge of society with little power or influence.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centralized",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Marginalized",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Popular",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dangerous",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Marginalized**. Pushed to the margins/edge.\r\n*Español: Marginados.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-social-justice-001-v10",
+      "statement": "This is a ____ movement.",
+      "context": "**Movement:** \"Started by ordinary people in the neighborhood, not by politicians or companies.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Top-down",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Grassroots (Roots of the grass)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Corporate",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Fake",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Grassroots**. Bottom-up movement.\r\n*Español: Movimiento de base (Grassroots).*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-social-justice-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v1",
+      "statement": "Which item must be removed based on this rule?",
+      "context": "**Agent:** \"Do you have any *prohibited items* in your carry-on luggage, such as liquids over 100ml?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A sandwich",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A 200ml bottle of shampoo",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A book",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A laptop",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Prohibited Items**. Liquids > 100ml are banned in carry-on.\r\n*Español: Normas de seguridad aeroportuaria (Líquidos).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v2",
+      "statement": "You bought a watch for $12,000. What must you do?",
+      "context": "**Form:** \"Declare all goods acquired abroad with a value exceeding $10,000.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hide it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Write it on the form and tell the officer.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Wear it so they don't see it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nothing, it's personal.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Customs Declaration**. Exceeding the limit requires declaration by law.\r\n*Español: Declaración de aduanas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v3",
+      "statement": "What is the problem?",
+      "context": "**Guest:** \"The room is stifling hot and the AC is unresponsive.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The room is too cold.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The TV is broken.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The air conditioning is not working and it is very hot.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The bed is hard.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Stifling hot** = Very hot. **Unresponsive** = Broken.\r\n*Español: Quejas en hoteles (Aire acondicionado).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v4",
+      "statement": "What mode of transport connects Piccadilly and Bakerloo?",
+      "context": "**Local:** \"Take the tube to Piccadilly, then transfer to the Bakerloo line heading North.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bus",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Subway / Metro (The Tube)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Taxi",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ferry",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **The Tube** is the colloquial name for the London Underground/Subway.\r\n*Español: Vocabulario de transporte (El metro de Londres).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v5",
+      "statement": "What can you get for free?",
+      "context": "**Announcement:** \"Flight 404 is delayed due to inclement weather. Passengers are entitled to a meal voucher.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A hotel room.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Food.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A new ticket.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cash.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Meal voucher** = Ticket for free food.\r\n*Español: Derechos del pasajero (Meal voucher).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v6",
+      "statement": "What does this symptom likely indicate?",
+      "context": "**Phrase:** \"I need an ambulance. My friend is having severe chest pains.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A headache",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Food poisoning",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A heart attack",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A broken leg",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Chest pains** are the primary symptom of a heart attack. Critical travel vocabulary.\r\n*Español: Emergencia médica (Dolor de pecho).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v7",
+      "statement": "If you have 100 USD and want Euros, which rate applies?",
+      "context": "**Sign:** \"We Buy USD: 0.85 EUR. We Sell USD: 0.90 EUR.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We Buy (The bank buys your USD) -> 0.85",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "We Sell (The bank sells you USD) -> 0.90",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The average (0.875)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "1.00",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**English:** **Exchange Rates**. From the bank's perspective: They BUY your foreign currency.\r\n*Español: Lógica de cambio de divisas (Compra/Venta).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v8",
+      "statement": "What should you NOT do in a restaurant in Tokyo?",
+      "context": "**Guide:** \"In Japan, it is customary to bow when greeting. Tipping is considered rude.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eat properly.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bow to the waiter.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Leave extra money on the table (Tip).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Say thank you.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Etiquette**. Text says \"Tipping is considered rude\". Therefore, do NOT tip.\r\n*Español: Etiqueta cultural (Propinas en Japón).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v9",
+      "statement": "You are going for a 60-day business trip. Can you get this visa?",
+      "context": "**Rule:** \"Visa-on-arrival is available only for tourism stays under 30 days with a return ticket.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, if you have a ticket.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No, because of the duration and purpose.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Yes, if you pay extra.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Only for 30 days.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Visa conditions**. Fails on Duration (60 > 30) and possibly Purpose (Business vs Tourism).\r\n*Español: Requisitos de visado (Duración/Propósito).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-10-travel-mastery-001-v10",
+      "statement": "If you crash and don't have CDW, how much might you pay?",
+      "context": "**Contract:** \"The excess is $1000 unless you purchase the Collision Damage Waiver (CDW).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Up to $1000",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The full price of the car",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "$50",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Insurance vocabulary**. \"Excess\" (deducible) is what you pay before insurance covers the rest.\r\n*Español: Seguros de alquiler (Franquicia/Excess).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-10-travel-mastery-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1+",
+      "subject": "ingles",
+      "grade": 10,
+      "country": "global"
+    }
+  ]
+}

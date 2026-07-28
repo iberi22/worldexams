@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-1-grade-4-subject-ingles",
+    "generated_at": "2026-07-28T22:11:09.193Z"
+  },
+  "questions": [
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v1",
+      "statement": "Which snack is healthy?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A bag of chips",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "An apple",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A chocolate bar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A cookie",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Fruit** is healthy. Candy is not.\r\n*Español: Merienda saludable.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v2",
+      "statement": "What is the best drink for your body?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soda (Coke)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Water",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Coffee",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Energy drink",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Water**. Essential for life.\r\n*Español: Hidratación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v3",
+      "statement": "Carrots, broccoli, and spinach are...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fruits",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Vegetables",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Meats",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Desserts",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Vegetables**. Vocabulary.\r\n*Español: Vegetales.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v4",
+      "statement": "It is important because it gives you...",
+      "context": "**Meal:** The first meal of the day.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sleep",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Energy",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Nightmares",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cold",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Energy**. Breakfast fuels the day.\r\n*Español: Importancia del desayuno.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v5",
+      "statement": "Too much sugar is bad for your...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shoes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Teeth and health",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hair",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Books",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Sugar**. Cavities and health.\r\n*Español: Azúcar y salud dental.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v6",
+      "statement": "You should stop eating when you feel...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hungry",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Full / Satisfied",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Angry",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Listening to your body.\r\n*Español: Saciedad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v7",
+      "statement": "Before eating, you must...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jump",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Wash your hands",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sleep",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Run",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Hygiene**. Basic rule.\r\n*Español: Lavado de manos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v8",
+      "statement": "These are called...",
+      "context": "**Food:** Burgers, fries, and candy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superfood",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Junk food / Fast food",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Salad",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Junk food**. Unhealthy.\r\n*Español: Comida chatarra.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v9",
+      "statement": "What is this?",
+      "context": "**Nutrient:** Helps build muscles. Found in meat, eggs, and beans.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sugar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Protein",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Salt",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Protein**. Muscle building.\r\n*Español: Proteínas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-04-healthy-eating-001-v10",
+      "statement": "You should eat a ______ of foods ('Eat the Rainbow').",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boring list",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Variety / Mix",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Single type",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Box",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Variety**. Balanced diet.\r\n*Español: Variedad en la dieta.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-04-healthy-eating-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 4,
+      "country": "global"
+    }
+  ]
+}

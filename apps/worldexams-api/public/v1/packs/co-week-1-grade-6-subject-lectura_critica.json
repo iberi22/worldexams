@@ -8,6 +8,1356 @@
   },
   "questions": [
     {
+      "id": "q-0",
+      "statement": "¿Dónde ocurre la historia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "En una reserva natural del Quindío.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "En la costa Atlántica.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "En el Amazonas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del lugar donde ocurren los hechos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Cuánto tiempo lleva Doña Matilde viviendo en la reserva?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "40 años.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "10 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "50 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un dato numérico explícito.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Qué notaron los biólogos que era diferente este año?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que había más luciérnagas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que había menos luciérnagas que antes.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que las luciérnagas eran más grandes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que las luciérnagas habían migrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión del cambio descrito en el texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Por qué Doña Matilde compara las luciérnagas con estrellas en el suelo?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las luciérnagas caían del cielo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las luciérnagas brillaban en la oscuridad, como estrellas, pero en la tierra.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque había estrellas reflejadas en el suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las luciérnagas se parecían a las estrellas de mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia del significado de una comparación poética en un contexto real.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué podemos inferir sobre la relación entre los pesticidas y las luciérnagas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los pesticidas atraen a las luciérnagas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de pesticidas probablemente está afectando negativamente a las luciérnagas.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Los pesticidas no tienen relación.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Los pesticidas son alimento para las luciérnagas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia de una relación de causa-efecto no dicha explícitamente.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Por qué las nuevas luces de las casas afectan a las luciérnagas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las luces atraen a las luciérnagas y las lastiman.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las luciérnagas necesitan oscuridad para reproducirse y las luces interfieren.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque a las luciérnagas les gusta la luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las luces calientan el ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia a partir de información implícita sobre los requisitos de hábitat.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Qué puedes inferir sobre la intención de Doña Matilde al decir \"Ahora casi no se ven\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está contenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Siente nostalgia y preocupación por el cambio.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Está enojada con los biólogos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No le importa el cambio.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia del estado emocional a partir del lenguaje utilizado.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué pasó con el bosque nativo según el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creció más.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Se redujo por la construcción de nuevas viviendas.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Se quemó.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Fue declarado reserva.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de un cambio explícito en el entorno.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Cuál es la consecuencia de que haya menos luciérnagas?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene consecuencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El ecosistema nocturno se altera y se pierde un atractivo natural importante.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentan los mosquitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Mejora la agricultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia de las consecuencias ecológicas de la disminución de una especie.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Qué enseñanza nos deja la situación de las luciérnagas del Quindío?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las luciérnagas son insectos sin importancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que nuestras acciones (pesticidas, construcción) afectan a otras especies, incluso sin quererlo.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que las luciérnagas deben criarse en cautiverio.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que los pesticidas son buenos para el café.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reflexión sobre la responsabilidad humana en la conservación de la biodiversidad.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-P1-inferencia-basica-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-0",
+      "statement": "¿Cuál es la única especie de oso que habita en Sudamérica?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oso de anteojos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "B",
+          "text": "El oso pardo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "El oso polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El oso negro.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de un dato explícito al inicio del texto expositivo.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-1",
+      "statement": "¿Por qué se llama \"oso de anteojos\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usa gafas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Por las manchas blancas alrededor de sus ojos que parecen anteojos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque vive en casas de cristal.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque tiene los ojos muy grandes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del origen del nombre común de una especie.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-2",
+      "statement": "¿Cuál es el propósito principal de este texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar una historia sobre un oso.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Exponer información científica sobre el oso de anteojos.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Convencer al lector de que proteja los osos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Describir un sueño del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del propósito comunicativo de un texto expositivo vs. narrativo o persuasivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-3",
+      "statement": "¿Dónde habita el oso de anteojos en Colombia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la selva amazónica.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "En la cordillera de los Andes.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "En la costa Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "En el desierto de La Guajira.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la ubicación geográfica del hábitat del oso de anteojos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-4",
+      "statement": "¿Qué significa que el oso de anteojos sea omnívoro?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo come frutas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que come plantas y animales.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo come carne.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que no come nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de un término científico a partir del contexto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión del sentido global",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-5",
+      "statement": "¿Qué clasificación le da la UICN al oso de anteojos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En peligro crítico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Vulnerable.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Extinto en la naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Preocupación menor.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de una categoría taxonómica de conservación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de contenidos locales",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-6",
+      "statement": "¿Por qué el oso de anteojos es tímido y evita el contacto con humanos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es agresivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es una especie diferente al oso pardo, con un comportamiento natural más reservado.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque odia a las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque está entrenado.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia sobre las diferencias de comportamiento entre especies de osos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-7",
+      "statement": "¿Qué relación hay entre la deforestación y la situación del oso de anteojos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La deforestación beneficia al oso.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "La deforestación destruye su hábitat, contribuyendo a que sea vulnerable.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "La deforestación no lo afecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La deforestación solo afecta a los árboles.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia de la relación causa-efecto entre la deforestación y el estado de conservación.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-8",
+      "statement": "¿Qué función cumplen los parques nacionales como el Cocuy y el Chingaza según el texto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son lugares turísticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Son áreas protegidas que ayudan a conservar el hábitat del oso.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Son ciudades importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Son reservas militares.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia de la función de las áreas protegidas en la conservación de especies.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Dimensión inferencial",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "q-9",
+      "statement": "¿Por qué es importante que existan textos expositivos como este sobre el oso de anteojos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para entretener a los lectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Para informar y crear conciencia sobre una especie vulnerable de nuestra fauna.",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Para vender boletos al zoológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Para asustar a los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reflexión sobre la importancia de los textos expositivos para la divulgación y conservación.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión sobre el contenido",
+      "bundle_id": "CO-LEC-6-2026-P1-textos-expositivos-INDEX-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v1",
+      "statement": "What type of text is a story with characters and a plot?",
+      "context": "In Bogotá, students read a story about a boy who finds a hidden treasure in Monserrate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informative",
+          "is_correct": false,
+          "feedback": "No, that gives facts."
+        },
+        {
+          "letter": "B",
+          "text": "Narrative",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Argumentative",
+          "is_correct": false,
+          "feedback": "No, persuades."
+        },
+        {
+          "letter": "D",
+          "text": "Descriptive",
+          "is_correct": false,
+          "feedback": "No, describes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Narrative texts tell stories with characters, setting, and plot (beginning, middle, end).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v2",
+      "statement": "What is the 'setting' of a story?",
+      "context": "In class in Medellín, the teacher asks about story elements.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The characters",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "The problem",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Where and when the story happens",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "The ending",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Setting = time and place where the story occurs.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v3",
+      "statement": "In a narrative, what is the climax?",
+      "context": "Students in Cali read 'El ahogado más hermoso del mundo' by Márquez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The beginning",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "The highest point of tension",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "The resolution",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "The introduction",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Climax is the moment of greatest tension in the story, before the resolution.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v4",
+      "statement": "Who tells the story in first-person narration?",
+      "context": "In Barranquilla they analyze 'La siesta del martes'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An outside observer",
+          "is_correct": false,
+          "feedback": "No, third person."
+        },
+        {
+          "letter": "B",
+          "text": "A character in the story",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "A camera",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "The author directly",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "First-person narrator uses 'I' or 'we', is a character within the story.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v5",
+      "statement": "'Once upon a time' typically starts what kind of text?",
+      "context": "In Bucaramanga, they compare text types.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "News article",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Fairy tale",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Scientific report",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Recipe",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Fairy tales and narratives often begin with 'Once upon a time' or 'Érase una vez'.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v6",
+      "statement": "What is the correct order of plot elements?",
+      "context": "In Cartagena, students identify plot structure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exposition, climax, resolution",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Exposition, rising action, climax, falling action, resolution",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Climax, resolution, exposition",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Rising action, exposition, falling action",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Plot structure: exposition, rising action, climax, falling action, resolution.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v7",
+      "statement": "A character who changes during the story is called ___.",
+      "context": "In Pereira they analyze character development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Static",
+          "is_correct": false,
+          "feedback": "No, doesn't change."
+        },
+        {
+          "letter": "B",
+          "text": "Flat",
+          "is_correct": false,
+          "feedback": "No, one-dimensional."
+        },
+        {
+          "letter": "C",
+          "text": "Dynamic",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Minor",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dynamic characters change through the story; static characters remain the same.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v8",
+      "statement": "In written stories, what punctuation marks dialogue?",
+      "context": "In Manizales they examine dialogue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parentheses",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Quotation marks or guiones",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Commas",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Colons",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dialogue is marked with quotation marks (\" \") or em dashes (—) in Spanish.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v9",
+      "statement": "A short story is different from a novel because it has ___.",
+      "context": "In Cúcuta compare short story vs novel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "More characters",
+          "is_correct": false,
+          "feedback": "No, less."
+        },
+        {
+          "letter": "B",
+          "text": "A simpler plot and fewer pages",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "No ending",
+          "is_correct": false,
+          "feedback": "No, it does."
+        },
+        {
+          "letter": "D",
+          "text": "No conflict",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Short stories are shorter, with fewer characters and a simpler plot structure.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-v10",
+      "statement": "To create suspense, a writer should ___.",
+      "context": "In Ibagué, they create their own narrative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reveal everything immediately",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Use cliffhangers and pacing",
+          "is_correct": true,
+          "feedback": "Correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Describe only the setting",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Skip the problem",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Suspense is created through pacing, cliffhangers, and withholding some information.\r\n\r\n---\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-LC-6-2026-P1-narrative-texts-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
       "id": "CO-LEC-6-2026-W00-tema seman-001-MASTERY-v1",
       "statement": "En la clase de Lectura Critica del I.E. San José en Tunja, se discute sobre Tema Semana 1 de Lectura Critica. ¿Cuál es un aspecto fundamental de este tema?",
       "context": "I.E. San José en Tunja",
@@ -922,6 +2272,466 @@
       "bundle_id": "CO-LEC-6-2026-W01-textos-expositivos-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v1",
+      "statement": "¿En qué lugar se desarrollan los hechos del cuento según el fragmento?",
+      "context": "*Fragmento de un cuento popular colombiano:*\n\"Había una vez, en un pequeño pueblo de la costa, un pescador llamado Pedro que hablaba con los peces...\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En una montaña alta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona explícitamente un pueblo de la costa."
+        },
+        {
+          "letter": "B",
+          "text": "En un pueblo de la costa.",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento ubica la acción directamente en la costa."
+        },
+        {
+          "letter": "C",
+          "text": "En la ciudad de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia textual que mencione a Bogotá."
+        },
+        {
+          "letter": "D",
+          "text": "Dentro de un barco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pedro es pescador, pero el lugar mencionado es el pueblo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La identificación del espacio o lugar es fundamental para situar la acción narrativa y comprender el contexto de los personajes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica - Identificar contenidos locales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v2",
+      "statement": "¿Cuál es la parte de la estructura del cuento donde se presenta el conflicto o problema principal?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio o planteamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el inicio se presentan los personajes y el lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Nudo o desarrollo.",
+          "is_correct": true,
+          "feedback": "Correcto. En el nudo es donde surge el problema que los personajes deben resolver."
+        },
+        {
+          "letter": "C",
+          "text": "Desenlace o final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el desenlace se soluciona el conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Título.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título solo da una idea general o nombre a la obra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos narrativos suelen seguir una estructura lineal: presentación de la situación, surgimiento de un problema y resolución del mismo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura Crítica - Identificar contenidos locales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v3",
+      "statement": "¿Qué tipo de atmósfera o ambiente se crea en este fragmento?",
+      "context": "\"De repente, el cielo se oscureció y un fuerte viento comenzó a soplar. Los animales buscaron refugio rápidamente.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ambiente de alegría y fiesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oscuridad y el viento fuerte no sugieren alegría."
+        },
+        {
+          "letter": "B",
+          "text": "Un ambiente de tensión o peligro inminente.",
+          "is_correct": true,
+          "feedback": "Correcto. La oscuridad y la huida de los animales indican que algo malo o peligroso va a pasar."
+        },
+        {
+          "letter": "C",
+          "text": "Un ambiente de tranquilidad y calma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento describe un cambio brusco y agitado."
+        },
+        {
+          "letter": "D",
+          "text": "Un ambiente caluroso y soleado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que el cielo se oscureció."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los autores utilizan descripciones del entorno para sugerir emociones o adelantar sucesos en la trama (anticipación).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica - Comprender cómo se articulan las partes de un texto",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v4",
+      "statement": "¿Cómo se llama el personaje que se opone al protagonista y trata de impedir que logre sus objetivos?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personaje secundario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos ayudan o acompañan, pero no son necesariamente la oposición."
+        },
+        {
+          "letter": "B",
+          "text": "Antagonista.",
+          "is_correct": true,
+          "feedback": "Correcto. El antagonista es la fuerza opuesta al personaje principal."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador es quien cuenta la historia, no un personaje con objetivos contrarios."
+        },
+        {
+          "letter": "D",
+          "text": "Héroe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Héroe es generalmente sinónimo de protagonista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar los roles de los personajes permite comprender las dinámicas de conflicto y las motivaciones dentro de la historia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lectura Crítica - Identificar contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v5",
+      "statement": "¿Qué se puede inferir sobre el estado de ánimo de Pedro en este momento?",
+      "context": "\"Pedro, cansado de tanto caminar, se sentó bajo un frondoso árbol de samán. Cerró los ojos y, por un momento, olvidó su misión.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está muy emocionado por llegar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que está cansado y que olvidó su misión por un momento."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene mucha hambre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona la comida en el fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "Se siente agotado y con necesidad de descansar.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de palabras como \"cansado\" y \"cerró los ojos\" apoya esta inferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Está asustado por algo que vio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actitud de sentarse y cerrar los ojos sugiere relajación o fatiga, no miedo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La inferencia consiste en extraer información que no está escrita directamente, pero que se deduce de las pistas dadas por el autor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica - Comprender cómo se articulan las partes de un texto",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v6",
+      "statement": "Si un narrador cuenta la historia en la que él mismo participa como personaje principal, ¿qué tipo de narrador es?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador protagonista (Primera persona).",
+          "is_correct": true,
+          "feedback": "Correcto. Habla desde su propia experiencia usando el \"yo\"."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador omnisciente (Tercera persona).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El omnisciente lo sabe todo pero no participa en la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El testigo cuenta lo que vio que le pasó a otros, no a sí mismo."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador ausente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe técnicamente un narrador ausente en el análisis literario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto de vista del narrador determina cuánta información recibe el lector y qué tan subjetiva es la historia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica - Reflexionar a partir de un texto",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v7",
+      "statement": "¿Cuál es la función del diálogo implícito (la burla) entre la liebre y la tortuga al inicio de la historia?",
+      "context": "*Inicio de una fábula:*\n\"La tortuga siempre admiraba la rapidez de la liebre, mientras esta se burlaba de su lentitud. Un día, decidieron apostar quién llegaría primero al viejo roble.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar el final de la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre al principio."
+        },
+        {
+          "letter": "B",
+          "text": "Describir detalladamente el paisaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco está en la relación entre los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Establecer el conflicto que motiva la acción futura (la carrera).",
+          "is_correct": true,
+          "feedback": "Correcto. La burla genera la necesidad de probar quién es mejor, iniciando la trama."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar una moraleja inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja suele aparecer al final de la fábula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En las narraciones breves, los diálogos o actitudes iniciales sirven para justificar por qué los personajes actúan de cierta manera después.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica - Comprender cómo se articulan las partes de un texto",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v8",
+      "statement": "¿Qué diferencia fundamental existe entre un **cuento** y una **novela**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento no tiene personajes y la novela sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen personajes."
+        },
+        {
+          "letter": "B",
+          "text": "El cuento es breve y tiene una trama sencilla, mientras que la novela es extensa y compleja.",
+          "is_correct": true,
+          "feedback": "Correcto. La extensión y la multiplicidad de tramas son las marcas distintivas."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento siempre es real y la novela es de fantasía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser reales o fantásticos."
+        },
+        {
+          "letter": "D",
+          "text": "El cuento no tiene autor conocido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría de los cuentos modernos tienen autor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La clasificación de los géneros narrativos depende de criterios como la extensión, la complejidad de la trama y el número de personajes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica - Comprender cómo se articulan las partes de un texto",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v9",
+      "statement": "¿Cuál es la enseñanza o transformación que experimenta el personaje del gigante?",
+      "context": "\"El gigante se dio cuenta de que su jardín estaba triste porque él no dejaba entrar a los niños. Entonces, tomó un hacha y derribó el muro.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprendió a usar herramientas de construcción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hacha es literal, pero el cambio es emocional."
+        },
+        {
+          "letter": "B",
+          "text": "Comprendió que la alegría de otros (los niños) es necesaria para su propia felicidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Al derribar el muro, el gigante abre su corazón y permite que la alegría vuelva."
+        },
+        {
+          "letter": "C",
+          "text": "Decidió que era mejor vivir solo sin ruido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto contradice su acción de derribar el muro."
+        },
+        {
+          "letter": "D",
+          "text": "Se enojó más con la naturaleza por estar triste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su acción de derribar el muro es un acto de reconciliación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En muchos relatos, el clímax o punto de giro coincide con un cambio ético o moral en el protagonista.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura Crítica - Reflexionar a partir de un texto",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEC-6-P1-narrativa-001-MASTERY-v10",
+      "statement": "¿Cuál de los siguientes elementos es exclusivo de la **leyenda** y no suele aparecer en un cuento realista?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de diálogos entre personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aparece en casi todos los textos narrativos."
+        },
+        {
+          "letter": "B",
+          "text": "La mezcla de hechos históricos reales con elementos mágicos o sobrenaturales.",
+          "is_correct": true,
+          "feedback": "Correcto. La leyenda intenta explicar un origen o suceso real mediante la fantasía."
+        },
+        {
+          "letter": "C",
+          "text": "La división de la historia en capítulos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es más común en las novelas."
+        },
+        {
+          "letter": "D",
+          "text": "El nombre de un protagonista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los cuentos tienen protagonistas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La leyenda es un subgénero narrativo que se transmite por tradición oral y busca dar una explicación mítica a fenómenos o lugares reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura Crítica - Identificar contenidos locales",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEC-6-P1-narrativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
       "cefr_level": null,
       "subject": "lectura-critica",
       "grade": 6,

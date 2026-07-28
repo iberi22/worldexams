@@ -1,0 +1,3451 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-1-grade-9-subject-ingles",
+    "generated_at": "2026-07-28T22:11:09.213Z"
+  },
+  "questions": [
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v1",
+      "statement": "How many times did you clap?",
+      "context": "**Instruction:**\r\n\"Repeat the following step 3 times: Clap your hands.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 time",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "3 times",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "0 times",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Forever",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Simple **Loop**. Repeat X times.\r\n*Español: Bucle simple.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v2",
+      "statement": "What do you take?",
+      "context": "**Algorithm:**\r\n1. If it is raining, take an umbrella.\r\n2. Else, take sunglasses.\r\n**Situation:** It is sunny.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Umbrella",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sunglasses",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Both",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nothing",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **If/Else**. True = Umbrella. False = Sunglasses. Sunny implies Not Raining (False).\r\n*Español: Condicional If/Else.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v3",
+      "statement": "What is the value of Y at the end?",
+      "context": "**Steps:**\r\n1. X = 5\r\n2. Y = X + 2\r\n3. X = 10",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Sequence matters**. Y is calculated in step 2 (5+2=7). Step 3 changing X does not retroactively change Y (in standard logic).\r\n*Español: Asignación secuencial de variables.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v4",
+      "statement": "Why will this fail?",
+      "context": "**Recipe Algorithm:**\r\n1. Put cake in oven.\r\n2. Wait 30 minutes.\r\n3. Turn on oven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You forgot the cake.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "You put it in before turning the oven on (Sequence Error).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "30 minutes is too long.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ovens are hot.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Logical Sequencing**. You must turn on the oven *before* or *at start* of baking, not after waiting.\r\n*Español: Error de secuencia lógica (Bug).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v5",
+      "statement": "When do you stop?",
+      "context": "**Instruction:**\r\n\"While the bucket is not full, add water.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Never.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Immediately.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "When the bucket is full.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "When you run out of water.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **While Loop**. Continues as long as condition (Not Full) is true. Stops when condition becomes False (Full).\r\n*Español: Bucle While.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v6",
+      "statement": "User is Admin, but Password is wrong. Access?",
+      "context": "**Login Rule:**\r\n\"Access allowed ONLY IF (Password is Correct) AND (User is Admin).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes (50% correct).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Yes, because Admin.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Maybe.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **AND Operator**. Both must be true. T AND F = False.\r\n*Español: Operador lógico AND.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v7",
+      "statement": "What do you do?",
+      "context": "**Rule:**\r\n\"If it is a weekday: (If it is morning -> Go to school. Else -> Do homework).\"\r\n**Situation:** Tuesday, 7:00 PM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to school.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Do homework.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sleep.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Play.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Nested If**. Weekday? Yes (Tue). Morning? No (7PM). -> Else branch: Do homework.\r\n*Español: Condicionales anidados.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v8",
+      "statement": "When does this end?",
+      "context": "**Instruction:**\r\n1. Walk forward 1 step.\r\n2. Go to step 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "After 10 steps.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "When you hit a wall.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Never (Infinite Loop).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tomorrow.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Infinite Loop**. There is no condition to stop.\r\n*Español: Bucle infinito.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v9",
+      "statement": "What is the result?",
+      "context": "**List:** [3, 1, 4, 2]\r\n**Action:** \"Sort smallest to largest.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[4, 3, 2, 1]",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "[1, 2, 3, 4]",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "[3, 1, 2, 4]",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "[1, 3, 2, 4]",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Sorting**. Ascending order.\r\n*Español: Ordenamiento ascendente.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-coding-logic-001-v10",
+      "statement": "Can the switch be \"Half-On\"?",
+      "context": "**System:** \"A switch can only be ON (1) or OFF (0).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "No.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sometimes.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "If it's broken.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Binary State**. Either 0 or 1. No middle state.\r\n*Español: Estado binario.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-coding-logic-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v1",
+      "statement": "What is a logical explanation?",
+      "context": "**Scenario:**\r\n\"The streets are wet, but it didn't rain.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The sun is shining.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Someone cleaned the streets with water.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "It is a dry season.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Clouds are white.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** If \"no rain\" is the premise, but \"wet streets\" is the result, you must find an alternative cause. **Cleaning** is the only logical cause for water.\r\n*Español: Si no llovió, la única causa lógica de calles mojadas es que alguien las lavó.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v2",
+      "statement": "Which of the following describes a **fact**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blue is the most beautiful color.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Water boils at 100 degrees Celsius.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Math is difficult for everyone.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Pizza is delicious.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** A **fact** can be proven scientifically or observed objectively. Opinions (beautiful, difficult, delicious) are subjective.\r\n*Español: Un hecho es comprobable. Las opiniones son subjetivas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v3",
+      "statement": "What does \"cacophony\" likely mean?",
+      "context": "**Sentence:**\r\n\"The *cacophony* of the city traffic gave me a headache.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Silence",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Beautiful melody",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Loud, unpleasant noise",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sweet smell",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Clues: \"traffic\" and \"gave me a headache\". These imply loud/bad noise. Thus, **cacophony** means loud noise.\r\n*Español: Pistas: tráfico y dolor de cabeza implican ruido fuerte.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v4",
+      "statement": "What does the girl imply with her question?",
+      "context": "**Dialogue:**\r\nGirl: \"Do you really think that shirt goes with those pants?\"\r\nBoy: \"Does it look bad?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She loves his outfit.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "She wants to buy the shirt.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "She thinks the clothes do not match well.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "She is asking about the price.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** \"Do you really think...\" is often a polite/indirect way of expressing doubt or criticism. She implies they **don't match**.\r\n*Español: Es una crítica indirecta.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v5",
+      "statement": "What is the most ethical action (B1 vocabulary)?",
+      "context": "**Problem:**\r\n\"You found a wallet with money and an ID card inside.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep the money and throw away the wallet.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Leave the wallet on the ground.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Contact the person on the ID card.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Buy ice cream for your friends.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Ethical reasoning. The ID card allows you to return it. This is the \"right\" thing to do.\r\n*Español: Razonamiento ético. Devolverla usando la identificación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v6",
+      "statement": "What will likely happen?",
+      "context": "**Situation:**\r\n\"Sarah didn't study for her history exam. She stayed up late playing video games.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She will get the highest grade.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "She might fail or get a low grade.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The teacher will cancel the exam.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "She will become a history expert.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Cause: No study + tired. Effect: **Low grade**. Logical prediction.\r\n*Español: Causa y efecto. No estudiar lleva a malas notas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v7",
+      "statement": "**Bird** is to **Fly** as **Fish** is to _______?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Walk",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sky",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Swim",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Relationship: \"Animal\" + \"Action/Movement\". Bird flies. Fish **swims**. Water (D) is the place, not the action.\r\n*Español: Analogía de acción. El pez nada.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v8",
+      "statement": "What kind of bias does this headline show?",
+      "context": "**Headline:**\r\n\"Lazy Teenagers Waste Time on Phones All Day.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a neutral fact.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It is a negative generalization (stereotype).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "It is a positive compliment.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "It is scientific data.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Words like \"Lazy\" and \"Waste time\" showing a negative opinion about a whole group (\"Teenagers\") indicates **stereotyping/bias**.\r\n*Español: Generalización negativa o estereotipo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v9",
+      "statement": "What is step 2?",
+      "context": "**Steps:**\r\n1. Put toothpaste on brush.\r\n2. _______?\r\n3. Rinse mouth with water.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buy a toothbrush.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Brush teeth.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Eat breakfast.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Go to sleep.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Logical sequence of daily routine. You must brush *between* putting paste and rinsing.\r\n*Español: Secuencia lógica de rutina.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-critical-thinking-001-v10",
+      "statement": "Which sentence supports this claim best?",
+      "context": "**Claim:** \"Exercise is good for your health.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exercise makes you sweaty.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Gyms are expensive.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Active people often have stronger hearts and more energy.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Many people like watching sports on TV.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Options A and B are negatives. D is irrelevant. C provides **positive evidence** (\"stronger hearts\").\r\n*Español: La opción C provee evidencia positiva que apoya la afirmación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-critical-thinking-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v1",
+      "statement": "This describes the increasing...",
+      "context": "**Fact:** \"The rich get richer, and the poor get poorer.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temperature",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Wealth Gap / Inequality",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Happiness",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Age",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Wealth Gap**. Economic inequality.\r\n*Español: Brecha de riqueza.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v2",
+      "statement": "What is this called?",
+      "context": "**Issue:** \"Men are often paid more than women for doing the same job.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A bonus",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The Gender Pay Gap",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fairness",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tax",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Gender Pay Gap**. Inequality in wages based on gender.\r\n*Español: Brecha salarial de género.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v3",
+      "statement": "This is...",
+      "context": "**Action:** \"Refusing to hire someone because of their skin color.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Legal",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Discrimination / Racism",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Selection",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Kindness",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Discrimination**. Treating differently based on protected chars.\r\n*Español: Discriminación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v4",
+      "statement": "This denies them their...",
+      "context": "**Problem:** \"In some villages, girls are not allowed to go to school.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right to play",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Right to education",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Right to drive",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Right to cook",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Right to education**. A fundamental human right often denied.\r\n*Español: Derecho a la educación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v5",
+      "statement": "What is this?",
+      "context": "**Definition:** \"The lowest amount of money an employer can legally pay a worker.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salary Cap",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Minimum Wage",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pocket Money",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tip",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Minimum Wage**. A safeguard against exploitation.\r\n*Español: Salario mínimo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v6",
+      "statement": "This is the rate of...",
+      "context": "**Statistic:** \"10% of the population wants to work but cannot find a job.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Employment",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Unemployment",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Retirement",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Vacation",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Unemployment**. Available to work but jobless.\r\n*Español: Desempleo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v7",
+      "statement": "What does this mean for women?",
+      "context": "**Metaphor:** \"The Glass Ceiling.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They can see the sky.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The house is fragile.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "An invisible barrier preventing them from reaching top positions.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "They like windows.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Glass Ceiling**. Invisible barrier to advancement.\r\n*Español: Techo de cristal.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v8",
+      "statement": "This is called...",
+      "context": "**Concept:** \"Having advantages in life just because of who you were born as (e.g., wealthy parents).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hard work",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Privilege",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Luck",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Skill",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Privilege**. Unearned advantages.\r\n*Español: Privilegio.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v9",
+      "statement": "This is a...",
+      "context": "**Thought:** \"All teenagers are lazy.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fact",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Stereotype",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Law",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Question",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Stereotype**. A generalized belief about a group.\r\n*Español: Estereotipo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-inequality-001-v10",
+      "statement": "What is the opposite of exclusion?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separation",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Inclusion",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Division",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Subtraction",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Inclusion**. Ensuring everyone participates.\r\n*Español: Inclusión.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-inequality-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v1",
+      "statement": "It kills **bacteria**, but not viruses.",
+      "context": "**Medicine:** Discovered by Alexander Fleming (Penicillin).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vitamin C",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Antibiotic",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Painkiller",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Vaccine",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Antibiotic**. Kills bacteria.\r\n*Español: Antibiótico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v2",
+      "statement": "A substance used to stimulate the production of antibodies and provide immunity against a disease.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poison",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Vaccine",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bandage",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Surgery",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Vaccine**. Prevention.\r\n*Español: Vacuna.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v3",
+      "statement": "What does DNA stand for? (Simplified)",
+      "context": "**Molecule:** \"The blueprint of life.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do Not Ask",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Deoxyribonucleic Acid",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Doctor Nursing Assistant",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Digital Network Access",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **DNA**. Genetic code.\r\n*Español: ADN.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v4",
+      "statement": "It makes you sleep or numb pain.",
+      "context": "**Innovation:** Before this, surgery was extremely painful.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coffee",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Anesthesia",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Magic",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Anesthesia**. Pain prevention.\r\n*Español: Anestesia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v5",
+      "statement": "A technology that allows doctors to see **bones** inside the body.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camera",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "X-Ray",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Flashlight",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Mirror",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **X-Ray**. Imaging bones.\r\n*Español: Rayos X.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v6",
+      "statement": "The Flu and COVID-19 are caused by a...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bacteria",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Virus",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fungus",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Plant",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Virus**. Needs a host.\r\n*Español: Virus vs Bacteria.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v7",
+      "statement": "A doctor who performs operations (cuts open the body to fix it).",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nurse",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Surgeon",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dentist",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Vet",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Surgeon**. Performs surgery.\r\n*Español: Cirujano.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v8",
+      "statement": "Example: The 1918 Flu or COVID-19.",
+      "context": "**Scope:** An epidemic that has spread over a wide area, usually the whole world.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Outbreak (Local)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pandemic (Global)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Panic",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cold",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Pandemic**. Global spread.\r\n*Español: Pandemia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v9",
+      "statement": "Replacing a failing heart with a healthy one from a donor is called a...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repair",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Transplant",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Transport",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Transformation",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Transplant**. Organ replacement.\r\n*Español: Trasplante.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-medical-innovations-001-v10",
+      "statement": "If you feel better just because you *believe* it works, it's the...",
+      "context": "**Term:** A pill with no medicine (sugar pill) used in tests.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nocebo Effect",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Placebo Effect",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Real Effect",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Magic Effect",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Placebo Effect**. Power of belief.\r\n*Español: Efecto Placebo.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-medical-innovations-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v1",
+      "statement": "What should you do?",
+      "context": "**Dilemma:** The cashier gives you $10 too much change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Keep it (Free money!).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Return it (It's not yours).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Buy more stuff.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Run.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Honesty vs Greed.\r\n*Español: Dilema ético (Cambio extra).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v2",
+      "statement": "What is the responsible choice?",
+      "context": "**Dilemma:** You and your friend were playing ball and broke a neighbor's window. No one saw you.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Run away.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Knock on the door and pay for the damage.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Blame a bird.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hide.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Accountability**. Taking responsibility.\r\n*Español: Responsabilidad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v3",
+      "statement": "This is a conflict between...",
+      "context": "**Dilemma:** You see your best friend cheating on a final exam.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hunger and Thirst",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Loyalty (to friend) and Integrity (rules/truth).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fear and Anger",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Love and Hate",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Loyalty vs Integrity**. A classic ethical conflict.\r\n*Español: Conflicto de valores.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v4",
+      "statement": "Do you return it?",
+      "context": "**Dilemma:** You find a wallet with ID but no money.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, it's empty so it's useless.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the owner needs the ID cards.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Throw it in the trash.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Take the ID.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Empathy. Losing ID is stressful.\r\n*Español: Empatía práctica.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v5",
+      "statement": "What is this phenomenon?",
+      "context": "**Situation:** Someone is hurt on the street. Everyone walks past assuming \"someone else will help.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Hero Effect",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The Bystander Effect",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The Walking Effect",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The City Effect",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Bystander Effect**. Diffusion of responsibility.\r\n*Español: Efecto espectador.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v6",
+      "statement": "What is the honorable choice?",
+      "context": "**Dilemma:** You promised to go to your friend's concert, but you got free tickets to a better show same night.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to the better show.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Go to the friend's concert (You promised).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Lie and say you are sick.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Go to neither.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Keeping one's word vs Personal gain.\r\n*Español: Cumplir promesas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v7",
+      "statement": "What do you do?",
+      "context": "**Dilemma:** Your friend drives you home but is drunk.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Get in the car.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Laugh.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Refuse to get in and take their keys / call a taxi.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Run behind the car.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Safety first**. Preventing harm.\r\n*Español: Seguridad vial y responsabilidad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v8",
+      "statement": "This questions appeals to...",
+      "context": "**Classic Dilemma:** \"Is it okay to steal bread to feed a starving family?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mathematics",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Moral Relativity / Utilitarianism",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Grammar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sports",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Nuance**. Law vs Survival.\r\n*Español: Dilema clásico (Robar por necesidad).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v9",
+      "statement": "What do you say?",
+      "context": "**Dilemma:** You worked on a group project, but one person did nothing. The teacher asks, \"Did everyone help equally?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Yes\" (Lie).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The truth (No).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"I did nothing.\"",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cry.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Fairness. Credit where credit is due.\r\n*Español: Justicia en trabajo en equipo.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-moral-dilemmas-001-v10",
+      "statement": "Every choice has a...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prize",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Consequence",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Color",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Number",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Consequence**. Causality.\r\n*Español: Consecuencias.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-moral-dilemmas-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v1",
+      "statement": "Which of these is a **Need** (essential for survival)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A new video game",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Food / Water",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Designer clothes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Netflix subscription",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Needs** are essential (housing, food). **Wants** are optional.\r\n*Español: Necesidades vs Deseos.*\r\n\r\n**Why incorrect?**\r\n*   Other options are entertainment or luxury items (Wants).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v2",
+      "statement": "What is this?",
+      "context": "**Definition:** \"A plan for how to spend and save your money.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Debt",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Budget",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Loan",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Bank",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Budget**. Financial plan.\r\n*Español: Presupuesto.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v3",
+      "statement": "This is your...",
+      "context": "**Money:** The money you earn from working.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expense",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Income / Salary",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tax",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Debt",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Income**. Money coming in.\r\n*Español: Ingresos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v4",
+      "statement": "This means you should put money into ______ before spending it.",
+      "context": "**Concept:** \"Pay yourself first.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The trash",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Savings",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Candy",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Fire",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Savings**. Putting money aside for future use.\r\n*Español: Ahorro.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v5",
+      "statement": "If you borrow money, you create...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wealth",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Debt",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Profit",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Income",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Debt**. Money owed to others.\r\n*Español: Deuda.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v6",
+      "statement": "What is it?",
+      "context": "**Concept:** The bank pays you this for keeping money in a savings account.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Penalty",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Interest",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Fine",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Ticket",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Interest**. Earnings on savings (or cost of borrowing).\r\n*Español: Intereses.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v7",
+      "statement": "Which card uses money you **already have** in your bank account?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Credit Card",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Debit Card",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Library Card",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "ID Card",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Debit Card**. Own money vs Credit (Borrowed money).\r\n*Español: Tarjeta de Débito.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v8",
+      "statement": "Money saved specifically for unexpected bad events (like losing a job) is called...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Party Fund",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Emergency Fund",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Vacation Fund",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Pizza Fund",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Emergency Fund**. Financial safety net.\r\n*Español: Fondo de emergencia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v9",
+      "statement": "This is an...",
+      "context": "**Term:** Money that leaves your pocket (e.g., rent, food).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Income",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Expense",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Asset",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Investment",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Expense**. Cost of living.\r\n*Español: Gasto (Expense).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-personal-finance-001-v10",
+      "statement": "\"I want to save $1000 for a laptop in 6 months.\"",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Dream",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Financial Goal",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Joke",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Debt",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Financial Goal**. Specific target.\r\n*Español: Meta financiera.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-personal-finance-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v1",
+      "statement": "Which lightbulb uses the least electricity?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incandescent (Old style)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "LED (Light Emitting Diode)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fire",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Halogen",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **LEDs** are highly efficient.\r\n*Español: Eficiencia energética (LED).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v2",
+      "statement": "What should you do?",
+      "context": "**Vampire Power:** \"Leaving the TV plugged in when off consumes electricity.\"",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Unplug it or use a power strip to switch it off.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "A",
+          "text": "Leave it on.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Buy a bigger TV.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Watch in the dark.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Vampire power** (Standby). Unplugging helps.\r\n*Español: Consumo fantasma.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v3",
+      "statement": "Why is taking the bus better for the planet than driving a car alone?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is slower.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It transports more people with less fuel per person (Lower carbon footprint).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The bus is bigger.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "It is expensive.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Public transport** reduces individual carbon footprints.\r\n*Español: Transporte público y emisiones.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v4",
+      "statement": "What are these?",
+      "context": "**Technology:** \"Panels on the roof that turn sunlight into electricity.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Windows",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Solar Panels (Photovoltaic)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mirrors",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Wind turbines",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Solar Panels**. Renewable energy.\r\n*Español: Energía solar.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v5",
+      "statement": "What is this called?",
+      "context": "**Concept:** \"Buying food grown near your home to reduce transport emissions.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fast Food",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Eating Local / zero-mile food",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Importing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Dieting",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Food miles**. Eating local reduces transport pollution.\r\n*Español: Consumo local (Kilómetro cero).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v6",
+      "statement": "What is this trend?",
+      "context": "**Industry:** \"Cheap clothes made quickly, worn few times, and thrown away.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Haute Couture",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Fast Fashion",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Recycling",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Uniforms",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Fast Fashion**. High waste, bad for environment.\r\n*Español: Moda rápida (Fast Fashion).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v7",
+      "statement": "What helps with this?",
+      "context": "**House:** \"Keeping the heat inside during winter so you burn less fuel.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Open windows.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Good insulation (walls/roof).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A fan.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Thin walls.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Insulation**. Key for energy efficiency in heating.\r\n*Español: Aislamiento térmico.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v8",
+      "statement": "To save trees, you should print on...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "One side only.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Both sides (Double-sided).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Plastic.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "New paper every time.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Double-sided printing**. Halves paper usage.\r\n*Español: Ahorro de papel.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v9",
+      "statement": "How can you help?",
+      "context": "**Fact:** \"Beef production produces more methane (greenhouse gas) than vegetables.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eat more meat.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Stop eating.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Reduce meat consumption (e.g., Meat-free Monday).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Eat only sugar.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** **Dietary impact**. Reducing meat lowers carbon footprint.\r\n*Español: Impacto ambiental de la dieta.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-sustainable-living-001-v10",
+      "statement": "This is reuse, but specifically...",
+      "context": "**Action:** \"Turning an old tire into a beautiful garden planter.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Downcycling",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Upcycling (Creating *higher* value)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Trash",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Buying",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Upcycling**. Reusing in a way that increases value/quality.\r\n*Español: Upcycling (Suprarreciclaje).*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-sustainable-living-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v1",
+      "statement": "What is this?",
+      "context": "**Medicine:** \"A shot to prevent Rabies.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surgery",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Vaccination",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Vitamin",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Poison",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Vaccination**. Preventative medicine.\r\n*Español: Vacunación.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v2",
+      "statement": "What are these?",
+      "context": "**Pest:** \"Tiny insects that jump on dogs and drink blood.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flies",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Fleas / Ticks",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Spiders",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Worms",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Fleas**. External parasites.\r\n*Español: Pulgas y garrapatas.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v3",
+      "statement": "Why do we do this?",
+      "context": "**Surgery:** \"Neutering or Spaying a pet.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To make them run faster.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "To prevent unwanted babies (Overpopulation control).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "To change their color.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "To fix a broken leg.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Spay/Neuter**. Controlling population.\r\n*Español: Esterilización.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v4",
+      "statement": "What is it?",
+      "context": "**Disease:** \"A deadly virus spread by bites.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flu",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Rabies",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Acne",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cold",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Rabies**. Fatal zoonotic disease.\r\n*Español: Rabia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v5",
+      "statement": "What is a paw?",
+      "context": "**Body Part:** \"The Paw.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The tail.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The foot of an animal.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "The ear.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "The nose.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Paw**. Animal foot.\r\n*Español: Pata (Paw).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v6",
+      "statement": "How often should a pet have a check-up?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Never",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Once a year (Annual exam)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Everyday",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Only when dying",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Annual exam**. Preventative care.\r\n*Español: Chequeo anual.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v7",
+      "statement": "It is a...",
+      "context": "**Diet:** \"A rabbit eats only plants.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carnivore",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Herbivore",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Omnivore",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Insectivore",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Herbivore**. Plant-eater.\r\n*Español: Herbívoro.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v8",
+      "statement": "What is this called?",
+      "context": "**Definition:** \"A disease that can jump from animals to humans.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Genetic",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Zoonotic / Zoonosis",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Safe",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Magic",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Zoonosis**. Animal-to-human transmission.\r\n*Español: Zoonosis.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v9",
+      "statement": "What is it?",
+      "context": "**Tool:** \"Placed on a dog's snout to prevent biting during treatment.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A leash",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Muzzle",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Collar",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Hat",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Muzzle**. Safety device.\r\n*Español: Bozal (Muzzle).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-09-veterinary-basics-001-v10",
+      "statement": "What is its purpose?",
+      "context": "**Tech:** \"A tiny chip injected under the skin to identify lost pets.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GPS Tracking (Usually not real-time)",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Identification (ID)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mind control",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Vaccination",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Microchip**. Permanent ID.\r\n*Español: Microchip de identificación.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-09-veterinary-basics-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "B1",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "global"
+    }
+  ]
+}

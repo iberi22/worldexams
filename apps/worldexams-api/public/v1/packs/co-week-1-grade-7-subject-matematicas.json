@@ -8,6 +8,681 @@
   },
   "questions": [
     {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente un número racional?",
+      "context": "En la clase de matemáticas del Colegio San José de Barranquilla, la profesora Carolina escribe en el tablero: \"Un número racional es aquel que se puede expresar como el cociente de dos números enteros.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede escribirse como $\\frac{a}{b}$ donde $a$ y $b$ son enteros y $b \\neq 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición formal de número racional."
+        },
+        {
+          "letter": "B",
+          "text": "Es cualquier número que tiene decimales infinitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números irracionales también tienen decimales infinitos no periódicos."
+        },
+        {
+          "letter": "C",
+          "text": "Es un número que solo puede ser positivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números racionales pueden ser positivos, negativos o cero."
+        },
+        {
+          "letter": "D",
+          "text": "Es un número que no se puede representar en una recta numérica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los números racionales se pueden ubicar en la recta numérica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La definición de número racional como cociente de dos enteros con denominador distinto de cero es fundamental. Incluye fracciones, decimales exactos y decimales periódicos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v2",
+      "statement": "¿Cuántos kilogramos de productos compró Juan en total?",
+      "context": "En una tienda de la plaza de mercado de Sincelejo, Juan compró $\\frac{3}{4}$ kg de yuca y $\\frac{2}{3}$ kg de plátano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{7}$ kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para sumar fracciones con distinto denominador primero debes hallar un común denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{12}$ kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este resultado corresponde a una multiplicación, no a una suma."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{17}{12}$ kg",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3}{4} + \\frac{2}{3} = \\frac{9}{12} + \\frac{8}{12} = \\frac{17}{12}$ kg."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{6}{7}$ kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los numeradores y denominadores por separado, lo cual no es correcto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para sumar fracciones heterogéneas se debe encontrar el mínimo común múltiplo de los denominadores (mcm = 12), convertir las fracciones a equivalentes y luego sumar los numeradores.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v3",
+      "statement": "Si se mantiene la misma proporción, ¿cuántos kilogramos de masa se necesitan para producir 600 arepas?",
+      "context": "En la fábrica de arepas \"Doña Nidia\" de Medellín, se producen 240 arepas con 8 kg de masa de maíz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifica el cálculo de la regla de tres directa."
+        },
+        {
+          "letter": "B",
+          "text": "20 kg",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{240}{8} = \\frac{600}{x} \\Rightarrow x = \\frac{8 \\times 600}{240} = 20$ kg."
+        },
+        {
+          "letter": "C",
+          "text": "24 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la relación de proporcionalidad directa."
+        },
+        {
+          "letter": "D",
+          "text": "18 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se acerca, el cálculo exacto da 20 kg."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una proporción directa, el cociente entre las dos magnitudes se mantiene constante. Se puede resolver mediante regla de tres: más arepas requieren más masa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v4",
+      "statement": "¿Cuántos metros correrá Sofía en 1 minuto si mantiene el mismo ritmo?",
+      "context": "En una competencia de atletismo escolar en Bucaramanga, los estudiantes recorren distancias directamente proporcionales al tiempo que corren. Sofía corre 200 metros en 40 segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifica la conversión de 1 minuto a segundos."
+        },
+        {
+          "letter": "B",
+          "text": "300 metros",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{200}{40} = \\frac{x}{60} \\Rightarrow x = \\frac{200 \\times 60}{40} = 300$ metros."
+        },
+        {
+          "letter": "C",
+          "text": "280 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el planteo de la proporción."
+        },
+        {
+          "letter": "D",
+          "text": "350 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente usaste una relación incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La velocidad constante implica proporcionalidad directa entre distancia y tiempo. Se resuelve con regla de tres: 40 seg → 200 m, 60 seg → x m.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v5",
+      "statement": "¿Cómo se llaman dos triángulos que tienen ángulos iguales pero lados proporcionales?",
+      "context": "Carlos, estudiante de la I.E. Francisco de Paula Santander en Cúcuta, observa dos triángulos dibujados en el tablero. Ambos tienen la misma forma pero diferente tamaño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Congruentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triángulos congruentes tienen lados y ángulos exactamente iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Equivalentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Equivalentes se refiere a igual área, no a igual forma."
+        },
+        {
+          "letter": "C",
+          "text": "Semejantes.",
+          "is_correct": true,
+          "feedback": "Correcto. Dos triángulos son semejantes si sus ángulos correspondientes son iguales y sus lados proporcionales."
+        },
+        {
+          "letter": "D",
+          "text": "Isósceles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Isósceles se refiere a tener dos lados iguales, no a la relación entre dos triángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La semejanza de triángulos es un concepto clave: mantienen la misma forma (ángulos iguales) aunque cambien de tamaño (lados en la misma proporción).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v6",
+      "statement": "¿Cuánto mide el tercer lado del columpio?",
+      "context": "En un parque infantil de Villavicencio, un columpio tiene forma de triángulo. Dos de sus lados miden 3 m y 4 m, formando un ángulo de 90°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3² + 4² = 25, no 36."
+        },
+        {
+          "letter": "B",
+          "text": "5 m",
+          "is_correct": true,
+          "feedback": "Correcto. Por el teorema de Pitágoras: $c = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$ m."
+        },
+        {
+          "letter": "C",
+          "text": "7 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el teorema de Pitágoras."
+        },
+        {
+          "letter": "D",
+          "text": "4.5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica correctamente la raíz cuadrada de la suma de cuadrados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema de Pitágoras establece que en todo triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v7",
+      "statement": "¿Cuánto mide el tercer ángulo de este triángulo?",
+      "context": "En la clase de geometría del Colegio La Presentación de Pasto, los estudiantes miden los ángulos de triángulos dibujados en el piso. Un triángulo tiene ángulos de 50° y 60°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50 + 60 = 110, no 100. La suma debe dar 180."
+        },
+        {
+          "letter": "B",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50 + 60 = 110, la suma debe ser 180."
+        },
+        {
+          "letter": "C",
+          "text": "70°",
+          "is_correct": true,
+          "feedback": "Correcto. 180° - 50° - 60° = 70°. La suma de los ángulos internos de todo triángulo es 180°."
+        },
+        {
+          "letter": "D",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el tercero fuera 60°, la suma sería 170° y no 180°."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos internos de cualquier triángulo siempre es 180°. Esta propiedad es fundamental en geometría plana.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v8",
+      "statement": "¿Es posible construir un triángulo con estas medidas? ¿Por qué?",
+      "context": "En la huerta escolar del colegio Rafael Núñez de Cartagena, los estudiantes deben cercar un terreno triangular. Los lados miden 7 m, 8 m y 15 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque cualquier tres medidas forman un triángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las combinaciones de tres lados forman un triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque 7 + 8 = 15 y no es mayor que 15.",
+          "is_correct": true,
+          "feedback": "Correcto. La desigualdad triangular requiere que la suma de dos lados sea siempre mayor que el tercero."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque 7 + 15 > 8 y 8 + 15 > 7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También debe cumplirse que 7 + 8 > 15, y aquí es igual."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los lados no son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El triángulo no necesita tener lados iguales. El problema es la desigualdad triangular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La desigualdad triangular establece que la suma de las longitudes de dos lados de un triángulo debe ser siempre mayor que la longitud del tercer lado. Si la suma es igual o menor, el triángulo no existe.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v9",
+      "statement": "¿Cuánto debe pagar María por los 8 cuadernos?",
+      "context": "En la tienda escolar de la I.E. Técnica de Sogamoso, 5 cuadernos cuestan $37.500. María quiere comprar 8 cuadernos iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$56.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calcula primero el precio por cuaderno: 37.500 ÷ 5 = 7.500 cada uno."
+        },
+        {
+          "letter": "B",
+          "text": "$60.000",
+          "is_correct": true,
+          "feedback": "Correcto. $37.500 ÷ 5 = $7.500 por cuaderno. 8 × $7.500 = $60.000."
+        },
+        {
+          "letter": "C",
+          "text": "$65.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el precio unitario y la multiplicación."
+        },
+        {
+          "letter": "D",
+          "text": "$58.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifica la operación paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En proporcionalidad directa, se puede hallar el valor unitario y luego multiplicar por la cantidad deseada, o plantear una regla de tres.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v10",
+      "statement": "¿Son semejantes estos dos triángulos?",
+      "context": "En la clase de matemáticas del Colegio INEM de Pereira, la profesora muestra dos triángulos: el triángulo A tiene lados de 6 cm, 8 cm y 10 cm; el triángulo B tiene lados de 9 cm, 12 cm y 15 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque tienen diferentes medidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La semejanza no requiere que los lados sean iguales, sino proporcionales."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque la razón entre los lados correspondientes es constante: $\\frac{6}{9} = \\frac{8}{12} = \\frac{10}{15} = \\frac{2}{3}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Las tres razones son iguales, por lo tanto los triángulos son semejantes."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque la suma de los lados es diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de lados no determina la semejanza."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque ambos son triángulos rectángulos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No basta con que sean rectángulos; deben tener lados proporcionales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos triángulos son semejantes si sus lados correspondientes son proporcionales. La constante de proporcionalidad debe ser la misma para todos los pares de lados.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v11",
+      "statement": "Si los estudiantes quieren duplicar la altura y la base para una rampa más grande, ¿cómo cambia el área del triángulo?",
+      "context": "En la feria de ciencias del Colegio del Santuario (Risaralda), un grupo de estudiantes construyó una rampa triangular. La altura es de 1.2 m y la base de 1.6 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área cambia con el producto de base y altura."
+        },
+        {
+          "letter": "B",
+          "text": "No cambia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al modificar las dimensiones, el área cambia."
+        },
+        {
+          "letter": "C",
+          "text": "Se cuadruplica.",
+          "is_correct": true,
+          "feedback": "Correcto. Área original = $b \\times h / 2$. Nueva área = $(2b)(2h)/2 = 4(bh/2)$, es decir, 4 veces la original."
+        },
+        {
+          "letter": "D",
+          "text": "Se triplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al duplicar ambas dimensiones, el factor de cambio es 2 × 2 = 4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando se duplican ambas dimensiones lineales de una figura, el área se multiplica por 4, ya que el área depende del producto de dos dimensiones.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v12",
+      "statement": "¿Cuál de las dos ofertas es más conveniente para comprar una sola camiseta?",
+      "context": "En la tienda \"Donde Lucho\" en Quibdó, un cartel ofrece: \"Lleva 3 camisetas y paga solo $54.000\". Otro cartel dice: \"Lleva 5 camisetas iguales por $85.000\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera: $54.000 ÷ 3 = $18.000 cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda opción da un precio unitario más bajo."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda: $85.000 ÷ 5 = $17.000 cada una.",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda oferta tiene un precio unitario menor ($17.000 vs $18.000)."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas ofertas tienen el mismo precio unitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calcula el precio unitario de cada opción para comparar."
+        },
+        {
+          "letter": "D",
+          "text": "La primera tiene mejor precio porque son menos camisetas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe comparar el precio unitario, no el total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar ofertas, se debe calcular el valor unitario. Una mayor cantidad total no siempre significa mejor precio; hay que dividir para obtener el precio por unidad.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v13",
+      "statement": "¿Cuál es la altura del techo (distancia desde la base hasta el vértice superior)?",
+      "context": "En la construcción de una vivienda en Yopal, un arquitecto diseña un techo a dos aguas con forma triangular. Los dos lados iguales miden 5 m y la base 6 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usa el teorema de Pitágoras con la mitad de la base."
+        },
+        {
+          "letter": "B",
+          "text": "4 m",
+          "is_correct": true,
+          "feedback": "Correcto. La altura divide la base en dos segmentos de 3 m. $h = \\sqrt{5^2 - 3^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4$ m."
+        },
+        {
+          "letter": "C",
+          "text": "5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura es menor que los lados iguales."
+        },
+        {
+          "letter": "D",
+          "text": "3.5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica correctamente el teorema de Pitágoras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un triángulo isósceles, la altura trazada desde el vértice a la base forma dos triángulos rectángulos congruentes. Se aplica Pitágoras con la mitad de la base.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v14",
+      "statement": "¿Cuál de las dos parcelas tiene mayor área?",
+      "context": "Un agricultor de San Vicente del Caguán tiene dos parcelas triangulares. Una tiene base 12 m y altura 8 m. La otra tiene base 16 m y altura 6 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera, porque tiene mayor altura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calcula el área de ambas para comparar correctamente."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda, porque tiene mayor base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede decidir solo por una dimensión."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen la misma área: 48 m².",
+          "is_correct": true,
+          "feedback": "Correcto. Área 1 = (12 × 8)/2 = 48 m². Área 2 = (16 × 6)/2 = 48 m²."
+        },
+        {
+          "letter": "D",
+          "text": "La primera tiene 96 m², la segunda 48 m².",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área de un triángulo es (base × altura) / 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área de un triángulo es la mitad del producto de la base por la altura. Diferentes combinaciones de base y altura pueden dar la misma área si el producto es igual.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-P1-comprehensive-001-MASTERY-v15",
+      "statement": "Si un grupo de 7 amigos quiere ir al Nevado del Tolima, ¿cuál es la opción más económica y cuánto ahorran respecto a la otra?",
+      "context": "Una empresa de transporte en Ibagué ofrece dos planes para el viaje al Nevado del Tolima:\r\n- Plan A: $120.000 por persona\r\n- Plan B: $480.000 por grupo de hasta 5 personas",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plan A, ahorran $60.000.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calcula ambos costos: Plan A = 7 × 120.000 = 840.000; Plan B = (2 grupos) 2 × 480.000 = 960.000."
+        },
+        {
+          "letter": "B",
+          "text": "Plan A, ahorran $120.000.",
+          "is_correct": true,
+          "feedback": "Correcto. Plan A: 7 × $120.000 = $840.000. Plan B: necesitan 2 grupos (7 > 5) = 2 × $480.000 = $960.000. Ahorro: $120.000."
+        },
+        {
+          "letter": "C",
+          "text": "Plan B, ahorran $120.000.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Plan B requiere dos grupos porque son 7 personas, no solo uno."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos planes cuestan igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calcula el costo total de cada plan para 7 personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En problemas de optimización, se deben calcular los costos totales de cada opción considerando las restricciones (como el límite de personas por grupo), y comparar.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-MAT-7-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
       "id": "CO-MAT-7-2026-W01-numeros-enteros-001-MASTERY-v1",
       "statement": "¿Cuál de las siguientes afirmaciones sobre los números enteros es correcta?",
       "context": "En el colegio La Salle de Medellín, la profesora Andrea pregunta a sus estudiantes sobre las propiedades de los números enteros.",

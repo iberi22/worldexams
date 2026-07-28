@@ -1,0 +1,891 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Estudios Sociales",
+    "country": "ec",
+    "pack_id": "ec-week-1-grade-11-subject-estudios_sociales",
+    "generated_at": "2026-07-28T22:11:08.884Z"
+  },
+  "questions": [
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v1",
+      "statement": "Simplifique: (5)(8x + 11)",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 40x + 55",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 40x + 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13x + 55",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 40x - 55\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (5)(8x + 11) = 40x + 55.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v2",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v3",
+      "statement": "Maria compro 6 cuadernos a $4.1 c/u en Cuenca. Cuanto gasto?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $24.1",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $6.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $4.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $10.1\r\n  \r\n\r\n**Explicacion:** Total = 6 x 4 = $24.1.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v4",
+      "statement": "Un estudiante de Colegio Nacional Bolivar en Ambato grafica f(x) = 8x + 3. Cual es la pendiente?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 8",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 6\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 8.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v5",
+      "statement": "En Ibarra, un estudiante del Colegio Nacional Teodoro Gomez de la Torre resuelve: 7x + 12 = 47. Cual es el valor de x?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 12 de ambos lados. Luego se divide por 7: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v6",
+      "statement": "Simplifique: (6)(9x + 34)",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 54x + 204",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 54x + 34",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 15x + 204",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 54x - 204\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (6)(9x + 34) = 54x + 204.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v7",
+      "statement": "Resuelve: 2(x + 3) = 12",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** 2(x+3) = 12 -> x+3 = 6 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v8",
+      "statement": "Maria compro 2 cuadernos a $6.4 c/u en Ibarra. Cuanto gasto?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $12.4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $2.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $6.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $8.4\r\n  \r\n\r\n**Explicacion:** Total = 2 x 6 = $12.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v9",
+      "statement": "Un estudiante de Colegio Nacional Bernardo Valdivieso en Loja grafica f(x) = 4x + 12. Cual es la pendiente?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v10",
+      "statement": "En Ambato, un estudiante del Colegio Nacional Bolivar resuelve: 3x + 4 = 19. Cual es el valor de x?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 11\r\n  \r\n\r\n**Explicacion:** Se resta 4 de ambos lados. Luego se divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v11",
+      "statement": "Simplifique: (7)(6x + 20)",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 42x + 140",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 42x + 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 13x + 140",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 42x - 140\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (7)(6x + 20) = 42x + 140.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v12",
+      "statement": "Resuelve: 2(x + 8) = 22",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 7\r\n  \r\n\r\n**Explicacion:** 2(x+8) = 22 -> x+8 = 11 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v13",
+      "statement": "Maria compro 4 cuadernos a $10.4 c/u en Machala. Cuanto gasto?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $40.4",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $4.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $10.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $14.4\r\n  \r\n\r\n**Explicacion:** Total = 4 x 10 = $40.4.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v14",
+      "statement": "Un estudiante de Colegio Nacional Nueve de Octubre en Machala grafica f(x) = 3x + 2. Cual es la pendiente?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 2\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v15",
+      "statement": "En Loja, un estudiante del Colegio Nacional Bernardo Valdivieso resuelve: 6x + 11 = 41. Cual es el valor de x?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 9\r\n  \r\n\r\n**Explicacion:** Se resta 11 de ambos lados. Luego se divide por 6: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v16",
+      "statement": "Simplifique: (8)(9x + 15)",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 72x + 120",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 72x + 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 17x + 120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 72x - 120\r\n  \r\n\r\n**Explicacion:** Aplicar distributiva: (8)(9x + 15) = 72x + 120.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v17",
+      "statement": "Resuelve: 2(x + 6) = 18",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 5\r\n  \r\n\r\n**Explicacion:** 2(x+6) = 18 -> x+6 = 9 -> x = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v18",
+      "statement": "Maria compro 3 cuadernos a $2.3 c/u en Ibarra. Cuanto gasto?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** $6.3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** $3.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** $2.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** $5.3\r\n  \r\n\r\n**Explicacion:** Total = 3 x 2 = $6.3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v19",
+      "statement": "Un estudiante de Colegio Nacional Mejia en Quito grafica f(x) = 3x + 1. Cual es la pendiente?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 3",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "** 3\r\n  \r\n\r\n**Explicacion:** En f(x) = mx + n, la pendiente m = 3.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-v20",
+      "statement": "En Manta, un estudiante del Colegio Nacional Manta resuelve: 3x + 9 = 24. Cual es el valor de x?",
+      "context": "Estudiantes de EC practicando identidad cultural ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "B",
+          "text": "** 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "** 5",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "D",
+          "text": "** 12\r\n  \r\n\r\n**Explicacion:** Se resta 9 de ambos lados. Luego se divide por 3: x = 5.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "EC-SOC-11-2026-W01-identidad-cultural-ecuador-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "Estudios Sociales",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

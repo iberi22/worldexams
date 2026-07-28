@@ -8,6 +8,2031 @@
   },
   "questions": [
     {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v1",
+      "statement": "El elemento con número atómico 12 se encuentra en el período 3 y grupo 2 de la tabla periódica. ¿Cuál es este elemento y qué característica principal tiene?",
+      "context": "En la clase de química del colegio de la Universidad Pedagógica Nacional, los estudiantes aprenden a leer la tabla periódica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calcio (Ca) — es un metal alcalinotérreo del período 4",
+          "is_correct": false,
+          "feedback": "Incorrect. El calcio tiene número atómico 20 y está en el período 4, no período 3."
+        },
+        {
+          "letter": "B",
+          "text": "Magnesio (Mg) — es un metal alcalinotérreo con 2 electrones en su última capa",
+          "is_correct": true,
+          "feedback": "Correct. El magnesio (Z=12) tiene configuración $1s^2 2s^2 2p^6 3s^2$, 2 electrones de valencia, grupo 2."
+        },
+        {
+          "letter": "C",
+          "text": "Sodio (Na) — es un metal alcalino del grupo 1",
+          "is_correct": false,
+          "feedback": "Incorrect. El sodio tiene número atómico 11 y está en el grupo 1, no grupo 2."
+        },
+        {
+          "letter": "D",
+          "text": "Aluminio (Al) — es un metal del grupo 13",
+          "is_correct": false,
+          "feedback": "Incorrect. El aluminio tiene Z=13 y está en el grupo 13, no grupo 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El número atómico (Z) define la identidad del elemento. El magnesio (Mg, Z=12) tiene configuración electrónica $1s^2 2s^2 2p^6 3s^2$, con dos electrones de valencia, lo que lo ubica en el grupo 2 (metales alcalinotérreos) y período 3.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v2",
+      "statement": "¿Qué tipo de enlace se forma entre un metal y un no metal, y cuál es su principal característica?",
+      "context": "Un estudiante en Barranquilla está estudiando los diferentes tipos de enlaces químicos para su examen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico — transferencia de electrones del metal al no metal, formando iones con cargas opuestas",
+          "is_correct": true,
+          "feedback": "Correct. En el enlace iónico, el metal cede electrones (catión) y el no metal los acepta (anión), unidos por atracción electrostática."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente — compartición equitativa de electrones entre dos no metales",
+          "is_correct": false,
+          "feedback": "Incorrect. El enlace covalente es entre no metales, no entre metal y no metal."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace metálico — nube de electrones libres entre átomos del mismo metal",
+          "is_correct": false,
+          "feedback": "Incorrect. El enlace metálico ocurre entre átomos del mismo metal, no entre metal y no metal."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace de hidrógeno — atracción entre un hidrógeno y átomos electronegativos",
+          "is_correct": false,
+          "feedback": "Incorrect. El puente de hidrógeno es una fuerza intermolecular, no un enlace químico primario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de electronegatividad entre metales (baja) y no metales (alta) favorece la transferencia de electrones. Por ejemplo, en el NaCl (sal de mesa), el sodio cede un electrón al cloro, formando Na⁺ y Cl⁻ que se atraen electrostáticamente.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v3",
+      "statement": "¿Cuál es la explicación más adecuada para esta diferencia en los puntos de ebullición?",
+      "context": "En un laboratorio escolar en Medellín, los estudiantes observan que el agua (H₂O) tiene un punto de ebullición mucho más alto que el sulfuro de hidrógeno (H₂S), a pesar de tener masas moleculares similares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua tiene mayor masa molecular que el H₂S.",
+          "is_correct": false,
+          "feedback": "Incorrect. La masa molecular del H₂O (18 g/mol) es menor que la del H₂S (34 g/mol), no mayor."
+        },
+        {
+          "letter": "B",
+          "text": "Las moléculas de agua forman puentes de hidrógeno entre sí, mientras que el H₂S no.",
+          "is_correct": true,
+          "feedback": "Correct. El oxígeno es más electronegativo y pequeño que el azufre, permitiendo puentes de hidrógeno más fuertes en el agua."
+        },
+        {
+          "letter": "C",
+          "text": "El H₂S tiene enlaces covalentes más fuertes que el agua.",
+          "is_correct": false,
+          "feedback": "Incorrect. La fortaleza de los enlaces intramoleculares no determina directamente el punto de ebullición."
+        },
+        {
+          "letter": "D",
+          "text": "Las moléculas de agua son más grandes y pesadas que las de H₂S.",
+          "is_correct": false,
+          "feedback": "Incorrect. El agua (18 g/mol) es más liviana que el H₂S (34 g/mol)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agua presenta puentes de hidrógeno porque el oxígeno, muy electronegativo y con pares de electrones libres, atrae fuertemente al hidrógeno de otra molécula. El azufre, siendo menos electronegativo y más grande, forma puentes de hidrógeno muy débiles. Esto explica el alto punto de ebullición del agua (100°C) frente al H₂S (-60°C).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y Representación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v4",
+      "statement": "¿Qué tipo de movimiento describe el automóvil y cuál es su velocidad?",
+      "context": "Un automóvil viaja por la Autopista Norte de Bogotá. Su movimiento se registra en la siguiente tabla:\r\n\r\n| Tiempo (s) | Posición (m) |\r\n|------------|-------------|\r\n| 0          | 0           |\r\n| 2          | 20          |\r\n| 4          | 40          |\r\n| 6          | 60          |",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Movimiento uniformemente acelerado, con aceleración de 10 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrect. En MRUV la posición varía cuadráticamente, no linealmente. Aquí es lineal."
+        },
+        {
+          "letter": "B",
+          "text": "Movimiento rectilíneo uniforme (MRU), con velocidad de 10 m/s",
+          "is_correct": true,
+          "feedback": "Correct. La posición aumenta 20 m cada 2 s, velocidad constante $v = \\Delta x / \\Delta t = 20/2 = 10$ m/s."
+        },
+        {
+          "letter": "C",
+          "text": "Movimiento rectilíneo uniforme (MRU), con velocidad de 20 m/s",
+          "is_correct": false,
+          "feedback": "Incorrect. La velocidad es $20/2 = 10$ m/s, no 20 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "Movimiento uniformemente acelerado, con velocidad inicial de 0 m/s",
+          "is_correct": false,
+          "feedback": "Incorrect. El MRU no tiene aceleración. La posición varía linealmente con el tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un MRU, la posición cambia en cantidades iguales en intervalos de tiempo iguales. La pendiente de la gráfica $x$ vs $t$ es constante e igual a la velocidad: $v = \\frac{\\Delta x}{\\Delta t} = \\frac{20 \\text{ m}}{2 \\text{ s}} = 10$ m/s.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v5",
+      "statement": "¿Qué distancia recorre el motociclista durante esos 5 segundos?",
+      "context": "Un motociclista en la Avenida El Dorado de Bogotá acelera desde el reposo a razón de 4 m/s² durante 5 segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 m",
+          "is_correct": false,
+          "feedback": "Incorrect. $v = at = 20$ m/s sería la velocidad final, no la distancia."
+        },
+        {
+          "letter": "B",
+          "text": "50 m",
+          "is_correct": true,
+          "feedback": "Correct. En MRUV desde el reposo: $x = \\frac{1}{2}at^2 = \\frac{1}{2}(4)(25) = 50$ m."
+        },
+        {
+          "letter": "C",
+          "text": "100 m",
+          "is_correct": false,
+          "feedback": "Incorrect. Se usó $at^2 = 4(25) = 100$ sin el $\\frac{1}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "40 m",
+          "is_correct": false,
+          "feedback": "Incorrect. Se usó $at = 4(5) = 20$ y se multiplicó por 2, sin usar la fórmula correcta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para MRUV con velocidad inicial cero, la distancia recorrida es $x = \\frac{1}{2}at^2$. Sustituyendo: $x = \\frac{1}{2}(4 \\text{ m/s}^2)(25 \\text{ s}^2) = 50$ m. La velocidad final sería $v_f = at = 20$ m/s (72 km/h).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v6",
+      "statement": "¿Cuál es la principal diferencia entre mitosis y meiosis?",
+      "context": "En clase de biología en Cali, los estudiantes aprenden sobre los tipos de reproducción celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mitosis ocurre solo en plantas y la meiosis en animales.",
+          "is_correct": false,
+          "feedback": "Incorrect. Ambos procesos ocurren en células eucariotas, tanto vegetales como animales."
+        },
+        {
+          "letter": "B",
+          "text": "La mitosis produce dos células hijas genéticamente idénticas (2n); la meiosis produce cuatro células hijas con la mitad de carga genética (n).",
+          "is_correct": true,
+          "feedback": "Correct. Mitosis: 2 células diploides idénticas. Meiosis: 4 células haploides genéticamente diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "La mitosis tiene dos divisiones celulares y la meiosis solo una.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es al revés: mitosis tiene 1 división, meiosis tiene 2 divisiones (meiosis I y II)."
+        },
+        {
+          "letter": "D",
+          "text": "La mitosis produce células haploides y la meiosis produce células diploides.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es lo opuesto: mitosis produce células diploides, meiosis produce haploides."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mitosis es para crecimiento y reparación celular (2 células hijas 2n idénticas). La meiosis es para formación de gametos (4 células hijas n genéticamente distintas), con dos divisiones y recombinación genética en la meiosis I.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v7",
+      "statement": "¿Cuál es la aceleración (desaceleración) del vehículo durante el frenado y qué distancia recorre hasta detenerse?",
+      "context": "Un técnico en Bucaramanga está probando el frenado de un vehículo. A una velocidad de 72 km/h (20 m/s), aplica los frenos y el vehículo se detiene en 4 segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = -5$ m/s² y $d = 40$ m",
+          "is_correct": true,
+          "feedback": "Correct. $a = (0-20)/4 = -5$ m/s². $d = v_0 t + \\frac{1}{2}at^2 = 20(4) + \\frac{1}{2}(-5)(16) = 80 - 40 = 40$ m."
+        },
+        {
+          "letter": "B",
+          "text": "$a = -4$ m/s² y $d = 80$ m",
+          "is_correct": false,
+          "feedback": "Incorrect. La aceleración es $(0-20)/4 = -5$, no $-4$. La distancia sería 40 m, no 80."
+        },
+        {
+          "letter": "C",
+          "text": "$a = -5$ m/s² y $d = 80$ m",
+          "is_correct": false,
+          "feedback": "Incorrect. La aceleración está bien, pero la distancia se calculó como $v_0 t = 80$ m sin considerar la desaceleración."
+        },
+        {
+          "letter": "D",
+          "text": "$a = -20$ m/s² y $d = 40$ m",
+          "is_correct": false,
+          "feedback": "Incorrect. La aceleración es $(-20)/4 = -5$, no $-20$. Se usó la velocidad inicial en lugar del cambio de velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aceleración es el cambio de velocidad por unidad de tiempo: $a = \\frac{v_f - v_0}{t} = \\frac{0-20}{4} = -5$ m/s². La distancia de frenado se calcula con $d = v_0 t + \\frac{1}{2}at^2 = 80 - 40 = 40$ m, o alternativamente $d = \\frac{v_f^2 - v_0^2}{2a} = \\frac{-400}{-10} = 40$ m.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v8",
+      "statement": "¿Cuál de estas tres soluciones conduce la electricidad y por qué?",
+      "context": "En un laboratorio de química en la Universidad Nacional, se preparan tres soluciones: una de NaCl (sal de mesa), otra de HCl (ácido clorhídrico) y otra de C₆H₁₂O₆ (glucosa).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "NaCl y HCl conducen la electricidad porque se disocian en iones; la glucosa no conduce porque es covalente y no se ioniza.",
+          "is_correct": true,
+          "feedback": "Correct. NaCl es iónico y se disocia en Na⁺ y Cl⁻; HCl es covalente polar pero se ioniza en H⁺ y Cl⁻; la glucosa es covalente y no se disocia."
+        },
+        {
+          "letter": "B",
+          "text": "Solo NaCl conduce porque es el único compuesto iónico de los tres.",
+          "is_correct": false,
+          "feedback": "Incorrect. HCl también conduce porque se ioniza completamente en agua (ácido fuerte)."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna conduce la electricidad porque todas son soluciones acuosas.",
+          "is_correct": false,
+          "feedback": "Incorrect. Las soluciones acuosas de electrolitos sí conducen la electricidad."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres conducen porque todas se disuelven en agua.",
+          "is_correct": false,
+          "feedback": "Incorrect. Disolverse no es suficiente; la sustancia debe disociarse en iones para conducir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conductividad eléctrica en solución depende de la presencia de iones libres. Los compuestos iónicos (NaCl) se disocian completamente. Los ácidos fuertes (HCl) se ionizan completamente. Los compuestos covalentes como la glucosa se disuelven pero no se ionizan (no electrolitos).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v9",
+      "statement": "¿En qué fase de la mitosis se encuentra la célula observada?",
+      "context": "Un estudiante observa al microscopio una célula en división y nota que los cromosomas se alinean en el ecuador de la célula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profase — los cromosomas se condensan y la membrana nuclear se desintegra",
+          "is_correct": false,
+          "feedback": "Incorrect. En profase los cromosomas aún no se alinean en el ecuador."
+        },
+        {
+          "letter": "B",
+          "text": "Metafase — los cromosomas se alinean en la placa metafásica (ecuador)",
+          "is_correct": true,
+          "feedback": "Correct. En metafase, los cromosomas están completamente condensados y alineados en el plano ecuatorial, listos para separarse."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase — las cromátidas hermanas se separan hacia los polos opuestos",
+          "is_correct": false,
+          "feedback": "Incorrect. En anafase los cromosomas ya se están moviendo a los polos, no alineados."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase — se forman nuevos núcleos y los cromosomas se descondensan",
+          "is_correct": false,
+          "feedback": "Incorrect. En telofase ocurre la reconstitución nuclear, no la alineación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mitosis tiene cuatro fases: profase (condensación), metafase (alineación en el ecuador), anafase (separación de cromátidas), telofase (formación de núcleos). La alineación en el ecuador es característica de la metafase.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v10",
+      "statement": "¿Cuál es la función principal de las trompas de Falopio en el sistema reproductor femenino?",
+      "context": "En educación sexual en el colegio de la localidad de Suba, Bogotá, los estudiantes aprenden sobre el sistema reproductor humano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir los óvulos mediante ovogénesis",
+          "is_correct": false,
+          "feedback": "Incorrect. La producción de óvulos ocurre en los ovarios, no en las trompas de Falopio."
+        },
+        {
+          "letter": "B",
+          "text": "Albergar al feto durante el embarazo",
+          "is_correct": false,
+          "feedback": "Incorrect. El útero, no las trompas, alberga al feto durante el embarazo."
+        },
+        {
+          "letter": "C",
+          "text": "Conducir el óvulo desde el ovario hacia el útero y ser el sitio donde ocurre la fecundación",
+          "is_correct": true,
+          "feedback": "Correct. Las trompas de Falopio capturan el óvulo liberado y lo transportan; la fecundación ocurre típicamente en el tercio externo de la trompa."
+        },
+        {
+          "letter": "D",
+          "text": "Producir hormonas como estrógeno y progesterona",
+          "is_correct": false,
+          "feedback": "Incorrect. Las hormonas femeninas son producidas principalmente por los ovarios, no por las trompas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las trompas de Falopio (u oviductos) tienen dos funciones clave: transporte del óvulo mediante cilios y contracciones, y ser el sitio de fecundación. Si no hay fecundación, el óvulo se desintegra; si hay, el cigoto viaja al útero para implantarse.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v11",
+      "statement": "Analizando la gráfica velocidad-tiempo, ¿cuál de las siguientes afirmaciones es correcta?",
+      "context": "En la clase de física se muestra la siguiente gráfica de velocidad vs tiempo para un objeto en movimiento rectilíneo:\r\n\r\n| Intervalo (s) | Velocidad (m/s) |\r\n|---------------|-----------------|\r\n| 0 - 2         | 5               |\r\n| 2 - 5         | 5               |\r\n| 5 - 8         | 15              |",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El objeto tiene velocidad constante durante todo el recorrido.",
+          "is_correct": false,
+          "feedback": "Incorrect. La velocidad cambia de 5 a 15 m/s en el intervalo 5-8 s, no es constante."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración es cero en el intervalo 5-8 s.",
+          "is_correct": false,
+          "feedback": "Incorrect. En el intervalo 5-8 s la velocidad cambia de 5 a 15 m/s en 3 s, por lo que hay aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "En el intervalo 5-8 s, el objeto experimenta una aceleración de aproximadamente 3.33 m/s².",
+          "is_correct": true,
+          "feedback": "Correct. $a = \\Delta v / \\Delta t = (15-5)/(8-5) = 10/3 \\approx 3.33$ m/s²."
+        },
+        {
+          "letter": "D",
+          "text": "La distancia recorrida en el intervalo 2-5 s es menor que en 0-2 s.",
+          "is_correct": false,
+          "feedback": "Incorrect. En MRU, la distancia es $v \\cdot t$. En 0-2 s: $5 \\times 2 = 10$ m; en 2-5 s: $5 \\times 3 = 15$ m. El segundo intervalo es mayor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una gráfica $v$ vs $t$, la pendiente representa la aceleración y el área bajo la curva representa la distancia recorrida. En el intervalo 0-5 s: $a=0$ (MRU), distancia $5 \\times 5 = 25$ m. En 5-8 s: $a = 10/3 \\approx 3.33$ m/s² (MRUV), distancia $= 5 \\times 3 + \\frac{1}{2}(3.33)(9) \\approx 30$ m.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v12",
+      "statement": "¿Es correcta la afirmación del estudiante?",
+      "context": "Un estudiante dice: \"La meiosis I se llama reduccional porque reduce el número de cromosomas a la mitad. La meiosis II es ecuacional porque mantiene el mismo número de cromosomas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, en meiosis I los cromosomas homólogos se separan (reducción 2n → n), y en meiosis II las cromátidas hermanas se separan (cantidad n se mantiene).",
+          "is_correct": true,
+          "feedback": "Correct. La meiosis I separa homólogos reduciendo el número a la mitad; la meiosis II separa cromátidas como en mitosis, manteniendo n."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la meiosis I mantiene el número de cromosomas y la meiosis II lo reduce.",
+          "is_correct": false,
+          "feedback": "Incorrect. Es al revés: meiosis I reduce, meiosis II mantiene."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, pero en realidad ambas fases son reduccionales.",
+          "is_correct": false,
+          "feedback": "Incorrect. Solo la meiosis I es reduccional; la meiosis II es ecuacional."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la meiosis I y II producen células con el mismo número de cromosomas (n).",
+          "is_correct": false,
+          "feedback": "Incorrect. La meiosis I reduce de 2n a n; la meiosis II mantiene n. La afirmación del estudiante es sobre el proceso, no sobre el resultado celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la meiosis I se separan los cromosomas homólogos (tétradas), reduciendo el número de cromosomas de diploide (2n) a haploide (n). En la meiosis II se separan las cromátidas hermanas (similar a mitosis), manteniendo el número haploide (n → n). Por eso se dice: meiosis I = reduccional, meiosis II = ecuacional.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v13",
+      "statement": "¿Cuál estudiante tiene la razón y por qué?",
+      "context": "En un debate en clase, dos estudiantes discuten sobre el ciclo menstrual. Estudiante A: \"La ovulación ocurre aproximadamente el día 14 del ciclo, y si hay espermatozoides en las trompas, puede ocurrir la fecundación.\" Estudiante B: \"No, la ovulación ocurre justo después de la menstruación, el día 5.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estudiante B, porque la menstruación y la ovulación ocurren al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrect. La menstruación (días 1-5) y la ovulación (día ~14) son eventos separados."
+        },
+        {
+          "letter": "B",
+          "text": "El estudiante A, porque la ovulación ocurre aproximadamente a la mitad del ciclo (día 14 en un ciclo de 28 días), cuando el óvulo es liberado del folículo ovárico.",
+          "is_correct": true,
+          "feedback": "Correct. En un ciclo de 28 días, la ovulación ocurre alrededor del día 14, desencadenada por el pico de LH."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno, porque la ovulación ocurre el día 21 del ciclo.",
+          "is_correct": false,
+          "feedback": "Incorrect. El día 21 corresponde a la fase lútea, después de la ovulación."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos están equivocados porque la ovulación no depende de días fijos sino de la temperatura corporal.",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque la temperatura cambia, la ovulación sí sigue un patrón regular aproximadamente al día 14 de un ciclo de 28 días."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ciclo menstrual promedio de 28 días tiene fases: menstrual (días 1-5), folicular (días 6-13), ovulación (día ~14), lútea (días 15-28). La ovulación es desencadenada por el pico de hormona luteinizante (LH) y libera el óvulo del folículo ovárico.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento y Argumentación",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v14",
+      "statement": "Si la desaceleración del vehículo al frenar es de 6 m/s², ¿cuál es la distancia total desde que el conductor ve la señal hasta que el vehículo se detiene por completo?",
+      "context": "Un conductor en la Vía al Llano observa una señal de peligro y aplica los frenos. Su velocidad inicial es de 90 km/h (25 m/s). Desde que ve la señal hasta que pisa el freno pasan 0.8 segundos (tiempo de reacción).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52.1 m",
+          "is_correct": false,
+          "feedback": "Incorrect. Falta sumar la distancia de reacción."
+        },
+        {
+          "letter": "B",
+          "text": "72.1 m",
+          "is_correct": true,
+          "feedback": "Correct. Distancia de reacción: $d_r = v_0 \\cdot t_r = 25 \\cdot 0.8 = 20$ m. Distancia de frenado: $d_f = v_0^2/(2a) = 625/12 \\approx 52.1$ m. Total: $20 + 52.1 = 72.1$ m."
+        },
+        {
+          "letter": "C",
+          "text": "20 m",
+          "is_correct": false,
+          "feedback": "Incorrect. 20 m es solo la distancia recorrida durante el tiempo de reacción, falta la distancia de frenado."
+        },
+        {
+          "letter": "D",
+          "text": "104.2 m",
+          "is_correct": false,
+          "feedback": "Incorrect. Se duplicó algún valor. La distancia total correcta es aproximadamente 72.1 m."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia total de detención es la suma de: (1) distancia de reacción $d_r = v_0 t_r$ (MRU mientras decide frenar), y (2) distancia de frenado $d_f = \\frac{v_0^2}{2a}$ (MRUV hasta detenerse). $d_{total} = 25(0.8) + \\frac{25^2}{2(6)} = 20 + 52.1 = 72.1$ m.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulación y Ejecución",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-v15",
+      "statement": "Relacionando conceptos de biología (reproducción humana, sistema endocrino) con situación social colombiana, ¿cuál de las siguientes medidas aborda de manera más integral la problemática del embarazo adolescente como factor de deserción escolar?",
+      "context": "En Colombia, la deserción escolar durante la transición de básica secundaria a media (10° grado) es un tema de preocupación nacional. Un estudio sugiere que factores como el embarazo adolescente, la falta de orientación vocacional y problemas económicos contribuyen significativamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir las relaciones de pareja en instituciones educativas.",
+          "is_correct": false,
+          "feedback": "Incorrect. Una prohibición sin educación no aborda las causas y no ha demostrado efectividad."
+        },
+        {
+          "letter": "B",
+          "text": "Implementar programas de educación sexual integral que incluyan conocimiento del ciclo menstrual, métodos anticonceptivos, proyecto de vida y apoyo psicológico.",
+          "is_correct": true,
+          "feedback": "Correct. La educación sexual integral combina conocimiento biológico con habilidades para la toma de decisiones y proyecto de vida."
+        },
+        {
+          "letter": "C",
+          "text": "Distribuir únicamente anticonceptivos sin formación sobre el sistema reproductor.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sin educación sobre cómo y por qué funcionan, la efectividad es limitada."
+        },
+        {
+          "letter": "D",
+          "text": "Enfocarse solo en las consecuencias biológicas del embarazo sin considerar el contexto social.",
+          "is_correct": false,
+          "feedback": "Incorrect. Un abordaje integral requiere considerar dimensiones biológicas, psicológicas y sociales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La educación sexual integral (ESI) combina el conocimiento científico del sistema reproductor, el ciclo hormonal y la anticoncepción con habilidades para la vida como la comunicación asertiva, la toma de decisiones informadas y la construcción de un proyecto de vida. Este enfoque biopsicosocial ha demostrado reducir el embarazo adolescente y la deserción escolar asociada en países como Colombia.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento Reflexivo y Sistémico",
+      "bundle_id": "CO-CN-9-2026-P1-P4-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v1",
+      "statement": "Cual es la unidad funcional y estructural basica del sistema nervioso?",
+      "context": "En una clase de biologia en Bogota, el profesor explica la estructura del sistema nervioso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El axon",
+          "is_correct": false,
+          "feedback": "Incorrect. El axon es solo una parte de la neurona, no la unidad completa."
+        },
+        {
+          "letter": "B",
+          "text": "La neurona",
+          "is_correct": true,
+          "feedback": "Correct. La neurona es la celula especializada del sistema nervioso que transmite impulsos electricos."
+        },
+        {
+          "letter": "C",
+          "text": "El cerebro",
+          "is_correct": false,
+          "feedback": "Incorrect. El cerebro es un organo compuesto por muchas neuronas."
+        },
+        {
+          "letter": "D",
+          "text": "La sinapsis",
+          "is_correct": false,
+          "feedback": "Incorrect. La sinapsis es la conexion entre neuronas, no una unidad estructural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La neurona es la celula fundamental del sistema nervioso. Esta compuesta por el cuerpo celular, las dendritas (que reciben señales) y el axon (que transmite la señal).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v2",
+      "statement": "Que tipo de reaccion quimica representa esta ecuacion?",
+      "context": "En un laboratorio de quimica en Medellin, el profesor escribe la ecuacion 2H2 + O2 -> 2H2O.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reaccion de sintesis o combinacion",
+          "is_correct": true,
+          "feedback": "Correct. Dos o mas sustancias se combinan para formar un solo producto."
+        },
+        {
+          "letter": "B",
+          "text": "Reaccion de descomposicion",
+          "is_correct": false,
+          "feedback": "Incorrect. En la descomposicion un reactivo se divide en varios productos, aqui es al reves."
+        },
+        {
+          "letter": "C",
+          "text": "Reaccion de sustitucion simple",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay un elemento desplazando a otro en un compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "Reaccion de combustion",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque el hidrogeno se quema, la clasificacion fundamental es de sintesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una reaccion de sintesis, dos o mas reactivos se combinan para formar un solo producto. Aqui, 2 moleculas de H2 y 1 de O2 forman 2 moleculas de H2O.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v3",
+      "statement": "Que parte del sistema nervioso es responsable de este reflejo?",
+      "context": "Un estudiante se toca la punta de un alfiler y retira la mano inmediatamente antes de sentir dolor conscientemente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corteza cerebral",
+          "is_correct": false,
+          "feedback": "Incorrect. La corteza cerebral procesa informacion consciente, pero este reflejo ocurre mas rapido."
+        },
+        {
+          "letter": "B",
+          "text": "La medula espinal",
+          "is_correct": true,
+          "feedback": "Correct. El arco reflejo se procesa en la medula espinal sin necesidad de llegar al cerebro, permitiendo una respuesta rapida."
+        },
+        {
+          "letter": "C",
+          "text": "El cerebelo",
+          "is_correct": false,
+          "feedback": "Incorrect. El cerebelo coordina movimientos voluntarios y equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "El bulbo raquideo",
+          "is_correct": false,
+          "feedback": "Incorrect. El bulbo controla funciones vitales como respiracion y ritmo cardiaco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El arco reflejo es una respuesta involuntaria y rapida que se procesa en la medula espinal. La neurona sensorial lleva la informacion a la medula, donde hace sinapsis directa con una neurona motora.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicacion de fenomenos",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v4",
+      "statement": "Que gas se produce en esta reaccion quimica?",
+      "context": "Un estudiante mezcla bicarbonato de sodio (NaHCO3) con vinagre (CH3COOH) y observa una efervescencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxigeno (O2)",
+          "is_correct": false,
+          "feedback": "Incorrect. La efervescencia no es por liberacion de oxigeno."
+        },
+        {
+          "letter": "B",
+          "text": "Dioxido de carbono (CO2)",
+          "is_correct": true,
+          "feedback": "Correct. La reaccion entre un acido (vinagre) y un carbonato (bicarbonato) produce CO2, agua y una sal."
+        },
+        {
+          "letter": "C",
+          "text": "Hidrogeno (H2)",
+          "is_correct": false,
+          "feedback": "Incorrect. Se liberaria hidrogeno si reaccionara un metal con un acido, no un carbonato."
+        },
+        {
+          "letter": "D",
+          "text": "Nitrogeno (N2)",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay compuestos nitrogenados en los reactivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reaccion es NaHCO3 + CH3COOH -> CH3COONa + H2O + CO2. El CO2 es el gas que forma las burbujas (efervescencia). Esta es una reaccion de doble sustitucion con descomposicion del acido carbonico.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicacion de fenomenos",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v5",
+      "statement": "Considerando g = 10 m/s^2, cual es el trabajo realizado por la grasa?",
+      "context": "Una grasa en una obra en Cartagena levanta un bloque de concreto de 500 kg a una altura de 8 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4000 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Este resultado usa solo masa por altura (500x8), pero falta multiplicar por g."
+        },
+        {
+          "letter": "B",
+          "text": "40000 J",
+          "is_correct": true,
+          "feedback": "Correct. Trabajo = F*d = m*g*h = 500*10*8 = 40000 Joules."
+        },
+        {
+          "letter": "C",
+          "text": "5000 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Este valor no corresponde al calculo correcto."
+        },
+        {
+          "letter": "D",
+          "text": "400 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Faltan factores en el calculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El trabajo realizado contra la gravedad se calcula como W = m*g*h, donde m es la masa, g la aceleracion gravitacional y h la altura. Es independiente de la trayectoria.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v6",
+      "statement": "Como se llama la parte del sistema nervioso que se activa para aumentar la frecuencia cardiaca durante el ejercicio?",
+      "context": "Un deportista en el Estadio Nemesio Camacho El Campin de Bogota corre y su frecuencia cardiaca aumenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema nervioso parasimpatico",
+          "is_correct": false,
+          "feedback": "Incorrect. El parasimpatico disminuye la frecuencia cardiaca, la relaja."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema nervioso simpatico",
+          "is_correct": true,
+          "feedback": "Correct. El simpatico prepara al cuerpo para la accion: aumenta frecuencia cardiaca, dilala pupila, inhibe la digestion."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema nervioso enteico",
+          "is_correct": false,
+          "feedback": "Incorrect. El enteico controla el sistema digestivo, no el cardiaco."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema nervioso somatico",
+          "is_correct": false,
+          "feedback": "Incorrect. El somatico controla movimientos voluntarios, no funciones autonomicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema nervioso autonomo tiene dos ramas: simpatico (lucha o huida) y parasimpatico (reposo y digestion). Durante el ejercicio, el simpatico se activa para preparar al cuerpo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicacion de fenomenos",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v7",
+      "statement": "Usando g=10 m/s^2, cual es la energia cinetica de la pelota justo antes de tocar el suelo (despreciando la resistencia del aire)?",
+      "context": "Una pelota de 0.5 kg se deja caer desde una altura de 20 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Se calculo solo m*g o m*h sin los factores correctos."
+        },
+        {
+          "letter": "B",
+          "text": "100 J",
+          "is_correct": true,
+          "feedback": "Correct. Por conservacion de energia: EC = EP inicial = m*g*h = 0.5*10*20 = 100 J."
+        },
+        {
+          "letter": "C",
+          "text": "200 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Se uso m=1 kg o se duplico la energia."
+        },
+        {
+          "letter": "D",
+          "text": "50 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Se uso h=10 m en lugar de 20 m."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energia potencial gravitacional (EP = m*g*h) se convierte en energia cinetica (EC = 1/2*m*v^2) durante la cada. Justo antes del impacto, toda la EP se ha transformado en EC.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicacion de fenomenos",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v8",
+      "statement": "Que evidencia indica que ocurrio una reaccion quimica y no un cambio fisico?",
+      "context": "Una sustancia cambia de color al mezclarse con otra y se forma un precipitado solido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cambio de temperatura",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque puede indicar reaccion, el cambio de color y formacion de precipitado son mas concluyentes aqui."
+        },
+        {
+          "letter": "B",
+          "text": "La mezcla sigue siendo liquida",
+          "is_correct": false,
+          "feedback": "Incorrect. Si se forma un solido (precipitado), ya no es solo liquido."
+        },
+        {
+          "letter": "C",
+          "text": "La formacion de un precipitado solido y cambio de color",
+          "is_correct": true,
+          "feedback": "Correct. Cambio de color y formacion de un nuevo solido (precipitado) son evidencias claras de una reaccion quimica."
+        },
+        {
+          "letter": "D",
+          "text": "No hay evidencias de reaccion quimica",
+          "is_correct": false,
+          "feedback": "Incorrect. Si hay cambio de color y precipitado, si hubo reaccion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las evidencias de una reaccion quimica incluyen: cambio de color, formacion de precipitado, liberacion de gas (efervescencia), cambio de temperatura o emision de luz.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicacion de fenomenos",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v9",
+      "statement": "Cual es la variable independiente en este experimento?",
+      "context": "Un estudiante quiere saber si la velocidad de reaccion aumenta al usar vinagre caliente en lugar de frio con bicarbonato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de gas producido",
+          "is_correct": false,
+          "feedback": "Incorrect. Esta seria una variable dependiente (lo que se mide)."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura del vinagre",
+          "is_correct": true,
+          "feedback": "Correct. El estudiante esta cambiando la temperatura para ver como afecta la velocidad de reaccion."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de bicarbonato",
+          "is_correct": false,
+          "feedback": "Incorrect. La cantidad de bicarbonato debe mantenerse constante para que sea un experimento controlado."
+        },
+        {
+          "letter": "D",
+          "text": "La efervescencia observada",
+          "is_correct": false,
+          "feedback": "Incorrect. La efervescencia es el resultado, la variable dependiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La variable independiente es la que el investigador modifica intencionalmente. La variable dependiente es la que se mide como resultado. Las variables controladas se mantienen constantes.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagacion",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v10",
+      "statement": "Si la lesion ocurre en la region lumbar, cual de las siguientes funciones se veria mas afectada?",
+      "context": "Una persona sufre una lesion en la columna vertebral que afecta la transmision de impulsos nerviosos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La respiracion",
+          "is_correct": false,
+          "feedback": "Incorrect. La respiracion se controla en el bulbo raquideo, en el tronco encefalico."
+        },
+        {
+          "letter": "B",
+          "text": "El movimiento de los brazos",
+          "is_correct": false,
+          "feedback": "Incorrect. Los brazos estan inervados por la region cervical y toracica superior."
+        },
+        {
+          "letter": "C",
+          "text": "La vision",
+          "is_correct": false,
+          "feedback": "Incorrect. La vision se procesa en el cerebro."
+        },
+        {
+          "letter": "D",
+          "text": "El movimiento de las piernas",
+          "is_correct": true,
+          "feedback": "Correct. La region lumbar de la medula espinal controla las extremidades inferiores y funciones pelvicas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La medula espinal esta organizada en segmentos: cervical (cuello, brazos), toracico (torso), lumbar (piernas) y sacro (pelvis). El dano en la region lumbar afecta piernas y control de esfinteres.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicacion de fenomenos",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v11",
+      "statement": "Cual es el trabajo neto realizado sobre el objeto?",
+      "context": "Un objeto de 2 kg se desliza por una superficie horizontal con rozamiento. Se aplica una fuerza de 10 N y el objeto se desplaza 5 metros. La fuerza de rozamiento es de 4 N.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Este es el trabajo de la fuerza aplicada sola (10x5), sin restar el rozamiento."
+        },
+        {
+          "letter": "B",
+          "text": "30 J",
+          "is_correct": true,
+          "feedback": "Correct. Trabajo neto = (F - Fr)*d = (10-4)*5 = 6*5 = 30 J. El trabajo neto considera todas las fuerzas."
+        },
+        {
+          "letter": "C",
+          "text": "20 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Este seria el trabajo de la fuerza de rozamiento sola (4x5), pero va en contra del movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "70 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Se sumaron los trabajos: 50+20=70, pero el rozamiento hace trabajo negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El trabajo neto es la suma de todos los trabajos realizados sobre un objeto. La fuerza aplicada hace trabajo positivo (+50 J) y la fuerza de rozamiento hace trabajo negativo (-20 J). El trabajo neto es 30 J.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicacion de fenomenos",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v12",
+      "statement": "Si el calor especifico del aluminio es 900 J/(kg*K) y del hierro es 450 J/(kg*K), cual experimentara un mayor aumento de temperatura?",
+      "context": "Se tienen dos cilindros metalicos del mismo tamano: uno de aluminio y otro de hierro. Se calientan ambos con la misma cantidad de calor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aluminio, porque tiene mayor calor especifico.",
+          "is_correct": false,
+          "feedback": "Incorrect. Mayor calor especifico significa que necesita mas energia para elevar su temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "El hierro, porque tiene menor calor especifico.",
+          "is_correct": true,
+          "feedback": "Correct. Menor calor especifico significa que con la misma cantidad de calor, la temperatura aumenta mas."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos experimentaran el mismo aumento de temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrect. El aumento depende del calor especifico."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de la masa de cada cilindro.",
+          "is_correct": false,
+          "feedback": "Incorrect. Como son del mismo tamano y la densidad del hierro es mayor, esto complica el analisis. Pero a igual masa, sube mas la temperatura el de menor calor especifico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relacion entre calor y cambio de temperatura es Q = m*c*deltaT. A igual Q y m, deltaT es inversamente proporcional al calor especifico. El hierro (c=450) se calienta el doble que el aluminio (c=900).\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagacion",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v13",
+      "statement": "Es correcta la afirmacion del estudiante? Justifique.",
+      "context": "Un estudiante afirma que la energia se puede crear y destruir, basandose en que un objeto en movimiento se detiene por rozamiento y su energia \"desaparece\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si, porque cuando el objeto se detiene, pierde toda su energia.",
+          "is_correct": false,
+          "feedback": "Incorrect. La energia no se pierde, se transforma."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la energia se transforma en calor por el rozamiento, segun el principio de conservacion de la energia.",
+          "is_correct": true,
+          "feedback": "Correct. La energia cinetica se transforma en energia termica (calor) debido al rozamiento. La energia total se conserva."
+        },
+        {
+          "letter": "C",
+          "text": "Si, porque el rozamiento elimina la energia del sistema.",
+          "is_correct": false,
+          "feedback": "Incorrect. El rozamiento no elimina energia, la transforma en otras formas."
+        },
+        {
+          "letter": "D",
+          "text": "No, pero en algunos casos la energia si puede crearse.",
+          "is_correct": false,
+          "feedback": "Incorrect. La energia no se crea ni se destruye, solo se transforma (Primera Ley de la Termodinamica)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La primera ley de la termodinamica (ley de conservacion de la energia) establece que la energia no se crea ni se destruye, solo se transforma. En el caso del rozamiento, la energia mecanica se disipa como calor.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v14",
+      "statement": "Cual es la explicacion mas probable para esta perdida temporal de vision?",
+      "context": "Una persona recibe un golpe en la nuca y temporalmente pierde la vision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El golpe dano directamente los ojos.",
+          "is_correct": false,
+          "feedback": "Incorrect. Un golpe en la nuca no afecta directamente los ojos."
+        },
+        {
+          "letter": "B",
+          "text": "El golpe afecto el lobulo occipital del cerebro, donde se procesa la informacion visual.",
+          "is_correct": true,
+          "feedback": "Correct. El lobulo occipital, en la parte posterior del cerebro, procesa la informacion visual. Un golpe en la nuca puede afectar temporalmente su funcion."
+        },
+        {
+          "letter": "C",
+          "text": "El golpe dano el nervio optico en el ojo.",
+          "is_correct": false,
+          "feedback": "Incorrect. El nervio optico conecta el ojo con el cerebro, pero un golpe en la nuca no lo afecta directamente."
+        },
+        {
+          "letter": "D",
+          "text": "El golpe afecto el cerebelo, que controla el equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrect. El cerebelo no procesa informacion visual. Un golpe alli afectaria el equilibrio y la coordinacion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferentes lobulos cerebrales procesan diferentes funciones: occipital (vision), temporal (audicion), parietal (sensaciones tactiles), frontal (planificacion y movimiento). La corteza visual primaria esta en el lobulo occipital.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicacion de fenomenos",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-v15",
+      "statement": "De acuerdo con la primera ley de la termodinamica, cual es el cambio en la energia interna del sistema?",
+      "context": "En un experimento, un estudiante agrega 400 J de calor a un sistema que realiza 200 J de trabajo sobre su entorno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "600 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Se sumaron el calor y el trabajo, pero el trabajo realizado por el sistema se resta, no se suma."
+        },
+        {
+          "letter": "B",
+          "text": "200 J",
+          "is_correct": true,
+          "feedback": "Correct. DeltaU = Q - W = 400 J - 200 J = 200 J. El calor agregado aumenta la energia interna, pero el trabajo realizado por el sistema la disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "-200 J",
+          "is_correct": false,
+          "feedback": "Incorrect. Si el trabajo fuera mayor que el calor, deltaU seria negativo. Aqui Q > W."
+        },
+        {
+          "letter": "D",
+          "text": "400 J",
+          "is_correct": false,
+          "feedback": "Incorrect. No se considero el trabajo realizado por el sistema. Solo se considero el calor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La primera ley: deltaU = Q - W, donde Q es calor agregado al sistema y W es trabajo realizado POR el sistema. Si el sistema recibe calor y realiza trabajo, la energia interna cambia segun la diferencia.\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento cientifico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v1",
+      "statement": "¿Qué científico es considerado el padre de la genética por sus experimentos con guisantes?",
+      "context": "En el laboratorio del Colegio Nacional de San José en Bogotá, los estudiantes estudian las leyes de Mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Charles Darwin",
+          "is_correct": false,
+          "feedback": "Incorrect. Darwin es conocido por la teoría de la evolución por selección natural, no por los estudios de herencia con guisantes."
+        },
+        {
+          "letter": "B",
+          "text": "Gregor Mendel",
+          "is_correct": true,
+          "feedback": "Correct. Mendel realizó experimentos con guisantes (Pisum sativum) en el siglo XIX, estableciendo las bases de la genética moderna."
+        },
+        {
+          "letter": "C",
+          "text": "Louis Pasteur",
+          "is_correct": false,
+          "feedback": "Incorrect. Pasteur es conocido por sus contribuciones a la microbiología y la pasteurización, no a la genética."
+        },
+        {
+          "letter": "D",
+          "text": "Alfred Wallace",
+          "is_correct": false,
+          "feedback": "Incorrect. Wallace co-desarrolló la teoría de la evolución con Darwin, pero no realizó los experimentos de herencia con guisantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Gregor Mendel (1822-1884), un monje austriaco, realizó experimentos controlados con plantas de guisante durante 8 años, descubriendo los principios fundamentales de la herencia que hoy conocemos como las Leyes de Mendel.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v2",
+      "statement": "¿Cuál es la unidad funcional básica del sistema nervioso?",
+      "context": "En clase de ciencias en un colegio de Medellín, la profesora explica el sistema nervioso humano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El axón",
+          "is_correct": false,
+          "feedback": "Incorrect. El axón es una parte de la neurona, no la unidad funcional completa."
+        },
+        {
+          "letter": "B",
+          "text": "La neurona",
+          "is_correct": true,
+          "feedback": "Correct. La neurona es la célula especializada del sistema nervioso que recibe, procesa y transmite impulsos nerviosos."
+        },
+        {
+          "letter": "C",
+          "text": "La sinapsis",
+          "is_correct": false,
+          "feedback": "Incorrect. La sinapsis es la conexión entre neuronas, no la unidad funcional básica."
+        },
+        {
+          "letter": "D",
+          "text": "El cerebro",
+          "is_correct": false,
+          "feedback": "Incorrect. El cerebro es un órgano compuesto por muchas neuronas, no la unidad funcional básica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La neurona es la célula fundamental del sistema nervioso. Está compuesta por cuerpo celular (soma), dendritas (receptoras) y axón (transmisor). Se comunican mediante sinapsis químicas o eléctricas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v3",
+      "statement": "Según la primera ley de Mendel (ley de la segregación), al cruzar dos individuos heterocigotos (Aa × Aa), ¿qué proporción fenotípica se espera en la descendencia si A es dominante sobre a?",
+      "context": "En el Jardín Botánico de Cali, un estudiante analiza los resultados de un cruce de plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% dominante",
+          "is_correct": false,
+          "feedback": "Incorrect. Un cruce Aa × Aa produce una proporción de 3:1 de dominante a recesivo, no 100% dominante."
+        },
+        {
+          "letter": "B",
+          "text": "3 dominante : 1 recesivo",
+          "is_correct": true,
+          "feedback": "Correct. El cruce Aa × Aa produce genotipos AA, Aa, Aa y aa (1:2:1), con fenotipos 3 dominantes y 1 recesivo."
+        },
+        {
+          "letter": "C",
+          "text": "1 dominante : 1 recesivo",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa proporción corresponde a un cruce Aa × aa (retrocruce), no a Aa × Aa."
+        },
+        {
+          "letter": "D",
+          "text": "2 dominante : 2 recesivo",
+          "is_correct": false,
+          "feedback": "Incorrect. La proporción correcta es 3:1, simplificando: 3 de cada 4 serán dominantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La primera ley de Mendel (segregación) establece que los alelos se separan durante la formación de gametos. El cuadro de Punnett para Aa × Aa muestra: AA (25%), Aa (50%), aa (25%). Como A domina a a, el 75% expresa el fenotipo dominante.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v4",
+      "statement": "¿Cómo están organizados los elementos en la tabla periódica moderna?",
+      "context": "En un laboratorio escolar en Bucaramanga se estudia la tabla periódica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por orden alfabético de sus nombres.",
+          "is_correct": false,
+          "feedback": "Incorrect. La tabla periódica no se organiza alfabéticamente sino por número atómico y configuraciones electrónicas."
+        },
+        {
+          "letter": "B",
+          "text": "En orden creciente de número atómico (Z), con filas (períodos) y columnas (grupos) que reflejan configuraciones electrónicas similares.",
+          "is_correct": true,
+          "feedback": "Correct. La tabla periódica moderna organiza los elementos por número atómico creciente y propiedades periódicas."
+        },
+        {
+          "letter": "C",
+          "text": "Por masa atómica creciente en filas.",
+          "is_correct": false,
+          "feedback": "Incorrect. La tabla de Mendeleiev se basaba en masa atómica, pero la tabla moderna usa número atómico (Z)."
+        },
+        {
+          "letter": "D",
+          "text": "Por el año de descubrimiento de cada elemento.",
+          "is_correct": false,
+          "feedback": "Incorrect. La organización temporal no refleja las propiedades químicas periódicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tabla periódica moderna organiza 118 elementos en 7 períodos (filas) y 18 grupos (columnas). Los elementos del mismo grupo tienen configuraciones electrónicas externas similares, lo que explica sus propiedades químicas parecidas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v5",
+      "statement": "¿Qué color tendrán todos los terneros de la primera generación filial (F1)?",
+      "context": "En el departamento de Antioquia, un ganadero cruza una vaca de color negro (genotipo NN) con un toro de color blanco (genotipo nn). El color negro es dominante sobre el blanco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos blancos",
+          "is_correct": false,
+          "feedback": "Incorrect. Si NN × nn, todos los descendientes serán Nn y expresarán el alelo dominante (negro)."
+        },
+        {
+          "letter": "B",
+          "text": "Todos negros",
+          "is_correct": true,
+          "feedback": "Correct. Todos los descendientes serán Nn (heterocigotos) y expresarán el color negro por ser el alelo dominante."
+        },
+        {
+          "letter": "C",
+          "text": "Mitad negros y mitad blancos",
+          "is_correct": false,
+          "feedback": "Incorrect. Esa proporción se daría en la F2 (cruce de dos heterocigotos Nn × Nn), no en la F1."
+        },
+        {
+          "letter": "D",
+          "text": "Todos grises",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay herencia intermedia; el negro es completamente dominante sobre el blanco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un cruce homocigoto dominante × homocigoto recesivo (NN × nn), la F1 es 100% heterocigota (Nn) y expresa el fenotipo dominante (negro). Este es un ejemplo clásico de la ley de uniformidad de Mendel.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v6",
+      "statement": "¿Cuál es la secuencia correcta del arco reflejo desde que se recibe el estímulo hasta que se produce la respuesta?",
+      "context": "Una neurona en el sistema nervioso de un estudiante de Barranquilla recibe un estímulo doloroso en la mano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Efector → Interneurona → Neurona sensitiva → Músculo",
+          "is_correct": false,
+          "feedback": "Incorrect. El orden correcto comienza con el receptor sensorial, no con el efector."
+        },
+        {
+          "letter": "B",
+          "text": "Receptor → Neurona sensitiva → Interneurona (médula) → Neurona motora → Efector (músculo)",
+          "is_correct": true,
+          "feedback": "Correct. El arco reflejo sigue esta secuencia para producir una respuesta rápida e involuntaria."
+        },
+        {
+          "letter": "C",
+          "text": "Neurona motora → Interneurona → Neurona sensitiva → Efector",
+          "is_correct": false,
+          "feedback": "Incorrect. La neurona sensitiva recibe primero el estímulo, no la motora."
+        },
+        {
+          "letter": "D",
+          "text": "Músculo → Nervio → Cerebro → Médula",
+          "is_correct": false,
+          "feedback": "Incorrect. El arco reflejo no necesita pasar por el cerebro (es medular)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El arco reflejo es una respuesta involuntaria que ocurre a nivel de la médula espinal sin necesidad de procesamiento cerebral. Esto permite respuestas rápidas (como retirar la mano del fuego) antes de que el cerebro procese el dolor.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v7",
+      "statement": "El elemento Sodio (Na, Z=11) se encuentra en el grupo 1 y período 3 de la tabla periódica. ¿Cuántos electrones de valencia tiene?",
+      "context": "En el laboratorio del Colegio San Luis de Cartagena, los estudiantes identifican elementos de la tabla periódica por sus propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrect. 11 es el número atómico total de electrones, no los electrones de valencia."
+        },
+        {
+          "letter": "B",
+          "text": "3 electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrect. 3 es el número del período, no el de electrones de valencia."
+        },
+        {
+          "letter": "C",
+          "text": "1 electrón de valencia",
+          "is_correct": true,
+          "feedback": "Correct. El sodio está en el grupo 1, por lo que tiene 1 electrón en su capa más externa (configuración: 2-8-1)."
+        },
+        {
+          "letter": "D",
+          "text": "2 electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrect. Los elementos del grupo 2 (como Mg) tienen 2 electrones de valencia. El sodio es del grupo 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sodio (Na) tiene configuración electrónica $1s^2 2s^2 2p^6 3s^1$. Su último nivel (n=3) tiene 1 electrón, por lo que forma cationes Na$^+$ al perder ese electrón. Los elementos del grupo 1 son metales alcalinos, todos con 1 electrón de valencia.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v8",
+      "statement": "¿Qué ocurre en la sinapsis química para que el impulso nervioso se transmita de una neurona a otra?",
+      "context": "En el hospital San Vicente de Paúl en Medellín, un neurólogo explica la transmisión del impulso nervioso entre neuronas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las neuronas se tocan físicamente y pasan la corriente eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrect. Las neuronas no se tocan; hay un espacio sináptico que los neurotransmisores deben cruzar."
+        },
+        {
+          "letter": "B",
+          "text": "Se liberan neurotransmisores desde la neurona presináptica hacia la hendidura sináptica, que se unen a receptores en la neurona postsináptica.",
+          "is_correct": false,
+          "feedback": "Correct. Los neurotransmisores son mensajeros químicos que transmiten la señal."
+        },
+        {
+          "letter": "C",
+          "text": "El impulso viaja por el torrente sanguíneo hasta la siguiente neurona.",
+          "is_correct": false,
+          "feedback": "Incorrect. La transmisión sináptica es local, no a través de la sangre."
+        },
+        {
+          "letter": "D",
+          "text": "La neurona postsináptica envía una señal eléctrica directa a la presináptica.",
+          "is_correct": false,
+          "feedback": "Incorrect. La transmisión es unidireccional: de presináptica a postsináptica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la sinapsis química, el impulso eléctrico llega al botón terminal de la neurona presináptica, provocando la liberación de neurotransmisores (como la acetilcolina o dopamina) a la hendidura sináptica. Estos se unen a receptores específicos en la membrana postsináptica.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v9",
+      "statement": "Si ambos padres son sanos pero tienen un hijo afectado, ¿cómo se hereda probablemente este rasgo?",
+      "context": "En la Clínica Maternidad de Santa Fe de Bogotá, un grupo de médicos estudia un rasgo genético poco común. Dos padres sin la condición tienen un hijo que sí la presenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es dominante, porque el hijo la tiene y los padres no.",
+          "is_correct": false,
+          "feedback": "Incorrect. Si fuera dominante, al menos uno de los padres debería tener el rasgo para transmitirlo."
+        },
+        {
+          "letter": "B",
+          "text": "Es recesivo, porque los padres son heterocigotos portadores (Aa) y el hijo heredó el alelo recesivo de ambos (aa).",
+          "is_correct": true,
+          "feedback": "Correct. Un rasgo recesivo puede saltar generaciones si ambos padres son portadores sanos."
+        },
+        {
+          "letter": "C",
+          "text": "Es un rasgo ligado al cromosoma Y, porque solo los varones lo tienen.",
+          "is_correct": false,
+          "feedback": "Incorrect. No se especifica el sexo del hijo ni hay información de herencia ligada al sexo."
+        },
+        {
+          "letter": "D",
+          "text": "Es un rasgo adquirido por el ambiente, no genético.",
+          "is_correct": false,
+          "feedback": "Incorrect. Aunque el ambiente influye, el patrón descrito (padres sanos, hijo afectado) es característico de herencia autosómica recesiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En herencia autosómica recesiva, ambos padres deben ser portadores (Aa) para tener un hijo afectado (aa). La probabilidad es del 25% en cada embarazo. Ejemplos en humanos: fibrosis quística, fenilcetonuria, anemia falciforme.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v10",
+      "statement": "¿Qué tienen en común los halógenos (F, Cl, Br, I, At) que explica sus propiedades químicas similares?",
+      "context": "En el Colegio Nuevo Gimnasio de Pereira, un estudiante analiza la tabla periódica y nota que los elementos del grupo 17 (halógenos) tienen propiedades químicas similares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mismo número de neutrones.",
+          "is_correct": false,
+          "feedback": "Incorrect. El número de neutrones varía entre isótopos y no determina propiedades químicas."
+        },
+        {
+          "letter": "B",
+          "text": "El mismo número de niveles de energía.",
+          "is_correct": false,
+          "feedback": "Incorrect. El número de niveles (período) es diferente para cada halógeno."
+        },
+        {
+          "letter": "C",
+          "text": "Siete electrones en su capa de valencia, lo que los hace tender a ganar 1 electrón para formar aniones -1.",
+          "is_correct": true,
+          "feedback": "Correct. Todos los halógenos tienen configuración ns²np⁵ (7 electrones de valencia)."
+        },
+        {
+          "letter": "D",
+          "text": "La misma masa atómica.",
+          "is_correct": false,
+          "feedback": "Incorrect. La masa atómica aumenta al descender en el grupo (F < Cl < Br < I < At)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los elementos del mismo grupo tienen la misma cantidad de electrones de valencia. Los halógenos (grupo 17) tienen 7 electrones, por lo que tienden a ganar 1 electrón para completar el octeto, formando iones -1 (F⁻, Cl⁻, Br⁻, I⁻).\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v11",
+      "statement": "¿Qué tipo de herencia explica que la F1 tenga un fenotipo intermedio (rosado)?",
+      "context": "En un cultivo de flores en la Sabana de Bogotá, un fitomejorador cruza dos plantas de rosas: una de flores rojas (RR) y otra de flores blancas (rr). La F1 resulta toda de flores rosadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominancia completa",
+          "is_correct": false,
+          "feedback": "Incorrect. Si fuera dominancia completa, la F1 sería roja (dominante sobre blanco)."
+        },
+        {
+          "letter": "B",
+          "text": "Dominancia incompleta",
+          "is_correct": true,
+          "feedback": "Correct. En dominancia incompleta, el heterocigoto (Rr) expresa un fenotipo intermedio entre ambos homocigotos."
+        },
+        {
+          "letter": "C",
+          "text": "Codominancia",
+          "is_correct": false,
+          "feedback": "Incorrect. En codominancia, ambos alelos se expresan simultáneamente (como manchas rojas y blancas), no como un intermedio mezclado."
+        },
+        {
+          "letter": "D",
+          "text": "Alelos múltiples",
+          "is_correct": false,
+          "feedback": "Incorrect. Los alelos múltiples involucran más de dos alelos para un gen. Aquí solo hay dos alelos (R y r)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En dominancia incompleta, el alelo dominante no es completamente dominante sobre el recesivo. El heterocigoto produce una cantidad reducida de pigmento, resultando en un fenotipo intermedio (rosado vs. rojo o blanco). Esto también se llama herencia intermedia.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v12",
+      "statement": "Si se cruzan dos plantas AaBb × AaBb (diheterocigotos), ¿cuántos fenotipos diferentes se esperan en la F2 según la segunda ley de Mendel (segregación independiente)?",
+      "context": "En el Parque Explora de Medellín, un estudiante simula el cruce de dos organismos heterocigotos para dos características: color de semilla (A=amarillo, a=verde) y textura (B=lisa, b=rugosa).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 fenotipos",
+          "is_correct": false,
+          "feedback": "Incorrect. Para dos características con dominancia completa, hay 4 fenotipos posibles (9:3:3:1)."
+        },
+        {
+          "letter": "B",
+          "text": "4 fenotipos",
+          "is_correct": true,
+          "feedback": "Correct. Las combinaciones son: amarillo-liso (9/16), amarillo-rugoso (3/16), verde-liso (3/16), verde-rugoso (1/16)."
+        },
+        {
+          "letter": "C",
+          "text": "8 fenotipos",
+          "is_correct": false,
+          "feedback": "Incorrect. 8 fenotipos requerirían tres características (2³ = 8), no dos."
+        },
+        {
+          "letter": "D",
+          "text": "16 fenotipos",
+          "is_correct": false,
+          "feedback": "Incorrect. 16 es el número total de combinaciones genotípicas (cuadro de Punnett de 4×4), no fenotípicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La segunda ley de Mendel (segregación independiente) establece que los alelos de diferentes genes se distribuyen independientemente durante la formación de gametos. Para dos genes, la proporción fenotípica clásica es 9:3:3:1.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v13",
+      "statement": "En una situación de peligro, el sistema nervioso simpático prepara al cuerpo para la acción. ¿Cuál de las siguientes NO es una respuesta típica del sistema simpático?",
+      "context": "Un estudiante en la Universidad Nacional de Colombia sede Bogotá analiza el sistema nervioso autónomo y su función en situaciones de emergencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la frecuencia cardíaca",
+          "is_correct": false,
+          "feedback": "Incorrect. El aumento del ritmo cardíaco SÍ es una respuesta simpática."
+        },
+        {
+          "letter": "B",
+          "text": "Dilatación de las pupilas",
+          "is_correct": false,
+          "feedback": "Incorrect. La midriasis (dilatación pupilar) SÍ es simpática."
+        },
+        {
+          "letter": "C",
+          "text": "Estimulación de la digestión",
+          "is_correct": true,
+          "feedback": "Correct. La digestión es estimulada por el sistema parasimpático; el simpático la inhibe para redirigir energía a los músculos."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento de la glucosa en sangre",
+          "is_correct": false,
+          "feedback": "Incorrect. La gluconeogénesis SÍ es activada por el sistema simpático."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sistema nervioso autónomo tiene dos divisiones antagónicas: simpático (lucha/huida) y parasimpático (reposo/digestión). El simpático acelera el corazón, dilata bronquios y pupilas, y libera glucosa, pero inhibe la digestión y la salivación.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v14",
+      "statement": "Si la frecuencia del alelo recesivo a es del 10% en la población y está en equilibrio de Hardy-Weinberg, ¿qué porcentaje de mariposas se espera que tengan alas blancas?",
+      "context": "Un grupo de biólogos de la Universidad del Valle estudia una población de mariposas en el departamento del Cauca. Observan que un alelo recesivo raro (a) causa alas blancas en lugar del color naranja silvestre (A). Analizan la frecuencia del alelo en la población.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "Incorrect. 10% es la frecuencia del alelo a (q = 0.1), pero las mariposas blancas son aa = q² = 1%."
+        },
+        {
+          "letter": "B",
+          "text": "5%",
+          "is_correct": false,
+          "feedback": "Incorrect. q² = (0.1)² = 0.01 = 1%, no 5%."
+        },
+        {
+          "letter": "C",
+          "text": "1%",
+          "is_correct": true,
+          "feedback": "Correct. Bajo Hardy-Weinberg, la frecuencia de homocigotos recesivos es q² = (0.1)² = 0.01 = 1%."
+        },
+        {
+          "letter": "D",
+          "text": "0.1%",
+          "is_correct": false,
+          "feedback": "Incorrect. q² = (0.1)² = 0.01 = 1%, no 0.1%."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ley de Hardy-Weinberg establece que $p^2 + 2pq + q^2 = 1$, donde $q$ es la frecuencia del alelo recesivo. Las mariposas de alas blancas son homocigotos recesivos (aa), y su frecuencia esperada es $q^2 = (0.1)^2 = 0.01 = 1\\%$.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-v15",
+      "statement": "¿Qué tipo de herencia explica estos resultados de la F2?",
+      "context": "En el Jardín Botánico del Quindío, un investigador descubre una nueva planta con flores. Al cruzar una planta de flores azules (BB) con una de flores amarillas (AA), obtiene F1 con flores de ambos colores en manchas (azul y amarillo en la misma flor). Al cruzar dos plantas F1, obtiene F2 con tres tipos de flores: azules (25%), amarillas (25%), y azules con manchas amarillas (50%).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominancia completa del azul sobre amarillo",
+          "is_correct": false,
+          "feedback": "Incorrect. En dominancia completa, la F2 sería 3:1 (75% azul, 25% amarillo)."
+        },
+        {
+          "letter": "B",
+          "text": "Dominancia incompleta",
+          "is_correct": false,
+          "feedback": "Incorrect. En dominancia incompleta, la F2 sería 1:2:1 (azul:intermedio:amarillo), no con dos fenotipos parentales y uno mixto."
+        },
+        {
+          "letter": "C",
+          "text": "Codominancia",
+          "is_correct": true,
+          "feedback": "Correct. En codominancia, ambos alelos se expresan por separado en el heterocigoto (manchas). La F2 es 1:2:1 (BB:BA:AA) con B=azul, A=amarillo, BA=manchado."
+        },
+        {
+          "letter": "D",
+          "text": "Alelos letales",
+          "is_correct": false,
+          "feedback": "Incorrect. No hay evidencia de letalidad (todas las proporciones suman 100%)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La codominancia ocurre cuando ambos alelos se expresan completamente en el heterocigoto, sin mezclarse. El ejemplo clásico es el grupo sanguíneo AB (alelos Iᴬ e Iᴮ). En la F2 del cruce, la proporción 1:2:1 corresponde a BB (azul), BA (manchado), AA (amarillo).\r\n\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n[//]: # (STATUS: LEGACY - FREE USE)\r\n[//]: # (SCORE: N/A - Pre-QR era)",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso Comprensivo del Conocimiento Científico",
+      "bundle_id": "CO-CN-9-2026-P1-comprehensive-002-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
       "id": "CO-CIE-9-2026-W01-adn-arn-001-MASTERY-v1",
       "statement": "¿Función de la tabla periódica?",
       "context": "",

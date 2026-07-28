@@ -1,0 +1,1301 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "global",
+    "pack_id": "week-1-grade-5-subject-ingles",
+    "generated_at": "2026-07-28T22:11:09.195Z"
+  },
+  "questions": [
+    {
+      "id": "UNI-ENG-05-saving-water-001-v1",
+      "statement": "What should you do with the tap (faucet)?",
+      "context": "**Habit:** You are brushing your teeth.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leave it open.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Turn it off while brushing.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Break it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Make it hotter.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Turn off the water to save it.\r\n*Español: Ahorro de agua (grifo).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v2",
+      "statement": "Which uses less water?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A long bath (1 hour).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A short shower (5 minutes).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Washing the car.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Filling a pool.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Showers are better than baths for saving water.\r\n*Español: Ducha vs Baño.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v3",
+      "statement": "What is this?",
+      "context": "**Problem:** \"Drip... drip... drip...\" from the tap.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A song.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A leak (escaping water).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A fresh drink.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Rain.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Leak**. Wasted water. Needs fixing.\r\n*Español: Fugas de agua.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v4",
+      "statement": "When is the best time to water plants?",
+      "context": "**Chore:** Watering the plants.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At noon (very hot).",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "In the morning or evening (cool).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Never.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "When it is raining.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Evaporation. Water when it's cool.\r\n*Español: Riego eficiente.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v5",
+      "statement": "You should only run the washing machine when...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It has 1 shirt.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "It is full (Full load).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "It is empty.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "You are bored.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Full load**. Saves water and energy.\r\n*Español: Carga completa (Lavadora).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v6",
+      "statement": "What can you catch in a barrel to water your garden?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sunshine",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Rainwater",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Trash",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Wind",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Rainwater harvesting**. Free water.\r\n*Español: Recolección de agua de lluvia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v7",
+      "statement": "The toilet is NOT a...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bathroom item.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Trash can (Don't flush trash).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Seat.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ceramic bowl.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Flushing trash wastes water.\r\n*Español: Uso correcto del inodoro.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v8",
+      "statement": "Why save water?",
+      "context": "**Fact:** \"Fresh water is rare.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because water is blue.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Because it is a limited resource.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Because fish live in houses.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "You shouldn't.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Limited resource**. Conservation.\r\n*Español: Escasez de agua.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v9",
+      "statement": "If you don't use a machine, don't let the water ___ while scrubbing plates.",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stop",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Run (flow)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Freeze",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Jump",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** \"Letting the water **run**\" = Wasting it.\r\n*Español: Dejar correr el agua.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-saving-water-001-v10",
+      "statement": "Who needs to save water?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only farmers.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Only doctors.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Everyone.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nobody.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "**English:** Everyone's responsibility.\r\n*Español: Responsabilidad colectiva.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-saving-water-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v1",
+      "statement": "Before crossing the street, always look...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Up and Down",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Left and Right",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "At your phone",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Closed eyes",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Look Left and Right**. Basic rule.\r\n*Español: Cruzar la calle.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v2",
+      "statement": "**Red light** means...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Stop",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Run",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Jump",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Stop**. Traffic signals.\r\n*Español: Semáforo (Rojo).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v3",
+      "statement": "This is a...",
+      "context": "**Place:** White stripes on the road where people walk.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zebra Crossing / Crosswalk",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Zebra Crossing / Crosswalk",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Zoo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Parking",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Crosswalk/Zebra**. Safe crossing.\r\n*Español: Paso de cebra.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v4",
+      "statement": "When riding a bike, wear a...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Helmet (to protect your head)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Mask",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Scarf",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Helmet**. Head protection.\r\n*Español: Uso de casco.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v5",
+      "statement": "Pedestrians (walkers) should stay on the...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Road",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sidewalk / Pavement",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Roof",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Car",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Sidewalk**. Pedestrian zone.\r\n*Español: Acera / Banqueta.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v6",
+      "statement": "In a car, always wear your...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seatbelt",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Seatbelt",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Coat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Shoes",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Seatbelt**. Car safety.\r\n*Español: Cinturón de seguridad.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v7",
+      "statement": "Do not walk across the street wearing...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shoes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Headphones (You can't hear cars)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Glasses",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Socks",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Distraction**. Hearing traffic is key.\r\n*Español: Audífonos en la calle.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v8",
+      "statement": "What do you do?",
+      "context": "**Situation:** A stranger in a car stops and offers you a ride.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Get in.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Say NO and run away / Tell an adult.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ask for money.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Say yes.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Stranger Danger**. Never get in a car.\r\n*Español: Peligro con extraños (Auto).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v9",
+      "statement": "If walking at night, wear...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Black clothes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bright / Reflective clothes",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pyjamas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Invisible cloak",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Visibility**. Be seen at night.\r\n*Español: Visibilidad nocturna.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-street-safety-001-v10",
+      "statement": "If you hear a siren (Wee-woo-wee-woo), you should...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Run in the street.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Stop and let the emergency vehicle pass.",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Chase it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Scream.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Yielding**. Emergency vehicles.\r\n*Español: Vehículos de emergencia.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-street-safety-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v1",
+      "statement": "Which animal is **wild** (not a pet)?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dog",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Lion",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cat",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hamster",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Wild animals** live in nature.\r\n*Español: Animales salvajes.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v2",
+      "statement": "They are...",
+      "context": "**Status:** \"There are very few Pandas left in the world.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dangerous",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Endangered",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Common",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Invisible",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Endangered**. In danger of extinction.\r\n*Español: En peligro de extinción.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v3",
+      "statement": "What is this called?",
+      "context": "**Definition:** \"The natural home of an animal (e.g., the jungle).\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A House",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Habitat",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Zoo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Cage",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Habitat**. Natural environment.\r\n*Español: Hábitat.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v4",
+      "statement": "They are...",
+      "context": "**Animal:** The Dodo / Dinosaur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sleeping",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Extinct (Gone forever)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hiding",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sick",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Extinct**. No longer existing.\r\n*Español: Extinto.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v5",
+      "statement": "What does this do to turtles?",
+      "context": "**Action:** Throwing plastic in the ocean.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Feeds them.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hurts or kills them (They eat it).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Helps them swim.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Nothing.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Pollution**. Threat to wildlife.\r\n*Español: Contaminación y fauna.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v6",
+      "statement": "If you see a baby bird on the ground, you should...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Take it home.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Leave it alone (The mother is nearby).",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Kick it.",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Wash it.",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Respect nature. Don't interfere.\r\n*Español: Interacción con fauna silvestre.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v7",
+      "statement": "Modern zoos try to help animals through...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eating them",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Conservation / Breeding programs",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Selling them",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Painting them",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Conservation**. Saving species.\r\n*Español: Conservación en zoológicos.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v8",
+      "statement": "What is this called?",
+      "context": "**Chain:** \"Grass -> Deer -> Lion.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Menu",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "The Food Chain",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "A Train",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Team",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Food Chain**. Ecosystem balance.\r\n*Español: Cadena alimenticia.*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v9",
+      "statement": "What is this crime?",
+      "context": "**Crime:** \"Hunting elephants illegally for their ivory.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fishing",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Poaching",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Farming",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Camping",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** **Poaching**. Illegal hunting.\r\n*Español: Caza furtiva (Poaching).*\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    },
+    {
+      "id": "UNI-ENG-05-wildlife-protection-001-v10",
+      "statement": "Wild animals are NOT...",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Important",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Toys / Pets",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Alive",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Beautiful",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**English:** Respecting boundaries.\r\n*Español: Respeto a los animales salvajes.*",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "UNI-ENG-05-wildlife-protection-001-bundle",
+      "periodo": 1,
+      "protocol_version": "5.1",
+      "cefr_level": "A1+",
+      "subject": "ingles",
+      "grade": 5,
+      "country": "global"
+    }
+  ]
+}
