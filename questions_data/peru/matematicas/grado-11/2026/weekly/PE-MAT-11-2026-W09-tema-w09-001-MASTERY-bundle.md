@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.86
 **Contexto:** Un estudiante de Moquegua repasa temas de tema-w09 como parte de su preparación para postular a la UNSA.
 
@@ -45,7 +45,7 @@ Dos ángulos son complementarios si su suma es exactamente $90^\circ$. Por lo ta
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.83
 **Contexto:** Un estudiante de Cusco repasa temas de tema-w09 como parte de su preparación para postular a la UNALM.
 
@@ -70,7 +70,7 @@ Por el teorema fundamental de la geometría triangular euclidiana, la suma de lo
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante de Piura repasa temas de tema-w09 como parte de su preparación para postular a la Udep.
 
@@ -95,7 +95,7 @@ Usando el teorema de Pitágoras: $H^2 = (6)^2 + (8)^2 = 36 + 64 = 100$. Extrayen
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.76
 **Contexto:** Un estudiante de Puno repasa temas de tema-w09 como parte de su preparación para postular a la PUCP.
 
@@ -120,7 +120,7 @@ Convertimos la distancia real a centímetros: $50 \text{ m} = 5000 \text{ cm}$. 
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante de Ica repasa temas de tema-w09 como parte de su preparación para postular a la UNT.
 
@@ -145,7 +145,7 @@ El área de un sector circular es $A = \frac{\theta}{360^\circ} \pi r^2$. Con $\
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.69
 **Contexto:** Un estudiante de Ayacucho repasa temas de tema-w09 como parte de su preparación para postular a la UNSAAC.
 
@@ -170,7 +170,7 @@ La superficie de un trapecio es $S = \frac{B + b}{2} \cdot h$. Sustituyendo los 
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.66
 **Contexto:** Un estudiante de Pucallpa repasa temas de tema-w09 como parte de su preparación para postular a la UNI.
 
@@ -195,7 +195,7 @@ El perímetro se calcula sumando el duplo de la longitud de cada uno de sus lado
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante de Lima repasa temas de tema-w09 como parte de su preparación para postular a la UNPRG.
 
@@ -220,7 +220,7 @@ La fórmula para la suma de ángulos internos es $S = (n - 2) \cdot 180^\circ$. 
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante de Trujillo repasa temas de tema-w09 como parte de su preparación para postular a la UNSCH.
 
@@ -245,7 +245,7 @@ Los triángulos formados por la altura de los objetos y sus sombras son semejant
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de Huancayo repasa temas de tema-w09 como parte de su preparación para postular a la UNMSM.
 
@@ -270,7 +270,7 @@ Multiplicamos la medida del plano por el factor de escala: $40 \text{ cm} \times
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.52
 **Contexto:** Un estudiante de Chimbote repasa temas de tema-w09 como parte de su preparación para postular a la UNSA.
 
@@ -295,7 +295,7 @@ Los ángulos conjugados internos formados por rectas paralelas cortadas por una 
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante de Tacna repasa temas de tema-w09 como parte de su preparación para postular a la UNALM.
 
@@ -320,7 +320,7 @@ La relación entre las superficies de dos polígonos semejantes es igual al cuad
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.44
 **Contexto:** Un estudiante de Huanuco repasa temas de tema-w09 como parte de su preparación para postular a la Udep.
 
@@ -345,7 +345,7 @@ Al trazar la perpendicular desde el centro, esta corta a la cuerda en su punto m
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.41
 **Contexto:** Un estudiante de Chachapoyas repasa temas de tema-w09 como parte de su preparación para postular a la PUCP.
 
@@ -370,7 +370,7 @@ Las diagonales de un rombo se cortan perpendicularmente en sus puntos medios, di
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de Arequipa repasa temas de tema-w09 como parte de su preparación para postular a la UNT.
 
@@ -395,7 +395,7 @@ Por el teorema de Tales de Mileto, los segmentos correspondientes son proporcion
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.34
 **Contexto:** Un estudiante de Chiclayo repasa temas de tema-w09 como parte de su preparación para postular a la UNSAAC.
 
@@ -420,7 +420,7 @@ La distancia es la raíz cuadrada de la suma de los cuadrados de las diferencias
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Un estudiante de Iquitos repasa temas de tema-w09 como parte de su preparación para postular a la UNI.
 
@@ -445,7 +445,7 @@ La hipotenusa mide 7.21 m. Por relaciones métricas en el triángulo rectángulo
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.27
 **Contexto:** Un estudiante de Cajamarca repasa temas de tema-w09 como parte de su preparación para postular a la UNPRG.
 
@@ -470,7 +470,7 @@ El punto medio es (4.0, 9.0) por promedio directo de las coordenadas de los extr
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.23
 **Contexto:** Un estudiante de Huaraz repasa temas de tema-w09 como parte de su preparación para postular a la UNSCH.
 
@@ -495,7 +495,7 @@ El triángulo de lados es rectángulo. Por el Teorema de Poncelet el inradio mid
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Un estudiante de Tarapoto repasa temas de tema-w09 como parte de su preparación para postular a la UNMSM.
 

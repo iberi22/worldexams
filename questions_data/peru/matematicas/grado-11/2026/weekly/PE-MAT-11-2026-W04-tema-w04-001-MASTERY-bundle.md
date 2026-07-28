@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.86
 **Contexto:** Un estudiante de Chiclayo repasa temas de tema-w04 como parte de su preparación para postular a la UNSAAC.
 
@@ -45,7 +45,7 @@ Para hallar el valor de $x$, restamos 4 a ambos lados de la ecuación: $x = 6 - 
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.83
 **Contexto:** Un estudiante de Iquitos repasa temas de tema-w04 como parte de su preparación para postular a la UNI.
 
@@ -70,7 +70,7 @@ Por definición, el elemento neutro multiplicativo en los reales es el número 1
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante de Cajamarca repasa temas de tema-w04 como parte de su preparación para postular a la UNPRG.
 
@@ -95,7 +95,7 @@ Para resolver la ecuación, primero eliminamos la constante sumada aplicando la 
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.76
 **Contexto:** Un estudiante de Huaraz repasa temas de tema-w04 como parte de su preparación para postular a la UNSCH.
 
@@ -120,7 +120,7 @@ El descuento es de 50\% de S/ 400, lo cual equivale a S/ 200.00. Restando esto d
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante de Tarapoto repasa temas de tema-w04 como parte de su preparación para postular a la UNMSM.
 
@@ -145,7 +145,7 @@ Por leyes de exponentes de la división de bases iguales, restamos el exponente 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.69
 **Contexto:** Un estudiante de Moquegua repasa temas de tema-w04 como parte de su preparación para postular a la UNSA.
 
@@ -170,7 +170,7 @@ Dividimos ambos miembros de la inecuación lineal entre el número positivo 3: $
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.66
 **Contexto:** Un estudiante de Cusco repasa temas de tema-w04 como parte de su preparación para postular a la UNALM.
 
@@ -195,7 +195,7 @@ El gasto total es la suma de ambos rubros: 16 + 16 = 32 soles. El vuelto es la d
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante de Piura repasa temas de tema-w04 como parte de su preparación para postular a la Udep.
 
@@ -220,7 +220,7 @@ Sumamos 5 a ambos miembros de la inecuación lineal: $2x \ge 10$. Dividimos entr
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante de Puno repasa temas de tema-w04 como parte de su preparación para postular a la PUCP.
 
@@ -245,7 +245,7 @@ La diferencia es $3 - (9) = -6$. El valor absoluto de este resultado negativo es
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de Ica repasa temas de tema-w04 como parte de su preparación para postular a la UNT.
 
@@ -270,7 +270,7 @@ Multiplicamos por 4 en ambos lados de la ecuación de proporcionalidad para desp
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.52
 **Contexto:** Un estudiante de Ayacucho repasa temas de tema-w04 como parte de su preparación para postular a la UNSAAC.
 
@@ -295,7 +295,7 @@ La suma de coeficientes se halla evaluando el polinomio para la variable en 1: $
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante de Pucallpa repasa temas de tema-w04 como parte de su preparación para postular a la UNI.
 
@@ -320,7 +320,7 @@ El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el 
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.44
 **Contexto:** Un estudiante de Lima repasa temas de tema-w04 como parte de su preparación para postular a la UNPRG.
 
@@ -345,7 +345,7 @@ Para que la función racional esté definida en el campo real, el denominador de
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.41
 **Contexto:** Un estudiante de Trujillo repasa temas de tema-w04 como parte de su preparación para postular a la UNSCH.
 
@@ -370,7 +370,7 @@ Sustituimos el valor de $y = 2$ en el polinomio cuadrático: P(2) = 2^2 - 5(2) +
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de Huancayo repasa temas de tema-w04 como parte de su preparación para postular a la UNMSM.
 
@@ -397,7 +397,7 @@ Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar 
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.34
 **Contexto:** Un estudiante de Chimbote repasa temas de tema-w04 como parte de su preparación para postular a la UNSA.
 
@@ -422,7 +422,7 @@ El discriminante de una ecuación cuadrática is b^2 - 4ac. Aquí es 81 - 4(20) 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.30
 **Contexto:** Un estudiante de Tacna repasa temas de tema-w04 como parte de su preparación para postular a la UNALM.
 
@@ -447,7 +447,7 @@ Por definición del inverso multiplicativo, el producto de un número no nulo y 
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.27
 **Contexto:** Un estudiante de Huanuco repasa temas de tema-w04 como parte de su preparación para postular a la Udep.
 
@@ -472,7 +472,7 @@ Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.23
 **Contexto:** Un estudiante de Chachapoyas repasa temas de tema-w04 como parte de su preparación para postular a la PUCP.
 
@@ -497,7 +497,7 @@ Sean los lados x e y. El perímetro es 2(x+y) = 32 \Rightarrow x+y = 16. El áre
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.20
 **Contexto:** Un estudiante de Arequipa repasa temas de tema-w04 como parte de su preparación para postular a la UNT.
 
