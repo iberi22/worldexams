@@ -24,7 +24,7 @@ Este bundle contiene 20 preguntas de alta calidad para TEMA-W09, alineadas con e
 ## Question 1 [D3]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En San José, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -48,7 +48,7 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 ## Question 2 [D3]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.83
 **Contexto:** En Alajuela, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -72,7 +72,7 @@ Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersecc
 ## Question 3 [D4]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.80
 **Contexto:** En Cartago, Carlos está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -98,7 +98,7 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 ## Question 4 [D4]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.78
 **Contexto:** En Heredia, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -122,7 +122,7 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 ## Question 5 [D5]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** En Liberia, Javier está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -146,7 +146,7 @@ Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersecc
 ## Question 6 [D5]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.73
 **Contexto:** En Puntarenas, Natalia está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -172,7 +172,7 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 ## Question 7 [D5]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.70
 **Contexto:** En Limón, Esteban está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -196,7 +196,7 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 ## Question 8 [D6]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** En San Carlos, Gabriel está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -220,7 +220,7 @@ Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersecc
 ## Question 9 [D6]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.65
 **Contexto:** En Pérez Zeledón, Luis está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -246,7 +246,7 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 ## Question 10 [D6]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.63
 **Contexto:** En Escazú, Valentina está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -270,7 +270,7 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 ## Question 11 [D7]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.60
 **Contexto:** En San José, Sebastián está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -294,7 +294,7 @@ Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersecc
 ## Question 12 [D7]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.58
 **Contexto:** En Alajuela, Keylor está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -320,7 +320,7 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 ## Question 13 [D7]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** En Cartago, Andrey está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -344,7 +344,7 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 ## Question 14 [D8]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** En Heredia, María está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -368,7 +368,7 @@ Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersecc
 ## Question 15 [D8]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.50
 **Contexto:** En Liberia, José está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -394,7 +394,7 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 ## Question 16 [D8]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.48
 **Contexto:** En Puntarenas, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -418,7 +418,7 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 ## Question 17 [D9]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** En Limón, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -442,7 +442,7 @@ Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersecc
 ## Question 18 [D9]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.43
 **Contexto:** En San Carlos, Carlos está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -468,7 +468,7 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 ## Question 19 [D10]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** En Pérez Zeledón, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -492,7 +492,7 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 ## Question 20 [D10]
 **ID:** CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.35
 **Contexto:** En Escazú, Javier está investigando un problema matemático aplicado al contexto costarricense.
 

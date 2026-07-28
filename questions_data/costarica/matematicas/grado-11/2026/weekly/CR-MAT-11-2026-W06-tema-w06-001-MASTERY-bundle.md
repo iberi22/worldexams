@@ -24,7 +24,7 @@ Este bundle contiene 20 preguntas de alta calidad para TEMA-W06, alineadas con e
 ## Question 1 [D3]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En San Carlos, Valentina está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -48,7 +48,7 @@ Sustituyendo los parámetros en la ecuación de interés compuesto, el capital i
 ## Question 2 [D3]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.83
 **Contexto:** En Pérez Zeledón, Sebastián está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -72,7 +72,7 @@ La masa inicial de la sustancia es $M_0 = 720$ gramos. Para hallar la masa resta
 ## Question 3 [D4]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.80
 **Contexto:** En Escazú, Keylor está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -96,7 +96,7 @@ Para hallar la población inicial de árboles nativos, evaluamos la función de 
 ## Question 4 [D4]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.78
 **Contexto:** En San José, Andrey está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -120,7 +120,7 @@ Sustituyendo los parámetros en la ecuación de interés compuesto, el capital i
 ## Question 5 [D5]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** En Alajuela, María está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -144,7 +144,7 @@ La masa inicial de la sustancia es $M_0 = 780$ gramos. Para hallar la masa resta
 ## Question 6 [D5]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.73
 **Contexto:** En Cartago, José está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -168,7 +168,7 @@ Para hallar la población inicial de árboles nativos, evaluamos la función de 
 ## Question 7 [D5]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.70
 **Contexto:** En Heredia, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -192,7 +192,7 @@ Sustituyendo los parámetros en la ecuación de interés compuesto, el capital i
 ## Question 8 [D6]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** En Liberia, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -216,7 +216,7 @@ La masa inicial de la sustancia es $M_0 = 840$ gramos. Para hallar la masa resta
 ## Question 9 [D6]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.65
 **Contexto:** En Puntarenas, Carlos está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -240,7 +240,7 @@ Para hallar la población inicial de árboles nativos, evaluamos la función de 
 ## Question 10 [D6]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.63
 **Contexto:** En Limón, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -264,7 +264,7 @@ Sustituyendo los parámetros en la ecuación de interés compuesto, el capital i
 ## Question 11 [D7]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.60
 **Contexto:** En San Carlos, Javier está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -288,7 +288,7 @@ La masa inicial de la sustancia es $M_0 = 900$ gramos. Para hallar la masa resta
 ## Question 12 [D7]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.58
 **Contexto:** En Pérez Zeledón, Natalia está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -312,7 +312,7 @@ Para hallar la población inicial de árboles nativos, evaluamos la función de 
 ## Question 13 [D7]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** En Escazú, Esteban está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -336,7 +336,7 @@ Sustituyendo los parámetros en la ecuación de interés compuesto, el capital i
 ## Question 14 [D8]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** En San José, Gabriel está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -360,7 +360,7 @@ La masa inicial de la sustancia es $M_0 = 960$ gramos. Para hallar la masa resta
 ## Question 15 [D8]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.50
 **Contexto:** En Alajuela, Luis está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -384,7 +384,7 @@ Para hallar la población inicial de árboles nativos, evaluamos la función de 
 ## Question 16 [D8]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.48
 **Contexto:** En Cartago, Valentina está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -408,7 +408,7 @@ Sustituyendo los parámetros en la ecuación de interés compuesto, el capital i
 ## Question 17 [D9]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** En Heredia, Sebastián está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -432,7 +432,7 @@ La masa inicial de la sustancia es $M_0 = 1020$ gramos. Para hallar la masa rest
 ## Question 18 [D9]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.43
 **Contexto:** En Liberia, Keylor está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -456,7 +456,7 @@ Para hallar la población inicial de árboles nativos, evaluamos la función de 
 ## Question 19 [D10]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** En Puntarenas, Andrey está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -480,7 +480,7 @@ Sustituyendo los parámetros en la ecuación de interés compuesto, el capital i
 ## Question 20 [D10]
 **ID:** CR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.35
 **Contexto:** En Limón, María está investigando un problema matemático aplicado al contexto costarricense.
 

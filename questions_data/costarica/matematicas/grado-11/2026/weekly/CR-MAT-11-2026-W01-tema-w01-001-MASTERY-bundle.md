@@ -24,7 +24,7 @@ Este bundle contiene 20 preguntas de alta calidad para TEMA-W01, alineadas con e
 ## Question 1 [D3]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En Cartago, José está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -53,7 +53,7 @@ Para encontrar la función inversa de la función racional $f(x) = \frac{2x + 15
 ## Question 2 [D3]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.83
 **Contexto:** En Heredia, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -77,7 +77,7 @@ Por definición de función inversa, si una función biyectiva $f(x)$ mapea el v
 ## Question 3 [D4]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.80
 **Contexto:** En Liberia, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -104,7 +104,7 @@ Para encontrar la función inversa de la función lineal $f(x) = 6x + 19$:
 ## Question 4 [D4]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.78
 **Contexto:** En Puntarenas, Carlos está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -133,7 +133,7 @@ Para encontrar la función inversa de la función racional $f(x) = \frac{3x + 11
 ## Question 5 [D5]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** En Limón, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -157,7 +157,7 @@ Por definición de función inversa, si una función biyectiva $f(x)$ mapea el v
 ## Question 6 [D5]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.73
 **Contexto:** En San Carlos, Javier está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -184,7 +184,7 @@ Para encontrar la función inversa de la función lineal $f(x) = 2x + 15$:
 ## Question 7 [D5]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.70
 **Contexto:** En Pérez Zeledón, Natalia está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -213,7 +213,7 @@ Para encontrar la función inversa de la función racional $f(x) = \frac{4x + 17
 ## Question 8 [D6]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** En Escazú, Esteban está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -237,7 +237,7 @@ Por definición de función inversa, si una función biyectiva $f(x)$ mapea el v
 ## Question 9 [D6]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.65
 **Contexto:** En San José, Gabriel está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -264,7 +264,7 @@ Para encontrar la función inversa de la función lineal $f(x) = 3x + 11$:
 ## Question 10 [D6]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.63
 **Contexto:** En Alajuela, Luis está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -293,7 +293,7 @@ Para encontrar la función inversa de la función racional $f(x) = \frac{5x + 13
 ## Question 11 [D7]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.60
 **Contexto:** En Cartago, Valentina está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -317,7 +317,7 @@ Por definición de función inversa, si una función biyectiva $f(x)$ mapea el v
 ## Question 12 [D7]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.58
 **Contexto:** En Heredia, Sebastián está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -344,7 +344,7 @@ Para encontrar la función inversa de la función lineal $f(x) = 4x + 17$:
 ## Question 13 [D7]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** En Liberia, Keylor está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -373,7 +373,7 @@ Para encontrar la función inversa de la función racional $f(x) = \frac{6x + 19
 ## Question 14 [D8]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** En Puntarenas, Andrey está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -397,7 +397,7 @@ Por definición de función inversa, si una función biyectiva $f(x)$ mapea el v
 ## Question 15 [D8]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.50
 **Contexto:** En Limón, María está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -424,7 +424,7 @@ Para encontrar la función inversa de la función lineal $f(x) = 5x + 13$:
 ## Question 16 [D8]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.48
 **Contexto:** En San Carlos, José está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -453,7 +453,7 @@ Para encontrar la función inversa de la función racional $f(x) = \frac{2x + 15
 ## Question 17 [D9]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** En Pérez Zeledón, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -477,7 +477,7 @@ Por definición de función inversa, si una función biyectiva $f(x)$ mapea el v
 ## Question 18 [D9]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.43
 **Contexto:** En Escazú, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -504,7 +504,7 @@ Para encontrar la función inversa de la función lineal $f(x) = 6x + 19$:
 ## Question 19 [D10]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** En San José, Carlos está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -533,7 +533,7 @@ Para encontrar la función inversa de la función racional $f(x) = \frac{3x + 11
 ## Question 20 [D10]
 **ID:** CR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.35
 **Contexto:** En Alajuela, Elena está investigando un problema matemático aplicado al contexto costarricense.
 

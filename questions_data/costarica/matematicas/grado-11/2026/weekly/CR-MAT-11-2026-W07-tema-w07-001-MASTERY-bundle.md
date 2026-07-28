@@ -24,7 +24,7 @@ Este bundle contiene 20 preguntas de alta calidad para TEMA-W07, alineadas con e
 ## Question 1 [D3]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En Pérez Zeledón, Keylor está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -48,7 +48,7 @@ Para resolver la ecuación exponencial $2^{3x} = 16$, expresamos el número 16 e
 ## Question 2 [D3]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.83
 **Contexto:** En Escazú, Andrey está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -75,7 +75,7 @@ Por lo tanto, el conjunto de soluciones reales es exactamente $S = \{1, 2\}$.
 ## Question 3 [D4]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.80
 **Contexto:** En San José, María está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -99,7 +99,7 @@ Para resolver la ecuación exponencial $2^{2x - 1} = 8$, igualamos directamente 
 ## Question 4 [D4]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.78
 **Contexto:** En Alajuela, José está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -123,7 +123,7 @@ Para resolver la ecuación exponencial $2^{3x} = 16$, expresamos el número 16 e
 ## Question 5 [D5]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** En Cartago, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -150,7 +150,7 @@ Por lo tanto, el conjunto de soluciones reales es exactamente $S = \{1, 2\}$.
 ## Question 6 [D5]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.73
 **Contexto:** En Heredia, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -174,7 +174,7 @@ Para resolver la ecuación exponencial $2^{2x - 1} = 8$, igualamos directamente 
 ## Question 7 [D5]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.70
 **Contexto:** En Liberia, Carlos está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -198,7 +198,7 @@ Para resolver la ecuación exponencial $2^{3x} = 16$, expresamos el número 16 e
 ## Question 8 [D6]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** En Puntarenas, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -225,7 +225,7 @@ Por lo tanto, el conjunto de soluciones reales es exactamente $S = \{1, 2\}$.
 ## Question 9 [D6]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.65
 **Contexto:** En Limón, Javier está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -249,7 +249,7 @@ Para resolver la ecuación exponencial $2^{2x - 1} = 8$, igualamos directamente 
 ## Question 10 [D6]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.63
 **Contexto:** En San Carlos, Natalia está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -273,7 +273,7 @@ Para resolver la ecuación exponencial $2^{3x} = 16$, expresamos el número 16 e
 ## Question 11 [D7]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.60
 **Contexto:** En Pérez Zeledón, Esteban está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -300,7 +300,7 @@ Por lo tanto, el conjunto de soluciones reales es exactamente $S = \{1, 2\}$.
 ## Question 12 [D7]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.58
 **Contexto:** En Escazú, Gabriel está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -324,7 +324,7 @@ Para resolver la ecuación exponencial $2^{2x - 1} = 8$, igualamos directamente 
 ## Question 13 [D7]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** En San José, Luis está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -348,7 +348,7 @@ Para resolver la ecuación exponencial $2^{3x} = 16$, expresamos el número 16 e
 ## Question 14 [D8]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** En Alajuela, Valentina está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -375,7 +375,7 @@ Por lo tanto, el conjunto de soluciones reales es exactamente $S = \{1, 2\}$.
 ## Question 15 [D8]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.50
 **Contexto:** En Cartago, Sebastián está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -399,7 +399,7 @@ Para resolver la ecuación exponencial $2^{2x - 1} = 8$, igualamos directamente 
 ## Question 16 [D8]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.48
 **Contexto:** En Heredia, Keylor está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -423,7 +423,7 @@ Para resolver la ecuación exponencial $2^{3x} = 16$, expresamos el número 16 e
 ## Question 17 [D9]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** En Liberia, Andrey está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -450,7 +450,7 @@ Por lo tanto, el conjunto de soluciones reales es exactamente $S = \{1, 2\}$.
 ## Question 18 [D9]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.43
 **Contexto:** En Puntarenas, María está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -474,7 +474,7 @@ Para resolver la ecuación exponencial $2^{2x - 1} = 8$, igualamos directamente 
 ## Question 19 [D10]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** En Limón, José está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -498,7 +498,7 @@ Para resolver la ecuación exponencial $2^{3x} = 16$, expresamos el número 16 e
 ## Question 20 [D10]
 **ID:** CR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.35
 **Contexto:** En San Carlos, Ana está investigando un problema matemático aplicado al contexto costarricense.
 

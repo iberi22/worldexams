@@ -24,7 +24,7 @@ Este bundle contiene 20 preguntas de alta calidad para TEMA-W03, alineadas con e
 ## Question 1 [D3]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En Liberia, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -48,7 +48,7 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 ## Question 2 [D3]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.83
 **Contexto:** En Puntarenas, Javier está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -72,7 +72,7 @@ La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac
 ## Question 3 [D4]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.80
 **Contexto:** En Limón, Natalia está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -96,7 +96,7 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 ## Question 4 [D4]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.78
 **Contexto:** En San Carlos, Esteban está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -120,7 +120,7 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 ## Question 5 [D5]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** En Pérez Zeledón, Gabriel está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -144,7 +144,7 @@ La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac
 ## Question 6 [D5]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.73
 **Contexto:** En Escazú, Luis está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -168,7 +168,7 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 ## Question 7 [D5]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.70
 **Contexto:** En San José, Valentina está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -192,7 +192,7 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 ## Question 8 [D6]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** En Alajuela, Sebastián está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -216,7 +216,7 @@ La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac
 ## Question 9 [D6]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.65
 **Contexto:** En Cartago, Keylor está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -240,7 +240,7 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 ## Question 10 [D6]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.63
 **Contexto:** En Heredia, Andrey está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -264,7 +264,7 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 ## Question 11 [D7]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.60
 **Contexto:** En Liberia, María está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -288,7 +288,7 @@ La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac
 ## Question 12 [D7]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.58
 **Contexto:** En Puntarenas, José está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -312,7 +312,7 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 ## Question 13 [D7]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** En Limón, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -336,7 +336,7 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 ## Question 14 [D8]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** En San Carlos, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -360,7 +360,7 @@ La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac
 ## Question 15 [D8]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.50
 **Contexto:** En Pérez Zeledón, Carlos está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -384,7 +384,7 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 ## Question 16 [D8]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.48
 **Contexto:** En Escazú, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -408,7 +408,7 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 ## Question 17 [D9]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** En San José, Javier está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -432,7 +432,7 @@ La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac
 ## Question 18 [D9]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.43
 **Contexto:** En Alajuela, Natalia está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -456,7 +456,7 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 ## Question 19 [D10]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** En Cartago, Esteban está investigando un problema matemático aplicado al contexto costarricense.
 
@@ -480,7 +480,7 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 ## Question 20 [D10]
 **ID:** CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Solución de Problemas
+**EJE:** Solución de Problemas
 **Expected_Success:** 0.35
 **Contexto:** En Heredia, Gabriel está investigando un problema matemático aplicado al contexto costarricense.
 
