@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Cartago, el ciudadano doña Marta asiste a un panel organizado en la comunidad sobre el impacto de las sentencias de la CorteIDH, con sede en San José, que obligan al Estado a reformar sus leyes de derechos civiles. Durante la charla, se destaca la influencia directa de Corte Interamericana de Derechos Humanos.
 
@@ -48,7 +48,7 @@ La discusión sobre las sentencias de la CorteIDH, con sede en San José, que ob
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Heredia, el ciudadano don Gerardo asiste a un panel organizado en la comunidad sobre el impacto de las inspecciones de trabajo del Ministerio de Trabajo en fincas de piña en Upala para erradicar el trabajo infantil. Durante la charla, se destaca la influencia directa de Derechos laborales en el agro.
 
@@ -72,7 +72,7 @@ La discusión sobre las inspecciones de trabajo del Ministerio de Trabajo en fin
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Liberia, Randall evalúa una infografía detallada de el fallo constitucional de la Sala Cuarta garantizando el suministro continuo de agua potable a comunidades de Puntarenas. El gráfico muestra la movilización de capitales de ₡500.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Derecho humano al agua potable y las finanzas co
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Puntarenas, Elena evalúa una infografía detallada de las demandas territoriales de las comunidades Boruca y Bribri bajo el marco del Convenio 169 de la OIT. El gráfico muestra la movilización de capitales de ₡8.000.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre Derechos de los pueblos indígenas y las finanza
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Limón, Randall evalúa una infografía detallada de las políticas estatales para erradicar el rezago de género y asegurar el empoderamiento de mujeres rurales en Limón. El gráfico muestra la movilización de capitales de ₡2.500.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Objetivos de Desarrollo Sostenible (ODS) y las f
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Pérez Zeledón, Mariela evalúa una infografía detallada de el rol de control fiscalizador y de denuncia de esta defensoría frente al maltrato de usuarios en clínicas públicas de la CCSS. El gráfico muestra la movilización de capitales de ₡1.000.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Defensoría de los Habitantes y las finanzas cos
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en San José liderada por don Fernando busca financiamiento o acreditación bajo el marco de Libertad de expresión y prensa por una suma estimada de ₡1.000 para potenciar el alto sitial internacional que ocupa Costa Rica en libertad de prensa en informes de Reporteros Sin Fronteras.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Libertad de expresión y prensa demanda la
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Alajuela liderada por Esteban busca financiamiento o acreditación bajo el marco de Acuerdos climáticos internacionales (Acuerdo de París) por una suma estimada de ₡2.000.000.000 para potenciar el Plan Nacional de Descarbonización de Costa Rica para eliminar combustibles fósiles en el transporte público.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Acuerdos climáticos internacionales (Acue
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Cartago liderada por Randall busca financiamiento o acreditación bajo el marco de Corte Interamericana de Derechos Humanos por una suma estimada de ₡1.000 para potenciar las sentencias de la CorteIDH, con sede en San José, que obligan al Estado a reformar sus leyes de derechos civiles.
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Corte Interamericana de Derechos Humanos d
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Heredia liderada por Karla busca financiamiento o acreditación bajo el marco de Derechos laborales en el agro por una suma estimada de ₡650.000 para potenciar las inspecciones de trabajo del Ministerio de Trabajo en fincas de piña en Upala para erradicar el trabajo infantil.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Derechos laborales en el agro demanda la t
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Derecho humano al agua potable por una suma estimada de ₡500.000 para potenciar el fallo constitucional de la Sala Cuarta garantizando el suministro continuo de agua potable a comunidades de Puntarenas.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Derecho humano al agua potable demanda la 
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Puntarenas liderada por Randall busca financiamiento o acreditación bajo el marco de Derechos de los pueblos indígenas por una suma estimada de ₡8.000.000 para potenciar las demandas territoriales de las comunidades Boruca y Bribri bajo el marco del Convenio 169 de la OIT.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo Derechos de los pueblos indígenas demanda
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Limón analiza de manera exhaustiva el impacto de las políticas estatales para erradicar el rezago de género y asegurar el empoderamiento de mujeres rurales en Limón. Los participantes señalan que el flujo de recursos de ₡2.500.000 ha beneficiado a algunos sectores pero ha desatendido equidad de género.
 
@@ -336,7 +336,7 @@ El análisis crítico de las políticas estatales para erradicar el rezago de g�
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Pérez Zeledón analiza de manera exhaustiva el impacto de el rol de control fiscalizador y de denuncia de esta defensoría frente al maltrato de usuarios en clínicas públicas de la CCSS. Los participantes señalan que el flujo de recursos de ₡1.000 ha beneficiado a algunos sectores pero ha desatendido derecho de petición.
 
@@ -360,7 +360,7 @@ El análisis crítico de el rol de control fiscalizador y de denuncia de esta de
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en San José analiza de manera exhaustiva el impacto de el alto sitial internacional que ocupa Costa Rica en libertad de prensa en informes de Reporteros Sin Fronteras. Los participantes señalan que el flujo de recursos de ₡1.000 ha beneficiado a algunos sectores pero ha desatendido democracia informativa.
 
@@ -384,7 +384,7 @@ El análisis crítico de el alto sitial internacional que ocupa Costa Rica en li
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Alajuela analiza de manera exhaustiva el impacto de el Plan Nacional de Descarbonización de Costa Rica para eliminar combustibles fósiles en el transporte público. Los participantes señalan que el flujo de recursos de ₡2.000.000.000 ha beneficiado a algunos sectores pero ha desatendido transición energética.
 
@@ -408,7 +408,7 @@ El análisis crítico de el Plan Nacional de Descarbonización de Costa Rica par
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Cartago, integrada por Carlos, revisa los indicadores de desarrollo de las sentencias de la CorteIDH, con sede en San José, que obligan al Estado a reformar sus leyes de derechos civiles y los aportes de Corte Interamericana de Derechos Humanos estimados en ₡1.000.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Corte Interamericana de Derechos Humanos 
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Heredia, integrada por don Guillermo, revisa los indicadores de desarrollo de las inspecciones de trabajo del Ministerio de Trabajo en fincas de piña en Upala para erradicar el trabajo infantil y los aportes de Derechos laborales en el agro estimados en ₡650.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Derechos laborales en el agro demuestra q
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Liberia, integrada por Javier, revisa los indicadores de desarrollo de el fallo constitucional de la Sala Cuarta garantizando el suministro continuo de agua potable a comunidades de Puntarenas y los aportes de Derecho humano al agua potable estimados en ₡500.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Derecho humano al agua potable demuestra 
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Derechos Humanos en el Mundo Global - MEP
+**EJE:** Derechos Humanos en el Mundo Global - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Puntarenas, integrada por Sofía, revisa los indicadores de desarrollo de las demandas territoriales de las comunidades Boruca y Bribri bajo el marco del Convenio 169 de la OIT y los aportes de Derechos de los pueblos indígenas estimados en ₡8.000.000.
 

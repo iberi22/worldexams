@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.85
 **Contexto:** Don Randall, un pequeño agricultor de la zona de Zarcero, conversa con su familia sobre cómo los precios de los insumos agrícolas que utiliza en su finca de hortalizas se ven afectados por eventos políticos en Europa y Asia.
 
@@ -48,7 +48,7 @@ La globalización ha creado una red de interdependencia global en la cual las ec
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.85
 **Contexto:** En la clase de Estudios Sociales del Liceo de Costa Rica, la profesora Shirley explica la evolución histórica de la globalización, destacando el auge experimentado desde finales del siglo XX con la caída de bloques ideológicos y la aceleración tecnológica.
 
@@ -72,7 +72,7 @@ El fin de la Guerra Fría a finales del siglo XX eliminó las barreras política
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento reflexivo - MEP
+**EJE:** Pensamiento reflexivo - MEP
 **Expected_Success:** 0.85
 **Contexto:** Una cooperativa cafetalera en Tarrazú decide exportar café gourmet directamente a cafeterías en Tokio y Berlín utilizando plataformas digitales para coordinar la logística de envío y el pago electrónico.
 
@@ -96,7 +96,7 @@ Las plataformas digitales y las TIC han modificado el comercio internacional al 
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento reflexivo - MEP
+**EJE:** Pensamiento reflexivo - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante un foro en la Universidad de Costa Rica sobre soberanía económica, un ponente afirma: 'La globalización no es un proceso homogéneo; genera dinámicas donde las decisiones tomadas en centros financieros mundiales repercuten drásticamente en el empleo en la periferia'.
 
@@ -120,7 +120,7 @@ La globalización económica presenta una estructura centro-periferia, donde los
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Interpretacion - MEP
+**EJE:** Interpretacion - MEP
 **Expected_Success:** 0.75
 **Contexto:** Un estudio sobre el mercado laboral costarricense muestra que el crecimiento de puestos de trabajo se concentra fuertemente en empresas de servicios multinacionales (zonas francas), requiriendo personal bilingüe y con competencias tecnológicas avanzadas.
 
@@ -144,7 +144,7 @@ La atracción de empresas multinacionales de servicios y tecnología en Costa Ri
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.75
 **Contexto:** Observe el siguiente texto sobre la interconexión global:
 'Hoy en día, un choque financiero en Wall Street, una huelga portuaria en China o una sequía severa en el Canal de Panamá pueden alterar de inmediato el abastecimiento de mercancías y los precios al consumidor en San José de Costa Rica'.
@@ -169,7 +169,7 @@ La integración económica mundial crea cadenas de suministro globales. Su alta 
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento reflexivo - MEP
+**EJE:** Pensamiento reflexivo - MEP
 **Expected_Success:** 0.75
 **Contexto:** Elena, ingeniera de soporte en una empresa médica ubicada en la Zona Franca de Coyol en Alajuela, colabora diariamente en tiempo real con equipos de diseño en Boston y de manufactura en Singapur para el lanzamiento de un nuevo dispositivo médico.
 
@@ -193,7 +193,7 @@ La globalización permite que las corporaciones fragmenten sus procesos de produ
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.75
 **Contexto:** El tipo de cambio del dólar respecto al colón costarricense (₡) muestra variaciones constantes debido a decisiones de política monetaria en los Estados Unidos (como los ajustes de tasas de la Reserva Federal) y la llegada de divisas por turismo e inversión extranjera directa.
 
@@ -217,7 +217,7 @@ La dimensión financiera de la globalización implica una enorme movilidad de di
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento reflexivo - MEP
+**EJE:** Pensamiento reflexivo - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una empresa costarricense dedicada a la exportación de piña fresca en la Zona Norte del país enfrenta regulaciones fitosanitarias muy estrictas impuestas por la Unión Europea, obligándola a modificar sus métodos de cultivo y uso de agroquímicos.
 
@@ -241,7 +241,7 @@ El comercio globalizado demanda la armonización de estándares técnicos, ambie
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.75
 **Contexto:** En la provincia de Limón, la modernización de la terminal de contenedores de Moín mediante una concesión a una empresa transnacional holandesa aumentó la velocidad de carga y descarga de barcos, pero también generó un fuerte debate sobre las tarifas de servicios portuarios locales.
 
@@ -265,7 +265,7 @@ La modernización mediante capital privado transnacional e infraestructura logí
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento reflexivo - MEP
+**EJE:** Pensamiento reflexivo - MEP
 **Expected_Success:** 0.65
 **Contexto:** Andrés, estudiante en San José, utiliza un teléfono inteligente diseñado en California, fabricado con minerales del Congo, ensamblado en China, comprado mediante comercio electrónico y pagado con una tarjeta de crédito internacional.
 
@@ -289,7 +289,7 @@ Los objetos de consumo de alta tecnología sintetizan el carácter global de la 
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un incremento brusco en el precio del petróleo crudo en el mercado de Londres eleva de forma inmediata las tarifas de fletes, el diésel, las gasolinas y el precio de la canasta básica familiar en el territorio nacional de Costa Rica.
 
@@ -313,7 +313,7 @@ Costa Rica, al carecer de producción de petróleo y tener una matriz de transpo
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Interpretacion y analisis - MEP
+**EJE:** Interpretacion y analisis - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un analista de la Universidad de Costa Rica argumenta que la inserción de la economía nacional en las cadenas de valor globales ha generado una dualidad productiva: un sector de servicios sofisticados en zonas francas con salarios altos, y otro de baja productividad local con salarios estancados e informalidad.
 
@@ -337,7 +337,7 @@ La inserción en la globalización mediante la atracción selectiva de capital g
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Interpretacion y analisis - MEP
+**EJE:** Interpretacion y analisis - MEP
 **Expected_Success:** 0.65
 **Contexto:** Postura 1: 'La atracción de empresas globales ha sido clave para reducir la dependencia de exportaciones agrícolas tradicionales (café y banano) y diversificar la oferta con dispositivos médicos de alto valor tecnológico'.
 Postura 2: 'La excesiva concentración de incentivos tributarios en zonas francas beneficia a corporaciones transnacionales que repatrian sus ganancias, mientras el fisco costarricense pierde ingresos valiosos para financiar servicios públicos'.
@@ -362,7 +362,7 @@ El debate nacional en torno a la globalización costarricense muestra que la ape
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento reflexivo - MEP
+**EJE:** Pensamiento reflexivo - MEP
 **Expected_Success:** 0.65
 **Contexto:** Como medida ecológica, colectivos de consumidores en la Unión Europea exigen a las grandes cadenas de supermercados el fomento exclusivo de alimentos de 'kilómetro cero', reduciendo de forma voluntaria la compra de frutas cultivadas en continentes lejanos.
 
@@ -386,7 +386,7 @@ El modelo agroexportador costarricense depende directamente de los hábitos de c
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.65
 **Contexto:** El ingreso y popularización de plataformas digitales globales de intermediación (transporte, hospedaje, entregas a domicilio) en la Gran Área Metropolitana (GAM) de Costa Rica desató intensas protestas de sectores gremiales y comerciales tradicionales.
 
@@ -410,7 +410,7 @@ El surgimiento de la economía de plataformas digitales supera la velocidad de a
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento reflexivo - MEP
+**EJE:** Pensamiento reflexivo - MEP
 **Expected_Success:** 0.55
 **Contexto:** A pesar del robusto crecimiento macroeconómico de Costa Rica en las últimas décadas, impulsado por exportaciones de alta tecnología y servicios avanzados de zonas francas, los índices oficiales muestran que la pobreza se estanca en torno al 20% y el desempleo informal sigue elevado.
 
@@ -434,7 +434,7 @@ El análisis crítico del desarrollo costarricense evidencia que el éxito expor
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.55
 **Contexto:** Costa Rica lidera internacionalmente la retórica de protección ecológica mediante su exitoso modelo de parques nacionales, biodiversidad y el Pago de Servicios Ambientales (PSA). Simultáneamente, el país importa cantidades masivas de agroquímicos y registra un uso intensivo de plaguicidas por hectárea en plantaciones piñeras y bananeras de exportación.
 
@@ -458,7 +458,7 @@ Esta contradicción ambiental costarricense ilustra los límites y presiones de 
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento reflexivo - MEP
+**EJE:** Pensamiento reflexivo - MEP
 **Expected_Success:** 0.55
 **Contexto:** La discusión en el Congreso costarricense sobre la ratificación del Acuerdo de Escazú reveló profundas divisiones. Mientras sectores académicos, de derechos humanos y ecologistas urgían su aprobación para resguardar defensores de la naturaleza, cámaras empresariales costarricenses alertaron que su adopción generaría inseguridad jurídica y ahuyentaría la inversión privada.
 
@@ -482,7 +482,7 @@ La tensión sobre el Acuerdo de Escazú en Costa Rica evidencia cómo los compro
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento social - MEP
+**EJE:** Pensamiento social - MEP
 **Expected_Success:** 0.55
 **Contexto:** Durante la crisis por el COVID-19, Costa Rica, a pesar de sus denodados esfuerzos diplomáticos y financieros, debió esperar meses para recibir dosis de vacunas debido a que los países ricos concentraron de antemano el grueso de la producción de laboratorios multinacionales mediante compras anticipadas masivas.
 

@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Cartago, el ciudadano Carlos asiste a un panel organizado en la comunidad sobre el impacto de la desregulación arancelaria y los aranceles de exportación de plantas en Cartago. Durante la charla, se destaca la influencia directa de Organización Mundial del Comercio (OMC).
 
@@ -48,7 +48,7 @@ La discusión sobre la desregulación arancelaria y los aranceles de exportació
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Heredia, el ciudadano don Guillermo asiste a un panel organizado en la comunidad sobre el impacto de el plan de ajuste fiscal y créditos de contingencia en San José. Durante la charla, se destaca la influencia directa de Fondo Monetario Internacional (FMI).
 
@@ -72,7 +72,7 @@ La discusión sobre el plan de ajuste fiscal y créditos de contingencia en San 
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Liberia, Javier evalúa una infografía detallada de proyectos de infraestructura portuaria y vial en Limón. El gráfico muestra la movilización de capitales de ₡4.500.000.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Banco Mundial y las finanzas costarricenses deve
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Puntarenas, Sofía evalúa una infografía detallada de la promoción de productos agrícolas no tradicionales de la Zona Norte. El gráfico muestra la movilización de capitales de ₡12.000.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre PROCOMER (Promotora del Comercio Exterior) y las
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Limón, Tatiana evalúa una infografía detallada de la desgravación de carne de cerdo y lácteos desde Norteamérica en fincas de Alajuela. El gráfico muestra la movilización de capitales de ₡8.500.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Tratados de Libre Comercio (TLC) y las finanzas 
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Pérez Zeledón, Randall evalúa una infografía detallada de el control aduanero en aduanas terrestres y marítimas. El gráfico muestra la movilización de capitales de ₡2.000.000.000.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Evasión fiscal corporativa y las finanzas costa
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en San José liderada por Keylor busca financiamiento o acreditación bajo el marco de Comercio justo por una suma estimada de ₡25.000.000 para potenciar la exportación de café orgánico por cooperativas de Pérez Zeledón.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Comercio justo demanda la traducción prá
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Alajuela liderada por Andrés busca financiamiento o acreditación bajo el marco de Inversión Extranjera Directa (IED) por una suma estimada de ₡500.000.000 para potenciar la instalación de parques industriales y manufactura médica en El Guarco de Cartago.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Inversión Extranjera Directa (IED) demand
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Cartago liderada por doña Marta busca financiamiento o acreditación bajo el marco de Organización Mundial del Comercio (OMC) por una suma estimada de ₡15.000.000 para potenciar la desregulación arancelaria y los aranceles de exportación de plantas en Cartago.
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Organización Mundial del Comercio (OMC) d
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Heredia liderada por don Gerardo busca financiamiento o acreditación bajo el marco de Fondo Monetario Internacional (FMI) por una suma estimada de ₡80.000.000.000 para potenciar el plan de ajuste fiscal y créditos de contingencia en San José.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Fondo Monetario Internacional (FMI) demand
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Banco Mundial por una suma estimada de ₡4.500.000.000 para potenciar proyectos de infraestructura portuaria y vial en Limón.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Banco Mundial demanda la traducción prác
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Puntarenas liderada por Elena busca financiamiento o acreditación bajo el marco de PROCOMER (Promotora del Comercio Exterior) por una suma estimada de ₡12.000.000 para potenciar la promoción de productos agrícolas no tradicionales de la Zona Norte.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo PROCOMER (Promotora del Comercio Exterior)
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Limón analiza de manera exhaustiva el impacto de la desgravación de carne de cerdo y lácteos desde Norteamérica en fincas de Alajuela. Los participantes señalan que el flujo de recursos de ₡8.500.000 ha beneficiado a algunos sectores pero ha desatendido competencia agrícola.
 
@@ -336,7 +336,7 @@ El análisis crítico de la desgravación de carne de cerdo y lácteos desde Nor
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Pérez Zeledón analiza de manera exhaustiva el impacto de el control aduanero en aduanas terrestres y marítimas. Los participantes señalan que el flujo de recursos de ₡2.000.000.000 ha beneficiado a algunos sectores pero ha desatendido recaudación fiscal.
 
@@ -360,7 +360,7 @@ El análisis crítico de el control aduanero en aduanas terrestres y marítimas 
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en San José analiza de manera exhaustiva el impacto de la exportación de café orgánico por cooperativas de Pérez Zeledón. Los participantes señalan que el flujo de recursos de ₡25.000.000 ha beneficiado a algunos sectores pero ha desatendido equidad comercial.
 
@@ -384,7 +384,7 @@ El análisis crítico de la exportación de café orgánico por cooperativas de 
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Alajuela analiza de manera exhaustiva el impacto de la instalación de parques industriales y manufactura médica en El Guarco de Cartago. Los participantes señalan que el flujo de recursos de ₡500.000.000 ha beneficiado a algunos sectores pero ha desatendido atracción de capital.
 
@@ -408,7 +408,7 @@ El análisis crítico de la instalación de parques industriales y manufactura m
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Cartago, integrada por Randall, revisa los indicadores de desarrollo de la desregulación arancelaria y los aranceles de exportación de plantas en Cartago y los aportes de Organización Mundial del Comercio (OMC) estimados en ₡15.000.000.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Organización Mundial del Comercio (OMC) 
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Heredia, integrada por Karla, revisa los indicadores de desarrollo de el plan de ajuste fiscal y créditos de contingencia en San José y los aportes de Fondo Monetario Internacional (FMI) estimados en ₡80.000.000.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Fondo Monetario Internacional (FMI) demue
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Liberia, integrada por Randall, revisa los indicadores de desarrollo de proyectos de infraestructura portuaria y vial en Limón y los aportes de Banco Mundial estimados en ₡4.500.000.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Banco Mundial demuestra que se requiere u
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Comercio Internacional y Organizaciones - MEP
+**EJE:** Comercio Internacional y Organizaciones - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Puntarenas, integrada por Randall, revisa los indicadores de desarrollo de la promoción de productos agrícolas no tradicionales de la Zona Norte y los aportes de PROCOMER (Promotora del Comercio Exterior) estimados en ₡12.000.000.
 

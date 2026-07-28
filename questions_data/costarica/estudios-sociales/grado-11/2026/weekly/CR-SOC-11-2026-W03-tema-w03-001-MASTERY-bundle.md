@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Heredia, el ciudadano don Guillermo asiste a un panel organizado en la comunidad sobre el impacto de el ensamblaje y testeo de microprocesadores en Belén de Heredia. Durante la charla, se destaca la influencia directa de Empresa transnacional de tecnología (Intel).
 
@@ -48,7 +48,7 @@ La discusión sobre el ensamblaje y testeo de microprocesadores en Belén de Her
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Liberia, el ciudadano Javier asiste a un panel organizado en la comunidad sobre el impacto de el empleo bilingüe para soporte informático en San Pedro de Montes de Oca. Durante la charla, se destaca la influencia directa de Call centers y soporte técnico (Amazon).
 
@@ -72,7 +72,7 @@ La discusión sobre el empleo bilingüe para soporte informático en San Pedro d
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Puntarenas, Sofía evalúa una infografía detallada de el régimen tributario especial y la exención del impuesto sobre la renta. El gráfico muestra la movilización de capitales de ₡3.200.000.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Zonas Francas (Coyol de Alajuela) y las finanzas
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Limón, Tatiana evalúa una infografía detallada de la proveeduría de empaques por pymes locales de Cartago a transnacionales médicas. El gráfico muestra la movilización de capitales de ₡45.000.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre Encadenamientos productivos y las finanzas costa
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Pérez Zeledón, Randall evalúa una infografía detallada de el flujo de divisas y ganancias desde filiales en San José hacia casas matrices en Europa. El gráfico muestra la movilización de capitales de ₡1.500.000.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Repatriación de utilidades y las finanzas costa
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de San José, Keylor evalúa una infografía detallada de las decisiones de inversión tomadas en centros financieros mundiales que impactan a Heredia. El gráfico muestra la movilización de capitales de ₡50.000.000.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Ciudades globales (Nueva York, Londres) y las fi
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Alajuela liderada por Andrés busca financiamiento o acreditación bajo el marco de Responsabilidad social empresarial por una suma estimada de ₡18.000.000 para potenciar los programas de reforestación financiados por transnacionales en Puntarenas.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Responsabilidad social empresarial demanda
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Cartago liderada por doña Marta busca financiamiento o acreditación bajo el marco de Transferencia de tecnología por una suma estimada de ₡120.000.000 para potenciar la capacitación especializada de ingenieros costarricenses en robótica industrial.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Transferencia de tecnología demanda la tr
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Heredia liderada por don Gerardo busca financiamiento o acreditación bajo el marco de Empresa transnacional de tecnología (Intel) por una suma estimada de ₡250.000.000 para potenciar el ensamblaje y testeo de microprocesadores en Belén de Heredia.
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Empresa transnacional de tecnología (Inte
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Call centers y soporte técnico (Amazon) por una suma estimada de ₡1.200.000 para potenciar el empleo bilingüe para soporte informático en San Pedro de Montes de Oca.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Call centers y soporte técnico (Amazon) d
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Puntarenas liderada por Elena busca financiamiento o acreditación bajo el marco de Zonas Francas (Coyol de Alajuela) por una suma estimada de ₡3.200.000.000 para potenciar el régimen tributario especial y la exención del impuesto sobre la renta.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Zonas Francas (Coyol de Alajuela) demanda 
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Limón liderada por Randall busca financiamiento o acreditación bajo el marco de Encadenamientos productivos por una suma estimada de ₡45.000.000 para potenciar la proveeduría de empaques por pymes locales de Cartago a transnacionales médicas.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo Encadenamientos productivos demanda la tra
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Pérez Zeledón analiza de manera exhaustiva el impacto de el flujo de divisas y ganancias desde filiales en San José hacia casas matrices en Europa. Los participantes señalan que el flujo de recursos de ₡1.500.000.000 ha beneficiado a algunos sectores pero ha desatendido fuga de capitales.
 
@@ -336,7 +336,7 @@ El análisis crítico de el flujo de divisas y ganancias desde filiales en San J
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en San José analiza de manera exhaustiva el impacto de las decisiones de inversión tomadas en centros financieros mundiales que impactan a Heredia. Los participantes señalan que el flujo de recursos de ₡50.000.000 ha beneficiado a algunos sectores pero ha desatendido hegemonía económica.
 
@@ -360,7 +360,7 @@ El análisis crítico de las decisiones de inversión tomadas en centros financi
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Alajuela analiza de manera exhaustiva el impacto de los programas de reforestación financiados por transnacionales en Puntarenas. Los participantes señalan que el flujo de recursos de ₡18.000.000 ha beneficiado a algunos sectores pero ha desatendido compromiso ambiental.
 
@@ -384,7 +384,7 @@ El análisis crítico de los programas de reforestación financiados por transna
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Cartago analiza de manera exhaustiva el impacto de la capacitación especializada de ingenieros costarricenses en robótica industrial. Los participantes señalan que el flujo de recursos de ₡120.000.000 ha beneficiado a algunos sectores pero ha desatendido desarrollo técnico.
 
@@ -408,7 +408,7 @@ El análisis crítico de la capacitación especializada de ingenieros costarrice
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Heredia, integrada por Karla, revisa los indicadores de desarrollo de el ensamblaje y testeo de microprocesadores en Belén de Heredia y los aportes de Empresa transnacional de tecnología (Intel) estimados en ₡250.000.000.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Empresa transnacional de tecnología (Int
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Liberia, integrada por Randall, revisa los indicadores de desarrollo de el empleo bilingüe para soporte informático en San Pedro de Montes de Oca y los aportes de Call centers y soporte técnico (Amazon) estimados en ₡1.200.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Call centers y soporte técnico (Amazon) 
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Puntarenas, integrada por Randall, revisa los indicadores de desarrollo de el régimen tributario especial y la exención del impuesto sobre la renta y los aportes de Zonas Francas (Coyol de Alajuela) estimados en ₡3.200.000.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Zonas Francas (Coyol de Alajuela) demuest
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Empresas Transnacionales y Ciudades Globales - MEP
+**EJE:** Empresas Transnacionales y Ciudades Globales - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Limón, integrada por Randall, revisa los indicadores de desarrollo de la proveeduría de empaques por pymes locales de Cartago a transnacionales médicas y los aportes de Encadenamientos productivos estimados en ₡45.000.000.
 

@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Pérez Zeledón, el ciudadano Randall asiste a un panel organizado en la comunidad sobre el impacto de la proliferación de cadenas de comida rápida estadounidense en los centros comerciales de Heredia. Durante la charla, se destaca la influencia directa de Homogeneización cultural.
 
@@ -48,7 +48,7 @@ La discusión sobre la proliferación de cadenas de comida rápida estadounidens
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.85
 **Contexto:** En San José, el ciudadano Keylor asiste a un panel organizado en la comunidad sobre el impacto de los esfuerzos por enseñar y revitalizar el idioma Bribri en centros educativos de Talamanca. Durante la charla, se destaca la influencia directa de Preservación de lenguas indígenas.
 
@@ -72,7 +72,7 @@ La discusión sobre los esfuerzos por enseñar y revitalizar el idioma Bribri en
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Alajuela, Andrés evalúa una infografía detallada de la fusión de ritmos musicales tradicionales costarricenses con música urbana global por parte de jóvenes. El gráfico muestra la movilización de capitales de ₡2.500.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Hibridación cultural y las finanzas costarricen
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Cartago, doña Marta evalúa una infografía detallada de el debate en escuelas de Cartago entre celebrar la noche de Halloween o el Día de la Mascarada Tradicional Costarricense. El gráfico muestra la movilización de capitales de ₡35.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre Tradición vs Consumo global y las finanzas cost
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Heredia, don Gerardo evalúa una infografía detallada de la escenificación de danzas folclóricas descontextualizadas para turistas extranjeros en grandes resorts de Guanacaste. El gráfico muestra la movilización de capitales de ₡450.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Turismo y mercantilización cultural y las finan
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Liberia, Randall evalúa una infografía detallada de la hegemonía de las megaproducciones de Hollywood en cines nacionales frente a las producciones de cine independiente tico. El gráfico muestra la movilización de capitales de ₡4.500.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Consumo de cine global y las finanzas costarrice
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Puntarenas liderada por Elena busca financiamiento o acreditación bajo el marco de Identidades juveniles globales por una suma estimada de ₡85.000 para potenciar la adopción del fenómeno de la música K-Pop y subculturas asiáticas por jóvenes en San José.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Identidades juveniles globales demanda la 
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Limón liderada por Randall busca financiamiento o acreditación bajo el marco de Patrimonio gastronómico local por una suma estimada de ₡8.000 para potenciar la declaración de las ferias del agricultor como baluartes de la soberanía alimentaria y nutrición tradicional tica.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Patrimonio gastronómico local demanda la 
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Pérez Zeledón liderada por Mariela busca financiamiento o acreditación bajo el marco de Homogeneización cultural por una suma estimada de ₡12.000 para potenciar la proliferación de cadenas de comida rápida estadounidense en los centros comerciales de Heredia.
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Homogeneización cultural demanda la tradu
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en San José liderada por don Fernando busca financiamiento o acreditación bajo el marco de Preservación de lenguas indígenas por una suma estimada de ₡15.000.000 para potenciar los esfuerzos por enseñar y revitalizar el idioma Bribri en centros educativos de Talamanca.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Preservación de lenguas indígenas demand
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Alajuela liderada por Esteban busca financiamiento o acreditación bajo el marco de Hibridación cultural por una suma estimada de ₡2.500.000 para potenciar la fusión de ritmos musicales tradicionales costarricenses con música urbana global por parte de jóvenes.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Hibridación cultural demanda la traducci�
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Cartago liderada por Randall busca financiamiento o acreditación bajo el marco de Tradición vs Consumo global por una suma estimada de ₡35.000 para potenciar el debate en escuelas de Cartago entre celebrar la noche de Halloween o el Día de la Mascarada Tradicional Costarricense.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo Tradición vs Consumo global demanda la tr
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Heredia analiza de manera exhaustiva el impacto de la escenificación de danzas folclóricas descontextualizadas para turistas extranjeros en grandes resorts de Guanacaste. Los participantes señalan que el flujo de recursos de ₡450.000 ha beneficiado a algunos sectores pero ha desatendido folclor comercial.
 
@@ -336,7 +336,7 @@ El análisis crítico de la escenificación de danzas folclóricas descontextual
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Liberia analiza de manera exhaustiva el impacto de la hegemonía de las megaproducciones de Hollywood en cines nacionales frente a las producciones de cine independiente tico. Los participantes señalan que el flujo de recursos de ₡4.500 ha beneficiado a algunos sectores pero ha desatendido soberanía audiovisual.
 
@@ -360,7 +360,7 @@ El análisis crítico de la hegemonía de las megaproducciones de Hollywood en c
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Puntarenas analiza de manera exhaustiva el impacto de la adopción del fenómeno de la música K-Pop y subculturas asiáticas por jóvenes en San José. Los participantes señalan que el flujo de recursos de ₡85.000 ha beneficiado a algunos sectores pero ha desatendido socialización digital.
 
@@ -384,7 +384,7 @@ El análisis crítico de la adopción del fenómeno de la música K-Pop y subcul
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Limón analiza de manera exhaustiva el impacto de la declaración de las ferias del agricultor como baluartes de la soberanía alimentaria y nutrición tradicional tica. Los participantes señalan que el flujo de recursos de ₡8.000 ha beneficiado a algunos sectores pero ha desatendido resistencia cultural.
 
@@ -408,7 +408,7 @@ El análisis crítico de la declaración de las ferias del agricultor como balua
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Pérez Zeledón, integrada por Randall, revisa los indicadores de desarrollo de la proliferación de cadenas de comida rápida estadounidense en los centros comerciales de Heredia y los aportes de Homogeneización cultural estimados en ₡12.000.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Homogeneización cultural demuestra que s
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en San José, integrada por Randall, revisa los indicadores de desarrollo de los esfuerzos por enseñar y revitalizar el idioma Bribri en centros educativos de Talamanca y los aportes de Preservación de lenguas indígenas estimados en ₡15.000.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Preservación de lenguas indígenas demue
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Alajuela, integrada por Shirley, revisa los indicadores de desarrollo de la fusión de ritmos musicales tradicionales costarricenses con música urbana global por parte de jóvenes y los aportes de Hibridación cultural estimados en ₡2.500.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Hibridación cultural demuestra que se re
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Convergencia y Divergencia Cultural - MEP
+**EJE:** Convergencia y Divergencia Cultural - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Cartago, integrada por Carlos, revisa los indicadores de desarrollo de el debate en escuelas de Cartago entre celebrar la noche de Halloween o el Día de la Mascarada Tradicional Costarricense y los aportes de Tradición vs Consumo global estimados en ₡35.000.
 

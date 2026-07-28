@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Liberia, el ciudadano Javier asiste a un panel organizado en la comunidad sobre el impacto de la medición de la desigualdad de ingresos en la Gran Área Metropolitana (GAM). Durante la charla, se destaca la influencia directa de Coeficiente de Gini.
 
@@ -48,7 +48,7 @@ La discusión sobre la medición de la desigualdad de ingresos en la Gran Área 
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Puntarenas, el ciudadano Sofía asiste a un panel organizado en la comunidad sobre el impacto de el acceso limitado a conectividad y computadoras en territorios indígenas de Talamanca. Durante la charla, se destaca la influencia directa de Brecha digital.
 
@@ -72,7 +72,7 @@ La discusión sobre el acceso limitado a conectividad y computadoras en territor
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Limón, Tatiana evalúa una infografía detallada de la precarización de condiciones de trabajadores de limpieza y seguridad en oficinas de San José. El gráfico muestra la movilización de capitales de ₡350.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Subcontratación laboral (outsourcing) y las fin
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Pérez Zeledón, Randall evalúa una infografía detallada de la escasez de opciones de empleo calificado en zonas rurales de la provincia de Puntarenas. El gráfico muestra la movilización de capitales de ₡400.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre Desigualdad regional (GAM vs Periferia) y las fi
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de San José, Keylor evalúa una infografía detallada de la admisión y asignación de becas para estudiantes de colegios públicos en la Universidad de Costa Rica. El gráfico muestra la movilización de capitales de ₡2.500.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Acceso a educación superior y las finanzas cost
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Alajuela, Andrés evalúa una infografía detallada de el autoempleo y las ventas ambulantes en el centro urbano de Alajuela sin cobertura de la CCSS. El gráfico muestra la movilización de capitales de ₡280.000.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Informalidad laboral y las finanzas costarricens
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Cartago liderada por doña Marta busca financiamiento o acreditación bajo el marco de Regresividad del sistema tributario por una suma estimada de ₡45.000 para potenciar el impacto del Impuesto al Valor Agregado (IVA) en las familias de menores ingresos en Guanacaste.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Regresividad del sistema tributario demand
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Heredia liderada por don Gerardo busca financiamiento o acreditación bajo el marco de Seguridad alimentaria por una suma estimada de ₡120.000 para potenciar la vulnerabilidad alimentaria de pequeños parceleros de la Zona Sur ante la importación de granos básicos baratos.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Seguridad alimentaria demanda la traducci�
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Coeficiente de Gini por una suma estimada de 0.51 para potenciar la medición de la desigualdad de ingresos en la Gran Área Metropolitana (GAM).
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Coeficiente de Gini demanda la traducción
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Puntarenas liderada por Elena busca financiamiento o acreditación bajo el marco de Brecha digital por una suma estimada de ₡30.000.000 para potenciar el acceso limitado a conectividad y computadoras en territorios indígenas de Talamanca.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Brecha digital demanda la traducción prá
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Limón liderada por Randall busca financiamiento o acreditación bajo el marco de Subcontratación laboral (outsourcing) por una suma estimada de ₡350.000 para potenciar la precarización de condiciones de trabajadores de limpieza y seguridad en oficinas de San José.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Subcontratación laboral (outsourcing) dem
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Pérez Zeledón liderada por Mariela busca financiamiento o acreditación bajo el marco de Desigualdad regional (GAM vs Periferia) por una suma estimada de ₡400.000 para potenciar la escasez de opciones de empleo calificado en zonas rurales de la provincia de Puntarenas.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo Desigualdad regional (GAM vs Periferia) de
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en San José analiza de manera exhaustiva el impacto de la admisión y asignación de becas para estudiantes de colegios públicos en la Universidad de Costa Rica. Los participantes señalan que el flujo de recursos de ₡2.500.000 ha beneficiado a algunos sectores pero ha desatendido movilidad social.
 
@@ -336,7 +336,7 @@ El análisis crítico de la admisión y asignación de becas para estudiantes de
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Alajuela analiza de manera exhaustiva el impacto de el autoempleo y las ventas ambulantes en el centro urbano de Alajuela sin cobertura de la CCSS. Los participantes señalan que el flujo de recursos de ₡280.000 ha beneficiado a algunos sectores pero ha desatendido seguridad social.
 
@@ -360,7 +360,7 @@ El análisis crítico de el autoempleo y las ventas ambulantes en el centro urba
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Cartago analiza de manera exhaustiva el impacto de el impacto del Impuesto al Valor Agregado (IVA) en las familias de menores ingresos en Guanacaste. Los participantes señalan que el flujo de recursos de ₡45.000 ha beneficiado a algunos sectores pero ha desatendido equidad tributaria.
 
@@ -384,7 +384,7 @@ El análisis crítico de el impacto del Impuesto al Valor Agregado (IVA) en las 
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Heredia analiza de manera exhaustiva el impacto de la vulnerabilidad alimentaria de pequeños parceleros de la Zona Sur ante la importación de granos básicos baratos. Los participantes señalan que el flujo de recursos de ₡120.000 ha beneficiado a algunos sectores pero ha desatendido soberanía alimentaria.
 
@@ -408,7 +408,7 @@ El análisis crítico de la vulnerabilidad alimentaria de pequeños parceleros d
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Liberia, integrada por Randall, revisa los indicadores de desarrollo de la medición de la desigualdad de ingresos en la Gran Área Metropolitana (GAM) y los aportes de Coeficiente de Gini estimados en 0.51.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Coeficiente de Gini demuestra que se requ
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Puntarenas, integrada por Randall, revisa los indicadores de desarrollo de el acceso limitado a conectividad y computadoras en territorios indígenas de Talamanca y los aportes de Brecha digital estimados en ₡30.000.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Brecha digital demuestra que se requiere 
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Limón, integrada por Randall, revisa los indicadores de desarrollo de la precarización de condiciones de trabajadores de limpieza y seguridad en oficinas de San José y los aportes de Subcontratación laboral (outsourcing) estimados en ₡350.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Subcontratación laboral (outsourcing) de
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Desigualdad en un Mundo Globalizado - MEP
+**EJE:** Desigualdad en un Mundo Globalizado - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Pérez Zeledón, integrada por Randall, revisa los indicadores de desarrollo de la escasez de opciones de empleo calificado en zonas rurales de la provincia de Puntarenas y los aportes de Desigualdad regional (GAM vs Periferia) estimados en ₡400.000.
 

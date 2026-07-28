@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Alajuela, el ciudadano Andrés asiste a un panel organizado en la comunidad sobre el impacto de el aumento del precio internacional de los fertilizantes nitrogenados que golpea a agricultores de Cartago. Durante la charla, se destaca la influencia directa de Guerra de Ucrania y costos agrícolas.
 
@@ -48,7 +48,7 @@ La discusión sobre el aumento del precio internacional de los fertilizantes nit
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Cartago, el ciudadano doña Marta asiste a un panel organizado en la comunidad sobre el impacto de el desabastecimiento de componentes electrónicos para la manufactura de equipos médicos en zonas francas. Durante la charla, se destaca la influencia directa de Guerra comercial EE. UU.-China.
 
@@ -72,7 +72,7 @@ La discusión sobre el desabastecimiento de componentes electrónicos para la ma
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Heredia, don Gerardo evalúa una infografía detallada de los conflictos fronterizos latentes por el uso de aguas fluviales comunes en cuencas de América Central. El gráfico muestra la movilización de capitales de ₡500.000.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Tensiones por recursos hídricos y las finanzas 
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Liberia, Randall evalúa una infografía detallada de el sabotaje digital a sistemas críticos de aduanas costarricenses atribuido a agrupaciones extranjeras de ciberdelincuencia. El gráfico muestra la movilización de capitales de ₡12.000.000.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre Ciberguerra y hackeos políticos y las finanzas 
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Puntarenas, Elena evalúa una infografía detallada de la proclama histórica de neutralidad de 1983 dictada por el gobierno de Luis Alberto Monge ante tensiones regionales. El gráfico muestra la movilización de capitales de ₡1.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Neutralidad activa de Costa Rica y las finanzas 
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Limón, Randall evalúa una infografía detallada de el rol mediador de Costa Rica liderado por Óscar Arias para pacificar Centroamérica en la década de 1980. El gráfico muestra la movilización de capitales de ₡1.000.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Esquipulas II y el pacifismo tico y las finanzas
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Pérez Zeledón liderada por Mariela busca financiamiento o acreditación bajo el marco de Refugiados por crisis climática por una suma estimada de ₡350.000 para potenciar el aumento de flujos humanos en Centroamérica debido a sequías prolongadas en el corredor seco centroamericano.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Refugiados por crisis climática demanda l
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en San José liderada por don Fernando busca financiamiento o acreditación bajo el marco de Posturas diplomáticas en la ONU por una suma estimada de ₡1.000 para potenciar el voto de Costa Rica en la Asamblea General de la ONU condenando agresiones territoriales y el uso de la fuerza.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Posturas diplomáticas en la ONU demanda l
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Alajuela liderada por Esteban busca financiamiento o acreditación bajo el marco de Guerra de Ucrania y costos agrícolas por una suma estimada de ₡220.000 para potenciar el aumento del precio internacional de los fertilizantes nitrogenados que golpea a agricultores de Cartago.
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Guerra de Ucrania y costos agrícolas dema
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Cartago liderada por Randall busca financiamiento o acreditación bajo el marco de Guerra comercial EE. UU.-China por una suma estimada de ₡8.000.000 para potenciar el desabastecimiento de componentes electrónicos para la manufactura de equipos médicos en zonas francas.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Guerra comercial EE. UU.-China demanda la 
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Heredia liderada por Karla busca financiamiento o acreditación bajo el marco de Tensiones por recursos hídricos por una suma estimada de ₡500.000.000 para potenciar los conflictos fronterizos latentes por el uso de aguas fluviales comunes en cuencas de América Central.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Tensiones por recursos hídricos demanda l
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Ciberguerra y hackeos políticos por una suma estimada de ₡12.000.000.000 para potenciar el sabotaje digital a sistemas críticos de aduanas costarricenses atribuido a agrupaciones extranjeras de ciberdelincuencia.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo Ciberguerra y hackeos políticos demanda l
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Puntarenas analiza de manera exhaustiva el impacto de la proclama histórica de neutralidad de 1983 dictada por el gobierno de Luis Alberto Monge ante tensiones regionales. Los participantes señalan que el flujo de recursos de ₡1.000 ha beneficiado a algunos sectores pero ha desatendido política diplomática.
 
@@ -336,7 +336,7 @@ El análisis crítico de la proclama histórica de neutralidad de 1983 dictada p
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Limón analiza de manera exhaustiva el impacto de el rol mediador de Costa Rica liderado por Óscar Arias para pacificar Centroamérica en la década de 1980. Los participantes señalan que el flujo de recursos de ₡1.000 ha beneficiado a algunos sectores pero ha desatendido diplomacia de paz.
 
@@ -360,7 +360,7 @@ El análisis crítico de el rol mediador de Costa Rica liderado por Óscar Arias
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Pérez Zeledón analiza de manera exhaustiva el impacto de el aumento de flujos humanos en Centroamérica debido a sequías prolongadas en el corredor seco centroamericano. Los participantes señalan que el flujo de recursos de ₡350.000 ha beneficiado a algunos sectores pero ha desatendido vulnerabilidad ambiental.
 
@@ -384,7 +384,7 @@ El análisis crítico de el aumento de flujos humanos en Centroamérica debido a
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en San José analiza de manera exhaustiva el impacto de el voto de Costa Rica en la Asamblea General de la ONU condenando agresiones territoriales y el uso de la fuerza. Los participantes señalan que el flujo de recursos de ₡1.000 ha beneficiado a algunos sectores pero ha desatendido derecho internacional público.
 
@@ -408,7 +408,7 @@ El análisis crítico de el voto de Costa Rica en la Asamblea General de la ONU 
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Alajuela, integrada por Shirley, revisa los indicadores de desarrollo de el aumento del precio internacional de los fertilizantes nitrogenados que golpea a agricultores de Cartago y los aportes de Guerra de Ucrania y costos agrícolas estimados en ₡220.000.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Guerra de Ucrania y costos agrícolas dem
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Cartago, integrada por Carlos, revisa los indicadores de desarrollo de el desabastecimiento de componentes electrónicos para la manufactura de equipos médicos en zonas francas y los aportes de Guerra comercial EE. UU.-China estimados en ₡8.000.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Guerra comercial EE. UU.-China demuestra 
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Heredia, integrada por don Guillermo, revisa los indicadores de desarrollo de los conflictos fronterizos latentes por el uso de aguas fluviales comunes en cuencas de América Central y los aportes de Tensiones por recursos hídricos estimados en ₡500.000.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Tensiones por recursos hídricos demuestr
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Conflictos Internacionales Actuales - MEP
+**EJE:** Conflictos Internacionales Actuales - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Liberia, integrada por Javier, revisa los indicadores de desarrollo de el sabotaje digital a sistemas críticos de aduanas costarricenses atribuido a agrupaciones extranjeras de ciberdelincuencia y los aportes de Ciberguerra y hackeos políticos estimados en ₡12.000.000.000.
 

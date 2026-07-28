@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.85
 **Contexto:** En San José, el ciudadano Keylor asiste a un panel organizado en la comunidad sobre el impacto de la llegada de recolectores para las cosechas de café y caña de azúcar en la Zona de los Santos. Durante la charla, se destaca la influencia directa de Migración nicaragüense transitoria.
 
@@ -48,7 +48,7 @@ La discusión sobre la llegada de recolectores para las cosechas de café y cañ
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Alajuela, el ciudadano Andrés asiste a un panel organizado en la comunidad sobre el impacto de el paso de migrantes de diversas nacionalidades por la frontera sur en Paso Canoas rumbo a los Estados Unidos. Durante la charla, se destaca la influencia directa de Flujos migratorios de tránsito.
 
@@ -72,7 +72,7 @@ La discusión sobre el paso de migrantes de diversas nacionalidades por la front
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Cartago, doña Marta evalúa una infografía detallada de la emigración de científicos y programadores costarricenses formados en universidades públicas hacia laboratorios en Europa. El gráfico muestra la movilización de capitales de ₡3.500.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Fuga de cerebros costarricenses y las finanzas c
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Heredia, don Gerardo evalúa una infografía detallada de las políticas del MEP para garantizar la matrícula escolar de niños migrantes sin importar su estatus legal. El gráfico muestra la movilización de capitales de ₡120.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre Integración de estudiantes extranjeros y las fi
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Liberia, Randall evalúa una infografía detallada de el envío de dinero desde San José por trabajadores extranjeros para el sustento de sus familias en sus países de origen. El gráfico muestra la movilización de capitales de ₡150.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Remesas familiares y las finanzas costarricenses
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Puntarenas, Elena evalúa una infografía detallada de el estatus especial otorgado a profesionales perseguidos políticos que se asientan y aportan profesionalmente en Costa Rica. El gráfico muestra la movilización de capitales de ₡600.000.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Refugiados y asilo político y las finanzas cost
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Limón liderada por Randall busca financiamiento o acreditación bajo el marco de Acceso a la seguridad social de migrantes por una suma estimada de ₡45.000 para potenciar el aseguramiento de recolectores de café extranjeros en clínicas de la CCSS mediante convenios de cooperativas.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Acceso a la seguridad social de migrantes 
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Pérez Zeledón liderada por Mariela busca financiamiento o acreditación bajo el marco de Xenofobia y discursos de odio por una suma estimada de ₡25.000 para potenciar la difusión de noticias falsas en redes sociales sobre supuestos privilegios de migrantes en programas de ayuda social ticos.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Xenofobia y discursos de odio demanda la t
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en San José liderada por don Fernando busca financiamiento o acreditación bajo el marco de Migración nicaragüense transitoria por una suma estimada de ₡450.000 para potenciar la llegada de recolectores para las cosechas de café y caña de azúcar en la Zona de los Santos.
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Migración nicaragüense transitoria deman
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Alajuela liderada por Esteban busca financiamiento o acreditación bajo el marco de Flujos migratorios de tránsito por una suma estimada de ₡50.000 para potenciar el paso de migrantes de diversas nacionalidades por la frontera sur en Paso Canoas rumbo a los Estados Unidos.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Flujos migratorios de tránsito demanda la
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Cartago liderada por Randall busca financiamiento o acreditación bajo el marco de Fuga de cerebros costarricenses por una suma estimada de ₡3.500.000 para potenciar la emigración de científicos y programadores costarricenses formados en universidades públicas hacia laboratorios en Europa.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Fuga de cerebros costarricenses demanda la
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Heredia liderada por Karla busca financiamiento o acreditación bajo el marco de Integración de estudiantes extranjeros por una suma estimada de ₡120.000 para potenciar las políticas del MEP para garantizar la matrícula escolar de niños migrantes sin importar su estatus legal.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo Integración de estudiantes extranjeros de
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Liberia analiza de manera exhaustiva el impacto de el envío de dinero desde San José por trabajadores extranjeros para el sustento de sus familias en sus países de origen. Los participantes señalan que el flujo de recursos de ₡150.000 ha beneficiado a algunos sectores pero ha desatendido impacto macroeconómico.
 
@@ -336,7 +336,7 @@ El análisis crítico de el envío de dinero desde San José por trabajadores ex
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Puntarenas analiza de manera exhaustiva el impacto de el estatus especial otorgado a profesionales perseguidos políticos que se asientan y aportan profesionalmente en Costa Rica. Los participantes señalan que el flujo de recursos de ₡600.000 ha beneficiado a algunos sectores pero ha desatendido derecho internacional.
 
@@ -360,7 +360,7 @@ El análisis crítico de el estatus especial otorgado a profesionales perseguido
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Limón analiza de manera exhaustiva el impacto de el aseguramiento de recolectores de café extranjeros en clínicas de la CCSS mediante convenios de cooperativas. Los participantes señalan que el flujo de recursos de ₡45.000 ha beneficiado a algunos sectores pero ha desatendido cobertura universal.
 
@@ -384,7 +384,7 @@ El análisis crítico de el aseguramiento de recolectores de café extranjeros e
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Pérez Zeledón analiza de manera exhaustiva el impacto de la difusión de noticias falsas en redes sociales sobre supuestos privilegios de migrantes en programas de ayuda social ticos. Los participantes señalan que el flujo de recursos de ₡25.000 ha beneficiado a algunos sectores pero ha desatendido cohesión comunitaria.
 
@@ -408,7 +408,7 @@ El análisis crítico de la difusión de noticias falsas en redes sociales sobre
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en San José, integrada por Randall, revisa los indicadores de desarrollo de la llegada de recolectores para las cosechas de café y caña de azúcar en la Zona de los Santos y los aportes de Migración nicaragüense transitoria estimados en ₡450.000.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Migración nicaragüense transitoria demu
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Alajuela, integrada por Shirley, revisa los indicadores de desarrollo de el paso de migrantes de diversas nacionalidades por la frontera sur en Paso Canoas rumbo a los Estados Unidos y los aportes de Flujos migratorios de tránsito estimados en ₡50.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Flujos migratorios de tránsito demuestra
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Cartago, integrada por Carlos, revisa los indicadores de desarrollo de la emigración de científicos y programadores costarricenses formados en universidades públicas hacia laboratorios en Europa y los aportes de Fuga de cerebros costarricenses estimados en ₡3.500.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Fuga de cerebros costarricenses demuestra
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Migraciones Contemporáneas - MEP
+**EJE:** Migraciones Contemporáneas - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Heredia, integrada por don Guillermo, revisa los indicadores de desarrollo de las políticas del MEP para garantizar la matrícula escolar de niños migrantes sin importar su estatus legal y los aportes de Integración de estudiantes extranjeros estimados en ₡120.000.
 

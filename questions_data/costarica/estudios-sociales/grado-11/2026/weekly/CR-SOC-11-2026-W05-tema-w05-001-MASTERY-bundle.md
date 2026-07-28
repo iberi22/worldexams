@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Puntarenas, el ciudadano Sofía asiste a un panel organizado en la comunidad sobre el impacto de las variaciones en las exportaciones de dispositivos médicos y el tipo de cambio del colón. Durante la charla, se destaca la influencia directa de Interdependencia y balanza de pagos.
 
@@ -48,7 +48,7 @@ La discusión sobre las variaciones en las exportaciones de dispositivos médico
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Limón, el ciudadano Tatiana asiste a un panel organizado en la comunidad sobre el impacto de los compromisos adquiridos ante la OCDE sobre transparencia fiscal y lavado de dinero. Durante la charla, se destaca la influencia directa de Organismos multilaterales y soberanía.
 
@@ -72,7 +72,7 @@ La discusión sobre los compromisos adquiridos ante la OCDE sobre transparencia 
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Pérez Zeledón, Randall evalúa una infografía detallada de el impacto del empleo indirecto generado por el parque industrial en Grecia de Alajuela. El gráfico muestra la movilización de capitales de ₡120.000.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Zonas francas y desarrollo local y las finanzas 
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de San José, Keylor evalúa una infografía detallada de la necesidad de fortalecer los programas de becas del IMAS frente al aumento de la deserción colegial. El gráfico muestra la movilización de capitales de ₡5.000.000.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre Brecha socioeconómica y cohesión social y las 
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Alajuela, Andrés evalúa una infografía detallada de la contaminación de fuentes de agua por bromacil en comunidades de Siquirres debido al cultivo de piña. El gráfico muestra la movilización de capitales de ₡80.000.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Sostenibilidad ambiental y agroexportación y la
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Cartago, doña Marta evalúa una infografía detallada de el acceso a internet de banda ancha financiado por el programa de FONATEL en escuelas rurales. El gráfico muestra la movilización de capitales de ₡400.000.000.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Telecomunicaciones y desarrollo y las finanzas c
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Heredia liderada por don Gerardo busca financiamiento o acreditación bajo el marco de Migración y mercado de trabajo por una suma estimada de ₡450.000 para potenciar la recolección de café en Tarrazú por jornaleros extranjeros y la cobertura de seguros del Estado.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Migración y mercado de trabajo demanda la
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Gobernanza global frente a crisis por una suma estimada de ₡900.000.000.000 para potenciar las políticas fiscales sugeridas por el Banco Mundial para contener la deuda pública costarricense.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Gobernanza global frente a crisis demanda 
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Puntarenas liderada por Elena busca financiamiento o acreditación bajo el marco de Interdependencia y balanza de pagos por una suma estimada de ₡500.000.000.000 para potenciar las variaciones en las exportaciones de dispositivos médicos y el tipo de cambio del colón.
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Interdependencia y balanza de pagos demand
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Limón liderada por Randall busca financiamiento o acreditación bajo el marco de Organismos multilaterales y soberanía por una suma estimada de ₡100.000.000 para potenciar los compromisos adquiridos ante la OCDE sobre transparencia fiscal y lavado de dinero.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Organismos multilaterales y soberanía dem
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Pérez Zeledón liderada por Mariela busca financiamiento o acreditación bajo el marco de Zonas francas y desarrollo local por una suma estimada de ₡120.000.000 para potenciar el impacto del empleo indirecto generado por el parque industrial en Grecia de Alajuela.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Zonas francas y desarrollo local demanda l
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en San José liderada por don Fernando busca financiamiento o acreditación bajo el marco de Brecha socioeconómica y cohesión social por una suma estimada de ₡5.000.000.000 para potenciar la necesidad de fortalecer los programas de becas del IMAS frente al aumento de la deserción colegial.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo Brecha socioeconómica y cohesión social 
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Alajuela analiza de manera exhaustiva el impacto de la contaminación de fuentes de agua por bromacil en comunidades de Siquirres debido al cultivo de piña. Los participantes señalan que el flujo de recursos de ₡80.000.000 ha beneficiado a algunos sectores pero ha desatendido justicia ambiental.
 
@@ -336,7 +336,7 @@ El análisis crítico de la contaminación de fuentes de agua por bromacil en co
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Cartago analiza de manera exhaustiva el impacto de el acceso a internet de banda ancha financiado por el programa de FONATEL en escuelas rurales. Los participantes señalan que el flujo de recursos de ₡400.000.000 ha beneficiado a algunos sectores pero ha desatendido cierre de brechas.
 
@@ -360,7 +360,7 @@ El análisis crítico de el acceso a internet de banda ancha financiado por el p
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Heredia analiza de manera exhaustiva el impacto de la recolección de café en Tarrazú por jornaleros extranjeros y la cobertura de seguros del Estado. Los participantes señalan que el flujo de recursos de ₡450.000 ha beneficiado a algunos sectores pero ha desatendido derechos humanos.
 
@@ -384,7 +384,7 @@ El análisis crítico de la recolección de café en Tarrazú por jornaleros ext
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Liberia analiza de manera exhaustiva el impacto de las políticas fiscales sugeridas por el Banco Mundial para contener la deuda pública costarricense. Los participantes señalan que el flujo de recursos de ₡900.000.000.000 ha beneficiado a algunos sectores pero ha desatendido reforma estructural.
 
@@ -408,7 +408,7 @@ El análisis crítico de las políticas fiscales sugeridas por el Banco Mundial 
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Puntarenas, integrada por Randall, revisa los indicadores de desarrollo de las variaciones en las exportaciones de dispositivos médicos y el tipo de cambio del colón y los aportes de Interdependencia y balanza de pagos estimados en ₡500.000.000.000.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Interdependencia y balanza de pagos demue
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Limón, integrada por Randall, revisa los indicadores de desarrollo de los compromisos adquiridos ante la OCDE sobre transparencia fiscal y lavado de dinero y los aportes de Organismos multilaterales y soberanía estimados en ₡100.000.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Organismos multilaterales y soberanía de
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Pérez Zeledón, integrada por Randall, revisa los indicadores de desarrollo de el impacto del empleo indirecto generado por el parque industrial en Grecia de Alajuela y los aportes de Zonas francas y desarrollo local estimados en ₡120.000.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Zonas francas y desarrollo local demuestr
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Repaso del Periodo 1 - MEP
+**EJE:** Repaso del Periodo 1 - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en San José, integrada por Randall, revisa los indicadores de desarrollo de la necesidad de fortalecer los programas de becas del IMAS frente al aumento de la deserción colegial y los aportes de Brecha socioeconómica y cohesión social estimados en ₡5.000.000.000.
 

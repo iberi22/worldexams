@@ -24,7 +24,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Limón, el ciudadano Tatiana asiste a un panel organizado en la comunidad sobre el impacto de el referéndum del TLC en 2007 y el ingreso de operadores privados de telefonía celular en Costa Rica. Durante la charla, se destaca la influencia directa de Apertura del monopolio de telecomunicaciones.
 
@@ -48,7 +48,7 @@ La discusión sobre el referéndum del TLC en 2007 y el ingreso de operadores pr
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.85
 **Contexto:** En Pérez Zeledón, el ciudadano Randall asiste a un panel organizado en la comunidad sobre el impacto de el acceso desigual a internet simétrico de alta velocidad en escuelas públicas de Limón. Durante la charla, se destaca la influencia directa de Brecha digital en centros educativos.
 
@@ -72,7 +72,7 @@ La discusión sobre el acceso desigual a internet simétrico de alta velocidad e
 ## Question 3 [D4]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de San José, Keylor evalúa una infografía detallada de la ley de atracción de trabajadores remotos extranjeros que laboran en playas de Guanacaste. El gráfico muestra la movilización de capitales de ₡1.800.000.
 
@@ -96,7 +96,7 @@ Entender la articulación entre Nómadas digitales y las finanzas costarricenses
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.85
 **Contexto:** Durante una sesión de análisis en la escuela de Alajuela, Andrés evalúa una infografía detallada de el hackeo masivo a los servidores del Ministerio de Hacienda y de la CCSS en 2022. El gráfico muestra la movilización de capitales de ₡10.000.000.000.
 
@@ -120,7 +120,7 @@ Entender la articulación entre Ataques cibernéticos (Ransomware Conti) y las f
 ## Question 5 [D5]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Cartago, doña Marta evalúa una infografía detallada de la protección de datos personales de usuarios costarricenses ante plataformas transnacionales bajo la ley PRODHAB. El gráfico muestra la movilización de capitales de ₡45.000.000.
 
@@ -144,7 +144,7 @@ Entender la articulación entre Soberanía tecnológica de datos y las finanzas 
 ## Question 6 [D5]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.75
 **Contexto:** Durante una sesión de análisis en la escuela de Heredia, don Gerardo evalúa una infografía detallada de los programas de capacitación del INA en programación web e inteligencia artificial en San José. El gráfico muestra la movilización de capitales de ₡600.000.
 
@@ -168,7 +168,7 @@ Entender la articulación entre Alfabetización digital y empleo y las finanzas 
 ## Question 7 [D6]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Liberia liderada por Randall busca financiamiento o acreditación bajo el marco de Infraestructura de fibra óptica por una suma estimada de ₡1.200.000.000 para potenciar el despliegue de redes simétricas en zonas rurales de San Carlos por cooperativas eléctricas locales.
 
@@ -192,7 +192,7 @@ La puesta en marcha de proyectos bajo Infraestructura de fibra óptica demanda l
 ## Question 8 [D6]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Puntarenas liderada por Elena busca financiamiento o acreditación bajo el marco de Comercio electrónico en pymes por una suma estimada de ₡3.500.000 para potenciar la digitalización de ventas de artesanos de Sarchí mediante plataformas de pago electrónico nacional.
 
@@ -216,7 +216,7 @@ La puesta en marcha de proyectos bajo Comercio electrónico en pymes demanda la 
 ## Question 9 [D6]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Limón liderada por Randall busca financiamiento o acreditación bajo el marco de Apertura del monopolio de telecomunicaciones por una suma estimada de ₡15.000.000.000 para potenciar el referéndum del TLC en 2007 y el ingreso de operadores privados de telefonía celular en Costa Rica.
 
@@ -240,7 +240,7 @@ La puesta en marcha de proyectos bajo Apertura del monopolio de telecomunicacion
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.75
 **Contexto:** Una organización en Pérez Zeledón liderada por Mariela busca financiamiento o acreditación bajo el marco de Brecha digital en centros educativos por una suma estimada de ₡8.000.000 para potenciar el acceso desigual a internet simétrico de alta velocidad en escuelas públicas de Limón.
 
@@ -264,7 +264,7 @@ La puesta en marcha de proyectos bajo Brecha digital en centros educativos deman
 ## Question 11 [D7]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en San José liderada por don Fernando busca financiamiento o acreditación bajo el marco de Nómadas digitales por una suma estimada de ₡1.800.000 para potenciar la ley de atracción de trabajadores remotos extranjeros que laboran en playas de Guanacaste.
 
@@ -288,7 +288,7 @@ La puesta en marcha de proyectos bajo Nómadas digitales demanda la traducción 
 ## Question 12 [D7]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.65
 **Contexto:** Una organización en Alajuela liderada por Esteban busca financiamiento o acreditación bajo el marco de Ataques cibernéticos (Ransomware Conti) por una suma estimada de ₡10.000.000.000 para potenciar el hackeo masivo a los servidores del Ministerio de Hacienda y de la CCSS en 2022.
 
@@ -312,7 +312,7 @@ La puesta en marcha de proyectos bajo Ataques cibernéticos (Ransomware Conti) d
 ## Question 13 [D8]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Cartago analiza de manera exhaustiva el impacto de la protección de datos personales de usuarios costarricenses ante plataformas transnacionales bajo la ley PRODHAB. Los participantes señalan que el flujo de recursos de ₡45.000.000 ha beneficiado a algunos sectores pero ha desatendido privacidad digital.
 
@@ -336,7 +336,7 @@ El análisis crítico de la protección de datos personales de usuarios costarri
 ## Question 14 [D8]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Heredia analiza de manera exhaustiva el impacto de los programas de capacitación del INA en programación web e inteligencia artificial en San José. Los participantes señalan que el flujo de recursos de ₡600.000 ha beneficiado a algunos sectores pero ha desatendido empleabilidad tecnológica.
 
@@ -360,7 +360,7 @@ El análisis crítico de los programas de capacitación del INA en programación
 ## Question 15 [D8]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Liberia analiza de manera exhaustiva el impacto de el despliegue de redes simétricas en zonas rurales de San Carlos por cooperativas eléctricas locales. Los participantes señalan que el flujo de recursos de ₡1.200.000.000 ha beneficiado a algunos sectores pero ha desatendido infraestructura comunitaria.
 
@@ -384,7 +384,7 @@ El análisis crítico de el despliegue de redes simétricas en zonas rurales de 
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.65
 **Contexto:** Un foro de debate en Puntarenas analiza de manera exhaustiva el impacto de la digitalización de ventas de artesanos de Sarchí mediante plataformas de pago electrónico nacional. Los participantes señalan que el flujo de recursos de ₡3.500.000 ha beneficiado a algunos sectores pero ha desatendido modernización comercial.
 
@@ -408,7 +408,7 @@ El análisis crítico de la digitalización de ventas de artesanos de Sarchí me
 ## Question 17 [D9]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Limón, integrada por Randall, revisa los indicadores de desarrollo de el referéndum del TLC en 2007 y el ingreso de operadores privados de telefonía celular en Costa Rica y los aportes de Apertura del monopolio de telecomunicaciones estimados en ₡15.000.000.000.
 
@@ -432,7 +432,7 @@ La evaluación crítica del impacto de Apertura del monopolio de telecomunicacio
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Pérez Zeledón, integrada por Randall, revisa los indicadores de desarrollo de el acceso desigual a internet simétrico de alta velocidad en escuelas públicas de Limón y los aportes de Brecha digital en centros educativos estimados en ₡8.000.000.
 
@@ -456,7 +456,7 @@ La evaluación crítica del impacto de Brecha digital en centros educativos demu
 ## Question 19 [D10]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en San José, integrada por Randall, revisa los indicadores de desarrollo de la ley de atracción de trabajadores remotos extranjeros que laboran en playas de Guanacaste y los aportes de Nómadas digitales estimados en ₡1.800.000.
 
@@ -480,7 +480,7 @@ La evaluación crítica del impacto de Nómadas digitales demuestra que se requi
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Telecomunicaciones en la Globalización - MEP
+**EJE:** Telecomunicaciones en la Globalización - MEP
 **Expected_Success:** 0.55
 **Contexto:** Una comisión evaluadora del MEP en Alajuela, integrada por Shirley, revisa los indicadores de desarrollo de el hackeo masivo a los servidores del Ministerio de Hacienda y de la CCSS en 2022 y los aportes de Ataques cibernéticos (Ransomware Conti) estimados en ₡10.000.000.000.
 
