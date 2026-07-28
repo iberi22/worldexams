@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de Lima analiza una infografía del Ministerio de Desarrollo e Inclusión Social (MIDIS) sobre la anemia infantil.
 
@@ -45,7 +45,7 @@ Los textos discontinuos combinan lenguaje verbal y no verbal. Los componentes vi
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** Un taller escolar en Arequipa revisas las partes fundamentales de una infografía académica.
 
@@ -70,7 +70,7 @@ La bajada o copete cumple una función introductoria en los textos mixtos y disc
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante preuniversitario lee un gráfico estadístico del INEI (Instituto Nacional de Estadística e Informática).
 
@@ -98,7 +98,7 @@ La comprensión lectora de gráficos exige realizar equivalencias numéricas pre
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Se estudia una infografía que compara la producción de café en Chanchamayo frente al café de Quillabamba.
 
@@ -123,7 +123,7 @@ Las tablas comparativas son recursos lógicos excelentes para sintetizar variabl
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de Trujillo lee un mapa de calor que muestra las zonas de mayor vulnerabilidad sísmica en la costa peruana.
 
@@ -148,7 +148,7 @@ Los textos discontinuos geográficos (mapas de calor o de riesgo) utilizan conve
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Análisis de una infografía sobre los beneficios nutricionales de la quinua y la kiwicha.
 
@@ -173,7 +173,7 @@ El uso de metáforas visuales (la balanza para denotar equilibrio o igualdad, el
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de Lima elabora un informe crítico sobre la exportación peruana de arándanos basada en una tabla estadística.
 
@@ -203,7 +203,7 @@ La interpretación de tablas históricas exige identificar las inflexiones o qui
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un círculo de lectura en Cusco analiza un diagrama de flujo sobre el proceso de postulación a becas universitarias del PRONABEC.
 
@@ -231,7 +231,7 @@ Los diagramas de flujo utilizan figuras geométricas convencionales. El rombo re
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Análisis del diseño y propósito persuasivo en afiches de salud pública en Piura.
 
@@ -258,7 +258,7 @@ La retórica visual de los afiches busca movilizar conductas asociando instrucci
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un ejercicio de identificación de contradicciones entre el texto escrito y los datos estadísticos de un folleto minero en Lima.
 
@@ -289,7 +289,7 @@ La lectura crítica de textos mixtos exige confrontar la retórica del mensaje v
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Se estudia una infografía que analiza el tráfico vehicular y la contaminación del aire en Lima Metropolitana.
 
@@ -319,7 +319,7 @@ La lectura de escalas de medición e indicadores ambientales en textos discontin
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Un ejercicio de análisis de infografías sobre las lenguas originarias del Perú y su estado de peligro de extinción según el Ministerio de Cultura.
 
@@ -348,7 +348,7 @@ La interpretación analítica de mapas lingüísticos discontinuos exige cruzar 
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Análisis del público objetivo y tono pragmático de un afiche sobre el cuidado de las lomas costeras frente a las invasiones ilegales.
 
@@ -375,7 +375,7 @@ El destinatario ideal de un texto persuasivo mixto se infiere analizando las ape
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un ejercicio de lectura de alta dificultad en Chiclayo deconstruye la relación de variables en un gráfico de dispersión de PISA.
 
@@ -400,7 +400,7 @@ Los gráficos de dispersión evalúan la correlación entre dos variables contin
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Se evalúa la jerarquía de información visual en una infografía sobre la ruta de exportación del cacao orgánico de Piura hacia Europa.
 
@@ -431,7 +431,7 @@ Los procesos logísticos secuenciados en infografías exigen comprender la direc
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Un ejercicio sobre tipologías de gráficos y su adecuación comunicativa en la presentación de datos económicos del Perú.
 
@@ -456,7 +456,7 @@ La adecuación gráfica es un principio clave del meta-análisis de textos disco
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Evaluación crítica del sesgo en la representación gráfica de datos de delincuencia en medios de comunicación de Lima.
 
@@ -484,7 +484,7 @@ La distorsión de escalas en textos discontinuos es una de las falacias visuales
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Se evalúa la solidez e integración de una infografía en un texto de divulgación científica sobre el cambio climático y el retroceso glaciar en el Pastoruri (Áncash).
 
@@ -509,7 +509,7 @@ La pertinencia del elemento discontinuo auxiliar se mide por su capacidad de apo
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Un examen preuniversitario de alta exigencia analiza las asunciones implícitas en infografías de de políticas de nutrición escolar.
 
@@ -534,7 +534,7 @@ Las representaciones institucionales en textos discontinuos suelen idealizar el 
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Un debate académico sobre la infoxicación y la alfabetización visual en colegios de Lima Metropolitana.
 

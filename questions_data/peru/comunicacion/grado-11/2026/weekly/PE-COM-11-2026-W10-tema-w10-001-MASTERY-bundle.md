@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de secundaria en Lima lee un artículo científico sobre el retroceso glaciar en la cordillera Blanca.
 
@@ -45,7 +45,7 @@ El resumen o abstract es una sección obligatoria y normalizada en la comunicaci
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** Se repasa la estructura del texto de divulgación científica en Arequipa.
 
@@ -70,7 +70,7 @@ El estilo científico prioriza la claridad, objetividad y precisión referencial
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante preuniversitario lee un estudio de la UNMSM sobre el potencial biotecnológico del yacón.
 
@@ -97,7 +97,7 @@ La comprensión del texto científico requiere captar las relaciones de causa y 
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Análisis de textos expositivos sobre la tecnología hidráulica de los andenes incas en Cusco.
 
@@ -122,7 +122,7 @@ Los textos de divulgación tecnológica o arqueológica suelen estructurarse baj
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de Trujillo lee un texto sobre el sistema de 'siembra y cosecha de agua' (amunas) en la serranía de Lima.
 
@@ -149,7 +149,7 @@ La comprensión crítica de textos de divulgación social andina requiere identi
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Análisis de un estudio sobre las propiedades antioxidantes del maíz morado de la sierra de Cajamarca.
 
@@ -176,7 +176,7 @@ La identificación de tecnicismos y términos especializados del metalenguaje ci
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de Lima redacta un artículo de divulgación escolar comparando el sistema inmunológico con la muralla de Lima colonial.
 
@@ -203,7 +203,7 @@ El uso de la analogía didáctica constituye un recurso valioso en la divulgaci�
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Análisis de citas académicas (APA) en textos de divulgación científica en Piura.
 
@@ -230,7 +230,7 @@ La citación sistemática de fuentes legítimas (autor, institución y fecha de 
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Un taller escolar en Chiclayo evalúa la diferencia entre 'conclusión científica' y 'opinión de sentido común'.
 
@@ -257,7 +257,7 @@ La conclusión en la divulgación científica debe limitarse a lo que la evidenc
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Se estudia la presencia del sesgo de correlación ilusoria en explicaciones médicas tradicionales peruanas.
 
@@ -284,7 +284,7 @@ La divulgación científica valora el saber tradicional como patrimonio antropol
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un análisis sobre las patentes biotecnológicas de plantas nativas del Perú (maca, uña de gato) frente a la biopiratería en Huancayo.
 
@@ -311,7 +311,7 @@ La biopiratería es un tema de alta relevancia en los estudios sociales andinos.
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Un ejercicio de análisis literario e ideológico sobre los discursos de los arqueólogos peruanos en el siglo XX.
 
@@ -336,7 +336,7 @@ La tesis autoctonista de Julio C. Tello (el padre de la arqueología peruana) fu
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Un análisis sobre las propiedades adaptativas de los camélidos andinos en Puno frente a las bajas temperaturas de las heladas.
 
@@ -363,7 +363,7 @@ La fibra de alpaca es reconocida mundialmente por sus bondades textiles de confo
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un seminario crítico en Arequipa deconstruye la metodología de los textos científicos de glaciología.
 
@@ -388,7 +388,7 @@ La investigación científica rigurosa exige diferenciar la correlación estadí
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Se estudia un texto de antropología andina sobre el 'Ayni' (reciprocidad andina) y su rol de cohesión comunitaria en el Cusco.
 
@@ -415,7 +415,7 @@ El análisis sociológico de la cosmovisión andina rescata sus instituciones ag
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Un ejercicio de precisión metodológica en la divulgación de las propiedades medicinales de la maca negra en Lima.
 
@@ -442,7 +442,7 @@ El sensacionalismo y la invención de beneficios desmesurados son vicios comunes
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Evaluación crítica del sesgo eurocentrista en estudios arqueológicos internacionales sobre los monumentos de Sacsayhuamán (Cusco).
 
@@ -469,7 +469,7 @@ Los discursos pseudocientíficos que atribuyen la arquitectura de Sacsayhuamán,
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Se evalúa la solidez y ética de un artículo de opinión científica sobre los cultivos transgénicos en la agricultura de la papa nativa del Perú.
 
@@ -497,7 +497,7 @@ El debate nacional sobre la moratoria de transgénicos ilustra que la ciencia y 
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Un examen preuniversitario de alta exigencia académica de la UNI evalúa la deconstrucción epistemológica de la de la investigación sobre el cerebro y el bilingüismo quechua-español.
 
@@ -524,7 +524,7 @@ La divulgación de la neurociencia cumple un rol emancipador en el plano social 
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Un simposio de ética de la divulgación científica en la Universidad de San Marcos analiza el valor del diálogo de saberes (interculturalidad epistémica).
 

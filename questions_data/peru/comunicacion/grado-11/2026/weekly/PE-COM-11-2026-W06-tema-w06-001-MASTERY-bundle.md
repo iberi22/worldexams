@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de secundaria en Chiclayo repasa las reglas generales de acentuación gráfica del castellano.
 
@@ -45,7 +45,7 @@ Las palabras agudas o de acento oxítono llevan tilde en la última sílaba si t
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** En un colegio de Lima, se enseña la distinción entre diptongo y hiato para evitar silabeos erróneos.
 
@@ -70,7 +70,7 @@ El hiato acentual destruye el diptongo. Exige tildar siempre la vocal cerrada t�
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante de Arequipa analiza el uso de la tilde diacrítica en monosílabos.
 
@@ -97,7 +97,7 @@ La tilde diacrítica sirve para diferenciar palabras que se escriben igual pero 
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Un ejercicio de identificación de palabras esdrújulas en un informe escolar en Trujillo.
 
@@ -122,7 +122,7 @@ Las palabras esdrújulas poseen la mayor fuerza de voz en la antepenúltima síl
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Se estudia la tildación de palabras compuestas y adverbios terminados en '-mente' en Chiclayo.
 
@@ -147,7 +147,7 @@ Los adverbios terminados en '-mente' constituyen una excepción rítmica en espa
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de Lima tiene dudas sobre la tildación diacrítica de los monosílabos 'se' y 'de'.
 
@@ -174,7 +174,7 @@ El pronombre 'se' es átono y no lleva tilde. El verbo 'dar' conjugado en subjun
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un ejercicio de corrección de grafías dudosas (b/v) en la redacción de informes en Huancayo.
 
@@ -199,7 +199,7 @@ La palabra 'convencer' se escribe con 'v' de forma obligatoria (combinación nv)
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un examen sobre el uso correcto de las tildes enfáticas en preguntas y exclamaciones en Cusco.
 
@@ -224,7 +224,7 @@ Las tildes enfáticas sirven para diferenciar los pronombres interrogativos y ex
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Corrección de grafías complejas (c/s/z) en un taller de redacción administrativa en Lima.
 
@@ -251,7 +251,7 @@ El verbo 'rescindir' mantiene la raíz con 'sc' en su conjugación de subjuntivo
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un ejercicio sobre hiatos simples e hiatos acentuales en la poesía de César Vallejo.
 
@@ -276,7 +276,7 @@ En 'caída', el encuentro de una vocal abierta átona (a) con una cerrada tónic
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Se evalúan los casos de hiato acentual y tildación general en un texto sobre la fauna de Loreto.
 
@@ -303,7 +303,7 @@ Las palabras que presentan hiato acentual se tildan siempre sobre la vocal cerra
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Un ejercicio de corrección ortográfica de la letra H y grafías g/j en Chimbote.
 
@@ -328,7 +328,7 @@ La palabra 'halló' proviene del verbo hallar y se escribe con H. La palabra 'ho
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Análisis de las excepciones de tildación diacrítica según la última edición de la Ortografía de la RAE.
 
@@ -353,7 +353,7 @@ La Ortografía de 2010 de la RAE unificó el criterio de diptongación gráfica.
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un examen preuniversitario avanzado en Piura analiza los casos de tildación diacrítica del término 'aun' / 'aún'.
 
@@ -381,7 +381,7 @@ El término 'aún' lleva tilde diacrítica cuando funciona como adverbio tónico
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Análisis de errores de tildación en palabras compuestas unidas por guion en Lima.
 
@@ -408,7 +408,7 @@ La regla de palabras compuestas distingue dos casos: si se escriben fundidas en 
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Análisis del uso de la tilde diacrítica en el monosílabo 'si' y sus múltiples valores oracionales.
 
@@ -437,7 +437,7 @@ El monosílabo 'si' lleva tilde diacrítica cuando es adverbio de afirmación ('
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Un seminario sobre lingüística forense analiza la validez del uso de la tilde en el pronombre demostrativo 'este/esta' o 'solo/sola'.
 
@@ -462,7 +462,7 @@ La Ortografía de la RAE de 2010 determinó la supresión de la tilde diacrític
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Se evalúa la tildación de términos extranjeros adaptados (préstamos lingüísticos) en la prensa peruana.
 
@@ -491,7 +491,7 @@ Las voces extranjeras adaptadas al castellano (xenismos adaptados) pierden su gr
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Un ejercicio de alta dificultad de admisión UNMSM sobre la presencia de diptongos, triptongos y hiatos en un solo párrafo expositivo.
 
@@ -520,7 +520,7 @@ Vamos a afinar el conteo exacto de secuencias vocálicas de la opción C para qu
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Evaluación de la pertinencia de la reforma ortográfica de simplificación de grafías en la enseñanza peruana.
 

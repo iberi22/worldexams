@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de secundaria en Trujillo estudia los vicios del lenguaje para mejorar su redacción formal.
 
@@ -45,7 +45,7 @@ La anfibología es un vicio de construcción sintáctica que oscurece el sentido
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** Se analizan los barbarismos en el habla cotidiana de Lima.
 
@@ -70,7 +70,7 @@ El verbo 'haber' en su uso impersonal para indicar existencia de objetos es defe
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Chiclayo corrige un borrador de su informe de química.
 
@@ -97,7 +97,7 @@ La redundancia o pleonasmo vicioso consiste en utilizar palabras innecesarias qu
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Se enseña el concepto de 'adecuación textual' en un colegio de Tacna.
 
@@ -122,7 +122,7 @@ La adecuación es una propiedad pragmática. Exige adaptar la forma y el fondo d
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de Cusco detecta un error de 'queísmo' en la redacción de su monografía de historia.
 
@@ -147,7 +147,7 @@ El queísmo consiste en suprimir de forma indebida la preposición 'de' (o cualq
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un ejercicio sobre el vicio del lenguaje conocido como 'cacofonía' en un colegio de Arequipa.
 
@@ -174,7 +174,7 @@ Para evitar el encuentro cacofónico de la 'a' final del artículo 'la' con la '
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Se evalúa la precisión en el uso de palabras homófonas en un examen en Chiclayo.
 
@@ -201,7 +201,7 @@ El par homófono 'gravar / grabar' y 'acervo / acerbo' exige un dominio de la co
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un ejercicio de identificación de solecismos por discordancia de número en Cusco.
 
@@ -226,7 +226,7 @@ La concordancia gramatical exige la correspondencia de número y persona entre e
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Un taller literario en Chiclayo evalúa el uso de los deícticos temporales y espaciales en la narración.
 
@@ -253,7 +253,7 @@ Los deícticos espaciales y temporales (aquí, allí, ahora, entonces) operan co
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Se estudia el concepto de 'precisión léxica' frente al uso de verbos comodín (verbos 'baúl') en Lima.
 
@@ -279,7 +279,7 @@ La precisión léxica exige seleccionar el término con el significado más exac
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un examen sobre corrección idiomática en Piura aborda la eliminación de anfibologías.
 
@@ -306,7 +306,7 @@ La anfibología por adjunción de sintagmas preposicionales al final de la frase
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Un ejercicio sobre el solecismo por dequeísmo y queísmo en un periódico escolar de Arequipa.
 
@@ -333,7 +333,7 @@ Para identificar si corresponde usar 'que' o 'de que', se puede sustituir la pro
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Análisis del solecismo por discordancia en construcciones distributivas en la administración pública de Lima.
 
@@ -360,7 +360,7 @@ El adjetivo distributivo 'sendos/sendas' siempre se emplea en plural y concuerda
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un examen de admisión UNI evalúa la adecuación lingüística de un texto académico frente a uno informal coloquial.
 
@@ -388,7 +388,7 @@ La adecuación léxica de los escritos científicos impone desterrar el registro
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un análisis sobre el solecismo por inadecuación preposicional en el plano comercial de Lima.
 
@@ -416,7 +416,7 @@ El uso preposicional para detallar la fuerza motriz de un objeto (de gas, de gas
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Se evalúa el uso correcto del gerundio de posterioridad en textos narrativos e informativos de la prensa de Arequipa.
 
@@ -443,7 +443,7 @@ El gerundio de posterioridad es un vicio muy arraigado en la prosa informativa y
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Evaluación del solecismo por dequeísmo en discursos públicos de los ministerios en Lima.
 
@@ -470,7 +470,7 @@ El dequeísmo es un solecismo de régimen verbal. Demuestra una hipercorrección
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Un debate sobre la erradicación del queísmo en la educación secundaria peruana y su evaluación diagnóstica.
 
@@ -495,7 +495,7 @@ El dominio de la redacción exige una pedagogía activa del texto. El alumno deb
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Análisis de la anfibología sintáctica y sus consecuencias hermenéuticas en contratos del sector minero de la UNI.
 
@@ -522,7 +522,7 @@ La anfibología estructural en contratos de alta cuantía económica es un pelig
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Un seminario sobre lógica oracional y metalenguaje en la Universidad de San Marcos analiza la reescritura de textos burocráticos.
 

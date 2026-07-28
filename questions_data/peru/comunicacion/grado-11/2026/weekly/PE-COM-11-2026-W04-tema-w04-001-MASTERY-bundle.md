@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en un colegio de Trujillo repasa la diferencia entre oración simple y oración compuesta para el examen bimestral.
 
@@ -45,7 +45,7 @@ Sintácticamente, una oración es compuesta cuando contiene dos o más verbos co
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** En un aula preuniversitaria en San Juan de Lurigancho, se enseña a clasificar las proposiciones subordinadas sustantivas.
 
@@ -70,7 +70,7 @@ Las proposiciones subordinadas sustantivas cumplen las mismas funciones que un s
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Análisis de funciones sintácticas en la obra de Mario Vargas Llosa en un colegio de Tacna.
 
@@ -97,7 +97,7 @@ El Objeto Directo es el argumento verbal que sufre o recibe directamente la acci
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Un ejercicio de identificación de oraciones subordinadas adjetivas especificativas y explicativas en Lima.
 
@@ -122,7 +122,7 @@ Las proposiciones subordinadas adjetivas explicativas van necesariamente aislada
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un grupo de estudio en Arequipa analiza el pronombre relativo 'quien' y sus restricciones en la subordinación.
 
@@ -149,7 +149,7 @@ El relativo general 'que' es el nexo más versátil de nuestra lengua. Sirve par
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Se estudia el reconocimiento del sujeto elíptico o tácito en oraciones compuestas en un colegio de Cusco.
 
@@ -176,7 +176,7 @@ El sujeto tácito o elíptico se reconoce a través de la morfología flexiva de
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un ejercicio de análisis de oraciones coordinadas copulativas, disyuntivas y adversativas en Huancayo.
 
@@ -201,7 +201,7 @@ Las oraciones coordinadas disyuntivas conectan proposiciones que plantean elecci
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Práctica de sintaxis avanzada para postular a la UNI en la ciudad de Lima.
 
@@ -228,7 +228,7 @@ Para identificar si una subordinada sustantiva es sujeto, se la reemplaza por el
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Análisis sintáctico del agente en oraciones pasivas en un taller de comunicación en Chiclayo.
 
@@ -255,7 +255,7 @@ En la transición de voz pasiva a activa, el complemento agente de la pasiva (qu
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Se estudian los tipos de circunstanciales en un texto descriptivo del puerto de Chimbote.
 
@@ -282,7 +282,7 @@ Los complementos circunstanciales aportan precisiones semánticas sobre el marco
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un examen de admisión simulado en Trujillo analiza las proposiciones subordinadas adverbiales concesivas.
 
@@ -307,7 +307,7 @@ Las proposiciones subordinadas adverbiales concesivas (introducidas por aunque, 
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Revisión de textos académicos para evitar el uso incorrecto del pronombre 'que' en lugar de 'quien' (queísmo de persona en Piura).
 
@@ -334,7 +334,7 @@ El orden sintáctico directo (Sujeto + Verbo + Atributo/Complemento) previene la
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Se analiza el comportamiento del pronombre neutro 'lo' en función de OD e instrumentalización del dequeísmo en Lima.
 
@@ -359,7 +359,7 @@ El dequeísmo consiste en la inserción indebida de la preposición 'de' antes d
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un examen UNI de alta exigencia evalúa la identificación del sujeto complejo en oraciones con pronombres de interés.
 
@@ -386,7 +386,7 @@ Los verbos de afección psíquica o evaluación (gustar, encantar, parecer, inte
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Análisis del complemento de régimen verbal en contraste con el objeto directo en Arequipa.
 
@@ -414,7 +414,7 @@ El complemento de régimen verbal (o régimen preposicional) es un argumento ora
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Análisis del pronombre 'se' y sus múltiples valores sintácticos, un clásico de admisión UNMSM.
 
@@ -441,7 +441,7 @@ La pasiva refleja se estructura con 'se + verbo activo + sujeto inanimado'. El s
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Evaluación del solecismo por discordancia sintáctica en textos oficiales del sector público peruano.
 
@@ -468,7 +468,7 @@ La concordancia gramatical exige que el verbo concuerde en número y persona con
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Un debate sobre la jerga burocrática y su impacto en la accesibilidad ciudadana en Lima.
 
@@ -493,7 +493,7 @@ La campaña de 'lenguaje claro' en el Estado peruano promueve sustituir la pasiv
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Análisis de la ambigüedad sintáctica en textos normativos sobre impuestos de la SUNAT.
 
@@ -520,7 +520,7 @@ La ambigüedad sintáctica por adjunción de cláusulas de relativo al final de 
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Un seminario sobre lógica sintáctica en la Universidad de San Marcos deconstruye oraciones de relativo restrictivas y no restrictivas.
 

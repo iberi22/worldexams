@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de Arequipa estudia el aporte lírico de Mariano Melgar y sus raíces andinas.
 
@@ -45,7 +45,7 @@ Mariano Melgar es considerado el precursor del Romanticismo peruano. Su aporte f
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** Se repasa la obra del modernista José Santos Chocano en un colegio de Trujillo.
 
@@ -70,7 +70,7 @@ José Santos Chocano es la figura emblemática del modernismo peruano. Su poemar
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Análisis de la literatura del Realismo peruano posterior a la Guerra del Pacífico en Chiclayo.
 
@@ -95,7 +95,7 @@ El Realismo peruano de posguerra asume una actitud de dura autocrítica social. 
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Un examen preuniversitario analiza el ensayo de González Prada 'Discurso en el Politeama'.
 
@@ -122,7 +122,7 @@ González Prada ejerce una crítica sociológica brillante. El fracaso bélico d
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Se estudia la poesía de Mariano Melgar y sus elementos de resistencia patriótica en la Literatura de la Emancipación.
 
@@ -147,7 +147,7 @@ Mariano Melgar encarna el espíritu de la Ilustración y la Emancipación americ
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un círculo de estudios literarios en Cusco analiza el estilo modernista frente al realismo peruano.
 
@@ -172,7 +172,7 @@ El modernismo prioriza la autonomía del arte y la búsqueda de la belleza forma
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de Lima redacta una monografía comparando los yaravíes de Melgar con el cantar de gesta hispano.
 
@@ -199,7 +199,7 @@ La genialidad de Melgar reside en verter el caudal semántico y simbólico de la
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Análisis formal de las figuras literarias en la poesía de José Santos Chocano en Piura.
 
@@ -226,7 +226,7 @@ La retórica modernista de Chocano recurre al contraste de imágenes solemnes y 
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Se estudia la presencia del positivismo científico en el Realismo peruano del siglo XIX.
 
@@ -251,7 +251,7 @@ El positivismo fue el marco intelectual que nutrió la rebeldía de González Pr
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un ejercicio sobre los vicios del lenguaje y arcaísmos coloniales criticados por el Realismo peruano en Trujillo.
 
@@ -276,7 +276,7 @@ González Prada consideraba que la ortografía tradicional española era un resi
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Se evalúa la comprensión de 'Horas de lucha' de Manuel González Prada.
 
@@ -303,7 +303,7 @@ González Prada desmitifica el relato triunfalista de la República peruana de l
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Un ejercicio de análisis literario sobre el modernismo exótico frente al modernismo nacionalista peruano en Trujillo.
 
@@ -328,7 +328,7 @@ Chocano representa el ala 'americanista' del modernismo. Mientras otros poetas h
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Un análisis sobre el naturalismo y el realismo decimonónico en 'Aves sin nido' en Arequipa.
 
@@ -353,7 +353,7 @@ El desenlace de 'Aves sin nido' causó un enorme escándalo en su época, result
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un seminario crítico en Cusco analiza los yaravíes de Melgar y su rol de transición lírica.
 
@@ -378,7 +378,7 @@ El yaraví de Melgar constituye el primer monumento lírico del mestizaje peruan
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Un debate en Lima evalúa críticamente la representación del indígena en 'Aves sin nido' frente al indigenismo arguediano posterior.
 
@@ -405,7 +405,7 @@ El indigenismo decimonónico posee un matiz filantrópico y protector. Aunque va
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Un profesor de literatura de una universidad en Trujillo dicta una conferencia sobre González Prada.
 
@@ -432,7 +432,7 @@ González Prada es el primer gran pensador republicano que devela la mentira de 
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Un debate académico en Cusco sobre la asimilación del modernismo en la poesía andina contemporánea.
 
@@ -457,7 +457,7 @@ En el modernismo chocaniano, el mestizaje no se asume como dolor o queja margina
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Se evalúan los discursos del Realismo y Modernismo peruano frente al concepto de 'guerra' y reconstrucción nacional de posguerra.
 
@@ -485,7 +485,7 @@ El contraste ilustra dos vías intelectuales de posguerra: la vía crítica radi
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Un examen preuniversitario de alta exigencia académica en la UNI evalúa la deconstrucción lógica y estética de la Literatura de la Emancipación.
 
@@ -510,7 +510,7 @@ Mariano Melgar no es solo un poeta regional de yaravíes, sino el arquitecto esp
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Un simposio crítico en la Universidad de San Marcos debate sobre la vigencia del ensayo cáustico de González Prada en el siglo XXI.
 

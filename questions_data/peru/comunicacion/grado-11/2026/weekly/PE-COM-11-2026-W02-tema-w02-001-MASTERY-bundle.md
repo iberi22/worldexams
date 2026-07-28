@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante preuniversitario de San Marcos lee el célebre 'Discurso en el Politeama' de Manuel González Prada.
 
@@ -45,7 +45,7 @@ González Prada pronuncia en 1888 su famoso discurso donde convoca a la juventud
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza los '7 ensayos de interpretación de la realidad peruana' de José Carlos Mariátegui.
 
@@ -70,7 +70,7 @@ En el ensayo 'El problema del indio', Mariátegui sostiene que toda solución pe
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Se evalúa la comprensión de un ensayo sobre la educación peruana en la Amazonía.
 
@@ -97,7 +97,7 @@ La tesis es la idea central que el ensayista busca validar. Aquí, se defiende q
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Análisis formal de las partes de un ensayo literario en un colegio de Tacna.
 
@@ -122,7 +122,7 @@ La tesis constituye el postulado principal defendido en el ensayo. Los argumento
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de Lima analiza los argumentos del indigenismo y el hispanismo en debates culturales del siglo XX.
 
@@ -149,7 +149,7 @@ El contraargumento demuestra que la cohesión lingüística andina ya existía m
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Se estudia la técnica de contraargumentación en un debate escrito sobre el voto voluntario en el Perú.
 
@@ -174,7 +174,7 @@ Un contraargumento eficaz expone las consecuencias negativas o las inconsistenci
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de Trujillo redacta un ensayo sobre el impacto de la comida rápida en el perfil nutricional escolar.
 
@@ -201,7 +201,7 @@ El uso de datos estadísticos empíricos y verificables (el 15% de aumento) dota
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Análisis de argumentos en debates de política ambiental sobre la minería en Cajamarca.
 
@@ -228,7 +228,7 @@ El argumento analógico busca convencer al lector estableciendo un paralelismo l
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Un taller literario en Chiclayo evalúa el uso de conectores concesivos en la argumentación escrita.
 
@@ -255,7 +255,7 @@ Los conectores concesivos (a pesar de, aun cuando, si bien) sirven en los ensayo
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Se estudia el concepto de 'argumento de autoridad' en ensayos sobre la identidad andina peruana.
 
@@ -280,7 +280,7 @@ El argumento de autoridad recurre al prestigio y conocimiento especializado de u
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un debate argumentativo en Huancayo aborda los beneficios y desventajas del turismo masivo en Cusco.
 
@@ -307,7 +307,7 @@ El uso de conectores adversativos (no obstante, sin embargo, por el contrario) e
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Se analiza el ensayo de González Prada 'Nuestros indios' (Horas de lucha).
 
@@ -334,7 +334,7 @@ González Prada desmitifica las campañas filantrópicas y religiosas de su épo
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de Trujillo evalúa las estrategias de persuasión en el ensayo de José Carlos Mariátegui.
 
@@ -359,7 +359,7 @@ El análisis histórico-económico permite a Mariátegui deconstruir el racismo 
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un debate sobre el concepto de 'revolución' en un colegio preuniversitario en Chiclayo.
 
@@ -386,7 +386,7 @@ El autor realiza una redefinición del término para elevar el estándar de disc
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Análisis del ensayo peruano de la posguerra y la identidad nacional híbrida.
 
@@ -411,7 +411,7 @@ La tensión entre 'país oficial' y 'país real' es un concepto central de la so
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Se evalúa la coherencia argumentativa en ensayos de divulgación sobre la conservación ecológica de las lomas de Lachay en Lima.
 
@@ -438,7 +438,7 @@ Toda deducción normativa (lo que se debe o no hacer) requiere premisas de valor
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Un seminario sobre metodología de la investigación en Cusco debate sobre la estructura formal de un ensayo científico frente a uno de opinión.
 
@@ -463,7 +463,7 @@ La diferencia estriba en los propósitos y comunidades discursivas de ambos gén
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Se evalúan los argumentos del debate actual sobre la despenalización del aborto terapéutico en el Perú.
 
@@ -491,7 +491,7 @@ Los dilemas morales complejos ocurren cuando chocan valores fundamentales proteg
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Un debate académico analiza la validez del concepto de 'clase social' en el análisis ensayístico del Perú del siglo XXI.
 
@@ -518,7 +518,7 @@ El Perú contemporáneo presenta dinámicas socioeconómicas híbridas. La vieja
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Evaluación del valor argumentativo de las falacias en discursos públicos de la política peruana.
 

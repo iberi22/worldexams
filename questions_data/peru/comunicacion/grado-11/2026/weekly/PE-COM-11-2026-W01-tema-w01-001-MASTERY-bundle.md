@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en un colegio de Trujillo lee el cuento 'El caballero Carmelo' de Abraham Valdelomar.
 
@@ -45,7 +45,7 @@ El cuento 'El caballero Carmelo' se centra en la figura de un viejo gallo de pel
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** Un taller literario en Arequipa analiza los símbolos en la narrativa de Abraham Valdelomar.
 
@@ -70,7 +70,7 @@ El Carmelo simboliza el honor, la nobleza y el cumplimiento del deber aun en la 
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** En la preparación para el examen de la UNMSM, se estudia el cuento 'Los gallinazos sin plumas' de Julio Ramón Ribeyro.
 
@@ -97,7 +97,7 @@ Ribeyro expone en 'Los gallinazos sin plumas' la cruda realidad del abuso famili
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante de Lima redacta una comparación crítica entre los protagonistas de 'Los gallinazos sin plumas' y un escenario social actual.
 
@@ -122,7 +122,7 @@ El trabajo infantil en condiciones insalubres (reciclar basura en botaderos o ca
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de 5to de secundaria analiza el indigenismo peruano a través de las novelas de José María Arguedas.
 
@@ -147,7 +147,7 @@ El zumbayllu es el trompo mágico cuya música evoca para Ernesto la armonía de
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un grupo de estudio en Cusco discute el sentido del bilingüismo y la dualidad cultural en 'Los ríos profundos'.
 
@@ -172,7 +172,7 @@ El conflicto arguediano central es la escisión cultural: el protagonista se enc
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un examen simulado tipo UNMSM en San Juan de Lurigancho presenta un texto sobre las tradiciones orales andinas.
 
@@ -199,7 +199,7 @@ En la mitología andina, el desorden temporal o catástrofe (pachakuti) represen
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Una sesión sobre técnicas de narración contemporánea en Chimbote analiza el narrador en la literatura peruana.
 
@@ -226,7 +226,7 @@ La narración en primera persona (protagonista) restringe la perspectiva a lo qu
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Análisis de la novela histórica 'La guerra del fin del mundo' de Mario Vargas Llosa en un colegio de Piura.
 
@@ -251,7 +251,7 @@ La polifonía y el multiperspectivismo en la novela moderna permiten explorar lo
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Estudio del cuento 'La palabra del mudo' de Ribeyro en una biblioteca comunal de Comas.
 
@@ -278,7 +278,7 @@ La ironía ribeyriana retrata con agudeza la frustración de la clase media y ba
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de secundaria analiza el concepto de 'realismo urbano' peruano para una exposición escolar.
 
@@ -303,7 +303,7 @@ La generación de 1950 registra la gran transformación demográfica de Lima deb
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Un círculo de lectura en Cusco analiza la novela 'Yawar Fiesta' de José María Arguedas.
 
@@ -328,7 +328,7 @@ La novela escenifica el conflicto irresuelto entre el deseo de modernización ho
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Se evalúa la comprensión de 'Tristitia', el famoso poema de Abraham Valdelomar.
 
@@ -355,7 +355,7 @@ Valdelomar edifica en 'Tristitia' un espacio íntimo de comunión con la natural
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** En un círculo de estudios preuniversitarios en Trujillo, se estudia el vanguardismo de César Vallejo.
 
@@ -380,7 +380,7 @@ La narrativa de Vallejo de los años 30 se inscribe dentro de un realismo social
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Un debate en el aula en Lima evalúa los personajes de 'Paco Yunque' y sus implicancias morales contemporáneas.
 
@@ -405,7 +405,7 @@ El cuento 'Paco Yunque' constituye una dura parábola social. A través de la in
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Un profesor de literatura de una universidad limeña dicta una conferencia sobre la vigencia del indigenismo arguediano.
 
@@ -432,7 +432,7 @@ Arguedas encarna una visión no excluyente de la identidad nacional. Ante la tes
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Un seminario crítico en Arequipa deconstruye la estructura de la célebre novela corta de Vargas Llosa 'Los cachorros'.
 
@@ -457,7 +457,7 @@ El uso del pronombre 'nosotros' fusiona las voces de los amigos de Cuéllar (Cho
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Se compara críticamente el costumbrismo del siglo XIX con la generación de 1950 en el Perú.
 
@@ -485,7 +485,7 @@ El contraste muestra la evolución de la literatura sobre Lima: de la mirada pro
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Un examen de admisión preuniversitario UNI de alta dificultad evalúa la comprensión epistemológica de la narrativa contemporánea peruana.
 
@@ -512,7 +512,7 @@ La célebre pregunta de Santiago Zavala sintetiza la frustración de una generac
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Un simposio de literatura peruana analiza el impacto social del indigenismo y el neoindigenismo en el siglo XX.
 

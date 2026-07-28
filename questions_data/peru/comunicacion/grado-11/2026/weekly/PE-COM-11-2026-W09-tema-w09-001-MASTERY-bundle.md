@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de secundaria en Lima estudia las falacias en debates políticos para su curso de argumentación.
 
@@ -45,7 +45,7 @@ En lógica y teoría de la argumentación, una falacia es un argumento que viola
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** Se analizan los tipos de falacias informales para las pruebas preuniversitarias de la UNMSM.
 
@@ -70,7 +70,7 @@ La falacia ad hominem es un recurso retórico muy común que invalida el debate 
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante de Trujillo analiza un discurso de opinión sobre el uso de la energía solar en el norte peruano.
 
@@ -97,7 +97,7 @@ Atacar la vida íntima o familiar de un legislador para invalidar la viabilidad 
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Un ejercicio de identificación de la falacia de apelación a la ignorancia en debates sobre medicina alternativa en Cusco.
 
@@ -122,7 +122,7 @@ La falacia ad ignorantiam sostiene que una proposición es verdadera (o falsa) s
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Se estudia la falacia de apelación al pueblo (ad populum) en debates sobre transporte informal en Lima.
 
@@ -149,7 +149,7 @@ La falacia ad populum (o apelación a la multitud) concluye que una idea es buen
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un ejercicio sobre el concepto de 'falacia de apelación a la autoridad' (ad verecundiam) en Chiclayo.
 
@@ -176,7 +176,7 @@ La falacia ad verecundiam ocurre cuando se defiende una conclusión apelando a l
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de Lima redacta un ensayo de opinión analizando la falacia del espantapájaros (o de la caricaturización).
 
@@ -203,7 +203,7 @@ La falacia del espantapájaros (o del hombre de paja) deforma la tesis original 
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Análisis de falacias de causa falsa (post hoc ergo propter hoc) en el perfil periodístico policial de Lima.
 
@@ -230,7 +230,7 @@ La falacia de causa falsa (o post hoc ergo propter hoc) asume que si un evento o
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Se estudia la falacia de la pendiente resbaladiza en debates sobre la despenalización de ciertos servicios urbanos en Trujillo.
 
@@ -257,7 +257,7 @@ La falacia de la pendiente resbaladiza recurre al miedo y la exageración. En lu
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un ejercicio sobre la identificación de falacias de 'falsa equivalencia' en discursos de opinión de la prensa limeña.
 
@@ -284,7 +284,7 @@ El afán de simetría o imparcialidad periodística mal entendida conduce a menu
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un debate argumentativo en el Callao aborda la despenalización y regulación del comercio informal nocturno.
 
@@ -311,7 +311,7 @@ La pendiente resbaladiza desvía la discusión fáctica hacia la emoción del mi
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Se analiza el discurso periodístico de opinión de diarios limeños tras un desastre por huaycos en Chosica.
 
@@ -338,7 +338,7 @@ La falacia ad ignorantiam en discursos preventivos suele usarse de forma dañina
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Understand
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Un ejercicio de análisis literario e ideológico sobre los discursos de los ensayistas del indigenismo peruano.
 
@@ -365,7 +365,7 @@ La falacia del espantapájaros deforma deliberadamente los postulados de la corr
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un análisis sobre el discurso de publicidad corporativa de las empresas de bebidas azucaradas en Lima.
 
@@ -392,7 +392,7 @@ La publicidad comercial masiva utiliza de forma sistemática la falacia de causa
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un examen preuniversitario avanzado en Piura analiza las falacias de falsa bifurcación (o dilema falso).
 
@@ -419,7 +419,7 @@ La falacia del falso dilema (o falsa bifurcación) es una técnica de manipulaci
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Se estudia el concepto de 'sesgo de confirmación' en el análisis del discurso informativo en las redes sociales de Lima.
 
@@ -444,7 +444,7 @@ El sesgo de confirmación atenta contra el pensamiento crítico y la coherencia 
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Un seminario sobre lógica argumentativa y deconstrucción del discurso político en Cusco analiza las falacias complejas.
 
@@ -471,7 +471,7 @@ La demagogia política recurre a la hibridación de falacias informales. Al mezc
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Se evalúan los argumentos en un panel escrito de debate nacional sobre la viabilidad del servicio militar obligatorio en el Perú.
 
@@ -499,7 +499,7 @@ Para dirimir debates complejos, el analista crítico debe separar la opinión po
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Un examen preuniversitario de admisión UNI de alta dificultad evalúa la deconstrucción lógica de falacias de presuposición o petición de principio.
 
@@ -526,7 +526,7 @@ La petición de principio (o petitio principii) es una de las falacias lógicas 
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Un simposio crítico de comunicación y ética en la Universidad de San Marcos debate sobre la posverdad y su impacto social.
 

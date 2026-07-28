@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en un colegio de Arequipa estudia los mecanismos de referencia textual para evitar repeticiones innecesarias.
 
@@ -45,7 +45,7 @@ En lingüística del texto, la anáfora es un mecanismo de referencia intratextu
 ## Question 2 [D3]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.80
 **Contexto:** Se repasan las funciones de los conectores lógicos para las pruebas de ingreso de la Universidad de Piura.
 
@@ -70,7 +70,7 @@ Los conectores adversativos establecen una relación de restricción u oposició
 ## Question 3 [D4]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante corrige un borrador de su monografía sobre la minería en Pasco.
 
@@ -97,7 +97,7 @@ El enunciado presenta dos hechos en tensión (beneficios frente a perjuicios). S
 ## Question 4 [D4]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.70
 **Contexto:** Un examen de práctica de aptitud verbal de la UNMSM analiza los casos de catáfora.
 
@@ -122,7 +122,7 @@ La catáfora es un mecanismo que anuncia o anticipa un elemento lingüístico qu
 ## Question 5 [D5]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de Huancayo revisa su redacción y detecta problemas de elipsis en sus enunciados.
 
@@ -149,7 +149,7 @@ La coma elíptica se utiliza para sustituir a un verbo omitido que ya ha sido ex
 ## Question 6 [D5]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.65
 **Contexto:** Ejercicios de conectores textuales para la elaboración de textos argumentativos de nivel secundaria.
 
@@ -174,7 +174,7 @@ El conector 'ya que' es causal y debe encabezar la premisa que explica el porqu�
 ## Question 7 [D5]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de Lima redacta una carta formal dirigida a la municipalidad de su distrito.
 
@@ -201,7 +201,7 @@ Se requiere un marcador discursivo consecutivo formal (por consiguiente, por lo 
 ## Question 8 [D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.60
 **Contexto:** Prueba de aptitud comunicativa en el Cusco sobre ordenadores del discurso.
 
@@ -228,7 +228,7 @@ Los ordenadores textuales temporales o de orden (en primer lugar, luego, por úl
 ## Question 9 [D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.55
 **Contexto:** Análisis de deícticos temporales y espaciales en textos de crónicas sobre el Cusco colonial.
 
@@ -255,7 +255,7 @@ Los adverbios deícticos de lugar (aquí, allí, allá) operan en el plano discu
 ## Question 10 [D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de Trujillo revisa la coherencia temática global de su ensayo escolar.
 
@@ -280,7 +280,7 @@ La cohesión y la coherencia son las dos propiedades textuales fundamentales. Un
 ## Question 11 [D7]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.50
 **Contexto:** Se evalúa la precisión en el uso de conectores relativos en un texto sobre el Huascarán.
 
@@ -307,7 +307,7 @@ El pronombre relativo posesivo 'cuyo/cuya/cuyos/cuyas' vincula un antecedente co
 ## Question 12 [D7]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.45
 **Contexto:** Un ejercicio de corrección de textos para evitar redundancias y ambigüedades en un periódico escolar de Arequipa.
 
@@ -334,7 +334,7 @@ La cohesión textual exige utilizar sinónimos conceptuales, pronombres clítico
 ## Question 13 [D7]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.40
 **Contexto:** Análisis de ambigüedad por el mal uso de la referencia anafórica en textos comerciales de Lima.
 
@@ -361,7 +361,7 @@ La anfibología por el uso descuidado del pronombre o determinante posesivo 'su'
 ## Question 14 [D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Lee diversos tipos de textos escritos en su lengua materna
+**EJE:** Lee diversos tipos de textos escritos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Un examen sobre conectores lógicos de alta dificultad en Chiclayo analiza la contraposición de ideas.
 
@@ -388,7 +388,7 @@ El fragmento expone una paradoja sociológica moderna (globalización versus res
 ## Question 15 [D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.35
 **Contexto:** Revisión de la coherencia global y digresión en un ensayo académico sobre César Vallejo en Lima.
 
@@ -415,7 +415,7 @@ La coherencia global exige que todas las proposiciones tributen al tema central 
 ## Question 16 [D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.30
 **Contexto:** Un ejercicio de identificación de elipsis complejas en un ensayo del historiador Jorge Basadre.
 
@@ -442,7 +442,7 @@ La elipsis de un verbo copulativo en contextos paralelos es un recurso literario
 ## Question 17 [D9]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.25
 **Contexto:** Evaluación crítica del uso de conectores en textos jurídicos oficiales de los juzgados de Lima.
 
@@ -469,7 +469,7 @@ La redacción jurídica moderna en el Perú busca erradicar la 'prosa forense ba
 ## Question 18 [D9]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.20
 **Contexto:** Un debate sobre la enseñanza de la redacción escolar en Piura evalúa la pertinencia de la elipsis en textos informativos.
 
@@ -494,7 +494,7 @@ Aunque la elipsis es un recurso de cohesión válido y elegante, en el periodism
 ## Question 19 [D10]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.15
 **Contexto:** Un examen de ingreso de alta exigencia académica en la UNI evalúa la deconstrucción lógica de falacias por imprecisión referencial.
 
@@ -521,7 +521,7 @@ La coherencia semántica exige que la fuerza de las conclusiones guarde proporci
 ## Question 20 [D10]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Escribe diversos tipos de textos en su lengua materna
+**EJE:** Escribe diversos tipos de textos en su lengua materna
 **Expected_Success:** 0.10
 **Contexto:** Un profesor de lingüística de la Universidad de San Marcos analiza la reescritura de textos mal cohesionados.
 
