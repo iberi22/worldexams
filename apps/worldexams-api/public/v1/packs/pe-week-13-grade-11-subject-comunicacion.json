@@ -1,0 +1,1791 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-13-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.436Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes alternativas define de manera formal la estructura característica de un texto discontinuo?",
+      "context": "Un equipo de estudiantes de quinto de secundaria del Colegio Nacional San Carlos de Puno analiza la diferencia entre textos continuos y discontinuos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto que se lee exclusivamente de izquierda a derecha y de arriba a abajo, organizado en párrafos sucesivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de un texto continuo tradicional."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto que presenta información organizada de forma no secuencial o no lineal, utilizando tablas, gráficos, infografías o mapas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los textos discontinuos exigen una lectura no lineal y combinan recursos visuales, espaciales y verbales para transmitir información."
+        },
+        {
+          "letter": "C",
+          "text": "Es un escrito de carácter puramente poético y literario que carece de signos de puntuación explícitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos discontinuos no se limitan a la literatura y suelen ser predominantemente informativos o expositivos."
+        },
+        {
+          "letter": "D",
+          "text": "Es un diálogo teatral extenso en el cual se ha suprimido el uso de acotaciones escénicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un tipo de texto continuo de formato dramático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos discontinuos son aquellos cuya estructura no sigue un orden de lectura lineal tradicional (por párrafos). Para su comprensión, el lector debe asociar elementos icónicos (imágenes, gráficos) con elementos lingüísticos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina al elemento visual o gráfico de una infografía que representa magnitudes numéricas o proporciones mediante barras, sectores circulares o diagramas de flujo?",
+      "context": "Durante el estudio de una infografía sobre la desnutrición infantil en Apurímac, los estudiantes identifican sus partes estructurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuerpo de texto descriptivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuerpo de texto provee explicaciones escritas complementarias, pero no es una representación visual geométrica de magnitudes."
+        },
+        {
+          "letter": "B",
+          "text": "El gráfico estadístico o infograma interactivo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los gráficos estadísticos son los encargados de traducir datos numéricos abstractos en formas geométricas visuales fácilmente comparables."
+        },
+        {
+          "letter": "C",
+          "text": "La firma o créditos institucionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica la autoría de la infografía (quién la elaboró), no representa datos estadísticos."
+        },
+        {
+          "letter": "D",
+          "text": "El titular o encabezamiento tipográfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título enuncia el tema de la infografía, no representa proporciones matemáticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En los textos discontinuos, los gráficos estadísticos desempeñan un rol protagónico para resumir grandes masas de datos cuantitativos de forma sintética, permitiendo contrastes rápidos de escala.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "\"La tabla detalla que la producción de alcachofas arequipeñas aumentó un 15% anualmente de 2021 a 2023. Sin embargo, en 2024 la producción se redujo en un 25% con respecto al año anterior debido a una sequía extrema en el valle del Colca, recuperándose apenas un 5% en 2025\".\nA partir de la lectura de estos datos, ¿cuál de las siguientes conclusiones sobre la tendencia productiva es correcta?",
+      "context": "Un grupo de alumnos de quinto de secundaria del Colegio Nacional Independencia Americana de Arequipa lee un cuadro estadístico sobre la exportación de alcachofas de la región durante el periodo 2021-2025.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exportación de alcachofas en 2025 superó ampliamente los niveles récord alcanzados en el año 2023.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 2024 cayó un 25% y en 2025 solo recuperó un 5%; por ende, la producción de 2025 sigue estando muy por debajo del récord de 2023."
+        },
+        {
+          "letter": "B",
+          "text": "Las sequías no ejercen ninguna influencia real sobre las variaciones estadísticas de la agricultura andina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto indica que la sequía de 2024 fue la causa directa de la caída del 25% en la producción."
+        },
+        {
+          "letter": "C",
+          "text": "El año 2023 representó el pico máximo de producción de alcachofas antes de experimentar una fuerte contracción al año siguiente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dado que venía creciendo hasta 2023 y luego cayó un 25% en 2024, el año 2023 marca el punto de mayor rendimiento del periodo descrito."
+        },
+        {
+          "letter": "D",
+          "text": "La producción de alcachofas se mantuvo completamente estancada e invariable durante la primera mitad del periodo evaluado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Señala que aumentó a un ritmo del 15% anual de 2021 a 2023; por tanto, hubo dinamismo constante, no estancamiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La interpretación de variaciones porcentuales en una tabla exige correlacionar los incrementos y descensos numéricos con el eje de tiempo para trazar mentalmente la curva de comportamiento del fenómeno.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "Si el mapa de calor de la infografía muestra una coloración roja intensa concentrada en los distritos de Castilla y Tambogrande, mientras que el resto de la provincia presenta tonos amarillos suaves, ¿cuál es el propósito de utilizar este contraste de coloración en la representación cartográfica?",
+      "context": "Los estudiantes de un colegio de Piura analizan una infografía sobre el dengue en la costa norte del Perú, la cual contiene un mapa de calor sombreado y una lista de recomendaciones de limpieza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Focalizar la atención del lector en las zonas geográficas con mayor tasa de incidencia o brote activo del virus.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de colores cálidos intensos (como el rojo) en cartografía de riesgo sirve para resaltar visualmente los epicentros de mayor peligro o concentración de casos."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar que los distritos con coloración roja tienen un clima mucho más fresco y libre de mosquitos transmisores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mapas de riesgo usan el rojo para advertir peligro, no para indicar condiciones de seguridad sanitaria o frescura climática."
+        },
+        {
+          "letter": "C",
+          "text": "Decorar estéticamente la infografía para que resulte atractiva de cara a un concurso de diseño publicitario escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coloración responde a una función informativa estricta de jerarquización de datos, no es un mero adorno estético."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los distritos amarillos tienen mayor presupuesto municipal asignado para combatir el mosquito que los distritos rojos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mapa representa brotes biológicos de dengue en el territorio, no presupuestos financieros municipales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los mapas de calor son recursos discontinuos potentes. El color actúa como una variable visual semiológica que comunica instantáneamente densidad o intensidad de un fenómeno sobre un espacio geográfico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "\"El pictograma muestra que el sendero desciende desde Cachora (2900 m.s.n.m.) hasta el fondo del cañón del río Apurímac (1500 m.s.n.m.), para luego ascender de forma abrupta hasta el complejo arqueológico de Choquequirao (3030 m.s.n.m.)\".\nSegún la información espacial provista por este perfil altitudinal, ¿cuál de los siguientes enunciados describe con mayor precisión el esfuerzo físico que demanda la ruta?",
+      "context": "En Cusco, se examina una infografía acerca del circuito turístico de Choquequirao. Esta incluye un perfil de elevación altitudinal y un pictograma de un caminante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una caminata plana y regular que transcurre a una altitud constante y uniforme sobre el nivel del mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desciende 1400 metros y luego asciende 1530 metros; por ende, presenta pendientes extremas."
+        },
+        {
+          "letter": "B",
+          "text": "Consiste en un descenso ininterrumpido y suave que no presenta pendientes de subida en ningún tramo del recorrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo tramo es un ascenso abrupto de 1500 a 3030 m.s.n.m."
+        },
+        {
+          "letter": "C",
+          "text": "Exige un alto rendimiento debido a un pronunciado desnivel que combina un brusco descenso seguido de una dura subida.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El perfil altitudinal demuestra que el caminante debe bajar al fondo del cañón y luego remontar una altitud similar para llegar a las ruinas."
+        },
+        {
+          "letter": "D",
+          "text": "Requiere únicamente el uso de botes de navegación fluvial debido a que todo el recorrido se realiza sobre el caudal del río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una caminata por senderos montañosos; el río se cruza en el punto más bajo, no se navega todo el trayecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comprensión de diagramas de perfil altitudinal requiere traducir variaciones verticales de altitud en conceptos físicos de esfuerzo mecánico y topografía del terreno real.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "\"El gráfico revela que, entre 2010 y 2025, el consumo per cápita anual de arroz pasó de 45 kg a 52 kg. Por su parte, el trigo se mantuvo estable en 28 kg, mientras que el consumo de quinua nativa andina aumentó significativamente de 1 kg a 4.5 kg, impulsado por campañas nutricionales estatales\".\nA partir de estos datos, determine el postulado correcto sobre los hábitos alimenticios peruanos.",
+      "context": "Los estudiantes del Colegio Nacional Santa Isabel de Huancayo analizan un gráfico de barras múltiples sobre el consumo de quinua, trigo y arroz per cápita en el Perú andino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quinua ha desplazado de forma absoluta al arroz como el cereal más consumido por habitante en el Perú andino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El consumo de arroz es de 52 kg, mientras que el de quinua es de solo 4.5 kg; la quinua sigue estando muy por detrás en volumen absoluto."
+        },
+        {
+          "letter": "B",
+          "text": "El arroz se consolida como el carbohidrato líder del consumo per cápita, aunque la quinua muestra el crecimiento porcentual más dinámico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El arroz lidera en kilos absolutos (52 kg), pero la quinua multiplicó su consumo por más de cuatro veces (crecimiento porcentual dinámico del 350%)."
+        },
+        {
+          "letter": "C",
+          "text": "El consumo de trigo sufrió un colapso dramático reduciéndose a la mitad del consumo reportado en 2010.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trigo se mantuvo estable en 28 kg; no colapsó."
+        },
+        {
+          "letter": "D",
+          "text": "Las campañas de promoción nutricional del Estado peruano no surtieron ningún impacto estadístico en la quinua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí surtieron efecto, pues el consumo de quinua aumentó de 1 kg a 4.5 kg en el periodo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis cuantitativo exige diferenciar el valor absoluto de un indicador (kilos consumidos) de su tasa de crecimiento proporcional o porcentual para describir adecuadamente la tendencia alimenticia.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "\"El mapa de dispersión de Pasco muestra círculos de color plomo que representan concentraciones de plomo superiores a 500 partes por millón (ppm), ubicados sobre áreas habitacionales circundantes al tajo abierto minero. Las zonas de cultivo agrícola, situadas a más de 5 kilómetros, presentan círculos de color verde que indican niveles seguros inferiores a 50 ppm\".\nSi una organización no gubernamental de salud busca priorizar la entrega de filtros de agua y atención de desintoxicación pediátrica, ¿en qué área geográfica descrita por el mapa de dispersión debería concentrar sus recursos de forma inmediata?",
+      "context": "Una mesa de trabajo regional en Pasco debate sobre la contaminación por metales pesados en suelos urbanos y rurales mediante mapas de dispersión mineral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las áreas residenciales y habitacionales adyacentes al tajo abierto minero.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al registrar concentraciones de plomo superiores a 500 ppm (muy peligrosas), estas comunidades residenciales son el foco urgente de intervención de salud."
+        },
+        {
+          "letter": "B",
+          "text": "En los campos de cultivo agrícola ubicados a más de 5 kilómetros de distancia del centro de operación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas zonas presentan niveles seguros de plomo (menos de 50 ppm), por lo que no constituyen la prioridad crítica de desintoxicación."
+        },
+        {
+          "letter": "C",
+          "text": "En la capital departamental vecina de otra región andina exenta de minería.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe intervenir donde se registra el riesgo de plomo alto graficado en el mapa del territorio evaluado."
+        },
+        {
+          "letter": "D",
+          "text": "Distribuyendo los filtros de forma idéntica y uniforme por toda la geografía sin considerar los círculos plomos de riesgo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería ineficiente ignorar el mapa de dispersión; se debe concentrar la ayuda en los focos reales de contaminación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transferencia de datos cartográficos discontinuos a un plan de acción de socorro sanitario exige priorizar los recursos según los umbrales críticos de toxicidad territorial graficados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "\"La tabla de control revela que en la región Huancavelica, donde la cobertura de vacunación alcanzó el 95% de la población infantil, los casos graves disminuyeron a 2 por cada 1000 niños. En contraste, en la región Puno, con una cobertura de vacunación del 55%, los casos graves alcanzaron 18 por cada 1000 niños\".\nCon base en estos datos estadísticos, ¿cuál de las siguientes medidas preventivas resulta más razonable para reducir las muertes por neumonía infantil en Puno?",
+      "context": "El Ministerio de Salud del Perú publica un cuadro de control sobre las enfermedades respiratorias infantiles agudas en zonas altoandinas, contrastando la incidencia con la cobertura de vacunación neumocócica regional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trasladar a toda la población infantil puneña de forma permanente hacia las playas cálidas de la costa de Lima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medida socioeconómicamente inviable que no ataca de forma lógica la brecha de vacunación local."
+        },
+        {
+          "letter": "B",
+          "text": "Cerrar los hospitales de Puno para obligar a los niños a generar inmunidad natural frente a las heladas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negar la atención de salud aumentaría drásticamente la tasa de letalidad de la neumonía infantil."
+        },
+        {
+          "letter": "C",
+          "text": "Desplegar brigadas móviles de salud para elevar de forma agresiva la cobertura de vacunación en Puno hasta un rango cercano al 95%.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dado que la tabla demuestra que a mayor cobertura de vacuna (95% en Huancavelica) la tasa de casos graves se reduce al mínimo, elevar esta cobertura en Puno es la solución."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir la vacuna de neumococo por jarabes calientes de eucalipto producidos artesanalmente en la sierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los tés alivian síntomas, la vacuna neumocócica es el agente inmunológico con base científica correlacionado con la reducción de neumonía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El alumno debe correlacionar la variable independiente (cobertura de vacuna) con la variable dependiente (casos graves de enfermedad) del texto discontinuo para inferir la intervención preventiva más adecuada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "\"El diagrama de flujo detalla el siguiente orden crítico de operaciones:\n1. Cosecha selectiva en campo -> 2. Enfriamiento rápido a 0 °C en planta -> 3. Clasificación óptica de calibre -> 4. Embalaje en atmósfera modificada -> 5. Despacho marítimo en contenedores refrigerados.\nSi el paso 2 (Enfriamiento rápido a 0 °C) se omite o se retrasa más de tres horas debido a una avería del generador eléctrico, los arándanos maduran aceleradamente y se pudren a los pocos días de viaje marítimo\".\nSi un exportador de La Libertad sufre un corte de luz prolongado en su planta de enfriamiento justo tras la cosecha, ¿cuál de las siguientes decisiones tácticas minimiza de forma inteligente sus pérdidas comerciales según el diagrama de flujo?",
+      "context": "Los alumnos de la Universidad Nacional de Trujillo interpretan un diagrama de flujo de producción que muestra los pasos para exportar arándanos a Asia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proceder de forma idéntica con el embalaje y el despacho marítimo de los arándanos calientes hacia Asia para no retrasar el buque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retraso en el enfriamiento pudrirá la fruta a mitad del océano, arruinando por completo el cargamento y perdiendo toda la inversión de transporte."
+        },
+        {
+          "letter": "B",
+          "text": "Almacenar los arándanos cosechados bajo el sol del campo de cultivo hasta que se solucione la avería eléctrica de la planta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor del sol acelera la maduración y acelera la pudrición de la fruta recolectada."
+        },
+        {
+          "letter": "C",
+          "text": "Desviar el cargamento de arándanos no enfriados hacia el mercado local fresco para consumo inmediato de la provincia de Trujillo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dado que el tiempo de viaje marítimo es inviable sin enfriamiento previo, vender la fruta localmente de forma inmediata aprovecha su estado fresco sin requerir refrigeración prolongada."
+        },
+        {
+          "letter": "D",
+          "text": "Rociar los arándanos con nitrógeno líquido hirviendo para congelarlos a -196 °C de golpe en un solo segundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Congelar la fruta de esa forma destruiría la estructura celular del arándano fresco de exportación, convirtiéndolo en pulpa inservible."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La resolución de problemas basada en diagramas de flujo exige evaluar el impacto que tiene la falla de una de las etapas secuenciales críticas del proceso y proponer desvíos de contingencia que minimicen pérdidas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "\"La leyenda del tablero logístico indica que:\n- 1 pictograma de barco gigante = 100 000 toneladas de carga movilizada.\n- 1 pictograma de barco mediano = 50 000 toneladas.\n- 1 pictograma de lancha pequeña = 10 000 toneladas.\nSi el reporte anual del muelle sur muestra pintados en su panel de control: 3 barcos gigantes, 4 barcos medianos y 5 lanchas pequeñas, ¿cuál es el volumen de carga movilizado?\".",
+      "context": "En el puerto del Callao, se expone un tablero de control logístico que grafica las toneladas de carga movilizadas mediante pictogramas de barcos portacontenedores de diferentes escalas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "160 000 toneladas de carga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cálculo superficial que suma los barcos sin aplicar los multiplicadores correspondientes de la leyenda."
+        },
+        {
+          "letter": "B",
+          "text": "345 000 toneladas de carga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise el cálculo: 3 barcos gigantes equivalen a 300 000 toneladas; 4 medianos a 200 000; y 5 lanchas a 50 000."
+        },
+        {
+          "letter": "C",
+          "text": "550 000 toneladas de carga.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cálculo correcto según la leyenda es: (3 x 100 000) + (4 x 50 000) + (5 x 10 000) = 300 000 + 200 000 + 50 000 = 550 000 toneladas de carga."
+        },
+        {
+          "letter": "D",
+          "text": "1 000 000 de toneladas de carga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede por mucho los valores indicados por los pictogramas presentes en el tablero del puerto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura de pictogramas requiere aplicar correctamente los factores de escala definidos en la leyenda de los textos discontinuos para convertir símbolos visuales en magnitudes matemáticas precisas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "\"El gráfico lineal muestra que, en pista seca a 80 km/h, la distancia de frenado segura es de 45 metros. No obstante, si la pista se encuentra húmeda por lluvia andina o granizada, la distancia de frenado de emergencia necesaria para evitar una colisión por alcance se duplica a 90 metros a la misma velocidad\".\nSi un conductor viaja a 80 km/h por la sierra limeña rumbo a Huancayo y comienza a llover con granizo de forma repentina, ¿cuál es la medida de seguridad activa que debe adoptar de acuerdo con el gráfico de frenado?",
+      "context": "Una infografía de seguridad vial del Ministerio de Transportes y Comunicaciones (MTC) detalla la distancia de frenado de emergencia en la Carretera Central en función de la velocidad del vehículo y el estado de la pista húmeda por lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incrementar la velocidad a 120 km/h para llegar antes a su destino y evitar mojarse con la lluvia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar la velocidad en pista mojada aumentaría exponencialmente la distancia de frenado, garantizando un accidente."
+        },
+        {
+          "letter": "B",
+          "text": "Reducir de inmediato su velocidad operativa y duplicar el espacio de separación con el vehículo que lo antecede.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al llover, la adherencia disminuye. Adaptar la distancia de seguridad al doble (de 45 m a 90 m) mitiga el riesgo de colisión al frenar sobre pista húmeda."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener fijos los 45 metros de distancia de frenado confiado en que sus neumáticos nuevos ignorarán la lluvia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico científico de física de frenado demuestra que el agua altera la fricción de forma inevitable, independientemente de los neumáticos."
+        },
+        {
+          "letter": "D",
+          "text": "Apagar las luces del vehículo para que las gotas de lluvia no se evaporen sobre el capó caliente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Apagar luces reduce la visibilidad de los demás conductores; carece de relación con la distancia de frenado físico descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aplicación de gráficos lineales de física automotriz exige que el conductor adapte sus hábitos de manejo (velocidad y espacio de seguridad) de acuerdo con las condiciones climáticas del entorno andino.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "\"El mapa detalla que la zona del Templo del Cóndor está marcada con un ícono de candado rojo, indicando restricción total debido a la erosión lítica. Sin embargo, el sector de la Plaza Sagrada muestra un ícono de círculo verde, permitiendo libre tránsito con calzado de suela blanda. Los senderos periféricos llevan un ícono amarillo de tránsito asistido exclusivo para delegaciones científicas\".\nSi un guía de turismo de Cusco lidera a un grupo de 15 escolares de quinto de secundaria con zapatillas clásicas, ¿cómo debe estructurar su itinerario de visita según las restricciones del mapa?",
+      "context": "Un mapa turístico interactivo de la ciudadela de Machu Picchu señala con íconos las zonas restringidas de acceso peatonal según el nivel de desgaste físico de las escalinatas de granito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dirigir a los estudiantes a escalar los muros del Templo del Cóndor para tomarse la foto de promoción grupal obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violar la restricción del candado rojo daña el patrimonio protegido por el Ministerio de Cultura y constituye una infracción grave."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar permisos especiales alegando que los escolares son un grupo de investigadores nucleares graduados para entrar a senderos periféricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falsear la naturaleza del grupo para evadir las normas de preservación arqueológica es éticamente inaceptable y sancionable."
+        },
+        {
+          "letter": "C",
+          "text": "Guiar al grupo escolar a través de la Plaza Sagrada respetando el uso de calzado adecuado de suela blanda.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Respeta las zonas permitidas indicadas con círculo verde y cumple con los requisitos del calzado escolar estándar para evitar la erosión."
+        },
+        {
+          "letter": "D",
+          "text": "Suspender por completo la visita a Machu Picchu y realizar el guiado turístico en el patio del hotel de Aguas Calientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medida desproporcionada; sí hay sectores habilitados (como la Plaza Sagrada) que permiten realizar la visita cultural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La toma de decisiones del guía de turismo demuestra comprensión práctica de la simbología cartográfica de restricciones patrimoniales, buscando un equilibrio entre la experiencia educativa y la conservación del recurso.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "\"Un medio periodístico local publicó un gráfico circular para ilustrar las preferencias de voto en Lima Metropolitana. El gráfico representaba el 35% de preferencia del Candidato A con una porción visual equivalente a la mitad del círculo (50% de área geométrica). Mientras que el 40% del Candidato B se dibujó en un sector visiblemente estrecho que aparentaba un 20% del total\".\n¿Cuál es la consecuencia directa de esta asimetría entre el porcentaje numérico de la etiqueta y el área visual del gráfico sobre el lector de la noticia?",
+      "context": "Un seminario académico de la Universidad Nacional Mayor de San Marcos analiza las debilidades metodológicas de las encuestas representadas mediante gráficos circulares desproporcionados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, pues la gente lee exclusivamente los porcentajes escritos sin fijarse en las formas geométricas circulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerebro procesa el impacto visual del área antes que los números pequeños, lo que genera una distorsión de la realidad."
+        },
+        {
+          "letter": "B",
+          "text": "Generar una distorsión visual cognitiva que induce al lector a percibir erróneamente que el Candidato A es el líder absoluto de la encuesta.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La asimetría entre el dato numérico y la representación geométrica altera la percepción visual intuitiva del lector, sesgando su opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Forzar a los lectores a cursar estudios avanzados de geometría descriptiva en la UNI para poder leer las noticias locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una exageración inviable; el periódico debe corregir su diseño para garantizar la ética informativa."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar científicamente que el Candidato B ha cometido un fraude electoral al tener menor área de color representada en el gráfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error o sesgo del diseño gráfico del periódico no constituye una prueba jurídica ni científica de fraude electoral por parte del candidato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación de textos discontinuos exige detectar sesgos en la representación visual de datos. El área del gráfico debe coincidir estrictamente con el porcentaje de la etiqueta para evitar la manipulación de la opinión pública.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "\"Infografía del Gremio Pesquero: Destaca en grandes letras verdes que 'La pesca está en su mejor momento histórico' mostrando un barco repleto de peces y barras de exportación en alza de los últimos dos meses.\nTabla de IMARPE: Registra que la biomasa reproductiva de la anchoveta ha caído un 45% en el último año debido a anomalías oceánicas cálidas prolongadas, sugiriendo adelantar la veda\".\nAl contrastar de forma crítica ambas fuentes de información, ¿cuál es el diagnóstico interpretativo correcto sobre la aparente contradicción de los datos?",
+      "context": "En Chimbote, un analista pesquero confronta una infografía del gremio pesquero industrial con una tabla del Instituto del Mar del Perú (IMARPE) sobre la biomasa de anchoveta disponible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tabla de IMARPE está equivocada porque los barcos de exportación demuestran que el mar peruano posee peces infinitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El stock de exportación de los últimos meses puede ser alto por depredación intensiva, lo cual no contradice la caída de la biomasa reproductora futura reportada por el ente oficial de investigación marina."
+        },
+        {
+          "letter": "B",
+          "text": "Los peces del mar peruano han migrado masivamente hacia la atmósfera alta debido a las corrientes cálidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces son organismos acuáticos marinos; no pueden migrar a la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "La infografía industrial se enfoca en la rentabilidad comercial coyuntural a corto plazo, mientras que la tabla de IMARPE advierte sobre el colapso ecológico y la insostenibilidad del recurso a mediano plazo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La contradicción se resuelve al comprender los objetivos de los emisores: el comercial resalta el éxito inmediato; el científico vela por la sustentabilidad de la especie."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas fuentes demuestran que es necesario pescar todas las anchovetas jóvenes de forma inmediata para que no sufran por las aguas cálidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pescar las especies jóvenes impediría la reproducción de la biomasa, acelerando la extinción de la anchoveta peruana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica exige identificar la intención comunicativa de emisores con intereses divergentes. El alumno debe contrastar datos parciales comerciales de corto plazo con reportes científicos de largo plazo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "\"El climograma de Arequipa revela que las temperaturas medias mensuales permanecen estables entre los 14 °C y 16 °C a lo largo del año. En contraste, el gráfico de barras azul de precipitaciones muestra valores de 0 mm de mayo a noviembre, concentrándose la totalidad de las lluvias en los meses de enero y febrero con promedios de 40 mm y 45 mm respectivamente\".\n¿Cuál es la síntesis analítica correcta sobre el comportamiento del clima arequipeño según el climograma?",
+      "context": "Un geógrafo de la Universidad Nacional de San Agustín de Arequipa evalúa un climograma (gráfico doble que representa temperaturas y precipitaciones mensuales) de la ciudad de Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arequipa posee un clima de lluvias monzónicas tropicales continuas que azotan la ciudad durante todo el año de forma uniforme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El climograma muestra sequía total (0 mm) durante la mayor parte del año (mayo a noviembre)."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta una gran estabilidad térmica anual (baja amplitud térmica) combinada con un régimen de lluvias sumamente estacional y concentrado en el verano austral.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las temperaturas estables (14-16 °C) confirman la constancia térmica, y las barras de lluvia concentradas en enero-febrero (verano andino) confirman la estacionalidad pluvial."
+        },
+        {
+          "letter": "C",
+          "text": "El invierno en Arequipa es la estación más lluviosa y húmeda del año, superando los registros pluviales de la selva baja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. De mayo a noviembre (invierno/primavera) no llueve en absoluto (0 mm)."
+        },
+        {
+          "letter": "D",
+          "text": "Las temperaturas sufren variaciones salvajes que fluctúan desde los -20 °C hasta los 45 °C de un mes a otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El climograma indica que las temperaturas se mantienen constantes en el rango de los 14 °C a 16 °C."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los climogramas son gráficos complejos que cruzan dos escalas distintas de datos (temperatura lineal en el eje derecho vs. precipitación de barras en el izquierdo). El alumno debe integrar ambas variables para definir el tipo de clima regional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "\"La infografía indica que un foco incandescente de 60 W produce la misma cantidad de luz (lúmenes) que un foco LED de solo 9 W. Además, señala que el 90% de la energía consumida por el foco incandescente se pierde en forma de calor residual, mientras que el foco LED destina el 85% de la energía a la generación de luz visible limpia\".\n¿Cuál es la relación de eficiencia energética que se deduce de este análisis comparativo?",
+      "context": "Los estudiantes de un colegio parroquial de Cajamarca leen una infografía comparativa sobre la eficiencia energética de focos LED frente a los tradicionales focos incandescentes de filamento de tungsteno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El foco incandescente consume menos energía eléctrica para generar calor ambiental en las viviendas altoandinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consume 60 W frente a los 9 W del LED; su consumo es mucho mayor, lo que representa ineficiencia lumínica, no ventaja."
+        },
+        {
+          "letter": "B",
+          "text": "El foco LED requiere mayor potencia eléctrica en vatios (W) para encender su filamento de tungsteno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El LED consume apenas 9 W y carece de filamento de tungsteno (usa diodos semiconductores)."
+        },
+        {
+          "letter": "C",
+          "text": "El foco LED es aproximadamente seis veces más eficiente en el uso de la energía eléctrica para producir la misma cantidad de lúmenes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Consume apenas 9 W para igualar los lúmenes de un foco tradicional de 60 W (60 / 9 es aprox. 6.6 veces de ahorro energético neto), aprovechando mejor la corriente sin disiparla en calor."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos tipos de focos consumen exactamente la misma cantidad de vatios al conectarse al tendido eléctrico de Cajamarca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación de consumo es desigual (60 W vs. 9 W); los datos demuestran un ahorro rotundo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis del texto discontinuo exige evaluar la relación cuantitativa de rendimiento energético (vatios consumidos vs. lúmenes producidos) para sustentar decisiones de ahorro doméstico con bases físicas sólidas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "\"La infografía afirma en su eslogan principal: 'La sangrecita de pollo cura la anemia infantil de forma inmediata en un solo día'. No obstante, la tabla técnica de hematología de la parte inferior de la misma infografía detalla que la asimilación del hierro no hemo por el organismo requiere un consumo sostenido de al menos tres porciones semanales durante un tratamiento continuo de tres meses\".\nAl evaluar de manera crítica la consistencia interna del texto de divulgación de la salud del gobierno, ¿cuál es su principal contradicción o debilidad?",
+      "context": "Un panel de expertos en salud pública de la PUCP evalúa la validez de una infografía gubernamental destinada a combatir la anemia infantil mediante el fomento del consumo de \"sangrecita de pollo\" en la sierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostener que la sangrecita de pollo carece de hierro asimilable, contradiciendo los reportes científicos nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto confirma que tiene hierro asimilable; la contradicción radica en la velocidad y duración temporal del tratamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Recomendar la sangrecita de pollo solo para adultos sanos, ignorando a la población infantil que sufre de anemia severa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El folleto está explícitamente diseñado para combatir la anemia infantil; no excluye a los niños."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar un titular sensacionalista de cura inmediata ('en un solo día') que contradice los tiempos biológicos reales de asimilación expuestos en la propia tabla técnica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El eslogan simplifica y distorsiona el proceso fisiológico real que la propia infografía expone de forma detallada en sus datos técnicos inferiores."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir que los niños de la sierra consuman exclusivamente hierro extraído químicamente de rocas mineras tacneñas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No promueve el consumo de minerales crudos, sino de un alimento de origen avícola tradicional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación crítica de la consistencia interna de un texto discontinuo requiere contrastar las afirmaciones persuasivas o eslóganes comerciales con las evidencias científicas y tablas técnicas provistas en el propio documento.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "\"El gráfico utiliza columnas tridimensionales con una perspectiva en fuga inclinada. Debido al efecto óptico de la profundidad 3D del diseño, la barra del año 2024, que indica numéricamente 120 toneladas de emisiones, parece físicamente más baja que la barra del año 2025, la cual registra numéricamente 145 toneladas\".\nAl ponderar la calidad metodológica del diseño de este gráfico discontinuo para la rendición de cuentas ambientales, se concluye que:",
+      "context": "Un informe de auditoría ambiental evalúa la claridad comunicativa de un gráfico de columnas en 3D utilizado por una empresa minera para mostrar la reducción de emisiones de gases contaminantes en Moquegua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de efectos 3D inclinados es excelente porque demuestra que la empresa posee computadoras de última generación para modelar gases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelado no justifica un error de representación visual básica de magnitudes métricas."
+        },
+        {
+          "letter": "B",
+          "text": "El diseño en 3D sesga e invalida la precisión de la lectura visual, pues el efecto de perspectiva distorsiona la comparación física directa de las magnitudes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los diseños tridimensionales en gráficos estadísticos de barras suelen introducir distorsiones de paralaje óptico que alteran la proporcionalidad real de las columnas, induciendo a errores interpretativos."
+        },
+        {
+          "letter": "C",
+          "text": "El gráfico es perfecto porque las emisiones reales siempre disminuyen de forma natural conforme las barras del diseño se vuelven tridimensionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio estético del gráfico no ejerce influencia mágica sobre los niveles de gases emitidos al aire de Moquegua."
+        },
+        {
+          "letter": "D",
+          "text": "Los auditores ambientales carecen de capacidad técnica para leer datos si estos no son explicados en un poema literario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La labor del auditor es evaluar los datos exactos y denunciar gráficos de diseño dudoso o engañoso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los principios de la visualización de datos científica exigen que la escala gráfica y el tamaño de los elementos de diseño reflejen de forma fidedigna y proporcional el valor de los números correspondientes, desaconsejando el uso de perspectivas 3D distorsionantes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "\"La infografía traza una línea de tendencia diagonal empinada afirmando una 'relación matemática perfecta e indisoluble' entre la pérdida de árboles en San Martín y las inundaciones de Lima. No obstante, al analizar los puntos individuales de datos del gráfico de dispersión (R² de 0.12), se observa que los puntos se hallan dispersos de forma caótica y aleatoria sin agruparse en torno a la recta dibujada por los diseñadores\".\n¿Cuál es la valoración científica crítica que se deriva de la inconsistencia entre la recta trazada y la nube de puntos del gráfico de dispersión?",
+      "context": "En el Colegio de Ingenieros del Perú, se debate sobre la veracidad de una infografía que asocia el incremento del caudal del río Hablador con la deforestación de la selva alta, apoyada en un gráfico de dispersión con una nube de puntos aleatoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La recta es correcta porque la deforestación de la selva siempre evapora el agua que viaja instantáneamente a la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un valor R² de 0.12 indica una correlación estadística sumamente débil; la afirmación de una \"relación matemática perfecta\" es un engaño visual."
+        },
+        {
+          "letter": "B",
+          "text": "Los diseñadores del folleto tienen acceso a realidades cuánticas donde los puntos desordenados se alinean de forma mágica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia se rige por datos empíricos de estadística clásica, no por pseudociencias cuánticas de diseño de folletos."
+        },
+        {
+          "letter": "C",
+          "text": "La infografía ha forzado artificialmente una correlación lineal inexistente en los datos reales para respaldar una afirmación propagandística preconcebida.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dibujar una línea de tendencia empinada sobre una nube de puntos dispersos (bajo coeficiente de determinación R²) busca engañar visualmente al lector para hacerle creer que existe una relación causa-efecto que los datos estadísticos no respaldan."
+        },
+        {
+          "letter": "D",
+          "text": "El río Hablador no existe en la geografía de Lima, lo que anula de plano cualquier estudio hidrológico andino presentado en el foro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río Rímac es popularmente llamado el \"Río Hablador\"; la referencia geográfica existe y el debate sobre la cuenca hídrica es real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación compleja de textos discontinuos exige confrontar la \"línea de tendencia\" o conclusión gráfica con los \"datos empíricos\" representados (puntos de dispersión). El alumno debe notar cuándo se imponen conclusiones sesgadas no sustentadas por la estadística de base.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "\"El flujograma describe de forma lineal y circular las acciones preventivas ante un sismo destructivo. En un punto crítico del flujograma, se lee la siguiente indicación secuencial: 'Si se detecta una fisura en el dique de contención -> Proceda a evacuar a toda la población del valle andino de inmediato -> Inicie la reparación manual del dique con cemento rápido antes del colapso'\".\nAl realizar un riguroso análisis lógico y operativo de este proceso de toma de decisiones de emergencia, ¿cuál es la falla de consistencia sistémica del flujograma?",
+      "context": "Un metanálisis de la Universidad de Ingeniería y Tecnología (UTEC) evalúa un flujograma de seguridad operacional de relaves mineros expuesto a los pobladores de Huancavelica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recomendar el cemento rápido en lugar de utilizar arcilla natural de los ríos locales para sellar el granito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tipo de cemento es un detalle técnico secundario; la falla del flujograma es de índole secuencial lógica de vida o muerte."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar una contradicción logística irresoluble al ordenar la evacuación total de la población y, al mismo tiempo, exigir la reparación inmediata en la zona de peligro inminente de colapso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El flujograma ordena a la población huir del peligro del colapso del dique, pero el paso siguiente (unido por flechas) obliga a los operarios a quedarse físicamente en la base del dique agrietado para repararlo, planteando un conflicto de seguridad laboral y de viabilidad de las tareas."
+        },
+        {
+          "letter": "C",
+          "text": "El hecho de que las fisuras en los diques mineros peruanos se autoreparan de forma natural al contacto con el aire seco de la sierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los diques de relaves de piedra y concreto no poseen propiedades curativas ni de regeneración de material por el clima altoandino."
+        },
+        {
+          "letter": "D",
+          "text": "Utilizar un color verde brillante para graficar la flecha de evacuación hacia los cerros andinos seguros de Huancavelica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color verde para indicar rutas de escape es normativo e intuitivo; no representa la falla lógica de la contradicción de tareas descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis del flujograma requiere evaluar de manera crítica la viabilidad práctica y temporal de la secuencia de acciones recomendada. Ordenar la evacuación masiva a la par que la permanencia operativa para mantenimiento expone un conflicto logístico estructural y ético.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v1",
+      "statement": "En una lectura en Ayacucho: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v2",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v3",
+      "statement": "Identifica el conector: Tacna es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v4",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Jose estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Jose estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v5",
+      "statement": "En el Colegio Nacional Coronel Bolognesi de Tacna, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v6",
+      "statement": "En una lectura en Chiclayo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v7",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v8",
+      "statement": "Identifica el conector: Huaraz es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v9",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Dos de Mayo estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Dos de Mayo estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v10",
+      "statement": "En el Colegio Nacional Iquitos de Iquitos, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v11",
+      "statement": "En una lectura en Puno: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v12",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v13",
+      "statement": "Identifica el conector: Huaraz es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v14",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Jose estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Jose estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v15",
+      "statement": "En el Colegio Nacional San Jose de Chiclayo, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v16",
+      "statement": "En una lectura en Puno: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v17",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v18",
+      "statement": "Identifica el conector: Iquitos es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v19",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-v20",
+      "statement": "En el Colegio Nacional Coronel Bolognesi de Tacna, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W13-inferencias-concluir-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

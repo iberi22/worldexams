@@ -1,0 +1,1791 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-2-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.419Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la famosa sentencia o arenga que González Prada dirige a la juventud peruana y a las generaciones mayores en su 'Discurso en el Politeama'?",
+      "context": "Un estudiante preuniversitario de San Marcos lee el célebre 'Discurso en el Politeama' de Manuel González Prada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¡El Perú es un mendigo sentado en un banco de oro!",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta frase se le atribuye popularmente a Antonio Raimondi en sus exploraciones geográficas."
+        },
+        {
+          "letter": "B",
+          "text": "¡Los viejos a la tumba, los jóvenes a la obra!",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la arenga emblemática que resume el llamado a la renovación social y moral del Perú de González Prada en el Politeama."
+        },
+        {
+          "letter": "C",
+          "text": "¡No soy un aculturado, soy un demonio feliz!",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una frase de José María Arguedas pronunciada en el siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "¡Por la patria libre de terratenientes y gamonales!",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este lema es propio de las reformas agrarias del siglo XX y discursos comunistas, no de González Prada en este discurso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "González Prada pronuncia en 1888 su famoso discurso donde convoca a la juventud a asumir la reconstrucción moral y material del Perú tras el desastre de la Guerra del Pacífico, acuñando la arenga '¡Los viejos a la tumba, los jóvenes a la obra!'.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "En la célebre obra de José Carlos Mariátegui, ¿cuál es el problema fundamental del indio que sirve de base para los demás ensayos socioeconómicos?",
+      "context": "Un estudiante analiza los '7 ensayos de interpretación de la realidad peruana' de José Carlos Mariátegui.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de colegios de educación intercultural bilingüe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mariátegui ve que la educación formal es un síntoma, no la raíz económica de la opresión."
+        },
+        {
+          "letter": "B",
+          "text": "La barrera lingüística por no dominar el castellano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque reconoce los problemas de comunicación, no considera que el idioma sea la raíz estructural."
+        },
+        {
+          "letter": "C",
+          "text": "El problema de la tierra y la persistencia del latifundio y gamonalismo",
+          "is_correct": true,
+          "feedback": "Correcto. Para Mariátegui, el problema del indio es fundamentalmente el problema de la tierra; la abolición del latifundio y el gamonalismo feudal es necesaria para su emancipación."
+        },
+        {
+          "letter": "D",
+          "text": "La falta de una religión autóctona oficial en los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mariátegui analiza los factores religiosos pero sitúa la causa primera en la estructura material de tenencia de tierras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el ensayo 'El problema del indio', Mariátegui sostiene que toda solución pedagógica, jurídica o moral es ineficaz si se ignora que la raíz del conflicto es de carácter socioeconómico y reside en el régimen de propiedad de la tierra.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "Lea el fragmento de un ensayo contemporáneo:\n'La Amazonía no puede seguir siendo vista como una reserva inagotable de recursos sin voz. El desarrollo sostenible de Loreto o Ucayali exige reconocer los saberes ecológicos de los pueblos indígenas como ciencia viva'.\n¿Cuál es la tesis principal que el autor defiende en este fragmento?",
+      "context": "Se evalúa la comprensión de un ensayo sobre la educación peruana en la Amazonía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las empresas mineras deben ser las únicas autorizadas para administrar la Amazonía peruana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo cuestiona ver a la selva solo como proveedora de recursos y propone un modelo sostenible basado en los saberes locales."
+        },
+        {
+          "letter": "B",
+          "text": "El desarrollo de la Amazonía requiere integrar de manera equitativa el conocimiento tradicional indígena",
+          "is_correct": true,
+          "feedback": "Correcto. El autor propone reconocer los saberes ecológicos nativos como 'ciencia viva' como requisito indispensable para un desarrollo sostenible real."
+        },
+        {
+          "letter": "C",
+          "text": "La selva peruana carece por completo de recursos económicos explotables",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se menciona que es vista como una reserva, pero el autor no niega los recursos, sino la forma destructiva de extraerlos."
+        },
+        {
+          "letter": "D",
+          "text": "Los pueblos amazónicos deben asimilarse de inmediato a la vida académica de las grandes urbes costeñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto aboga por valorar sus conocimientos de forma autónoma en su territorio, no por su asimilación incondicional a la costa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la idea central que el ensayista busca validar. Aquí, se defiende que para un desarrollo sostenible auténtico de la selva se debe cambiar la mirada mercantilista y valorar el conocimiento indígena.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "En un ensayo argumentativo académico, ¿cuál es la diferencia funcional entre la tesis y los argumentos?",
+      "context": "Análisis formal de las partes de un ensayo literario en un colegio de Tacna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis es una pregunta retórica y los argumentos son las definiciones de diccionario",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis no es una pregunta, sino una afirmación categórica que se defiende."
+        },
+        {
+          "letter": "B",
+          "text": "La tesis es la postura u opinión central del autor, mientras que los argumentos son las razones y evidencias que sostienen dicha postura",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la columna vertebral ideológica del ensayo; los argumentos son las premisas lógicas, datos y hechos que demuestran su validez."
+        },
+        {
+          "letter": "C",
+          "text": "La tesis aparece únicamente en la conclusión y los argumentos solo en la introducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por lo general, la tesis se plantea en la introducción y se refuerza en la conclusión; los argumentos se desarrollan en el cuerpo del texto."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis es objetiva y científica, mientras que los argumentos son de carácter subjetivo y emocional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los argumentos deben buscar solidez objetiva y lógica para sostener una tesis que puede ser un punto de vista subjetivo o debatible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis constituye el postulado principal defendido en el ensayo. Los argumentos son el andamiaje demostrativo que valida dicha postura ante el lector.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "Lea el siguiente argumento hispanista de un ensayo histórico del siglo XX:\n'La lengua española unió a las diversas tribus peruanas que antes vivían aisladas por la abrupta geografía andina. Gracias al castellano, el Perú adquirió una identidad nacional cohesionada'.\n¿Qué debilidad crítica de este argumento podría señalar un ensayista indigenista?",
+      "context": "Un estudiante de Lima analiza los argumentos del indigenismo y el hispanismo en debates culturales del siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el español nunca llegó a hablarse en el territorio peruano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español es la lengua mayoritaria y oficial, por lo que negar su existencia es absurdo."
+        },
+        {
+          "letter": "B",
+          "text": "Que invisibiliza el papel del quechua como lengua general de integración andina prehispánica (Qhapaq Ñan)",
+          "is_correct": true,
+          "feedback": "Correcto. Un contraargumento histórico sólido es recordar que el quechua (y el aimara) ya cumplían funciones de lenguas generales y de cohesión en el Tahuantinsuyo antes de la llegada del español."
+        },
+        {
+          "letter": "C",
+          "text": "Que la geografía andina impidió por completo el paso de los conquistadores españoles",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pesar de la geografía, los españoles establecieron su dominio en todo el territorio."
+        },
+        {
+          "letter": "D",
+          "text": "Que las lenguas indígenas carecen de gramática formal y vocabulario conceptual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería validar un prejuicio hispanista, no cuestionar críticamente el argumento desde una perspectiva andina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contraargumento demuestra que la cohesión lingüística andina ya existía mediante el quechua como lengua general del Imperio incaico, matizando la afirmación de que la integración nacional comenzó de forma exclusiva con el castellano.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "Si un autor defiende la tesis de que 'el voto en el Perú debe seguir siendo obligatorio', ¿cuál de los siguientes enunciados constituye un contraargumento directo que sus opositores podrían presentar?",
+      "context": "Se estudia la técnica de contraargumentación en un debate escrito sobre el voto voluntario en el Perú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El voto obligatorio asegura una mayor participación ciudadana en las elecciones presidenciales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un argumento a favor de la obligatoriedad, no un contraargumento en su contra."
+        },
+        {
+          "letter": "B",
+          "text": "La ONPE organiza los procesos electorales con eficiencia técnica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este hecho es neutral respecto a si el voto debe ser voluntario u obligatorio."
+        },
+        {
+          "letter": "C",
+          "text": "La obligatoriedad del voto reduce la calidad democrática al forzar a votar a ciudadanos desinformados y apáticos",
+          "is_correct": true,
+          "feedback": "Correcto. Este argumento ataca directamente la premisa de la obligatoriedad, señalando que produce un efecto negativo en la democracia al obligar a votar sin convicción ni información."
+        },
+        {
+          "letter": "D",
+          "text": "Los peruanos prefieren votar los días domingos para no interrumpir su trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un detalle logístico que no aborda la discusión de fondo sobre la libertad de sufragio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un contraargumento eficaz expone las consecuencias negativas o las inconsistencias éticas del postulado de la parte contraria, en este caso, cuestionando la supuesta bondad de la obligatoriedad del sufragio.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "El estudiante escribe:\n'El consumo excesivo de comida chatarra en los quioscos escolares debe ser regulado por el MINSA. No podemos ignorar que el sobrepeso infantil ha aumentado un 15% en La Libertad'.\n¿Qué tipo de argumento está utilizando para sostener su tesis?",
+      "context": "Un estudiante de Trujillo redacta un ensayo sobre el impacto de la comida rápida en el perfil nutricional escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está citando directamente la declaración de un experto o institución reputada en el área."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de hecho o estadístico",
+          "is_correct": true,
+          "feedback": "Correcto. Apoya su afirmación en un dato numérico concreto y medible (un aumento del 15% de sobrepeso infantil en la región)."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento analógico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No compara la situación de La Libertad con otra región o país para extraer una conclusión por similitud."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento ético o moral",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela a principios de justicia, bien o deber ser, sino a una cifra empírica del problema de salud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de datos estadísticos empíricos y verificables (el 15% de aumento) dota al ensayo de objetividad y rigor científico, clasificándose como un argumento de hecho.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "Lea el fragmento de un discurso de opinión:\n'Prohibir toda actividad extractiva en Cajamarca para proteger el agua es inviable. Sería como apagar los motores de un avión en pleno vuelo para ahorrar combustible; la economía regional colapsaría de inmediato'.\n¿Qué estrategia argumentativa se emplea en esta defensa de la actividad extractiva?",
+      "context": "Análisis de argumentos en debates de política ambiental sobre la minería en Cajamarca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se citan estudios científicos ni expertos en aeronáutica u economía."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento por analogía",
+          "is_correct": true,
+          "feedback": "Correcto. El autor compara la prohibición de la minería (causa de ingresos) con apagar los motores de un avión (fuente de propulsión), sugiriendo que ambas acciones producen una caída fatal por similitud de funcionamiento estructural."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento de definición conceptual",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se definen los términos 'minería' o 'economía regional'."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento generalizador por inducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. No parte de múltiples casos particulares para establecer una ley general, sino de una sola comparación ilustrativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento analógico busca convencer al lector estableciendo un paralelismo lógico entre un fenómeno conocido y fácil de juzgar (los motores del avión) y otro complejo y debatible (la minería en Cajamarca).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "Lea la siguiente oración de un ensayo filosófico:\n'A pesar de que el desarrollo tecnológico facilita las comunicaciones, la soledad existencial de las personas parece haberse agudizado'.\n¿Cuál es el conector que introduce la concesión y qué matiz aporta al razonamiento del autor?",
+      "context": "Un taller literario en Chiclayo evalúa el uso de conectores concesivos en la argumentación escrita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "parece haberse; aporta una certeza científica absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Parece haberse' expresa una probabilidad o percepción, no introduce una concesión."
+        },
+        {
+          "letter": "B",
+          "text": "desarrollo tecnológico; introduce la tesis del autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un sustantivo compuesto que representa el tema del texto, no un conector lógico."
+        },
+        {
+          "letter": "C",
+          "text": "A pesar de que; introduce una dificultad o contraargumento parcial que no impide el cumplimiento del hecho principal",
+          "is_correct": true,
+          "feedback": "Correcto. 'A pesar de que' es un conector concesivo; reconoce un aspecto positivo (tecnología facilita comunicación) pero valida la persistencia del problema (soledad existencial)."
+        },
+        {
+          "letter": "D",
+          "text": "soledad existencial; resume el argumento de hecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el concepto central del predicado, no un nexo lógico subordinante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores concesivos (a pesar de, aun cuando, si bien) sirven en los ensayos para matizar la postura del autor, aceptando un punto de la perspectiva opuesta para fortalecer la propia mediante contraste.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "Si estuviéramos escribiendo un ensayo sobre la riqueza lírica de las lenguas nativas americanas, ¿cuál de las siguientes opciones constituiría un argumento de autoridad sólido según el ámbito académico peruano?",
+      "context": "Se estudia el concepto de 'argumento de autoridad' en ensayos sobre la identidad andina peruana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi abuelo, que vive en Huancavelica, me contó que el quechua expresa sentimientos muy profundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es un testimonio de gran valor familiar y afectivo, no cumple con los criterios de autoridad académica o científica requeridos en un ensayo riguroso."
+        },
+        {
+          "letter": "B",
+          "text": "Una encuesta realizada en redes sociales donde el 90% afirma que el quechua es muy musical",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representa la opinión popular o de sentido común (argumento ad populum), no una autoridad experta."
+        },
+        {
+          "letter": "C",
+          "text": "Según el lingüista peruano Alfredo Torero, el quechua posee una complejidad morfológica y fonológica que permite una notable precisión semántica y lírica",
+          "is_correct": true,
+          "feedback": "Correcto. Alfredo Torero es un reconocido lingüista e investigador de las lenguas andinas; su opinión especializada constituye un argumento de autoridad académica indiscutible."
+        },
+        {
+          "letter": "D",
+          "text": "El quechua es una lengua antigua porque se hablaba antes de la llegada de Cristóbal Colón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un argumento de hecho histórico de carácter general, no una cita de autoridad especializada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El argumento de autoridad recurre al prestigio y conocimiento especializado de un experto consagrado en la materia (en este caso, el lingüista Alfredo Torero) para respaldar la veracidad del postulado del ensayista.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "Lea el siguiente fragmento:\n'Es innegable que el turismo genera empleo y divisas para miles de familias cusqueñas. No obstante, la tugurización de Machu Picchu Pueblo y el desgaste físico de los monumentos incas sugieren que el crecimiento comercial sin control amenaza con devorar el propio patrimonio que lo sustenta'.\n¿Cuál es el conector que marca la transición hacia el contraargumento y qué tipo de relación lógica establece?",
+      "context": "Un debate argumentativo en Huancayo aborda los beneficios y desventajas del turismo masivo en Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es innegable que; establece una relación de causa y efecto inmediato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta frase sirve para introducir una idea evidente o conceder un punto, no para contraargumentar."
+        },
+        {
+          "letter": "B",
+          "text": "genera; marca una condición indispensable de tipo económico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el verbo de la oración subordinada, no un conector discursivo."
+        },
+        {
+          "letter": "C",
+          "text": "No obstante; establece una relación de oposición o contraste (adversativa) frente al beneficio económico planteado al inicio",
+          "is_correct": true,
+          "feedback": "Correcto. 'No obstante' es un conector adversativo que permite al ensayista introducir el reverso negativo de la situación (daño ecológico/patrimonial) tras haber admitido el beneficio económico inicial."
+        },
+        {
+          "letter": "D",
+          "text": "sugieren que; indica una conclusión irrefutable apoyada en estadísticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una frase verbal que denota sugerencia, no un nexo de oposición lógica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de conectores adversativos (no obstante, sin embargo, por el contrario) es clave en el desarrollo argumentativo para equilibrar puntos de vista y guiar el razonamiento hacia la síntesis del autor.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "En 'Nuestros indios', González Prada afirma:\n'El indio no se redimirá gracias a la caridad de sus opresores, sino por su propio esfuerzo y educación. La cuestión del indio es una cuestión social, no filantrópica'.\nDe acuerdo con este postulado, ¿qué tipo de soluciones rechaza categóricamente el autor?",
+      "context": "Se analiza el ensayo de González Prada 'Nuestros indios' (Horas de lucha).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las reformas agrarias de carácter económico que devuelven las tierras a las comunidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. González Prada defiende reformas sociales y agrarias profundas; no las rechaza."
+        },
+        {
+          "letter": "B",
+          "text": "La educación científica de los jóvenes nativos para insertarse en el trabajo moderno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor apoya la educación del indio como vía de liberación y emancipación racional."
+        },
+        {
+          "letter": "C",
+          "text": "Las medidas asistenciales, discursos compasivos y leyes paternalistas que no alteran la estructura de opresión feudal",
+          "is_correct": true,
+          "feedback": "Correcto. El autor rechaza la 'filantropía' paternalista (caridad, discursos compasivos de las élites limeñas) porque considera que el indio necesita justicia social y rebelarse, no piedad limosnera de quienes lo explotan."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de la violencia armada de los indios para defender sus derechos comunitarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. González Prada, por el contrario, justifica la rebelión activa del indígena ante el abuso terrateniente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "González Prada desmitifica las campañas filantrópicas y religiosas de su época. Sostiene que la opresión del indígena es un problema económico y social basado en el abuso del hacendado, el juez y el sacerdote, por lo que requiere una transformación real de las estructuras de poder y no simples paliativos morales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "En el ensayo 'El problema de la tierra', Mariátegui utiliza abundante documentación histórica de la época virreinal para demostrar que el latifundio en el Perú colonial destruyó las comunidades indígenas agrarias (ayllus). ¿Cuál es la intención pragmática de este recurso histórico en el marco de su argumentación?",
+      "context": "Un estudiante de Trujillo evalúa las estrategias de persuasión en el ensayo de José Carlos Mariátegui.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evadir el análisis de los problemas agrarios de su propio tiempo para no ser censurado por el gobierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mariátegui analiza el pasado virreinal precisamente para explicar y resolver el problema agrario de su época (años 20)."
+        },
+        {
+          "letter": "B",
+          "text": "Probar que la agricultura colonial era mucho más eficiente que la incaica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sostiene lo contrario: que la economía incaica era altamente eficiente y solidaria, y la colonial fue destructora de ese equilibrio."
+        },
+        {
+          "letter": "C",
+          "text": "Sustentar la tesis de que los problemas del indio contemporáneo tienen un origen histórico estructural y no son de carácter biológico o racial",
+          "is_correct": true,
+          "feedback": "Correcto. Al rastrear el origen de la servidumbre y el gamonalismo en el sistema de encomiendas y repartimientos virreinales, el autor demuestra que la marginación del indígena es un producto histórico-económico heredado, rebatiendo las teorías racistas que afirmaban la inferioridad natural del indio."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir que la corona española pague indemnizaciones económicas a las comunidades del Cusco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo no es un reclamo monetario contemporáneo a España, sino la reestructuración interna del régimen de propiedad de la tierra en la República peruana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis histórico-económico permite a Mariátegui deconstruir el racismo científico de la oligarquía peruana, demostrando que la postración social de la población andina responde a determinantes materiales e históricos que deben ser modificados políticamente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "Lea la siguiente premisa de un ensayo político del siglo XX:\n'La verdadera revolución no consiste en cambiar a los gobernantes de turno en palacio de gobierno, sino en transformar radicalmente las relaciones de producción y educación del pueblo'.\n¿Qué tipo de definición de 'revolución' adopta el autor en este argumento?",
+      "context": "Un debate sobre el concepto de 'revolución' en un colegio preuniversitario en Chiclayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una definición puramente electoral y parlamentaria del cambio social",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor descarta el mero cambio de gobernantes (revolución palaciega o electoral) como irrelevante."
+        },
+        {
+          "letter": "B",
+          "text": "Una perspectiva mística y espiritual desligada de las condiciones materiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se mencionan 'relaciones de producción y educación', lo que alude a condiciones materiales e intelectuales concretas."
+        },
+        {
+          "letter": "C",
+          "text": "Una definición estructural e ideológica basada en la transformación de la base económica y cultural de la sociedad",
+          "is_correct": true,
+          "feedback": "Correcto. El autor define 'revolución' no como relevo de la élite de gobierno (superficial), sino como un cambio profundo en la economía (relaciones de producción) y en la conciencia colectiva (educación)."
+        },
+        {
+          "letter": "D",
+          "text": "La apología de la desobediencia civil pacífica como único método de cambio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no discute el método (violento o pacífico), sino la esencia y profundidad del cambio que califica como 'verdadero'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El autor realiza una redefinición del término para elevar el estándar de discusión, contraponiendo la definición común y trivial de revolución (golpe de estado o recambio de líderes) con una de carácter científico y social.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "En debates sobre la identidad peruana, la metáfora de la 'patria invisible' o el 'país oficial frente al país real' sirve para ilustrar:",
+      "context": "Análisis del ensayo peruano de la posguerra y la identidad nacional híbrida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La escasez de cartografía detallada de los Andes peruanos durante el siglo XIX",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se refiere a un problema geográfico o cartográfico de mapas reales."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia de husos horarios entre las regiones de la costa y la selva peruana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fenómeno físico inexistente en el país (Perú tiene un solo huso horario)."
+        },
+        {
+          "letter": "C",
+          "text": "La desconexión histórica entre el Estado (leyes, burocracia, élite limeña) y las necesidades reales de la población andina, rural y amazónica",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora del 'país oficial frente al país real' (desarrollada por ensayistas como Basadre) alude a la brecha existente entre el sistema legal y la institucionalidad formal centralizada y la vida cotidiana, marginada y autogestionaria de las mayorías nacionales."
+        },
+        {
+          "letter": "D",
+          "text": "La supremacía militar del Perú sobre sus vecinos sudamericanos en tiempos de crisis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no tiene un carácter chauvinista o de análisis de defensa militar externa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tensión entre 'país oficial' y 'país real' es un concepto central de la sociología y el ensayo histórico peruano, que describe cómo las instituciones del Estado central operan de espaldas a la diversidad pluricultural y necesidades urgentes de la nación real.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "En un ensayo que defiende la conservación estricta de las lomas de Lachay, el autor introduce este argumento:\n'El pastoreo informal de ganado caprino destruye la flora endémica de Lachay. Por ende, la ganadería caprina extensiva en la zona debe ser prohibida'.\n¿Cuál es la premisa implícita (supuesto necesario) en la que se apoya esta deducción?",
+      "context": "Se evalúa la coherencia argumentativa en ensayos de divulgación sobre la conservación ecológica de las lomas de Lachay en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los pastores de Lachay carecen de estudios universitarios sobre ecología",
+          "is_correct": false,
+          "feedback": "Incorrecto. La validez de la prohibición no depende de la escolaridad de los pastores, sino del impacto de la actividad caprina."
+        },
+        {
+          "letter": "B",
+          "text": "La preservación de la flora endémica de las lomas tiene prioridad ética y ecológica sobre los ingresos generados por la ganadería informal",
+          "is_correct": true,
+          "feedback": "Correcto. Para deducir razonablemente que se debe prohibir la ganadería porque daña la flora, se debe asumir que el valor de conservar la flora es superior al valor económico o de subsistencia que reporta el pastoreo caprino en esa reserva."
+        },
+        {
+          "letter": "C",
+          "text": "La carne de cabra tiene baja demanda en los mercados de Lima Metropolitana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto debilitaría el argumento de hecho, pero no actúa como nexo ético-lógico de la deducción de prioridad ecológica."
+        },
+        {
+          "letter": "D",
+          "text": "Lachay es la única zona verde que le queda a la costa peruana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una exageración fáctica falsa que no fundamenta la ineludible necesidad lógica del argumento del autor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda deducción normativa (lo que se debe o no hacer) requiere premisas de valor implícitas. El supuesto de que la vida vegetal nativa de una reserva ecológica estatal es más valiosa que el beneficio de una ganadería privada informal es el pilar que sostiene la prohibición sugerida.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "Si contrastamos un ensayo de opinión literaria (como los de Vargas Llosa o Julio Ramón Ribeyro) con un ensayo de investigación científica (indexado en Scopus/SciELO), ¿cuál es la diferencia metodológica principal en cuanto al respaldo de las afirmaciones?",
+      "context": "Un seminario sobre metodología de la investigación en Cusco debate sobre la estructura formal de un ensayo científico frente a uno de opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ensayo científico se basa exclusivamente en las corazonadas personales del investigador, mientras que el literario recurre a sofisticadas pruebas estadísticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es justamente al revés en cuanto a rigores de medición matemática y estadística."
+        },
+        {
+          "letter": "B",
+          "text": "El ensayo de opinión literaria prohíbe el uso de la primera persona y la metáfora lírica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo de opinión permite una gran libertad estilística, incluyendo metáforas e introspección personal."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo científico exige el uso riguroso del método de citación estandarizado (ej. APA, Vancouver) y evidencia empírica contrastable, mientras que el literario prioriza la fuerza retórica, el estilo estético y la coherencia lógica interna del autor",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo científico debe someterse a criterios de replicabilidad, revisión por pares y citación exacta para sostener su validez empírica; el ensayo literario es un género híbrido de frontera, donde el valor reside en la originalidad interpretativa y la belleza del estilo argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "El ensayo de opinión literaria es meramente descriptivo y carece por completo de una tesis explícita",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo literario expone puntos de vista muy definidos y tesis interpretativas vigorosas respaldadas por argumentos estéticos y críticos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia estriba en los propósitos y comunidades discursivas de ambos géneros. El ensayo científico busca la generación de conocimiento verificable y sistematizado bajo cánones rigurosos; el literario es una exploración libre y creativa de ideas que interpela la sensibilidad del lector.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "Lea los siguientes postulados contrapuestos de un debate nacional:\n**Argumento A:** 'El Estado tiene el deber supremo de proteger la vida desde la concepción según la Constitución Política. Cualquier interrupción voluntaria es moral y legalmente inaceptable'.\n**Argumento B:** 'El Estado debe priorizar la salud física y psicológica de la madre gestante, garantizando su derecho a decidir ante embarazos de alto riesgo médico'.\nDesde una perspectiva analítica de la teoría de la argumentación, ¿por qué este conflicto resulta de difícil resolución (un dilema ético profundo)?",
+      "context": "Se evalúan los argumentos del debate actual sobre la despenalización del aborto terapéutico en el Perú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el Argumento A carece de base legal en el ordenamiento jurídico peruano",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución peruana sí contempla la protección del concebido en su artículo 2, por lo que posee un anclaje normativo real."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Argumento B se basa exclusivamente en creencias mágicas o mitológicas no científicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Argumento B apela a derechos humanos modernos de salud pública y autonomía corporal reconocidos por la OMS."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ambos argumentos parten de axiomas morales distintos e incompatibles entre sí, donde cada uno es lógicamente coherente con sus propias premisas de valor primordial",
+          "is_correct": true,
+          "feedback": "Correcto. La irresolubilidad se debe a que chocan dos principios éticos considerados supremos por sus defensores (el derecho a la vida del concebido frente al derecho a la salud y autonomía de la madre). No hay un terreno común neutral para dirimir cuál principio debe subordinar al otro sin elegir previamente una postura filosófica determinante."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la ciencia médica peruana no ha podido determinar si el feto se desarrolla dentro del útero materno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La embriología y la ginecología poseen certeza absoluta sobre el desarrollo fetal; el debate no es biológico básico, sino ético, jurídico y social."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los dilemas morales complejos ocurren cuando chocan valores fundamentales protegidos por distintas corrientes del pensamiento ético e institucional. La resolución de estos conflictos exige debates racionales parlamentarios y jurídicos que sopesen prioridades constitucionales y de derechos humanos en circunstancias específicas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "Lea la crítica de un ensayista contemporáneo:\n'Los análisis tradicionales que dividen al Perú únicamente entre oligarcas latifundistas e indios comuneros han quedado obsoletos. La emergencia del sector informal urbano y el emprendimiento andino emergente de Lima Norte han difuminado las fronteras de clase clásicas'.\n¿Cuál es la implicancia teórica de esta afirmación para los nuevos ensayistas de la realidad peruana?",
+      "context": "Un debate académico analiza la validez del concepto de 'clase social' en el análisis ensayístico del Perú del siglo XXI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deben abandonar toda pretensión de realizar estudios sociológicos en el Perú por ser imposible",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor propone actualizar los marcos de análisis, no abandonar la investigación social."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen que regresar a las categorías de análisis marxistas ortodoxas del siglo XIX sin modificarlas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor justamente critica que los modelos bipolares clásicos (como la división terrateniente-indio) ya no explican la complejidad actual."
+        },
+        {
+          "letter": "C",
+          "text": "Se requiere desarrollar nuevas categorías de análisis que interpreten la heterogeneidad del capitalismo informal y la identidad andina urbana contemporánea",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayista contemporáneo debe captar fenómenos nuevos como la movilidad social impulsada por el comercio informal, la migración exitosa de segunda y tercera generación y la reconfiguración espacial de la periferia urbana, que desbordan las explicaciones bipolares tradicionales."
+        },
+        {
+          "letter": "D",
+          "text": "Se debe declarar que la pobreza extrema y la discriminación racial han desaparecido del Perú contemporáneo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reconfiguración de clases no significa la desaparición de la pobreza o racismo; solo complejiza los canales y actores de la misma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Perú contemporáneo presenta dinámicas socioeconómicas híbridas. La vieja estructura feudal terrateniente dio paso a una sociedad de mercado altamente informalizada con fuerte base andina urbana. Por ello, el ensayo contemporáneo debe renovar sus herramientas teóricas para no caer en anacronismos descriptivos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "En una columna de opinión de un diario peruano se lee:\n'El proyecto de ley propuesto por el congresista X para regular las tarifas universitarias debe ser archivado de inmediato. No olvidemos que dicho congresista tiene denuncias pendientes por plagio de tesis académica'.\nDesde una perspectiva analítica de la lógica formal, ¿qué tipo de falacia comete el columnista y por qué invalida su argumento de rechazo al proyecto de ley?",
+      "context": "Evaluación del valor argumentativo de las falacias en discursos públicos de la política peruana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia de apelación a la ignorancia (ad ignorantiam); porque asume que si no hay sentencia firme el congresista es inocente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ad ignorantiam ocurre cuando se afirma que algo es verdadero solo porque no se ha demostrado su falsedad."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia de apelación a la autoridad (ad verecundiam); porque cita a una entidad académica ajena a la universidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ad verecundiam ocurre cuando se defiende una idea apelando a la opinión de un experto fuera de su campo de especialidad."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de ataque a la persona (ad hominem); porque busca descalificar el proyecto de ley deslegitimando la conducta moral del proponente, en lugar de analizar el contenido o viabilidad de la propuesta de tarifas",
+          "is_correct": true,
+          "feedback": "Correcto. La falacia ad hominem desvía la atención del debate real (la conveniencia del proyecto sobre tarifas universitarias) atacando la credibilidad personal del emisor (las denuncias de plagio). Aunque la denuncia sea moralmente censurable, la ley en sí misma debe ser analizada por sus propios méritos fácticos y técnicos."
+        },
+        {
+          "letter": "D",
+          "text": "Falacia del espantapájaros; porque exagera las consecuencias económicas de la ley para asustar a los rectores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espantapájaros consiste en caricaturizar la postura contraria para atacarla más fácilmente; aquí el foco es el ataque personal directo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falacia ad hominem (ataque a la persona) es muy recurrente en debates públicos y políticos. Su error de razonamiento reside en asumir que los defectos personales, morales o de historial de un emisor invalidan automáticamente la verdad de sus afirmaciones o el valor técnico de sus proyectos legislativos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v1",
+      "statement": "En una lectura en Trujillo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v2",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v3",
+      "statement": "Identifica el conector: Huancayo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v4",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Miguel estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Miguel estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v5",
+      "statement": "En el Colegio Nacional San Jose de Chiclayo, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v6",
+      "statement": "En una lectura en Chiclayo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v7",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v8",
+      "statement": "Identifica el conector: Huancayo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v9",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Simbolos Patrios estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Simbolos Patrios estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v10",
+      "statement": "En el Colegio Nacional Simbolos Patrios de Moquegua, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v11",
+      "statement": "En una lectura en Ayacucho: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v12",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v13",
+      "statement": "Identifica el conector: Huaraz es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v14",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Iquitos estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Iquitos estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v15",
+      "statement": "En el Colegio Nacional San Miguel de Piura, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v16",
+      "statement": "En una lectura en Huancayo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v17",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v18",
+      "statement": "Identifica el conector: Trujillo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v19",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Ramon estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Ramon estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-v20",
+      "statement": "En el Colegio Nacional Iquitos de Iquitos, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W02-lenguaje-lengua-habla-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}
