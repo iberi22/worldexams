@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** Martina identifica la estructura de una función exponencial en su colegio de Santiago.
 
@@ -39,7 +39,7 @@ Una función exponencial es aquella en la que la variable independiente $x$ apar
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza el intercepto con el eje Y de una función exponencial.
 
@@ -58,7 +58,7 @@ El intercepto con el eje Y se halla evaluando $f(0)$. Para la función $f(x) = a
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Se requiere calcular el valor de una función exponencial para una preimagen dada.
 
@@ -77,7 +77,7 @@ Para evaluar $f(4)$, sustituimos $x$ por 4 en la base 3: $3^4$. Realizamos la mu
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el crecimiento o decrecimiento de la función exponencial.
 
@@ -96,7 +96,7 @@ Si la base $a$ está entre 0 y 1 (por ejemplo $1/2$), cada vez que $x$ aumenta, 
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Valentina evalúa una función exponencial con exponente negativo en Valparaíso.
 
@@ -115,7 +115,7 @@ Un exponente negativo indica el recíproco de la potencia con exponente positivo
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se analiza el comportamiento asintótico de la función.
 
@@ -134,7 +134,7 @@ Para la función $f(x) = a^x$, el valor de $y$ siempre es positivo y se aproxima
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Benjamín observa el crecimiento de una población de bacterias que se duplica cada 20 minutos.
 
@@ -153,7 +153,7 @@ El modelo general de crecimiento exponencial es $f(t) = C \cdot a^t$, donde $C$ 
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Valentina analiza la depreciación de un computador que pierde el 20% de su valor cada año.
 
@@ -172,7 +172,7 @@ Cuando una cantidad disminuye un porcentaje fijo $r$, el factor de crecimiento e
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** En un laboratorio en Concepción, una sustancia radioactiva se reduce a la mitad cada 10 años.
 
@@ -191,7 +191,7 @@ Si hoy hay $64 \text{ gramos}$, ¿cuántos gramos quedarán después de 30 años
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el dominio y recorrido de una función exponencial desplazada.
 
@@ -210,7 +210,7 @@ La función básica $3^x$ tiene recorrido $(0, \infty)$. Al sumarle 4, toda la g
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** Un capital de \$1.000.000 se invierte a un interés compuesto anual del 10%.
 
@@ -229,7 +229,7 @@ Fórmula de interés compuesto: $M = P(1 + i)^t$. Sustituimos: $M = 1.000.000 \c
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante en Temuco resuelve una ecuación exponencial igualando bases.
 
@@ -248,7 +248,7 @@ Primero expresamos 32 como una potencia de 2: $32 = 2^5$. Igualamos los exponent
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se comparan los valores de dos funciones: $f(x) = 2^x$ y $g(x) = x^2$.
 
@@ -267,7 +267,7 @@ Comparamos: para $x=4$, $2^4=16$ y $4^2=16$. Para $x=5$, $2^5=32$ y $5^2=25$. A 
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudio discute sobre las reflexiones de la función exponencial.
 
@@ -286,7 +286,7 @@ Notamos que $(1/2)^x = (2^{-1})^x = 2^{-x}$. Reemplazar $x$ por $-x$ en una func
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide identificar la función exponencial que pasa por los puntos $(0, 1)$ y $(2, 25)$.
 
@@ -305,7 +305,7 @@ Buscamos $f(x) = a^x$. Usamos el punto $(2, 25)$: $25 = a^2$. Aplicando raíz cu
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** Una inversión crece según la función $M(t) = 500.000 \cdot (1,05)^t$.
 
@@ -324,7 +324,7 @@ En el modelo $C(1+r)^t$, el valor $r$ representa la tasa de crecimiento decimal.
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Se analiza una ecuación exponencial donde las bases no son potencias evidentes una de la otra.
 
@@ -343,7 +343,7 @@ Igualamos bases usando la base común 3: $(3^2)^x = (3^3)^{x-1}$. Aplicamos pote
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Se pide hallar el valor de $x$ para el cual $2^x = \frac{1}{\sqrt{2}}$.
 
@@ -362,7 +362,7 @@ Expresamos el lado derecho como potencia de 2: $\frac{1}{\sqrt{2}} = \frac{1}{2^
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Se analiza el comportamiento de la función $f(x) = a^x$ cuando $a$ es muy grande.
 
@@ -381,7 +381,7 @@ Sin importar qué tan grande sea la base $a$, la función exponencial siempre pa
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un profesor en Puerto Montt pregunta sobre la relación entre la función exponencial y su inversa.
 

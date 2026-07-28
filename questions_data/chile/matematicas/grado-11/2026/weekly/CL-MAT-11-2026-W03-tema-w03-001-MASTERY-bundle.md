@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** Martina está repasando las propiedades de las potencias para una prueba en su liceo.
 
@@ -39,7 +39,7 @@ Calculamos cada término por separado: $3^0 = 1$ (propiedad de potencia con expo
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante de Antofagasta analiza la relación entre raíces y potencias.
 
@@ -58,7 +58,7 @@ Una raíz enésima se puede expresar como una potencia de exponente fraccionario
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Se requiere simplificar una expresión con potencias de igual base.
 
@@ -77,7 +77,7 @@ Aplicamos las propiedades de las potencias de igual base: en la multiplicación 
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el comportamiento de las potencias con base negativa.
 
@@ -96,7 +96,7 @@ En $(-2)^4$, la base es $-2$, y $(-2) \cdot (-2) \cdot (-2) \cdot (-2) = 16$. En
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Un biólogo en Puerto Montt estudia el crecimiento de un hongo que triplica su tamaño cada día.
 
@@ -115,7 +115,7 @@ La medida inicial es $9 = 3^2 \text{ mm}$. Si triplica su tamaño cada día, en 
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se solicita racionalizar una expresión que contiene una raíz en el denominador.
 
@@ -134,7 +134,7 @@ Multiplicamos numerador y denominador por $\sqrt{3}$ para eliminar la raíz del 
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Benjamín simplifica raíces para resolver un problema de geometría.
 
@@ -153,7 +153,7 @@ Primero simplificamos la raíz: $\sqrt{18} = \sqrt{9 \cdot 2} = 3\sqrt{2}$. Lueg
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero hidráulico calcula la velocidad de salida de agua usando la fórmula de Torricelli $v = \sqrt{2gh}$.
 
@@ -172,7 +172,7 @@ Sustituimos los valores en la fórmula: $v = \sqrt{2 \cdot 10 \cdot 5}$. Resolve
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** En un taller mecánico en Iquique, se trabaja con piezas cuyas dimensiones están en milímetros.
 
@@ -191,7 +191,7 @@ Extraemos la raíz cúbica de cada factor por separado: $\sqrt[3]{8} = 2$. Para 
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Se plantea una pregunta sobre el dominio de las raíces en los números reales.
 
@@ -210,7 +210,7 @@ Para que una raíz de índice par (como la raíz cuadrada) sea un número real, 
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** El área de un círculo es $75\pi \text{ cm}^2$.
 
@@ -229,7 +229,7 @@ La fórmula del área es $A = \pi r^2$. Igualamos: $75\pi = \pi r^2$, de donde $
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante en Temuco opera con potencias de potencias y bases distintas.
 
@@ -248,7 +248,7 @@ Primero igualamos las bases: $4^2 = (2^2)^2 = 2^4$. Aplicamos potencia de una po
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se analiza el resultado de una suma de raíces de distinto argumento.
 
@@ -267,7 +267,7 @@ Simplificamos cada raíz: $\sqrt{12} = 2\sqrt{3}$, $\sqrt{27} = 3\sqrt{3}$ y $\s
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudio en Valparaíso discute sobre las propiedades de las raíces.
 
@@ -286,7 +286,7 @@ La raíz cuadrada es una operación distributiva respecto al producto y al cocie
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide ordenar de mayor a menor tres números: $a = 3\sqrt{2}$, $b = 2\sqrt{5}$ y $c = 4$.
 
@@ -305,7 +305,7 @@ Para comparar, introducimos los coeficientes dentro de las raíces: $a = \sqrt{3
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** Un arquitecto calcula la diagonal de una habitación de $4 \text{ m}$ de largo por $3 \text{ m}$ de ancho.
 
@@ -324,7 +324,7 @@ Aplicamos el teorema de Pitágoras: la diagonal al cuadrado es la suma de los cu
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Se analiza el comportamiento de potencias con exponentes negativos y fraccionarios.
 
@@ -343,7 +343,7 @@ Primero resolvemos el exponente fraccionario (raíz cuarta): $\sqrt[4]{16} = 2$.
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Se requiere resolver una ecuación que involucra una potencia y una raíz.
 
@@ -362,7 +362,7 @@ Primero calculamos el lado derecho: $\sqrt{81} = 9$. La ecuación es $x^2 = 9$. 
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Se pide simplificar una expresión compleja con raíces anidadas.
 
@@ -381,7 +381,7 @@ Expresamos las raíces como exponentes: $\sqrt{x \cdot x^{1/2}}$. Sumamos los ex
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un profesor en Concepción desafía a sus alumnos a encontrar el error en una demostración sobre potencias.
 

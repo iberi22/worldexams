@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** Martina identifica los elementos de una función lineal en su cuaderno de Santiago.
 
@@ -39,7 +39,7 @@ En la expresión $f(x) = mx + n$, $n$ es el coeficiente de posición. Gráficame
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza la diferencia entre función lineal y función afín en Antofagasta.
 
@@ -58,7 +58,7 @@ Una función lineal pura ($f(x) = mx$) se caracteriza por representar una propor
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Se requiere calcular el valor de una función para una preimagen dada.
 
@@ -77,7 +77,7 @@ Para hallar el valor de la función, evaluamos la expresión sustituyendo $x$ po
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el comportamiento de una recta según su pendiente.
 
@@ -96,7 +96,7 @@ La pendiente $m$ indica la tasa de cambio. Si $m$ es negativa, la función es de
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Valentina calcula la pendiente de una recta que pasa por dos puntos en Valparaíso.
 
@@ -115,7 +115,7 @@ La pendiente se calcula mediante la razón entre el cambio en $y$ y el cambio en
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se plantea una situación de cobro por servicio técnico en Concepción.
 
@@ -134,7 +134,7 @@ Identificamos los componentes: el cargo por hora es la pendiente ($8.000$ por ca
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Benjamín analiza la intersección de una recta con el eje X.
 
@@ -153,7 +153,7 @@ Para hallar el intercepto con el eje X (cero de la función), igualamos la funci
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Un estanque de 200 litros inicialmente tiene 40 litros y se llena a razón de 20 litros por minuto.
 
@@ -172,7 +172,7 @@ La función de volumen es $V(x) = 20x + 40$. Queremos saber cuándo $V(x) = 200$
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** En una tienda de telas en Iquique, el precio $P$ de una pieza depende de los metros $m$ comprados.
 
@@ -191,7 +191,7 @@ Es una función lineal del tipo $P(m) = km$. Hallamos $k$: $12.500 = k \cdot 5 \
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Se analiza la relación entre dos rectas en el plano.
 
@@ -210,7 +210,7 @@ Dos rectas son paralelas si y solo si tienen exactamente la misma pendiente ($m_
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** Se busca determinar la ecuación de la recta que pasa por un punto dado y tiene una pendiente conocida.
 
@@ -229,7 +229,7 @@ Usamos la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituimos: $y - 4 = -
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante en Temuco determina la ecuación de una recta a partir de dos puntos.
 
@@ -248,7 +248,7 @@ Como pasa por $(0, 5)$, sabemos que $n = 5$. Calculamos la pendiente $m$ usando 
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se analiza el resultado de intersectar dos rectas en el plano.
 
@@ -267,7 +267,7 @@ Igualamos las funciones para hallar la coordenada $x$ del punto común: $3x + 1 
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudio en Valparaíso discute sobre las funciones constantes.
 
@@ -286,7 +286,7 @@ La función $f(x) = 7$ se puede escribir como $f(x) = 0x + 7$. Como el coeficien
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide identificar la función a partir de un gráfico que corta al eje X en -3 y al eje Y en 6.
 
@@ -305,7 +305,7 @@ Intercepto con Y en 6 significa $n=6$. Puntos: $(0, 6)$ y $(-3, 0)$. Pendiente $
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** La temperatura en un cerro baja uniformemente a medida que se sube. En la base ($0 \text{ m}$) hay $25^\circ\text{C}$ y a los $1.000 \text{ m}$ hay $19^\circ\text{C}$.
 
@@ -324,7 +324,7 @@ Temperatura inicial $T(0) = 25$, entonces $n=25$. Pendiente $m = \Delta T / \Del
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Se analiza el efecto de transformar los coeficientes de una función afín.
 
@@ -343,7 +343,7 @@ La pendiente original es $m$, al duplicarla resulta $2m$. El coeficiente de posi
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Se requiere hallar la función inversa de una función afín.
 
@@ -362,7 +362,7 @@ Para hallar la inversa, despejamos $x$: $y = 3x - 12 \Rightarrow y + 12 = 3x \Ri
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Un problema involucra la composición de dos funciones lineales.
 
@@ -381,7 +381,7 @@ La composición $(f \circ g)(x)$ significa evaluar $f$ con el resultado de $g(x)
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un profesor en Puerto Montt pregunta sobre la perpendicularidad de funciones.
 

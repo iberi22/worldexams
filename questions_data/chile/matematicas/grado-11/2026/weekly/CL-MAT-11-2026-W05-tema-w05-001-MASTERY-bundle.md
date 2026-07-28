@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** Martina resuelve una ecuación simple en su clase de matemáticas en Santiago.
 
@@ -39,7 +39,7 @@ Para despejar la incógnita $x$, aplicamos la operación inversa a la suma, que 
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante de Antofagasta identifica los pasos para resolver una ecuación.
 
@@ -58,7 +58,7 @@ Para despejar $x$, el primer paso es eliminar el paréntesis. Podemos dividir to
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Se busca el valor de una incógnita en una ecuación con resta.
 
@@ -77,7 +77,7 @@ Primero sumamos 8 a ambos lados para aislar el término con la incógnita: $2x =
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el lenguaje algebraico aplicado a la vida diaria.
 
@@ -96,7 +96,7 @@ Traducimos paso a paso: "el doble de un número" se escribe como $2x$, "aumentad
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Un técnico en Puerto Montt calcula la temperatura final de un sistema.
 
@@ -115,7 +115,7 @@ Agrupamos los términos con $x$ en un lado y los números constantes en el otro.
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se plantea una ecuación que contiene fracciones simples.
 
@@ -134,7 +134,7 @@ Primero aislamos el término fraccionario restando 4 a ambos lados: $x/3 = 10 - 
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Benjamín paga una cuenta de luz que incluye un cargo fijo y un costo por kWh.
 
@@ -153,7 +153,7 @@ Planteamos la ecuación $120x + 2.500 = 16.900$, donde $x$ son los kWh. Restamos
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Un sastre en Iquique necesita cortar una cinta de $100 \text{ cm}$ en dos partes, de modo que una sea $20 \text{ cm}$ más larga que la otra.
 
@@ -172,7 +172,7 @@ Llamamos $x$ a la parte corta. La larga es $x + 20$. La suma de ambas es 100: $x
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** En una tienda de deportes de La Serena, 3 pelotas de tenis y una de fútbol cuestan \$15.000.
 
@@ -191,7 +191,7 @@ Planteamos $3t + 9.000 = 15.000$. Restamos el valor de la pelota de fútbol: $3t
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Se analiza una ecuación que no tiene solución.
 
@@ -210,7 +210,7 @@ Al intentar agrupar las $x$, restamos $2x$ a ambos lados: $2x - 2x + 5 = 2x - 2x
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** Se busca un número tal que sus tres cuartas partes sumadas con 10 den 40.
 
@@ -229,7 +229,7 @@ Planteamos la ecuación $\frac{3}{4}x + 10 = 40$. Restamos 10: $\frac{3}{4}x = 3
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante en Temuco resuelve una ecuación con paréntesis anidados.
 
@@ -248,7 +248,7 @@ Distribuimos: $4x - 8 - 3x - 3 = 5$. Agrupamos términos semejantes: $(4x - 3x) 
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se analiza el resultado de tres números enteros consecutivos cuya suma es 72.
 
@@ -267,7 +267,7 @@ Llamamos a los números $x$, $x+1$ y $x+2$. Su suma es $3x + 3 = 72$. Restamos 3
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudio discute la solución de una ecuación literal.
 
@@ -286,7 +286,7 @@ Para despejar $x$, primero restamos $b$ de ambos lados: $ax = c - b$. Luego, com
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide encontrar la solución de una ecuación con términos en el denominador.
 
@@ -305,7 +305,7 @@ Multiplicamos cruzado para eliminar los denominadores: $2(x + 6) = 5x$. Distribu
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** Un depósito contiene cierta cantidad de agua. Si se retiran 15 litros, queda la tercera parte de lo que había inicialmente.
 
@@ -324,7 +324,7 @@ Sea $x$ la cantidad inicial. La ecuación es $x - 15 = x/3$. Multiplicamos todo 
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Se analiza una ecuación con valor absoluto.
 
@@ -343,7 +343,7 @@ La expresión dentro del valor absoluto puede ser 7 o $-7$. Caso 1: $x - 4 = 7 \
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Un estudiante en Valparaíso resuelve una ecuación con variables en el denominador que requiere cuidado con el dominio.
 
@@ -362,7 +362,7 @@ Multiplicamos todo por $(x-2)$: $x = 2 + 5(x-2)$. Expandimos: $x = 2 + 5x - 10 \
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** En un examen avanzado, se pide hallar el valor de $x$ en una ecuación con potencias.
 
@@ -381,7 +381,7 @@ Igualamos las bases: $3^{x+1} = 3^3$. Como las bases son iguales, los exponentes
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un profesor en Concepción pregunta sobre la interpretación geométrica de una ecuación lineal.
 
