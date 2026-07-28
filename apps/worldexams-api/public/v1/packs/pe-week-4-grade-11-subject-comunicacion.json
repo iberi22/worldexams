@@ -1,0 +1,1791 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-4-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.420Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica sintáctica fundamental que define a una oración compuesta frente a una oración simple?",
+      "context": "Un estudiante en un colegio de Trujillo repasa la diferencia entre oración simple y oración compuesta para el examen bimestral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de más de tres adjetivos calificativos en el predicado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de adjetivos no determina la estructura simple o compuesta de la oración."
+        },
+        {
+          "letter": "B",
+          "text": "La extensión del sujeto, que debe superar las diez palabras escritas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto puede ser muy extenso en una oración simple si tiene modificadores, sin que sea compuesta."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de dos o más proposiciones, cada una estructurada en torno a un verbo conjugado (o frase verbal)",
+          "is_correct": true,
+          "feedback": "Correcto. La oración compuesta se caracteriza por poseer múltiples proposiciones, lo que implica la presencia de más de un verbo conjugado o estructura verbal."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de signos de exclamación al inicio y al final del enunciado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto responde a la modalidad oracional (oración exclamativa), no a su complejidad sintáctica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sintácticamente, una oración es compuesta cuando contiene dos o más verbos conjugados, dando origen a sendas proposiciones conectadas por coordinación, subordinación o yuxtaposición.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "¿Qué nexo conjuntivo es el más común para introducir una proposición subordinada sustantiva en función de objeto directo?",
+      "context": "En un aula preuniversitaria en San Juan de Lurigancho, se enseña a clasificar las proposiciones subordinadas sustantivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "el cual / la cual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son pronombres relativos que introducen proposiciones subordinadas adjetivas, no sustantivas."
+        },
+        {
+          "letter": "B",
+          "text": "donde / cuando",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introducen proposiciones subordinadas adverbiales de lugar y tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "que (conjunción completiva)",
+          "is_correct": true,
+          "feedback": "Correcto. La conjunción completiva 'que' es el nexo paradigmático para introducir subordinadas sustantivas de objeto directo (ej. 'Él dijo *que vendría*')."
+        },
+        {
+          "letter": "D",
+          "text": "porque / ya que",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conjunciones causales que introducen subordinadas adverbiales de causa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las proposiciones subordinadas sustantivas cumplen las mismas funciones que un sustantivo o sintagma nominal (sujeto, objeto directo, atributo, etc.). El nexo completivo 'que' es el conector más frecuente para estas subordinaciones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "Lea la oración:\n'El novelista arequipeño entregó el manuscrito corregido a su editor de confianza en la biblioteca'.\n¿Cuál es la función sintáctica que cumple el sintagma 'el manuscrito corregido'?",
+      "context": "Análisis de funciones sintácticas en la obra de Mario Vargas Llosa en un colegio de Tacna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto de la oración activa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto es 'El novelista arequipeño', quien realiza la acción de entregar."
+        },
+        {
+          "letter": "B",
+          "text": "Objeto Directo (OD)",
+          "is_correct": true,
+          "feedback": "Correcto. 'El manuscrito corregido' es el sintagma sobre el cual recae directamente la acción del verbo 'entregar' (se puede sustituir por el pronombre lo: 'El novelista lo entregó')."
+        },
+        {
+          "letter": "C",
+          "text": "Objeto Indirecto (OI)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objeto indirecto es 'a su editor de confianza', el destinatario o beneficiario de la acción verbal."
+        },
+        {
+          "letter": "D",
+          "text": "Circunstancial de Instrumento",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica con qué instrumento se entregó, sino el objeto físico entregado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Objeto Directo es el argumento verbal que sufre o recibe directamente la acción expresada por el verbo transitivo, admitiendo la sustitución pronominal por lo/la/los/las.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "Identifique la oración que contiene una proposición subordinada adjetiva explicativa (o de relativo explicativo):",
+      "context": "Un ejercicio de identificación de oraciones subordinadas adjetivas especificativas y explicativas en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los estudiantes que estudiaron a conciencia aprobaron el riguroso examen de San Marcos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es especificativa: delimita el universo de estudiantes (solo aprobaron los que estudiaron). No lleva comas."
+        },
+        {
+          "letter": "B",
+          "text": "Los agricultores de Piura, que perdieron sus cultivos por las intensas lluvias, solicitaron ayuda estatal.",
+          "is_correct": true,
+          "feedback": "Correcto. Es adjetiva explicativa: va entre comas y añade una cualidad o información complementaria sobre todo el conjunto de agricultores de Piura sin restringir el sujeto."
+        },
+        {
+          "letter": "C",
+          "text": "Quien mal anda mal acaba en los callejones del viejo centro de Lima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una proposición subordinada sustantiva en función de sujeto, no adjetiva."
+        },
+        {
+          "letter": "D",
+          "text": "Los turistas visitaron la hermosa ciudadela de Machu Picchu cuando salió el sol por la mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contiene una proposición subordinada adverbial temporal ('cuando salió el sol'), no adjetiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las proposiciones subordinadas adjetivas explicativas van necesariamente aisladas por comas en la escritura. Su función es explicar una circunstancia del antecedente sin limitar o delimitar su significado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "Lea la oración:\n'El arqueólogo ________ descubrió las tumbas reales en Chiclayo dictó una magistral conferencia en nuestro colegio'.\n¿Qué pronombre relativo y estructura de nexo restituye la oración con total corrección gramatical y cohesión?",
+      "context": "Un grupo de estudio en Arequipa analiza el pronombre relativo 'quien' y sus restricciones en la subordinación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "quien",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronombre 'quien' sin preposición no puede introducir relativas especificativas con antecedente de persona cuando cumple función de sujeto en la redacción formal estándar."
+        },
+        {
+          "letter": "B",
+          "text": "que (o el que / el cual)",
+          "is_correct": true,
+          "feedback": "Correcto. El pronombre relativo 'que' es idóneo y correcto para introducir relativas especificativas de persona o cosa en función de sujeto ('El arqueólogo que descubrió...')."
+        },
+        {
+          "letter": "C",
+          "text": "cuyo",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Cuyo' es posesivo y requeriría concordar con un sustantivo poseído inmediatamente después, lo cual no ocurre aquí."
+        },
+        {
+          "letter": "D",
+          "text": "donde",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Donde' es un relativo de lugar e inadecuado para referirse a un arqueólogo (persona)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El relativo general 'que' es el nexo más versátil de nuestra lengua. Sirve para antecedente de persona en cláusulas especificativas de sujeto, función que no puede realizar 'quien' de forma aislada sin comas o preposición antecedente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "Lea la oración compuesta:\n'Durante las vacaciones del año pasado, recorrimos el Valle Sagrado de los Incas y compramos hermosas artesanías de Pisac'.\n¿Cuál es el sujeto gramatical de los dos verbos coordinados en esta oración?",
+      "context": "Se estudia el reconocimiento del sujeto elíptico o tácito en oraciones compuestas en un colegio de Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vacaciones (sujeto expreso plural)",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Vacaciones' está precedido por preposición ('Durante') formando un sintagma preposicional circunstancial de tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "El Valle Sagrado de los Incas (sujeto compuesto pasivo)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el objeto directo del verbo 'recorrimos' (recorrimos eso; lo recorrimos)."
+        },
+        {
+          "letter": "C",
+          "text": "Nosotros / Nosotras (sujeto tácito o elíptico en primera persona del plural)",
+          "is_correct": true,
+          "feedback": "Correcto. La desinencia verbal de 'recorrimos' y 'compramos' (-mos) indica de forma inequívoca que el sujeto es de primera persona plural, omitido por elisión lógica del discurso."
+        },
+        {
+          "letter": "D",
+          "text": "Las artesanías de Pisac (sujeto expreso inanimado)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el objeto directo del verbo 'compramos' (las compramos)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sujeto tácito o elíptico se reconoce a través de la morfología flexiva de número y persona presente en la terminación del verbo conjugado de la oración.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Señale la oración compuesta coordinada que expresa una relación de exclusión mutua u opción alternativa entre las proposiciones vinculadas:",
+      "context": "Un ejercicio de análisis de oraciones coordinadas copulativas, disyuntivas y adversativas en Huancayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tren macho sale temprano hacia Huancavelica e inicia su largo recorrido andino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una oración coordinada copulativa (relación de suma o adición)."
+        },
+        {
+          "letter": "B",
+          "text": "O bien nos inscribimos en el taller intensivo de oratoria, o bien matriculamos el curso de redacción científica.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una oración coordinada disyuntiva distributiva que plantea una alternativa de opción excluyente mediante los nexos disyuntivos 'o bien... o bien...'."
+        },
+        {
+          "letter": "C",
+          "text": "El estudiante tiene talento para la poesía, pero le falta disciplina de lectura de vanguardia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es coordinada adversativa (relación de contraposición o contraste)."
+        },
+        {
+          "letter": "D",
+          "text": "Los pobladores sembraron papas, es decir, trabajaron la tierra fértil de la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es coordinada explicativa (el segundo miembro aclara el sentido del primero)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las oraciones coordinadas disyuntivas conectan proposiciones que plantean elecciones o alternativas excluyentes o equivalentes, utilizando conjunciones como o, u, o bien.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "Lea la oración:\n'Me entusiasma muchísimo que los jóvenes peruanos muestren interés por la investigación científica'.\n¿Qué función sintáctica cumple la proposición subordinada sustantiva destacada ('que los jóvenes peruanos muestren interés por la investigación científica')?",
+      "context": "Práctica de sintaxis avanzada para postular a la UNI en la ciudad de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objeto Directo (OD) del verbo entusiasmar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede sustituir por 'lo': no se dice 'Me lo entusiasma'. El verbo entusiasmar opera de otra manera sintáctica aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Sujeto de la oración principal",
+          "is_correct": true,
+          "feedback": "Correcto. La proposición sustantiva es el sujeto de 'entusiasma' (equivale a 'Esa actitud me entusiasma', pluralizando: 'Esas actitudes me entusiasman'). El sujeto concuerda en número con el verbo principal."
+        },
+        {
+          "letter": "C",
+          "text": "Objeto Indirecto (OI) con clítico duplicado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El OI es el pronombre átono 'Me' que recibe el entusiasmo."
+        },
+        {
+          "letter": "D",
+          "text": "Circunstancial de Causa del entusiasmo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque semánticamente indique el motivo, sintácticamente cumple la función indispensable de sujeto oracional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar si una subordinada sustantiva es sujeto, se la reemplaza por el pronombre neutro 'eso' y se realiza la prueba de concordancia con el verbo: 'Me entusiasma *eso*' -> 'Me entusiasman *esas cosas*'. Al variar el verbo a plural, se confirma su función de sujeto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "Lea la oración en voz pasiva analítica:\n'La remodelación del teatro municipal de Chiclayo fue gestionada eficientemente por el alcalde provincial'.\nSi transformamos este enunciado a la voz activa, ¿qué función sintáctica asumirá el sintagma 'por el alcalde provincial'?",
+      "context": "Análisis sintáctico del agente en oraciones pasivas en un taller de comunicación en Chiclayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objeto Directo en la oración activa resultante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El OD de la activa será 'la remodelación del teatro municipal'."
+        },
+        {
+          "letter": "B",
+          "text": "Se mantendrá invariable como complemento de régimen verbal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura activa cambia radicalmente la función de los complementos pasivos."
+        },
+        {
+          "letter": "C",
+          "text": "Sujeto de la oración activa resultante",
+          "is_correct": true,
+          "feedback": "Correcto. El sintagma 'por el alcalde provincial' es el complemento agente en la oración pasiva, por lo que al pasar a la activa se convierte en el sujeto de la acción verbal ('El alcalde provincial gestionó eficientemente la remodelación...')."
+        },
+        {
+          "letter": "D",
+          "text": "Circunstancial de Instrumento en la activa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcalde realiza la acción de gestionar; no es un instrumento inanimado usado para ello."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la transición de voz pasiva a activa, el complemento agente de la pasiva (que realiza la acción física) asume el rol sintáctico de sujeto de la oración activa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "Lea la oración:\n'Los pescadores artesanales trabajaban arduamente en alta mar desde la madrugada con redes de nilón'.\nSeñale la opción que clasifica correctamente, en orden de aparición, los complementos circunstanciales de este enunciado:",
+      "context": "Se estudian los tipos de circunstanciales en un texto descriptivo del puerto de Chimbote.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compañía - Tiempo - Instrumento - Modo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay circunstancial de compañía y el orden no corresponde."
+        },
+        {
+          "letter": "B",
+          "text": "Lugar - Modo - Tiempo - Materia",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Arduamente' es modo y va antes que el lugar 'en alta mar'."
+        },
+        {
+          "letter": "C",
+          "text": "Modo (arduamente) - Lugar (en alta mar) - Tiempo (desde la madrugada) - Instrumento (con redes de nilón)",
+          "is_correct": true,
+          "feedback": "Correcto. Clasifica con exactitud sintáctica y semántica cada circunstancial en su orden de aparición respectivo."
+        },
+        {
+          "letter": "D",
+          "text": "Tiempo - Instrumento - Lugar - Compañía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Clasificación desordenada e incorrecta de los argumentos circunstanciales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los complementos circunstanciales aportan precisiones semánticas sobre el marco o periferia en que se realiza la acción verbal (lugar, tiempo, modo, instrumento, etc.) sin ser exigidos sintácticamente por el verbo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Identifique la oración que contiene una proposición subordinada adverbial concesiva:",
+      "context": "Un examen de admisión simulado en Trujillo analiza las proposiciones subordinadas adverbiales concesivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trabajamos arduamente para que el proyecto vial de la región sea aprobado pronto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es subordinada adverbial final (indica propósito o fin: 'para que')."
+        },
+        {
+          "letter": "B",
+          "text": "Aunque las heladas afectaron los campos de cultivo de Puno, los comuneros lograron rescatar parte de la cosecha de quinua.",
+          "is_correct": true,
+          "feedback": "Correcto. Contiene la proposición adverbial concesiva introducida por 'Aunque', la cual plantea un obstáculo real que no impide que se cumpla la acción principal."
+        },
+        {
+          "letter": "C",
+          "text": "Si viajas a Iquitos este fin de semana, debes traer frutos tropicales para la feria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es subordinada adverbial condicional (indica hipótesis o condición: 'Si')."
+        },
+        {
+          "letter": "D",
+          "text": "La carretera central colapsó debido a que se produjo un huayco de grandes proporciones en Chosica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es subordinada adverbial causal (explica la causa de la caída de la carretera: 'debido a que')."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las proposiciones subordinadas adverbiales concesivas (introducidas por aunque, aun cuando, por más que, a pesar de que) expresan un impedimento parcial o dificultad que no frustra la realización del verbo principal.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "Lea la oración con un error común en el registro oral peruano:\n'Fueron los directivos de la empresa que tomaron la decisión de suspender los trabajos de exploración'.\n¿Cuál es la reescritura que corrige con rigor sintáctico y elegancia literaria este enunciado?",
+      "context": "Revisión de textos académicos para evitar el uso incorrecto del pronombre 'que' en lugar de 'quien' (queísmo de persona en Piura).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fueron los directivos de la empresa de los cuales que tomaron la decisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'De los cuales que' es una estructura agramatical redundante que empeora la frase."
+        },
+        {
+          "letter": "B",
+          "text": "Fueron los directivos de la empresa quienes tomaron la decisión de suspender los trabajos de exploración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque comprensible, en oraciones copulativas enfáticas de este tipo, la concordancia con el relativo exige mayor precisión estilística o la elisión del 'fueron' inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Los directivos de la empresa fueron quienes tomaron la decisión de suspender los trabajos de exploración.",
+          "is_correct": true,
+          "feedback": "Correcto. Reordena la sintaxis oracional de forma natural, eliminando la pesadez de la cópula inicial trunca y empleando correctamente el pronombre relativo plural 'quienes' en función de sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "Fue los directivos de la empresa el que tomó la decisión de suspender los trabajos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta graves discordancias de número entre el verbo ('Fue' singular) y el sujeto ('directivos' plural) y el relativo ('el que')."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El orden sintáctico directo (Sujeto + Verbo + Atributo/Complemento) previene las discordancias gramaticales y la pesadez discursiva propia de las estructuras enfáticas mal construidas con 'ser + que'.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "Identifique el enunciado que incurre en el error sintáctico conocido como 'dequeísmo':",
+      "context": "Se analiza el comportamiento del pronombre neutro 'lo' en función de OD e instrumentalización del dequeísmo en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La profesora de literatura nos sugirió que leyéramos poemas de Blanca Varela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso correcto de sustantiva OD: 'sugirió eso' (sugirió *que*). No lleva de."
+        },
+        {
+          "letter": "B",
+          "text": "Los arqueólogos tienen la certeza de que el sitio prehispánico perteneció a la cultura Lima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso correcto de complemento de nombre: 'certeza de eso' (certeza *de que*). Exige la preposición de."
+        },
+        {
+          "letter": "C",
+          "text": "El rector de la universidad consideró de que era urgente reestructurar el examen de admisión.",
+          "is_correct": true,
+          "feedback": "Correcto. Incurre en dequeísmo. El verbo 'considerar' es transitivo y exige un OD directo sin preposición: 'consideró *que era urgente...*' (consideró *eso*, no *de eso*)."
+        },
+        {
+          "letter": "D",
+          "text": "No cabe duda de que los estudiantes peruanos poseen un alto potencial de innovación tecnológica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uso correcto de locución: 'no cabe duda de eso' (duda *de que*)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dequeísmo consiste en la inserción indebida de la preposición 'de' antes de la conjunción completiva 'que' en estructuras oracionales que exigen un objeto directo simple sin nexo preposicional antecedente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "Lea detenidamente la siguiente oración:\n'A los postulantes de la Facultad de Ingeniería Civil les pareció sumamente complejo resolver el último problema de física cuántica'.\n¿Cuál es el núcleo del sujeto gramatical de este enunciado?",
+      "context": "Un examen UNI de alta exigencia evalúa la identificación del sujeto complejo en oraciones con pronombres de interés.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "postulantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'A los postulantes...' es un sintagma preposicional (marcado por la preposición 'A') que cumple la función sintáctica de objeto indirecto, por lo que no puede ser sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "Facultad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Forma parte de un modificador indirecto dentro del objeto indirecto."
+        },
+        {
+          "letter": "C",
+          "text": "resolver (verbo infinitivo como núcleo de la proposición sustantiva sujeto)",
+          "is_correct": true,
+          "feedback": "Correcto. El sujeto de 'pareció' es la proposición subordinada sustantiva infinitiva 'resolver el último problema...'. El núcleo de dicha proposición sujeto es el infinitivo 'resolver' (sustituyendo: 'Eso les pareció complejo' -> 'Esas cosas les parecieron complejas')."
+        },
+        {
+          "letter": "D",
+          "text": "problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el objeto directo del verbo infinitivo 'resolver' (resolver *eso*), no el sujeto de la oración principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los verbos de afección psíquica o evaluación (gustar, encantar, parecer, interesar) suelen colocar el sujeto pospuesto al verbo, siendo frecuente que este sujeto sea una proposición sustantiva con núcleo en infinitivo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "Lea los siguientes enunciados:\nI. 'El joven arequipeño confía en las promesas de su mentor académico'.\nII. 'El joven arequipeño respeta las promesas de su mentor académico'.\nSintácticamente, ¿qué diferencia existe entre los complementos subrayados ('en las promesas...' y 'las promesas...')?",
+      "context": "Análisis del complemento de régimen verbal en contraste con el objeto directo en Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son objetos directos porque responden a la pregunta ¿qué?",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primero está precedido por una preposición obligatoria exigida por el verbo, lo que impide que sea un OD estándar."
+        },
+        {
+          "letter": "B",
+          "text": "El primero es circunstancial de lugar y el segundo objeto directo de instrumento",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'En las promesas' no indica un espacio físico ni geográfico real de ubicación circunstancial."
+        },
+        {
+          "letter": "C",
+          "text": "El primero es un complemento de régimen preposicional (CRP) y el segundo es un objeto directo (OD)",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo 'confiar' exige la preposición 'en' de manera constitutiva para enlazar su argumento (confiar *en algo*), lo que define al CRP; el verbo 'respetar' es transitivo puro y rige un OD directo sin preposición obligatoria para enlazar objetos inanimados."
+        },
+        {
+          "letter": "D",
+          "text": "El primero es sujeto paciente y el segundo complemento agente de la activa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos enunciados están en voz activa y el sujeto en ambos es 'El joven arequipeño'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El complemento de régimen verbal (o régimen preposicional) es un argumento oracional requerido obligatoriamente por la semántica del verbo, enlazado siempre mediante una preposición específica (confiar en, quejarse de, aspirar a).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "Lea el enunciado:\n'Se reparan calzados de cuero en este taller artesanal del Cusco'.\n¿Qué valor sintáctico o gramatical asume el pronombre 'Se' en esta oración?",
+      "context": "Análisis del pronombre 'se' y sus múltiples valores sintácticos, un clásico de admisión UNMSM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Signo de reflexividad pura (el calzado se repara a sí mismo)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calzado es inanimado y no posee agencia para realizar acciones reflejas sobre sí mismo."
+        },
+        {
+          "letter": "B",
+          "text": "Signo de impersonalidad sintáctica sin sujeto gramatical plural",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es impersonal pura, ya que el verbo concuerda en plural con el sujeto 'calzados' ('Se reparan calzados' / 'Se repara el calzado')."
+        },
+        {
+          "letter": "C",
+          "text": "Signo de pasiva refleja (marca de pasividad con sujeto expreso inanimado)",
+          "is_correct": true,
+          "feedback": "Correcto. En este caso 'Se' es un morfema de pasiva refleja, donde 'calzados de cuero' funciona sintácticamente como el sujeto pasivo que concuerda en plural con el verbo 'reparan' ('Los calzados son reparados')."
+        },
+        {
+          "letter": "D",
+          "text": "Pronombre personal en función de objeto indirecto con clítico duplicado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No equivale a 'a él' o 'a ella' ni cumple funciones de beneficiario indirecto de la acción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pasiva refleja se estructura con 'se + verbo activo + sujeto inanimado'. El sujeto inanimado ('calzados de cuero') concuerda siempre en número con el verbo conjugado, distinguiéndose de la impersonal refleja que carece de sujeto y solo va en singular (ej. 'Se busca a los culpables').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Lea el fragmento de un comunicado oficial:\n'La dotación de medicamentos y vacunas para los centros de salud andinos fueron distribuidas oportunamente por el Ministerio'.\n¿Cómo evalúa la concordancia sintáctica de este enunciado y cuál es su corrección?",
+      "context": "Evaluación del solecismo por discordancia sintáctica en textos oficiales del sector público peruano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto porque 'medicamentos y vacunas' es un sujeto compuesto plural que rige el verbo en plural",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo del sujeto es el sustantivo singular 'dotación', por lo que el verbo debe concordar con este núcleo, no con sus modificadores indirectos."
+        },
+        {
+          "letter": "B",
+          "text": "Incurre en solecismo por discordancia entre el núcleo del sujeto singular ('La dotación') y el verbo plural ('fueron distribuidas'), debiendo decirse 'fue distribuida'",
+          "is_correct": true,
+          "feedback": "Correcto. El redactor sufrió un error de atracción sintáctica por la cercanía de los sustantivos plurales 'medicamentos y vacunas'. Sin embargo, al ser el núcleo 'dotación' (singular femenino), el predicado pasivo debe ser 'fue distribuida oportunamente'."
+        },
+        {
+          "letter": "C",
+          "text": "Debería decirse 'fueron distribuidos' para concordar con el género masculino de 'salud andinos'",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Salud andinos' es parte de un circunstancial de destino y no tiene relación de concordancia con el verbo o sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcto porque la preposición 'para' anula toda regla de concordancia de número en el español estándar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las preposiciones no suspenden las reglas constitutivas de la concordancia de número y persona entre sujeto y verbo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La concordancia gramatical exige que el verbo concuerde en número y persona con el núcleo del sintagma nominal sujeto, con independencia de la presencia de modificadores internos plurificados o preposicionales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "Sintácticamente, el abuso de la voz pasiva analítica ('fue resuelto por este tribunal', 'fue decidido por la gerencia') en la redacción administrativa del Estado peruano es criticado por los lingüistas modernos porque:",
+      "context": "Un debate sobre la jerga burocrática y su impacto en la accesibilidad ciudadana en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohíbe de forma terminante el uso de adjetivos de origen quechua o aimara",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pasiva no afecta al inventario léxico o uso de adjetivos indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "Obliga a que todas las oraciones tengan que ser exclamativas y de bajo registro culterano",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pasiva analítica es declarativa y de registro formal-culto tradicional."
+        },
+        {
+          "letter": "C",
+          "text": "Dilata innecesariamente el procesamiento sintáctico de la oración y difumina la agencia directa del actor responsable del acto",
+          "is_correct": true,
+          "feedback": "Correcto. La pasiva analítica pospone o invisibiliza al sujeto agente de la acción, sobrecargando la frase con verbos auxiliares ('fue', 'sido') que restan dinamismo y claridad expositiva en comparación con la voz activa directa ('este tribunal resolvió', 'la gerencia decidió')."
+        },
+        {
+          "letter": "D",
+          "text": "Exige de forma obligatoria duplicar los objetos directos en la conclusión del párrafo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No produce duplicación de objetos directos de forma obligatoria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La campaña de 'lenguaje claro' en el Estado peruano promueve sustituir la pasiva analítica por la voz activa directa. Esto optimiza el procesamiento sintáctico en la lectura y delimita con total transparencia quién es la autoridad o entidad responsable del servicio o resolución.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "Considere la siguiente norma tributaria hipotética:\n'Se exonerará del impuesto a las importaciones de maquinarias y repuestos agrícolas de bajo costo que cuenten con certificación oficial'.\n¿Cuál es la ambigüedad sintáctica de esta redacción y qué peligro normativo entraña?",
+      "context": "Análisis de la ambigüedad sintáctica en textos normativos sobre impuestos de la SUNAT.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No define científicamente qué significa 'importación' según las leyes andinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término 'importación' está definido en la ley de aduanas; la ambigüedad es formal y sintáctica."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de un verbo copulativo impide aplicar multas a las empresas informales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exoneración se describe mediante el verbo 'exonerará'; el vacío no es por falta de verbo."
+        },
+        {
+          "letter": "C",
+          "text": "La cláusula adjetiva especificativa 'que cuenten con...' puede modificar únicamente a 'repuestos agrícolas' o a la suma de 'maquinarias y repuestos', abriendo la puerta a interpretaciones tributarias contradictorias",
+          "is_correct": true,
+          "feedback": "Correcto. El relativo 'que' está pospuesto a un sintagma coordinado ('maquinarias y repuestos agrícolas'). Al no delimitar la frontera sintáctica con precisión, la SUNAT podría argumentar que solo los repuestos requieren certificación, mientras que los importadores podrían exigir que aplique a ambos de forma indistinta, generando disputas legales."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de la palabra 'costo' invalida la aplicación de las tasas de interés compuesto en soles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra costo no afecta sintácticamente la vigencia de la tasa de interés de la SUNAT."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ambigüedad sintáctica por adjunción de cláusulas de relativo al final de sintagmas nominales complejos es un error clásico en la redacción de leyes. Se soluciona reestructurando la frase o dividiéndola en enunciados específicos para cada categoría de bien exonerado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "Lea los siguientes dos enunciados de un informe sobre recursos hídricos en el Perú:\n**Enunciado A:** 'Los reservorios de agua del país que sufren filtraciones graves deben ser clausurados'.\n**Enunciado B:** 'Los reservorios de agua del país, que sufren filtraciones graves, deben ser clausurados'.\nDesde una perspectiva de la política de recursos públicos, ¿cuál es la diferencia radical de significado y de impacto financiero de cada directiva?",
+      "context": "Un seminario sobre lógica sintáctica en la Universidad de San Marcos deconstruye oraciones de relativo restrictivas y no restrictivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos enunciados significan exactamente lo mismo porque las comas son solo adornos estéticos de la escritura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comas determinan la estructura restrictiva o explicativa de la cláusula de relativo, alterando por completo la semántica."
+        },
+        {
+          "letter": "B",
+          "text": "El Enunciado A exige clausurar todos los reservorios del país, mientras que el Enunciado B solo clausura un porcentaje menor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés en cuanto a alcance e impacto fáctico."
+        },
+        {
+          "letter": "C",
+          "text": "El Enunciado A ordena clausurar únicamente aquellos reservorios específicos que presenten fallas (restrictiva), mientras que el Enunciado B exige clausurar de forma absoluta la totalidad de reservorios del país (explicativa) bajo la premisa de que todos sufren filtraciones",
+          "is_correct": true,
+          "feedback": "Correcto. El Enunciado A usa una proposición adjetiva especificativa sin comas, delimitando la acción solo a los reservorios dañados. El Enunciado B usa una explicativa entre comas, atribuyendo la falla de filtración a todos los reservorios de la nación y ordenando, por ende, el cierre total del sistema nacional de almacenamiento con un impacto financiero catastrófico."
+        },
+        {
+          "letter": "D",
+          "text": "El Enunciado A se aplica solo a reservorios ubicados en la selva, mientras que el Enunciado B se aplica únicamente a los de la sierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna distinción geográfica explícita o implícita basada en la presencia de comas en el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este dilema ilustra con dramatismo el valor semántico de la puntuación vinculada a la sintaxis. Las comas en las proposiciones subordinadas adjetivas transforman una restricción parcial (especificativa) en una generalización universal (explicativa), con consecuencias prácticas inmensas en el plano legal y operativo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v1",
+      "statement": "En una lectura en Cusco: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v2",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v3",
+      "statement": "Identifica el conector: Callao es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v4",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v5",
+      "statement": "En el Colegio Nacional La Libertad de Huaraz, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v6",
+      "statement": "En una lectura en Arequipa: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v7",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v8",
+      "statement": "Identifica el conector: Callao es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v9",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional La Libertad estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional La Libertad estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v10",
+      "statement": "En el Colegio Nacional La Libertad de Huaraz, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v11",
+      "statement": "En una lectura en Iquitos: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v12",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v13",
+      "statement": "Identifica el conector: Cusco es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v14",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional San Jose estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional San Jose estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v15",
+      "statement": "En el Colegio Nacional Coronel Bolognesi de Tacna, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v16",
+      "statement": "En una lectura en Callao: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Crear una atmosfera o ambiente",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Presentar un argumento",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Narrar una secuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v17",
+      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Funcion expresiva o emotiva",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Funcion referencial",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Funcion apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v18",
+      "statement": "Identifica el conector: Huancayo es hermosa, ____ su gente es acogedora.",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** ademas",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v19",
+      "statement": "Cual oracion esta correctamente escrita?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** Los estudiantes del Colegio Nacional Ciencias estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** Los estudiantes del Colegio Nacional Ciencias estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** Los estudiantes del school estudian mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-v20",
+      "statement": "En el Colegio Nacional San Jose de Chiclayo, analizando un texto. Cual es la idea principal?",
+      "context": "Clase de lenguaje en PE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "** El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "** El agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "** El agua no es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "bundle_id": "PE-COM-11-2026-W04-comprension-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}
