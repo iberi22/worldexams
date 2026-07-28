@@ -9,7 +9,7 @@
   import RoomBrowser from './RoomBrowser.svelte';
 
   let view = $state<'home' | 'create' | 'create-speed' | 'join' | 'lobby' | 'game' | 'results' | 'discover'>('home');
-  let backendMode = $state<'rust' | 'supabase'>('supabase');
+  let backendMode = $state<'rust' | 'supabase' | 'edge-mesh'>('edge-mesh');
   let isCheckingBackend = $state(true);
 
   // Form state
@@ -20,12 +20,25 @@
   let selectedGrade = $state(11);
   let selectedSubject = $state('Matemáticas');
 
-  // Detectar backend disponible al cargar
+  function preferredConnectionMode(): 'local' | 'edge-mesh' | 'supabase' {
+    if (backendMode === 'rust') return 'local';
+    return 'edge-mesh';
+  }
+
+  // Detectar backend + ?join=CODE (ruta /sala-examenes)
   $effect(() => {
     detectBackendMode().then((mode) => {
-      backendMode = mode;
+      backendMode = mode === 'rust' ? 'rust' : 'edge-mesh';
       isCheckingBackend = false;
     });
+
+    if (typeof window !== 'undefined') {
+      const join = new URLSearchParams(window.location.search).get('join');
+      if (join) {
+        roomCode = join;
+        view = 'join';
+      }
+    }
   });
 
   async function handleCreateRoom() {
@@ -36,7 +49,7 @@
         selectedGrade,
         selectedSubject,
         {
-          connectionMode: backendMode === 'rust' ? 'local' : 'supabase',
+          connectionMode: preferredConnectionMode(),
           maxPlayers: 100,
           timePerQuestion: 60,
           totalQuestions: 20,
@@ -59,7 +72,7 @@
         11, // Default grade for Speed Mode (uses pool)
         'Speed Mode',
         {
-          connectionMode: backendMode === 'rust' ? 'local' : 'supabase',
+          connectionMode: preferredConnectionMode(),
           maxPlayers: 100,
           timePerQuestion: 15,
           totalQuestions: config.totalQuestions,
@@ -81,7 +94,6 @@
 
   async function handleJoinRoom() {
     try {
-      // TODO: Fetch room config from backend by code
       const mockConfig = {
         id: roomCode,
         name: 'Sala Demo',
@@ -92,7 +104,7 @@
         totalQuestions: 20,
         grado: 11,
         asignatura: 'Matemáticas',
-        connectionMode: backendMode === 'rust' ? ('local' as const) : ('supabase' as const),
+        connectionMode: preferredConnectionMode(),
         createdAt: new Date(),
       };
 
@@ -328,16 +340,15 @@
             <input
               type="text"
               bind:value={roomCode}
-              placeholder="Ej: ABC123"
-              class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent uppercase text-center text-2xl font-mono tracking-widest"
-              maxlength="6"
+              placeholder="Código de sala"
+              class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent text-center text-lg font-mono tracking-wide"
             />
-            <p class="text-sm text-gray-400 mt-2">Ingresa el código de 6 caracteres que te dio tu profesor</p>
+            <p class="text-sm text-gray-400 mt-2">Código del anfitrión (salon.id en edge-mesh, o código legacy de 6 chars)</p>
           </div>
 
           <button
             onclick={handleJoinRoom}
-            disabled={!playerName || roomCode.length !== 6}
+            disabled={!playerName || roomCode.trim().length < 4}
             class="w-full px-6 py-4 bg-green-600 hover:bg-green-700 disabled:bg-gray-700 disabled:cursor-not-allowed rounded-lg font-bold text-lg transition-colors"
           >
             🎓 Unirse a Sala
@@ -374,6 +385,9 @@
 
 <style>
   code {
-    @apply bg-gray-700 px-2 py-1 rounded text-yellow-400;
+    background-color: rgb(55 65 81);
+    color: rgb(250 204 21);
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
   }
 </style>

@@ -1,7 +1,7 @@
 <script lang="ts">
-  import { onMount, onDestroy } from 'svelte';
-  import { supabase } from '../lib/supabase';
-  import type { RealtimeChannel } from '@supabase/supabase-js';
+  import { onMount } from 'svelte';
+  import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
+  import type { RoomConfig } from '../modules/exam-room/types';
   import FlashlightCard from './FlashlightCard.svelte';
 
   interface Props {
@@ -24,16 +24,31 @@
   let localStudentName = $state<string>(studentName);
   let localStudentId = $state<string>(studentId);
 
-  let roomSession = $state<any>(null);
-  let channel: RealtimeChannel | null = null;
-  let connectedStudents = $state<number>(0);
-  let currentQuestion = $state<any>(null);
+  let connectedStudents = $derived(roomState.playersOnline);
+  let currentQuestion = $derived(roomState.currentQuestion);
   let selectedAnswer = $state<string | null>(null);
+  let questionStartedAt = $state(Date.now());
 
   onMount(() => {
     if (autoJoin && roomCode) {
-      subscribeToRoom();
+      if (roomState.config?.id === roomCode) {
+        viewState = 'lobby';
+      } else {
+        void joinRoom();
+      }
     }
+  });
+
+  $effect(() => {
+    const status = roomState.gameState.status;
+    if (status === 'active') viewState = 'question';
+    if (status === 'finished') viewState = 'finished';
+  });
+
+  $effect(() => {
+    roomState.gameState.currentQuestionIndex;
+    selectedAnswer = null;
+    questionStartedAt = Date.now();
   });
 
   async function joinRoom() {
@@ -45,39 +60,35 @@
     try {
       if (!localStudentId) localStudentId = crypto.randomUUID();
 
-      const { data: roomData, error: fetchError } = await supabase
-        .from('party_sessions')
-        .select('*')
-        .eq('party_code', roomCode)
-        .maybeSingle();
+      await roomState.fetchPublicRooms();
+      const room = roomState.publicRooms.find(
+        (candidate: any) => candidate.party_code === roomCode,
+      );
 
-      if (fetchError || !roomData) {
+      if (!room) {
         viewState = 'error';
         errorMessage = 'Sala no encontrada. Verifica el código.';
         return;
       }
 
-      const room: any = roomData;
-      roomSession = room;
+      const meshConfig = room.exam_config || {};
+      const config: RoomConfig = {
+        id: roomCode,
+        name: meshConfig.name || `Sala ${roomCode}`,
+        hostId: room.students?.[0]?.id || room.host_name || 'mesh-host',
+        hostName: room.host_name || 'Host',
+        maxPlayers: room.max_students || 50,
+        timePerQuestion: meshConfig.timePerQuestion || 60,
+        totalQuestions: meshConfig.totalQuestions || 20,
+        grado: meshConfig.grado || 11,
+        asignatura: meshConfig.asignatura || 'General',
+        region: meshConfig.region,
+        countryCode: meshConfig.countryCode,
+        connectionMode: 'edge-mesh',
+        createdAt: new Date(room.created_at || Date.now()),
+      };
 
-      const students = room.students || [];
-      students.push({ id: localStudentId, name: localStudentName, joined_at: new Date().toISOString(), isHost });
-
-      const { error: updateError } = await supabase
-        .from('party_sessions')
-        .update({ students } as any)
-        .eq('party_code', roomCode);
-
-      if (updateError) throw updateError;
-
-      subscribeToRoom();
-
-      channel?.send({
-        type: 'broadcast',
-        event: 'student_joined',
-        payload: { student_id: localStudentId, name: localStudentName, isHost }
-      });
-
+      await roomState.joinRoom(roomCode, localStudentName, config);
       viewState = 'lobby';
     } catch (err) {
       console.error('Error joining room:', err);
@@ -86,81 +97,13 @@
     }
   }
 
-  function subscribeToRoom() {
-    // Si ya estamos suscritos, no duplicar
-    if (channel) return;
-
-    channel = supabase.channel(`party:${roomCode}`)
-      .on('broadcast', { event: 'game_state_update' }, (payload) => {
-         const data = payload.payload;
-
-         if (data.status === 'finished') {
-             viewState = 'finished';
-             return;
-         }
-
-         if (data.question_data) {
-             // Map ExamView Question format to RoomPlayer format
-             const q = data.question_data;
-             currentQuestion = {
-                 question_index: (data.current_question_index || 0) + 1,
-                 question_id: q.id,
-                 question_text: q.text,
-                 // Ensure options have text property (ExamView uses 'text', RoomPlayer used 'text')
-                 options: q.options.map((o: any) => ({
-                     id: o.id,
-                     text: o.text || o.label || 'Opción'
-                 })),
-                 started_at: Date.now() // Reset timer for client
-             };
-             selectedAnswer = null;
-             viewState = 'question';
-         }
-      })
-      // Legacy event fallback (if using mixed hosts)
-      .on('broadcast', { event: 'question_start' }, (payload) => {
-        currentQuestion = payload.payload;
-        selectedAnswer = null;
-        viewState = 'question';
-      })
-      .on('broadcast', { event: 'party_finish' }, () => {
-        viewState = 'finished';
-      })
-      .on('presence', { event: 'sync' }, () => {
-        const state = channel?.presenceState() || {};
-        connectedStudents = Object.keys(state).length;
-      })
-      .subscribe();
-
-    channel.track({ role: 'student', student_id: localStudentId, name: localStudentName || studentName, isHost });
-  }
-
   function submitAnswer(answer: string) {
-    if (!currentQuestion || !channel || selectedAnswer) return;
+    if (!currentQuestion || selectedAnswer) return;
 
     selectedAnswer = answer;
-    const timeTaken = Math.floor((Date.now() - currentQuestion.started_at) / 1000);
-
-    /*
-       Si soy ANFITRIÓN, no necesito enviar mi respuesta por broadcast si solo yo la consumiré,
-       pero para mantener consistencia y que aparezca en el dashboard del anfitrión (que soy yo mismo en otra vista),
-       la enviamos igual.
-    */
-    channel.send({
-      type: 'broadcast',
-      event: 'answer_submit',
-      payload: {
-        student_id: localStudentId,
-        student_name: localStudentName || studentName,
-        question_id: currentQuestion.question_id,
-        answer,
-        time_taken: timeTaken,
-        isHost
-      }
-    });
+    const timeTaken = Math.floor((Date.now() - questionStartedAt) / 1000);
+    roomState.submitAnswer(currentQuestion.id, answer, timeTaken);
   }
-
-  onDestroy(() => { if (channel) supabase.removeChannel(channel); });
 </script>
 
 <div class="h-full w-full flex flex-col items-center justify-center p-4">
@@ -216,20 +159,21 @@
       <!-- Question -->
       <div class="space-y-6">
         {#if !isHost}
-          <h2 class="text-xl font-bold text-emerald-500 uppercase tracking-widest">Pregunta {currentQuestion?.question_index || 1}</h2>
+          <h2 class="text-xl font-bold text-emerald-500 uppercase tracking-widest">Pregunta {roomState.gameState.currentQuestionIndex + 1}</h2>
           <FlashlightCard className="p-6">
-            <p class="text-lg leading-relaxed">{currentQuestion?.question_text || 'Cargando pregunta...'}</p>
+            <p class="text-lg leading-relaxed">{currentQuestion?.text || currentQuestion?.enunciado || 'Cargando pregunta...'}</p>
           </FlashlightCard>
         {/if}
 
         <div class="space-y-3">
-          {#each currentQuestion?.options || [] as option}
+          {#each currentQuestion?.options || [] as option, index}
+            {@const optionId = option.id || ['A', 'B', 'C', 'D'][index]}
             <button
-              onclick={() => submitAnswer(option.id)}
+              onclick={() => submitAnswer(optionId)}
               disabled={selectedAnswer !== null}
-              class="w-full p-4 rounded-lg text-left font-medium transition-all {selectedAnswer === option.id ? 'bg-emerald-500 text-white border-emerald-500' : selectedAnswer ? 'bg-white/5 border border-white/10 opacity-50' : 'bg-white/5 border border-white/10 hover:bg-white/10 hover:border-white/20'}"
+              class="w-full p-4 rounded-lg text-left font-medium transition-all {selectedAnswer === optionId ? 'bg-emerald-500 text-white border-emerald-500' : selectedAnswer ? 'bg-white/5 border border-white/10 opacity-50' : 'bg-white/5 border border-white/10 hover:bg-white/10 hover:border-white/20'}"
             >
-              <strong class="text-emerald-500">{option.id})</strong> {option.text}
+              <strong class="text-emerald-500">{optionId})</strong> {option.text || option.label || option}
             </button>
           {/each}
         </div>
@@ -253,6 +197,16 @@
         <div class="text-5xl mb-4">⚠️</div>
         <h2 class="text-xl font-bold uppercase tracking-widest text-red-400 mb-4">Error</h2>
         <p class="text-red-300 opacity-80">{errorMessage}</p>
+        <button
+          type="button"
+          onclick={() => {
+            errorMessage = '';
+            viewState = 'joining';
+          }}
+          class="mt-6 px-6 py-3 rounded-lg bg-red-500/20 hover:bg-red-500/30 text-red-100 font-bold transition-colors"
+        >
+          Reintentar
+        </button>
       </FlashlightCard>
     {/if}
 

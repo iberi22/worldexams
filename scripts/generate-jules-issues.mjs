@@ -1,8 +1,16 @@
 #!/usr/bin/env node
 /**
  * generate-jules-issues.mjs
+ *
+ * HISTORICAL / NON-DEFAULT (2026-07-28):
+ * Still wired to PROTOCOL_v7.md and validate-bundles-v7.mjs.
+ * New generation authority is AGENTS.md Bundle Protocol v5.2 +
+ * `npm run validate` (scripts/validate-bundles-v52.mjs).
+ * Do not use this script for new Jules waves until rewired (Hermes method pending).
+ * See docs/specs/ACTIVE_PROTOCOLS.md.
+ *
  * Genera issues para Jules para regenerar bundles que no pasan Protocol v7.
- * 
+ *
  * Uso:
  *   node scripts/generate-jules-issues.mjs --dry-run   (solo muestra)
  *   node scripts/generate-jules-issues.mjs --execute   (crea issues via gh CLI)

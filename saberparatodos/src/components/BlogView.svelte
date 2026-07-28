@@ -22,6 +22,7 @@
   let selectedQuestion: Question | null = null;
   let videoByQuestionId: Record<string, VideoManifestEntry> = {};
   let videoDefaults: { youtube_channel_url?: string; instagram_url?: string; tiktok_url?: string } = {};
+  let commentCounts: Record<string, number> = {};
 
   function normalizeQuestionId(questionId: string | number): string {
     return String(questionId || '').trim().toLowerCase();
@@ -30,6 +31,19 @@
   function getVideoForQuestion(questionId: string | number): VideoManifestEntry | null {
     const key = normalizeQuestionId(questionId);
     return videoByQuestionId[key] || null;
+  }
+
+  async function hydrateCommentCounts(ids: Array<string | number>) {
+    const unique = [...new Set(ids.map((id) => String(id)).filter(Boolean))].slice(0, 80);
+    if (unique.length === 0) return;
+    try {
+      const res = await fetch(`/api/comments?counts=${encodeURIComponent(unique.join(','))}`);
+      if (!res.ok) return;
+      const body = await res.json();
+      commentCounts = { ...commentCounts, ...(body.counts || {}) };
+    } catch (err) {
+      console.warn('BlogView: comment counts unavailable', err);
+    }
   }
 
   onMount(async () => {
@@ -263,6 +277,15 @@
 
   $: visibleItems = itemsToRender.slice(0, visibleCount);
 
+  $: {
+    const ids = visibleItems
+      .filter((item) => item.type === 'question' && item.data?.id)
+      .map((item) => item.data!.id);
+    if (ids.length > 0) {
+      void hydrateCommentCounts(ids);
+    }
+  }
+
   function loadMore() {
     visibleCount += 30;
   }
@@ -278,8 +301,8 @@
   <div class="fixed inset-0 z-[100] flex items-center justify-center bg-black/80 backdrop-blur-sm">
     <div class="flex flex-col items-center gap-4 text-center">
       <div class="w-16 h-16 border-4 border-emerald-500/30 border-t-emerald-500 rounded-full animate-spin"></div>
-      <p class="text-lg font-bold text-white uppercase tracking-widest">Accediendo al Banco</p>
-      <p class="text-xs text-white/50">Cargando preguntas...</p>
+      <p class="text-lg font-bold text-white uppercase tracking-widest">Revisar</p>
+      <p class="text-xs text-white/50">Cargando banco social...</p>
     </div>
   </div>
 {/if}
@@ -287,7 +310,7 @@
 <div class="w-full max-w-6xl mx-auto p-4 animate-fade-in-up pb-20">
   <div class="flex items-center justify-between mb-8">
     <h2 class="text-4xl font-bold uppercase tracking-tighter text-[#F5F5DC]">
-      Blog / <span class="text-emerald-500">Artículos</span>
+      Revisar / <span class="text-emerald-500">Banco social</span>
     </h2>
     <button
       onclick={onBack}
@@ -496,9 +519,12 @@
                   {#if item.data?.period}
                     <span>P{item.data?.period}</span>
                   {/if}
+                  {#if (commentCounts[String(item.data?.id)] || 0) > 0}
+                    <span class="text-emerald-400/90">{commentCounts[String(item.data?.id)]} com.</span>
+                  {/if}
                 </div>
                 <div class="flex items-center gap-2 text-emerald-500 opacity-60 group-hover:opacity-100 transition-opacity">
-                  <span class="text-xs uppercase tracking-widest">Leer</span>
+                  <span class="text-xs uppercase tracking-widest">Revisar</span>
                   <span class="text-xl">-></span>
                 </div>
               </div>
@@ -666,7 +692,7 @@
       </div>
 
       <!-- Modal Footer -->
-      <div class="p-4 border-t border-white/10 flex justify-end gap-3 shrink-0">
+      <div class="p-4 border-t border-white/10 flex flex-col sm:flex-row sm:justify-end gap-3 shrink-0">
         <button
           onclick={() => selectedQuestion = null}
           class="px-4 py-2 hover:bg-white/10 text-white/60 hover:text-white font-bold text-xs uppercase tracking-widest rounded-lg transition-all"
@@ -682,7 +708,11 @@
           }}
           class="px-6 py-2 bg-gradient-to-r from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-white font-bold text-xs uppercase tracking-widest rounded-lg transition-all shadow-lg shadow-emerald-500/20"
         >
-          Ver Pantalla Completa
+          {#if (commentCounts[String(selectedQuestion.id)] || 0) > 0}
+            Discutir ({commentCounts[String(selectedQuestion.id)]})
+          {:else}
+            Abrir discusión
+          {/if}
         </button>
       </div>
     </div>

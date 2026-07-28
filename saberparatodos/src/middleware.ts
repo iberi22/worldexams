@@ -90,7 +90,8 @@ export const onRequest = defineMiddleware(async (context, next) => {
     url.pathname === '/robots.txt' ||
     url.pathname === '/manifest.json';
 
-  let activeCountryCode: CountryCode | undefined = getConfiguredProductCountryCode() || DEFAULT_COUNTRY;
+  // Do not force site default (CO) before geo/language resolution — avoids serving Colombia to FR/XX visitors.
+  let activeCountryCode: CountryCode | undefined;
   let countryDetected = false;
 
   const urlCountry = url.searchParams.get('country') as CountryCode | null;
@@ -116,6 +117,19 @@ export const onRequest = defineMiddleware(async (context, next) => {
           countryDetected = true;
         }
       }
+    }
+  }
+
+  // System-language fallback when IP/country is unknown or unsupported (not site DEFAULT).
+  if (!activeCountryCode) {
+    const acceptLanguage = (context.request.headers.get('accept-language') || '').toLowerCase();
+    if (/\bpt\b/.test(acceptLanguage) && ALL_CONFIGURED_CODES.includes('BR')) {
+      activeCountryCode = 'BR';
+    } else if (/\bes\b/.test(acceptLanguage) && ALL_CONFIGURED_CODES.includes('ES')) {
+      // Generic Spanish UI carrier — CountrySwitcher selects a real content country.
+      activeCountryCode = 'ES';
+    } else {
+      activeCountryCode = getConfiguredProductCountryCode() || DEFAULT_COUNTRY;
     }
   }
 

@@ -1,0 +1,10 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ModelManager from '../../components/ai/ModelManager.svelte';
+---
+
+<Layout title="Ajustes IA | SaberParaTodos" description="Gestiona modelos on-device SWAL">
+  <main class="min-h-[70vh] max-w-3xl mx-auto px-4 py-8">
+    <ModelManager client:load />
+  </main>
+</Layout>

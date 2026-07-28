@@ -1,0 +1,32 @@
+---
+/**
+ * ContentComingSoon — shown when countryHasContent is false.
+ */
+import CountrySwitcher from './CountrySwitcher.svelte';
+
+interface Props {
+  countryName?: string;
+  countryFlag?: string;
+  countryCode?: string;
+}
+
+const {
+  countryName = 'tu país',
+  countryFlag = '🌍',
+  countryCode = Astro.locals.countryCode || 'CO',
+} = Astro.props;
+---
+
+<section class="w-full max-w-3xl mx-auto my-6 px-4">
+  <div class="rounded-xl border border-amber-500/30 bg-amber-500/5 p-6 text-center space-y-4">
+    <p class="text-3xl" aria-hidden="true">{countryFlag}</p>
+    <h2 class="text-lg font-bold tracking-wide uppercase">Banco en expansión para {countryName}</h2>
+    <p class="text-sm opacity-70 leading-relaxed">
+      Todavía no tenemos el banco completo alineado al ministerio de {countryName}.
+      Elige otro país con contenido listo, o vuelve cuando publiquemos más packs.
+    </p>
+    <div class="flex justify-center pt-2">
+      <CountrySwitcher client:load currentCountryCode={countryCode} />
+    </div>
+  </div>
+</section>

@@ -4,26 +4,44 @@ export interface Env {
   ASSETS: Fetcher
 }
 
-const corsHeaders = {
-  "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Headers": "authorization, content-type, x-api-key",
-  "Access-Control-Allow-Methods": "GET, HEAD, POST, OPTIONS",
+const ALLOWED_ORIGINS = [
+  "https://saberparatodos.space",
+  "https://www.saberparatodos.space",
+  "https://api.saberparatodos.space",
+  "https://worldexams.com",
+  "https://www.worldexams.com",
+  "http://localhost:4321",
+  "http://127.0.0.1:4321",
+]
+
+function corsHeadersFor(request?: Request): Record<string, string> {
+  const base = {
+    "Access-Control-Allow-Headers": "authorization, content-type, x-api-key",
+    "Access-Control-Allow-Methods": "GET, HEAD, POST, OPTIONS",
+    Vary: "Origin",
+  }
+  const origin = request?.headers.get("Origin")
+  if (origin && ALLOWED_ORIGINS.includes(origin)) {
+    return { ...base, "Access-Control-Allow-Origin": origin }
+  }
+  // Same-origin or non-browser callers: no cross-origin grant.
+  return base
 }
 
-function json(body: Record<string, unknown>, status = 200, headers: HeadersInit = {}) {
+function json(body: Record<string, unknown>, status = 200, headers: HeadersInit = {}, request?: Request) {
   return new Response(JSON.stringify(body), {
     status,
     headers: {
       "Content-Type": "application/json",
-      ...corsHeaders,
+      ...corsHeadersFor(request),
       ...headers,
     },
   })
 }
 
-function withCors(response: Response) {
+function withCors(response: Response, request?: Request) {
   const headers = new Headers(response.headers)
-  Object.entries(corsHeaders).forEach(([key, value]) => headers.set(key, value))
+  Object.entries(corsHeadersFor(request)).forEach(([key, value]) => headers.set(key, value))
   return new Response(response.body, {
     status: response.status,
     statusText: response.statusText,
@@ -323,7 +341,7 @@ async function fetchPublicQuestions(request: Request, env: Env) {
     }, 200, {
       "Cache-Control": "public, max-age=3600, s-maxage=3600",
       "X-Guest-Mode": "true",
-    })
+    }, request)
   }
 
   return json({
@@ -333,7 +351,7 @@ async function fetchPublicQuestions(request: Request, env: Env) {
     exam,
     grade: parseInt(grade, 10),
     subject,
-  }, 404)
+  }, 404, {}, request)
 }
 
 function getProxyHeaders(request: Request, env: Env, includeApiKey = false, useAnonAuth = false) {
@@ -370,7 +388,7 @@ async function proxyJson(
     method: "GET",
     headers: getProxyHeaders(request, env, includeApiKey, useAnonAuth),
   })
-  return withCors(upstreamResponse)
+  return withCors(upstreamResponse, request)
 }
 
 export default {
@@ -378,12 +396,12 @@ export default {
     const url = new URL(request.url)
 
     if (request.method === "OPTIONS") {
-      return new Response(null, { status: 204, headers: corsHeaders })
+      return new Response(null, { status: 204, headers: corsHeadersFor(request) })
     }
 
     if (url.pathname.startsWith("/v1/packs/")) {
       const assetResponse = await env.ASSETS.fetch(request)
-      return withCors(assetResponse)
+      return withCors(assetResponse, request)
     }
 
     if (url.pathname === "/" || url.pathname === "/v1") {
@@ -396,7 +414,7 @@ export default {
           free_questions: "/v1/questions",
           premium_questions: "/v1/premium/questions",
         },
-      })
+      }, 200, {}, request)
     }
 
     if (url.pathname === "/health") {
@@ -404,7 +422,7 @@ export default {
         ok: true,
         service: "worldexams-api",
         version: "2026-03-10",
-      })
+      }, 200, {}, request)
     }
 
     if (url.pathname === "/v1/questions" || url.pathname === "/v1/questions/free") {
@@ -418,6 +436,6 @@ export default {
     return json({
       error: "NOT_FOUND",
       message: "Use /v1/questions, /v1/premium/questions or /health",
-    }, 404)
+    }, 404, {}, request)
   },
 }

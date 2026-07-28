@@ -1059,7 +1059,7 @@
                   </div>
 
                                     {#if runtimeCountry.features?.blog}
-<!-- Blog Links for each weak area -->
+<!-- Revisar links for each weak area -->
                   <div class="mt-4 flex flex-wrap justify-center gap-2 relative z-10">
                     {#each weakAreas as area}
                       <button
@@ -1069,10 +1069,10 @@
                             onClose();
                           }
                         }}
-                        class="text-xs px-3 py-1.5 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-blue-500/30 rounded-full text-white/60 hover:text-blue-400 transition-colors flex items-center gap-1"
+                        class="text-xs px-3 py-1.5 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-emerald-500/30 rounded-full text-white/60 hover:text-emerald-400 transition-colors flex items-center gap-1"
                       >
                         <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
-                        Preguntas de {area.name}
+                        Revisar {area.name}
                       </button>
                     {/each}
                   </div>
