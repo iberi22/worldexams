@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing modern behaviors.
 
@@ -45,7 +45,7 @@ A trend is a general direction in which something is developing or changing.
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing demographic changes.
 
@@ -65,7 +65,7 @@ The present perfect continuous highlights that the increase is a process that is
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Speculating about a social change.
 
@@ -85,7 +85,7 @@ The third conditional (if + past perfect) is used to imagine how the past might 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about digital nomads.
 
@@ -105,7 +105,7 @@ Digital nomads are individuals who use technology to work remotely and lead a li
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the "sharing economy".
 
@@ -125,7 +125,7 @@ The fundamental shift in the sharing economy is prioritizing the ability to use 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Social media influence.
 
@@ -145,7 +145,7 @@ An influencer is a person with the ability to influence potential buyers of a pr
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a widespread social phenomenon.
 
@@ -165,7 +165,7 @@ The present continuous passive 'are being used' describes the current and ongoin
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "minimalism".
 
@@ -185,7 +185,7 @@ Minimalism is a lifestyle choice that focuses on living with fewer material poss
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a change in behavior.
 
@@ -205,7 +205,7 @@ Many people used to commute to an office every day, but now they work from home.
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "cancel culture".
 
@@ -225,7 +225,7 @@ The article argues that cancel culture can sometimes lead to a "mob mentality" w
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Demographic groups.
 
@@ -245,7 +245,7 @@ The term "Millennials" refers to the generation of people born between the early
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing social pressure.
 
@@ -265,7 +265,7 @@ Young people often feel pressured into conforming to the standards of their peer
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing work-life balance.
 
@@ -285,7 +285,7 @@ Burnout is a state of emotional, physical, and mental exhaustion caused by exces
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about social media use.
 
@@ -305,7 +305,7 @@ The second conditional 'if + past simple' describes the likely result of a hypot
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion on urban migration.
 
@@ -325,7 +325,7 @@ The author concludes that the "urban exodus" is driven by a desire for more spac
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing viral content.
 
@@ -345,7 +345,7 @@ A "viral" post is one that is shared rapidly and widely from one internet user t
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a current social movement.
 
@@ -365,7 +365,7 @@ A new movement for social justice is gaining momentum across the country.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about sustainable fashion.
 
@@ -385,7 +385,7 @@ A new movement for social justice is gaining momentum across the country.
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a social prediction.
 
@@ -405,7 +405,7 @@ In reported speech, we change 'will' to 'would' when the reporting verb ('said')
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on modern connection.
 

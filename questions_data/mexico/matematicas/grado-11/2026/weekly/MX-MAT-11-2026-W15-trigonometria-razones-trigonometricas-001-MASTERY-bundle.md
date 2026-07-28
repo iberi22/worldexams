@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Guadalajara está introduciéndose al estudio de la trigonometría plana.
 
@@ -43,7 +43,7 @@ Las razones trigonométricas son cocientes entre los lados de un triángulo rect
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un topógrafo en Monterrey necesita recordar las funciones recíprocas para realizar cálculos de distancias.
 
@@ -64,7 +64,7 @@ Cada una de las tres razones fundamentales (seno, coseno, tangente) tiene una fu
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en la Ciudad de México observa un triángulo rectángulo con catetos de 3 y 4 unidades.
 
@@ -85,7 +85,7 @@ En un triángulo $(3, 4, 5)$, para el ángulo $\theta$ opuesto al lado 3: el cat
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un arquitecto en Puebla utiliza ángulos notables para el diseño de una rampa.
 
@@ -106,7 +106,7 @@ En un triángulo rectángulo isósceles (ángulos de $45^{\circ}$), los catetos 
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un ingeniero en el Estado de México mide el ángulo de elevación hacia la punta de una torre.
 
@@ -127,7 +127,7 @@ La altura de la torre ($h$) y la distancia a la base ($20\text{ m}$) forman los 
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un navegante en Veracruz observa un faro desde su barco.
 
@@ -148,7 +148,7 @@ El ángulo de depresión es igual al ángulo de elevación desde el barco. La al
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador de juegos en Querétaro calcula la trayectoria de un proyectil que se lanza con un ángulo de $60^{\circ}$.
 
@@ -169,7 +169,7 @@ El ángulo de $60^{\circ}$ forma parte del triángulo equilátero dividido a la 
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Se analiza el comportamiento de las funciones trigonométricas en el círculo unitario.
 
@@ -190,7 +190,7 @@ Usamos la identidad fundamental $\operatorname{sen}^2 \theta + \cos^2 \theta = 1
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un carpintero en Oaxaca está fabricando una cercha triangular para un techo.
 
@@ -211,7 +211,7 @@ Relacionamos el cateto adyacente ($CA$) con la hipotenusa ($H$) mediante el cose
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante estudia la relación entre las funciones trigonométricas y sus complementos.
 
@@ -232,7 +232,7 @@ Las "co-funciones" trigonométricas cumplen que la función de un ángulo es igu
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero civil analiza las fuerzas en un cable que sostiene un puente colgante en Chiapas.
 
@@ -253,7 +253,7 @@ Primero hallamos el cateto opuesto usando Pitágoras: $CO = \sqrt{13^2 - 5^2} = 
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza constante.
 
@@ -274,7 +274,7 @@ Las funciones recíprocas cumplen que su producto es la unidad: $\operatorname{s
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Se desea encontrar el ángulo de inclinación de una carretera en la Sierra Madre.
 
@@ -295,7 +295,7 @@ El ángulo de inclinación $\alpha$ tiene como cateto opuesto el ascenso vertica
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un arquitecto diseña una ventana en forma de sector circular y necesita calcular la longitud de una cuerda.
 
@@ -316,7 +316,7 @@ Al unir los extremos de la cuerda con el centro del círculo, se forma un trián
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante de ingeniería en San Luis Potosí analiza la identidad pitagórica dividida por el coseno al cuadrado.
 
@@ -337,7 +337,7 @@ Dividiendo $\operatorname{sen}^2 \theta + \cos^2 \theta = 1$ entre $\cos^2 \thet
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.30
 **Contexto:** Un topógrafo mide la distancia entre dos puntos $A$ y $B$ separados por un obstáculo.
 
@@ -358,7 +358,7 @@ El problema describe un triángulo rectángulo isósceles con catetos de $100\te
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.25
 **Contexto:** Un matemático de la UNAM analiza la función tangente y sus asíntotas.
 
@@ -379,7 +379,7 @@ La tangente se define como $\frac{\operatorname{sen} \theta}{\cos \theta}$. Esta
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Se plantea un problema de reducción al primer cuadrante para ángulos mayores a 90 grados.
 
@@ -400,7 +400,7 @@ El ángulo $150^{\circ}$ está en el segundo cuadrante. Su ángulo de referencia
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Un estudiante avanzado simplifica expresiones trigonométricas complejas.
 
@@ -421,7 +421,7 @@ Sumamos las fracciones buscando un denominador común: $\frac{(1 - \operatorname
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.15
 **Contexto:** Se analiza el área de un triángulo cualquiera utilizando trigonometría.
 

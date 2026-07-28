@@ -19,7 +19,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.85
 **Contexto:** Martina habla sobre sus habilidades para los deportes y la música.
 
@@ -40,7 +40,7 @@ Cuando querés decir que sabés hacer algo (como tocar la guitarra), usás "can"
 ## Question 2 [D3-D4]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.80
 **Contexto:** Un cartel de reglas en un museo de Bellas Artes en Buenos Aires.
 
@@ -61,7 +61,7 @@ En lugares con reglas estrictas (como el MNBA), usás "mustn't" para decir que a
 ## Question 3 [D3-D4]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.75
 **Contexto:** Facundo le da un consejo a un amigo que tiene un examen difícil en la universidad.
 
@@ -82,7 +82,7 @@ Para ser un buen amigo y dar un consejo, usás "should". Es como decirle "deber�
 ## Question 4 [D5-D6]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.70
 **Contexto:** Una situación en un aeropuerto antes de viajar a Iguazú.
 
@@ -103,7 +103,7 @@ Cuando la obligación viene de una ley o reglamento (como en Aeroparque o Ezeiza
 ## Question 5 [D5-D6]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.65
 **Contexto:** Martina no está segura de qué va a hacer el sábado a la noche.
 
@@ -124,7 +124,7 @@ Si todavía no decidiste qué vas a hacer (como Martina el sábado), usás "migh
 ## Question 6 [D5-D6]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.60
 **Contexto:** Alguien que llega tarde a una reunión en el centro de la ciudad.
 
@@ -145,7 +145,7 @@ Choose the correct option for lack of obligation: "The meeting started late, so 
 ## Question 7 [D7-D8]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.55
 **Contexto:** Un análisis sobre la diferencia entre "must" y "have to".
 
@@ -166,7 +166,7 @@ A veces la diferencia es sutil. Si vos sentís que TENÉS que hacer algo porque 
 ## Question 8 [D7-D8]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.50
 **Contexto:** Haciendo una deducción lógica sobre alguien que lleva una camiseta de la selección.
 
@@ -187,7 +187,7 @@ Usamos "must" para adivinar con mucha seguridad. Si ves a alguien con la camiset
 ## Question 9 [D7-D8]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.45
 **Contexto:** Una deducción negativa sobre alguien que no conoce un lugar muy famoso.
 
@@ -208,7 +208,7 @@ Esta es una trampa común. Si estás seguro de que algo NO es cierto, usás "can
 ## Question 10 [D9-D10]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.40
 **Contexto:** Un debate sobre la cortesía al pedir permiso en clase.
 
@@ -229,7 +229,7 @@ En inglés, el grado de respeto cambia según el verbo que elijas. Si querés se
 ## Question 11 [D9-D10]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.35
 **Contexto:** Revisión de un consejo de salud.
 
@@ -252,7 +252,7 @@ Si ves a alguien muy enfermo, le decís "You must see a doctor" porque es urgent
 ## Question 12 [D9-D10]
 **ID:** AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.30
 **Contexto:** El uso de modales para expresar crítica sobre comportamientos pasados.
 

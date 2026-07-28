@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** Martina identifica la forma general de una función cuadrática en su clase de Santiago.
 
@@ -39,7 +39,7 @@ Una función cuadrática es un polinomio de segundo grado. Su forma general es $
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza la concavidad de una parábola en Antofagasta.
 
@@ -58,7 +58,7 @@ El signo del coeficiente cuadrático $a$ determina la concavidad de la parábola
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Se requiere calcular el valor de la función cuadrática en un punto.
 
@@ -77,7 +77,7 @@ Evaluamos la función sustituyendo $x$ por 2: $f(2) = (2)^2 - 3(2) + 2$. Resolve
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Camila analiza el intercepto con el eje Y de una parábola.
 
@@ -96,7 +96,7 @@ El intercepto con el eje de las ordenadas (Eje Y) se halla evaluando la función
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Valentina calcula las coordenadas del vértice de una parábola en Valparaíso.
 
@@ -115,7 +115,7 @@ La coordenada $x$ del vértice ($x_v$) se obtiene con la fórmula $x_v = -b / (2
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se plantea la relación entre el discriminante y las soluciones.
 
@@ -134,7 +134,7 @@ El discriminante indica la naturaleza de las raíces. Si $\Delta = 0$, la ecuaci
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Benjamín determina los puntos de corte con el eje X de una función.
 
@@ -153,7 +153,7 @@ Los ceros o raíces se hallan resolviendo $x^2 - 5x + 6 = 0$. Factorizando: $(x-
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** La altura $h$ (en metros) de un proyectil en función del tiempo $t$ (en segundos) está dada por $h(t) = -5t^2 + 20t$.
 
@@ -172,7 +172,7 @@ La altura máxima se alcanza en el tiempo correspondiente a la coordenada $x$ de
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** En un taller en Concepción, se analiza el área de un cuadrado cuyo lado aumenta.
 
@@ -191,7 +191,7 @@ Sustituimos $x=4$ en la función: $A(4) = (4+3)^2$. Primero resolvemos el parén
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el desplazamiento vertical de una parábola.
 
@@ -210,7 +210,7 @@ Sumar una constante $c$ a una función $f(x)$ produce una traslación vertical d
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** El vértice de una parábola es $(2, -4)$ y abre hacia arriba.
 
@@ -229,7 +229,7 @@ En una función cuadrática, el dominio son todos los reales ($\mathbb{R}$). El 
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante en Temuco encuentra el eje de simetría de una función.
 
@@ -248,7 +248,7 @@ El eje de simetría es la recta vertical que pasa por el vértice de la parábol
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se analiza el valor máximo de una función de utilidad de una empresa en Iquique. $U(x) = -x^2 + 100x - 1.000$ (donde $x$ es cantidad de artículos).
 
@@ -267,7 +267,7 @@ Como la función es una parábola que abre hacia abajo ($a = -1$), su valor máx
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudio en Valparaíso discute sobre las soluciones reales de una ecuación.
 
@@ -286,7 +286,7 @@ Una función cuadrática no tiene ceros reales cuando su discriminante $\Delta =
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide identificar la función a partir de su gráfica que tiene vértice en $(0,0)$ y pasa por $(2, 8)$.
 
@@ -305,7 +305,7 @@ Vértice en $(0,0)$ implica la forma $f(x) = ax^2$. Usamos el punto $(2, 8)$ par
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** Un arquitecto diseña un arco parabólico cuya forma es $y = -0,5x^2 + 2x$ (en metros).
 
@@ -324,7 +324,7 @@ Hallamos los ceros de $-0,5x^2 + 2x = 0$. Factorizando $x(-0,5x + 2) = 0$. Una s
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Se analiza el efecto de un cambio en el parámetro $a$.
 
@@ -343,7 +343,7 @@ El coeficiente $a$ determina la "abertura" de la parábola. Cuanto mayor sea su 
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Se requiere hallar el valor de $k$ para que el vértice de $f(x) = x^2 - 4x + k$ esté sobre el eje X.
 
@@ -362,7 +362,7 @@ Para que el vértice esté sobre el eje X, la ordenada del vértice $y_v$ debe s
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Se pide expresar una función cuadrática en su forma canónica o de vértice: $f(x) = a(x - h)^2 + k$.
 
@@ -381,7 +381,7 @@ La forma canónica resalta el vértice $(h, k)$. Aquí, el trinomio $x^2 - 10x +
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un profesor en Puerto Montt pregunta por la relación entre las raíces $x_1, x_2$ y los coeficientes.
 

@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to leadership concepts.
 
@@ -45,7 +45,7 @@ Visionary leadership involves the ability to imagine and plan for a future that 
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing leaders' actions.
 
@@ -65,7 +65,7 @@ The present perfect continuous highlights the duration and current persistence o
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about leadership decisions.
 
@@ -85,7 +85,7 @@ The third conditional is used to speculate about how a different past action wou
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "servant leadership".
 
@@ -105,7 +105,7 @@ Servant leadership is a philosophy in which the main goal of the leader is to se
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "ethical leadership".
 
@@ -125,7 +125,7 @@ Ethical leadership involves leading by example and maintaining high moral standa
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Describing a diplomat.
 
@@ -145,7 +145,7 @@ A diplomat is an official representing a country abroad, skilled in negotiation 
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing reform in leadership.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the active and current trend of shiftin
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "charismatic leadership".
 
@@ -185,7 +185,7 @@ Charismatic leaders possess an extraordinary ability to inspire and motivate oth
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a leader's commitment.
 
@@ -205,7 +205,7 @@ In reported speech, we backshift the tense to show the achievement occurred befo
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "authoritarianism".
 
@@ -225,7 +225,7 @@ Authoritarianism is a form of government characterized by strong central power a
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of "integrity".
 
@@ -245,7 +245,7 @@ Integrity is the quality of being honest and having strong moral principles, whi
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future summit outcome.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the agreement will be a finished achie
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "collaboration".
 
@@ -285,7 +285,7 @@ Effective global leadership requires a high degree of collaboration between nati
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about empathy in leaders.
 
@@ -305,7 +305,7 @@ The second conditional 'if + past simple' describes the likely result of a hypot
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on "adaptive leadership".
 
@@ -325,7 +325,7 @@ The author concludes that adaptive leadership is necessary for navigating the co
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a "mediator".
 
@@ -345,7 +345,7 @@ A mediator is a person who attempts to make people involved in a conflict come t
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a hope for better leadership.
 
@@ -365,7 +365,7 @@ The 'wish + past' structure expresses a desire for the current focus of leadersh
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "soft power".
 
@@ -385,7 +385,7 @@ Soft power relies on the attraction and persuasion of culture and values, rather
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a leader's promise.
 
@@ -405,7 +405,7 @@ In reported speech, we change 'will' to 'would' when reporting a promise made in
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on global challenges.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante en un instituto de Madrid estudia la expresión analítica de las funciones de primer grado.
 
@@ -41,7 +41,7 @@ La pendiente $m$ representa la inclinación de la recta respecto al eje de absci
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** Se analiza el punto de corte con el eje vertical en una clase en Barcelona.
 
@@ -62,7 +62,7 @@ La ordenada en el origen ($n$) es el valor de la imagen para $x = 0$. Gráficame
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante en Valencia calcula la imagen de un valor para una función de costes.
 
@@ -83,7 +83,7 @@ Para hallar la imagen de un valor, sustituimos la variable $x$ por dicho valor e
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un examen en Sevilla pregunta por la distinción entre función lineal y afín.
 
@@ -104,7 +104,7 @@ Aunque a menudo se usan indistintamente, la función lineal pura tiene la forma 
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Bilbao debe hallar la pendiente de una recta que pasa por dos puntos dados.
 
@@ -125,7 +125,7 @@ La pendiente se define como la razón entre la variación de la $y$ ($\Delta y$)
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un mensajero en Zaragoza cobra una tarifa fija de 5 € más 2 € por cada kilómetro recorrido.
 
@@ -146,7 +146,7 @@ Los problemas de tarifas son aplicaciones directas de las funciones afines. La t
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza la posición relativa de dos rectas en el plano.
 
@@ -167,7 +167,7 @@ Dos rectas son paralelas si y solo si tienen la misma pendiente. Si además tien
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.68
 **Contexto:** Un fontanero en Murcia aplica una función afín para sus facturas. Por 2 horas cobra 70 € y por 5 horas cobra 130 €.
 
@@ -188,7 +188,7 @@ Identificamos los puntos $(2, 70)$ y $(5, 130)$. Calculamos la pendiente usando 
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en San Sebastián halla el punto de corte con el eje de abscisas.
 
@@ -209,7 +209,7 @@ El corte con el eje X (raíz de la función) se halla igualando la función a ce
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.63
 **Contexto:** Se busca la ecuación de una recta conociendo su pendiente y un punto.
 
@@ -230,7 +230,7 @@ Usamos la forma punto-pendiente o la forma explícita $y = mx + n$. Sustituimos 
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante avanzado en Madrid analiza la relación entre el ángulo de inclinación y la pendiente.
 
@@ -251,7 +251,7 @@ Existe una relación directa entre la trigonometría y la geometría analítica:
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.58
 **Contexto:** Se plantea la obtención de la ecuación general a partir de la explícita.
 
@@ -272,7 +272,7 @@ La forma general de la recta agrupa todos los términos en un miembro, igualando
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Asturias explica por qué una recta vertical no es una función.
 
@@ -293,7 +293,7 @@ Una relación es función si a cada elemento del dominio le corresponde un ÚNIC
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un arquitecto en Málaga calcula la intersección de dos trayectorias rectilíneas.
 
@@ -314,7 +314,7 @@ El punto de corte de dos funciones se halla resolviendo el sistema formado por s
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analiza la perpendicularidad en un diseño de cuadrícula.
 
@@ -335,7 +335,7 @@ Dos rectas son perpendiculares si el producto de sus pendientes es $-1$ ($m_1 \c
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante calcula la tasa de variación media en un intervalo para una función afín.
 
@@ -356,7 +356,7 @@ Una característica única de las funciones de primer grado es que su crecimient
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un programador en una startup en Madrid interpola una función lineal entre dos lecturas de sensores.
 
@@ -377,7 +377,7 @@ Para hallar la ecuación que pasa por dos puntos, calculamos primero la pendient
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea la alineación de tres puntos en el plano.
 
@@ -398,7 +398,7 @@ Tres puntos están alineados si pertenecen a la misma recta. Analíticamente, es
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de ingeniería analiza la distancia de un punto a una recta en un diseño de piezas.
 
@@ -419,7 +419,7 @@ La distancia de un punto $P(x_0, y_0)$ a una recta $Ax+By+C=0$ viene dada por la
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre una familia de rectas que dependen de un parámetro $k$.
 

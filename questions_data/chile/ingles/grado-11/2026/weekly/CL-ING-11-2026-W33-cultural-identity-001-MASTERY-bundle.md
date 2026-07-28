@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to identity concepts.
 
@@ -45,7 +45,7 @@ Cultural identity is the sense of belonging to a particular group, often defined
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing cultural assimilation.
 
@@ -65,7 +65,7 @@ The structure 'pressure (someone) into + gerund' is used to describe forced or s
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about cultural preservation.
 
@@ -85,7 +85,7 @@ The second conditional 'if + past simple' describes the imaginary result of fail
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "heritage".
 
@@ -105,7 +105,7 @@ Heritage refers to the traditions, achievements, and beliefs that are part of th
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "multiculturalism".
 
@@ -125,7 +125,7 @@ Multiculturalism is a policy that recognizes and supports the presence of multip
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Defining a term.
 
@@ -145,7 +145,7 @@ A person who is bilingual is able to speak two languages fluently.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a cultural revival.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current and active process of bring
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "diaspora".
 
@@ -185,7 +185,7 @@ A diaspora is a scattered population whose origin lies in a separate geographic 
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a personal journey of discovery.
 
@@ -205,7 +205,7 @@ The past perfect continuous highlights the long duration of her urban life prece
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "homogenization".
 
@@ -225,7 +225,7 @@ Cultural homogenization refers to the process by which local cultures are reduce
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of "norms".
 
@@ -245,7 +245,7 @@ Social norms are the unwritten rules of behavior that are considered acceptable 
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future cultural event.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the 50-year milestone will be a finish
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "acculturation".
 
@@ -285,7 +285,7 @@ Acculturation is the process of social, psychological, and cultural change that 
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about empathy.
 
@@ -305,7 +305,7 @@ The mixed conditional connects a past hypothetical experience (traveling) with a
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on "cultural hybridity".
 
@@ -325,7 +325,7 @@ The author concludes that cultural hybridity is a creative force that leads to t
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing "ancestry".
 
@@ -345,7 +345,7 @@ Your ancestry refers to your family's history and the people you are descended f
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing interest in heritage.
 
@@ -365,7 +365,7 @@ The phrasal verb 'look forward to' requires the following verb to be in the geru
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "cultural appropriation".
 
@@ -385,7 +385,7 @@ Cultural appropriation often involves the adoption of elements of one culture by
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a speaker's thoughts on identity.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the original statement to show it 
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on cultural respect.
 

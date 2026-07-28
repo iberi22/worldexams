@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en Santo Domingo introduce el concepto de sistemas de ecuaciones.
 
@@ -41,7 +41,7 @@ Un sistema busca la intersección de condiciones matemáticas representadas por 
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.85
 **Contexto:** Métodos de resolución en un aula de Santiago.
 
@@ -62,7 +62,7 @@ Identificación de los procedimientos algebraicos específicos para sistemas 2x2
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.80
 **Contexto:** Significado geométrico de la solución.
 
@@ -83,7 +83,7 @@ Correspondencia entre el álgebra de sistemas y la geometría analítica.
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.75
 **Contexto:** Rectas paralelas en La Romana.
 
@@ -104,7 +104,7 @@ Concepto de sistema inconsistente basado en el paralelismo.
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.75
 **Contexto:** Resolver $y = 2x$ y $x + y = 15$.
 
@@ -125,7 +125,7 @@ Uso del método de sustitución para hallar el punto de intersección.
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Reducción para $x + y = 8$ y $x - y = 2$.
 
@@ -146,7 +146,7 @@ Eliminación de una variable mediante la adición de ecuaciones.
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.70
 **Contexto:** Precios en Baní: 2 piñas + 3 melones = 350; 2 piñas + 5 melones = 550.
 
@@ -167,7 +167,7 @@ Deducción lógica a partir de la comparación de dos estados del sistema.
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Resolver $3x + 2y = 12$ y $5x - 2y = 4$ en Puerto Plata.
 
@@ -188,7 +188,7 @@ Aplicación del método de reducción y posterior sustitución.
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Animales en finca de San Cristóbal: 20 cabezas y 50 patas (gallinas g, vacas v).
 
@@ -209,7 +209,7 @@ Modelación de problemas de mezclas o conteos múltiples con sistemas 2x2.
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.60
 **Contexto:** Continuando el problema anterior ($g+v=20, 2g+4v=50$).
 
@@ -230,7 +230,7 @@ Resolución de un problema aplicado mediante el método algebraico.
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Sistema $x + y = 5$ y $2x + 2y = 10$ en Higüey.
 
@@ -251,7 +251,7 @@ Identificación de sistemas dependientes mediante la proporcionalidad de coefici
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Regla de Cramer en Moca.
 
@@ -272,7 +272,7 @@ Uso de matrices y determinantes para la resolución de sistemas lineales.
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.50
 **Contexto:** Mezcla de café en Santo Domingo (A: 200/lb, B: 300/lb, Meta: 10 lb a 260/lb).
 
@@ -293,7 +293,7 @@ Planteamiento de sistemas de mezcla balanceando peso y costo.
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Sistema con fracciones en Puerto Plata.
 
@@ -314,7 +314,7 @@ Simplificación de sistemas con coeficientes fraccionarios.
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.45
 **Contexto:** Compatibilidad en San Juan para $2x + 4y = 8$ y $x + my = 5$.
 
@@ -335,7 +335,7 @@ Condiciones de paralelismo en los coeficientes de las incógnitas.
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.40
 **Contexto:** Intereses: 10,000 en dos cuentas (4% y 6%), total anual RD\$ 520.
 
@@ -356,7 +356,7 @@ Aplicación de sistemas de ecuaciones a finanzas personales.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Sistemas 3x3 en la UASD.
 
@@ -377,7 +377,7 @@ Extensión del concepto de solución al espacio tridimensional.
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.35
 **Contexto:** Dígitos en Nagua: suma es 12; invertido aumenta 18.
 
@@ -398,7 +398,7 @@ Uso de sistemas para resolver acertijos numéricos de base diez.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** Sistema lineal-cuadrático ($x+y=2$ y $x^2+y^2=4$).
 
@@ -419,7 +419,7 @@ Análisis de la intersección entre diferentes familias de funciones.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W09-sistemas-ecuaciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.30
 **Contexto:** Desafío simétrico: $x+y=5; y+z=7; x+z=8$.
 

@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Planning a trip.
 
@@ -45,7 +45,7 @@ An itinerary is a detailed plan or route of a journey.
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a beautiful destination.
 
@@ -65,7 +65,7 @@ The landscape was so breathtaking that I couldn't stop taking pictures.
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Using advanced emphasis (Inversion).
 
@@ -85,7 +85,7 @@ Negative adverbials like 'Never' or 'Seldom' require inversion (verb before subj
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about sustainable travel.
 
@@ -105,7 +105,7 @@ Ecotourism aims to minimize the impact of visitors on the environment and suppor
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the "authentic" travel experience.
 
@@ -125,7 +125,7 @@ Travelers often seek "off-the-beaten-path" destinations to avoid crowded tourist
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Airport procedures.
 
@@ -145,7 +145,7 @@ You must check in your luggage at least two hours before your flight departs.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Talking about a missed opportunity.
 
@@ -165,7 +165,7 @@ The third conditional (if + past perfect) is used for hypothetical situations in
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Describing a hotel.
 
@@ -185,7 +185,7 @@ The hotel offers a wide range of amenities, such as a swimming pool, a gym, and 
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing an ongoing travel trend.
 
@@ -205,7 +205,7 @@ More and more people are choosing to travel solo to gain independence and self-c
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "overtourism".
 
@@ -225,7 +225,7 @@ The text suggests that overtourism can erode the very qualities that made a dest
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Lodging types.
 
@@ -245,7 +245,7 @@ A hostel is an inexpensive lodging place for travelers, often with dormitory-sty
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passenger rights.
 
@@ -265,7 +265,7 @@ Passengers whose flights are cancelled are entitled to a full refund or rebookin
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Describing a remote place.
 
@@ -285,7 +285,7 @@ The mountain village was so secluded that it felt like a different world.
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Advice on travel insurance.
 
@@ -305,7 +305,7 @@ You should always take out travel insurance in case of medical emergencies or lo
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Impact of tourism on culture.
 
@@ -325,7 +325,7 @@ While tourism can bring economic benefits, it can also lead to the commodificati
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Exploring a new city.
 
@@ -345,7 +345,7 @@ We spent the whole afternoon sightseeing around the historic center of the city.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a past trip.
 
@@ -365,7 +365,7 @@ The past perfect continuous describes an action that was ongoing up to a certain
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Describing a local guide.
 
@@ -385,7 +385,7 @@ Our guide was incredibly knowledgeable and shared many fascinating stories about
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting travel advice.
 
@@ -405,7 +405,7 @@ Verbs of recommendation like 'recommend' take the subjunctive (base form) in a '
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Conclusion on the impact of travel.
 

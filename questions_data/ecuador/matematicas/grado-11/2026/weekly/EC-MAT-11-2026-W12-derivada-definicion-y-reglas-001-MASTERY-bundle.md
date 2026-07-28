@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante de ingeniería en la Escuela Politécnica del Litoral (ESPOL) estudia la interpretación geométrica del cálculo.
 
@@ -51,7 +51,7 @@ La derivada es el límite de la pendiente de las rectas secantes, lo que resulta
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Definición formal de la derivada mediante límites.
 
@@ -76,7 +76,7 @@ La derivada se define como el límite del cociente de la diferencia (cambio en $
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Aplicación de la regla de la potencia.
 
@@ -101,7 +101,7 @@ La regla de la potencia establece que para derivar $x^n$, se baja el exponente c
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Derivada de una función constante.
 
@@ -130,7 +130,7 @@ Dado que una función constante representa una línea horizontal, su pendiente (
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Un arquitecto en Cuenca diseña un arco parabólico cuya altura sigue la función $h(x) = -2x^2 + 8x$.
 
@@ -155,7 +155,7 @@ Uso de la linealidad de la derivada (regla de la suma y del múltiplo constante)
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Derivada de una función con potencias negativas.
 
@@ -180,7 +180,7 @@ Para derivar funciones recíprocas, es conveniente expresarlas como potencias co
 ## Question 7 [D6]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Aplicación de la regla del producto.
 
@@ -205,7 +205,7 @@ La derivada de un producto no es el producto de las derivadas. Se debe aplicar l
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Aplicación de la regla del cociente.
 
@@ -230,7 +230,7 @@ La regla del cociente es esencial para funciones racionales: $(\frac{u}{v})' = \
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un vehículo de transporte público en Quito se desplaza con una posición dada por $s(t) = t^3 - 6t^2 + 9t$.
 
@@ -255,7 +255,7 @@ La velocidad es la primera derivada de la función de posición respecto al tiem
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Derivada de funciones con raíces.
 
@@ -284,7 +284,7 @@ Las raíces se tratan como potencias fraccionarias para aplicar la regla de la p
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Encontrar la ecuación de la recta tangente a una curva en el sector financiero de Quito.
 
@@ -309,7 +309,7 @@ La ecuación de la recta tangente requiere el valor de la función (punto) y el 
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Segunda derivada y aceleración.
 
@@ -334,7 +334,7 @@ La aceleración instantánea es la segunda derivada de la posición con respecto
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Puntos donde la derivada no existe.
 
@@ -359,7 +359,7 @@ La derivabilidad requiere que la curva sea suave. Los "puntos angulosos" o cúsp
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Derivada de una función con potencias fraccionarias negativas.
 
@@ -384,7 +384,7 @@ La aplicación rigurosa de la regla de la potencia $nx^{n-1}$ funciona para cual
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Derivada de una función compuesta simple (preámbulo a regla de la cadena).
 
@@ -409,7 +409,7 @@ Verificación de resultados mediante expansión algebraica antes de introducir r
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Relación entre derivabilidad y continuidad.
 
@@ -438,7 +438,7 @@ Teorema fundamental del cálculo diferencial: la derivabilidad es una condición
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Una función de producción en una fábrica de Ambato está dada por $P(x) = \frac{100x^2}{x^2 + 1}$.
 
@@ -463,7 +463,7 @@ Aplicación de la regla del cociente para determinar la productividad marginal e
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Un sensor en una estación meteorológica en el Chimborazo registra la temperatura $T(t)$ tal que su derivada es $T'(t) = k(25 - T(t))$.
 
@@ -488,7 +488,7 @@ Interpretación de ecuaciones diferenciales sencillas como tasas de cambio insta
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.25
 **Contexto:** Cálculo de la n-ésima derivada.
 
@@ -513,7 +513,7 @@ Reconocimiento de patrones inductivos en derivadas sucesivas de funciones potenc
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W12-derivada-definicion-y-reglas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.20
 **Contexto:** Un problema de física teórica en la Politécnica Nacional sobre el movimiento de una partícula donde la posición $s(t)$ satisface $s'(t) = [s(t)]^2$.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante de secundaria en San Pedro de Macorís revisa conceptos de aritmética básica.
 
@@ -41,7 +41,7 @@ Una razón es el resultado de comparar dos cantidades. La más usada es la geom�
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En una panadería en Santo Domingo, se comparan las cantidades de harina y azúcar.
 
@@ -62,7 +62,7 @@ En la igualdad de dos razones, los términos exteriores se llaman extremos.
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.80
 **Contexto:** Preparando jugo de chinola en Samaná: se usan 2 tazas de concentrado por cada 5 de agua.
 
@@ -83,7 +83,7 @@ La razón debe respetar estrictamente el orden de los elementos planteados.
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.75
 **Contexto:** Un arquitecto en Santiago explica la Propiedad Fundamental de las Proporciones.
 
@@ -104,7 +104,7 @@ Es la base para resolver incógnitas mediante el producto cruzado.
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.75
 **Contexto:** Un mapa de República Dominicana tiene una escala de 1:500,000.
 
@@ -125,7 +125,7 @@ La escala es una aplicación directa del concepto de razón entre modelo y objet
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** En La Romana, 3 libras de arroz cuestan RD\$ 105.
 
@@ -146,7 +146,7 @@ Problema de proporcionalidad directa: a mayor peso, mayor costo.
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Un vehículo consume 8 litros para recorrer 100 km en la Autovía del Este.
 
@@ -167,7 +167,7 @@ Establecemos la proporción $\frac{8}{100} = \frac{x}{250}$ y resolvemos para $x
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.65
 **Contexto:** Reparto proporcional de RD\$ 1,200 entre dos personas en razón 3:5.
 
@@ -188,7 +188,7 @@ Dividimos el total por la suma de los términos de la razón para hallar la cons
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** 4 obreros terminan una obra en 6 horas en Baní.
 
@@ -209,7 +209,7 @@ En la proporcionalidad inversa, el producto de las magnitudes permanece constant
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.60
 **Contexto:** Se analiza el rendimiento agrícola en San Juan de la Maguana.
 
@@ -230,7 +230,7 @@ Si $x \cdot y = k$, entonces si $x$ se divide por 3, $y$ debe multiplicarse por 
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Mezcla de resinas en Bonao en proporción 7:3.
 
@@ -251,7 +251,7 @@ Se establece la igualdad de razones y se despeja la incógnita.
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un economista analiza el cambio de moneda: 1 USD = 58 DOP.
 
@@ -272,7 +272,7 @@ La proporción debe mantener el mismo tipo de magnitud en numeradores y denomina
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.50
 **Contexto:** Comparación de densidades en el Distrito Nacional.
 
@@ -293,7 +293,7 @@ Se calcula la razón habitantes/área para verificar la equivalencia.
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.45
 **Contexto:** Análisis de proporciones compuestas abstractas.
 
@@ -314,7 +314,7 @@ Se trata de una multiplicación de la fracción de coeficientes por la razón da
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Llenado de tanques: Llave A tarda 4h, Llave B tarda 6h.
 
@@ -335,7 +335,7 @@ La velocidad es inversamente proporcional al tiempo empleado.
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.40
 **Contexto:** Mezcla de concreto (1:2:4 para cemento, arena, grava) en Punta Cana.
 
@@ -356,7 +356,7 @@ Identificamos la razón entre los dos componentes específicos de la pregunta.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Propiedades algebraicas de razones iguales.
 
@@ -377,7 +377,7 @@ Es una propiedad fundamental de la serie de razones iguales.
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.35
 **Contexto:** Intereses bancarios proporcionales al capital y al tiempo.
 
@@ -398,7 +398,7 @@ El capital es proporcional al cociente Interés/Tiempo para una tasa fija.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** La Razón Áurea ($\phi$) definida por $\frac{a+b}{a} = \frac{a}{b}$.
 
@@ -419,7 +419,7 @@ Proceso de modelación algebraica a partir de una definición de proporción.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.30
 **Contexto:** Mezclas en industria de Haina. R1 (2:3), R2 (3:1). Volúmenes iguales.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de bachillerato en el Estado de México está aprendiendo a identificar los componentes de un término algebraico.
 **Expected_Success:** 0.88
 
@@ -41,7 +41,7 @@ Un término algebraico consta de cuatro elementos: signo, coeficiente, literal (
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Una papelería en Puebla vende cuadernos (c) a $25 pesos y lápices (l) a $5 pesos.
 **Expected_Success:** 0.85
 
@@ -62,7 +62,7 @@ Para expresar un costo total, multiplicamos el precio unitario de cada producto 
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Durante un concurso de conocimientos en Morelos, se pide clasificar expresiones según su número de términos.
 **Expected_Success:** 0.83
 
@@ -83,7 +83,7 @@ Las expresiones algebraicas se clasifican por la cantidad de términos: Monomio 
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un sastre en Tlaxcala utiliza una fórmula para calcular el perímetro de un terreno rectangular destinado a su taller.
 **Expected_Success:** 0.80
 
@@ -104,7 +104,7 @@ El perímetro de cualquier figura es la suma de las longitudes de todos sus lado
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante en un examen en Querétaro debe simplificar una expresión reduciendo términos semejantes.
 **Expected_Success:** 0.77
 
@@ -125,7 +125,7 @@ Para reducir términos semejantes, sumamos o restamos los coeficientes de los t�
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere calcular el valor numérico de una expresión que modela la ganancia de una microempresa en Hidalgo.
 **Expected_Success:** 0.74
 
@@ -146,7 +146,7 @@ Sustituimos los valores: 2(3)² - 3(-2) + 5. Primero elevamos al cuadrado: 2(9) 
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero agrícola en Sinaloa calcula el área de una sección de cultivo expresada como el producto de dos binomios.
 **Expected_Success:** 0.71
 
@@ -167,7 +167,7 @@ Usamos la propiedad distributiva (método FOIL): multiplicamos los primeros tér
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante en Chiapas practica la división de un polinomio entre un monomio.
 **Expected_Success:** 0.68
 
@@ -188,7 +188,7 @@ Dividimos cada término del polinomio por el monomio 4x². Para los coeficientes
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un taller de robótica en la CDMX, se utiliza una expresión para describir la velocidad de un motor.
 **Expected_Success:** 0.65
 
@@ -209,7 +209,7 @@ El grado absoluto de un polinomio es el mayor de los grados de sus términos. Ca
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere elevar un binomio al cuadrado para calcular el área de una plaza circular en Villahermosa.
 **Expected_Success:** 0.63
 
@@ -230,7 +230,7 @@ Usamos la regla del binomio al cuadrado: (a + b)² = a² + 2ab + b². Aquí a = 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista financiero en Monterrey simplifica una expresión racional que representa el costo promedio de producción.
 **Expected_Success:** 0.60
 
@@ -251,7 +251,7 @@ El numerador x² - 9 es una diferencia de cuadrados perfectos. Se factoriza como
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta un reto matemático sobre la factorización de un trinomio cuadrado perfecto.
 **Expected_Success:** 0.58
 
@@ -272,7 +272,7 @@ Un trinomio cuadrado perfecto tiene la forma a² ± 2ab + b². Aquí a² = x² (
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un curso de cálculo en la UNAM, se requiere factorizar por término común para resolver un límite.
 **Expected_Success:** 0.55
 
@@ -293,7 +293,7 @@ Buscamos el Máximo Común Factor (MCF). Para los coeficientes (6, 9, 3) es 3. P
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un arquitecto en Guadalajara diseña un jardín cuya área está dada por A = x² + 7x + 10.
 **Expected_Success:** 0.53
 
@@ -314,7 +314,7 @@ Factorizamos el trinomio de la forma x² + bx + c. Buscamos dos números que mul
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en San Luis Potosí debe simplificar una suma de fracciones algebraicas.
 **Expected_Success:** 0.50
 
@@ -335,7 +335,7 @@ Para sumar fracciones con distinto denominador, buscamos el mínimo común múlt
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se plantea un problema sobre la diferencia de cubos para un examen avanzado en la CDMX.
 **Expected_Success:** 0.48
 
@@ -356,7 +356,7 @@ Usamos la fórmula para la diferencia de cubos: a³ - b³ = (a - b)(a² + ab + b
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un programador en una empresa de software en Monterrey optimiza una expresión algebraica compleja para un motor gráfico.
 **Expected_Success:** 0.45
 
@@ -377,7 +377,7 @@ Factorizamos todas las partes: x² - 4 = (x - 2)(x + 2) y x² - 4x + 4 = (x - 2)
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se evalúa la habilidad para completar un trinomio cuadrado perfecto, una técnica esencial para la geometría analítica.
 **Expected_Success:** 0.42
 
@@ -398,7 +398,7 @@ Para completar un trinomio cuadrado perfecto de la forma x² + bx + c, el valor 
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería en el IPN resuelve una división de polinomios usando la división sintética.
 **Expected_Success:** 0.38
 
@@ -419,7 +419,7 @@ Según el Teorema del Residuo, el residuo de dividir un polinomio P(x) entre (x 
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W02-algebra-expresiones-algebraicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere demostrar el dominio sobre la racionalización de denominadores con expresiones algebraicas.
 **Expected_Success:** 0.35
 

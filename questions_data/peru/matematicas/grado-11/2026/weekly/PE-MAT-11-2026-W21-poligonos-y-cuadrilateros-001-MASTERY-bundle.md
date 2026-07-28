@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de la I.E. Emblemática "Nuestra Señora de Guadalupe" en Lima repasa las propiedades de los ángulos en polígonos convexos.
 
@@ -45,7 +45,7 @@ La suma de las medidas de los ángulos internos de un polígono convexo de $n$ l
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** En el diseño de una loseta decorativa en una casona colonial de Trujillo, se utiliza la forma de un polígono regular.
 
@@ -70,7 +70,7 @@ En un polígono regular de $n$ lados, el ángulo externo mide $\theta_e = 360^\c
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Un carpintero en el Cusco está construyendo un marco de madera en forma de trapecio isósceles para un espejo.
 
@@ -95,7 +95,7 @@ Al trazar las alturas desde los vértices de la base menor a la base mayor en un
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Un grupo de estudio de la Universidad Nacional de Ingeniería (UNI) analiza las propiedades de los paralelogramos.
 
@@ -120,7 +120,7 @@ En un paralelogramo, los ángulos adyacentes a un mismo lado son suplementarios 
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un topógrafo mide un terreno en el valle de Majes (Arequipa) que tiene la forma de un trapecio.
 
@@ -145,7 +145,7 @@ En cualquier trapecio, el segmento que une los puntos medios de las diagonales e
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Durante una clase de geometría en la ciudad de Piura, se plantea un problema sobre polígonos regulares.
 
@@ -170,7 +170,7 @@ Usamos la fórmula del número de diagonales $D = \frac{n(n - 3)}{2}$. La condic
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** En un taller de diseño textil en Gamarra (Lima), se estudian patrones basados en rombos.
 
@@ -195,7 +195,7 @@ En un rombo, las diagonales son perpendiculares y se cortan en su punto medio. E
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un arquitecto en Arequipa utiliza sillar para construir una columna cuya sección transversal es un polígono equiángulo.
 
@@ -220,7 +220,7 @@ En cualquier polígono, el ángulo interno y el externo asociados a un vértice 
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Se analiza un trapecio rectángulo en un examen de simulación de la Universidad Nacional Mayor de San Marcos (UNMSM).
 
@@ -245,7 +245,7 @@ Al trazar una perpendicular desde $C$ a la base mayor $AD$, se forma un triángu
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un orfebre en Catacaos (Piura) diseña una pieza de plata con forma de polígono regular de 20 lados.
 
@@ -270,7 +270,7 @@ Para hallar el ángulo interno de un polígono regular de $n$ lados, calculamos 
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Problema avanzado sobre polígonos, frecuente en la Olimpiada Nacional Escolar de Matemática (ONEM) en Perú.
 
@@ -295,7 +295,7 @@ Establecemos la igualdad: $n(n - 3) / 2 = 3n$. Simplificando $n$ (ya que $n > 0$
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Diseño de una estructura metálica en los talleres de la UNI. Se analiza el punto de encuentro de las bisectrices en un trapecio.
 
@@ -320,7 +320,7 @@ En un trapecio, las bisectrices de dos ángulos adyacentes a un lado lateral se 
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Análisis de un cuadrilátero con ángulos relacionados, tema recurrente en los exámenes de admisión.
 
@@ -345,7 +345,7 @@ En cualquier cuadrilátero, la suma de los ángulos internos es 360°. Si la sum
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un ingeniero civil en Lima calcula las tensiones en una estructura con forma de polígono regular.
 
@@ -370,7 +370,7 @@ Usamos la fórmula $D = n(n-3)/2$. Para el polígono de $2n$ lados: $D' = 2n(2n-
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Un estudiante de Cepre-UNI resuelve un problema sobre las dimensiones de un trapecio.
 
@@ -395,7 +395,7 @@ Contamos con un sistema de ecuaciones: la semisuma de las bases es 15 ($B+b = 30
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** En la construcción de un parque en San Borja, se diseña un jardín con forma de polígono regular.
 
@@ -420,7 +420,7 @@ El número de diagonales desde un vértice es $n-3$. El número total es $n(n-3)
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Desafío de geometría del examen de admisión UNI sobre propiedades en romboides.
 
@@ -445,7 +445,7 @@ La bisectriz forma ángulos iguales. Por paralelismo ($BC \parallel AD$), se for
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Un examen de olimpiadas de matemática en Lima presenta un problema sobre la suma de ángulos internos.
 
@@ -470,7 +470,7 @@ La suma de ángulos internos debe ser un múltiplo de 180°. El ángulo faltante
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Problema de alta complejidad del prospecto de admisión de la Universidad Nacional de Ingeniería (UNI) sobre trapecios.
 
@@ -495,7 +495,7 @@ Desplazando uno de los lados laterales paralelamente hasta un vértice de la bas
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Un geómetra estudia la relación entre diagonales y lados en polígonos regulares.
 

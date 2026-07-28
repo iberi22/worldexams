@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing city infrastructure.
 
@@ -45,7 +45,7 @@ Public transportation systems like the metro or buses are essential for reducing
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing city growth.
 
@@ -65,7 +65,7 @@ The present perfect continuous highlights the ongoing nature of the city's popul
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Speculating about urban planning.
 
@@ -85,7 +85,7 @@ The mixed conditional (if + past perfect, would + verb) connects a past failure 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "gentrification".
 
@@ -105,7 +105,7 @@ Gentrification occurs when the character of a poor urban area is changed by weal
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on urban "sprawl".
 
@@ -125,7 +125,7 @@ The primary disadvantage of urban sprawl is the increased dependence on cars and
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Modern city convenience.
 
@@ -145,7 +145,7 @@ In a metropolis, you can find a wide variety of shops, restaurants, and entertai
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passive voice in a city report.
 
@@ -165,7 +165,7 @@ The present continuous passive describes a construction project that is currentl
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "affordable housing".
 
@@ -185,7 +185,7 @@ The lack of affordable housing is a major challenge for many young professionals
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing an experience in a new city.
 
@@ -205,7 +205,7 @@ He is getting used to the noise and hustle of city life after moving from a smal
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "concrete jungles".
 
@@ -225,7 +225,7 @@ The author uses the term "concrete jungle" to describe cities that lack sufficie
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Commuting terms.
 
@@ -245,7 +245,7 @@ A commuter is a person who travels some distance to work on a regular basis.
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passive voice in urban history.
 
@@ -265,7 +265,7 @@ The present perfect passive describes a completed process of change that defines
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing city diversity.
 
@@ -285,7 +285,7 @@ The cosmopolitan nature of the city is reflected in its diverse population and i
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about public transport.
 
@@ -305,7 +305,7 @@ The second conditional 'if + were' describes how a hypothetical improvement woul
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion on urban sustainability.
 
@@ -325,7 +325,7 @@ The author argues that cities must prioritize "walkability" to improve the healt
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** City parts.
 
@@ -345,7 +345,7 @@ The outskirts are the parts of a town or city that are furthest from the center.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a wish about city life.
 
@@ -365,7 +365,7 @@ The 'wish + past' structure is used to express a desire for the current situatio
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "smart cities".
 
@@ -385,7 +385,7 @@ Smart cities use technology and data to optimize urban services and improve the 
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a city planning decision.
 
@@ -405,7 +405,7 @@ In reported speech, we change 'will be' to 'would be' when reporting a future pl
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on urban community.
 

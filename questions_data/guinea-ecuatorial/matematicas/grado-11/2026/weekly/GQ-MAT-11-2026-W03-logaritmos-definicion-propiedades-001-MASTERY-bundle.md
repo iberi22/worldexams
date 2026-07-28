@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante del Instituto Modesto Gené Roig de Malabo estudia la relacion entre las potencias y los logaritmos.
 
@@ -39,7 +39,7 @@ El logaritmo es la operacion inversa de la potenciacion que busca el exponente. 
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un profesor en la UNGE (Universidad Nacional de Guinea Ecuatorial) explica las restricciones de las bases de los logaritmos reales.
 
@@ -58,7 +58,7 @@ Para que un logaritmo este definido en los numeros reales, la base debe ser un n
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un tecnico en Bata realiza calculos de decibelios y utiliza logaritmos en base 10.
 
@@ -77,7 +77,7 @@ Aplicando la definicion: $\log_{10}(1000) = x \iff 10^x = 1000$. Como $1000$ es 
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un estudiante de Ebebiyin repasa las propiedades que permiten simplificar el producto de numeros grandes.
 
@@ -96,7 +96,7 @@ Una de las grandes ventajas de los logaritmos es que simplifican las operaciones
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Un analista de datos en Malabo utiliza logaritmos naturales para modelar el crecimiento de la economia local.
 
@@ -115,7 +115,7 @@ El numero $e$ es una constante fundamental en matematicas, similar a $\pi$. Los 
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** En un laboratorio en Annobon, se mide el pH de una muestra de agua. El pH se define como $pH = -\log_{10}[H^+]$.
 
@@ -134,7 +134,7 @@ El logaritmo de una potencia de la base es igual al exponente: $\log_{10}(10^n) 
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante de Luba simplifica una expresion logaritmica usando la propiedad de la potencia: $\log_2(8^5)$.
 
@@ -153,7 +153,7 @@ Podemos resolverlo de dos formas: 1) Bajar el exponente: $5 \cdot \log_2(8) = 5 
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un ingeniero civil en Bata utiliza la formula $L = 10 \cdot \log(I/I_0)$ para medir la intensidad sonora en una obra.
 
@@ -172,7 +172,7 @@ El logaritmo decimal de 100 es 2 (porque $10^2 = 100$). Siguiendo la formula de 
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Evinayong resuelve la ecuacion $\log_x(25) = 2$ para hallar la base desconocida.
 
@@ -191,7 +191,7 @@ Para hallar una base desconocida, aplicamos la definicion de logaritmo y resolve
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.64
 **Contexto:** Un profesor en Mongomo explica que $\log_b(1)$ siempre tiene el mismo valor independientemente de la base.
 
@@ -210,7 +210,7 @@ Esta es una propiedad clave de los logaritmos. Dado que cualquier numero (distin
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero forestal en Mongomo necesita convertir un logaritmo de base 2 a base 10 para usar su calculadora estandar.
 
@@ -229,7 +229,7 @@ La formula de cambio de base es esencial para el uso de calculadoras y software 
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante de bachillerato en Guinea Ecuatorial resuelve la ecuacion $\log_3(x) + \log_3(x - 2) = 1$.
 
@@ -248,7 +248,7 @@ Usamos la propiedad del producto: $\log_3(x(x-2)) = 1$. Aplicando la definicion:
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** En un taller de matematicas en Bata, se pide expandir la expresion $\log\left(\frac{a^2 \cdot b}{\sqrt{c}}\right)$.
 
@@ -267,7 +267,7 @@ Este ejercicio combina tres propiedades: 1) Logaritmo de un cociente (resta), 2)
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** Un fisico analiza la intensidad de un terremoto en la escala de Richter, que es logaritmica.
 
@@ -286,7 +286,7 @@ La escala de Richter es logaritmica. Un cambio en la magnitud $M$ se traduce en 
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** En la UNGE se pide simplificar la expresion $e^{\ln(5x)}$.
 
@@ -305,7 +305,7 @@ La funcion exponencial de base $e$ y el logaritmo natural ($\ln$) son funciones 
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante de Luba resuelve la ecuacion $\log(x) - \log(2) = \log(5)$.
 
@@ -324,7 +324,7 @@ Aplicamos la propiedad del logaritmo de un cociente: $\log(A) - \log(B) = \log(A
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante avanzado investiga la relacion entre las graficas de las funciones exponenciales y logaritmicas.
 
@@ -343,7 +343,7 @@ En matematicas, las funciones inversas deshacen la operacion de la otra. Grafica
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Se plantea un problema de simplificacion extrema para un concurso de talentos matematicos en Malabo.
 
@@ -362,7 +362,7 @@ Esta es la identidad fundamental de los logaritmos. Dado que el logaritmo es el 
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Un ingeniero en Guinea Ecuatorial debe resolver una ecuacion donde la incognita esta en el exponente: $5^x = 20$.
 
@@ -381,7 +381,7 @@ Cuando la incognita esta en el exponente y no podemos igualar bases de forma sen
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W03-logaritmos-definicion-propiedades-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.32
 **Contexto:** Se analiza el comportamiento de la funcion $f(x) = \log_b(x)$ cuando la base $b$ esta entre 0 y 1 ($0 < b < 1$).
 

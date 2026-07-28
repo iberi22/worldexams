@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de Bachillerato en un IES de Segovia memoriza la definición de logaritmo para aplicarla en cálculos científicos.
 
@@ -41,7 +41,7 @@ El logaritmo en base $a$ de un número $b$ es el exponente $c$ al que hay que el
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.82
 **Contexto:** Un profesor en Salamanca explica las restricciones de los logaritmos en el conjunto de los números reales.
 
@@ -62,7 +62,7 @@ Por la definición exponencial del logaritmo, la base debe ser positiva y no pue
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante calcula el valor de un logaritmo sencillo sin usar la calculadora.
 
@@ -83,7 +83,7 @@ Buscamos el exponente $x$ tal que $2^x = 32$. Dado que $32 = 2^5$, el valor del 
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.78
 **Contexto:** En un curso de Matemáticas Aplicadas en Cáceres, se estudian los logaritmos decimales y neperianos.
 
@@ -104,7 +104,7 @@ Existen dos bases logarítmicas fundamentales: la base 10 (decimal) y la base $e
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un biólogo en Almería usa logaritmos para calcular el crecimiento de una población de bacterias.
 
@@ -125,7 +125,7 @@ Aplicamos la propiedad del logaritmo de un cociente: $\log A - \log B = \log (A/
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Se requiere simplificar una expresión logarítmica compleja en un examen de evaluación en Oviedo.
 
@@ -146,7 +146,7 @@ Aplicamos dos propiedades: 1. El logaritmo de una potencia ($n \log A = \log A^n
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Un geólogo estudia la escala Richter, que es logarítmica, para medir la magnitud de un seísmo cerca de Granada.
 
@@ -167,7 +167,7 @@ La raíz cuadrada se expresa como potencia de exponente $1/2$. Aplicando la prop
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante en Santander utiliza la calculadora para hallar un logaritmo en base 3, pero su dispositivo solo tiene teclas para log y ln.
 
@@ -188,7 +188,7 @@ La propiedad de cambio de base permite calcular el logaritmo en cualquier base $
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Calcula el valor de un logaritmo con base fraccionaria en un ejercicio de refuerzo.
 
@@ -209,7 +209,7 @@ Buscamos $x$ tal que $(1/2)^x = 8$. Escribiendo ambos en base 2: $(2^{-1})^x = 2
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.63
 **Contexto:** Se analiza el comportamiento de la función logarítmica en puntos cercanos al origen.
 
@@ -230,7 +230,7 @@ Una de las propiedades fundamentales es que el logaritmo de 1 en cualquier base 
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de 1º de Bachillerato en Madrid resuelve una ecuación logarítmica sencilla.
 
@@ -251,7 +251,7 @@ Aplicamos la definición de logaritmo (base 10): el argumento $x+2$ debe ser igu
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Se plantea una pregunta teórica sobre el logaritmo de un número negativo.
 
@@ -272,7 +272,7 @@ La función logarítmica es la inversa de la exponencial $y = a^x$. Dado que $a^
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.55
 **Contexto:** Dado que $\log 2 \approx 0,301$ y $\log 3 \approx 0,477$, calcula el valor de $\log 6$.
 
@@ -293,7 +293,7 @@ El logaritmo de un producto es igual a la suma de los logaritmos de los factores
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un estudiante simplifica una expresión con logaritmos neperianos en un problema de física sobre desintegración radiactiva.
 
@@ -314,7 +314,7 @@ El logaritmo de una potencia cuya base coincide con la del logaritmo es igual al
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analiza el efecto de cambiar la base y el argumento en un logaritmo.
 
@@ -335,7 +335,7 @@ Utilizando el cambio de base a logaritmos decimales: $(\log b / \log a) \cdot (\
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un astrónomo en Canarias mide la magnitud aparente de una estrella usando una fórmula logarítmica.
 
@@ -356,7 +356,7 @@ Aplicamos la definición: la base $x$ elevada al resultado 4 debe ser igual al a
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante de 1º de Bachillerato resuelve un sistema de ecuaciones logarítmicas en un examen final.
 
@@ -377,7 +377,7 @@ Agrupamos los logaritmos del primer miembro usando la propiedad del producto: $\
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se pide simplificar una expresión que combina logaritmos y raíces de forma avanzada.
 
@@ -398,7 +398,7 @@ Convertimos todo a potencias de 10: $\sqrt{10} = 10^{0,5}$ y $100 = 10^2$. La ex
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante analiza la relación entre el logaritmo de un número y el logaritmo de su inverso.
 
@@ -419,7 +419,7 @@ El inverso de un número se expresa como una potencia de exponente -1. Aplicando
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W03-logaritmos-propiedades-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Modelización y Resolución de Problemas
+**EJE:** Modelización y Resolución de Problemas
 **Expected_Success:** 0.35
 **Contexto:** Un reto final sobre el cálculo de logaritmos con argumentos exponenciales complejos.
 

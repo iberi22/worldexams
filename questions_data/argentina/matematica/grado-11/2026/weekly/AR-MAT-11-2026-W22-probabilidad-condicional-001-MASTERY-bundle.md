@@ -28,7 +28,7 @@ Este bundle se centra en la probabilidad condicional, eventos dependientes e ind
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Encuesta turística en CABA.
 **Expected_Success:** 0.85
 
@@ -51,7 +51,7 @@ La probabilidad condicional de un evento A dado un evento B se escribe P(A | B).
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Idiomas en una escuela secundaria.
 **Expected_Success:** 0.80
 
@@ -74,7 +74,7 @@ La fórmula de probabilidad condicional es P(A|B) = P(A ∩ B) / P(B). Aquí, P(
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Cartas españolas.
 **Expected_Success:** 0.88
 
@@ -97,7 +97,7 @@ La independencia implica que la ocurrencia de un evento no afecta la probabilida
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Control de neumáticos en taller mecánico.
 **Expected_Success:** 0.82
 
@@ -123,7 +123,7 @@ Si dos eventos A y B son independientes, entonces P(A|B) = P(A). El hecho de sab
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Salud pública y tabaquismo.
 **Expected_Success:** 0.75
 
@@ -149,7 +149,7 @@ La información dada "De los que fuman, el 20% tiene la enfermedad" representa d
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Cálculo de probabilidad total simple.
 **Expected_Success:** 0.70
 
@@ -172,7 +172,7 @@ Aplicamos el Teorema de la Probabilidad Total. La probabilidad de estar enfermo 
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Extracción sucesiva sin reposición.
 **Expected_Success:** 0.72
 
@@ -195,7 +195,7 @@ Al no haber reposición, los eventos son dependientes. La probabilidad del segun
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Producción industrial de alimentos.
 **Expected_Success:** 0.74
 
@@ -218,7 +218,7 @@ Usamos la regla de la multiplicación: P(A ∩ B) = P(A|B) * P(B). La probabilid
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Extracción de útiles escolares.
 **Expected_Success:** 0.78
 
@@ -241,7 +241,7 @@ P(Rojo en 2do | Azul en 1ro). Al sacar un azul, quedan 9 elementos en la caja (5
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Asistencia a estadios de fútbol.
 **Expected_Success:** 0.72
 
@@ -266,7 +266,7 @@ Calculamos primero la probabilidad total de asistir: P(A) = P(A|L)P(L) + P(A|B)P
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Tabla de contingencia en estudio de mercado.
 **Expected_Success:** 0.65
 
@@ -289,7 +289,7 @@ Restringimos el espacio muestral al evento condicionante "prefiere Jugo" (110 pe
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Dados y eventos independientes.
 **Expected_Success:** 0.62
 
@@ -312,7 +312,7 @@ Calculamos P(A) = 6/36 = 1/6. Calculamos P(B) = 6/36 = 1/6. La intersección es 
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Examen de conducir provincial.
 **Expected_Success:** 0.60
 
@@ -335,7 +335,7 @@ Usamos la regla del producto para la intersección de eventos dependientes: P(A 
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Elección entre dos recipientes.
 **Expected_Success:** 0.58
 
@@ -358,7 +358,7 @@ Aplicamos la Probabilidad Total. La probabilidad de elegir chocolate depende de 
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Mantenimiento de maquinaria.
 **Expected_Success:** 0.55
 
@@ -381,7 +381,7 @@ Este es un problema de Teorema de Bayes. P(M|F) = [P(F|M)*P(M)] / [P(F|M)*P(M) +
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Competencia de tiro al blanco.
 **Expected_Success:** 0.64
 
@@ -404,7 +404,7 @@ Condicionamos el espacio a que solo uno acertó (0,38). Los casos donde ese uno 
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Análisis ambiental y falsos positivos.
 **Expected_Success:** 0.45
 
@@ -427,7 +427,7 @@ Aunque el test es muy preciso, la baja prevalencia (1%) hace que la mayoría de 
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Divisibilidad y probabilidad.
 **Expected_Success:** 0.50
 
@@ -450,7 +450,7 @@ Eventos A (múltiplo de 2) y C (múltiplo de 5) son independientes porque P(A∩
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Estrategia en juego de cartas nacional.
 **Expected_Success:** 0.52
 
@@ -473,7 +473,7 @@ P(G) = 0,5. La probabilidad conjunta de ser mano y ganar es 0,6 * 0,5 = 0,3. Apl
 
 **ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Probabilidad y Estadística
+**EJE:** Probabilidad y Estadística
 **Contexto:** Fiabilidad de sistemas complejos.
 **Expected_Success:** 0.42
 

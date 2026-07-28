@@ -26,7 +26,7 @@ Este bundle contiene 20 preguntas sobre la **Función Lineal**, alineadas con el
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Definición de función lineal
+**EJE:** Definición de función lineal
 **Expected_Success:** 0.90
 **Contexto:** En una clase de álgebra en una preparatoria de Veracruz, el profesor explica la forma general de las funciones de primer grado.
 
@@ -47,7 +47,7 @@ La función lineal se caracteriza por tener una variable de primer grado. La exp
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Significado de la pendiente
+**EJE:** Significado de la pendiente
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante observa la gráfica de la temperatura a lo largo del día en Chihuahua, la cual desciende de manera constante.
 
@@ -68,7 +68,7 @@ La pendiente ($m$) indica la razón de cambio. Si $m$ es negativo, la recta se i
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Intersección con los ejes
+**EJE:** Intersección con los ejes
 **Expected_Success:** 0.88
 **Contexto:** Un analista financiero en la Ciudad de México revisa un modelo de costos fijos representados por la ordenada al origen de una recta.
 
@@ -89,7 +89,7 @@ El valor de $b$ en $y = mx + b$ es la ordenada al origen. Representa el valor de
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pendiente de una recta horizontal
+**EJE:** Pendiente de una recta horizontal
 **Expected_Success:** 0.82
 **Contexto:** En un laboratorio de física en Puebla, se mide la velocidad de un objeto que se mueve a ritmo constante sin aceleración. La gráfica de velocidad vs tiempo es una línea horizontal.
 
@@ -110,7 +110,7 @@ Una recta horizontal tiene una ecuación de la forma $y = b$. Como el valor de $
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Cálculo de la pendiente entre dos puntos
+**EJE:** Cálculo de la pendiente entre dos puntos
 **Expected_Success:** 0.75
 **Contexto:** Un topógrafo en el Estado de México necesita calcular la pendiente de un terreno. Para ello, ubica dos puntos: $A(2, 3)$ y $B(5, 12)$.
 
@@ -131,7 +131,7 @@ La pendiente se calcula como la razón entre el cambio vertical y el cambio hori
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Construcción de la ecuación de la recta
+**EJE:** Construcción de la ecuación de la recta
 **Expected_Success:** 0.72
 **Contexto:** Un taxista en Guadalajara cobra una tarifa base (banderazo) de \$15.00 y adicionalmente \$8.00 por cada kilómetro recorrido.
 
@@ -152,7 +152,7 @@ En problemas de costos, el valor variable (por unidad) es la pendiente ($m$) y e
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Intersección con el eje X (raíz)
+**EJE:** Intersección con el eje X (raíz)
 **Expected_Success:** 0.70
 **Contexto:** En un ejercicio de geometría analítica, se desea encontrar el punto donde la recta $f(x) = -4x + 12$ cruza el eje horizontal.
 
@@ -173,7 +173,7 @@ La intersección con el eje $x$ ocurre cuando el valor de la función es cero ($
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Identificación de gráficas de funciones lineales
+**EJE:** Identificación de gráficas de funciones lineales
 **Expected_Success:** 0.78
 **Contexto:** Un estudiante de preparatoria técnica compara el crecimiento de dos plantas. La planta A crece según $y = 2x + 5$ y la planta B según $y = 3x + 2$.
 
@@ -194,7 +194,7 @@ La pendiente ($m$) representa la velocidad o tasa de crecimiento. La ordenada al
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Evaluación de funciones lineales
+**EJE:** Evaluación de funciones lineales
 **Expected_Success:** 0.74
 **Contexto:** Un tanque de agua en una zona rural de Oaxaca se está vaciando de manera uniforme. El volumen $V$ en litros después de $t$ minutos es $V(t) = 1200 - 40t$.
 
@@ -215,7 +215,7 @@ Primero se convierten las unidades de tiempo a las del modelo (minutos). Media h
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Rectas paralelas
+**EJE:** Rectas paralelas
 **Expected_Success:** 0.68
 **Contexto:** Un arquitecto en Monterrey está diseñando dos muros paralelos. La ecuación del primer muro es $y = 0.5x + 10$.
 
@@ -236,7 +236,7 @@ Dos rectas son paralelas si y solo si sus pendientes son iguales ($m_1 = m_2$). 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Rectas perpendiculares
+**EJE:** Rectas perpendiculares
 **Expected_Success:** 0.62
 **Contexto:** En un plano de diseño industrial en San Luis Potosí, se requiere trazar una línea perpendicular a la trayectoria $y = \frac{3}{4}x - 2$.
 
@@ -257,7 +257,7 @@ La condición de perpendicularidad entre dos rectas con pendientes $m_1$ y $m_2$
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Ecuación punto-pendiente
+**EJE:** Ecuación punto-pendiente
 **Expected_Success:** 0.58
 **Contexto:** Se conoce que una recta tiene una pendiente $m = -2$ y pasa por el punto $P(-1, 5)$. Un estudiante busca expresar la ecuación en su forma pendiente-intersección.
 
@@ -278,7 +278,7 @@ Se utiliza la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituyendo: $y - 
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Modelado de situaciones proporcionales
+**EJE:** Modelado de situaciones proporcionales
 **Expected_Success:** 0.55
 **Contexto:** Un sistema de riego por goteo en Sonora entrega agua de forma constante. Se observa que después de 2 horas se han entregado 15 litros, y después de 5 horas se han entregado 37.5 litros.
 
@@ -299,7 +299,7 @@ La razón de cambio es la pendiente entre los puntos $(2, 15)$ y $(5, 37.5)$. Se
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Forma general de la recta
+**EJE:** Forma general de la recta
 **Expected_Success:** 0.60
 **Contexto:** En un examen tipo EXANI-II, se presenta la ecuación de una recta en su forma general: \$3x - 2y + 8 = 0$.
 
@@ -320,7 +320,7 @@ Para identificar $m$ y $b$ en la forma general $Ax + By + C = 0$, se despeja $y$
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Análisis de variaciones
+**EJE:** Análisis de variaciones
 **Expected_Success:** 0.56
 **Contexto:** Un globo aerostático en Teotihuacán asciende. Su altura $H$ (en metros) respecto al tiempo $t$ (en segundos) está dada por $H(t) = 1.2t + 20$.
 
@@ -341,7 +341,7 @@ Modificar la velocidad de cambio implica cambiar el valor de la pendiente ($m$).
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Punto de intersección entre dos rectas
+**EJE:** Punto de intersección entre dos rectas
 **Expected_Success:** 0.52
 **Contexto:** Dos proyectiles siguen trayectorias lineales en un simulador: $y = x + 2$ y $y = -2x + 11$.
 
@@ -362,7 +362,7 @@ El punto de intersección se halla igualando las dos funciones ($f(x) = g(x)$) p
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Optimización lineal básica
+**EJE:** Optimización lineal básica
 **Expected_Success:** 0.45
 **Contexto:** Un fabricante de zapatos en León tiene costos mensuales de producción $C(x) = 250x + 15000$, donde $x$ es el número de pares. Vende cada par en \$400.
 
@@ -383,7 +383,7 @@ El punto de equilibrio se alcanza cuando la función de ingresos $I(x) = P \cdot
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Interpretación de modelos de depreciación
+**EJE:** Interpretación de modelos de depreciación
 **Expected_Success:** 0.42
 **Contexto:** Una maquinaria comprada por una constructora en Hermosillo costó \$800,000 y se deprecia linealmente hasta valer \$200,000 al cabo de 10 años.
 
@@ -404,7 +404,7 @@ La depreciación lineal se modela con una pendiente negativa. La pendiente es la
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Regresión lineal conceptual
+**EJE:** Regresión lineal conceptual
 **Expected_Success:** 0.40
 **Contexto:** Un científico social estudia la relación entre años de estudio ($x$) y salario mensual ($y$) en Campeche. Encuentra que los datos se ajustan a la recta $y = 1200x + 5000$.
 
@@ -425,7 +425,7 @@ En modelos lineales aplicados, la pendiente $m$ representa la tasa de variación
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Sistemas de desigualdades lineales
+**EJE:** Sistemas de desigualdades lineales
 **Expected_Success:** 0.38
 **Contexto:** Para un proyecto escolar en Colima, un grupo de estudiantes debe cumplir dos condiciones: el doble de un número $x$ más un número $y$ debe ser al menos 10, y la suma de ambos no debe exceder 8.
 

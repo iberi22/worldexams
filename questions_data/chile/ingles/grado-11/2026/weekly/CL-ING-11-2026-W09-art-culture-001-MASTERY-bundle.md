@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a masterpiece.
 
@@ -45,7 +45,7 @@ A masterpiece is a work of outstanding artistry, skill, or workmanship.
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing an artist's influence.
 
@@ -65,7 +65,7 @@ The present perfect continuous describes an action or state that has persisted o
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about artistic talent.
 
@@ -85,7 +85,7 @@ The third conditional (if + past perfect) describes a past possibility that did 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about cultural heritage.
 
@@ -105,7 +105,7 @@ Cultural heritage includes tangible assets like monuments and intangible ones li
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the purpose of art.
 
@@ -125,7 +125,7 @@ Some believe that art should be purely aesthetic, while others argue it should s
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Describing a sculpture.
 
@@ -145,7 +145,7 @@ The sculptor used a single block of marble to create this exquisite statue.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a gallery opening.
 
@@ -165,7 +165,7 @@ The present continuous passive 'is being held' describes an event that is curren
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on cultural appropriation.
 
@@ -185,7 +185,7 @@ Cultural appropriation occurs when elements of a marginalized culture are adopte
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past artistic movement.
 
@@ -205,7 +205,7 @@ The past perfect establishes that the movement was already popular before the ar
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "pop culture".
 
@@ -225,7 +225,7 @@ Critics often argue that popular culture can be ephemeral, lacking the lasting v
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Literature types.
 
@@ -245,7 +245,7 @@ A biography is an account of someone's life written by another person.
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a gallery rule.
 
@@ -265,7 +265,7 @@ The verb 'forbid' followed by 'from' requires the gerund form of the following v
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing cultural diversity.
 
@@ -285,7 +285,7 @@ A diverse society is one that embraces and celebrates a multitude of different c
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about artistic freedom.
 
@@ -305,7 +305,7 @@ The second conditional 'if + were' is used to discuss the hypothetical result of
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on the digital arts.
 
@@ -325,7 +325,7 @@ The author concludes that digital technology has democratized art by making it m
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a play.
 
@@ -345,7 +345,7 @@ The performance received a standing ovation from the appreciative audience.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing interest in an art form.
 
@@ -365,7 +365,7 @@ She is interested in learning more about contemporary dance.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about traditional crafts.
 
@@ -385,7 +385,7 @@ Handmade crafts are often passed down from one generation to the next, preservin
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a critic's opinion.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift tenses: the original statement 'The film is...'
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on cultural exchange.
 

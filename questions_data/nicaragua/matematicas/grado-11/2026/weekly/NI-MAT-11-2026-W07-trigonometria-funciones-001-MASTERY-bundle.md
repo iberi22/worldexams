@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Managua observa el movimiento periódico de una rueda de la fortuna.
 
@@ -39,7 +39,7 @@ El periodo es la longitud del intervalo más pequeño en el que la función comp
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.82
 **Contexto:** Un análisis de la amplitud en ondas sonoras en un estudio de grabación.
 
@@ -58,7 +58,7 @@ La amplitud representa la "altura" de la onda. En términos de rango, es la mita
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Un examen sobre las características de las funciones circulares.
 
@@ -77,7 +77,7 @@ Tanto el seno como el coseno representan coordenadas en el círculo unitario de 
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.78
 **Contexto:** Un gráfico de la función tangente en un libro de texto nicaragüense.
 
@@ -96,7 +96,7 @@ La tangente se define como $\sin(x) / \cos(x)$. Cuando $\cos(x) = 0$, la divisi�
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** El análisis del desfase en un circuito de corriente alterna.
 
@@ -115,7 +115,7 @@ En $f(x-h)$, si $h > 0$, la gráfica se mueve hacia la derecha. Interesantemente
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.72
 **Contexto:** Un músico en León ajusta la frecuencia de un sintetizador.
 
@@ -134,7 +134,7 @@ Al multiplicar $x$ por un factor $B > 1$, la función se "comprime" horizontalme
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.68
 **Contexto:** Un estudio sobre la marea en el Puerto de Corinto, Nicaragua.
 
@@ -153,7 +153,7 @@ El valor máximo de una función sinusoidal desplazada es la suma del valor de e
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Evaluación de la paridad en funciones trigonométricas.
 
@@ -172,7 +172,7 @@ Una función par es simétrica respecto al eje $y$. El coseno tiene esta propied
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.63
 **Contexto:** Un cálculo de puntos críticos en una función de coseno.
 
@@ -191,7 +191,7 @@ El ciclo del coseno comienza en 1, baja a 0 en $\pi/2$, llega al mínimo de -1 e
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Identificación del rango en una función transformada.
 
@@ -210,7 +210,7 @@ Para hallar el rango de $A \cos(x) + k$, calculamos $k - |A|$ para el valor mín
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.58
 **Contexto:** Uso de funciones inversas para hallar ángulos.
 
@@ -229,7 +229,7 @@ La función inversa (arcoseno) nos da el ángulo cuyo seno es el valor dado. Por
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un análisis de la composición de una función con su inversa.
 
@@ -248,7 +248,7 @@ Primero hallamos el ángulo cuya tangente es 1 ($45^\circ$ o $\pi/4$). Luego eva
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.52
 **Contexto:** Determinación del dominio de la función secante.
 
@@ -267,7 +267,7 @@ Al ser la secante el recíproco del coseno, hereda las restricciones de los punt
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Un análisis de las asíntotas en la función cosecante.
 
@@ -286,7 +286,7 @@ La cosecante tiende al infinito positivo o negativo cuando el ángulo se acerca 
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.48
 **Contexto:** Comparación de la rapidez de crecimiento de funciones.
 
@@ -305,7 +305,7 @@ La tangente tiene una tasa de crecimiento explosiva cerca de sus asíntotas vert
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Transformaciones combinadas de amplitud y periodo.
 
@@ -324,7 +324,7 @@ Ni la amplitud (5) ni el desplazamiento de fase ($-\pi$) afectan la duración de
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Un modelo de oscilación amortiguada en ingeniería.
 
@@ -343,7 +343,7 @@ Al multiplicar una función trigonométrica por un monomio, creamos una oscilaci
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.38
 **Contexto:** Identificación de una función a partir de sus propiedades analíticas.
 
@@ -362,7 +362,7 @@ Construimos la función paso a paso: $y = A \sin(Bx) + k$. Con $A=4, B = 2\pi/T 
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Análisis de la suma de funciones trigonométricas.
 
@@ -381,7 +381,7 @@ La superposición de dos ondas de la misma frecuencia resulta en una nueva onda 
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W07-trigonometria-funciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.32
 **Contexto:** Un reto sobre el dominio de las funciones trigonométricas inversas.
 

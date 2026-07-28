@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to figurative language.
 
@@ -45,7 +45,7 @@ A metaphor is a figure of speech that describes an object or action in a way tha
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing narrative voice.
 
@@ -65,7 +65,7 @@ The present simple 'speaks' describes the constant function of a narrative style
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Speculating about a plot twist.
 
@@ -85,7 +85,7 @@ The third conditional is used to imagine how a different narrative choice would 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "show, don't tell".
 
@@ -105,7 +105,7 @@ The third conditional is used to imagine how a different narrative choice would 
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "character development".
 
@@ -125,7 +125,7 @@ Effective character development involves creating a protagonist who is complex a
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Describing a draft.
 
@@ -145,7 +145,7 @@ A draft is a preliminary version of a piece of writing.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a writer's routine.
 
@@ -165,7 +165,7 @@ She is used to revising her work multiple times before she is satisfied with the
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "alliteration".
 
@@ -185,7 +185,7 @@ Alliteration is the occurrence of the same letter or sound at the beginning of a
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing an ongoing process of creative inspiration.
 
@@ -205,7 +205,7 @@ The present continuous passive describes the active and constant influence of li
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "overused tropes".
 
@@ -225,7 +225,7 @@ A cliché is a phrase or opinion that is overused and betrays a lack of original
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of a genre.
 
@@ -245,7 +245,7 @@ A genre is a category of artistic composition characterized by similarities in f
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future publication milestone.
 
@@ -265,7 +265,7 @@ The future perfect describes a goal that will be a finished achievement by the s
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "voice" in writing.
 
@@ -285,7 +285,7 @@ A writer's voice is the unique style or perspective that makes their work recogn
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Condition about creativity.
 
@@ -305,7 +305,7 @@ The second conditional 'if + past simple' describes how a hypothetical change in
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on the importance of revision.
 
@@ -325,7 +325,7 @@ The author concludes that "writing is rewriting," emphasizing the critical role 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a "protagonist".
 
@@ -345,7 +345,7 @@ The protagonist is the main character in a play, novel, or movie.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Reporting a writer's advice.
 
@@ -365,7 +365,7 @@ Verbs of suggestion take a 'that' clause with the base form (subjunctive mood) o
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "poetic license".
 
@@ -385,7 +385,7 @@ Poetic license is the freedom of a writer to depart from conventional rules of l
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past struggle with writer's block.
 
@@ -405,7 +405,7 @@ The past perfect continuous emphasizes the duration of the difficulty leading up
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on self-expression.
 

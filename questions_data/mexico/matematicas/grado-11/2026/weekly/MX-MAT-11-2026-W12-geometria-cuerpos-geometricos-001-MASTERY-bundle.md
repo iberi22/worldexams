@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de arquitectura en la UNAM repasa la clasificación de los sólidos platónicos para un examen de fundamentos del diseño.
 
@@ -43,7 +43,7 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un fabricante de envases en Monterrey necesita identificar las partes de un cilindro para optimizar el proceso de etiquetado.
 
@@ -64,7 +64,7 @@ En geometría espacial, la altura de un cuerpo con bases paralelas (como el cili
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un grupo de estudiantes en una feria de ciencias en Puebla explica la relación entre el volumen de una pirámide y un prisma con la misma base y altura.
 
@@ -85,7 +85,7 @@ La fórmula del volumen del prisma es $V = B \cdot h$, mientras que la de la pir
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un geólogo en Chihuahua está estudiando la estructura de un cristal de sal, que tiene forma de cubo perfecto.
 
@@ -106,7 +106,7 @@ Un cubo es un poliedro regular compuesto por 6 caras cuadradas congruentes. Si l
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un tanque de almacenamiento de agua en una comunidad rural de Oaxaca tiene forma cilíndrica.
 
@@ -127,7 +127,7 @@ El volumen de un cilindro se calcula con $V = \pi r^2 h$. Sustituyendo los valor
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un arquitecto en Guadalajara está diseñando una pirámide decorativa de base cuadrada para un centro comercial.
 
@@ -148,7 +148,7 @@ El volumen de una pirámide es $V = \frac{B \cdot h}{3}$. El área de la base cu
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un fabricante de helados en Michoacán produce barquillos en forma de cono circular recto.
 
@@ -169,7 +169,7 @@ El volumen de un cono se obtiene mediante $V = \frac{\pi r^2 h}{3}$. Para $r=3$ 
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Una tienda de deportes en la Ciudad de México vende balones de fútbol profesionales que son esferas casi perfectas.
 
@@ -190,7 +190,7 @@ El área de la superficie de una esfera se calcula con la fórmula $A = 4 \pi r^
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un ebanista está construyendo un baúl de madera con forma de prisma rectangular (paralelepípedo).
 
@@ -211,7 +211,7 @@ El área total de un prisma rectangular es $A = 2(ab + bc + ac)$. Sustituyendo l
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un profesor de matemáticas en Toluca utiliza el Teorema de Euler para verificar la validez de dibujos de poliedros.
 
@@ -232,7 +232,7 @@ El Teorema de Euler para poliedros convexos establece que $V - A + C = 2$, donde
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Se está analizando la cantidad de pintura necesaria para cubrir un silo de granos que tiene forma de cilindro rematado por una semiesfera.
 
@@ -253,7 +253,7 @@ La superficie exterior se compone del área lateral del cilindro ($2 \pi rh$) y 
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un diseñador de joyas en Taxco funde un cubo de oro de 2 cm de arista para fabricar pequeñas esferas de 0.5 cm de radio cada una.
 
@@ -274,7 +274,7 @@ Volumen del cubo: $2^3 = 8\text{ cm}^3$. Volumen de una esfera: $\frac{4}{3} \pi
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un ingeniero hidráulico en Veracruz estudia la presión en un tanque cónico invertido que se está llenando.
 
@@ -295,7 +295,7 @@ Al llenar un cono, la forma del agua es un cono semejante al original. La razón
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Se desea empacar una esfera de radio $R$ en la caja (prisma rectangular) más pequeña posible.
 
@@ -316,7 +316,7 @@ La caja mínima es un cubo de lado $L = 2R$. Su volumen es $V_c = (2R)^3 = 8R^3$
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un escultor en San Miguel de Allende corta un cilindro de mármol para obtener un prisma hexagonal regular de la mayor base posible.
 
@@ -337,7 +337,7 @@ En un hexágono regular inscrito en un círculo de radio $R$, el lado del hexág
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.30
 **Contexto:** Un carpintero construye una pirámide truncada (frusto de pirámide) de madera para una base de lámpara.
 
@@ -358,7 +358,7 @@ El volumen de un tronco de pirámide es $V = \frac{h}{3}(B_1 + B_2 + \sqrt{B_1 \
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.25
 **Contexto:** Se propone un diseño para un observatorio en forma de octaedro regular de arista $a$.
 
@@ -379,7 +379,7 @@ Un octaedro regular puede dividirse en dos pirámides cuadrangulares iguales con
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Un estudiante de física en la BUAP analiza el momento de inercia de una esfera y necesita entender cómo cambia su volumen respecto al radio.
 
@@ -400,7 +400,7 @@ Sea $k$ el factor de escala lineal (radio). El volumen varía con $k^3$ y el ár
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Un arquitecto diseña una cúpula que es un segmento esférico (parte de una esfera cortada por un plano).
 
@@ -421,7 +421,7 @@ El área de la superficie de un segmento esférico (o zona esférica) es directa
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W12-geometria-cuerpos-geometricos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.15
 **Contexto:** Un matemático estudia la optimización de contenedores y compara un cilindro y una esfera.
 

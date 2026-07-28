@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** En un taller de cocina en Talca, se mezclan harina y azúcar en una razón de 5:2.
 
@@ -39,7 +39,7 @@ Una razón es una comparación por cociente entre dos magnitudes. En este caso, 
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Lucas analiza un mapa de Chile con una escala de 1:1.000.000.
 
@@ -58,7 +58,7 @@ La relación entre las medidas de un mapa (o maqueta) y las reales es de proporc
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Un auto consume 8 litros de bencina por cada 100 kilómetros recorridos en la Ruta 5 Sur.
 
@@ -77,7 +77,7 @@ Es una proporción directa: $\frac{8}{100} = \frac{x}{250}$. Despejando $x$, mul
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Tres obreros demoran 12 horas en pintar una casa en Rancagua.
 
@@ -96,7 +96,7 @@ A mayor cantidad de trabajadores, menor es el tiempo de ejecución (proporcional
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** En una elección de centro de alumnos, la razón entre los votos del candidato A y el candidato B fue de 7:3.
 
@@ -115,7 +115,7 @@ Establecemos la proporción $\frac{A}{B} = \frac{7}{3}$. Sustituimos $B = 150$: 
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se desea repartir \$60.000 entre dos hermanos en la razón 2:3.
 
@@ -134,7 +134,7 @@ Sumamos los términos de la razón: $2 + 3 = 5$ partes iguales. Dividimos el tot
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Un depósito de agua se llena con 4 llaves iguales en 6 horas.
 
@@ -153,7 +153,7 @@ Es una relación de proporcionalidad inversa: a más llaves, menos tiempo. La co
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Una empresa en Santiago imprime 500 folletos en 40 minutos usando 2 máquinas.
 
@@ -172,7 +172,7 @@ Como la cantidad de folletos es constante, la relación entre máquinas y tiempo
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** El perímetro de un rectángulo es de $40 \text{ cm}$ y la razón entre su largo y su ancho es de 3:2.
 
@@ -191,7 +191,7 @@ El semiperímetro ($largo + ancho$) es $20 \text{ cm}$. La razón $3:2$ suma 5 p
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Dos variables $x$ e $y$ son inversamente proporcionales. Cuando $x = 10$, $y = 4$.
 
@@ -210,7 +210,7 @@ En la proporcionalidad inversa, el producto de las variables es constante ($x \c
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** Proporcionalidad compuesta: 5 operarios construyen 100 metros de muro en 4 días.
 
@@ -229,7 +229,7 @@ Usamos la regla de tres compuesta. La relación días-operarios es inversa ($\cd
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** En una mezcla asfáltica en Antofagasta, los componentes A, B y C están en la razón 1:2:5.
 
@@ -248,7 +248,7 @@ Definimos las cantidades como $1k$, $2k$ y $5k$. Sabemos que $5k = 400 \text{ kg
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Una escala de un mapa indica que $2 \text{ cm}$ representan $50 \text{ km}$ reales.
 
@@ -267,7 +267,7 @@ La razón es $2 \text{ cm} / 50 \text{ km} = 0,04 \text{ cm/km}$. Multiplicamos 
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Se comparan las áreas de dos cuadrados cuyas longitudes de lado están en la razón 3:4.
 
@@ -286,7 +286,7 @@ Si la razón entre los lados de dos figuras semejantes es $k$, entonces la razó
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Tres amigos deciden invertir en un negocio. La inversión de Pedro y Juan está en razón 4:5, y la de Juan y Diego en razón 3:2.
 
@@ -305,7 +305,7 @@ Para comparar Pedro ($P$) con Diego ($D$), usamos a Juan ($J$) como puente. Igua
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** Una bomba extrae agua de un pozo a una tasa constante de 150 litros por minuto.
 
@@ -324,7 +324,7 @@ Primero calculamos el tiempo total en minutos: $45.000 \text{ litros} / 150 \tex
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Un granjero observa que sus 20 vacas consumen el pasto de un prado en 15 días.
 
@@ -343,7 +343,7 @@ Es proporción inversa. La cantidad de alimento total es $20 \cdot 15 = 300$ uni
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** El volumen de un gas ($V$) es inversamente proporcional a la presión ($P$) que soporta (Ley de Boyle).
 
@@ -362,7 +362,7 @@ En proporción inversa, $P_1 \cdot V_1 = P_2 \cdot V_2$. Sustituimos los valores
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Una empresa de transporte en Valparaíso cobra una tarifa que es directamente proporcional a la distancia y al peso de la carga.
 
@@ -381,7 +381,7 @@ Establecemos la relación: $\text{Tarifa} / (\text{Peso} \cdot \text{Distancia})
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W02-razones-proporciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un mapa tiene una escala de 1:200.000. Una reserva natural se representa como un cuadrado de $3 \text{ cm}$ de lado.
 

@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of global issues (W01).
 
@@ -45,7 +45,7 @@ Climate change refers to long-term shifts in temperatures and weather patterns.
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of technology (W02).
 
@@ -65,7 +65,7 @@ The future perfect passive indicates that the automation process will be a finis
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Review of health (W03).
 
@@ -85,7 +85,7 @@ The mixed conditional connects a past hypothetical action with its present conse
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Review of media (W04).
 
@@ -105,7 +105,7 @@ Misinformation is false or inaccurate information that is spread, regardless of 
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Review of education (W05).
 
@@ -125,7 +125,7 @@ The text suggests that lifelong learning is essential for professional survival 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Review of sustainability (W06).
 
@@ -145,7 +145,7 @@ Renewable energy comes from natural sources that are constantly replenished.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of economy (W07).
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current and ongoing effect of these
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Review of travel (W08).
 
@@ -185,7 +185,7 @@ Sustainable tourism seeks to minimize the environmental footprint of travelers.
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of art (W09).
 
@@ -205,7 +205,7 @@ Inversion (verb before subject) is required when a sentence starts with a negati
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Review of social trends (W10).
 
@@ -225,7 +225,7 @@ The paradox of modern technology is that it can foster connection while also inc
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of dream jobs (W11).
 
@@ -245,7 +245,7 @@ An entrepreneur is someone who starts a new business and takes on financial risk
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of ethics (W12).
 
@@ -265,7 +265,7 @@ He ought to have confessed the truth before the situation got out of hand.
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Review of science (W13).
 
@@ -285,7 +285,7 @@ Scientific research must be subject to peer review to ensure its validity and ac
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of history (W14).
 
@@ -305,7 +305,7 @@ The past perfect continuous emphasizes the length of the struggle leading up to 
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Review of psychology (W15).
 
@@ -325,7 +325,7 @@ Resilience is the capacity to recover quickly from difficulties; toughness.
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of communication (W16).
 
@@ -345,7 +345,7 @@ Empathy is the ability to understand and share the feelings of another.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of urban life (W17).
 
@@ -365,7 +365,7 @@ The city is getting used to the new sustainable energy regulations.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Review of digital citizenship (W18).
 
@@ -385,7 +385,7 @@ A digital footprint is the record of your activities on the internet.
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of literature (W19).
 
@@ -405,7 +405,7 @@ In reported speech, we backshift tenses: 'My book has been...' becomes '...said 
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Summary of Period 1 themes.
 

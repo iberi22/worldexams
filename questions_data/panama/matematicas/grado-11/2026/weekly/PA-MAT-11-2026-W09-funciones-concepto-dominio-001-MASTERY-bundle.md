@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en David introduce el concepto de función matemática comparándolo con una máquina de procesamiento.
 
@@ -41,7 +41,7 @@ Definición conceptual de función y distinción entre los conceptos de relació
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** En una clase de matemáticas en Santiago, se identifican las partes de una función representadas por f(x) = y.
 
@@ -62,7 +62,7 @@ Identificación de la terminología básica asociada a la estructura de las func
 ## Question 3 [D3]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un analista en Colón utiliza la prueba de la recta vertical para determinar la naturaleza de una gráfica de tráfico.
 
@@ -83,7 +83,7 @@ Comprensión del criterio gráfico de la recta vertical para validar la unicidad
 ## Question 4 [D3]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante en Panamá evalúa una función de costos fijos para determinar el precio de sus productos.
 
@@ -104,7 +104,7 @@ Comprensión y evaluación de funciones constantes en el conjunto de los número
 ## Question 5 [D4]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante en Penonomé calcula el dominio de una función racional simple para evitar errores.
 
@@ -125,7 +125,7 @@ Identificación de restricciones en el dominio de funciones racionales (evitaci�
 ## Question 6 [D4]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero en David evalúa una función cuadrática que representa la trayectoria de un proyectil en un monitor.
 
@@ -146,7 +146,7 @@ Evaluación de funciones polinómicas mediante la sustitución de valores negati
 ## Question 7 [D4]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un meteorólogo en Panamá analiza el dominio de una función de humedad basada en una raíz cuadrada.
 
@@ -167,7 +167,7 @@ Cálculo del dominio de funciones irracionales (raíces de índice par).
 ## Question 8 [D5]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un economista en la Ciudad de Panamá utiliza una función por partes para modelar impuestos según ingresos.
 
@@ -188,7 +188,7 @@ Evaluación de funciones definidas por tramos o partes basándose en el valor de
 ## Question 9 [D5]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un analista logístico en el Canal determina el rango de una función lineal en un intervalo de calado.
 
@@ -209,7 +209,7 @@ Determinación del rango de una función lineal a partir de la restricción de s
 ## Question 10 [D5]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un biólogo marino analiza la periodicidad de mareas y verifica si la relación es inyectiva.
 
@@ -230,7 +230,7 @@ Identificación de la propiedad de inyectividad en funciones reales mediante el 
 ## Question 11 [D6]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero de software en Panamá calcula la composición de dos funciones de procesamiento de datos.
 
@@ -251,7 +251,7 @@ Cálculo de la composición de funciones mediante la sustitución de expresiones
 ## Question 12 [D6]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto determina el dominio de una función compleja que modela la curvatura de un techo en la Ciudad del Saber.
 
@@ -272,7 +272,7 @@ Análisis del dominio en funciones que presentan restricciones racionales e irra
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un experto en finanzas utiliza la función inversa para retroceder desde un monto final al capital invertido.
 
@@ -293,7 +293,7 @@ Determinación de la función inversa mediante el despeje de la variable indepen
 ## Question 14 [D7]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un astrónomo analiza una función simétrica para modelar el brillo estelar en el Observatorio de la UP.
 
@@ -314,7 +314,7 @@ Identificación de funciones pares e impares mediante la evaluación de la simet
 ## Question 15 [D7]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador de parques en Herrera utiliza traslaciones de funciones para posicionar elementos decorativos.
 
@@ -335,7 +335,7 @@ Comprensión de las traslaciones de funciones en el plano cartesiano (efectos de
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un investigador médico en Panamá determina el dominio de una función de concentración de un fármaco.
 
@@ -356,7 +356,7 @@ Determinación del dominio de funciones irracionales con argumentos polinómicos
 ## Question 17 [D8]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un físico en el Canal calcula la razón de cambio promedio de una función de nivel de agua.
 
@@ -377,7 +377,7 @@ Cálculo y simplificación del cociente de diferencias en funciones cuadráticas
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un matemático en Ciudad de Panamá analiza una función racional para encontrar sus asíntotas verticales.
 
@@ -398,7 +398,7 @@ Identificación de asíntotas verticales basándose en las exclusiones del domin
 ## Question 19 [D9]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** Reto de alta complejidad sobre composición de funciones inversas en un concurso nacional.
 
@@ -419,7 +419,7 @@ Evaluación de composiciones sucesivas de funciones con propiedades especiales d
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W09-funciones-concepto-dominio-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Un experto determina el dominio de una función compuesta que involucra logaritmos de trinomios.
 

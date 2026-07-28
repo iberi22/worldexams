@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 5to de secundaria en un colegio de San Juan de Lurigancho identifica las características de una función afín.
 
@@ -45,7 +45,7 @@ En la ecuación de la recta $y = mx + b$, el término independiente $b$ es la or
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.80
 **Contexto:** Un mensajero en el centro de Lima cobra una tarifa fija de S/ 5 por el servicio y S/ 2 por cada kilómetro recorrido.
 
@@ -70,7 +70,7 @@ Se modela la situación como una función lineal afín donde la pendiente es el 
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.75
 **Contexto:** Evaluación de funciones en un simulacro de examen de admisión a la Universidad Nacional Mayor de San Marcos (UNMSM).
 
@@ -95,7 +95,7 @@ Sustituimos el valor dado de $x$ en la regla de correspondencia: $\frac{3}{2}(6)
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante observa la gráfica de una recta que pasa por los puntos $(0, 2)$ y $(3, 8)$.
 
@@ -120,7 +120,7 @@ La pendiente $m$ se define como la razón entre el cambio vertical y el cambio h
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.65
 **Contexto:** Un técnico electricista en Huancayo cobra por hora de trabajo según la función $f(x) = 35x + 50$.
 
@@ -145,7 +145,7 @@ Planteamos una ecuación de primer grado igualando la función al costo total: $
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Determinación de paralelismo entre rectas en un plano cartesiano.
 
@@ -170,7 +170,7 @@ Dos rectas no verticales son paralelas si y solo si sus pendientes son iguales. 
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Un depósito de agua en una zona rural de Ica se está vaciando de forma constante. Inicialmente tiene 1200 litros y pierde 30 litros por hora.
 
@@ -195,7 +195,7 @@ Definimos la función $V(t) = 1200 - 30t$. La cuarta parte de 1200 es 300. Resol
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Representación de funciones en un plano cartesiano para un proyecto escolar en Puno.
 
@@ -220,7 +220,7 @@ Con $m > 0$, la función es creciente. Con $b < 0$, corta al eje $Y$ abajo del o
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Hallar la ecuación de la recta a partir de información fragmentada.
 
@@ -245,7 +245,7 @@ La pendiente de una recta perpendicular es la opuesta y recíproca de la origina
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.50
 **Contexto:** Un científico en el SENAMHI analiza la relación entre la altitud y la temperatura.
 
@@ -270,7 +270,7 @@ La pendiente representa la variación de la temperatura por unidad de altura (1 
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.45
 **Contexto:** Análisis de intersección de dos funciones lineales en un contexto comercial.
 
@@ -298,7 +298,7 @@ Igualamos las dos funciones de costo $C_A(x) = C_B(x)$ para encontrar el valor d
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Estudio del dominio y rango restringido en aplicaciones reales.
 
@@ -323,7 +323,7 @@ El dominio es el conjunto de valores que puede tomar el tiempo $t$. Comienza en 
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Transformaciones de funciones en un examen pre-universitario de la UNI.
 
@@ -348,7 +348,7 @@ Un desplazamiento horizontal de $h$ unidades se representa como $f(x - h)$. Para
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Un problema de geometría analítica vinculado a funciones lineales.
 
@@ -373,7 +373,7 @@ Los interceptos con los ejes determinan la base y la altura del triángulo rect�
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Una empresa de gas en Cusco cobra según la siguiente tarifa: S/ 12 por cargo fijo que incluye los primeros 10 m³, y S/ 1.50 por cada m³ adicional.
 
@@ -398,7 +398,7 @@ Modelamos una función por partes simplificada. Para el tramo superior a 10, el 
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.30
 **Contexto:** Análisis de la relación entre la pendiente y el ángulo de inclinación de la recta.
 
@@ -423,7 +423,7 @@ La pendiente $m$ de una recta es igual a la tangente de su ángulo de inclinaci�
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.25
 **Contexto:** Un problema de parámetros en familias de rectas, nivel examen de la UNI.
 
@@ -448,7 +448,7 @@ Primero calculamos la pendiente de la recta dada por los puntos ($m = 2$). Luego
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.20
 **Contexto:** Cálculo de la distancia de un punto a una recta, interpretado mediante funciones lineales.
 
@@ -473,7 +473,7 @@ Expresamos la función en su forma general $Ax + By + C = 0$. Luego aplicamos la
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.15
 **Contexto:** Un problema complejo de optimización y modelamiento lineal sobre la producción de plata en una mina de Cerro de Pasco.
 
@@ -498,7 +498,7 @@ Primero determinamos la tasa de producción por trabajador (pendiente $m = 4$). 
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.10
 **Contexto:** Análisis de funciones lineales inversas y composición, nivel Olimpiada de Matemática.
 

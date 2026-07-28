@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Lima repasa los criterios de semejanza para su examen de admisión.
 
@@ -45,7 +45,7 @@ El criterio AA establece que si dos ángulos de un triángulo son congruentes co
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Definición de la razón de semejanza en un taller de dibujo técnico en Trujillo.
 
@@ -70,7 +70,7 @@ En geometría, cuando escalamos las dimensiones de una figura por un factor $k$,
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Medición de alturas mediante sombras en el Centro Histórico de Lima.
 
@@ -95,7 +95,7 @@ Los rayos del sol son paralelos, por lo que los objetos y sus sombras forman tri
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Aplicación del Teorema de Tales en un examen escolar en Arequipa.
 
@@ -120,7 +120,7 @@ El Teorema de Tales indica que una paralela a uno de los lados de un triángulo 
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un diseño de una rampa en un centro comercial del Callao requiere calcular una distancia intermedia.
 
@@ -145,7 +145,7 @@ La altura del cuadrado (su lado) sobre la hipotenusa genera triángulos rectáng
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Propiedades de la base media en un triángulo.
 
@@ -170,7 +170,7 @@ El segmento que une los puntos medios de dos lados de un triángulo se llama bas
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Cálculo de distancias inaccesibles en un proyecto de ingeniería en Piura.
 
@@ -195,7 +195,7 @@ Identificamos la razón de semejanza comparando los lados correspondientes conoc
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** División de un triángulo por una paralela y relación de áreas.
 
@@ -220,7 +220,7 @@ Al trazar una paralela que corta la altura por la mitad, creamos un triángulo s
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un problema de óptica: formación de imágenes en una cámara oscura en Cusco.
 
@@ -245,7 +245,7 @@ El orificio de la cámara actúa como el vértice común de dos triángulos seme
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Relación entre los elementos de triángulos semejantes (alturas y medianas).
 
@@ -270,7 +270,7 @@ En triángulos semejantes, no solo los lados son proporcionales, sino también t
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Un problema de geometría de posición, típico de los simulacros de la UNI.
 
@@ -295,7 +295,7 @@ Al inscribir el rombo, el triángulo pequeño $EFC$ es semejante al triángulo o
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Uso de la semejanza en trapecios.
 
@@ -320,7 +320,7 @@ En un trapecio, los triángulos formados por las bases y el punto de intersecci�
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Teorema de la bisectriz interior y semejanza asociada.
 
@@ -345,7 +345,7 @@ Primero determinamos la longitud del lado $AC$ restando los otros lados del per�
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un problema de "escaleras cruzadas", clásico reto de semejanza y álgebra.
 
@@ -370,7 +370,7 @@ Este es el clásico problema de la media armónica en geometría. La altura del 
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Semejanza en el triángulo rectángulo: relaciones métricas.
 
@@ -395,7 +395,7 @@ Combinamos dos relaciones métricas: 1) el cuadrado de la altura es el producto 
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un problema de diseño de logotipos basado en la proporción áurea y semejanza.
 
@@ -420,7 +420,7 @@ El triángulo con ángulos 36-72-72 es especial porque su bisectriz base genera 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Un reto de semejanza con puntos en la prolongación de los lados, nivel examen UNI.
 
@@ -445,7 +445,7 @@ Identificamos dos triángulos que comparten un ángulo y tienen otro par de áng
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Cálculo de áreas en configuraciones de semejanza anidada.
 
@@ -470,7 +470,7 @@ Usamos la propiedad de que el área de un triángulo semejante es proporcional a
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Teorema de Menelao y semejanza en configuraciones complejas.
 
@@ -495,7 +495,7 @@ El Teorema de Menelao permite relacionar segmentos en un triángulo cortado por 
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Problema de optimización geométrica: el camino más corto entre dos puntos tocando una recta (Problema de Heron).
 

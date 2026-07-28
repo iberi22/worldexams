@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to reasoning.
 
@@ -45,7 +45,7 @@ Logic is the study of correct reasoning and the principles of valid argument.
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing existentialism.
 
@@ -65,7 +65,7 @@ The present simple 'emphasizes' is used to state a central characteristic of a p
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Using "if only" for philosophical regret.
 
@@ -85,7 +85,7 @@ If only we had questioned our assumptions earlier, we would have avoided many lo
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about Socrates.
 
@@ -105,7 +105,7 @@ Socrates is famous for his method of inquiry, which involved asking a series of 
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "logical fallacies".
 
@@ -125,7 +125,7 @@ A fallacy is a mistaken belief, especially one based on unsound argument or inva
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Ethical frameworks.
 
@@ -145,7 +145,7 @@ Deontology is an ethical theory that judges the morality of an action based on r
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a philosophical debate.
 
@@ -165,7 +165,7 @@ The present continuous passive describes a topic that remains a focus of current
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "Empiricism".
 
@@ -185,7 +185,7 @@ Empiricism is the theory that all knowledge is derived from sense-experience.
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reflecting on a philosopher's influence.
 
@@ -205,7 +205,7 @@ The past perfect passive describes the state of the philosopher's work prior to 
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "Postmodernism".
 
@@ -225,7 +225,7 @@ Postmodernism often challenges the idea of objective truth, suggesting that all 
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of an axiom.
 
@@ -245,7 +245,7 @@ An axiom is a statement or proposition which is regarded as being self-evidently
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a logical requirement.
 
@@ -265,7 +265,7 @@ In logic, 'following from' refers to the necessary relationship between the star
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "Epistemology".
 
@@ -285,7 +285,7 @@ Epistemology is the branch of philosophy that investigates the nature, origin, a
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about a philosophical stance.
 
@@ -305,7 +305,7 @@ The second conditional 'if + were' is used to explore the hypothetical consequen
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an article on Stoicism.
 
@@ -325,7 +325,7 @@ The author concludes that Stoicism provides a practical framework for achieving 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of a paradox.
 
@@ -345,7 +345,7 @@ A paradox is a seemingly absurd or self-contradictory statement that when invest
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a logical mistake.
 
@@ -365,7 +365,7 @@ The argument is based on a circular reasoning, which means it assumes what it is
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "Humanism".
 
@@ -385,7 +385,7 @@ Humanism is an outlook or system of thought attaching prime importance to human 
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a philosophical argument.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the philosopher's original conclus
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on critical thinking.
 

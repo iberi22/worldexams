@@ -19,7 +19,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.85
 **Contexto:** Martina y su familia están planeando sus próximas vacaciones de verano.
 
@@ -40,7 +40,7 @@ Cuando ya tenés los pasajes en la mano (como Martina para ir al sur), lo más n
 ## Question 2 [D3-D4]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.80
 **Contexto:** Facundo está en la cocina y se da cuenta de que no hay más yerba.
 
@@ -61,7 +61,7 @@ Si te das cuenta de algo y decidís actuar en el momento (como ir a comprar yerb
 ## Question 3 [D3-D4]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.75
 **Contexto:** Un pronóstico meteorológico para la zona de CABA y alrededores.
 
@@ -82,7 +82,7 @@ Si ves las nubes negras sobre el Obelisco, tenés evidencia de que va a llover. 
 ## Question 4 [D5-D6]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.70
 **Contexto:** Lucía habla sobre sus metas académicas para el próximo año en Córdoba.
 
@@ -103,7 +103,7 @@ Para tus sueños o proyectos (como la carrera que querés seguir), usás "am goi
 ## Question 5 [D5-D6]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.65
 **Contexto:** Un mozo en un restaurante de Mendoza toma un pedido.
 
@@ -126,7 +126,7 @@ En un restaurante, los ofrecimientos de los mozos y los pedidos de los clientes 
 ## Question 6 [D5-D6]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.60
 **Contexto:** Un grupo de amigos organiza una juntada para comer un asado el domingo.
 
@@ -147,7 +147,7 @@ Para organizar una salida o reunión (como un asado), lo más común es el prese
 ## Question 7 [D7-D8]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.55
 **Contexto:** Una discusión sobre el futuro de la tecnología en Argentina hacia el año 2050.
 
@@ -168,7 +168,7 @@ Cuando das tu opinión sobre cómo va a ser el mundo dentro de mucho tiempo ("I 
 ## Question 8 [D7-D8]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.50
 **Contexto:** El uso del presente simple para el futuro en horarios de transporte en Buenos Aires.
 
@@ -189,7 +189,7 @@ Acordate siempre: para trenes, aviones, colectivos o funciones de teatro, usás 
 ## Question 9 [D7-D8]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.40
 **Contexto:** Distinguir entre una promesa y una intención en un diálogo.
 
@@ -213,7 +213,7 @@ Si querés quedar bien y prometerle algo a alguien en el momento ("Te prometo qu
 ## Question 10 [D9-D10]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.45
 **Contexto:** Una advertencia sobre un peligro inminente en una excursión.
 
@@ -234,7 +234,7 @@ Si ves que alguien está por pisar mal o tropezarse, la advertencia es con "goin
 ## Question 11 [D9-D10]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.35
 **Contexto:** Analizando errores en el uso de auxiliares para el futuro.
 
@@ -255,7 +255,7 @@ What is wrong with this question? "When you will travel to Ushuaia?"
 ## Question 12 [D9-D10]
 **ID:** AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.30
 **Contexto:** Un uso avanzado del futuro en cláusulas de tiempo (time clauses).
 

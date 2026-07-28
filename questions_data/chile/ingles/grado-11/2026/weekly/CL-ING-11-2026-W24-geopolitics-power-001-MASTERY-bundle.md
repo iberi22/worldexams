@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to global politics.
 
@@ -45,7 +45,7 @@ Sovereignty is the supreme power or authority of a state to govern itself.
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing international relations.
 
@@ -65,7 +65,7 @@ The past simple passive 'was established' describes the founding of the organiza
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about diplomacy.
 
@@ -85,7 +85,7 @@ The third conditional is used to speculate about the consequences of past negoti
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "soft power".
 
@@ -105,7 +105,7 @@ The third conditional is used to speculate about the consequences of past negoti
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "globalization".
 
@@ -125,7 +125,7 @@ The text implies that globalization increases economic interdependence among nat
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** International sanctions.
 
@@ -145,7 +145,7 @@ An embargo is an official ban on trade with a particular country.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a shift in global influence.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current, ongoing transformation of 
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "geopolitics".
 
@@ -185,7 +185,7 @@ Geopolitics is the study of the effects of geography on international relations.
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past alliance.
 
@@ -205,7 +205,7 @@ The past perfect 'had been' establishes history prior to the conflict.
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "realpolitik".
 
@@ -225,7 +225,7 @@ Realpolitik is a system of politics based on practical considerations.
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of a superpower.
 
@@ -245,7 +245,7 @@ A superpower is a very powerful nation with great economic and military strength
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future summit.
 
@@ -265,7 +265,7 @@ The future perfect indicates that consensus will be a finished fact at the concl
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "asymmetric warfare".
 
@@ -285,7 +285,7 @@ Asymmetric warfare involves conflict between groups whose military power differs
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Condition about nuclear proliferation.
 
@@ -305,7 +305,7 @@ The second conditional describes the likely outcome of a hypothetical change.
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an article on international law.
 
@@ -325,7 +325,7 @@ The author concludes that international law is essential for preventing anarchy.
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Diplomacy terms.
 
@@ -345,7 +345,7 @@ A diplomat is an official representing a country abroad.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Reporting a political statement.
 
@@ -365,7 +365,7 @@ In reported speech, we change 'will' to 'would' to match the past tense reportin
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "humanitarian aid".
 
@@ -385,7 +385,7 @@ Humanitarian aid is intended to alleviate suffering during and after crises.
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a long-standing tension.
 
@@ -405,7 +405,7 @@ The past perfect continuous emphasizes the duration of the geopolitical rivalry.
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on global stability.
 

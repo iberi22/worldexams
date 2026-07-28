@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of future society (W21).
 
@@ -45,7 +45,7 @@ Automation refers to the use of technology to perform tasks without human interv
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of space exploration (W22).
 
@@ -65,7 +65,7 @@ The future perfect passive describes a project that will be finished by 2050.
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Review of philosophy (W23).
 
@@ -85,7 +85,7 @@ The second conditional 'if + were' describes an imaginary present situation.
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Review of geopolitics (W24).
 
@@ -105,7 +105,7 @@ Sovereignty is the supreme authority of a state to govern itself.
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Review of environmental ethics (W25).
 
@@ -125,7 +125,7 @@ The text suggests that nature has intrinsic value, meaning it is valuable regard
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Review of global citizenship (W26).
 
@@ -145,7 +145,7 @@ To transcend borders means to go beyond geographical and political limits.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of media influence (W27).
 
@@ -165,7 +165,7 @@ The present continuous passive describes the ongoing modification of public thou
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Review of conflict resolution (W28).
 
@@ -185,7 +185,7 @@ Mediation involves a neutral third party helping to resolve a dispute.
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of human rights (W29).
 
@@ -205,7 +205,7 @@ In reported speech, we backshift to the past perfect to show a past violation.
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Summary of Period 2 themes.
 
@@ -225,7 +225,7 @@ The common theme of this period is the responsibility of the individual in a com
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of futuristic labor (W21).
 
@@ -245,7 +245,7 @@ A futurist is someone who studies current trends to predict what might happen in
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of space science (W22).
 
@@ -265,7 +265,7 @@ The first conditional 'if + present simple' is used for possible future events.
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Review of logical errors (W23).
 
@@ -285,7 +285,7 @@ A logical fallacy is a flaw in reasoning that weakens an argument.
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of diplomatic history (W24).
 
@@ -305,7 +305,7 @@ The past perfect describes a long-term state that changed in the past.
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Review of intergenerational justice (W25).
 
@@ -325,7 +325,7 @@ Intergenerational justice involves the duty to protect the planet for those not 
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of social justice (W26).
 
@@ -345,7 +345,7 @@ Empowerment is the process of becoming stronger and more confident, especially i
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of media literacy (W27).
 
@@ -365,7 +365,7 @@ The base form 'evaluate' is used in the subjunctive mood to express necessity.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Review of negotiation outcomes (W28).
 
@@ -385,7 +385,7 @@ A compromise is an agreement or a settlement of a dispute that is reached by eac
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of asylum (W29).
 
@@ -405,7 +405,7 @@ Refugees whose lives are in danger often seek asylum in neighboring countries.
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Summary of Period 2 ethics.
 

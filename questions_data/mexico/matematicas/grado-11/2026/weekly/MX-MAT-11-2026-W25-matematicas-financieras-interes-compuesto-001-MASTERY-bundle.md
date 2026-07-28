@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de la UNAM compara el crecimiento del dinero en diferentes esquemas bancarios.
 **Expected_Success:** 0.85
 
@@ -43,7 +43,7 @@ El interés compuesto se caracteriza porque los intereses generados en cada peri
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un joven en Guadalajara abre su primera cuenta de inversión y lee sobre la "capitalización".
 **Expected_Success:** 0.80
 
@@ -65,7 +65,7 @@ La capitalización es el evento donde los intereses se vuelven capital. Gracias 
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un asesor financiero explica cómo influye la frecuencia de capitalización en el resultado final.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ El valor de $n$ (o número de periodos) depende de cuántas veces se agregan los
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un inversionista analiza el efecto visual de una gráfica de crecimiento de capital.
 **Expected_Success:** 0.75
 
@@ -109,7 +109,7 @@ Mientras que el interés simple aumenta una cantidad fija (línea recta), el int
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Una persona en la CDMX invierte $5,000 pesos en un fondo que rinde interés compuesto.
 **Expected_Success:** 0.70
 
@@ -131,7 +131,7 @@ Aplicamos la fórmula $M = C(1+i)^n$. Multiplicamos $5,000$ por $1.10$ al cuadra
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se estudia el rendimiento de un ahorro a corto plazo con capitalización trimestral.
 **Expected_Success:** 0.65
 
@@ -153,7 +153,7 @@ La tasa nominal anual debe dividirse entre el número de veces que se capitaliza
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un microempresario en Monterrey analiza el costo de un préstamo compuesto.
 **Expected_Success:** 0.60
 
@@ -175,7 +175,7 @@ Primero calculamos el Monto total usando la fórmula exponencial. Luego, restamo
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un plan de ahorro universitario en Puebla utiliza capitalización mensual.
 **Expected_Success:** 0.55
 
@@ -197,7 +197,7 @@ Dividimos la tasa anual entre 12 para obtener la mensual (0.02). El número de p
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se compara el interés compuesto con el simple para ver cuándo la diferencia se vuelve significativa.
 **Expected_Success:** 0.60
 
@@ -219,7 +219,7 @@ La diferencia entre interés simple y compuesto aparece a partir de la segunda c
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un inversionista quiere saber el valor futuro de su dinero considerando una tasa anual del 6%.
 **Expected_Success:** 0.65
 
@@ -241,7 +241,7 @@ El factor $(1+i)^n$ representa cuánto crece cada peso invertido. Para una tasa 
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de finanzas en el IPN calcula el valor presente necesario para una meta futura.
 **Expected_Success:** 0.50
 
@@ -263,7 +263,7 @@ Para hallar el valor presente ($C$), despejamos la fórmula original: $C = M / (
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el concepto de Tasa Efectiva frente a la Tasa Nominal.
 **Expected_Success:** 0.45
 
@@ -285,7 +285,7 @@ La tasa efectiva anual ($i_e$) representa el rendimiento real tras considerar la
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un inversionista evalúa el tiempo necesario para triplicar su dinero con una tasa fija.
 **Expected_Success:** 0.40
 
@@ -307,7 +307,7 @@ Para despejar una variable en el exponente ($n$), aplicamos logaritmos en ambos 
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un experto en finanzas de la Bolsa Mexicana de Valores analiza la capitalización semestral.
 **Expected_Success:** 0.45
 
@@ -329,7 +329,7 @@ En 1.5 años hay 3 semestres ($n=3$). La tasa anual del 10% se divide entre 2 pa
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ahorrador en Guadalajara compara dos bancos con diferentes frecuencias de capitalización.
 **Expected_Success:** 0.50
 
@@ -351,7 +351,7 @@ Matemáticamente, cuantas más veces se capitalicen los intereses en un año, ma
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de administración analiza la depreciación de un equipo, que funciona como un interés compuesto negativo.
 **Expected_Success:** 0.40
 
@@ -373,7 +373,7 @@ La depreciación acumulada sigue la misma lógica que el interés compuesto, per
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador del Cinvestav estudia la capitalización continua, el límite cuando los periodos tienden a infinito.
 **Expected_Success:** 0.25
 
@@ -395,7 +395,7 @@ La capitalización continua es el límite teórico donde el interés se acumula 
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista financiero utiliza la "Regla del 72" para estimar rápidamente el tiempo de duplicación.
 **Expected_Success:** 0.30
 
@@ -417,7 +417,7 @@ La "Regla del 72" es una herramienta de estimación rápida. Al dividir 72 entre
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un problema complejo que requiere encontrar la tasa de interés desconocida.
 **Expected_Success:** 0.25
 
@@ -439,7 +439,7 @@ Para hallar la tasa $i$, despejamos de la fórmula de duplicación: $2 = (1+i)^n
 
 **ID:** MX-MAT-11-2026-W25-matematicas-financieras-interes-compuesto-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el efecto de una tasa variable en el tiempo dentro de un esquema compuesto.
 **Expected_Success:** 0.20
 

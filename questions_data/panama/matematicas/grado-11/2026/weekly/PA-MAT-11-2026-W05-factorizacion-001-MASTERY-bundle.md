@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en un bachillerato en David repasa el concepto de factor común para simplificar una expresión de costos.
 
@@ -41,7 +41,7 @@ Identificación del máximo factor común (numérico y literal) en un polinomio.
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** En una clase de matemáticas en Santiago, se explica cómo reconocer una diferencia de cuadrados.
 
@@ -62,7 +62,7 @@ Aplicación del caso de factorización "Diferencia de cuadrados perfectos".
 ## Question 3 [D3]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un carpintero en Chitré utiliza la factorización por agrupación para dividir el diseño de un mueble modular.
 
@@ -83,7 +83,7 @@ Comprensión y aplicación del método de factorización por agrupación de tér
 ## Question 4 [D4]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante en Penonomé reconoce un trinomio cuadrado perfecto en el cálculo de un área.
 
@@ -104,7 +104,7 @@ Identificación y factorización de un Trinomio Cuadrado Perfecto.
 ## Question 5 [D4]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** En una escuela de Aguadulce, se enseña a factorizar buscando números que cumplan condiciones de suma y producto.
 
@@ -125,7 +125,7 @@ Factorización de trinomios de la forma x^2 + bx + c mediante la búsqueda de fa
 ## Question 6 [D5]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero hidráulico en el Canal factoriza una diferencia de cubos para una ecuación de flujo.
 
@@ -146,7 +146,7 @@ Aplicación del caso de factorización de Diferencia de Cubos Perfectos.
 ## Question 7 [D5]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un arquitecto en Ciudad de Panamá utiliza factorización para determinar dimensiones estructurales.
 
@@ -167,7 +167,7 @@ Factorización de trinomios de la forma ax^2 + bx + c mediante descomposición d
 ## Question 8 [D5]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un programador panameño simplifica una expresión racional factorizando un trinomio en el denominador.
 
@@ -188,7 +188,7 @@ Factorización de trinomios cuadrados perfectos con coeficientes en los término
 ## Question 9 [D6]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante de ingeniería en la UTP simplifica una fracción factorizando una suma de cubos.
 
@@ -209,7 +209,7 @@ Aplicación del caso de factorización de Suma de Cubos Perfectos.
 ## Question 10 [D6]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un analista en Ciudad de Panamá factoriza un polinomio de cuarto grado extrayendo factores comunes.
 
@@ -230,7 +230,7 @@ Ejecución de factorizaciones sucesivas combinando factor común y diferencia de
 ## Question 11 [D7]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un geómetra en Chiriquí descompone un polinomio de seis términos por agrupación.
 
@@ -251,7 +251,7 @@ Factorización por agrupación de términos en polinomios de varios términos.
 ## Question 12 [D7]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** En una competencia de matemáticas, se pide factorizar una diferencia de cuadrados binómicos.
 
@@ -272,7 +272,7 @@ Aplicación de la diferencia de cuadrados sobre bases que son expresiones compue
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero de software optimiza una rutina de factorización de trinomios complejos.
 
@@ -293,7 +293,7 @@ Factorización de trinomios con coeficientes principales mayores a 1 y signos ne
 ## Question 14 [D8]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un experto en criptografía utiliza la factorización de potencias pares para un algoritmo.
 
@@ -314,7 +314,7 @@ Uso del método de adición y sustracción para completar trinomios y factorizar
 ## Question 15 [D8]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un analista de riesgos en Ciudad de Panamá descompone un polinomio para hallar puntos de equilibrio.
 
@@ -335,7 +335,7 @@ Factorización completa de polinomios de grado 3 mediante agrupación y diferenc
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante utiliza la regla de Ruffini para factorizar un polinomio con una raíz conocida.
 
@@ -356,7 +356,7 @@ Factorización de polinomios mediante el teorema del factor y la regla de Ruffin
 ## Question 17 [D9]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un investigador utiliza la identidad de suma de potencias impares para un modelo avanzado.
 
@@ -377,7 +377,7 @@ Generalización de la suma de cubos a la suma de potencias impares de grado supe
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Se requiere factorizar una expresión que combina diferencia de cuadrados y trinomios.
 
@@ -398,7 +398,7 @@ Factorización de expresiones que requieren agrupación para formar un trinomio 
 ## Question 19 [D10]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** Se plantea un reto sobre la factorización total de una diferencia de potencias sextas.
 
@@ -419,7 +419,7 @@ Factorización exhaustiva combinando diferencia de cuadrados y suma/diferencia d
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Aplicación de la identidad de Sophie Germain para factorizar una suma de potencias cuartas.
 

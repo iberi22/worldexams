@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of creative writing (W31).
 
@@ -45,7 +45,7 @@ A metaphor is a figure of speech in which a word or phrase is applied to an obje
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of global trade (W32).
 
@@ -65,7 +65,7 @@ The future perfect passive describes a regulation that will be a finished fact i
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Review of cultural identity (W33).
 
@@ -85,7 +85,7 @@ The third conditional is used to speculate about how a past experience led to a 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Review of media ethics (W34).
 
@@ -105,7 +105,7 @@ Fact-checking is the process of verifying the accuracy of information before it 
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Review of social movements (W35).
 
@@ -125,7 +125,7 @@ The text implies that grassroots movements are powerful because they are rooted 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Review of environmental law (W36).
 
@@ -145,7 +145,7 @@ Legislation refers to a law or a set of laws that are officially passed by a gov
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of global governance (W37).
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current and active creation of glob
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Review of cultural diversity (W38).
 
@@ -185,7 +185,7 @@ Pluralism is a condition or system in which two or more states, groups, or princ
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of leadership (W39).
 
@@ -205,7 +205,7 @@ In reported speech, we backshift the tense of the original statement to show it 
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final summary of Grade 11 themes.
 
@@ -225,7 +225,7 @@ The overarching goal of the Grade 11 curriculum is to foster critical thinking a
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of literature (W19/W31).
 
@@ -245,7 +245,7 @@ The protagonist is the leading character or one of the major characters in a mov
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of future society (W21).
 
@@ -265,7 +265,7 @@ I wish people would take sustainable development more seriously to protect the f
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Review of ethics (W12/W34).
 
@@ -285,7 +285,7 @@ Integrity involves being honest and having strong moral principles that you refu
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of history (W14).
 
@@ -305,7 +305,7 @@ The past perfect continuous describes a long-term process that preceded a specif
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Review of global citizenship (W26).
 
@@ -325,7 +325,7 @@ Global citizenship requires us to transcend our local biases and act for the ben
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Review of psychology (W15).
 
@@ -345,7 +345,7 @@ Resilience is the ability to bounce back from setbacks and adapt to challenging 
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Review of communication (W16).
 
@@ -365,7 +365,7 @@ The base form 'listen' is used in the subjunctive mood to express high importanc
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Review of urban life (W17).
 
@@ -385,7 +385,7 @@ Gentrification is the process of renovating and improving a house or district so
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Review of education (W05).
 
@@ -405,7 +405,7 @@ He is getting used to his new career path after several years of retraining.
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final reflection.
 

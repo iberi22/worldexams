@@ -27,7 +27,7 @@ Este bundle introduce y profundiza en el sistema de los números complejos, cubr
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Definición de la unidad imaginaria.
 **Expected_Success:** 0.95
 
@@ -48,7 +48,7 @@ La unidad imaginaria $i$ permite resolver raíces cuadradas de números negativo
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Partes de un número complejo.
 **Expected_Success:** 0.90
 
@@ -69,7 +69,7 @@ Un complejo $a + bi$ tiene parte real $a$ y parte imaginaria $b$. Para $4 - 7i$,
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Potencias de i.
 **Expected_Success:** 0.88
 
@@ -90,7 +90,7 @@ Las potencias de $i$ son cíclicas cada 4: $i^1=i, i^2=-1, i^3=-i, i^4=1$.
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de números complejos.
 **Expected_Success:** 0.85
 
@@ -111,7 +111,7 @@ Sumamos partes reales con reales y partes imaginarias con imaginarias: $3+2=5$ y
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Multiplicación de números complejos.
 **Expected_Success:** 0.78
 
@@ -132,7 +132,7 @@ Usamos la propiedad distributiva: $6 - 4i + 3i - 2i^2$. Como $i^2 = -1$, el tér
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** El conjugado de un número complejo.
 **Expected_Success:** 0.82
 
@@ -153,7 +153,7 @@ El producto de un complejo por su conjugado es siempre la suma de los cuadrados 
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** División de números complejos.
 **Expected_Success:** 0.70
 
@@ -174,7 +174,7 @@ Multiplicamos numerador y denominador por el conjugado del denominador ($1-3i$):
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Módulo de un número complejo.
 **Expected_Success:** 0.75
 
@@ -195,7 +195,7 @@ El módulo $|z|$ es la magnitud del vector: $\sqrt{a^2 + b^2}$. Aplicando los va
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Simplificación de raíces negativas.
 **Expected_Success:** 0.80
 
@@ -216,7 +216,7 @@ Extraemos la unidad imaginaria: $6i + 8i = 14i$.
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Potencias elevadas de i.
 **Expected_Success:** 0.72
 
@@ -237,7 +237,7 @@ Dividimos el exponente entre 4 y tomamos el residuo: $25 = 6 \times 4 + 1$. El v
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ecuaciones cuadráticas con soluciones complejas.
 **Expected_Success:** 0.60
 
@@ -258,7 +258,7 @@ Despejamos $x$: $x^2 = -9$. La raíz cuadrada de un número negativo introduce l
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Forma trigonométrica/polar (conceptual).
 **Expected_Success:** 0.55
 
@@ -279,7 +279,7 @@ El ángulo se halla con $\tan(\theta) = \frac{Im}{Re}$. Como $a=1, b=1$, $\tan(\
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Potencia de un binomio complejo.
 **Expected_Success:** 0.58
 
@@ -300,7 +300,7 @@ Desarrollamos el cuadrado: $1 + 2i + i^2$. Como $i^2 = -1$, el 1 y el -1 se canc
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identidades con números complejos.
 **Expected_Success:** 0.50
 
@@ -321,7 +321,7 @@ Al sumar un complejo con su conjugado, las partes imaginarias se anulan y queda 
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Resolución de sistemas con i.
 **Expected_Success:** 0.52
 
@@ -342,7 +342,7 @@ Sustituimos cada potencia: $i^2=-1, i^4=1, i^6=-1, i^8=1$. La suma es $(-1+1) + 
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Inverso de un número complejo.
 **Expected_Success:** 0.48
 
@@ -363,7 +363,7 @@ El inverso $z^{-1}$ cumple $z \cdot z^{-1} = 1$. Para $i$, su inverso es $\frac{
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ecuaciones complejas avanzadas.
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ Despejamos $x+yi$ dividiendo el resultado entre el factor $(2-i)$. Al realizar l
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Raíces de la unidad.
 **Expected_Success:** 0.30
 
@@ -405,7 +405,7 @@ Usamos la propiedad $(1+i)^2 = 2i$. Entonces $((1+i)^2)^5 = (2i)^5 = 32 i^5 = 32
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Geometría de los complejos.
 **Expected_Success:** 0.32
 
@@ -426,7 +426,7 @@ De la relación $z \cdot \bar{z} = |z|^2$, si $|z|=1$, entonces $z \cdot \bar{z}
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Aplicación teórica.
 **Expected_Success:** 0.28
 

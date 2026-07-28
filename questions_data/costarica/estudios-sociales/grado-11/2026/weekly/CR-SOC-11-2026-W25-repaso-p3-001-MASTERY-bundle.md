@@ -30,7 +30,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante costarricense revisa los principios de la Constitución Política de 1949.
 
@@ -55,7 +55,7 @@ La Sala IV es pilar de la democracia costarricense, permitiendo que cualquier ci
 ## Question 2 [D3]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.85
 **Contexto:** Se analiza el impacto de la abolición del ejército en 1948 por parte de José Figueres Ferrer.
 
@@ -80,7 +80,7 @@ La abolición del ejército definió la identidad civilista de Costa Rica, prior
 ## Question 3 [D3]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.82
 **Contexto:** Un grupo de turistas en el Parque Nacional Volcán Poás pregunta sobre el modelo de desarrollo sostenible.
 
@@ -105,7 +105,7 @@ El sistema de áreas protegidas es fundamental para el modelo económico basado 
 ## Question 4 [D4]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.80
 **Contexto:** Análisis de la crisis económica de la década de 1980 en Costa Rica.
 
@@ -130,7 +130,7 @@ La crisis de los 80 obligó a Costa Rica a reformular su modelo económico, pasa
 ## Question 5 [D4]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.77
 **Contexto:** Un foro en la Universidad de Costa Rica discute sobre la Globalización.
 
@@ -155,7 +155,7 @@ La globalización presenta una dualidad: permite el acceso a nuevos mercados (di
 ## Question 6 [D4]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.75
 **Contexto:** Debate sobre la reforma al régimen de pensiones de la CCSS.
 
@@ -180,7 +180,7 @@ El cambio en la pirámide poblacional costarricense requiere ajustes en las pol�
 ## Question 7 [D5]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.72
 **Contexto:** Análisis de la participación ciudadana en los gobiernos locales.
 
@@ -205,7 +205,7 @@ Los gobiernos locales son la instancia de gobierno más cercana al ciudadano, fu
 ## Question 8 [D5]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.70
 **Contexto:** Se estudia el papel de Costa Rica en los organismos internacionales.
 
@@ -230,7 +230,7 @@ La vocación pacifista y pro-derechos humanos de Costa Rica se materializa al se
 ## Question 9 [D5]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.68
 **Contexto:** Un historiador explica la Guerra Civil de 1948.
 
@@ -255,7 +255,7 @@ El conflicto de 1948 fue un evento transformador que dio paso a la Segunda Repú
 ## Question 10 [D6]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante identifica las características del relieve costarricense.
 
@@ -280,7 +280,7 @@ La geografía volcánica de Costa Rica influye en la fertilidad de los suelos, l
 ## Question 11 [D6]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.62
 **Contexto:** Un economista analiza el Coeficiente de Gini en Costa Rica.
 
@@ -305,7 +305,7 @@ A pesar del crecimiento económico, Costa Rica enfrenta el reto de que los benef
 ## Question 12 [D6]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.60
 **Contexto:** Se estudia el papel de la mujer en la historia política de Costa Rica.
 
@@ -330,7 +330,7 @@ El sufragio femenino fue el resultado de una larga lucha de movimientos feminist
 ## Question 13 [D7]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.58
 **Contexto:** Discusión sobre el impacto de los monocultivos de exportación (piña, banano).
 
@@ -355,7 +355,7 @@ El modelo agroexportador requiere un equilibrio estricto entre el crecimiento ec
 ## Question 14 [D7]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.55
 **Contexto:** Se analiza el fenómeno de la identidad nacional costarricense.
 
@@ -380,7 +380,7 @@ Hoy en día, Costa Rica se reconoce constitucionalmente como una nación multié
 ## Question 15 [D7]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.52
 **Contexto:** Un taller sobre los desafíos de la educación técnica en el país.
 
@@ -405,7 +405,7 @@ La educación técnica es el motor que permite a Costa Rica competir en la econo
 ## Question 16 [D8]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante identifica los logros de la Reforma Social de los años 40.
 
@@ -430,7 +430,7 @@ La Reforma Social fue un pacto histórico entre el gobierno, la Iglesia Católic
 ## Question 17 [D8]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Interpretación y Análisis de Perspectivas
+**EJE:** Interpretación y Análisis de Perspectivas
 **Expected_Success:** 0.48
 **Contexto:** Análisis de la Campaña Nacional de 1856-1857.
 
@@ -455,7 +455,7 @@ La derrota de los filibusteros en la Batalla de Rivas (donde destaca Juan Santam
 ## Question 18 [D9]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.45
 **Contexto:** Un debate sobre la "Ley de Empleo Público" en Costa Rica.
 
@@ -480,7 +480,7 @@ La reforma del empleo público es un tema complejo que busca equilibrar los dere
 ## Question 19 [D9]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.42
 **Contexto:** Se estudia el impacto del turismo en las comunidades costeras de Guanacaste.
 
@@ -505,7 +505,7 @@ El desarrollo turístico debe ser inclusivo; de lo contrario, genera tensiones s
 ## Question 20 [D10]
 **ID:** CR-SOC-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Social
+**EJE:** Pensamiento Social
 **Expected_Success:** 0.38
 **Contexto:** Análisis de la política de descarbonización de la economía al 2050.
 

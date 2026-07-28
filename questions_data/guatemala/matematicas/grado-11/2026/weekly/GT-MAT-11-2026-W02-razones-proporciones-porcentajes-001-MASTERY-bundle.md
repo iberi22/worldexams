@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** En una tienda de abarrotes en Antigua Guatemala, el dueño compara la cantidad de arroz y frijol que vende en un día.
 
@@ -39,7 +39,7 @@ La razón es la comparación por cociente entre dos magnitudes. Se puede expresa
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Una receta para preparar atol de elote en Quetzaltenango indica que se deben usar 3 tazas de agua por cada taza de leche.
 
@@ -58,7 +58,7 @@ El orden en una razón es fundamental. Al pedir "leche a agua", la cantidad de l
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante revisa las propiedades de las proporciones para resolver problemas de escala en mapas de Guatemala.
 
@@ -77,7 +77,7 @@ La propiedad fundamental de las proporciones establece que en toda proporción, 
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un artesano textil en Sololá observa que el tiempo que tarda en tejer un huipil depende de su complejidad.
 
@@ -96,7 +96,7 @@ En la proporcionalidad inversa, el producto de las dos magnitudes relacionadas e
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Una finca de café en Cobán utiliza una mezcla específica de fertilizante. Se mezclan 4 kg de nitrógeno por cada 10 kg de fósforo.
 
@@ -115,7 +115,7 @@ Se aplica una regla de tres simple directa: $\frac{4}{10} = \frac{x}{25}$. Multi
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un centro comercial en Ciudad de Guatemala anuncia una liquidación de temporada.
 
@@ -134,7 +134,7 @@ Los porcentajes son razones con denominador 100. Simplificar la fracción $25/10
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un grupo de turistas en Petén cambia sus dólares a Quetzales. La tasa de cambio es de $\$1$ por GTQ $7.80$.
 
@@ -153,7 +153,7 @@ Este es un problema de proporcionalidad directa. A más dólares, más quetzales
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** En una encuesta realizada en una escuela de Escuintla, 18 de cada 30 estudiantes prefieren el fútbol sobre otros deportes.
 
@@ -172,7 +172,7 @@ Para hallar el porcentaje, se divide la parte entre el todo y se multiplica por 
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un conductor viaja de Guatemala a Mazatenango a una velocidad constante de $80$ km/h y tarda $2$ horas.
 
@@ -191,7 +191,7 @@ La relación entre velocidad y tiempo para una distancia fija es inversamente pr
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** El Impuesto al Valor Agregado (IVA) en Guatemala es del $12\%$.
 
@@ -210,7 +210,7 @@ El cálculo del impuesto se realiza multiplicando la base imponible por la tasa 
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Una constructora en Villa Nueva mezcla cemento, arena y piedrín en una razón de $1:2:4$.
 
@@ -229,7 +229,7 @@ En razones múltiples, se identifica el valor de una "parte" dividiendo la canti
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** El precio de la gasolina en Guatemala subió de GTQ $28.00$ a GTQ $35.00$ por galón en un mes.
 
@@ -248,7 +248,7 @@ El porcentaje de incremento se calcula como la diferencia entre el valor nuevo y
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Una brigada médica en el Quiché estima que sus suministros durarán $15$ días para $40$ personas.
 
@@ -267,7 +267,7 @@ Es un problema de regla de tres simple inversa. La cantidad total de personas es
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un inversionista guatemalteco coloca GTQ $10,000.00$ en una cuenta que paga el $6\%$ de interés simple anual.
 
@@ -286,7 +286,7 @@ El interés simple se calcula con la fórmula $I = C \cdot r \cdot t$. El monto 
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** En una maquila en Mixco, se sabe que $6$ máquinas producen $1,200$ prendas en $4$ horas.
 
@@ -305,7 +305,7 @@ Este es un problema de regla de tres compuesta. Se puede resolver encontrando la
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un comerciante compra un lote de artesanías. El precio de lista es de GTQ $500.00$. Se le aplica un primer descuento del $20\%$ y luego un segundo descuento del $10\%$ sobre lo ya rebajado.
 
@@ -324,7 +324,7 @@ Los descuentos sucesivos se aplican uno tras otro sobre el valor residual. No so
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Una mezcla de concentrado para ganado en una granja de Jutiapa tiene una relación de maíz a soya de $7:3$. Si se quiere preparar una tonelada ($1,000$ kg) de mezcla.
 
@@ -343,7 +343,7 @@ Se debe calcular la cantidad de maíz necesaria para que, junto a la soya presen
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un banco ofrece una tasa de interés compuesto del $5\%$ anual capitalizable anualmente.
 
@@ -362,7 +362,7 @@ El interés compuesto se diferencia del simple porque los intereses generados en
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Tres socios en un negocio en Chimaltenango invierten capitales en la razón de $2:3:5$. Al final del año, las ganancias totales son de GTQ $150,000.00$.
 
@@ -381,7 +381,7 @@ Se calcula la ganancia de cada socio basándose en su participación proporciona
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W02-razones-proporciones-porcentajes-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un mapa de Guatemala tiene una escala de $1:250,000$.
 

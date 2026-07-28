@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en la ciudad de Lima repasa los elementos principales de la parábola, representación gráfica de la función cuadrática.
 
@@ -45,7 +45,7 @@ La forma canónica de una función cuadrática permite identificar directamente 
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.80
 **Contexto:** Un arquitecto en Arequipa diseña una entrada con forma parabólica definida por $f(x) = -(x - 3)^2 + 4$.
 
@@ -70,7 +70,7 @@ Identificamos la función en su forma canónica. El signo negativo indica que la
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.75
 **Contexto:** Hallar el vértice de una función cuadrática expresada en su forma polinómica general.
 
@@ -95,7 +95,7 @@ Para una función $ax^2 + bx + c$, la ubicación del eje de simetría y del vér
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.70
 **Contexto:** Análisis de la concavidad de la parábola en un curso de matemáticas de 5to de secundaria.
 
@@ -120,7 +120,7 @@ La dirección de apertura (concavidad) de una función cuadrática depende exclu
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.65
 **Contexto:** Un proyectil es lanzado desde el suelo con una trayectoria descrita por $h(t) = -5t^2 + 40t$, donde $h$ es altura en metros y $t$ tiempo en segundos.
 
@@ -145,7 +145,7 @@ Primero hallamos el tiempo en el vértice $t_v = -b / 2a = 4$. Luego sustituimos
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Intersecciones con los ejes en un estudio de trayectorias en Trujillo.
 
@@ -170,7 +170,7 @@ Los interceptos con el eje $X$ coinciden con las raíces de la función. Factori
 ## Question 7 [D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante observa cómo cambia la gráfica de $f(x) = x^2$ al modificar sus parámetros.
 
@@ -195,7 +195,7 @@ Las transformaciones de funciones indican que $f(x+h)$ desplaza horizontalmente 
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Una empresa de transporte en Piura estima que su costo de operación por cada kilómetro recorrido depende de la velocidad $v$ (en km/h) según $C(v) = 0.2v^2 - 20v + 600$.
 
@@ -220,7 +220,7 @@ El mínimo de una función cuadrática con $a > 0$ se encuentra en la coordenada
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Análisis del rango de una función cuadrática acotada.
 
@@ -245,7 +245,7 @@ El rango de una función cuadrática $ax^2 + bx + c$ depende de la dirección de
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.50
 **Contexto:** Un ganadero en Cajamarca dispone de 400 metros de malla para cercar un terreno rectangular aprovechando una pared de piedra ya existente para uno de los lados.
 
@@ -270,7 +270,7 @@ Modelamos el área como una función de una variable. Usando la restricción del
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.45
 **Contexto:** Un problema de física sobre energía cinética que involucra funciones cuadráticas.
 
@@ -295,7 +295,7 @@ Evaluamos la función cuadrática en los dos puntos indicados y calculamos la di
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Determinación de los puntos de intersección entre una recta y una parábola.
 
@@ -320,7 +320,7 @@ Para hallar la intersección de dos funciones, igualamos sus reglas de correspon
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Un matemático en la ciudad del Cusco analiza la traslación de una parábola.
 
@@ -345,7 +345,7 @@ Usamos la forma canónica con el vértice conocido y dejamos el coeficiente $a$ 
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Análisis de funciones cuadráticas con parámetros variables, nivel pre-universitario (UNI).
 
@@ -370,7 +370,7 @@ Que la gráfica sea tangente al eje de las abscisas implica que la ecuación $f(
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.30
 **Contexto:** Determinar el área de una figura geométrica inscrita bajo una parábola.
 
@@ -395,7 +395,7 @@ Debido a la simetría de la parábola respecto al eje $Y$, la base de 4 unidades
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Modelado de ingresos en un teatro de Lima. El precio actual de la entrada es S/ 50 y asisten 400 personas. Se estima que por cada S/ 5 de aumento en el precio, asisten 20 personas menos.
 
@@ -420,7 +420,7 @@ Planteamos la función de ingresos como el producto de (Precio + aumento) por (A
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.25
 **Contexto:** Determinación de la regla de correspondencia de una función cuadrática a partir de su gráfica en un examen tipo admisión UNI.
 
@@ -445,7 +445,7 @@ Usamos la forma canónica para establecer la estructura de la función con los d
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.20
 **Contexto:** Un problema de geometría que involucra la optimización de una figura inscrita, nivel competencia ONEM.
 
@@ -470,7 +470,7 @@ Usamos la semejanza de triángulos para relacionar la base y la altura del rect�
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.15
 **Contexto:** Análisis de la suma de raíces en una función cuadrática compuesta, nivel examen de excelencia.
 
@@ -495,7 +495,7 @@ Resolvemos la ecuación exterior para encontrar los valores posibles de la funci
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.10
 **Contexto:** Condición de positividad de una función cuadrática (teorema del trinomio positivo).
 

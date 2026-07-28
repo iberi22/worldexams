@@ -26,7 +26,7 @@ Este bundle contiene 20 preguntas sobre el **Concepto de Funciones**, diseñado 
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comprensión de conceptos básicos
+**EJE:** Comprensión de conceptos básicos
 **Expected_Success:** 0.85
 **Contexto:** En un curso de matemáticas de una preparatoria en la Ciudad de México, se discuten las reglas para que una relación sea considerada una función.
 
@@ -47,7 +47,7 @@ Una función es una regla de correspondencia que asigna a cada elemento del conj
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Representación gráfica de funciones
+**EJE:** Representación gráfica de funciones
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante del IPN está analizando diversas gráficas en su cuaderno para identificar cuáles representan funciones reales de variable real.
 
@@ -68,7 +68,7 @@ La prueba de la recta vertical establece que si es posible trazar una línea ver
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Notación funcional
+**EJE:** Notación funcional
 **Expected_Success:** 0.88
 **Contexto:** En un examen simulacro tipo EXANI-II, se presenta una expresión matemática utilizando la notación de Euler.
 
@@ -89,7 +89,7 @@ En la notación $f(x)$, $x$ es la variable independiente (entrada), mientras que
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Dominio y rango
+**EJE:** Dominio y rango
 **Expected_Success:** 0.80
 **Contexto:** Una empresa de software en Guadalajara desarrolla una aplicación que calcula costos basándose en el número de usuarios. El equipo técnico define los conjuntos de entrada y salida.
 
@@ -110,7 +110,7 @@ El dominio son los valores permitidos de entrada ($x$), y el rango o imagen son 
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Evaluación de funciones
+**EJE:** Evaluación de funciones
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero ambiental en Monterrey utiliza la función $C(t) = 3t^2 - 2t + 10$ para modelar la concentración de un contaminante en el aire tras $t$ horas.
 
@@ -131,7 +131,7 @@ Evaluar una función consiste en sustituir la variable independiente por el valo
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Determinación del dominio
+**EJE:** Determinación del dominio
 **Expected_Success:** 0.72
 **Contexto:** En un laboratorio de física de la UNAM, se analiza la función $g(x) = \frac{5}{x - 4}$. El profesor pide identificar los valores de $x$ que no pueden ser procesados por la función.
 
@@ -152,7 +152,7 @@ Para funciones racionales (fracciones), el dominio consiste en todos los número
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Evaluación de funciones compuestas
+**EJE:** Evaluación de funciones compuestas
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de preparatoria técnica está resolviendo problemas de composición básica. Se le dan dos funciones: $f(x) = x + 3$ y $g(x) = 2x$.
 
@@ -173,7 +173,7 @@ En la evaluación de funciones compuestas $f(g(x))$, se resuelve de adentro haci
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Interpretación de tablas de valores
+**EJE:** Interpretación de tablas de valores
 **Expected_Success:** 0.78
 **Contexto:** Un comerciante en un mercado de Puebla registra sus ventas. El ingreso $I$ depende de la cantidad de kilogramos vendidos $k$ según la siguiente tabla:
 | $k$ (kg) | 1 | 2 | 3 | 4 |
@@ -197,7 +197,7 @@ A partir de la tabla se identifica la regla de correspondencia. En este caso, $I
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Identificación de tipos de funciones
+**EJE:** Identificación de tipos de funciones
 **Expected_Success:** 0.74
 **Contexto:** En un software de diseño gráfico, se aplican transformaciones. Un diseñador observa la función $f(x) = |x|$.
 
@@ -218,7 +218,7 @@ La función valor absoluto transforma cualquier entrada en su magnitud positiva.
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Determinación del rango
+**EJE:** Determinación del rango
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la función $h(x) = x^2 + 5$. Sabe que el término $x^2$ nunca es negativo.
 
@@ -239,7 +239,7 @@ El rango se determina analizando los valores posibles de salida. Dado que $x^2 \
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Dominio de funciones con raíces
+**EJE:** Dominio de funciones con raíces
 **Expected_Success:** 0.62
 **Contexto:** En un examen parcial de cálculo en el Estado de México, se pide hallar el dominio de validez de una función que involucra una raíz cuadrada.
 
@@ -260,7 +260,7 @@ En funciones con raíces de índice par (como la raíz cuadrada), el dominio est
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Análisis de gráficas y dominio/rango
+**EJE:** Análisis de gráficas y dominio/rango
 **Expected_Success:** 0.58
 **Contexto:** Se presenta la gráfica de una función que consiste en una semicircunferencia superior de radio 2 centrada en el origen: $y = \sqrt{4 - x^2}$.
 
@@ -281,7 +281,7 @@ Para el dominio: \$4 - x^2 \geq 0 \Rightarrow x^2 \leq 4 \Rightarrow |x| \leq 2 
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funciones escalonadas o por partes
+**EJE:** Funciones escalonadas o por partes
 **Expected_Success:** 0.55
 **Contexto:** El servicio de mensajería en Querétaro cobra según el peso $w$ en kg: $C(w) = 50$ si \$0 < w \leq 1$, y $C(w) = 50 + 20(w-1)$ si $w > 1$.
 
@@ -302,7 +302,7 @@ Las funciones definidas por partes requieren identificar primero en qué interva
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Simetría de funciones (Par/Impar)
+**EJE:** Simetría de funciones (Par/Impar)
 **Expected_Success:** 0.60
 **Contexto:** Un analista de datos está clasificando funciones según sus propiedades de simetría respecto al origen o al eje Y.
 
@@ -323,7 +323,7 @@ Una función es par si presenta simetría respecto al eje vertical (Y). Algebrai
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Crecimiento y decrecimiento
+**EJE:** Crecimiento y decrecimiento
 **Expected_Success:** 0.56
 **Contexto:** Se observa la gráfica de la función $f(x) = -x^2 + 6x$. Los estudiantes deben identificar en qué intervalo la función es creciente.
 
@@ -344,7 +344,7 @@ Para una parábola que abre hacia abajo ($a < 0$), la función es creciente desd
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Evaluación de expresiones funcionales complejas
+**EJE:** Evaluación de expresiones funcionales complejas
 **Expected_Success:** 0.52
 **Contexto:** En un ejercicio de preparación avanzada, se pide hallar la expresión para $f(x+h)$ dada una función cuadrática.
 
@@ -365,7 +365,7 @@ Evaluar $f(x+h)$ implica reemplazar cada instancia de la variable $x$ en la regl
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Modelación con funciones
+**EJE:** Modelación con funciones
 **Expected_Success:** 0.45
 **Contexto:** Un fabricante de cajas en Tijuana utiliza láminas cuadradas de 20 cm por lado. Corta cuadrados de lado $x$ en las esquinas para doblar las pestañas y formar la caja.
 
@@ -386,7 +386,7 @@ La modelación requiere traducir condiciones físicas a expresiones algebraicas.
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Inversa de una función
+**EJE:** Inversa de una función
 **Expected_Success:** 0.42
 **Contexto:** Un estudiante de ingeniería necesita encontrar la función inversa de un proceso de enfriamiento modelado por $f(x) = \frac{3x - 1}{x + 2}$.
 
@@ -407,7 +407,7 @@ Para hallar la inversa: 1) Escribir $y = f(x)$. 2) Intercambiar $x$ e $y$. 3) De
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Análisis de dominio en funciones logarítmicas
+**EJE:** Análisis de dominio en funciones logarítmicas
 **Expected_Success:** 0.40
 **Contexto:** En un estudio sobre crecimiento poblacional en el Estado de Yucatán, se utiliza la función $L(x) = \log_{10}(x^2 - 9)$.
 
@@ -428,7 +428,7 @@ El dominio de una función logarítmica está restringido a que su argumento sea
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Análisis de transformaciones de funciones
+**EJE:** Análisis de transformaciones de funciones
 **Expected_Success:** 0.38
 **Contexto:** Un investigador observa que la gráfica de una función base $g(x)$ ha sido reflejada respecto al eje X, desplazada 3 unidades a la izquierda y 2 unidades hacia abajo.
 

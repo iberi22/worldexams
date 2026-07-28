@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de secundaria en Lima repasa las definiciones básicas de los tipos de ángulos.
 
@@ -45,7 +45,7 @@ La clasificación de los ángulos según la suma de sus medidas es fundamental e
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Un carpintero en Villa El Salvador necesita realizar un corte preciso.
 
@@ -70,7 +70,7 @@ El suplemento de un ángulo $x$ se define como $180° - x$. Aplicando la operaci
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Ángulos entre rectas paralelas cortadas por una transversal, un tema recurrente en los exámenes de la UNMSM.
 
@@ -95,7 +95,7 @@ Los ángulos alternos internos se encuentran en lados opuestos de la secante y d
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Resolución de ecuaciones con ángulos en un colegio de Trujillo.
 
@@ -120,7 +120,7 @@ Planteamos la ecuación basada en la definición de complementarios: la suma es 
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un diseño arquitectónico inspirado en las líneas de Nazca requiere precisión en los ángulos.
 
@@ -145,7 +145,7 @@ Los ángulos que forman una recta (ángulo llano) siempre suman 180°. Resolvemo
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Propiedades de la bisectriz de un ángulo.
 
@@ -170,7 +170,7 @@ La bisectriz divide a un ángulo en dos partes iguales. Realizamos el cálculo p
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Ángulos opuestos por el vértice en un cruce de avenidas en Arequipa.
 
@@ -195,7 +195,7 @@ La propiedad fundamental de los ángulos opuestos por el vértice es que son con
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Cálculo del suplemento del complemento, un ejercicio clásico de lógica geométrica.
 
@@ -220,7 +220,7 @@ Traducción literal del enunciado a lenguaje algebraico: $S(x) = 3 C(x)$. Sustit
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un sistema de poleas en una fábrica del Callao donde los cables forman ángulos específicos.
 
@@ -245,7 +245,7 @@ Los ángulos conjugados internos (del mismo lado de la secante) entre paralelas 
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Operaciones con sistemas sexagesimales de ángulos (grados y minutos).
 
@@ -270,7 +270,7 @@ Para restar ángulos en grados y minutos, transformamos un grado en 60 minutos s
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Un problema de geometría plana sobre ángulos consecutivos en una estrella decorativa.
 
@@ -295,7 +295,7 @@ Usamos una constante de proporcionalidad $k$ para representar los ángulos. La s
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Uso de la propiedad del "serrucho" en paralelas, típica de la preparación para la UNI.
 
@@ -320,7 +320,7 @@ La propiedad del serrucho para rectas paralelas establece que la suma de las med
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v13
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Un ejercicio de conversión entre sistemas de medida angular (Sexagesimal vs. Radial).
 
@@ -345,7 +345,7 @@ Primero resolvemos el problema en el sistema sexagesimal para facilitar el cálc
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un problema de relojes (ángulos entre manecillas) en un examen psicotécnico de la UNMSM.
 
@@ -370,7 +370,7 @@ Usamos la fórmula para el ángulo entre manecillas: $\theta = |30H - \frac{11}{
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Geometría de posición: ángulos entre las bisectrices de ángulos adyacentes.
 
@@ -395,7 +395,7 @@ Por teorema, el ángulo formado por las bisectrices de dos ángulos adyacentes e
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un reto de trigonometría y geometría sobre ángulos en sistemas diferentes, nivel pre-universitario.
 
@@ -420,7 +420,7 @@ Usamos la relación fundamental entre sistemas: $S/180 = C/200 = R/\pi$, que se 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Ángulos interiores y exteriores en polígonos complejos, nivel admisión UNI.
 
@@ -445,7 +445,7 @@ Notamos que la expresión "suplemento menos complemento" siempre es igual a 90°
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Problema de ángulos entre bisectrices con condiciones de perpendicularidad, nivel avanzado.
 
@@ -470,7 +470,7 @@ Definimos las medidas de los ángulos extremos como pares ($2\alpha$ y $2\gamma$
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Análisis de la relación entre el número de ángulos y la suma total en una progresión.
 
@@ -495,7 +495,7 @@ Aplicamos la fórmula de la suma de una progresión aritmética aplicada al cont
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Desafío avanzado de geometría analítica y trigonometría sobre ángulos.
 

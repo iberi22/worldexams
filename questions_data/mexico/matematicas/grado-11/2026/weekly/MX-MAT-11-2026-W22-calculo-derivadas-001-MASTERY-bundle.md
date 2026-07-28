@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en la CDMX repasa las reglas básicas de derivación para funciones constantes.
 **Expected_Success:** 0.95
 
@@ -43,7 +43,7 @@ La derivada mide la razón de cambio de una función. Dado que una función cons
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un joven en Guadalajara analiza el movimiento de un objeto con velocidad constante mediante una función lineal.
 **Expected_Success:** 0.90
 
@@ -65,7 +65,7 @@ Para una función lineal $f(x) = mx + b$, la derivada es la pendiente $m$. En es
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere encontrar la pendiente de una parábola sencilla en un punto cualquiera.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ La regla de la potencia establece que si $f(x) = x^n$, entonces $f'(x) = nx^{n-1
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un arquitecto diseña una rampa cuya altura sigue una función de tercer grado y necesita conocer su inclinación.
 **Expected_Success:** 0.80
 
@@ -109,7 +109,7 @@ Al derivar un término de la forma $ax^n$, la derivada es $(a \cdot n)x^{n-1}$. 
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero en el IPN calcula la aceleración instantánea de un prototipo a partir de su función de velocidad.
 **Expected_Success:** 0.75
 
@@ -131,7 +131,7 @@ La derivada de una suma o resta de funciones es la suma o resta de sus derivadas
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista financiero en la Bolsa Mexicana de Valores estudia la razón de cambio del valor de una acción modelada por un producto de funciones.
 **Expected_Success:** 0.65
 
@@ -153,7 +153,7 @@ La regla del producto dice: $(uv)' = u'v + uv'$. Aquí $u = x^2$ y $v = x + 1$. 
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de medicina analiza la tasa de eliminación de un fármaco mediante una función racional.
 **Expected_Success:** 0.60
 
@@ -175,7 +175,7 @@ La regla del cociente es: $(u/v)' = (u'v - uv') / v^2$. Designando $u=x$ y $v=x+
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un técnico en electrónica necesita conocer la rapidez con la que cambia el voltaje en un circuito oscilatorio.
 **Expected_Success:** 0.55
 
@@ -197,7 +197,7 @@ Las derivadas básicas de funciones trigonométricas son: $\frac{d}{dx}\sin(x) =
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un estudio demográfico, se utiliza una función exponencial para modelar el crecimiento de una zona urbana en el Estado de México.
 **Expected_Success:** 0.65
 
@@ -219,7 +219,7 @@ Según la Regla de la Cadena para funciones exponenciales, $\frac{d}{dx}e^{u(x)}
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un programador utiliza logaritmos para medir la eficiencia de un algoritmo y necesita su razón de cambio.
 **Expected_Success:** 0.60
 
@@ -241,7 +241,7 @@ La derivada de $\ln(u)$ es $u'/u$. Con $u=x^2$, tenemos $u'=2x$, por lo que $f'(
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un químico analiza la velocidad de una reacción que depende de una concentración elevada a una potencia fraccionaria.
 **Expected_Success:** 0.50
 
@@ -263,7 +263,7 @@ Para derivar una raíz, la expresamos como potencia: $x^{1/2}$. Al aplicar la re
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un diseñador industrial utiliza funciones compuestas para modelar la ergonomía de una silla de oficina.
 **Expected_Success:** 0.45
 
@@ -285,7 +285,7 @@ La Regla de la Cadena establece que $\frac{d}{dx}[g(x)]^n = n[g(x)]^{n-1} \cdot 
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero mecánico en Toluca estudia la oscilación de un resorte cuya posición está dada por una función compuesta trigonométrica.
 **Expected_Success:** 0.40
 
@@ -307,7 +307,7 @@ Se aplica la Regla de la Cadena: primero derivamos la función exterior (seno se
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista de datos investiga la tasa de crecimiento de una variable que sigue una función de potencia negativa.
 **Expected_Success:** 0.45
 
@@ -329,7 +329,7 @@ Para derivar funciones con $x$ en el denominador, es más sencillo expresarlas c
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de física necesita calcular la derivada de segundo orden para encontrar la aceleración de una partícula.
 **Expected_Success:** 0.50
 
@@ -351,7 +351,7 @@ La segunda derivada es simplemente la derivada de la primera derivada. Realizamo
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un economista en la UNAM analiza la elasticidad de una demanda modelada por un logaritmo con argumento compuesto.
 **Expected_Success:** 0.40
 
@@ -373,7 +373,7 @@ La derivada del logaritmo natural de una función $u(x)$ es la derivada de esa f
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador del Cinvestav analiza una función implícita para modelar una superficie de energía.
 **Expected_Success:** 0.25
 
@@ -395,7 +395,7 @@ En la derivación implícita, derivamos cada término con respecto a $x$. Cuando
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un matemático aplica la regla de L'Hôpital para resolver un límite indeterminado utilizando el concepto de derivada.
 **Expected_Success:** 0.30
 
@@ -417,7 +417,7 @@ Cuando tanto la base como el exponente son variables, se utiliza la derivación 
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un curso de cálculo multivariado, se introduce la derivada de la función inversa.
 **Expected_Success:** 0.20
 
@@ -439,7 +439,7 @@ Las derivadas de las funciones trigonométricas inversas se obtienen mediante de
 
 **ID:** MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero optimiza un sistema de navegación calculando la razón de cambio de una función compuesta de funciones trascendentales.
 **Expected_Success:** 0.15
 

@@ -26,7 +26,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.88
 **Contexto:** Carlos is describing his recent eco-tour in Monteverde Cloud Forest.
 
@@ -51,7 +51,7 @@ In reported speech, we shift tenses back. Present Perfect (have seen) becomes Pa
 ## Question 2 [D3]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.85
 **Contexto:** A scientist at a research station in Guanacaste is explaining the conservation efforts.
 
@@ -76,7 +76,7 @@ The Present Perfect Passive (has/have been + past participle) is used to describ
 ## Question 3 [D4]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Analyze
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.82
 **Contexto:** A debate about the impact of tourism on the local economy in San Jose.
 
@@ -101,7 +101,7 @@ Mixed conditionals are used to show how past actions or omissions (represented b
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Analyze
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.78
 **Contexto:** An article about the introduction of 5G technology in the Central Valley.
 
@@ -126,7 +126,7 @@ Negative inversion is a C1-level structure used for emphasis. When a sentence st
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Evaluate
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.75
 **Contexto:** A university professor discussing the ethical implications of AI in education.
 
@@ -151,7 +151,7 @@ The subjunctive mood is used in formal English after adjectives like 'imperative
 ## Question 6 [D5]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Remember
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.72
 **Contexto:** Two colleagues are discussing their travel plans for the upcoming 'semana santa'.
 
@@ -176,7 +176,7 @@ Phrasal verbs are essential for natural-sounding English at an advanced level. '
 ## Question 7 [D5]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.70
 **Contexto:** A journalist interviewing a local entrepreneur who started a successful organic coffee brand.
 
@@ -201,7 +201,7 @@ Inversion with 'Hardly... when' or 'No sooner... than' is a sophisticated way to
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.67
 **Contexto:** A discussion about the preservation of indigenous languages in Costa Rica.
 
@@ -226,7 +226,7 @@ Relative clauses add information about a noun. Non-defining clauses (with commas
 ## Question 9 [D6]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.64
 **Contexto:** A travel advisor explaining the cancellation policy for a tour to Arenal Volcano.
 
@@ -251,7 +251,7 @@ Formal conditionals using 'Were to' emphasize the hypothetical nature of a futur
 ## Question 10 [D6]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.61
 **Contexto:** A student reflecting on their participation in a volunteer program in Tortuguero.
 
@@ -276,7 +276,7 @@ To express a preference or regret about the past when the subject is the same, w
 ## Question 11 [D7]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Remember
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.58
 **Contexto:** An official announcement regarding the renovation of the National Theatre in San Jose.
 
@@ -301,7 +301,7 @@ The Future Perfect Passive (will have been + past participle) is used to indicat
 ## Question 12 [D7]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.55
 **Contexto:** A manager in Heredia giving instructions to their team about a new software implementation.
 
@@ -326,7 +326,7 @@ Negative inversion using 'Under no circumstances' is used to give very strong an
 ## Question 13 [D7]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.52
 **Contexto:** A student is comparing life in a small village in Alajuela to life in the capital city.
 
@@ -351,7 +351,7 @@ Connectors of contrast like 'nevertheless', 'however', or 'nonetheless' are vita
 ## Question 14 [D8]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.49
 **Contexto:** An expert in renewable energy talking about the high percentage of green energy in the Costa Rican grid.
 
@@ -376,7 +376,7 @@ Advanced vocabulary includes knowing which prepositions follow certain verbs or 
 ## Question 15 [D8]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.46
 **Contexto:** A critique of a new urban planning project in Cartago.
 
@@ -401,7 +401,7 @@ This complex structure combines inversion (to omit 'if') with a mixed conditiona
 ## Question 16 [D8]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.43
 **Contexto:** Two researchers are discussing their findings about biodiversity in the Osa Peninsula.
 
@@ -426,7 +426,7 @@ Using adverbs correctly to modify verbs is essential. 'Finally' indicates a long
 ## Question 17 [D9]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.40
 **Contexto:** A formal letter to a government official regarding public transport in Liberia.
 
@@ -451,7 +451,7 @@ Another instance of the subjunctive mood. Verbs like 'suggest', 'recommend', and
 ## Question 18 [D9]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.37
 **Contexto:** Reflecting on the impact of a famous Costa Rican writer on world literature.
 
@@ -476,7 +476,7 @@ Another instance of the subjunctive mood. Verbs like 'suggest', 'recommend', and
 ## Question 19 [D10]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.34
 **Contexto:** A complex legal disclaimer regarding the use of private property for eco-tourism.
 
@@ -501,7 +501,7 @@ In formal or legal English, 'Should' can replace 'if' at the beginning of a cond
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Linguistic Competence
+**EJE:** Linguistic Competence
 **Expected_Success:** 0.30
 **Contexto:** A high-level diplomatic meeting discussing regional cooperation.
 

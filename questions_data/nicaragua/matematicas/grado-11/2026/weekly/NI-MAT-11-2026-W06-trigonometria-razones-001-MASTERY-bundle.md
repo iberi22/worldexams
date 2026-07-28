@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.85
 **Contexto:** Un carpintero en Masaya está diseñando una estructura triangular para un techo.
 
@@ -39,7 +39,7 @@ Las razones trigonométricas son cocientes entre los lados de un triángulo rect
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante en León estudia las relaciones recíprocas en trigonometría.
 
@@ -58,7 +58,7 @@ Las funciones recíprocas se obtienen invirtiendo la fracción de la razón orig
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.80
 **Contexto:** Un dibujo técnico de una rampa de acceso en un hospital de Managua.
 
@@ -77,7 +77,7 @@ El valor de $\sin(30^\circ)$ es una constante fundamental derivada del triángul
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.78
 **Contexto:** Un agrimensor mide la inclinación de un terreno cerca del Volcán Momotombo.
 
@@ -96,7 +96,7 @@ La tangente es la razón entre los dos catetos del triángulo rectángulo. En es
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.75
 **Contexto:** Un navegante en el Lago Cocibolca utiliza coordenadas y ángulos para su ruta.
 
@@ -115,7 +115,7 @@ Para un ángulo de 45°, los catetos son iguales. El valor de la razón es $1/\s
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.72
 **Contexto:** La sombra de un poste de luz en una calle de Granada.
 
@@ -134,7 +134,7 @@ A un ángulo de 45°, el triángulo rectángulo formado es isósceles. Por lo ta
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.68
 **Contexto:** Un ingeniero civil calcula la longitud de una rampa en un centro comercial.
 
@@ -153,7 +153,7 @@ Usando la definición de seno ($\sin 30^\circ = 1/2$), sabemos que la hipotenusa
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.65
 **Contexto:** Identificación de razones a partir de un triángulo dado.
 
@@ -172,7 +172,7 @@ Primero calculamos la hipotenusa mediante Pitágoras (10). Luego aplicamos la de
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.62
 **Contexto:** Identificación de valores trigonométricos en el plano.
 
@@ -191,7 +191,7 @@ Para un punto $(x, y)$, el radio es $r = \sqrt{x^2+y^2}$. El seno se define como
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.60
 **Contexto:** Un cálculo de la cotangente a partir de seno y coseno.
 
@@ -210,7 +210,7 @@ La cotangente es la razón entre el coseno y el seno. Al dividir, racionalizamos
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.58
 **Contexto:** Una identidad fundamental que relaciona seno y coseno.
 
@@ -229,7 +229,7 @@ La Identidad Pitagórica deriva directamente del Teorema de Pitágoras aplicado 
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.55
 **Contexto:** Un ejercicio de simplificación de expresiones trigonométricas.
 
@@ -248,7 +248,7 @@ Expresar todas las funciones en términos de seno y coseno es la estrategia est�
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.52
 **Contexto:** El uso de ángulos de referencia en el círculo unitario.
 
@@ -267,7 +267,7 @@ Para ángulos mayores de 90°, usamos el ángulo de referencia y el signo corres
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.50
 **Contexto:** Determinación del signo de las razones según el cuadrante.
 
@@ -286,7 +286,7 @@ Los signos de las razones trigonométricas dependen de los signos de las coorden
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.48
 **Contexto:** Un cálculo de un valor trigonométrico dado otro en un cuadrante específico.
 
@@ -305,7 +305,7 @@ Usamos la identidad pitagórica y seleccionamos el signo adecuado según la ubic
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.45
 **Contexto:** Conversión de unidades angulares para cálculos astronómicos.
 
@@ -324,7 +324,7 @@ La relación fundamental de conversión es $180^\circ = \pi$ radianes. Dividir e
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.40
 **Contexto:** Cálculo de la distancia entre dos puntos inaccesibles usando trigonometría.
 
@@ -343,7 +343,7 @@ El ángulo de depresión es igual al ángulo de elevación desde el barco. Aplic
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.38
 **Contexto:** Un problema de áreas que involucra razones trigonométricas.
 
@@ -362,7 +362,7 @@ El área de cualquier triángulo puede hallarse conociendo dos lados y el ángul
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre funciones trigonométricas de ángulos negativos.
 
@@ -381,7 +381,7 @@ La paridad de las funciones trigonométricas es una propiedad clave. El coseno y
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.32
 **Contexto:** Determinación de un valor complejo a partir de identidades.
 

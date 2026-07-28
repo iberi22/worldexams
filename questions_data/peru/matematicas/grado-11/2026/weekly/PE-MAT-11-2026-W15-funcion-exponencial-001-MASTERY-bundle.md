@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 5to de secundaria en Lima identifica las características básicas de las funciones exponenciales.
 
@@ -45,7 +45,7 @@ Para cualquier base $a$, al evaluar $f(0) = a^0 = 1$. Por lo tanto, el punto $(0
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.80
 **Contexto:** Un biólogo en Iquitos observa el crecimiento de una población de bacterias.
 
@@ -70,7 +70,7 @@ Cuando una magnitud aumenta o disminuye mediante un factor constante por unidad 
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.75
 **Contexto:** Evaluación de expresiones exponenciales en un examen de matemáticas en Arequipa.
 
@@ -95,7 +95,7 @@ Siguiendo la jerarquía de operaciones, primero resolvemos la potencia ($3^3 = 2
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.70
 **Contexto:** Análisis del comportamiento de la función según su base.
 
@@ -120,7 +120,7 @@ Una función exponencial es creciente si $a > 1$ y decreciente si la base se enc
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.65
 **Contexto:** Un capital de S/ 1000 se deposita en una cuenta de ahorros en Cusco que ofrece un interés del 10% anual capitalizable anualmente.
 
@@ -145,7 +145,7 @@ El interés compuesto se modela mediante la función $M = P(1 + r)^t$, donde $P$
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Determinación del dominio y rango en funciones exponenciales transformadas.
 
@@ -170,7 +170,7 @@ El rango de $a^x$ es $\langle 0, +\infty\rangle$. Al aplicar una traslación ver
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante en Trujillo resuelve una ecuación exponencial simple.
 
@@ -195,7 +195,7 @@ Expresamos ambos miembros con la misma base: $2^{x+1} = 2^5$. Por la propiedad d
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Un técnico en radiología en una clínica de Lima estudia la desintegración de un isótopo.
 
@@ -220,7 +220,7 @@ Para modelos de vida media, la base es 0.5 y el exponente es el tiempo transcurr
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Resolución de ecuaciones exponenciales con bases diferentes pero reducibles.
 
@@ -245,7 +245,7 @@ Llevamos ambas bases a una base común (3). $9 = 3^2$ y $27 = 3^3$. Aplicamos po
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.50
 **Contexto:** Análisis de transformaciones gráficas complejas.
 
@@ -270,7 +270,7 @@ El término $(x+3)$ produce una traslación horizontal de 3 unidades a la izquie
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.45
 **Contexto:** Un problema de crecimiento poblacional en una provincia de Junín.
 
@@ -295,7 +295,7 @@ En la forma estándar de crecimiento exponencial continuo $P = P_0 e^{rt}$, el c
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Resolución de ecuaciones exponenciales mediante cambio de variable.
 
@@ -320,7 +320,7 @@ Realizamos el cambio de variable $u = 2^x$, lo que transforma la ecuación expon
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Comparación de funciones exponenciales con diferentes bases.
 
@@ -345,7 +345,7 @@ Aunque $3^x$ crece más rápido que $2^x$ para valores positivos de $x$, para va
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Un problema de depreciación de activos en una empresa minera de Pasco.
 
@@ -370,7 +370,7 @@ La depreciación es un crecimiento exponencial negativo. El factor de retención
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.30
 **Contexto:** Hallar la ecuación de una función exponencial a partir de dos puntos.
 
@@ -395,7 +395,7 @@ Planteamos un sistema de dos ecuaciones con dos incógnitas ($C$ y $a$). Dividie
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Relación entre funciones exponenciales y logarítmicas como inversas.
 
@@ -420,7 +420,7 @@ Evaluar la función inversa en un punto $y$ equivale a buscar qué valor de $x$ 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.25
 **Contexto:** Problema de nivel avanzado sobre límites y asíntotas, estilo UNI.
 
@@ -445,7 +445,7 @@ Analizamos el comportamiento de la función cuando $x \to +\infty$. Dividimos nu
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.20
 **Contexto:** Resolución de sistemas de ecuaciones exponenciales, frecuente en exámenes de admisión.
 
@@ -471,7 +471,7 @@ Usamos el método de reducción sumando las dos ecuaciones para eliminar el tér
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.15
 **Contexto:** Análisis de la inyectividad y rango de funciones exponenciales compuestas, nivel competencia matemática.
 
@@ -496,7 +496,7 @@ Como la base $e$ es mayor que 1, la función $e^u$ es creciente respecto a $u$. 
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.10
 **Contexto:** Desafío de ecuaciones exponenciales trascendentes, nivel Olimpiada Nacional de Matemática (ONEM).
 

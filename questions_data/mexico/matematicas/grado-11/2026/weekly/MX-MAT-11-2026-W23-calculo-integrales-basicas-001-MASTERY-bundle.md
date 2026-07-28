@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de la Prepa Nacional repasa el concepto de antiderivada como la operación inversa de la derivación.
 **Expected_Success:** 0.90
 
@@ -43,7 +43,7 @@ La integración es el proceso inverso a la derivación. Dado que la derivada de 
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere calcular el área bajo una recta que pasa por el origen.
 **Expected_Success:** 0.85
 
@@ -65,7 +65,7 @@ La regla de la potencia para integrales establece que $\int x^n \, dx = \frac{x^
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería en Querétaro integra una función cuadrática básica.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ Siguiendo la regla de la potencia $\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$, co
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un profesor en el IPN explica la propiedad de linealidad de la integral indefinida.
 **Expected_Success:** 0.80
 
@@ -109,7 +109,7 @@ La integral es un operador lineal, lo que significa que respeta la suma y la mul
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se desea encontrar la función de posición de un objeto en caída libre en la Ciudad de México dada su función de velocidad.
 **Expected_Success:** 0.75
 
@@ -131,7 +131,7 @@ Integramos cada término por separado: para $3x^2$ queda $x^3$, para $-4x$ queda
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de arquitectura calcula el volumen de una columna modelada por una función de potencia negativa.
 **Expected_Success:** 0.65
 
@@ -153,7 +153,7 @@ Expresamos la función como una potencia: $1/x^2 = x^{-2}$. Aplicamos la regla $
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un físico en Monterrey estudia la energía potencial asociada a una fuerza que varía inversamente con la distancia.
 **Expected_Success:** 0.70
 
@@ -175,7 +175,7 @@ La función $f(x) = x^{-1}$ es el único caso donde la regla de la potencia fall
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere encontrar la función original de un crecimiento poblacional cuya tasa es exponencial.
 **Expected_Success:** 0.75
 
@@ -197,7 +197,7 @@ La función $e^x$ es única en el cálculo porque su tasa de cambio es igual a s
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero hidráulico integra una función senoidal para determinar el flujo de agua en un ciclo periódico.
 **Expected_Success:** 0.65
 
@@ -219,7 +219,7 @@ Para integrar funciones trigonométricas, debemos recordar qué función al ser 
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza que sigue una función coseno.
 **Expected_Success:** 0.65
 
@@ -241,7 +241,7 @@ Recordando las derivadas básicas: $\frac{d}{dx}\sin(x) = \cos(x)$. Al integrar 
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista de datos en Guadalajara integra una función que requiere un ajuste de constante para aplicar la regla de la cadena inversa.
 **Expected_Success:** 0.55
 
@@ -263,7 +263,7 @@ Al integrar una función compuesta de la forma $f(ax+b)$, debemos dividir por la
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un geólogo calcula el área de una sección transversal de un terreno modelado por una raíz cuadrada.
 **Expected_Success:** 0.50
 
@@ -285,7 +285,7 @@ Escribimos $\sqrt{x}$ como $x^{1/2}$. Aplicamos la regla de la potencia: el nuev
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un técnico industrial utiliza la integración para hallar la velocidad a partir de una aceleración que depende de una potencia negativa.
 **Expected_Success:** 0.45
 
@@ -307,7 +307,7 @@ Convertimos a potencia negativa: $3x^{-4}$. Integramos: $3 \cdot \frac{x^{-3}}{-
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de economía en el Estado de México integra una función de costo marginal para obtener el costo total.
 **Expected_Success:** 0.50
 
@@ -329,7 +329,7 @@ Para funciones de la forma $(ax+b)^n$, la integral es $\frac{(ax+b)^{n+1}}{a(n+1
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero civil en Puebla calcula la deflexión de una viga usando integrales de funciones trigonométricas con argumentos compuestos.
 **Expected_Success:** 0.45
 
@@ -351,7 +351,7 @@ Al integrar funciones trigonométricas con un coeficiente en el argumento, el re
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere resolver una integral que resulta en una función trigonométrica inversa, común en problemas de física de partículas.
 **Expected_Success:** 0.40
 
@@ -373,7 +373,7 @@ Existen integrales inmediatas que corresponden a las derivadas de las funciones 
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de física avanzada en el Cinvestav resuelve una integral mediante el método de sustitución (cambio de variable).
 **Expected_Success:** 0.30
 
@@ -395,7 +395,7 @@ Usamos el método de sustitución. Al elegir $u = x^2$, su diferencial $du = 2x 
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un matemático aplica la integración para hallar el área entre una función logarítmica y el eje de las abscisas.
 **Expected_Success:** 0.25
 
@@ -417,7 +417,7 @@ La integración por partes sigue la fórmula $\int u \, dv = uv - \int v \, du$.
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador utiliza la regla de sustitución para integrar una función trigonométrica elevada a una potencia.
 **Expected_Success:** 0.30
 
@@ -439,7 +439,7 @@ Este es un caso ideal para el cambio de variable. Identificamos que una parte de
 
 **ID:** MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero de procesos en una refinería de Tabasco resuelve una integral que involucra una función racional con denominador compuesto.
 **Expected_Success:** 0.20
 

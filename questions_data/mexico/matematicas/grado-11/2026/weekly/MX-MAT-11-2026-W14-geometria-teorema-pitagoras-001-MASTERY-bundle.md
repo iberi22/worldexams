@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Monterrey está repasando las bases de la geometría para un examen parcial.
 
@@ -43,7 +43,7 @@ El Teorema de Pitágoras establece que, únicamente en un triángulo rectángulo
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un carpintero en Guadalajara necesita identificar los nombres de los lados de un marco triangular que acaba de construir.
 
@@ -64,7 +64,7 @@ En la terminología del triángulo rectángulo, los dos lados que forman el áng
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante observa las medidas de tres varillas de madera en un taller de artes plásticas en la CDMX.
 
@@ -85,7 +85,7 @@ Una terna pitagórica es un conjunto de tres números enteros que satisfacen la 
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un electricista apoya una escalera contra una pared vertical en una casa en Querétaro.
 
@@ -106,7 +106,7 @@ Al formar un triángulo rectángulo donde la escalera es la hipotenusa ($c=5$) y
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un corredor en el Parque Metropolitano de Guadalajara decide cortar camino atravesando un terreno rectangular de forma diagonal.
 
@@ -127,7 +127,7 @@ La diagonal de un rectángulo divide a este en dos triángulos rectángulos igua
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero civil en Puebla está calculando la longitud de un cable de soporte para una antena de 12 metros de altura.
 
@@ -148,7 +148,7 @@ La antena (vertical) y la distancia al suelo (horizontal) forman los catetos de 
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un geómetra en la UNAM está analizando un triángulo isósceles cuya base mide 10 cm y sus lados iguales miden 13 cm.
 
@@ -169,7 +169,7 @@ La altura de un triángulo isósceles divide a la base en dos segmentos iguales 
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** En un monitor de computadora en una oficina de Monterrey, se especifica que el tamaño de la pantalla es de 25 pulgadas (medida diagonal).
 
@@ -190,7 +190,7 @@ La diagonal, el ancho y la altura de una pantalla forman un triángulo rectángu
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un artesano en Taxco está fabricando una pieza de plata en forma de triángulo con lados de 8, 15 y 17 cm.
 
@@ -211,7 +211,7 @@ Para clasificar un triángulo por sus lados usamos el recíproco del Teorema de 
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un arquitecto en Mérida diseña un jardín circular y desea colocar una valla recta que sea una cuerda del círculo.
 
@@ -232,7 +232,7 @@ El radio ($10\text{ m}$), la distancia al centro ($6\text{ m}$) y la mitad de la
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un diseñador industrial en el Estado de México está calculando la diagonal de una caja (paralelepípedo) para asegurar que un producto quepa.
 
@@ -253,7 +253,7 @@ Para un prisma rectangular, la diagonal espacial se calcula extendiendo el Teore
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un navegante en Veracruz se desplaza 15 km hacia el norte y luego un número determinado de kilómetros hacia el este.
 
@@ -274,7 +274,7 @@ El desplazamiento norte (cateto vertical), el desplazamiento este (cateto horizo
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** En un rombo, las diagonales se cruzan perpendicularmente en sus puntos medios. El rombo tiene diagonales de 10 cm y 24 cm.
 
@@ -295,7 +295,7 @@ Las diagonales de un rombo forman cuatro triángulos rectángulos iguales. Los c
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante de ingeniería en San Luis Potosí analiza la sección transversal de un tubo de drenaje que está parcialmente lleno de agua.
 
@@ -316,7 +316,7 @@ Formamos un triángulo rectángulo con el radio ($c=25$) y la mitad de la cuerda
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Se desea calcular la distancia entre dos puntos en un plano cartesiano, que representan la ubicación de dos sucursales de una tienda en Cancún.
 
@@ -337,7 +337,7 @@ La distancia entre dos puntos $(x_1, y_1)$ y $(x_2, y_2)$ es una aplicación del
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.30
 **Contexto:** Se tiene un cuadrado de lado $L$. Se desea conocer la longitud de su diagonal en términos de $L$.
 
@@ -358,7 +358,7 @@ Aplicando el Teorema de Pitágoras a los dos lados del cuadrado que forman el á
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.25
 **Contexto:** Un matemático de la UNAM explora la generalización del Teorema de Pitágoras para cualquier figura semejante construida sobre los lados.
 
@@ -379,7 +379,7 @@ Debido a que el área de figuras semejantes es proporcional al cuadrado de su di
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Se plantea un problema avanzado sobre un triángulo rectángulo donde la hipotenusa mide $c$ y la suma de los catetos es $s$.
 
@@ -400,7 +400,7 @@ Sabemos que $s = a+b$ y $c^2 = a^2+b^2$. Elevando $s$ al cuadrado: $s^2 = (a+b)^
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.20
 **Contexto:** Un arquitecto diseña una escalera de caracol. Se analiza el desarrollo plano de un cilindro para calcular la longitud de la rampa.
 
@@ -421,7 +421,7 @@ Al "desenrollar" la superficie lateral de un cilindro, obtenemos un rectángulo 
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Expected_Success:** 0.15
 **Contexto:** Se tiene un círculo inscrito en un triángulo rectángulo cuyos catetos miden $a$ y $b$, e hipotenusa $c$.
 

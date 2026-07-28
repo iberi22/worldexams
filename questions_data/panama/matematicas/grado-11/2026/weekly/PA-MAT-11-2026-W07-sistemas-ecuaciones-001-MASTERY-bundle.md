@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en un bachillerato en David repasa los conceptos básicos de los sistemas de ecuaciones lineales 2x2.
 
@@ -41,7 +41,7 @@ Comprensión geométrica de la solución de un sistema de ecuaciones lineales 2x
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** En una clase de matemáticas en la Ciudad de Panamá, se explican los diferentes métodos algebraicos de resolución.
 
@@ -62,7 +62,7 @@ Identificación de los métodos clásicos de resolución de sistemas de ecuacion
 ## Question 3 [D3]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un analista en Colón observa el comportamiento de dos rutas de transporte que no poseen puntos comunes en el mapa.
 
@@ -83,7 +83,7 @@ Clasificación de sistemas de ecuaciones lineales incompatibles o inconsistentes
 ## Question 4 [D3]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante en Santiago desea verificar si un par de valores satisface su registro diario de ventas.
 
@@ -104,7 +104,7 @@ Verificación de soluciones en sistemas de ecuaciones lineales mediante la susti
 ## Question 5 [D4]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante en Penonomé está resolviendo un sistema por reducción y debe elegir un multiplicador adecuado.
 
@@ -125,7 +125,7 @@ Comprensión de la estrategia de eliminación en el método de reducción para s
 ## Question 6 [D4]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un artesano vende sombreros y carteras en Los Santos. Utiliza un sistema para determinar sus ventas individuales.
 
@@ -146,7 +146,7 @@ Resolución de un sistema de ecuaciones lineales 2x2 mediante el método de sust
 ## Question 7 [D5]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un técnico en refrigeración en Chitré necesita encontrar el equilibrio entre dos flujos representados linealmente.
 
@@ -167,7 +167,7 @@ Aplicación del método de reducción en sistemas de ecuaciones lineales de estr
 ## Question 8 [D5]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un agricultor en Boquete plantea un sistema para calcular la cantidad de sacos de café de diferentes variedades.
 
@@ -188,7 +188,7 @@ Resolución de sistemas de ecuaciones lineales 2x2 mediante la resta de ecuacion
 ## Question 9 [D5]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un analista logístico en el Canal de Panamá calcula el tránsito de buques usando el método de igualación.
 
@@ -209,7 +209,7 @@ Resolución de sistemas de ecuaciones lineales 2x2 mediante el método de iguala
 ## Question 10 [D6]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en Aguadulce resuelve un problema de mezclas químicas usando un sistema de dos variables.
 
@@ -230,7 +230,7 @@ Ejecución del método de reducción en sistemas donde una variable posee coefic
 ## Question 11 [D6]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un economista en Panamá analiza el mercado y plantea un sistema que involucra una fracción simple.
 
@@ -251,7 +251,7 @@ Resolución de sistemas de ecuaciones lineales que contienen términos con coefi
 ## Question 12 [D6]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto en la Ciudad del Saber evalúa la consistencia de dos planos lineales paralelos.
 
@@ -272,7 +272,7 @@ Análisis de la dependencia lineal y clasificación de sistemas de ecuaciones (i
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un farmacéutico en Panamá mezcla dos soluciones para obtener una concentración usando un sistema decimal.
 
@@ -293,7 +293,7 @@ Resolución de sistemas de ecuaciones aplicados a problemas de mezclas con coefi
 ## Question 14 [D7]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero de tránsito cerca del Puente de las Américas utiliza determinantes para flujos vehiculares.
 
@@ -314,7 +314,7 @@ Cálculo del determinante de la matriz de coeficientes en un sistema de ecuacion
 ## Question 15 [D7]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** En un problema de olimpiada matemática se plantea un sistema con tres incógnitas mediante sustitución simple.
 
@@ -335,7 +335,7 @@ Resolución de sistemas de ecuaciones lineales mediante el proceso de sustituci�
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un arqueólogo en Panamá Viejo modela hallazgos usando un sistema 2x2 con coeficientes variados.
 
@@ -356,7 +356,7 @@ Resolución de sistemas de ecuaciones lineales mediante el método de reducción
 ## Question 17 [D8]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un científico ambiental analiza el equilibrio de gases mediante condiciones paramétricas en un sistema.
 
@@ -377,7 +377,7 @@ Análisis de parámetros en sistemas de ecuaciones lineales para determinar la n
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un experto en finanzas resuelve un sistema 3x3 para determinar inversiones en diferentes fondos bancarios.
 
@@ -398,7 +398,7 @@ Resolución estratégica de sistemas de ecuaciones lineales de orden superior me
 ## Question 19 [D9]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** Reto de alta complejidad sobre la intersección de tres planos en el espacio para ingeniería.
 
@@ -419,7 +419,7 @@ Resolución de sistemas de ecuaciones lineales 3x3 mediante los métodos de redu
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Un criptógrafo analiza la seguridad basada en un sistema que requiere un cambio de variable racional.
 

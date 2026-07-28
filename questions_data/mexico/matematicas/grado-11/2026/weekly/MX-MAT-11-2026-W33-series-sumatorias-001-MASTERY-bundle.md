@@ -27,7 +27,7 @@ Este bundle aborda el concepto de sumatoria ($\sum$), series aritméticas y geom
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Notación básica de sumas.
 **Expected_Success:** 0.90
 
@@ -48,7 +48,7 @@ El símbolo $\Sigma$ indica suma, el índice inferior es el punto de partida y e
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Evaluación de una sumatoria simple.
 **Expected_Success:** 0.85
 
@@ -69,7 +69,7 @@ Sustituimos $k$ por cada valor del 1 al 4: $1, 3, 5, 7$. Sumamos los resultados:
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Propiedades de las sumatorias.
 **Expected_Success:** 0.88
 
@@ -90,7 +90,7 @@ La linealidad de la sumatoria permite extraer factores constantes: $\sum c \cdot
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de una progresión constante.
 **Expected_Success:** 0.82
 
@@ -111,7 +111,7 @@ Sumar una constante $c$, $n$ veces, equivale a multiplicar $n \times c$. Aquí: 
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de números naturales (fórmula de Gauss).
 **Expected_Success:** 0.78
 
@@ -132,7 +132,7 @@ La suma de los primeros $n$ naturales es $S = \frac{n(n+1)}{2}$. Para $n=50$: $\
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Serie aritmética en contexto de ahorro.
 **Expected_Success:** 0.75
 
@@ -153,7 +153,7 @@ El término general de la PA es $a_n = 10 + (n-1)2 = 8 + 2n$. La suma total es l
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de una serie geométrica finita.
 **Expected_Success:** 0.70
 
@@ -174,7 +174,7 @@ Es una serie geométrica con $a_1=1, r=3, n=5$. Suma: $1+3+9+27+81 = 121$. Tambi
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Propiedades de descomposición de sumatorias.
 **Expected_Success:** 0.65
 
@@ -195,7 +195,7 @@ Aplicamos la propiedad distributiva y de factor constante: $\sum (3a_i - 2b_i) =
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de cuadrados de los primeros números.
 **Expected_Success:** 0.72
 
@@ -216,7 +216,7 @@ Desarrollamos los términos: $1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 1 + 4 + 9 + 16 + 25 
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Sumatoria con índice desplazado.
 **Expected_Success:** 0.74
 
@@ -237,7 +237,7 @@ El índice inicia en 3 y termina en 6. Términos: $(3+2), (4+2), (5+2), (6+2)$, 
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de una serie aritmética de gran tamaño.
 **Expected_Success:** 0.55
 
@@ -258,7 +258,7 @@ Hay 100 números impares en ese rango. La suma de los primeros $n$ impares es si
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identificación del término general desde la sumatoria.
 **Expected_Success:** 0.50
 
@@ -279,7 +279,7 @@ Para obtener un término específico a partir de la suma acumulada: $a_n = S_n -
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Serie geométrica infinita convergente.
 **Expected_Success:** 0.52
 
@@ -300,7 +300,7 @@ Calculamos el primer término ($n=1$): $a_1 = 2$. La razón es $1/2$. Usamos $S 
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Propiedad de telescópica en sumatorias.
 **Expected_Success:** 0.45
 
@@ -321,7 +321,7 @@ En una suma telescópica, los términos intermedios se cancelan. Solo sobreviven
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de potencias de 2.
 **Expected_Success:** 0.58
 
@@ -342,7 +342,7 @@ La sumatoria tiene $n=11$ términos ($i=0$ hasta $10$). La suma de potencias de 
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Sumatoria de una función lineal.
 **Expected_Success:** 0.60
 
@@ -363,7 +363,7 @@ Descomponemos: $3\sum i + \sum 1$. La primera parte es $3 \times \frac{20 \times
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Límites de sumatorias infinitas.
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ Es una serie geométrica con $a_1=0.3$ y $r=0.1$. $S = \frac{0.3}{1-0.1} = \frac
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Deducción de fórmulas de sumatoria.
 **Expected_Success:** 0.32
 
@@ -405,7 +405,7 @@ Extraemos el factor constante 2: $2(1 + 2 + 3 + ... + n)$. Sustituimos la suma d
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Sumatorias anidadas.
 **Expected_Success:** 0.28
 
@@ -426,7 +426,7 @@ Primero resolvemos la sumatoria interna respecto a $j$: $\sum_{j=1}^{2} (i+j) = 
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Convergencia de series complejas.
 **Expected_Success:** 0.30
 

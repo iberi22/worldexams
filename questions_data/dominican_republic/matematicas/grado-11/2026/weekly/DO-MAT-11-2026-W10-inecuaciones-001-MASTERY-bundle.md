@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en Santo Domingo distingue igualdades de desigualdades.
 
@@ -41,7 +41,7 @@ Definición de relaciones de orden entre expresiones algebraicas.
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.85
 **Contexto:** Símbolos en Santiago.
 
@@ -62,7 +62,7 @@ Identificación de operadores de comparación no estricta.
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.80
 **Contexto:** Regla de oro de inecuaciones.
 
@@ -83,7 +83,7 @@ Propiedad fundamental de las desigualdades en el campo real.
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.75
 **Contexto:** Notación de $x > 5$ en La Romana.
 
@@ -104,7 +104,7 @@ Traducción de desigualdades a notación de intervalos.
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.75
 **Contexto:** Resolver $x + 8 < 15$.
 
@@ -125,7 +125,7 @@ Resolución de inecuaciones de primer grado elementales.
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Resolver $2x - 4 \geq 10$ en Puerto Plata.
 
@@ -146,7 +146,7 @@ Pasos secuenciales para despejar la incógnita en una desigualdad.
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Queso a RD\$ 120/lb; presupuesto RD\$ 500; reserva RD\$ 50.
 
@@ -167,7 +167,7 @@ Modelación de restricciones de presupuesto mediante inecuaciones.
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Resolver $-3x + 9 > 0$.
 
@@ -188,7 +188,7 @@ Aplicación práctica de la inversión de sentido al dividir por negativo.
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Estudiante en Baní con $2 < x + 5 \leq 10$.
 
@@ -209,7 +209,7 @@ Manejo de inecuaciones de doble frontera.
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.60
 **Contexto:** Notas 85 y 92; meta promedio 90.
 
@@ -230,7 +230,7 @@ Cálculo de valores mínimos requeridos para cumplir una condición promedio.
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Resolver $5x - 2 \leq 2x + 7$ en Moca.
 
@@ -251,7 +251,7 @@ Agrupación de incógnitas y constantes en desigualdades.
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Cuadrática $x^2 \leq 9$ en Barahona.
 
@@ -272,7 +272,7 @@ Resolución de inecuaciones cuadráticas por acotamiento de raíz.
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.50
 **Contexto:** Intervalo $(2, 8]$.
 
@@ -293,7 +293,7 @@ Interpretación de símbolos de intervalo en lenguaje algebraico.
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Racional $1/x > 0$.
 
@@ -314,7 +314,7 @@ Análisis de signos en cocientes algebraicos.
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Resolver $3(x - 2) \geq 5x + 4$.
 
@@ -335,7 +335,7 @@ Combinación de distribución, transposición e inversión de sentido.
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** Temperatura industrial en Haina (20 a 35 °C; sube 5 por hora).
 
@@ -356,7 +356,7 @@ Aplicación de inecuaciones a procesos técnicos de control.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Valor absoluto $|x - 4| < 2$ en la UASD.
 
@@ -377,7 +377,7 @@ Resolución de desigualdades modulares.
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.35
 **Contexto:** Producto $(x - 1)(x + 3) > 0$.
 
@@ -398,7 +398,7 @@ Uso de puntos críticos para determinar regiones de solución en productos.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** Análisis de $x^2 + 1 < 0$.
 
@@ -419,7 +419,7 @@ Reconocimiento de inecuaciones sin solución en el campo real.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.30
 **Contexto:** Optimización: $2A + B \leq 40$ y $A \geq 10$.
 

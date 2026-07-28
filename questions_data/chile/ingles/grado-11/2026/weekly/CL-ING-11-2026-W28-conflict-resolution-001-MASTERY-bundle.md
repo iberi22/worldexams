@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to negotiation terms.
 
@@ -45,7 +45,7 @@ Mediation is a process in which a neutral third party helps two or more groups r
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing peace processes.
 
@@ -65,7 +65,7 @@ The present perfect continuous emphasizes the duration and current persistence o
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about a diplomatic outcome.
 
@@ -85,7 +85,7 @@ The second conditional 'if + were' describes how a hypothetical change in attitu
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "active listening".
 
@@ -105,7 +105,7 @@ Being 'heard' is the fundamental psychological need that active listening aims t
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "win-win" outcomes.
 
@@ -125,7 +125,7 @@ A "win-win" situation is one in which a compromise is reached that benefits all 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Formal agreements.
 
@@ -145,7 +145,7 @@ A treaty is a formally concluded and ratified agreement between countries.
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing negotiation.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current status of the negotiation p
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "de-escalation".
 
@@ -185,7 +185,7 @@ De-escalation involves reducing the intensity of a conflict or potentially viole
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a past breakthrough.
 
@@ -205,7 +205,7 @@ In reported speech, we backshift the tense of the original statement to show it 
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "zero-sum" thinking.
 
@@ -225,7 +225,7 @@ Zero-sum thinking is the belief that one side can only gain if the other side lo
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of empathy.
 
@@ -245,7 +245,7 @@ Empathy is a vital skill for mediators, as it allows them to understand the pers
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future peace milestone.
 
@@ -265,7 +265,7 @@ The future perfect passive describes a desired goal as a finished fact at a spec
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "reconciliation".
 
@@ -285,7 +285,7 @@ Reconciliation is the restoration of friendly relations after a conflict.
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about past communication.
 
@@ -305,7 +305,7 @@ The third conditional allows for the analysis of how past mistakes contributed t
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on forgiveness.
 
@@ -325,7 +325,7 @@ The author concludes that forgiveness is often a necessary step for achieving tr
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a "neutral" party.
 
@@ -345,7 +345,7 @@ A neutral person is one who does not take sides in an argument or conflict.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a hope for resolution.
 
@@ -365,7 +365,7 @@ I wish the two countries would stop fighting and start talking.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "arbitration".
 
@@ -385,7 +385,7 @@ Arbitration is the use of an arbitrator to settle a dispute, and their decision 
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a long-term tension.
 
@@ -405,7 +405,7 @@ The past perfect continuous describes a situation (tension) that was intensifyin
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on dialogue.
 

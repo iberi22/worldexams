@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de Bachillerato en Madrid analiza el crecimiento de una función a partir de su derivada.
 
@@ -41,7 +41,7 @@ El signo de la primera derivada determina si una función crece o decrece. Es la
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En un instituto de Sevilla, se explica cómo identificar los puntos críticos de una función.
 
@@ -62,7 +62,7 @@ Los puntos donde la derivada se anula se denominan puntos críticos. Son candida
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante repasa el criterio de la segunda derivada para clasificar extremos.
 
@@ -83,7 +83,7 @@ La derivada segunda informa sobre la curvatura. Si la curva es cóncava (hacia a
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Un profesor en Valencia muestra la gráfica de una función con un punto de inflexión.
 
@@ -104,7 +104,7 @@ Los puntos de inflexión son aquellos donde la derivada segunda cambia de signo,
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un fabricante en Barcelona quiere minimizar el coste de producción de una caja, cuya función de coste depende del lado $x$.
 
@@ -125,7 +125,7 @@ Para hallar el mínimo de una función cuadrática (parábola), buscamos el punt
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un objeto se lanza verticalmente hacia arriba y su altura en metros viene dada por $h(t) = 20t - 5t^2$ (donde $t$ es el tiempo en segundos).
 
@@ -146,7 +146,7 @@ La altura máxima se alcanza cuando la velocidad vertical ($h'(t)$) es cero. Una
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** En un examen de Matemáticas I en Bilbao, se pide estudiar la curvatura de $f(x) = x^3 - 6x^2$.
 
@@ -167,7 +167,7 @@ Para hallar los puntos de inflexión, calculamos la segunda derivada e igualamos
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la función $f(x) = e^{-x^2}$, conocida por su forma de campana.
 
@@ -188,7 +188,7 @@ El crecimiento se determina estudiando el signo de la primera derivada. En funci
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un terreno rectangular en un pueblo de Segovia debe vallarse. Se dispone de 40 metros de valla y uno de los lados aprovecha una pared existente.
 
@@ -209,7 +209,7 @@ Este es un problema clásico de optimización. Se debe plantear una función ár
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un coche de pruebas en un circuito de Zaragoza acelera siguiendo la función de velocidad $v(t) = t^2 - 4t + 10$.
 
@@ -230,7 +230,7 @@ La aceleración es la derivada de la velocidad. Para hallar cuándo se alcanza u
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático en Salamanca estudia los puntos de inflexión de la función $f(x) = \frac{1}{x^2 + 1}$.
 
@@ -251,7 +251,7 @@ El número de puntos de inflexión está limitado por el grado del polinomio en 
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Un estudiante analiza la función $f(x) = x \ln(x)$ en su dominio $(0, +\infty)$.
 
@@ -272,7 +272,7 @@ Para hallar extremos en funciones con logaritmos, derivamos usando la regla del 
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un físico en Gijón analiza el movimiento de una partícula donde la aceleración es proporcional a la posición, pero de signo contrario.
 
@@ -293,7 +293,7 @@ Este es el modelo del oscilador armónico simple. La función cuya segunda deriv
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Se desea inscribir un rectángulo de área máxima dentro de una circunferencia de radio $R = 2$ metros.
 
@@ -314,7 +314,7 @@ Al plantear el área en función del ángulo o de una de las coordenadas, la der
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante aplica el Teorema del Valor Medio de Lagrange a la función $f(x) = x^2$ en el intervalo $[1, 3]$.
 
@@ -335,7 +335,7 @@ El Teorema del Valor Medio garantiza que en una función "suave", hay al menos u
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un analista de datos observa que los beneficios de una empresa siguen la función $B(t) = \frac{100t}{t^2 + 4}$ (con $t > 0$ en meses).
 
@@ -356,7 +356,7 @@ En funciones racionales de este tipo, el máximo se encuentra resolviendo la ecu
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en Málaga diseña un canal con sección trapezoidal para maximizar el caudal de agua. Los lados y la base miden $L$.
 
@@ -377,7 +377,7 @@ Este problema requiere expresar el área en función del ángulo $\theta$, deriv
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se analiza el comportamiento de la función $f(x) = x^3$ en el origen.
 
@@ -398,7 +398,7 @@ Este ejemplo demuestra que una derivada nula es condición necesaria pero no suf
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** La luz viaja entre dos medios siguiendo el Principio de Fermat, que establece que sigue la trayectoria de tiempo mínimo.
 
@@ -419,7 +419,7 @@ La Ley de Snell es un ejemplo fundamental de cómo la naturaleza "optimiza". El 
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W14-aplicaciones-derivadas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante investiga la relación entre una función $f(x)$ y su polinomio de Taylor de segundo grado centrado en $a$.
 

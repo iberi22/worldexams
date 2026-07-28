@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to diversity.
 
@@ -45,7 +45,7 @@ Cultural diversity is the existence of a variety of cultural or ethnic groups wi
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing cultural interaction.
 
@@ -65,7 +65,7 @@ The present continuous passive describes the active and ongoing effort to suppor
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about tolerance.
 
@@ -85,7 +85,7 @@ The second conditional describes the imaginary result of a shift in social attit
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "pluristic societies".
 
@@ -105,7 +105,7 @@ A pluralistic society is one where different groups maintain their unique cultur
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "cultural relativism".
 
@@ -125,7 +125,7 @@ Cultural relativism is the principle that a person's beliefs and activities shou
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Intercultural terms.
 
@@ -145,7 +145,7 @@ Inclusion is the practice or policy of providing equal access to opportunities a
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a speaker's perspective.
 
@@ -165,7 +165,7 @@ The adverb 'passionately' describes the manner in which the speaker delivered he
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "xenophobia".
 
@@ -185,7 +185,7 @@ Xenophobia is the dislike of or prejudice against people from other countries.
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past encounter with a different culture.
 
@@ -205,7 +205,7 @@ The past perfect 'had never experienced' establishes the state of the speaker's 
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "assimilation".
 
@@ -225,7 +225,7 @@ Forced assimilation can lead to the erosion of unique cultural practices and a s
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of "tolerance".
 
@@ -245,7 +245,7 @@ Tolerance is the ability or willingness to tolerate something, in particular the
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future trend in global culture.
 
@@ -265,7 +265,7 @@ The future perfect indicates that the state of interconnectedness will be an acc
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "empathy".
 
@@ -285,7 +285,7 @@ Cultivating empathy allows us to bridge the gap between ourselves and those from
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about cultural heritage.
 
@@ -305,7 +305,7 @@ The second conditional describes how a hypothetical shift in values would result
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on "global citizenship".
 
@@ -325,7 +325,7 @@ The author concludes that embracing cultural diversity is not just an ethical ch
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing "stereotypes".
 
@@ -345,7 +345,7 @@ Stereotypes are often based on ignorance and can lead to unfair treatment of ind
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a hope for a more inclusive future.
 
@@ -365,7 +365,7 @@ I wish everyone would appreciate the beauty of different cultural traditions.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "cultural hybridity".
 
@@ -385,7 +385,7 @@ Cultural hybridity involves the blending of different cultural elements to creat
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a speaker's advice on diversity.
 
@@ -405,7 +405,7 @@ The base form 'engage' is used in the subjunctive mood after verbs of advice lik
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on global connection.
 

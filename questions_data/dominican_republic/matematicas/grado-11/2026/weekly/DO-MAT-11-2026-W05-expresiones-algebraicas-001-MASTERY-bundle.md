@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en Santo Domingo traduce lenguaje común a matemático.
 
@@ -41,7 +41,7 @@ Modelación básica de frases verbales en expresiones algebraicas.
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.85
 **Contexto:** Partes de un término en un liceo de Santiago.
 
@@ -62,7 +62,7 @@ Identificación de los elementos de un monomio.
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.80
 **Contexto:** Términos semejantes en una práctica escolar.
 
@@ -83,7 +83,7 @@ La semejanza requiere igualdad total en variables y exponentes.
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.75
 **Contexto:** Perímetro rectangular en La Romana con lados $2x+3$ y $x+1$.
 
@@ -104,7 +104,7 @@ Suma de todos los lados combinando términos semejantes.
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.75
 **Contexto:** Clasificación de expresiones según términos.
 
@@ -125,7 +125,7 @@ Nomenclatura de polinomios por cantidad de sumandos.
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Valor numérico de $3x^2 - 2x + 5$ para $x = -2$.
 
@@ -146,7 +146,7 @@ Sustitución y jerarquía con números negativos.
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.70
 **Contexto:** Grado absoluto de $4x^3y^2 + 5x^4y - 2x^2y^4$.
 
@@ -167,7 +167,7 @@ El grado de un polinomio es el máximo de los grados de sus términos.
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Simplificación de $5x - 3y + 2x - 8y + 4$ en San Francisco de Macorís.
 
@@ -188,7 +188,7 @@ Agrupación de términos con la misma parte literal.
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Producto de $(-3x^2y) \cdot (4xy^3)$ en San Juan.
 
@@ -209,7 +209,7 @@ Multiplicación de monomios aplicando leyes de exponentes.
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.60
 **Contexto:** División $15a^4b^2 / 3a^2b$ en Higüey.
 
@@ -230,7 +230,7 @@ Cociente de monomios restando exponentes de variables iguales.
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Hallar $P(x) - Q(x)$ con $P(x)=5x+3$ y $Q(x)=2x-5$.
 
@@ -251,7 +251,7 @@ Resta de polinomios mediante el cambio de signo del sustraendo.
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Simplificación de $2x(3x^2 - 4)$ en Moca.
 
@@ -272,7 +272,7 @@ Producto de monomio por binomio.
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.50
 **Contexto:** Partes de $4x^3 - x^2 + 7$.
 
@@ -293,7 +293,7 @@ Identificación del valor constante en una expresión polinómica.
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Producto de $(x + 3)(x - 5)$.
 
@@ -314,7 +314,7 @@ Expansión de producto de binomios con término común.
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.45
 **Contexto:** Eliminación de signos en $10 - (x - (3 - 2x))$.
 
@@ -335,7 +335,7 @@ Resolución de signos de agrupación de adentro hacia afuera.
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.40
 **Contexto:** Hallar altura si $V = 2h^3 - 8h^2$ y base $A = 2h^2$.
 
@@ -356,7 +356,7 @@ División de polinomio entre monomio aplicada a geometría.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Definición de polinomios.
 
@@ -377,7 +377,7 @@ Un polinomio requiere exponentes enteros no negativos en las variables.
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.35
 **Contexto:** Teorema del Residuo. $P(x) / (x-3)$ tiene residuo 10.
 
@@ -398,7 +398,7 @@ Relación fundamental entre división polinómica y evaluación funcional.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** Paridad polinómica $P(x) = P(-x)$.
 
@@ -419,7 +419,7 @@ Condición de exponentes para la simetría respecto al eje Y.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** Suma de coeficientes de $P(x)$.
 

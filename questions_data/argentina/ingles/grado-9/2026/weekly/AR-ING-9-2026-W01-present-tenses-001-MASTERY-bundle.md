@@ -19,7 +19,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.85
 **Contexto:** Martina vive en Buenos Aires y describe su rutina diaria a un amigo.
 
@@ -40,7 +40,7 @@ Para expresar rutinas y hábitos en presente simple con el pronombre "I", debés
 ## Question 2 [D3-D4]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.80
 **Contexto:** Facundo está en Córdoba y está hablando por teléfono sobre lo que está haciendo en este preciso momento.
 
@@ -61,7 +61,7 @@ Cuando querés describir una acción que está pasando justo ahora (como Facundo
 ## Question 3 [D3-D4]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.75
 **Contexto:** Un grupo de turistas visita las Cataratas del Iguazú y observa el clima.
 
@@ -82,7 +82,7 @@ El presente simple es el tiempo verbal que usamos para hablar de hechos que no c
 ## Question 4 [D5-D6]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.70
 **Contexto:** Lucía está comparando sus actividades habituales con lo que está haciendo hoy por las vacaciones en Mendoza.
 
@@ -103,7 +103,7 @@ En inglés, es fundamental distinguir entre lo que hacés siempre (rutina) y lo 
 ## Question 5 [D5-D6]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.65
 **Contexto:** Un periodista deportivo está relatando un partido de fútbol en el Monumental.
 
@@ -124,7 +124,7 @@ Cuando relatás un partido, como uno en la cancha de River, usás el presente si
 ## Question 6 [D5-D6]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.60
 **Contexto:** Martina le pregunta a su hermano sobre sus planes inmediatos mientras están en Rosario.
 
@@ -145,7 +145,7 @@ Para preguntarle a alguien qué está haciendo en el momento, tenés que usar la
 ## Question 7 [D7-D8]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante analiza el uso de verbos estáticos (stative verbs) en una descripción de La Plata.
 
@@ -166,7 +166,7 @@ Hay verbos que expresan estados, no acciones físicas, como "know", "love" o "un
 ## Question 8 [D7-D8]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.50
 **Contexto:** Dos amigos discuten sobre el uso del presente para hablar del futuro cercano (horarios programados).
 
@@ -187,7 +187,7 @@ Fijate que a veces el presente simple se "disfraza" de futuro. Si estás en Reti
 ## Question 9 [D7-D8]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.45
 **Contexto:** Analizando la diferencia de significado del verbo "think" según el tiempo verbal.
 
@@ -210,7 +210,7 @@ El verbo "think" es especial. Si lo usás para dar tu opinión (lo que creés), 
 ## Question 10 [D9-D10]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.40
 **Contexto:** Un debate sobre el uso del Present Continuous para expresar molestia con adverbios como "always".
 
@@ -231,7 +231,7 @@ Aunque "always" suele ir con el presente simple, cuando lo combinás con el pres
 ## Question 11 [D9-D10]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.35
 **Contexto:** Revisión de un texto sobre la economía regional en Salta.
 
@@ -252,7 +252,7 @@ Cuando describís tendencias que están cambiando (como el aumento de turistas e
 ## Question 12 [D9-D10]
 **ID:** AR-ING-9-2026-W01-present-tenses-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Lengua Extranjera - Inglés
+**EJE:** Lengua Extranjera - Inglés
 **Expected_Success:** 0.30
 **Contexto:** Un análisis literario de una novela que usa el "presente narrativo".
 

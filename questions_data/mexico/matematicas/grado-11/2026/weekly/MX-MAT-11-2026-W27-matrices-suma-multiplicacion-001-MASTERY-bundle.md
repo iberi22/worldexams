@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en la CDMX identifica los elementos básicos de una matriz para organizar datos escolares.
 **Expected_Success:** 0.95
 
@@ -43,7 +43,7 @@ Una matriz es un arreglo rectangular de números. Su orden nos indica su forma: 
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta una matriz que representa el inventario de una pequeña papelería en Guadalajara.
 **Expected_Success:** 0.90
 
@@ -65,7 +65,7 @@ La notación universal $a_{ij}$ permite localizar cualquier elemento dentro de l
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un joven aprende las condiciones necesarias para realizar operaciones aritméticas con matrices.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ La suma de matrices se realiza sumando los elementos que ocupan la misma posici�
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se define la matriz identidad en un curso de álgebra lineal en Monterrey.
 **Expected_Success:** 0.80
 
@@ -109,7 +109,7 @@ La matriz identidad es fundamental porque al multiplicarla por cualquier matriz 
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un administrador en una empresa de calzado en Guanajuato suma las ventas de dos sucursales representadas en matrices.
 **Expected_Success:** 0.75
 
@@ -131,7 +131,7 @@ Para sumar matrices, sumamos los elementos que están en la misma fila y columna
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero industrial en Puebla multiplica una matriz de producción por un factor de eficiencia (escalar).
 **Expected_Success:** 0.80
 
@@ -153,7 +153,7 @@ La multiplicación de una matriz por un escalar consiste en multiplicar cada ent
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista de datos realiza una resta de matrices para encontrar la variación de precios mensuales.
 **Expected_Success:** 0.70
 
@@ -175,7 +175,7 @@ La resta de matrices $X - Y$ es equivalente a sumar a $X$ la matriz opuesta de $
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta el primer paso para la multiplicación de matrices en un taller de cómputo.
 **Expected_Success:** 0.65
 
@@ -197,7 +197,7 @@ Para multiplicar matrices, el número de columnas de la primera matriz debe ser 
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería realiza una multiplicación básica de matrices $2 \times 2$.
 **Expected_Success:** 0.60
 
@@ -219,7 +219,7 @@ Para obtener un elemento en la posición $ij$ del producto, multiplicamos la fil
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se revisa la propiedad conmutativa en un examen parcial en el Estado de México.
 **Expected_Success:** 0.70
 
@@ -241,7 +241,7 @@ La multiplicación de matrices es una de las primeras operaciones matemáticas q
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un programador en Querétaro optimiza un algoritmo de transformación de imágenes usando multiplicación de matrices.
 **Expected_Success:** 0.55
 
@@ -263,7 +263,7 @@ Al multiplicar por una matriz diagonal por la izquierda, cada fila de la segunda
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de economía analiza un modelo de insumo-producto que requiere restar el producto de un escalar y una matriz.
 **Expected_Success:** 0.50
 
@@ -285,7 +285,7 @@ Esta operación es común en modelos económicos lineales. Restamos cada element
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un arquitecto utiliza matrices para rotar un plano y debe realizar múltiples multiplicaciones.
 **Expected_Success:** 0.45
 
@@ -307,7 +307,7 @@ La multiplicación de matrices es asociativa. Podemos multiplicar primero $A \cd
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador de la UNAM comprueba la propiedad de la transpuesta en una suma de matrices.
 **Expected_Success:** 0.55
 
@@ -329,7 +329,7 @@ La operación de transposición "voltea" la matriz sobre su diagonal principal. 
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante resuelve una ecuación matricial simple para encontrar una matriz incógnita $X$.
 **Expected_Success:** 0.40
 
@@ -351,7 +351,7 @@ Resolvemos la ecuación matricial igual que una ecuación lineal: restamos $A$ d
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el producto de una matriz fila por una matriz columna, que resulta en un solo valor.
 **Expected_Success:** 0.50
 
@@ -373,7 +373,7 @@ Este es un caso especial de multiplicación. Al ser las dimensiones $1 \times 3$
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un experto en criptografía en la Ciudad de México utiliza potencias de matrices para codificar mensajes.
 **Expected_Success:** 0.30
 
@@ -395,7 +395,7 @@ Para elevar una matriz al cuadrado, multiplicamos la matriz por sí misma ($A \c
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un matemático demuestra una propiedad fundamental de la transpuesta de un producto de matrices.
 **Expected_Success:** 0.25
 
@@ -417,7 +417,7 @@ Esta propiedad es crucial en demostraciones de álgebra lineal. Al transponer, n
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero de sistemas analiza una matriz simétrica en un problema de optimización.
 **Expected_Success:** 0.30
 
@@ -439,7 +439,7 @@ En una matriz simétrica, los elementos son como un "espejo" respecto a la diago
 
 **ID:** MX-MAT-11-2026-W27-matrices-suma-multiplicacion-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante avanzado utiliza la propiedad distributiva para simplificar una expresión matricial compleja.
 **Expected_Success:** 0.20
 

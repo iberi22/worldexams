@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to journalistic principles.
 
@@ -45,7 +45,7 @@ Objectivity is the practice of reporting news without being influenced by person
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing media accountability.
 
@@ -65,7 +65,7 @@ The passive voice 'are verified' focuses on the status of the sources being auth
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Speculating about a media scandal.
 
@@ -85,7 +85,7 @@ The third conditional is used to speculate about how a past ethical failure led 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "privacy rights".
 
@@ -105,7 +105,7 @@ The text suggests that public figures also have a right to privacy, although it 
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "fake news".
 
@@ -125,7 +125,7 @@ The text suggests that public figures also have a right to privacy, although it 
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Legal media terms.
 
@@ -145,7 +145,7 @@ Libel is a published false statement that is damaging to a person's reputation; 
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing ethical investigation.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current, active examination of the 
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "whistleblowing".
 
@@ -185,7 +185,7 @@ Whistleblowers play a crucial role in exposing corporate misconduct that would o
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a professional guideline.
 
@@ -205,7 +205,7 @@ In reported guidelines, 'shouldn't' is used to express the negative advice or re
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "native advertising".
 
@@ -225,7 +225,7 @@ Native advertising is deceptive if it is not clearly labeled, as it blurs the li
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of "plagiarism".
 
@@ -245,7 +245,7 @@ Plagiarism is the practice of taking someone else's work or ideas and passing th
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future regulatory goal.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the new rules will be a finished achie
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "transparency".
 
@@ -285,7 +285,7 @@ Transparency involves being open and honest about how information is gathered an
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Advice on protecting sources.
 
@@ -305,7 +305,7 @@ You shouldn't reveal your sources unless it is absolutely necessary for the safe
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on the importance of "fact-checking".
 
@@ -325,7 +325,7 @@ The author concludes that rigorous fact-checking is the best defense against the
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a "conflict of interest".
 
@@ -345,7 +345,7 @@ A conflict of interest occurs when a journalist's personal involvement in a stor
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a past regret about media behavior.
 
@@ -365,7 +365,7 @@ The 'wish + past perfect' structure allows for the expression of ethical regret 
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "journalistic integrity".
 
@@ -385,7 +385,7 @@ Journalistic integrity involves a commitment to accuracy, fairness, and ethical 
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a call for media reform.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the original statement to show it 
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the role of ethics.
 

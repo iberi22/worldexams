@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 5to de secundaria en Lima repasa las propiedades básicas de las desigualdades para su examen de ingreso.
 
@@ -45,7 +45,7 @@ La propiedad multiplicativa de las desigualdades establece que si $a < b$ y mult
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.80
 **Contexto:** En una ferretería del Rímac, el precio de un martillo es de S/ 25 y el de un juego de destornilladores es de S/ 40.
 
@@ -70,7 +70,7 @@ Se plantea la inecuación lineal $25x + 40 \le 200$. Al restar 40 obtenemos $25x
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.75
 **Contexto:** Un grupo de estudio preuniversitario en la ciudad de Trujillo analiza el conjunto solución de una inecuación de primer grado.
 
@@ -95,7 +95,7 @@ Aplicamos la propiedad distributiva: $3x - 6 \ge 5x + 4$. Agrupamos términos se
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.70
 **Contexto:** Un taxista en Arequipa evalúa sus costos operativos. Sus gastos fijos (gasolina y mantenimiento) ascienden a S/ 60 por día de trabajo.
 
@@ -120,7 +120,7 @@ Definimos $n$ como el número de carreras. La ganancia neta es Ingresos menos Ga
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.65
 **Contexto:** Un analista financiero en una cooperativa de Chiclayo estudia el comportamiento de una tasa de interés variable simplificada mediante una inecuación.
 
@@ -145,7 +145,7 @@ Al resolver la inecuación, multiplicamos ambos lados por el MCM (4): $2x - 3 < 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.60
 **Contexto:** Un arquitecto diseña un parque recreativo en la ciudad de Huancayo y necesita delimitar una zona rectangular de juegos.
 
@@ -170,7 +170,7 @@ Sea $x$ el ancho y $x+10$ el largo. El perímetro es $2(x + x + 10) = 4x + 20$. 
 ## Question 7 [D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Un sistema de control de temperatura en una planta industrial de Piura debe mantenerse dentro de ciertos límites operativos.
 
@@ -196,7 +196,7 @@ Se resuelven ambas inecuaciones independientemente. La primera da $x > 4$ y la s
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante compara dos planes de internet móvil en Lima. El Plan "Básico" cuesta S/ 30 fijos más S/ 0.50 por GB adicional. El Plan "Plus" cuesta S/ 45 fijos con GB ilimitados (considerando el uso extra en el primer plan).
 
@@ -221,7 +221,7 @@ Queremos saber cuándo $Costo_{Plus} < Costo_{Basico}$, es decir $45 < 30 + 0.50
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.55
 **Contexto:** Introducción al estudio de inecuaciones con valor absoluto en el marco del CNEB (Competencia: Resuelve problemas de regularidad).
 
@@ -246,7 +246,7 @@ La propiedad $|x - a| \le b$ equivale a la inecuación doble $-b \le x - a \le b
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.50
 **Contexto:** Un tanque de agua en una comunidad altoandina de Puno se llena mediante un canal. El nivel actual es de 800 litros y el canal aporta 40 litros por hora.
 
@@ -271,7 +271,7 @@ Planteamos la inecuación doble basada en el volumen deseado: $1400 \le 800 + 40
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.45
 **Contexto:** Análisis de inecuaciones racionales que pueden reducirse a lineales mediante análisis de signos, típico en el prospecto de admisión UNMSM.
 
@@ -296,7 +296,7 @@ Identificamos los puntos críticos (donde el numerador o denominador son cero): 
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Un pequeño productor de pisco en Ica tiene costos de producción de S/ 20 por botella y costos fijos mensuales de S/ 3000.
 
@@ -321,7 +321,7 @@ La utilidad se calcula como $Ingresos - Costos$. Sea $x$ el número de botellas:
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.40
 **Contexto:** Problema de razonamiento matemático sobre edades con desigualdades, frecuente en exámenes de ingreso a universidades peruanas.
 
@@ -346,7 +346,7 @@ Traducimos el enunciado: $x + 8 > 3x - 20$. Al agrupar términos obtenemos $28 >
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Preparación avanzada para el examen de admisión de la UNI, analizando desigualdades con valor absoluto en ambos miembros.
 
@@ -371,7 +371,7 @@ Al tener valores absolutos en ambos miembros, elevamos al cuadrado: $(x-2)^2 \le
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.30
 **Contexto:** Análisis de restricciones en un sistema de inecuaciones con variables enteras, estilo Olimpiada Nacional de Matemática (ONEM).
 
@@ -398,7 +398,7 @@ Evaluamos sistemáticamente las posibilidades para enteros positivos. De $2x + y
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.35
 **Contexto:** Problema de mezclas químicas en un laboratorio de la Universidad Nacional de Ingeniería (UNI) en Lima.
 
@@ -423,7 +423,7 @@ Sea $x$ los litros al 50%. Los litros al 20% son $12-x$. La cantidad de ácido p
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.25
 **Contexto:** Desafío de inecuaciones con parámetros, común en las preguntas difíciles de los exámenes de admisión de la UNI.
 
@@ -448,7 +448,7 @@ Para que una inecuación lineal no tenga solución, la variable $x$ debe elimina
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.20
 **Contexto:** Análisis de la suma de soluciones enteras en sistemas acotados.
 
@@ -474,7 +474,7 @@ Al simplificar la primera inecuación, multiplicando por el MCM (6), obtenemos $
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.15
 **Contexto:** Un artesano de Ayacucho fabrica retablos. El tiempo de tallado y pintura para los modelos A y B genera un sistema de restricciones.
 
@@ -503,7 +503,7 @@ Se trata de un problema de programación lineal entera. Al graficar las inecuaci
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de regularidad, equivalencia y cambio
+**EJE:** Resuelve problemas de regularidad, equivalencia y cambio
 **Expected_Success:** 0.10
 **Contexto:** Análisis del rango de una función racional mediante el uso de desigualdades cuadráticas auxiliares, nivel examen UNI.
 

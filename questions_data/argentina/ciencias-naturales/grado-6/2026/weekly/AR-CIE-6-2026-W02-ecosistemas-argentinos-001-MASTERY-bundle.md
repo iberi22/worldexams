@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.85
 **Contexto:** En una clase en Santa Rosa, La Pampa, los alumnos estudian los componentes de un ecosistema típico de la llanura pampeana.
 
@@ -45,7 +45,7 @@ Un ecosistema está formado por la interacción entre los seres vivos (biocenosi
 ## Question 2 [D4]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.80
 **Contexto:** Un grupo de turistas visita las Cataratas del Iguazú en Misiones y observa una gran variedad de pájaros, insectos y plantas conviviendo en el mismo lugar.
 
@@ -70,7 +70,7 @@ En ecología, el nivel de "población" se limita a individuos de una sola especi
 ## Question 3 [D5]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.75
 **Contexto:** Imaginate que estás analizando una red trófica en el Mar Argentino. Observás que las orcas se alimentan de lobos marinos, y estos de peces.
 
@@ -95,7 +95,7 @@ En casi todos los ecosistemas, los productores son el primer eslabón. En el mar
 ## Question 4 [D5]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.70
 **Contexto:** Un biólogo en la Puna salteña observa que las vicuñas compiten con los guanacos por el pasto escaso de la zona.
 
@@ -120,7 +120,7 @@ La competencia interespecífica es una relación donde ambas especies se ven per
 ## Question 5 [D6]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.65
 **Contexto:** En el Chaco, se observa que ciertas aves se alimentan de los parásitos que crecen sobre la piel de los carpinchos. El ave obtiene comida y el carpincho queda limpio.
 
@@ -145,7 +145,7 @@ El mutualismo es una interacción biológica en la que ambos individuos obtienen
 ## Question 6 [D7]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.60
 **Contexto:** Tras un incendio forestal en los bosques de Chubut, el ecosistema comienza a recuperarse lentamente: primero aparecen pastos, luego arbustos y finalmente árboles.
 
@@ -170,7 +170,7 @@ La sucesión ecológica es el proceso de colonización y cambio de un área por 
 ## Question 7 [D7]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.55
 **Contexto:** Los científicos están preocupados por la introducción del castor en Tierra del Fuego, una especie que no es originaria de allí y destruye los bosques de lenga.
 
@@ -195,7 +195,7 @@ Las especies invasoras rompen el equilibrio del ecosistema. Al carecer de enemig
 ## Question 8 [D8]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.50
 **Contexto:** Compará un ecosistema terrestre (como el Monte en San Juan) con uno acuático (como una laguna en Corrientes).
 
@@ -220,7 +220,7 @@ En los ecosistemas áridos como el Monte, el agua es el recurso crítico. Los se
 ## Question 9 [D9]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.45
 **Contexto:** En el Delta del Paraná, se está discutiendo el impacto de la construcción de barrios privados sobre humedales. Algunos dicen que "limpiar" el terreno es bueno.
 
@@ -245,7 +245,7 @@ Los humedales son ecosistemas clave. Al destruirlos, perdemos su capacidad de ab
 ## Question 10 [D10]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Ecosistemas
+**EJE:** Ecosistemas
 **Expected_Success:** 0.40
 **Contexto:** El gobierno argentino analiza crear un nuevo Parque Nacional en una zona de alta biodiversidad amenazada por la agricultura intensiva.
 
