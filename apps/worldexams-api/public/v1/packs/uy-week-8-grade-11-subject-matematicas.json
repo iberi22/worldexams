@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "uy",
+    "pack_id": "uy-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T03:05:14.423Z"
+  },
+  "questions": [
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "En el punto $(-3, 5)$, ¿qué indica la coordenada $-3$?",
+      "context": "Una docente de Montevideo repasa el plano cartesiano con sexto año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abscisa: la posición horizontal respecto al origen.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La primera coordenada es la abscisa (eje $x$)."
+        },
+        {
+          "letter": "B",
+          "text": "La ordenada: la posición vertical respecto al origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada es la segunda coordenada, $5$."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia del punto al origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia es $\\sqrt{9 + 25} = \\sqrt{34}$."
+        },
+        {
+          "letter": "D",
+          "text": "La pendiente de la recta que une el punto con el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente sería $\\frac{5}{-3}$, no una coordenada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todo punto del plano se escribe $(x, y)$: la abscisa $x$ mide el desplazamiento horizontal y la ordenada $y$ el vertical.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula de la distancia entre los puntos $A(x_1, y_1)$ y $B(x_2, y_2)$?",
+      "context": "En un liceo de Salto se memoriza la fórmula de distancia entre puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el teorema de Pitágoras aplicado al plano."
+        },
+        {
+          "letter": "B",
+          "text": "$d = (x_2 - x_1) + (y_2 - y_1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar diferencias no mide la distancia euclidiana."
+        },
+        {
+          "letter": "C",
+          "text": "$d = \\sqrt{(x_2 - x_1) + (y_2 - y_1)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan los cuadrados de cada diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$d = \\frac{(x_2 - x_1)}{(y_2 - y_1)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente se parece al inverso de la pendiente, no a la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia es la hipotenusa del triángulo cuyos catetos son las diferencias de coordenadas: $d = \\sqrt{(\\Delta x)^2 + (\\Delta y)^2}$.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "¿En qué cuadrante se encuentra el punto $(-4, -7)$?",
+      "context": "Un estudiante de Colonia ubica puntos en los cuadrantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Segundo cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo tiene abscisa negativa pero ordenada positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Cuarto cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuarto tiene abscisa positiva y ordenada negativa."
+        },
+        {
+          "letter": "C",
+          "text": "Tercer cuadrante",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ambas coordenadas negativas ubican el punto en el tercer cuadrante."
+        },
+        {
+          "letter": "D",
+          "text": "Sobre el eje $y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar sobre el eje $y$ exige abscisa cero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los signos deciden el cuadrante: $(-,-)$ es el tercero, $(-,+)$ el segundo, $(+,-)$ el cuarto y $(+,+)$ el primero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el punto medio del segmento con extremos $A(2, 4)$ y $B(6, 10)$?",
+      "context": "Una estudiante de Maldonado calcula el punto medio de un segmento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(8, 14)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las coordenadas; el punto medio promedia."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, 7)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\left(\\frac{2+6}{2}, \\frac{4+10}{2}\\right) = (4, 7)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste las coordenadas de $B$ entre las de $A$."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste cada coordenada de $B$ entre 2 sin promediar con $A$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto medio es el promedio de las coordenadas: $M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right) = (4, 7)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la distancia entre los puntos $(1, 2)$ y $(4, 6)$?",
+      "context": "Un técnico de Canelones calcula la distancia entre dos localidades en un mapa cuadriculado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las diferencias $3 + 4$; la distancia usa Pitágoras."
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste sin elevar al cuadrado dentro de la raíz."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; falta la raíz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las diferencias son $\\Delta x = 3$ y $\\Delta y = 4$: $d = \\sqrt{9 + 16} = 5$, la clásica terna 3-4-5.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la pendiente de la recta que pasa por $(0, -1)$ y $(3, 5)$?",
+      "context": "Un docente de Tacuarembó analiza la pendiente de una recta entre dos puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el cociente de las diferencias."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $m = \\frac{5 - (-1)}{3 - 0} = \\frac{6}{3} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo $\\Delta y$; falta dividir por $\\Delta x$."
+        },
+        {
+          "letter": "D",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta crece de izquierda a derecha: la pendiente es positiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$m = \\frac{\\Delta y}{\\Delta x} = \\frac{5-(-1)}{3-0} = \\frac{6}{3} = 2$. El signo de la pendiente indica si la recta sube o baja.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la ecuación de la recta horizontal que pasa por el punto $(5, -3)$?",
+      "context": "Una estudiante de Rivera identifica la ecuación de una recta horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la recta vertical que pasa por el punto."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Toda recta horizontal tiene ordenada constante."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 5x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa recta tiene pendiente 5, no es horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "$x + y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una recta oblicua, aunque el punto la verifique."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las rectas horizontales tienen pendiente cero y ecuación $y = k$, donde $k$ es la ordenada común: $y = -3$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la pendiente de una recta perpendicular a $y = \\frac{1}{2}x + 3$?",
+      "context": "Un arquitecto de Paysandú verifica si dos paredes son perpendiculares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa pendiente daría una recta paralela."
+        },
+        {
+          "letter": "B",
+          "text": "$-2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las perpendiculares cumplen $m_1 \\cdot m_2 = -1$: $\\frac{1}{2} \\cdot (-2) = -1$."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el cambio de signo; el producto daría $+1$."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la opuesta, no la recíproca opuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La condición de perpendicularidad es $m_2 = -\\frac{1}{m_1}$. Con $m_1 = \\frac{1}{2}$, la perpendicular tiene pendiente $-2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la ecuación de la circunferencia con centro en el origen y radio $4$?",
+      "context": "Un ingeniero de Durazno halla la ecuación de una circunferencia centrada en el origen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2 = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lado derecho es el radio al cuadrado: 16."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + y^2 = 16$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Con centro $(0,0)$, la ecuación es $x^2 + y^2 = r^2 = 16$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 4)^2 + (y - 4)^2 = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa circunferencia tiene centro $(4, 4)$."
+        },
+        {
+          "letter": "D",
+          "text": "$x + y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una recta, no una circunferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circunferencia de centro $(h, k)$ y radio $r$ es $(x-h)^2 + (y-k)^2 = r^2$. Con centro en el origen: $x^2 + y^2 = 16$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "¿En qué punto la recta $y = 2x - 6$ corta al eje de abscisas?",
+      "context": "Una docente de Florida plantea hallar dónde una recta corta al eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, -6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el corte con el eje $y$, no con el eje $x$."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 0)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Con $y = 0$: $2x = 6$, $x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-3, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisá el signo al despejar: $x = 3$ positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$(6, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta dividir entre el coeficiente 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El corte con el eje $x$ ocurre cuando $y = 0$: $0 = 2x - 6$ da $x = 3$. El punto es $(3, 0)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Los vértices de un triángulo son $A(0, 0)$, $B(4, 0)$ y $C(0, 3)$. ¿Qué tipo de triángulo es?",
+      "context": "Un estudiante de Rocha clasifica un triángulo por las longitudes de sus lados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectángulo, porque los lados $AB$ y $AC$ son perpendiculares (ejes).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un lado horizontal y otro vertical se cortan en 90° en $A$."
+        },
+        {
+          "letter": "B",
+          "text": "Equilátero, porque tiene tres vértices.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lados miden 4, 3 y 5: todos distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Isósceles, porque dos lados salen del origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos lados miden 4 y 3, distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Obtusángulo, porque tiene un lado largo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3^2 + 4^2 = 5^2$: es rectángulo exacto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los lados miden 3, 4 y 5 y cumplen $9 + 16 = 25$: triángulo rectángulo con el ángulo recto en $A$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "¿Qué condición deben cumplir las pendientes de dos rectas para que sean paralelas distintas?",
+      "context": "Una docente de Melo pregunta por la condición de paralelismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendientes iguales y ordenadas al origen distintas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Igual dirección, sin coincidir: paralelas."
+        },
+        {
+          "letter": "B",
+          "text": "Pendientes cuyo producto sea $-1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la condición de perpendicularidad."
+        },
+        {
+          "letter": "C",
+          "text": "Pendientes iguales y ordenadas iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ese caso serían la misma recta (coincidentes)."
+        },
+        {
+          "letter": "D",
+          "text": "Pendientes opuestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pendientes opuestas se cortan simétricamente; no son paralelas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paralelismo significa misma inclinación: $m_1 = m_2$. Para que sean rectas distintas, las ordenadas al origen deben diferir.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Respecto de la circunferencia $x^2 + y^2 = 25$, el punto $(3, 5)$ se encuentra:",
+      "context": "Un estudiante de Minas analiza la posición de un punto respecto a una circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobre la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9 + 25 = 34 \\ne 25$; el punto no verifica la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "En el exterior, porque $3^2 + 5^2 = 34 > 25$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La distancia al centro es $\\sqrt{34} > 5$, el radio."
+        },
+        {
+          "letter": "C",
+          "text": "En el interior, porque sus coordenadas son pequeñas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de cuadrados supera el radio al cuadrado: es exterior."
+        },
+        {
+          "letter": "D",
+          "text": "En el centro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro es $(0, 0)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar $x^2 + y^2$ con $r^2$ ubica el punto: igual (sobre), menor (dentro), mayor (fuera). Aquí $34 > 25$: exterior.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el centro y el radio de la circunferencia $(x - 2)^2 + (y + 1)^2 = 9$?",
+      "context": "Un urbanista de San José diseña una rotonda con centro desplazado del origen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centro $(-2, 1)$ y radio $9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos del centro se invierten respecto de la ecuación y el radio es la raíz de 9."
+        },
+        {
+          "letter": "B",
+          "text": "Centro $(2, -1)$ y radio $3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Comparando con $(x-h)^2 + (y-k)^2 = r^2$: $h = 2$, $k = -1$, $r = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "Centro $(2, -1)$ y radio $9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro está bien, pero el radio es $\\sqrt{9} = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "Centro $(1, -2)$ y radio $3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste las coordenadas del centro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la forma canónica, el centro sale invirtiendo los signos de los términos con la variable: $(2, -1)$; el radio es $\\sqrt{9} = 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la ecuación de la recta paralela a $y = 3x + 1$ que pasa por $(2, 4)$?",
+      "context": "Una estudiante de Treinta y Tres halla la recta paralela a otra por un punto dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 3x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la ordenada del punto como término independiente sin ajustar."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 3x - 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Misma pendiente 3; $4 = 3(2) + b$ da $b = -2$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -\\frac{1}{3}x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa pendiente corresponde a la perpendicular, no a la paralela."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 3x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la recta original; el punto $(2,4)$ no la verifica: $3(2)+1 = 7$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las paralelas comparten pendiente: $y = 3x + b$. Imponiendo el paso por $(2, 4)$: $b = 4 - 6 = -2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "¿Están alineados los puntos $A(0, 1)$, $B(2, 5)$ y $C(4, 9)$?",
+      "context": "Un docente de Maldonado plantea verificar si tres puntos están alineados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la pendiente entre $A$ y $B$ ($2$) es la misma que entre $B$ y $C$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\frac{5-1}{2-0} = 2$ y $\\frac{9-5}{4-2} = 2$: misma dirección, puntos colineales."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque las coordenadas no son proporcionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La colinealidad se mide por pendientes iguales, y aquí coinciden."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque las ordenadas son impares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La paridad no es criterio de alineación, aunque aquí la conclusión sea correcta."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque $C$ no es el doble de $B$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alineación no exige proporcionalidad de coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tres puntos son colineales si las pendientes entre pares consecutivos coinciden. Ambas valen 2, así que están sobre la recta $y = 2x + 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la distancia del punto $(7, 2)$ a la recta $x = 3$?",
+      "context": "En un examen en Paysandú se evalúa la distancia de un punto a una recta vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la ordenada del punto; la recta es vertical y la distancia es horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "$4$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! La distancia horizontal es $|7 - 3| = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{53}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la fórmula de distancia al origen, no a la recta."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste coordenada y constante; la distancia es la diferencia absoluta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia de un punto a una recta vertical $x = k$ es $|x_0 - k|$: $|7 - 3| = 4$. Es la longitud del segmento perpendicular (horizontal) a la recta.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "¿Qué figura es el cuadrilátero $ABCD$ y cuál es su área?",
+      "context": "Una examinadora de Durazno presenta un cuadrilátero con vértices $A(0,0)$, $B(6,0)$, $C(6,4)$ y $D(0,4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuadrado de área 16.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lados miden 6 y 4: no son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Un rectángulo de área 24.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Lados 6 y 4 perpendiculares: área $6 \\times 4 = 24$."
+        },
+        {
+          "letter": "C",
+          "text": "Un rombo de área 12.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lados no son todos iguales y el área es base por altura: 24."
+        },
+        {
+          "letter": "D",
+          "text": "Un trapecio de área 20.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuatro vértices forman lados paralelos dos a dos: es un rectángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los lados $AB$ y $CD$ son horizontales de largo 6; $BC$ y $DA$ verticales de largo 4. Rectángulo de área 24 unidades cuadradas.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el área del triángulo $ABC$?",
+      "context": "Un diseñador de Montevideo necesita el área del triángulo con vértices $A(0,0)$, $B(6,0)$ y $C(2,4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre 2: $\\frac{6 \\times 4}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ unidades cuadradas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Base $6$ (sobre el eje $x$) y altura $4$: $\\frac{24}{2} = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$6$ unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo la base o solo la altura como área."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste base y altura; el área triangular es la mitad del producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tomando $AB$ como base ($6$) y la ordenada de $C$ como altura ($4$): $A = \\frac{6 \\cdot 4}{2} = 12$ unidades cuadradas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Sustituyendo la recta en la circunferencia se obtiene $2x^2 + 12x + 20 = 0$, con discriminante $\\Delta = 144 - 160 = -16$. ¿Qué conclusión es correcta?",
+      "context": "Un urbanista de Colonia estudia si una calle recta toca una plaza circular: la plaza es $x^2 + y^2 = 16$ y la calle es $y = x + 6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La calle no toca la plaza: el discriminante negativo indica que no hay intersección.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin soluciones reales, la recta pasa por fuera de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "La calle es tangente a la plaza en un punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangencia exige discriminante cero."
+        },
+        {
+          "letter": "C",
+          "text": "La calle corta la plaza en dos puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso requeriría discriminante positivo."
+        },
+        {
+          "letter": "D",
+          "text": "La calle pasa por el centro de la plaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro $(0,0)$ no verifica $y = x + 6$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El signo del discriminante de la ecuación resultante clasifica la posición relativa: $\\Delta < 0$ exterior (sin contacto), $\\Delta = 0$ tangente, $\\Delta > 0$ secante. Aquí la calle no interfiere con la plaza.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}
