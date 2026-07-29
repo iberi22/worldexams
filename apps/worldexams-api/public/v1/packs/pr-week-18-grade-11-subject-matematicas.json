@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-18-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T05:17:39.284Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el área aproximada de un círculo que tiene un diámetro de 10 cm? (Usa $\\pi \\approx 3.14$)",
+      "context": "Como parte de las olimpiades científicas en San Juan, Diego aplica conceptos algebraicos en la Escuela Superior de la Universidad de Puerto Rico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15.7\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la división."
+        },
+        {
+          "letter": "B",
+          "text": "$31.4\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la longitud de la circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "$314\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó usando el diámetro directamente en lugar del radio."
+        },
+        {
+          "letter": "D",
+          "text": "$78.5\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Radio es 5, área es $\\pi \\times 5^2 = 78.5$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Si el diámetro es 10 cm, el radio es $r = 5$ cm. El área del círculo es $A = \\pi r^2 \\approx 3.14 \\times 5^2 = 3.14 \\times 25 = 78.5\\text{ cm}^2$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v2",
+      "statement": "Encuentra la ecuación estándar de la circunferencia con centro en el punto $C(2, -3)$ y radio $r = 4$.",
+      "context": "En Bayamón, Gabriel analiza un problema de modelación matemática para un proyecto de la Escuela Superior Dra. Concepción Aponte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 2)^2 + (y - 3)^2 = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las coordenadas del centro invertidos."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 2)^2 + (y - 3)^2 = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos invertidos y radio no elevado al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 2)^2 + (y + 3)^2 = 16$",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo en la fórmula estándar."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 2)^2 + (y + 3)^2 = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se elevó el radio al cuadrado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ecuación estándar de una circunferencia es $(x - h)^2 + (y - k)^2 = r^2$. Con centro en $(2, -3)$ y radio 4, sustituimos: $(x - 2)^2 + (y - (-3))^2 = 4^2 \\implies (x - 2)^2 + (y + 3)^2 = 16$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v3",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Cayey, María estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Miguel Meléndez Muñoz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "113.04 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "18.84 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "37.68 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v4",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Fajardo, Carmen analiza un problema de modelación matemática para un proyecto de la Escuela Superior Dr. Santiago Veve Calzada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "113.04 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "18.84 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "37.68 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v5",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Cidra, Keylor estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Iglesias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "113.04 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "18.84 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "37.68 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v6",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "Como parte de las olimpiades científicas en Mayagüez, Carlos aplica conceptos algebraicos en la Escuela Superior de Mayagüez (SILA).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.84 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        },
+        {
+          "letter": "B",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "9.42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v7",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "Como parte de las olimpiades científicas en Mayagüez, Mateo aplica conceptos algebraicos en la Escuela Superior de Mayagüez (SILA).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "254.34 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "56.52 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v8",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Mayagüez, Gabriel diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior de Mayagüez (SILA).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "254.34 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "56.52 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v9",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "Un grupo de estudiantes de la Escuela Superior Patria Latorre Ramírez en Humacao realiza una investigación guiada por Sofía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.84 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        },
+        {
+          "letter": "B",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "9.42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v10",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Arecibo, José estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Marín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.84 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        },
+        {
+          "letter": "B",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "9.42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v11",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "Un grupo de estudiantes de la Escuela Superior Medardo Carazo en Trujillo Alto realiza una investigación guiada por Diego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "254.34 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "56.52 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v12",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En San Juan, Camila diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior de la Universidad de Puerto Rico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.84 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        },
+        {
+          "letter": "B",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "9.42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v13",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Fajardo, Mateo diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Dr. Santiago Veve Calzada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "113.04 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "18.84 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "37.68 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v14",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "Como parte de las olimpiades científicas en Río Piedras, Valentina aplica conceptos algebraicos en la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "113.04 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "18.84 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "37.68 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v15",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Guaynabo, José analiza un problema de modelación matemática para un proyecto de la Escuela Superior Margarita Janer Palacios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "113.04 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "18.84 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "37.68 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v16",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Utuado, Mateo estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Rivera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "254.34 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "56.52 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v17",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "Como parte de las olimpiades científicas en Utuado, María aplica conceptos algebraicos en la Escuela Superior Luis Muñoz Rivera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "254.34 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "56.52 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v18",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Dra. Concepción Aponte de Bayamón, Yaritza resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.84 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        },
+        {
+          "letter": "B",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "9.42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v19",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Arecibo, Gabriel estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Marín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.84 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        },
+        {
+          "letter": "B",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "9.42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v20",
+      "statement": "Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\\pi \\approx 3.14$)",
+      "context": "En Cabo Rojo, Yaritza diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Monserrate León de Irizarry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "254.34 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el área del círculo."
+        },
+        {
+          "letter": "C",
+          "text": "28.26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "56.52 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $L = 2\\pi r$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
