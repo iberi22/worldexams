@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** En un control de presupuesto agrícola en San Juan.
 
@@ -44,7 +44,7 @@ Para resolver la inecuación lineal $$2x + 3 < 7$$, primero restamos 3 en ambos 
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** En un control de presupuesto agrícola en Mayagüez.
 
@@ -66,7 +66,7 @@ Para resolver la inecuación lineal $$3x + 5 < 14$$, primero restamos 5 en ambos
 ## Question 3 [D3]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** En un control de presupuesto agrícola en Arecibo.
 
@@ -88,7 +88,7 @@ Para resolver la inecuación lineal $$2x + 7 < 15$$, primero restamos 7 en ambos
 ## Question 4 [D3]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** En un control de presupuesto agrícola en Carolina.
 
@@ -113,7 +113,7 @@ Para resolver la inecuación lineal $$3x + 9 < 24$$, primero restamos 9 en ambos
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** En un control de presupuesto agrícola en Ciales.
 
@@ -135,7 +135,7 @@ Para resolver la inecuación lineal $$2x + 11 < 23$$, primero restamos 11 en amb
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** En un control de presupuesto agrícola en Ponce.
 
@@ -157,7 +157,7 @@ Para resolver la inecuación lineal $$3x + 13 < 34$$, primero restamos 13 en amb
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** En un control de presupuesto agrícola en San Juan.
 
@@ -179,7 +179,7 @@ Para resolver la inecuación lineal $$2x + 15 < 31$$, primero restamos 15 en amb
 ## Question 8 [D5]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** En un control de presupuesto agrícola en Mayagüez.
 
@@ -201,7 +201,7 @@ Para resolver la inecuación lineal $$3x + 17 < 44$$, primero restamos 17 en amb
 ## Question 9 [D5]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** En un control de presupuesto agrícola en Arecibo.
 
@@ -223,7 +223,7 @@ Para resolver la inecuación lineal $$2x + 19 < 39$$, primero restamos 19 en amb
 ## Question 10 [D5]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** En un control de presupuesto agrícola en Carolina.
 
@@ -248,7 +248,7 @@ Para resolver la inecuación lineal $$3x + 21 < 54$$, primero restamos 21 en amb
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En un control de presupuesto agrícola en Ciales.
 
@@ -270,7 +270,7 @@ Para resolver la inecuación lineal $$2x + 23 < 47$$, primero restamos 23 en amb
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En un control de presupuesto agrícola en Ponce.
 
@@ -292,7 +292,7 @@ Para resolver la inecuación lineal $$3x + 25 < 64$$, primero restamos 25 en amb
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En un control de presupuesto agrícola en San Juan.
 
@@ -314,7 +314,7 @@ Para resolver la inecuación lineal $$2x + 27 < 55$$, primero restamos 27 en amb
 ## Question 14 [D7]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En un control de presupuesto agrícola en Mayagüez.
 
@@ -336,7 +336,7 @@ Para resolver la inecuación lineal $$3x + 29 < 74$$, primero restamos 29 en amb
 ## Question 15 [D7]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En un control de presupuesto agrícola en Arecibo.
 
@@ -358,7 +358,7 @@ Para resolver la inecuación lineal $$2x + 31 < 63$$, primero restamos 31 en amb
 ## Question 16 [D7]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En un control de presupuesto agrícola en Carolina.
 
@@ -383,7 +383,7 @@ Para resolver la inecuación lineal $$3x + 33 < 84$$, primero restamos 33 en amb
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** En un control de presupuesto agrícola en Ciales.
 
@@ -405,7 +405,7 @@ Para resolver la inecuación lineal $$2x + 35 < 71$$, primero restamos 35 en amb
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** En un control de presupuesto agrícola en Ponce.
 
@@ -427,7 +427,7 @@ Para resolver la inecuación lineal $$3x + 37 < 94$$, primero restamos 37 en amb
 ## Question 19 [D9]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** En un control de presupuesto agrícola en San Juan.
 
@@ -449,7 +449,7 @@ Para resolver la inecuación lineal $$2x + 39 < 79$$, primero restamos 39 en amb
 ## Question 20 [D9]
 **ID:** PR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** En un control de presupuesto agrícola en Mayagüez.
 

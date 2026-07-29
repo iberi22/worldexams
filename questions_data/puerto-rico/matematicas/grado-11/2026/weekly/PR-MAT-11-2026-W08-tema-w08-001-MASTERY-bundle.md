@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un diseñador industrial en Caguas calcula el área de una sección de empaque.
 
@@ -44,7 +44,7 @@ Para resolver la ecuación cuadrática $x^2 + -4x + 3 = 0$, podemos factorizarla
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un diseñador industrial en Humacao calcula el área de una sección de empaque.
 
@@ -66,7 +66,7 @@ Para resolver la ecuación cuadrática $x^2 + -6x + 8 = 0$, podemos factorizarla
 ## Question 3 [D3]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un diseñador industrial en Mayagüez calcula el área de una sección de empaque.
 
@@ -88,7 +88,7 @@ Para resolver la ecuación cuadrática $x^2 + -8x + 15 = 0$, podemos factorizarl
 ## Question 4 [D3]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un diseñador industrial en Ponce calcula el área de una sección de empaque.
 
@@ -113,7 +113,7 @@ Para resolver la ecuación cuadrática $x^2 + -10x + 24 = 0$, podemos factorizar
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador industrial en San Juan calcula el área de una sección de empaque.
 
@@ -135,7 +135,7 @@ Para resolver la ecuación cuadrática $x^2 + -12x + 35 = 0$, podemos factorizar
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador industrial en Río Piedras calcula el área de una sección de empaque.
 
@@ -157,7 +157,7 @@ Para resolver la ecuación cuadrática $x^2 + -14x + 48 = 0$, podemos factorizar
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador industrial en Caguas calcula el área de una sección de empaque.
 
@@ -179,7 +179,7 @@ Para resolver la ecuación cuadrática $x^2 + -16x + 63 = 0$, podemos factorizar
 ## Question 8 [D5]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador industrial en Humacao calcula el área de una sección de empaque.
 
@@ -201,7 +201,7 @@ Para resolver la ecuación cuadrática $x^2 + -18x + 80 = 0$, podemos factorizar
 ## Question 9 [D5]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador industrial en Mayagüez calcula el área de una sección de empaque.
 
@@ -223,7 +223,7 @@ Para resolver la ecuación cuadrática $x^2 + -20x + 99 = 0$, podemos factorizar
 ## Question 10 [D5]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un diseñador industrial en Ponce calcula el área de una sección de empaque.
 
@@ -248,7 +248,7 @@ Para resolver la ecuación cuadrática $x^2 + -22x + 120 = 0$, podemos factoriza
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador industrial en San Juan calcula el área de una sección de empaque.
 
@@ -270,7 +270,7 @@ Para resolver la ecuación cuadrática $x^2 + -24x + 143 = 0$, podemos factoriza
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador industrial en Río Piedras calcula el área de una sección de empaque.
 
@@ -292,7 +292,7 @@ Para resolver la ecuación cuadrática $x^2 + -26x + 168 = 0$, podemos factoriza
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador industrial en Caguas calcula el área de una sección de empaque.
 
@@ -314,7 +314,7 @@ Para resolver la ecuación cuadrática $x^2 + -28x + 195 = 0$, podemos factoriza
 ## Question 14 [D7]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador industrial en Humacao calcula el área de una sección de empaque.
 
@@ -336,7 +336,7 @@ Para resolver la ecuación cuadrática $x^2 + -30x + 224 = 0$, podemos factoriza
 ## Question 15 [D7]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador industrial en Mayagüez calcula el área de una sección de empaque.
 
@@ -358,7 +358,7 @@ Para resolver la ecuación cuadrática $x^2 + -32x + 255 = 0$, podemos factoriza
 ## Question 16 [D7]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador industrial en Ponce calcula el área de una sección de empaque.
 
@@ -383,7 +383,7 @@ Para resolver la ecuación cuadrática $x^2 + -34x + 288 = 0$, podemos factoriza
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un diseñador industrial en San Juan calcula el área de una sección de empaque.
 
@@ -405,7 +405,7 @@ Para resolver la ecuación cuadrática $x^2 + -36x + 323 = 0$, podemos factoriza
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un diseñador industrial en Río Piedras calcula el área de una sección de empaque.
 
@@ -427,7 +427,7 @@ Para resolver la ecuación cuadrática $x^2 + -38x + 360 = 0$, podemos factoriza
 ## Question 19 [D9]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un diseñador industrial en Caguas calcula el área de una sección de empaque.
 
@@ -449,7 +449,7 @@ Para resolver la ecuación cuadrática $x^2 + -40x + 399 = 0$, podemos factoriza
 ## Question 20 [D9]
 **ID:** PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un diseñador industrial en Humacao calcula el área de una sección de empaque.
 

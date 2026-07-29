@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante en San Juan clasifica números en la recta numérica.
 
@@ -43,7 +43,7 @@ El número $-\sqrt{49}$ se simplifica directamente como $-7$. Dado que $-7$ no p
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un maestro de escuela superior en Ponce explica las propiedades de los números reales.
 
@@ -64,7 +64,7 @@ La propiedad de identidad multiplicativa establece que para cualquier número re
 ## Question 3 [D4]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Gabriela analiza los costos de un proyecto de ciencias en Bayamón.
 
@@ -85,7 +85,7 @@ Para convertir la fracción racional $\frac{5}{8}$ a su representación decimal,
 ## Question 4 [D4]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Luis toma una medida en metros en una construcción en Carolina.
 
@@ -109,7 +109,7 @@ El decimal $0.121212...$ es periódico puro con periodo $12$. Su fracción gener
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un termómetro digital en el tope de El Yunque registra variaciones de temperatura extrema.
 
@@ -130,7 +130,7 @@ Dado que la temperatura desciende, realizamos una resta sobre un valor negativo:
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Sofía estudia la recta numérica real en su clase de la Universidad de Puerto Rico.
 
@@ -151,7 +151,7 @@ La expresión $|x - y|$ mide la diferencia absoluta entre las coordenadas $x$ e 
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Diego compra materiales para su escuela por internet en Mayagüez.
 
@@ -172,7 +172,7 @@ Para calcular el total, primero hallamos el impuesto multiplicando el costo orig
 ## Question 8 [D6]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** En un laboratorio químico en Humacao, un técnico mezcla dos soluciones.
 
@@ -193,7 +193,7 @@ Convertimos la fracción a decimal o el decimal a fracción. $0.45 = \frac{45}{1
 ## Question 9 [D6]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un agricultor en Ciales divide una finca para diferentes cultivos.
 
@@ -214,7 +214,7 @@ Primero calculamos el espacio asignado: Café $= 120 \times \frac{1}{3} = 40$ cu
 ## Question 10 [D6]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un topógrafo en Rincón calcula la diferencia de altura de dos terrenos con respecto al nivel del mar.
 
@@ -238,7 +238,7 @@ La distancia vertical absoluta entre los puntos $A$ y $B$ se halla mediante el v
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En un examen de admisión universitaria, un estudiante debe simplificar expresiones complejas.
 
@@ -259,7 +259,7 @@ Simplificamos el numerador: $\frac{2}{3} - \frac{1}{4} = \frac{8 - 3}{12} = \fra
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Una tienda en Caguas anuncia un descuento del $20\%$ en abrigos, y luego un descuento adicional del $10\%$ sobre el precio ya rebajado.
 
@@ -280,7 +280,7 @@ El primer descuento del $20\%$ deja el precio en el $80\%$ del original: $80 \ti
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Sofía analiza las propiedades de clausura en diferentes conjuntos numéricos.
 
@@ -301,7 +301,7 @@ El conjunto de los números irracionales no cumple la propiedad de clausura en l
 ## Question 14 [D8]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un ingeniero en Mayagüez mide la precisión de sensores de temperatura usando diferencias de escala.
 
@@ -322,7 +322,7 @@ La desigualdad absoluta $|x - 25.42| \le 0.05$ se traduce en el intervalo $-0.05
 ## Question 15 [D8]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un programador de la Universidad de Puerto Rico evalúa expresiones booleanas y de orden real.
 
@@ -343,7 +343,7 @@ Una propiedad fundamental de las desigualdades reales establece que al multiplic
 ## Question 16 [D8]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** En un curso de cálculo en Río Piedras, se analiza la densidad de los números reales.
 
@@ -368,7 +368,7 @@ Para hallar el punto medio (promedio) de dos números, los sumamos y dividimos e
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un investigador de suelos en El Yunque analiza el contenido de humedad relativo.
 
@@ -389,7 +389,7 @@ La desigualdad absoluta de tipo mayor o igual se divide en dos casos: Caso 1: $2
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de precálculo en Mayagüez busca contraejemplos para prposiciones algebraicas.
 
@@ -410,7 +410,7 @@ La definición formal de $\sqrt{x^2}$ en los números reales es el valor absolut
 ## Question 19 [D10]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un analista financiero en San Juan estudia el valor neto de activos comerciales.
 
@@ -431,7 +431,7 @@ Resolvemos la ecuación de valor absoluto $|G - 10| = 2G - 5$. Debemos requerir 
 ## Question 20 [D10]
 **ID:** PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un profesor de matemáticas discute la densidad y cardinalidad en el plano cartesiano.
 

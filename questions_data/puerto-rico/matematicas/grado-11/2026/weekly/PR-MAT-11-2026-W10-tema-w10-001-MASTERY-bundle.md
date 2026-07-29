@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un ingeniero en San Juan analiza la trayectoria parabólica de un chorro de agua.
 
@@ -44,7 +44,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un ingeniero en Ponce analiza la trayectoria parabólica de un chorro de agua.
 
@@ -66,7 +66,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 3 [D3]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un ingeniero en Bayamón analiza la trayectoria parabólica de un chorro de agua.
 
@@ -88,7 +88,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 4 [D3]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un ingeniero en Mayagüez analiza la trayectoria parabólica de un chorro de agua.
 
@@ -113,7 +113,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en Guaynabo analiza la trayectoria parabólica de un chorro de agua.
 
@@ -135,7 +135,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en Rincón analiza la trayectoria parabólica de un chorro de agua.
 
@@ -157,7 +157,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en San Juan analiza la trayectoria parabólica de un chorro de agua.
 
@@ -179,7 +179,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 8 [D5]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en Ponce analiza la trayectoria parabólica de un chorro de agua.
 
@@ -201,7 +201,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 9 [D5]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en Bayamón analiza la trayectoria parabólica de un chorro de agua.
 
@@ -223,7 +223,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 10 [D5]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero en Mayagüez analiza la trayectoria parabólica de un chorro de agua.
 
@@ -248,7 +248,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero en Guaynabo analiza la trayectoria parabólica de un chorro de agua.
 
@@ -270,7 +270,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero en Rincón analiza la trayectoria parabólica de un chorro de agua.
 
@@ -292,7 +292,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero en San Juan analiza la trayectoria parabólica de un chorro de agua.
 
@@ -314,7 +314,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 14 [D7]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero en Ponce analiza la trayectoria parabólica de un chorro de agua.
 
@@ -336,7 +336,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 15 [D7]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero en Bayamón analiza la trayectoria parabólica de un chorro de agua.
 
@@ -358,7 +358,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 16 [D7]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un ingeniero en Mayagüez analiza la trayectoria parabólica de un chorro de agua.
 
@@ -383,7 +383,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un ingeniero en Guaynabo analiza la trayectoria parabólica de un chorro de agua.
 
@@ -405,7 +405,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un ingeniero en Rincón analiza la trayectoria parabólica de un chorro de agua.
 
@@ -427,7 +427,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 19 [D9]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un ingeniero en San Juan analiza la trayectoria parabólica de un chorro de agua.
 
@@ -449,7 +449,7 @@ Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la for
 ## Question 20 [D9]
 **ID:** PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un ingeniero en Ponce analiza la trayectoria parabólica de un chorro de agua.
 

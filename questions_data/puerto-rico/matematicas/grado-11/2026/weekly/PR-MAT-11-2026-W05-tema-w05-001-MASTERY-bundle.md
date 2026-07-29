@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** En una escuela superior de San Juan.
 
@@ -43,7 +43,7 @@ Una ecuación lineal es una igualdad condicional que se cumple solo para ciertos
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** En un taller de matemáticas en Ponce.
 
@@ -64,7 +64,7 @@ El primer paso consiste en aislar los términos constantes de los términos alge
 ## Question 3 [D3]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Durante una clase en Bayamón.
 
@@ -85,7 +85,7 @@ Desarrollando: $3x - 6 = 12 \Rightarrow 3x = 18 \Rightarrow x = 6$.
 ## Question 4 [D4]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Diego realiza una estimación en Mayagüez.
 
@@ -109,7 +109,7 @@ $5x - 2x = 11 + 4 \Rightarrow 3x = 15 \Rightarrow x = 5$.
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un técnico de sistemas en Carolina.
 
@@ -130,7 +130,7 @@ Multiplicando todo por el mínimo común múltiplo (6) se eliminan fracciones: $
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Sofía estudia ecuaciones en Caguas.
 
@@ -151,7 +151,7 @@ Agrupando términos semejantes: $8x - 6x = 2 + 12 \Rightarrow 2x = 14 \Rightarro
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Luis compra materiales en Plaza Las Américas.
 
@@ -172,7 +172,7 @@ Planteando la ecuación: $3x + 2 = 11 \Rightarrow 3x = 9 \Rightarrow x = 3$ dól
 ## Question 8 [D6]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Carmen y Diego compran entradas para el teatro en Ponce.
 
@@ -193,7 +193,7 @@ Si $x$ es la entrada de Diego, la de Carmen es $2x$: $x + 2x = 45 \Rightarrow 3x
 ## Question 9 [D6]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un carpintero en Humacao corta una regla de madera.
 
@@ -214,7 +214,7 @@ La ecuación es $3x + 3 = 72 \Rightarrow 3x = 69 \Rightarrow x = 23$. Los entero
 ## Question 10 [D6]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** En una cooperativa de Mayagüez.
 
@@ -238,7 +238,7 @@ Despejando: $3x - 1 = 20 \Rightarrow 3x = 21 \Rightarrow x = 7$.
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un comerciante en Carolina prepara mezclas de café.
 
@@ -259,7 +259,7 @@ Planteamos balance de costos: $8x + 5(10) = 6(x + 10) \Rightarrow 8x + 50 = 6x +
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un automóvil viaja entre Ponce y San Juan.
 
@@ -280,7 +280,7 @@ Sumamos velocidades relativas: $60t + 40t = 70 \Rightarrow 100t = 70 \Rightarrow
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En la clase de cálculo de Río Piedras.
 
@@ -301,7 +301,7 @@ Al simplificar ambos lados, la ecuación se reduce a $-1 = -1$, lo cual es una i
 ## Question 14 [D8]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un examen de álgebra de la UPR.
 
@@ -322,7 +322,7 @@ Al cancelar términos, la igualdad nos lleva a una falsedad matemática: $3 = -5
 ## Question 15 [D8]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un analista de datos de Carolina.
 
@@ -343,7 +343,7 @@ Restamos $b$ y luego dividimos por $a$ ambos miembros de la ecuación.
 ## Question 16 [D8]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** En Ponce, se examina una ecuación lineal fraccionaria compleja.
 
@@ -367,7 +367,7 @@ Multiplicar cada miembro por el MCM de los denominadores remueve por completo la
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un ingeniero civil en Humacao modela las presiones hidráulicas.
 
@@ -388,7 +388,7 @@ Multiplicando de forma cruzada obtenemos una ecuación lineal: $2x + 4 = 3x - 3 
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un investigador en Mayagüez analiza la elasticidad de un material.
 
@@ -409,7 +409,7 @@ Si $k=4$, los términos con la variable $x$ se cancelan en ambos lados, producie
 ## Question 19 [D10]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** En Bayamón, se analiza un problema avanzado de costos de producción.
 
@@ -430,7 +430,7 @@ Desarrollando los corchetes y agrupando fracciones, obtenemos la solución exact
 ## Question 20 [D10]
 **ID:** PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un analista de transporte en Ponce modela la logística comercial.
 

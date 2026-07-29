@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Una tienda en Ponce vende artesanías de recordatorios.
 
@@ -43,7 +43,7 @@ Establecemos la proporción $\frac{3}{5} = \frac{15}{x}$. Multiplicando de forma
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Diego calcula el rendimiento de gasolina de su automóvil.
 
@@ -64,7 +64,7 @@ El rendimiento en millas por galón es la división de las millas recorridas ent
 ## Question 3 [D4]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** En un mapa del Bosque Seco de Guánica, se utiliza una escala lineal.
 
@@ -85,7 +85,7 @@ Establecemos la proporción $\frac{2}{5} = \frac{10}{x}$. Al despejar $x$, obten
 ## Question 4 [D4]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Una tienda en Plaza Las Américas ofrece descuentos en abrigos.
 
@@ -109,7 +109,7 @@ El ahorro se halla multiplicando el precio regular por la tasa de descuento: $12
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Luis analiza la asistencia de estudiantes a tutorías.
 
@@ -130,7 +130,7 @@ Para hallar el porcentaje, dividimos la parte entre el todo y multiplicamos por 
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un contratista en Carolina prepara una mezcla de concreto.
 
@@ -151,7 +151,7 @@ La razón total de partes es $1+2+4 = 7$ partes. Como $1$ parte de cemento equiv
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Una planta en Bayamón analiza el control de calidad de dispositivos.
 
@@ -172,7 +172,7 @@ Calculamos los defectuosos: $1,200 \times 0.015 = 18$ dispositivos. Los que cump
 ## Question 8 [D6]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Carmen deposita dinero en una cooperativa de Puerto Rico.
 
@@ -193,7 +193,7 @@ Usando la fórmula de interés simple $I = P \cdot r \cdot t$: $I = 2,500 \times
 ## Question 9 [D6]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un supermercado en Mayagüez vende café en dos tamaños de paquetes.
 
@@ -214,7 +214,7 @@ Dividimos precio entre peso: Paquete A: $\$6.00 \div 12 = \$0.50$/oz. Paquete B:
 ## Question 10 [D6]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un atleta en Ponce registra su distancia recorrida en entrenamiento.
 
@@ -238,7 +238,7 @@ Establecemos la proporción $\frac{12}{90} = \frac{x}{150}$. Despejando $x$: $x 
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Una panadería en San Juan mezcla harina integral y harina blanca.
 
@@ -259,7 +259,7 @@ La proporción consta de $2 + 3 = 5$ partes. La harina integral es $\frac{2}{5}$
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un banco en Hato Rey otorga préstamos de desarrollo.
 
@@ -280,7 +280,7 @@ El interés acumulado es $10,000 \times 0.06 \times 4 = 2,400$. El total a pagar
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un analista en Guaynabo estudia rentabilidades de carteras de inversión.
 
@@ -301,7 +301,7 @@ Cartera A: $1,000 \times 1.20 \times 0.90 = 1,080$ dólares. Cartera B: $1,000 \
 ## Question 14 [D8]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un contratista compara costos unitarios de asfalto en Humacao.
 
@@ -322,7 +322,7 @@ Precio unitario original: $450 \div 3 = 150$. Precio nuevo: $800 \div 5 = 160$. 
 ## Question 15 [D8]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un curso de economía en la UPR analiza el comportamiento de la inflación.
 
@@ -343,7 +343,7 @@ Usando interés compuesto: $C = 5.00 \times (1.04)^2 = 5.408$ dólares, que redo
 ## Question 16 [D8]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Luis desea comprar uniformes para su equipo en Carolina.
 
@@ -367,7 +367,7 @@ Se aplica el descuento del $15\%$ al precio de cada uniforme: $25 \times 0.85 = 
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un inversionista evalúa opciones de financiamiento en San Juan.
 
@@ -388,7 +388,7 @@ Opción A: $I = 50,000 \times 0.08 \times 5 = 20,000$. Opción B: $I = 50,000(1.
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un analista en Ponce estudia las proporciones de una mezcla de pintura.
 
@@ -409,7 +409,7 @@ Pigmento total: $(8 \times 0.10) + (12 \times 0.20) = 0.8 + 2.4 = 3.2$ galones. 
 ## Question 19 [D10]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Una cooperativa de ahorro en San Juan ofrece cuentas de inversión.
 
@@ -430,7 +430,7 @@ Capitalización trimestral implica $n = 4$ periodos anuales. La tasa trimestral 
 ## Question 20 [D10]
 **ID:** PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un contratista en Puerto Rico analiza costos de transporte de carga.
 

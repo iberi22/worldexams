@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante en Bayamón identifica productos notables.
 
@@ -43,7 +43,7 @@ El cuadrado del binomio es $x^2 + 2(5)x + 5^2 = x^2 + 10x + 25$.
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** En una tutoría en Ponce se repasa la factorización de diferencias.
 
@@ -64,7 +64,7 @@ $x^2 - 36$ es diferencia de cuadrados y se factoriza como $(x-6)(x+6)$.
 ## Question 3 [D4]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** En San Juan, se explica la simplificación de fracciones algebraicas.
 
@@ -85,7 +85,7 @@ Simplificamos: $\frac{(x-2)(x+2)}{x-2} = x+2$.
 ## Question 4 [D4]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en Carolina realiza operaciones con polinomios.
 
@@ -109,7 +109,7 @@ Restando términos semejantes: $2x^2 + 2x + 7$.
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Diego evalúa expresiones algebraicas en Mayagüez.
 
@@ -130,7 +130,7 @@ Sustituimos: $2^3 - 3(2^2) + 2 - 2 = 8 - 12 + 0 = -4$.
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** En una clase avanzada en Hato Rey, se enseña factorización.
 
@@ -151,7 +151,7 @@ Agrupamos: $x^2(x+2) - 3(x+2) = (x^2-3)(x+2)$.
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un arquitecto en Humacao diseña una sala rectangular.
 
@@ -172,7 +172,7 @@ El área es la multiplicación: $(2x+3)(x-1) = 2x^2 + x - 3$.
 ## Question 8 [D6]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un contratista calcula el área de un patio cuadrado.
 
@@ -193,7 +193,7 @@ El área es $(3x-4)^2 = 9x^2 - 24x + 16$.
 ## Question 9 [D6]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Bayamón simplifica un trinomio.
 
@@ -214,7 +214,7 @@ Se factoriza buscando descomponer el término central: $(2x+1)(x+3)$.
 ## Question 10 [D6]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** En una escuela en Carolina, se analiza la división polinómica.
 
@@ -238,7 +238,7 @@ Evaluamos el polinomio en $x=3$: $3^3 - 4(3^2) + 3 + 6 = 27-36+9 = 0$.
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un programador en San Juan simplifica una expresión racional.
 
@@ -259,7 +259,7 @@ Se transforma la división en multiplicación por el recíproco y se cancelan t�
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se pide simplificar la suma de fracciones en Mayagüez.
 
@@ -280,7 +280,7 @@ Sumamos usando común denominador: $\frac{2(x+1)+3(x-1)}{x^2-1} = \frac{5x-1}{x^
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un analista de sistemas en Guaynabo descompone un polinomio.
 
@@ -301,7 +301,7 @@ Factorización agrupando: $(x^2-4)(x-1) = (x-2)(x+2)(x-1)$.
 ## Question 14 [D8]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Se factoriza una diferencia de cubos en Mayagüez.
 
@@ -322,7 +322,7 @@ Fórmula de diferencia de cubos: $a^3 - b^3 = (a-b)(a^2+ab+b^2)$. Aquí $a=x$ y 
 ## Question 15 [D8]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un agrónomo en Ciales modela el crecimiento.
 
@@ -343,7 +343,7 @@ Numerador factorizado es $(x^2-4)(x+3)$. Al dividir por el denominador obtenemos
 ## Question 16 [D8]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Diego simplifica una expresión racional con exponentes.
 
@@ -367,7 +367,7 @@ Dividimos cada término del polinomio entre el monomio: $2x^2 - 3xy$.
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un profesor en Río Piedras evalúa identidades algebraicas.
 
@@ -388,7 +388,7 @@ El desarrollo de un binomio al cubo es: $(x+y)^3 = x^3 + 3x^2y + 3xy^2 + y^3$.
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Se analiza la descomposición de un polinomio en Mayagüez.
 
@@ -409,7 +409,7 @@ Hacemos sustitución cuadrática: $(x^2-4)(x^2-9)$, luego factorizamos como bino
 ## Question 19 [D10]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un ingeniero en Carolina modela flujo de líquidos.
 
@@ -430,7 +430,7 @@ Numerador es $\frac{x - (x+h)}{x(x+h)} = \frac{-h}{x(x+h)}$. Dividiendo por $h$,
 ## Question 20 [D10]
 **ID:** PR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un maestro de Ponce evalúa la descomposición de fracciones.
 

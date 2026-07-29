@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudio de costos logísticos se realiza en Ponce.
 
@@ -45,7 +45,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) 
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudio de costos logísticos se realiza en Bayamón.
 
@@ -68,7 +68,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) 
 ## Question 3 [D3]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudio de costos logísticos se realiza en Mayagüez.
 
@@ -91,7 +91,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) 
 ## Question 4 [D3]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudio de costos logísticos se realiza en Carolina.
 
@@ -117,7 +117,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) 
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudio de costos logísticos se realiza en Caguas.
 
@@ -140,7 +140,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) 
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudio de costos logísticos se realiza en San Juan.
 
@@ -163,7 +163,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) 
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudio de costos logísticos se realiza en Ponce.
 
@@ -186,7 +186,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) 
 ## Question 8 [D5]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudio de costos logísticos se realiza en Bayamón.
 
@@ -209,7 +209,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) 
 ## Question 9 [D5]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudio de costos logísticos se realiza en Mayagüez.
 
@@ -232,7 +232,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) 
 ## Question 10 [D5]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudio de costos logísticos se realiza en Carolina.
 
@@ -258,7 +258,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) 
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudio de costos logísticos se realiza en Caguas.
 
@@ -281,7 +281,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) 
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudio de costos logísticos se realiza en San Juan.
 
@@ -304,7 +304,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) 
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudio de costos logísticos se realiza en Ponce.
 
@@ -327,7 +327,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) 
 ## Question 14 [D7]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudio de costos logísticos se realiza en Bayamón.
 
@@ -350,7 +350,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) 
 ## Question 15 [D7]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudio de costos logísticos se realiza en Mayagüez.
 
@@ -373,7 +373,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) 
 ## Question 16 [D7]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudio de costos logísticos se realiza en Carolina.
 
@@ -399,7 +399,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) 
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudio de costos logísticos se realiza en Caguas.
 
@@ -422,7 +422,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) 
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudio de costos logísticos se realiza en San Juan.
 
@@ -445,7 +445,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) 
 ## Question 19 [D9]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudio de costos logísticos se realiza en Ponce.
 
@@ -468,7 +468,7 @@ Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) 
 ## Question 20 [D9]
 **ID:** PR-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudio de costos logísticos se realiza en Bayamón.
 

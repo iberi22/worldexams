@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante en San Juan repasa las leyes de exponentes en su libro.
 
@@ -43,7 +43,7 @@ La potencia de una potencia requiere multiplicar los exponentes: $(2^3)^2 = 2^6 
 ## Question 2 [D3]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.70
 **Contexto:** En una tutoría en Ponce se discute la raíz cuadrada de fracciones.
 
@@ -64,7 +64,7 @@ Aplicamos la raíz al numerador y denominador de forma independiente: $\sqrt{\fr
 ## Question 3 [D4]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en Mayagüez simplifica términos algebraicos.
 
@@ -85,7 +85,7 @@ Por definición de exponentes negativos, $x^{-n} = \frac{1}{x^n}$.
 ## Question 4 [D4]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.65
 **Contexto:** En Bayamón, se analiza el comportamiento de raíces impares.
 
@@ -109,7 +109,7 @@ La raíz de índice impar de un número real negativo existe en el campo real y 
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un técnico en Carolina calcula la resistencia eléctrica.
 
@@ -130,7 +130,7 @@ Multiplicando potencias de igual base se suman los exponentes: $x^7 \cdot x^{-2}
 ## Question 6 [D5]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** En una clase de álgebra en Caguas, se estudia la ley de exponentes fraccionarios.
 
@@ -151,7 +151,7 @@ Por la definición de exponente fraccionario, $x^{a/b} = \sqrt[b]{x^a}$.
 ## Question 7 [D5]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un carpintero en Humacao calcula el volumen de un cubo.
 
@@ -172,7 +172,7 @@ La arista de un cubo con volumen $V$ es $\sqrt[3]{V}$. Como $125 = 5^3$, la medi
 ## Question 8 [D6]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un contratista en San Juan calcula el largo de un terreno cuadrado.
 
@@ -193,7 +193,7 @@ El lado mide $\sqrt{18}$. Simplificando el radical: $\sqrt{18} = \sqrt{9 \times 
 ## Question 9 [D6]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante en Ponce simplifica radicales semejantes.
 
@@ -214,7 +214,7 @@ Simplificando: $3\sqrt{8} = 6\sqrt{2}$ y $2\sqrt{18} = 6\sqrt{2}$. Al restar se 
 ## Question 10 [D6]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un topógrafo en Bayamón evalúa las dimensiones de un lote rectangular.
 
@@ -238,7 +238,7 @@ Si el largo es $2\sqrt{3}\text{ m}$ y el ancho es $4\sqrt{3}\text{ m}$, ¿cuál 
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de la UPR simplifica expresiones con exponentes.
 
@@ -259,7 +259,7 @@ Numerador: $(\sqrt[3]{27})^2 = 3^2 = 9$. Denominador: $\sqrt[4]{16} = 2$. El coc
 ## Question 12 [D7]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** En una clase de matemáticas en Carolina, se racionalizan denominadores.
 
@@ -280,7 +280,7 @@ Multiplicando por $\frac{\sqrt{3}}{\sqrt{3}}$, obtenemos $\frac{6\sqrt{3}}{3} = 
 ## Question 13 [D7]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Diego analiza bacterias en un laboratorio de Mayagüez.
 
@@ -301,7 +301,7 @@ Fórmula: $100 \times 2^{2.5} = 100 \times 2^2 \times 2^{1/2} = 400\sqrt{2}$ bac
 ## Question 14 [D8]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Se pide racionalizar una expresión de tipo binomio.
 
@@ -322,7 +322,7 @@ Multiplicamos por el conjugado: $\frac{2(\sqrt{5}+1)}{(\sqrt{5}-1)(\sqrt{5}+1)} 
 ## Question 15 [D8]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** En Ponce, un contratista analiza cómo cambia el volumen de un cubo.
 
@@ -343,7 +343,7 @@ El volumen es el cubo de la arista. Al triplicar el lado, el volumen se multipli
 ## Question 16 [D8]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un estudiante en Bayamón resuelve una ecuación radical.
 
@@ -367,7 +367,7 @@ Elevando al cuadrado: $3x - 2 = 16 \Rightarrow 3x = 18 \Rightarrow x = 6$. Verif
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un ingeniero civil en San Juan evalúa fuerzas sobre una viga.
 
@@ -388,7 +388,7 @@ Numerador: $a^3 \cdot b^{3/2}$. Al dividir restamos exponentes: $a^{3-1} \cdot b
 ## Question 18 [D9]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.40
 **Contexto:** En Mayagüez, se simplifica un radical de grado tres.
 
@@ -409,7 +409,7 @@ Separando factores cúbicos perfectos: $\sqrt[3]{27 \cdot 2 \cdot x^3 \cdot x^2 
 ## Question 19 [D10]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante en Bayamón resuelve una ecuación cuadrática racional.
 
@@ -430,7 +430,7 @@ Elevando a la $3/2$: $x = \pm (\sqrt{9})^3 = \pm 3^3 = \pm 27$. Ambas soluciones
 ## Question 20 [D10]
 **ID:** PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un maestro de Ponce evalúa la unidad imaginaria.
 
