@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T02:17:15.697Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "¿Qué término describe a una igualdad condicional que es verdadera para solo ciertos valores de la variable?",
+      "context": "En una escuela superior de San Juan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ecuación",
+          "is_correct": true,
+          "feedback": "Correcto. Una ecuación es una de primer grado o grado n condicional."
+        },
+        {
+          "letter": "B",
+          "text": "Identidad",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Expresión",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Función",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una ecuación lineal es una igualdad condicional que se cumple solo para ciertos valores.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el primer paso para aislar la variable en la ecuación de la forma $ax + b = c$ con $a \\neq 0$?",
+      "context": "En un taller de matemáticas en Ponce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restar $b$ en ambos lados.",
+          "is_correct": true,
+          "feedback": "Correcto. Se resta la constante para aislar el término variable."
+        },
+        {
+          "letter": "B",
+          "text": "Dividir por $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar $c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar por $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El primer paso consiste en aislar los términos constantes de los términos algebraicos restando $b$ de ambos lados.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "Resuelve la ecuación lineal: $3(x - 2) = 12$.",
+      "context": "Durante una clase en Bayamón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x - 6 = 12 \\Rightarrow 3x = 18 \\Rightarrow x = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Desarrollando: $3x - 6 = 12 \\Rightarrow 3x = 18 \\Rightarrow x = 6$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "Encuentra el conjunto solución para la ecuación: $5x - 4 = 2x + 11$.",
+      "context": "Diego realiza una estimación en Mayagüez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x = 15 \\Rightarrow x = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$5x - 2x = 11 + 4 \\Rightarrow 3x = 15 \\Rightarrow x = 5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "Resuelve la ecuación: $\\frac{x}{2} + \\frac{x}{3} = 5$.",
+      "context": "Un técnico de sistemas en Carolina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por 6: $3x + 2x = 30 \\Rightarrow x = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando todo por el mínimo común múltiplo (6) se eliminan fracciones: $3x + 2x = 30 \\Rightarrow 5x = 30 \\Rightarrow x = 6$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "Resuelve para $x$: $4(2x - 3) = 2(3x + 1)$.",
+      "context": "Sofía estudia ecuaciones en Caguas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7$",
+          "is_correct": true,
+          "feedback": "Correcto. $8x - 12 = 6x + 2 \\Rightarrow 2x = 14 \\Rightarrow x = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando términos semejantes: $8x - 6x = 2 + 12 \\Rightarrow 2x = 14 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "Luis compra $3$ libretas y un bolígrafo de $\\$2.00$ por un total de $\\$11.00$. ¿Cuánto costó cada libreta?",
+      "context": "Luis compra materiales en Plaza Las Américas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$3.00$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x + 2 = 11 \\Rightarrow 3x = 9 \\Rightarrow x = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$4.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$2.50$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$3.50$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteando la ecuación: $3x + 2 = 11 \\Rightarrow 3x = 9 \\Rightarrow x = 3$ dólares.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "La entrada de Carmen costó el doble que la de Diego. Si juntos pagaron $\\$45$, ¿cuánto costó la de Diego?",
+      "context": "Carmen y Diego compran entradas para el teatro en Ponce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$15$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x + x = 45 \\Rightarrow 3x = 45 \\Rightarrow x = 15$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el precio de la entrada de Carmen."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$20$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$22.50$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si $x$ es la entrada de Diego, la de Carmen es $2x$: $x + 2x = 45 \\Rightarrow 3x = 45 \\Rightarrow x = 15$ dólares.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "La suma de tres números enteros consecutivos es $72$. ¿Cuál es el mayor de estos enteros?",
+      "context": "Un carpintero en Humacao corta una regla de madera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "Correcto. $x + (x+1) + (x+2) = 72 \\Rightarrow 3x = 69 \\Rightarrow x = 23$. El mayor es $25$."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "26",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación es $3x + 3 = 72 \\Rightarrow 3x = 69 \\Rightarrow x = 23$. Los enteros son $23$, $24$ y $25$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "Resuelve para $x$: $\\frac{3x - 1}{4} = 5$.",
+      "context": "En una cooperativa de Mayagüez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x - 1 = 20 \\Rightarrow 3x = 21 \\Rightarrow x = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6.33$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando: $3x - 1 = 20 \\Rightarrow 3x = 21 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "Mezcla $x$ libras de café de $\\$8$ la libra con $10$ libras de café de $\\$5$ la libra. Si desea que la mezcla cueste $\\$6$ la libra, ¿cuántas libras de café de $\\$8$ debe usar?",
+      "context": "Un comerciante en Carolina prepara mezclas de café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 libras",
+          "is_correct": true,
+          "feedback": "Correcto. $8x + 50 = 6(x + 10) \\Rightarrow 2x = 10 \\Rightarrow x = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "10 libras",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "4 libras",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "8 libras",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos balance de costos: $8x + 5(10) = 6(x + 10) \\Rightarrow 8x + 50 = 6x + 60 \\Rightarrow 2x = 10 \\Rightarrow x = 5$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "Un auto A sale de Ponce a $60\\text{ mph}$ y un auto B sale de San Juan al mismo tiempo hacia Ponce a $40\\text{ mph}$. Si la distancia es de $70\\text{ millas}$, ¿en cuántas horas se encontrarán?",
+      "context": "Un automóvil viaja entre Ponce y San Juan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.7\\text{ horas}$",
+          "is_correct": true,
+          "feedback": "Correcto. $60t + 40t = 70 \\Rightarrow 100t = 70 \\Rightarrow t = 0.7$."
+        },
+        {
+          "letter": "B",
+          "text": "$1.0\\text{ hora}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$1.4\\text{ horas}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$0.5\\text{ horas}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumamos velocidades relativas: $60t + 40t = 70 \\Rightarrow 100t = 70 \\Rightarrow t = 0.7$ horas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "¿Cuántas soluciones reales tiene la ecuación lineal: $2(x - 3) + 5 = 2x - 1$?",
+      "context": "En la clase de cálculo de Río Piedras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinitas soluciones.",
+          "is_correct": true,
+          "feedback": "Correcto. $2x - 1 = 2x - 1$, es una identidad."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Solución única.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al simplificar ambos lados, la ecuación se reduce a $-1 = -1$, lo cual es una identidad real verdadera para todo valor.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el conjunto solución de la ecuación lineal: $3(2x + 1) = 6x - 5$?",
+      "context": "Un examen de álgebra de la UPR.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conjunto vacío (no tiene solución).",
+          "is_correct": true,
+          "feedback": "Correcto. $6x + 3 = 6x - 5 \\Rightarrow 3 = -5$, contradicción."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al cancelar términos, la igualdad nos lleva a una falsedad matemática: $3 = -5$. No existe ningún valor que lo cumpla.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "Dada la ecuación literal $ax + b = c$ con $a \\neq 0$, ¿cuál es el valor de $x$ expresado en términos de las otras variables?",
+      "context": "Un analista de datos de Carolina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{c - b}{a}$",
+          "is_correct": true,
+          "feedback": "Correcto. $ax = c - b \\Rightarrow x = (c - b)/a$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{c + b}{a}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = a(c - b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{b - c}{a}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restamos $b$ y luego dividimos por $a$ ambos miembros de la ecuación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "Al resolver la ecuación $\\frac{x}{3} - \\frac{x - 1}{2} = 1$, ¿cuál es el primer paso correcto para eliminar los denominadores?",
+      "context": "En Ponce, se examina una ecuación lineal fraccionaria compleja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Multiplicar cada término por 6.",
+          "is_correct": true,
+          "feedback": "Correcto. 6 es el MCM de los denominadores."
+        },
+        {
+          "letter": "B",
+          "text": "Multiplicar solo el numerador por 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Restar 1 en ambos lados.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Dividir todo entre 6.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar cada miembro por el MCM de los denominadores remueve por completo las fracciones de la ecuación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "Resuelve la ecuación con la variable en el denominador: $\\frac{2}{x - 1} = \\frac{3}{x + 2}$.",
+      "context": "Un ingeniero civil en Humacao modela las presiones hidráulicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7$",
+          "is_correct": true,
+          "feedback": "Correcto. $2(x+2) = 3(x-1) \\Rightarrow x = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -7$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando de forma cruzada obtenemos una ecuación lineal: $2x + 4 = 3x - 3 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "¿Para qué valor de la constante $k$ la ecuación lineal $4x - 7 = k(x + 2)$ no tiene solución real única para $x$?",
+      "context": "Un investigador en Mayagüez analiza la elasticidad de un material.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $4x - 7 = 4x + 8 \\Rightarrow -7 = 8$, contradicción."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$k = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si $k=4$, los términos con la variable $x$ se cancelan en ambos lados, produciendo una contradicción sin solución.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "Resuelve la ecuación: $\\frac{1}{2}[3x - 4(x - 1)] = \\frac{2}{3}x - 1$.",
+      "context": "En Bayamón, se analiza un problema avanzado de costos de producción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{18}{7}$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando todo por 6 se simplifica el cálculo."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{6}{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Desarrollando los corchetes y agrupando fracciones, obtenemos la solución exacta $x = \\frac{18}{7}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "El costo total de un camión está dado por el modelo lineal $C(x) = 150x + 500$, donde $x$ es el número de viajes. Si el presupuesto asignado es de $\\$5,000$ y se requiere que el costo total de transporte no supere el $80\\%$ de dicho presupuesto, ¿cuál es el número máximo de viajes permitidos?",
+      "context": "Un analista de transporte en Ponce modela la logística comercial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23 viajes",
+          "is_correct": true,
+          "feedback": "Correcto. $150x + 500 \\le 4000 \\Rightarrow 150x \\le 3500 \\Rightarrow x \\le 23.33$."
+        },
+        {
+          "letter": "B",
+          "text": "26 viajes",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "30 viajes",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "20 viajes",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El $80\\%$ de $\\$5,000$ es $\\$4,000$. Resolviendo $150x + 500 \\le 4,000$ nos da $x \\le 23.33$, de modo que el entero máximo es 23 viajes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
