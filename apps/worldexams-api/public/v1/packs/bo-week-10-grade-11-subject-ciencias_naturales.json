@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-10-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-29T02:17:36.152Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar tipo de reacción donde dos o más reactivos se combinan químicamente para formar un único producto, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de síntesis o adición",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tipo de reacción donde dos o más reactivos se combinan químicamente para formar un único producto."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de descomposición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de sustitución simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción de doble sustitución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reacción de síntesis o adición. Científicamente, esto se explica por la unión covalente o iónica que simplifica el número de sustancias presentes. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción química donde un solo reactivo complejo se rompe para dar lugar a dos o más productos sencillos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de descomposición",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción química donde un solo reactivo complejo se rompe para dar lugar a dos o más productos sencillos."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de adición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de sustitución simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción de óxido-reducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reacción de descomposición. Científicamente, esto se explica por la ruptura de enlaces inducida por calor (pirólisis) o electricidad (electrólisis). Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción donde un elemento libre desplaza y reemplaza a otro elemento menos activo en un compuesto químico, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de sustitución simple (desplazamiento)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción donde un elemento libre desplaza y reemplaza a otro elemento menos activo en un compuesto químico."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de doble sustitución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de adición",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción redox completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reacción de sustitución simple (desplazamiento). Científicamente, esto se explica por la serie de actividad de metales que determina la espontaneidad del desplazamiento iónico. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción donde ocurre un intercambio de iones entre dos compuestos disueltos, formando un precipitado, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de doble sustitución (metátesis)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción donde ocurre un intercambio de iones entre dos compuestos disueltos, formando un precipitado."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de sustitución simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de síntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción endotérmica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reacción de doble sustitución (metátesis). Científicamente, esto se explica por la formación de sustancias insolubles o agua que impulsa la reacción hacia adelante. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar establece que en toda reacción química la masa total de los reactivos es igual a la masa total de los productos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ley de conservación de la masa (lavoisier)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a establece que en toda reacción química la masa total de los reactivos es igual a la masa total de los productos."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de proporciones definidas (proust)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La ley de proporciones múltiples",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "La ley de conservación de energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La ley de conservación de la masa (lavoisier). Científicamente, esto se explica por el balanceo obligado de átomos en ambos lados de la ecuación química balances. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar método de ajuste de ecuaciones que consiste en modificar solo los coeficientes estequiométricos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Balanceo por tanteo (inspección)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a método de ajuste de ecuaciones que consiste en modificar solo los coeficientes estequiométricos."
+        },
+        {
+          "letter": "B",
+          "text": "Balanceo algebraico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Balanceo por ion-electrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Balanceo redox indirecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Balanceo por tanteo (inspección). Científicamente, esto se explica por la asignación empírica sucesiva de coeficientes para igualar el número de átomos de cada elemento. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar unidad fundamental del SI que contiene exactamente 6.022 x 10^23 entidades elementales de materia, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mol",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a unidad fundamental del SI que contiene exactamente 6.022 x 10^23 entidades elementales de materia."
+        },
+        {
+          "letter": "B",
+          "text": "El átomo-gramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El número de avogadro",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "La masa molar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El mol. Científicamente, esto se explica por la cantidad de sustancia que equivale a la masa atómica expresada en gramos de materia. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar número de entidades químicas individuales presentes exactamente en un mol de cualquier sustancia pura, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.022 x 10^23 moléculas",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a número de entidades químicas individuales presentes exactamente en un mol de cualquier sustancia pura."
+        },
+        {
+          "letter": "B",
+          "text": "3.011 x 10^23 moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "1.204 x 10^24 moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "6.022 x 10^22 moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es 6.022 x 10^23 moléculas. Científicamente, esto se explica por la constante fundamental de Avogadro que conecta la escala micro con la escala macroscópica. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar masa de un mol de sustancia expresada en gramos por mol (g/mol) equivalente a su peso molecular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa molar",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a masa de un mol de sustancia expresada en gramos por mol (g/mol) equivalente a su peso molecular."
+        },
+        {
+          "letter": "B",
+          "text": "La masa atómica media",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El peso molecular relativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "El volumen molar estándar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La masa molar. Científicamente, esto se explica por la suma ponderada de las masas atómicas de los elementos constituyentes de la fórmula. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar proporción de moles de reactivos y productos definida por los coeficientes de la ecuación balanceada, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relación molar estequiométrica",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proporción de moles de reactivos y productos definida por los coeficientes de la ecuación balanceada."
+        },
+        {
+          "letter": "B",
+          "text": "Relación de masa ponderada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Relación volumétrica gaseosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Coeficiente limitante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Relación molar estequiométrica. Científicamente, esto se explica por la base matemática para realizar cálculos de conversión mole a mole en estequiometría. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción de un hidrocarburo con oxígeno que produce exclusivamente dióxido de carbono, agua y calor energético, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de combustión completa",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción de un hidrocarburo con oxígeno que produce exclusivamente dióxido de carbono, agua y calor energético."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de combustión incompleta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de pirólisis simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción de descomposición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reacción de combustión completa. Científicamente, esto se explica por la oxidación total del carbono en presencia de abundante aporte de gas oxígeno. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción con aporte deficiente de oxígeno que produce monóxido de carbono tóxico y hollín negro, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de combustión incompleta",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción con aporte deficiente de oxígeno que produce monóxido de carbono tóxico y hollín negro."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de combustión completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Neutralización ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Oxidación lenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reacción de combustión incompleta. Científicamente, esto se explica por la combustión ineficiente que genera gases altamente peligrosos por asfixia celular. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción entre un ácido y una base que produce una sal mineral neutra soluble y agua líquida, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neutralización ácido-base",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción entre un ácido y una base que produce una sal mineral neutra soluble y agua líquida."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de precipitación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de óxido-reducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción de adición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Neutralización ácido-base. Científicamente, esto se explica por la combinación de protones de hidrógeno con iones hidróxido para formar agua. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacciones químicas caracterizadas por la transferencia de electrones entre las especies químicas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de óxido-reducción (redox)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacciones químicas caracterizadas por la transferencia de electrones entre las especies químicas."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de doble sustitución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción endotérmica pura",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Neutralización ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reacción de óxido-reducción (redox). Científicamente, esto se explica por el cambio simultáneo en los números de oxidación de los átomos participantes. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar carga aparente que adquiere un átomo en un compuesto al asignarle todos los electrones de enlace, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de oxidación",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a carga aparente que adquiere un átomo en un compuesto al asignarle todos los electrones de enlace."
+        },
+        {
+          "letter": "B",
+          "text": "La carga formal molecular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La valencia química",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "La electronegatividad relativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El número de oxidación. Científicamente, esto se explica por la herramienta contable para identificar qué átomos se oxidan y cuáles se reducen. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar proceso químico caracterizado por la pérdida de electrones y el aumento en el número de oxidación, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oxidación",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso químico caracterizado por la pérdida de electrones y el aumento en el número de oxidación."
+        },
+        {
+          "letter": "B",
+          "text": "La reducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La neutralización",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "La estequiometría",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La oxidación. Científicamente, esto se explica por el desprendimiento de electrones que pasan al agente reductor o oxidante. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar proceso químico caracterizado por la ganancia de electrones y la disminución en el número de oxidación, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reducción",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso químico caracterizado por la ganancia de electrones y la disminución en el número de oxidación."
+        },
+        {
+          "letter": "B",
+          "text": "La oxidación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La precipitación",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "La hidratación iónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La reducción. Científicamente, esto se explica por la captación de carga negativa reduciendo el estado de oxidación del elemento. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reactivo que se consume por completo en primer lugar, deteniendo la reacción química y limitando el producto, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reactivo limitante",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reactivo que se consume por completo en primer lugar, deteniendo la reacción química y limitando el producto."
+        },
+        {
+          "letter": "B",
+          "text": "Reactivo en exceso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Catalizador inorgánico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Producto estequiométrico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reactivo limitante. Científicamente, esto se explica por el reactivo que rinde la menor cantidad calculada de moles de producto final. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar relación matemática entre el rendimiento real obtenido en el laboratorio y el rendimiento teórico calculado, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Colcapirhua, el estudiante Lidia del Colegio Antonio Vaca Díez analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rendimiento porcentual",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a relación matemática entre el rendimiento real obtenido en el laboratorio y el rendimiento teórico calculado."
+        },
+        {
+          "letter": "B",
+          "text": "Rendimiento teórico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Rendimiento real",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "Pureza química",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Rendimiento porcentual. Científicamente, esto se explica por la medida de la eficiencia del proceso químico expresada en porcentaje. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar volumen ocupado por un mol de cualquier gas ideal en condiciones normales de presión y temperatura (CNPT), ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre reacciones químicas y estequiometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22.4 litros por mol",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a volumen ocupado por un mol de cualquier gas ideal en condiciones normales de presión y temperatura (CNPT)."
+        },
+        {
+          "letter": "B",
+          "text": "11.2 litros por mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "44.8 litros por mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría."
+        },
+        {
+          "letter": "D",
+          "text": "24.5 litros por mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es 22.4 litros por mol. Científicamente, esto se explica por el volumen molar estándar derivado de la ecuación general de los gases ideales. Lo cual es fundamental para comprender reacciones químicas y estequiometría.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

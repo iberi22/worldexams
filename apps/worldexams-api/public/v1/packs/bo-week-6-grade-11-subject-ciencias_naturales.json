@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-6-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-29T02:17:36.149Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar inversión rápida y transitoria del potencial de membrana de la neurona que se propaga a lo largo del axón, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El potencial de acción",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a inversión rápida y transitoria del potencial de membrana de la neurona que se propaga a lo largo del axón."
+        },
+        {
+          "letter": "B",
+          "text": "El potencial de reposo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El potencial graduado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "El potencial umbral",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El potencial de acción. Científicamente, esto se explica por la apertura secuencial de canales de sodio y potasio dependientes de voltaje. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar fase del potencial de acción provocada por la entrada masiva de iones Sodio (Na+) al citosol, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La despolarización axonal",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a fase del potencial de acción provocada por la entrada masiva de iones Sodio (Na+) al citosol."
+        },
+        {
+          "letter": "B",
+          "text": "La repolarización de membrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La hiperpolarización",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "La sinapsis eléctrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La despolarización axonal. Científicamente, esto se explica por la inversión del potencial de reposo que se vuelve positivo internamente. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar fase del potencial de acción causada por la salida masiva de iones Potasio (K+) hacia el exterior, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repolarización de membrana",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a fase del potencial de acción causada por la salida masiva de iones Potasio (K+) hacia el exterior."
+        },
+        {
+          "letter": "B",
+          "text": "La despolarización axonal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La hiperpolarización activa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "La bomba de protones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La repolarización de membrana. Científicamente, esto se explica por el restablecimiento del potencial de membrana negativo original de la neurona. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar transmisión neuronal mediada por la liberación de neurotransmisores a la hendidura sináptica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sinapsis química",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a transmisión neuronal mediada por la liberación de neurotransmisores a la hendidura sináptica."
+        },
+        {
+          "letter": "B",
+          "text": "La sinapsis eléctrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El potencial electrotónico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "La conducción saltatoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La sinapsis química. Científicamente, esto se explica por el retraso sináptico debido al tiempo requerido para la difusión de mensajeros químicos. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar propagación rápida del potencial de acción de nodo a nodo en axones mielinizados, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conducción saltatoria",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a propagación rápida del potencial de acción de nodo a nodo en axones mielinizados."
+        },
+        {
+          "letter": "B",
+          "text": "La conducción continua lenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La despolarización retrógrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "La sinapsis de brecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La conducción saltatoria. Científicamente, esto se explica por el aislamiento eléctrico proporcionado por las vainas de mielina. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar capa lipídica producida por células de Schwann y oligodendrocitos que recubre y aísla los axones, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vaina de mielina",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a capa lipídica producida por células de Schwann y oligodendrocitos que recubre y aísla los axones."
+        },
+        {
+          "letter": "B",
+          "text": "Las dendritas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El cono axónico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Los botones sinápticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La vaina de mielina. Científicamente, esto se explica por el aumento significativo de la velocidad de conducción del impulso nervioso. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar circuito neuronal básico que genera una respuesta motora involuntaria rápida sin intervención del cerebro, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arco reflejo involuntario",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a circuito neuronal básico que genera una respuesta motora involuntaria rápida sin intervención del cerebro."
+        },
+        {
+          "letter": "B",
+          "text": "Acto voluntario cortical",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Vía sensitiva ascendente",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Procesamiento alostérico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Arco reflejo involuntario. Científicamente, esto se explica por la integración directa de la neurona sensitiva y motora en la médula espinal. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar división del sistema nervioso periférico que regula las funciones viscerales involuntarias, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema nervioso autónomo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a división del sistema nervioso periférico que regula las funciones viscerales involuntarias."
+        },
+        {
+          "letter": "B",
+          "text": "El sistema nervioso somático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema nervioso central",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "El cerebelo motor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El sistema nervioso autónomo. Científicamente, esto se explica por la regulación homeostática interna sin control consciente del individuo. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar división del sistema autónomo que promueve el estado de reposo, digestión y conservación de energía, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema parasimpático activo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a división del sistema autónomo que promueve el estado de reposo, digestión y conservación de energía."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema simpático estimulado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema endocrino central",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema motor somático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Sistema parasimpático activo. Científicamente, esto se explica por la reducción de la frecuencia cardíaca y estimulación del tránsito intestinal. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar división del sistema autónomo que activa la respuesta de lucha o huida aumentando frecuencia cardíaca, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema simpático estimulado",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a división del sistema autónomo que activa la respuesta de lucha o huida aumentando frecuencia cardíaca."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema parasimpático activo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Vía aferente espinal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema endocrino alostérico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Sistema simpático estimulado. Científicamente, esto se explica por la dilatación de las pupilas y redistribución de flujo sanguíneo hacia músculos. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar proteínas intracelulares que actúan como factores de transcripción genética al unirse a su hormona lipídica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Receptores de hormonas peptídicas",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proteínas intracelulares que actúan como factores de transcripción genética al unirse a su hormona lipídica."
+        },
+        {
+          "letter": "B",
+          "text": "Receptores de hormonas esteroideas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Receptores ionotrópicos rápidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Canales iónicos pasivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Receptores de hormonas peptídicas. Científicamente, esto se explica por la capacidad de las hormonas de naturaleza esteroidea de difundir a través de la bicapa. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar receptores de hormonas peptídicas solubles en agua que desencadenan cascadas de segundos mensajeros, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Receptores de membrana acoplados a proteínas g",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a receptores de hormonas peptídicas solubles en agua que desencadenan cascadas de segundos mensajeros."
+        },
+        {
+          "letter": "B",
+          "text": "Receptores nucleares solubles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Factores de transcripción nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Canales de sodio libres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Receptores de membrana acoplados a proteínas g. Científicamente, esto se explica por la incapacidad de las macromoléculas peptídicas para cruzar la membrana por difusión simple. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar hormona hipoglucemiante secretada por las células beta del páncreas que facilita la entrada de glucosa, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La insulina",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona hipoglucemiante secretada por las células beta del páncreas que facilita la entrada de glucosa."
+        },
+        {
+          "letter": "B",
+          "text": "El glucagón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La adrenalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "El cortisol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La insulina. Científicamente, esto se explica por la promoción de la síntesis de glucógeno en el hígado y tejido muscular. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar hormona hiperglucemiante secretada por las células alfa del páncreas que estimula la glucogenólisis, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El glucagón",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona hiperglucemiante secretada por las células alfa del páncreas que estimula la glucogenólisis."
+        },
+        {
+          "letter": "B",
+          "text": "La insulina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La vasopresina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "La tiroxina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El glucagón. Científicamente, esto se explica por la liberación de glucosa libre a la sangre desde los depósitos del hígado. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar mantiene activamente el gradiente de concentración de Na+ y K+ consumiendo un tercio del ATP de la neurona, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bomba sodio-potasio atpasa",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mantiene activamente el gradiente de concentración de Na+ y K+ consumiendo un tercio del ATP de la neurona."
+        },
+        {
+          "letter": "B",
+          "text": "Los canales de calcio rápidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Los canales de potasio libres",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "La bomba de calcio activa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La bomba sodio-potasio atpasa. Científicamente, esto se explica por la expulsión de 3 iones de Sodio e introducción de 2 de Potasio contra sus gradientes. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar enfermedad autoinmune donde el sistema inmunitario destruye progresivamente las vainas de mielina, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La esclerosis múltiple",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enfermedad autoinmune donde el sistema inmunitario destruye progresivamente las vainas de mielina."
+        },
+        {
+          "letter": "B",
+          "text": "El parkinson",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El alzheimer",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "La miastenia gravis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La esclerosis múltiple. Científicamente, esto se explica por la interrupción de la conducción saltatoria provocando fallas motoras y sensitivas. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar hormona sintetizada en el hipotálamo que promueve la reabsorción de agua libre en los túbulos renales, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hormona antidiurética (adh / vasopresina)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona sintetizada en el hipotálamo que promueve la reabsorción de agua libre en los túbulos renales."
+        },
+        {
+          "letter": "B",
+          "text": "La aldosterona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El cortisol plasmático",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "La prolactina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La hormona antidiurética (adh / vasopresina). Científicamente, esto se explica por la regulación precisa de la osmolaridad plasmática disminuyendo el volumen de orina. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar mecanismo homeostático donde el aumento de una hormona inhibe su propia secreción en la glándula estimuladora, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retroalimentación negativa (feedback)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mecanismo homeostático donde el aumento de una hormona inhibe su propia secreción en la glándula estimuladora."
+        },
+        {
+          "letter": "B",
+          "text": "Retroalimentación positiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Regulación hormonal alostérica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Cooperatividad enzimática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Retroalimentación negativa (feedback). Científicamente, esto se explica por el control autorregulado del eje hipotálamo-hipófisis-glándula periférica. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar hormona tiroidea rica en yodo que incrementa la tasa metabólica basal celular en todo el cuerpo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Colcapirhua, el estudiante Lidia del Colegio Antonio Vaca Díez analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiroxina (t4)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona tiroidea rica en yodo que incrementa la tasa metabólica basal celular en todo el cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Insulina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Calcitonin",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Paratohormona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Tiroxina (t4). Científicamente, esto se explica por el aumento del consumo de oxígeno celular y el catabolismo de nutrientes. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar eje hormonal activado por el estrés crónico que culmina en la liberación sistémica de cortisol, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre neurofisiología y sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El eje hipotálamo-hipófisis-adrenal (hpa)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a eje hormonal activado por el estrés crónico que culmina en la liberación sistémica de cortisol."
+        },
+        {
+          "letter": "B",
+          "text": "El eje tiroideo metabólico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema renina-angiotensina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "El arco reflejo espinal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El eje hipotálamo-hipófisis-adrenal (hpa). Científicamente, esto se explica por la modulación de la respuesta metabólica e inmunológica ante situaciones de alerta prolongadas. Lo cual es fundamental para comprender neurofisiología y sistema endocrino.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}
