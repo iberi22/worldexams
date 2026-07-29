@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-13-grade-11-subject-matematica",
+    "generated_at": "2026-07-29T05:03:55.250Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "Qual é o equivalente em radianos para um ângulo de rotação de 180 graus?",
+      "context": "Um engenheiro mecânico em Curitiba estuda o movimento circular de uma polia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "π rad",
+          "is_correct": true,
+          "feedback": "Correto! Por definição, meia volta na circunferência trigonométrica (180°) corresponde a π radianos."
+        },
+        {
+          "letter": "B",
+          "text": "2π rad",
+          "is_correct": false,
+          "feedback": "Incorreto. 2π radianos equivale a 360° (uma volta completa)."
+        },
+        {
+          "letter": "C",
+          "text": "π/2 rad",
+          "is_correct": false,
+          "feedback": "Incorreto. π/2 radianos equivale a 90° (um quarto de volta)."
+        },
+        {
+          "letter": "D",
+          "text": "π/4 rad",
+          "is_correct": false,
+          "feedback": "Incorreto. π/4 radianos equivale a 45°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A relação de conversão fundamental entre graus e radianos é 180° = π rad. Assim, qualquer outro ângulo pode ser convertido por regra de três simples a partir desta correspondência.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "Qual é a medida do raio do ciclo trigonométrico padrão em geometria analítica?",
+      "context": "Um desenvolvedor de jogos em Porto Alegre programa o giro de uma roda de raio unitário.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,5 unidade",
+          "is_correct": false,
+          "feedback": "Incorreto. O ciclo trigonométrico padrão possui raio de valor exatamente unitário."
+        },
+        {
+          "letter": "B",
+          "text": "1 unidade",
+          "is_correct": true,
+          "feedback": "Correto! O ciclo trigonométrico padrão é definido por uma circunferência com centro na origem e raio exato de 1 unidade."
+        },
+        {
+          "letter": "C",
+          "text": "2 unidades",
+          "is_correct": false,
+          "feedback": "Incorreto. O ciclo trigonométrico tem raio unitário, ou seja, de valor 1."
+        },
+        {
+          "letter": "D",
+          "text": "π unidades",
+          "is_correct": false,
+          "feedback": "Incorreto. O raio é fixo em 1 unidade."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definição matemática, a circunferência trigonométrica possui centro no ponto (0,0) e raio unitário, o que simplifica as coordenadas dos pontos terminais dos arcos.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.77,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "Em qual quadrante do ciclo trigonométrico está localizado o terminal de um arco de 120 graus?",
+      "context": "Durante uma aula de navegação aérea em São José dos Campos, os alunos analisam uma rotação de 120 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Incorreto. O primeiro quadrante contém arcos de 0° a 90°."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": true,
+          "feedback": "Correto! O segundo quadrante vai de 90° a 180°, portanto 120° está contido nele."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Incorreto. O terceiro quadrante vai de 180° a 270°."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Incorreto. O quarto quadrante vai de 270° a 360°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividindo o círculo em quatro partes iguais de 90°: 1° quadrante (0° a 90°), 2° quadrante (90° a 180°), 3° quadrante (180° a 270°) e 4° quadrante (270° a 360°). O arco de 120° está no segundo quadrante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 120 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 120 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividindo o arco 120° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 150 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 150 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividindo o arco 150° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 180 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 180 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dividindo o arco 180° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 210 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 210 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dividindo o arco 210° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.61,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 240 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 240 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dividindo o arco 240° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 270 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 270 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dividindo o arco 270° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no quarto quadrante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 300 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 300 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dividindo o arco 300° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no quarto quadrante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 330 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 330 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dividindo o arco 330° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no quarto quadrante.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.49,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 360 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 360 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividindo o arco 360° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no primeiro quadrante.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 390 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 390 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividindo o arco 390° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no primeiro quadrante.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.43,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 420 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 420 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividindo o arco 420° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no primeiro quadrante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 450 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 450 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividindo o arco 450° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 480 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 480 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividindo o arco 480° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 510 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 510 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividindo o arco 510° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 540 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 540 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dividindo o arco 540° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.24,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 570 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 570 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dividindo o arco 570° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 600 graus?",
+      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 600 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primeiro quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+        },
+        {
+          "letter": "C",
+          "text": "Terceiro quadrante",
+          "is_correct": true,
+          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+        },
+        {
+          "letter": "D",
+          "text": "Quarto quadrante",
+          "is_correct": false,
+          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dividindo o arco 600° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.16,
+      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}
