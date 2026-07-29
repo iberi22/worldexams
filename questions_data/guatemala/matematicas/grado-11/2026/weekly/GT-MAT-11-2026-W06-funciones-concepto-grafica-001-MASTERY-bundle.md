@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** En un curso de precálculo en la Ciudad de Guatemala, se definen las bases de las relaciones matemáticas.
 
@@ -39,7 +39,7 @@ Una función es una regla de correspondencia que asigna a cada elemento del domi
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante identifica las partes de una función representada en un plano cartesiano.
 
@@ -58,7 +58,7 @@ El dominio define el intervalo o conjunto de números para los cuales la funció
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un analista de mercado en Guatemala utiliza gráficas para observar el comportamiento de las ventas.
 
@@ -77,7 +77,7 @@ La prueba de la línea vertical verifica la unicidad de la imagen para cada valo
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante evalúa una función simple para entender cómo cambian las salidas según las entradas.
 
@@ -96,7 +96,7 @@ Evaluar una función consiste en sustituir la variable independiente por un valo
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un científico en el INSIVUMEH analiza el dominio de una función que modela la presión atmosférica.
 
@@ -115,7 +115,7 @@ En funciones racionales, el dominio excluye los valores de $x$ que hacen que el 
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante observa la gráfica de una función cuadrática básica en su cuaderno.
 
@@ -134,7 +134,7 @@ El rango se identifica observando los valores que toma la función en el eje ver
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un programador en Guatemala utiliza funciones para calcular el costo de envío basado en el peso de los paquetes.
 
@@ -153,7 +153,7 @@ La variable dependiente es el resultado de la función, usualmente graficada en 
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante analiza la intersección de una función lineal con los ejes cartesianos.
 
@@ -172,7 +172,7 @@ La intersección con el eje $y$ se halla evaluando la función en $x=0$. En func
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** En un estudio sobre el crecimiento de una planta en Petén, se usa una función para modelar su altura en cm a lo largo del tiempo en días.
 
@@ -191,7 +191,7 @@ Al evaluar funciones con radicales, se realiza primero la operación dentro del 
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un profesor explica cómo identificar si una función es creciente o decreciente observando su gráfica de izquierda a derecha.
 
@@ -210,7 +210,7 @@ La monotonía de una función (crecimiento o decrecimiento) describe la relació
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante de ingeniería analiza funciones compuestas para resolver problemas de transmisiones de energía.
 
@@ -229,7 +229,7 @@ La composición de funciones $(f \circ g)(x)$ significa evaluar la función $f$ 
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante investiga las restricciones del dominio en funciones que combinan raíces y fracciones.
 
@@ -248,7 +248,7 @@ Para funciones con raíz cuadrada de índice par, el dominio está restringido a
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante grafica funciones definidas por trozos (o a pedazos) para modelar tarifas eléctricas en Guatemala.
 
@@ -270,7 +270,7 @@ En funciones definidas por trozos, primero se verifica en qué intervalo cae el 
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Se analiza la simetría de las funciones para simplificar el trazado de sus gráficas.
 
@@ -289,7 +289,7 @@ Una función es par si su gráfica es simétrica respecto al eje $y$. Algebraica
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de bachillerato estudia las transformaciones de funciones, específicamente los desplazamientos verticales.
 
@@ -308,7 +308,7 @@ Las transformaciones rígidas (desplazamientos) ocurren al sumar o restar consta
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de economía en Guatemala calcula la función inversa para hallar el precio basándose en la demanda.
 
@@ -327,7 +327,7 @@ La función inversa "deshace" la operación de la función original. Se obtiene 
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un matemático analiza las asíntotas de una función racional para entender su comportamiento en el infinito.
 
@@ -346,7 +346,7 @@ Las asíntotas verticales ocurren en los valores de $x$ que hacen que el denomin
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante avanzado analiza la composición de una función con su inversa.
 
@@ -365,7 +365,7 @@ La propiedad fundamental de las funciones inversas es que la composición de amb
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un investigador utiliza funciones de valor absoluto para modelar errores de medición en experimentos químicos.
 
@@ -384,7 +384,7 @@ La función valor absoluto básica tiene rango $[0, \infty)$. Al sumarle 5, todo
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W06-funciones-concepto-grafica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante resuelve un problema sobre el dominio de una función con una raíz cuadrada en el denominador.
 

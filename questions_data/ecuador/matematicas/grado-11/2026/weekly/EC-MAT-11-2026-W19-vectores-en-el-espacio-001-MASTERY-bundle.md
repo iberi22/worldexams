@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante de física en la Universidad San Francisco de Quito identifica las componentes de un vector en el espacio tridimensional.
 
@@ -51,7 +51,7 @@ El espacio tridimensional (R³) se describe mediante una terna ordenada de núme
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.85
 **Contexto:** Suma de vectores en el espacio.
 
@@ -76,7 +76,7 @@ La suma de vectores en R³ se realiza sumando de forma independiente las compone
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.80
 **Contexto:** Cálculo del módulo (magnitud) de un vector en el espacio.
 
@@ -101,7 +101,7 @@ El módulo de un vector en R³ se calcula mediante la generalización del teorem
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.75
 **Contexto:** Un dron en Guayaquil se desplaza desde el origen hasta el punto $(3, 4, 12)$.
 
@@ -130,7 +130,7 @@ La distancia entre el origen y un punto $(x, y, z)$ es equivalente a la magnitud
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.70
 **Contexto:** Producto punto o escalar de dos vectores.
 
@@ -155,7 +155,7 @@ El producto escalar es una operación que combina dos vectores para obtener un n
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.65
 **Contexto:** Ortogonalidad de vectores.
 
@@ -180,7 +180,7 @@ El producto escalar es la herramienta principal para verificar la perpendiculari
 ## Question 7 [D5]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.60
 **Contexto:** Determinación del ángulo entre vectores.
 
@@ -205,7 +205,7 @@ Uso de la definición geométrica del producto escalar para calcular el ángulo 
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.60
 **Contexto:** Cosenos directores de un vector.
 
@@ -230,7 +230,7 @@ Los cosenos directores representan la orientación de un vector respecto a los e
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero civil en Cuenca aplica una fuerza $\vec{F} = (10, 20, 0)$ Newtons para desplazar un objeto a lo largo del vector posición $\vec{d} = (5, 2, 0)$ metros.
 
@@ -255,7 +255,7 @@ Interpretación física del producto escalar como el trabajo realizado por una f
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.55
 **Contexto:** Vector unitario en la misma dirección.
 
@@ -284,7 +284,7 @@ La normalización de un vector permite obtener un vector de magnitud uno conserv
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v11
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.50
 **Contexto:** Concepto de producto vectorial (o producto cruz).
 
@@ -309,7 +309,7 @@ El producto vectorial es una operación exclusiva de R³ que permite encontrar d
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.50
 **Contexto:** Cálculo del producto vectorial usando determinantes.
 
@@ -334,7 +334,7 @@ Conocimiento de la base ortonormal de R³ y el comportamiento cíclico del produ
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.45
 **Contexto:** Área de un paralelogramo.
 
@@ -359,7 +359,7 @@ Interpretación geométrica de la magnitud del producto vectorial como el área 
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.45
 **Contexto:** Triple producto escalar y volumen.
 
@@ -384,7 +384,7 @@ Relación entre operaciones vectoriales y el cálculo de volúmenes de sólidos 
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.40
 **Contexto:** Un arquitecto en Quito calcula el área de un panel solar triangular con vértices en $A(1,0,0)$, $B(0,1,0)$ y $C(0,0,1)$.
 
@@ -409,7 +409,7 @@ Uso de vectores de posición y productos vectoriales para hallar áreas de super
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.40
 **Contexto:** Dependencia lineal en el espacio.
 
@@ -438,7 +438,7 @@ Identificación de la coplanaridad como condición de degeneración volumétrica
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.35
 **Contexto:** Propiedades del producto vectorial.
 
@@ -463,7 +463,7 @@ Reconocimiento de las leyes algebraicas que rigen el comportamiento de los produ
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.30
 **Contexto:** Un satélite sobre la línea ecuatorial tiene un vector de posición $\vec{r}$ y una velocidad orbital $\vec{v}$. El momento angular por unidad de masa está dado por $\vec{L} = \vec{r} \times \vec{v}$.
 
@@ -488,7 +488,7 @@ Aplicación de conceptos vectoriales a la física orbital y la descripción de m
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.25
 **Contexto:** Proyección de un vector sobre otro en 3D.
 
@@ -513,7 +513,7 @@ Cálculo de componentes vectoriales paralelas a una dirección dada utilizando l
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W19-vectores-en-el-espacio-001-MASTERY-bundle-v20
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.20
 **Contexto:** Un problema de geometría avanzada. Encuentre un vector unitario que sea perpendicular a $\vec{u} = (1, 1, 0)$ y que forme un ángulo de $45^\circ$ con el eje $z$.
 

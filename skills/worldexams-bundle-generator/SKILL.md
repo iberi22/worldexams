@@ -69,6 +69,11 @@ Do not use `semana` instead of `week`. The `id` includes `-bundle` and must matc
 **Expected_Success:** 0.90
 **Contexto:** Local, useful scenario.
 
+<!-- AXIS FIELD BY COUNTRY: `**ICFES:**` is EXCLUSIVE to Colombia bundles.
+     Every other country uses `**EJE:** {exam_axis}` instead.
+     The country's exam entity (PAES, EXANI, ENEM, CNEB, Aprender, ...)
+     belongs only in frontmatter `alignment`, never as a brand inside questions. -->
+
 ### Enunciado
 Question text.
 

@@ -27,7 +27,7 @@ Este bundle cubre los principios fundamentales del conteo, permutaciones y combi
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Principio multiplicativo en la elección de vestimenta.
 **Expected_Success:** 0.92
 
@@ -48,7 +48,7 @@ El principio fundamental del conteo establece que si un evento ocurre de $m$ man
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Concepto de factorial.
 **Expected_Success:** 0.88
 
@@ -69,7 +69,7 @@ El factorial de un número $n$ es el producto de todos los enteros positivos des
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Diferencia entre permutación y combinación.
 **Expected_Success:** 0.85
 
@@ -90,7 +90,7 @@ El orden es el criterio clave: en permutaciones (como códigos o filas) el orden
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ordenamiento de objetos en una fila.
 **Expected_Success:** 0.82
 
@@ -111,7 +111,7 @@ Para ordenar $n$ objetos distintos se usa $n!$. En este caso $4! = 24$.
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Elección de una directiva escolar.
 **Expected_Success:** 0.75
 
@@ -132,7 +132,7 @@ Dado que los cargos son distintos (Presidente $\neq$ Secretario), el orden impor
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Formación de equipos de trabajo.
 **Expected_Success:** 0.72
 
@@ -153,7 +153,7 @@ En un comité el orden de los integrantes no importa, por lo que usamos combinac
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Formación de números con dígitos específicos.
 **Expected_Success:** 0.78
 
@@ -174,7 +174,7 @@ Al permitir repetición, cada una de las 3 posiciones puede ser ocupada por cual
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Operaciones con factoriales.
 **Expected_Success:** 0.70
 
@@ -195,7 +195,7 @@ Expandimos el factorial superior: $\frac{8 \times 7 \times 6!}{6!}$. Cancelamos 
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Permutaciones con repetición (Anagramas).
 **Expected_Success:** 0.65
 
@@ -216,7 +216,7 @@ Usamos la fórmula de permutación con repetición: $\frac{n!}{n_1! n_2!...}$. A
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Elección de platillos en un menú.
 **Expected_Success:** 0.80
 
@@ -237,7 +237,7 @@ Aplicamos el principio multiplicativo: $4 \times 6 \times 3 = 72$.
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Formación de números con restricciones.
 **Expected_Success:** 0.55
 
@@ -258,7 +258,7 @@ En la primera cifra hay 5 opciones (no el 0). En la segunda hay 5 opciones (el 0
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Caminos en una cuadrícula.
 **Expected_Success:** 0.50
 
@@ -279,7 +279,7 @@ Es un problema de permutación con repetición o combinación. Hay 6 pasos total
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Personas sentadas en una mesa circular.
 **Expected_Success:** 0.48
 
@@ -300,7 +300,7 @@ En permutaciones circulares, se fija un elemento para evitar contar rotaciones c
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Combinaciones con selección obligatoria.
 **Expected_Success:** 0.52
 
@@ -321,7 +321,7 @@ Restamos las obligatorias del total y de la meta: debe elegir $7-3=4$ preguntas 
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Permutación con elementos adyacentes.
 **Expected_Success:** 0.45
 
@@ -342,7 +342,7 @@ Tratamos a las dos personas juntas como una unidad. Ordenamos 4 unidades ($4! = 
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Selección de subconjuntos.
 **Expected_Success:** 0.53
 
@@ -363,7 +363,7 @@ El total de subconjuntos de un conjunto de $n$ elementos es $2^n$. Aquí $2^4 = 
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Distribución de objetos en grupos (Particiones).
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ Es una selección sucesiva: $C(6,2)$ para el primer niño, $C(4,2)$ para el segu
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Problema de apretones de manos (Grafos completos).
 **Expected_Success:** 0.38
 
@@ -405,7 +405,7 @@ Un apretón involucra a 2 personas y el orden no importa ($nC2$). Resolvemos $\f
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Permutaciones con restricciones complejas.
 **Expected_Success:** 0.32
 
@@ -426,7 +426,7 @@ Fijamos la primera posición con una de las 2 vocales disponibles. Las 4 posicio
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Combinaciones con complementos.
 **Expected_Success:** 0.30
 

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-16-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.437Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v1",
+      "statement": "¿Quién es el célebre autor peruano decimonónico que creó el género híbrido de la \"tradición\", caracterizado por fundir de manera amena la anécdota histórica, la ficción y el humor criollo limeño?",
+      "context": "Los estudiantes de quinto de secundaria del Colegio Nacional de la Independencia Americana en Arequipa estudian la literatura peruana republicana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manuel González Prada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. González Prada es el máximo exponente del Realismo peruano, conocido por sus ensayos y críticas sociales ácidas."
+        },
+        {
+          "letter": "B",
+          "text": "Ricardo Palma.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ricardo Palma es el creador indiscutible de las \"Tradiciones peruanas\", obra cumbre del Romanticismo histórico de nuestro país."
+        },
+        {
+          "letter": "C",
+          "text": "Abraham Valdelomar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valdelomar pertenece al movimiento Colónida e introdujo el cuento criollo modernista a inicios del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "Mariano Melgar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Melgar es el precursor del Romanticismo quechuista y criollo con sus célebres yaravíes a inicios del siglo XIX (Emancipación)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ricardo Palma consolidó un subgénero narrativo netamente peruano: la tradición. A través de ella, recreó el pasado colonial y de los inicios de la República con un estilo lúdico, salpicado de dichos populares, refranes y picardía criolla.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes acontecimientos bélicos e históricos marcó de manera trágica la conciencia nacional peruana y determinó el nacimiento de la corriente realista en nuestra literatura?",
+      "context": "Un profesor repasa el contexto histórico que propició el surgimiento del Realismo literario en el Perú a fines del siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La revolución emancipadora liderada por Don José de San Martín en 1821.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este suceso dio origen a la República, mucho antes del surgimiento del Realismo."
+        },
+        {
+          "letter": "B",
+          "text": "La Guerra del Pacífico (o Guerra con Chile) y la consecuente ocupación militar de Lima en la década de 1880.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desastre de la Guerra del Pacífico sumió al Perú en una crisis moral y material que sepultó el idealismo romántico, dando paso a la mirada crítica del Realismo."
+        },
+        {
+          "letter": "C",
+          "text": "La rebelión indígena del cacique Túpac Amaru II en el Cusco colonial de 1780.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este suceso corresponde al periodo de la literatura de la Emancipación o asimilación de la Colonia tardía."
+        },
+        {
+          "letter": "D",
+          "text": "El auge económico de la era del guano y la prosperidad falaz del gobierno de Ramón Castilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prosperidad falaz coincidió con el apogeo del Romanticismo peruano, no del Realismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La debacle militar y social de la Guerra del Pacífico expuso las profundas fracturas del Estado peruano (exclusión del indio, corrupción de la élite). Los intelectuales realistas reaccionaron denunciando estas taras mediante una literatura de corte analítico, combativo y nacionalista.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v3",
+      "statement": "\"¡Que vengan árboles nuevos a dar flores nuevas y frutos nuevos! ¡Los viejos a la tumba, los jóvenes a la obra!\".\n¿Cuál es la interpretación ideológica fundamental que transmite González Prada en esta célebre proclama del Politeama?",
+      "context": "En Trujillo, se lee un fragmento del famoso \"Discurso en el Politeama\" de Manuel González Prada de 1888.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un llamado nostálgico a restaurar los antiguos valores de los terratenientes coloniales limeños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. González Prada ataca ferozmente el heroismo caduco de la aristocracia colonial limeña."
+        },
+        {
+          "letter": "B",
+          "text": "Una arenga revolucionaria que exige el relevo generacional y moral para reconstruir la nación peruana tras la derrota bélica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El autor exhorta a la juventud a asumir el liderazgo activo del país frente al fracaso ético e intelectual de la vieja clase política corrupta."
+        },
+        {
+          "letter": "C",
+          "text": "Una recomendación agronómica para renovar los campos de cultivo de algodón en la costa norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las metáforas de árboles y frutos son puramente literarias y políticas; no aluden a la agricultura física agraria."
+        },
+        {
+          "letter": "D",
+          "text": "Una apología de la literatura romántica de Ricardo Palma para olvidar los dolores de la guerra pasada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. González Prada fue un detractor del costumbrismo romántico y defendió un realismo objetivo y comprometido con el cambio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El \"Discurso en el Politeama\" es el texto fundacional del Realismo combativo peruano. Su retórica insta a romper con el pasado oligárquico de sumisión y corrupción, depositando la responsabilidad del resurgimiento patrio en la ciencia y la juventud.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v4",
+      "statement": "En la tradición *Al rincón, quita-calzón*, ambientada en una escuela religiosa de Arequipa, el obispo Chávez de la Rosa se enfrenta a un niño travieso que cuestiona de forma aguda los castigos físicos y el dogmatismo escolar de la época colonial. ¿Cuál es el valor social subyacente que Ricardo Palma resalta a través de esta anécdota humorística?",
+      "context": "Los estudiantes del Colegio Nacional de Ciencias de Cusco analizan la estructura narrativa de la tradición de Ricardo Palma titulada *Al rincón, quita-calzón*.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fomento ciego de la sumisión incondicional de los niños ante las autoridades del clero español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tradición destaca precisamente lo contrario: el valor del cuestionamiento y el talento del niño frente a la rigidez clerical."
+        },
+        {
+          "letter": "B",
+          "text": "La valoración de la agudeza intelectual, la picardía y la rebeldía inteligente del estudiante andino criollo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Palma ensalza el ingenio y el talento innato del niño que desafía la pedagogía restrictiva tradicional, logrando el perdón y patrocinio del obispo asombrado."
+        },
+        {
+          "letter": "C",
+          "text": "La necesidad de expulsar de forma definitiva a todos los niños de los colegios nacionales peruanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño no es expulsado, sino que se convierte en el alumno predilecto y protegido del obispo."
+        },
+        {
+          "letter": "D",
+          "text": "El triunfo de la teología escolástica tradicional sobre cualquier asomo de pensamiento racional o moderno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño expone las contradicciones de la enseñanza dogmática de forma lógica y divertida, ganándose el respeto intelectual del obispo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ricardo Palma utiliza el humor y la anécdota pícara para humanizar a las figuras eclesiásticas e ilustrar que la inteligencia y la rebeldía del criollo peruano han desafiado históricamente las rigideces dogmáticas de las instituciones coloniales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v5",
+      "statement": "\"Para el romanticismo hispanoamericano, el indígena era un personaje idealizado, decorativo o exótico, alejado de las realidades sociales. En contraste, el Realismo peruano de fines del siglo XIX —encabezado por Manuel González Prada y Clorinda Matto de Turner— concibe al indio como una víctima histórica de la explotación feudal de la trinidad opresora: el cura, el juez y el gobernador\".\nA partir del texto, ¿cuál es el cambio metodológico y social fundamental que introdujo el Realismo respecto a la representación literaria de la población indígena andina?",
+      "context": "Un ensayo académico de la Universidad Nacional de San Agustín (UNSA) analiza la visión del indígena en la literatura realista peruana frente a la visión del Romanticismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener la idealización poética del indio presentándolo como un guerrero incaico con armadura de oro europeo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es lo que hacía el romanticismo o indigenismo romántico decimonónico; el realismo denunciaba abusos concretos del presente."
+        },
+        {
+          "letter": "B",
+          "text": "Omitir por completo la presencia indígena para centrarse exclusivamente en la vida bohemia de la aristocracia limeña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el Realismo visibilizó el problema del indio como la esencia misma de la reconstrucción nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Denunciar con verismo las condiciones materiales de opresión social y económica que sufría el indio en los pueblos del interior andino.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Realismo sitúa al indio en su dimensión social e histórica real de explotación agraria y civil, planteando la educación y la reforma de tierras como soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "Sostener que la salvación del indio dependía únicamente de rezar oraciones coloniales devotas en latín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Realismo, marcadamente anticlerical, denunció que los curas eran parte activa del abuso sistemático del andino."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Realismo peruano sentó las bases del posterior Indigenismo del siglo XX. Al apartarse de la fantasía romántica, la literatura se transformó en un instrumento de análisis sociológico directo de la explotación rural.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de forma correcta la ironía que Ricardo Palma plantea en la tradición de *Don Dimas de la Tijereta*?",
+      "context": "Los estudiantes del Colegio de Alto Rendimiento (COAR) Cajamarca leen la tradición histórica *Don Dimas de la Tijereta*, donde un viejo escribano burla al mismísimo diablo mediante una argucia legal de pleitos y leguleyos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diablo demuestra poseer mayor conocimiento de las leyes peruanas que cualquier abogado limeño del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al revés, el diablo es derrotado y engañado por las argucias legales de la Tijereta."
+        },
+        {
+          "letter": "B",
+          "text": "El escribano muere de forma inmediata tras firmar el pacto satánico sin lograr disfrutar del amor de su amada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Logra el amor y luego burla la entrega de su alma mediante una interpretación literal fraudulenta del contrato de entrega de su \"almilla\"."
+        },
+        {
+          "letter": "C",
+          "text": "El escribano criollo resulta ser más astuto y tramposo en el uso del derecho que el propio diablo, derrotándolo en su propio terreno mediante el tecnicismo leguleyo de entregar la \"almilla\" (prenda interior) en lugar de su \"alma\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ironía reside en que la picaresca y el tecnicismo legal del escribano colonial limeño superan la malicia metafísica del demonio."
+        },
+        {
+          "letter": "D",
+          "text": "El obispo interviene de forma divina para exorcizar la escribanía usando agua bendita del río Rímac.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la propia habilidad e interpretación contractual del escribano la que resuelve el caso; no hay intervención divina de milagros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Palma utiliza la tradición para satirizar la cultura forense y la abundancia de leguleyos y pleitistas en la Lima virreinal y republicana, un rasgo costumbrista arraigado en la sociedad andina criolla que logra arrancar sonrisas y reflexiones al lector.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v7",
+      "statement": "Si *Aves sin nido* (1889) retrata los abusos sistemáticos contra los esposos Yupanqui en el pueblo andino de Kíllac, ¿cuál es el argumento de aplicación socio-literaria que justifica clasificar esta obra como realista y no como romántica?",
+      "context": "Al escribir una reseña literaria sobre Clorinda Matto de Turner, un estudiante cuzqueño busca clasificar la novela *Aves sin nido* dentro de la corriente del Realismo peruano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de una prosa poética refinada dedicada a describir la belleza idílica de las cordilleras nevadas de Cusco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque describe el paisaje, su objetivo central es la denuncia de la corrupción institucional, no la mera contemplación estética."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de una historia de amor trágica e imposible entre jóvenes que resulta ser un incesto involuntario de origen clerical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El amor trágico es un recurso argumental melodramático, pero el núcleo realista reside en la denuncia sistémica social de los abusos."
+        },
+        {
+          "letter": "C",
+          "text": "La exposición descarnada de la colusión del cura, el juez y el gobernador para esquilmar económicamente a los indios del ande.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La denuncia verídica de la corrupción estructural andina y la desmitificación del clero son los pilares metodológicos que encasillan la novela en el Realismo militante."
+        },
+        {
+          "letter": "D",
+          "text": "La exaltación de las antiguas hazañas guerreras del imperio incaico durante el reinado de Huayna Cápac.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La novela transcurre en la República contemporánea a la autora; no es una recreación histórica de la monarquía inca."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura realista aplica la observación directa para registrar y fustigar la realidad nacional andina con un fin moralizante de reforma cívica. *Aves sin nido* es un texto de tesis que denuncia la complicidad del poder local.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v8",
+      "statement": "\"Ricardo Palma recurre frecuentemente a arcaísmos coloniales, giros coloquiales y giros populares para dotar de sabor local a sus tradiciones. En cambio, González Prada utiliza una prosa ensayística severa, racional, rica en metáforas biológicas y científicas, buscando la máxima precisión argumental\".\nSi los estudiantes redactan un ensayo de crítica social sobre la corrupción municipal contemporánea en Trujillo inspirados en el estilo de González Prada, ¿qué tipo de lenguaje deberían priorizar en su escrito?",
+      "context": "En un taller de debate literario de la Universidad Nacional de Trujillo, se compara el estilo lingüístico de Ricardo Palma con el de Manuel González Prada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un estilo humorístico plagado de chistes populares, dichos criollos y anécdotas ligeras de vecinos de la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este estilo costumbrista y lúdico corresponde a Ricardo Palma, no a la retórica combativa de González Prada."
+        },
+        {
+          "letter": "B",
+          "text": "Un poema modernista en versos libres que exalte la musicalidad del oleaje de la playa de Huanchaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería una composición modernista estética o lírica; no responde a la prosa ensayística del realismo crítico."
+        },
+        {
+          "letter": "C",
+          "text": "Una prosa directa, analítica y fustigadora que emplee analogías científicas y denuncie de forma documentada las irregularidades administrativas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La prosa de González Prada es directa, racional y contundente; propugna el uso del análisis riguroso para desterrar los males sociales."
+        },
+        {
+          "letter": "D",
+          "text": "Una apología teológica que justifique la corrupción como un castigo divino inevitable de la providencia andina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. González Prada era radicalmente librepensador y positivista, rechazando interpretaciones místicas del quehacer cívico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La transferencia de modelos retóricos literarios exige diferenciar el costumbrismo humorístico de Ricardo Palma del racionalismo positivista y ensayístico de Manuel González Prada, aplicando las características de este último a problemas sociales del presente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v9",
+      "statement": "\"En *Nuestros indios*, González Prada sostiene que la cuestión de la redención del indio no es pedagógica, ni moral, ni religiosa, sino fundamentalmente económica y social: la tierra debe pertenecer a quien la trabaja\".\n¿Cuál de las siguientes propuestas de reforma contemporáneas coincide plenamente con la tesis socioeconómica sostenida por González Prada en este ensayo realista?",
+      "context": "Un estudiante de quinto de secundaria en Huaraz lee el ensayo *Nuestros indios* de Manuel González Prada para preparar una exposición escolar sobre sociología andina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrir más iglesias y seminarios católicos en las comunidades de Áncash para cristianizar pacíficamente a los campesinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor rechaza la tutela clerical que juzga opresiva e inútil para la solución del problema del indio."
+        },
+        {
+          "letter": "B",
+          "text": "Imprimir miles de cartillas de alfabetización en castellano sin alterar la estructura feudal de propiedad de las haciendas andinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para González Prada, la educación aislada del problema de la tierra es un paliativo que no resuelve la servidumbre económica."
+        },
+        {
+          "letter": "C",
+          "text": "Implementar una reforma agraria redistributiva que otorgue títulos de propiedad comunales e individuales del suelo a los agricultores campesinos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reivindica el acceso directo a la tierra como la única solución estructural para emancipar materialmente al indio del gamonalismo feudal."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir que los campesinos altoandinos utilicen calzado de suela blanda durante sus faenas diarias de labranza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guarda relación con el debate de la tierra ni con la reivindicación social y económica andina planteada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El alumno asocia las tesis decimonónicas realistas con propuestas históricas de cambio social (Reforma Agraria), entendiendo la literatura como un catalizador de ideas y debates de alta relevancia estructural.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la estrategia argumental dramática que utiliza Ricardo Palma en sus tradiciones para captar el interés del público lector criollo peruano, distinguiéndose de los rígidos manuales de historia del siglo XIX?",
+      "context": "En una sesión de teatro escolar en Ica, se representa un pasaje de la tradición *Los tres motivos del oidor* de Ricardo Palma, que ilustra las intrigas del virreinato limeño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recitar largas listas cronológicas de todos los reyes de España y gobernantes del virreinato sin diálogos ficticios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es precisamente lo que Palma evita en la tradición para no aburrir al lector criollo."
+        },
+        {
+          "letter": "B",
+          "text": "Utilizar exclusivamente la lengua latina para dar un aire sagrado a los pleitos coloniales de los oidores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Palma escribe en un castellano vivo, fluido, sazonado con giros lingüísticos de Lima."
+        },
+        {
+          "letter": "C",
+          "text": "Intercalar la crónica de datos históricos ciertos con diálogos chispeantes, anécdotas íntimas inventadas, chismes de alcoba y humor criollo de época.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fuerza de la tradición estriba en dinamizar la historia oficial mediante la ficción íntima y el humor picaresco criollo andino."
+        },
+        {
+          "letter": "D",
+          "text": "Sostener que todos los personajes históricos peruanos fueron santos inmaculados que jamás cometieron errores terrenales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Palma desmitifica a las figuras históricas, revelando sus vicios, picardías y debilidades de forma irónica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tradición como formato romántico peruano democratiza la historia oficial al fusionar el rigor documental del archivo con la frescura del rumor popular, consolidando una identidad republicana reconciliada con sus raíces costumbristas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v11",
+      "statement": "\"Los que de entre vosotros no hayan perdido el sentido moral, sabrán distinguir al opresor del oprimido, al que lucra con la mentira del que muere por la verdad\".\n¿Cuál es la figura literaria predominante en la cita de González Prada y cuál es su objetivo persuasivo dentro de su ensayo realista?",
+      "context": "En un examen tipo admisión para el ingreso a la UNI, los postulantes analizan el uso de la retórica antitética (oposición de términos) en el estilo literario realista de González Prada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hipérbaton extremo; busca desordenar la sintaxis de la frase para confundir deliberadamente a los censores limeños de la posguerra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden sintáctico es claro y directo; no busca confundir, sino convencer de forma explícita."
+        },
+        {
+          "letter": "B",
+          "text": "La antítesis simétrica; busca polarizar moralmente a los ciudadanos peruanos confrontando de forma directa las conductas corruptas con las virtuosas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! González Prada utiliza la antítesis (\"opresor/oprimido\", \"mentira/verdad\") para marcar una línea divisoria ética tajante que remueva la conciencia civil del lector."
+        },
+        {
+          "letter": "C",
+          "text": "La aliteración acústica; busca imitar los sonidos metálicos de los cañones de la Guerra del Pacífico mediante la repetición de consonantes vibrantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca efectos onomatopéyicos acústicos, sino un contraste conceptual lógico de ideas morales."
+        },
+        {
+          "letter": "D",
+          "text": "El epíteto redundante; busca decorar el texto con adjetivos decorativos que oculten el sentido trágico de la derrota bélica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su prosa huye del adorno floral romántico y de la elusión de la tragedia patria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La antítesis es un recurso estilístico clave de la retórica realista. González Prada la emplea no de forma ornamental, sino ideológica, forzando al lector a tomar partido frente a la injusticia sistémica social andina.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v12",
+      "statement": "Al analizar de qué manera la literatura romántica de Ricardo Palma asimila la figura del mártir y poeta Mariano Melgar, se deduce que Palma destaca principalmente:",
+      "context": "Un grupo de quinto de secundaria de Huancavelica asiste a una representación escénica del poema lírico costumbrista *A la muerte de Melgar* y de pasajes de la tradición *Los yaravíes de Melgar* de Ricardo Palma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su rol como científico positivista precursor del estudio de la termodinámica volcánica en Arequipa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Melgar fue un poeta y mártir; la ciencia del siglo XIX es ajena a su mitificación lírica romántica."
+        },
+        {
+          "letter": "B",
+          "text": "Su consagración como el héroe romántico peruano por excelencia, que unificó el dolor del amor imposible por Silvia con el sacrificio patriótico por la libertad en la batalla de Umachiri.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El romanticismo de Palma magnifica el destino trágico de Melgar como el arquetipo del poeta patriota que ofrenda su vida por el ideal de libertad americana y el dolor del desamor."
+        },
+        {
+          "letter": "C",
+          "text": "El hecho de que Melgar odiaba los cantos populares quechuas y buscaba imponer la lírica francesa en la sierra sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Melgar creó el yaraví andino fusionando el harawi quechua con la poesía hispana; Palma celebra esta herencia mestiza."
+        },
+        {
+          "letter": "D",
+          "text": "Su faceta como un astuto comerciante de guano de islas que enriqueció a las élites limeñas del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Melgar murió fusilado en 1815, décadas antes de la bonanza del guano; no tuvo relación alguna con dicho comercio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La asimilación romántica de las figuras patrias busca consagrar mitos de identidad cívica. Melgar encarna de forma perfecta la dualidad romántica del amor y la muerte en el patíbulo libertario de la Emancipación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v13",
+      "statement": "\"González Prada no solo redactó ensayos políticos furibundos, sino que renovó la poesía peruana introduciendo combinaciones métricas del folclore medieval europeo como el tríolet, el rondel y la balada, utilizándolas frecuentemente para fustigar de forma lírica y satírica a la aristocracia peruana\".\nA partir de este dato, ¿cuál es la contradicción o paradoja estética que se manifiesta en la producción creadora del máximo realista peruano?",
+      "context": "Un análisis literario en el Colegio de Alto Rendimiento (COAR) Junín examina los recursos poéticos satíricos que González Prada utilizó en su poesía lírica frente a sus severos ensayos políticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exigir en sus ensayos el rechazo a cualquier influencia científica andina y refugiarse en la teología mística colonial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor abogó incansablemente por el racionalismo científico y el positivismo contra la teología."
+        },
+        {
+          "letter": "B",
+          "text": "Propugnar en sus ensayos una ruptura total con el pasado europeo colonial y, simultáneamente, recurrir en su poesía a estructuras métricas medievales de origen francés e italiano para encauzar su voz satírica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Existe una estimulante paradoja entre su discurso político modernizador anti-tradicionalista y su rigor formal de orfebrería métrica clásica de raigambre medieval europea."
+        },
+        {
+          "letter": "C",
+          "text": "Afirmar que la poesía peruana carecía de valor para luego dedicarse a componer exclusivamente yaravíes quechuas en Cusco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus poemas utilizaron formas líricas complejas europeas de vanguardia y neoclásicas, no yaravíes folclóricos tradicionales del sur."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir poemas líricos de amor idílico y cursi dedicados a las damas de la corte del virrey español del siglo XVII.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus versos satirizaban el arribismo criollo de la corte limeña contemporánea; no eran loas a virreyes del pasado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis del perfil estético de un autor exige que el estudiante integre contradicciones formales: González Prada fue un heraldo del cambio político radical en el fondo, pero un consumado formalista clásico y riguroso en la arquitectura rítmica de sus versos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v14",
+      "statement": "\"Muchos historiadores peruanos acusan a Ricardo Palma de haber propagado una visión excesivamente idílica, edulcorada y frívola del virreinato limeño, presentándolo como una arcadia de virreyes galantes, tapadas pícaras y clérigos bonachones. No obstante, los defensores de Palma replican que la tradición no es un libro de texto historiográfico científico, sino una ficción literaria romántica que rescata la memoria íntima de un pueblo\".\n¿Cuál es la síntesis de la controversia respecto a la validez de las *Tradiciones peruanas* como documento de reconstrucción del pasado nacional?",
+      "context": "En la escuela de postgrado de Literatura de la UNMSM, se debate sobre la veracidad histórica del retrato de la sociedad virreinal que Ricardo Palma plasmó en las *Tradiciones peruanas*.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Determinar si Ricardo Palma inventó por completo la existencia de la ciudad de Lima en el siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia geográfica e histórica de Lima no está en tela de juicio en el debate literario."
+        },
+        {
+          "letter": "B",
+          "text": "Comprobar si los virreyes españoles sabían volar por los cielos de la sierra andina de forma milagrosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debate la veracidad costumbrista del retrato social, no fenómenos fantásticos de levitación."
+        },
+        {
+          "letter": "C",
+          "text": "Evaluar la tensión entre el rigor historiográfico fidedigno y la recreación nostálgica costumbrista de las relaciones sociales de la Colonia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El debate reside en si la idealización romántica de Palma distorsiona las injusticias reales del virreinato (esclavitud, exclusión) o si debe aceptarse llanamente como una rica ficción literaria de identidad nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los manuales de historia del Perú son infinitamente más divertidos que cualquier tradición de Ricardo Palma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tradicionalmente ocurre lo opuesto: la prosa ágil de Palma resulta mucho más atractiva para el lector general que las áridas crónicas oficiales del siglo XIX."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El alumno ejercita el análisis crítico de textos históricos de ficción al reconocer la diferencia fundamental entre la pretensión de objetividad de la historiografía científica y la libertad creadora de la recreación literaria romántica de Palma.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v15",
+      "statement": "\"Ricardo Palma: El humor y la ironía nos reconcilian con nuestro convulso pasado. Olvidar las asperezas mediante el cuadro costumbrista es la mejor medicina para un pueblo herido que busca sanar de sus glorias perdidas.\nGonzález Prada: La literatura que no denuncia el error ni destapa la podredumbre social es una literatura cobarde y cómplice. No necesitamos bálsamos que duerman conciencias; necesitamos escalpelos de cirujano que extirpen el cáncer nacional de la pasividad y el conformismo\".\n¿Cuál es la discrepancia estética y ética medular que separa a ambos intelectuales peruanos?",
+      "context": "Se confronta un fragmento de una carta de Ricardo Palma con un extracto del manifiesto de González Prada acerca del rol de la literatura peruana tras la posguerra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conveniencia de traducir la literatura peruana exclusivamente a la lengua aimara puneña para aislar de forma total a la costa criolla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos autores propone la aimarización radical de la literatura para excluir la costa."
+        },
+        {
+          "letter": "B",
+          "text": "La función social del arte literario: Palma la asume como un bálsamo costumbrista reconciliador e irónico, mientras González Prada la define como una herramienta implacable de denuncia social y movilización ideológica de masas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se confrontan de manera nítida dos visiones del quehacer literario: el arte como solaz y reconciliación nostálgica (Palma) frente al arte como arma de combate crítico y transformador de la realidad cívica (González Prada)."
+        },
+        {
+          "letter": "C",
+          "text": "El interés comercial de vender sus obras literarias exclusivamente a las élites financieras de los Estados Unidos de América.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos autores escribían para el debate cívico y el público peruano; el factor mercantil transnacional no es el eje de su desencuentro."
+        },
+        {
+          "letter": "D",
+          "text": "La superioridad fonética del dialecto andino arequipeño frente al dialecto de la costa trujillana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su debate es ideológico-estético sobre el rol del intelectual en el Perú, no un pleito dialectológico de fonética regional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación comparativa de poéticas permite al alumno mapear las grandes corrientes literarias del siglo XIX peruano. El Romanticismo de Palma busca tender puentes con el pasado de forma indulgente; el Realismo de González Prada exige dinamitar ese pasado para erigir un futuro nuevo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v16",
+      "statement": "\" mercedes Cabello de Carbonera defendió con vehemencia un realismo de corte social y científico que fustigara de forma implacable el arribismo de las clases acomodadas y la sumisión de la mujer criolla limeña en sus novelas como *Blanca Sol*. Su aproximación teórica la llevó a criticar abiertamente la sensiblería del romanticismo de salón por juzgarlo un engaño burgués\".\nA partir del fragmento, ¿cuál de los siguientes enunciados define mejor el aporte ideológico de Mercedes Cabello de Carbonera al Realismo peruano?",
+      "context": "En un seminario sobre escritoras peruanas del siglo XIX en Arequipa, se analiza el rol de Clorinda Matto de Turner y Mercedes Cabello de Carbonera dentro de la corriente realista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Validar el romanticismo folclórico limeño como el único camino para la felicidad femenina andina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cabello ataca la sensiblería del romanticismo burgués por considerarla un engaño que idiotiza a la mujer."
+        },
+        {
+          "letter": "B",
+          "text": "Incorporar la perspectiva de género y el análisis sociológico directo de la sumisión de la mujer y el arribismo de clase como temas críticos centrales de la novela nacional realista.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cabello y Matto de Turner introducen una aguda mirada crítica femenina sobre las estructuras oligárquicas y domésticas de dominación del Perú."
+        },
+        {
+          "letter": "C",
+          "text": "Recomendar que las mujeres de la alta sociedad limeña compren más vestidos importados de París para dinamizar el comercio de importación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su obra fustiga ácidamente la frivolidad consumista del personaje de Blanca Sol; no promueve el consumismo de lujo de modas."
+        },
+        {
+          "letter": "D",
+          "text": "Sostener que el arribismo es una virtud biológica hereditaria que debe ser estimulada en los colegios nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El arribismo es catalogado como una tara social y moral destructiva que carcome la ética de la República."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Realismo peruano posee una riquísima vertiente de crítica liderada por escritoras que, de forma pionera en América Latina, vincularon la decadencia de la República con la exclusión sistemática del indio y de la mujer de los fueros de la educación ciudadana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v17",
+      "statement": "\"González Prada escribió en 1888: 'La mano de la generación pasada sembró la semilla del desastre, cosechemos nosotros la lección. No es el momento de llorar ruinas de adobe, sino de edificar sobre la base de la ciencia y el trabajo verdadero'. Algunos analistas contemporáneos sostienen que este discurso mantiene una vigencia dolorosa en el Perú de hoy debido a la pervivencia de problemas estructurales\".\nAl evaluar críticamente la vigencia del mensaje realista en el Perú contemporáneo, ¿cuál de las siguientes conclusiones resume mejor el valor ético del ensayo?",
+      "context": "Un panel de críticos literarios de la PUCP califica el valor cívico del \"Discurso en el Politeama\" de González Prada tras más de un siglo de historia republicana peruana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carece de cualquier vigencia real porque el Perú actual es un país rico que ha resuelto todas sus brechas de educación andina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desestima con ligereza el hecho de que muchas de las críticas realistas a la educación rural y la exclusión del indio siguen vigentes en menor grado en zonas altoandinas."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar científicamente que la culpa del fracaso de la Guerra del Pacífico recae en los niños actuales de quinto de secundaria por no haber combatido en las trincheras históricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería un anacronismo e injusticia culpar a las generaciones actuales de sucesos militares del siglo XIX."
+        },
+        {
+          "letter": "C",
+          "text": "Sostener que su proclama ética actúa como un imperativo permanente de autocrítica nacional, exhortando al rechazo de la corrupción política y al fomento de la ciencia para el progreso real del país.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ensayo de González Prada no es solo una crónica de guerra, sino un manifiesto ético-filosófico atemporal que fustiga las fallas cívicas y propone la modernización moral de la República."
+        },
+        {
+          "letter": "D",
+          "text": "Recomendar que los peruanos dejen de estudiar ciencias exactas en las universidades públicas como la UNI para abocarse exclusivamente al estudio de tradiciones virreinales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Va en sentido opuesto: González Prada promueve el positivismo científico y la instrucción técnica utilitaria contra el misticismo literario colonial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pensamiento evaluativo exige al alumno calibrar la vigencia del patrimonio literario. El Politeama trasciende su coyuntura histórica para consolidarse como una brújula moral autocrítica indispensable para el debate ciudadano peruano moderno.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v18",
+      "statement": "\"Al evaluar formalmente las *Tradiciones peruanas* de Ricardo Palma, se observa una estructura tripartita canónica:\n1) Presentación de un refrán o dicho popular que sirve de excusa o punto de partida discursivo.\n2) Exposición de los antecedentes históricos rigurosos respaldados por el archivo colonial del autor.\n3) Desarrollo de la anécdota ficticia, humorística y dialogada que explica el dicho original de forma amena\".\n¿De qué manera esta particular arquitectura discursiva de la tradición contribuye a la consolidación de la lengua española en el Perú republicano?",
+      "context": "En Cusco, un estudiante de quinto de secundaria redacta una disertación escolar para valorar críticamente la estructura literaria de las *Tradiciones peruanas*.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imponiendo de forma totalitaria las reglas gramaticales más áridas de España, extirpando cualquier dicho o peruanismo popular local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Palma defendió ardientemente el uso de peruanismos frente a los puristas españoles de la Real Academia."
+        },
+        {
+          "letter": "B",
+          "text": "Legitimando de forma literaria y escrita el habla coloquial criolla, los refranes populares andinos y el ingenio verbal limeño dentro del registro culto y literario formal del español americano.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La estructura tripartita de Palma unifica el archivo oficial culto con el saber lingüístico informal de la calle, dotando de prestancia literaria al español criollo del Perú."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrando que la historia virreinal peruana solo puede ser explicada mediante versos trágicos en lengua latina clásica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tradición destaca precisamente por su lenguaje ágil en prosa, alejado de las rigideces medievales latinas."
+        },
+        {
+          "letter": "D",
+          "text": "Obligando a los lectores peruanos a cambiar de nombre civil cada vez que leen una tradición de duendes coloniales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ejerce influencia legal de cambio de nombres; es una revaloración lingüística identitaria de la lengua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación de las *Tradiciones* revela su trascendencia filológica. Al integrar dichos criollos y peruanismos como núcleos de relatos históricos, Ricardo Palma convalidó la soberanía lingüística de las variantes americanas del español.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v19",
+      "statement": "\"El Ministerio de Educación del Perú incluye de forma obligatoria en el currículo nacional tanto la lectura de las *Tradiciones peruanas* (Palma) como del *Discurso en el Politeama* (González Prada) de manera simultánea en quinto de secundaria\".\nAl evaluar con rigor curricular los beneficios formativos complementarios de ambos textos andinos para el perfil de egreso del alumno peruano, se concluye que:",
+      "context": "Un tribunal del examen de admisión de la UNMSM propone ponderar de forma crítica el valor pedagógico del ensayo realista frente a la crónica costumbrista romántica en la educación nacional del siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos textos se anulan por completo entre sí, por lo que el estudiante debe elegir uno de ellos e ignorar el otro para evitar una parálisis mental cognitiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos no se anulan; forman un contrapeso ideal de aproximación a la historia patria."
+        },
+        {
+          "letter": "B",
+          "text": "Las *Tradiciones* de Palma enseñan geología descriptiva de suelos costeros, mientras que González Prada enseña teología de la orden dominica del Cusco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las *Tradiciones* recrean costumbrismo histórico e ingenio del habla, y González Prada es positivista y anticlerical; las temáticas asignadas son incorrectas."
+        },
+        {
+          "letter": "C",
+          "text": "Palma consolida el sentido de identidad nacional, la picardía verbal y el aprecio nostálgico del patrimonio histórico costumbrista; en tanto, González Prada estimula el pensamiento crítico riguroso, la autocrítica cívica activa y el compromiso racional científico con la reconstrucción social.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se trata de una complementariedad perfecta: uno aporta el amor e ingenio de la herencia lingüística y costumbrista nacional (Palma), y el otro forja el temple ético del ciudadano comprometido con desterrar las injusticias de su presente con bases de desarrollo científico (González Prada)."
+        },
+        {
+          "letter": "D",
+          "text": "El único beneficio real de estas lecturas es que los estudiantes aprueben de forma mecánica el examen de ingreso sin entender el significado de una sola palabra escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enfoque por competencias del CNEB busca el desarrollo integral cívico del estudiante, no el mero memorismo mecánico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estudiante demuestra capacidad de evaluación sistémica de alto nivel al conciliar dos polos de la literatura peruana del siglo XIX, reconociendo que la identidad nacional requiere tanto del afecto histórico y del humor (Palma) como de la energía reformadora crítica (González Prada) para forjar un perfil ciudadano andino integral y maduro.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v20",
+      "statement": "Al ponderar de forma crítica y argumentada la originalidad y validez histórica de la corriente del Realismo peruano, ¿cuál de los siguientes juicios valorativos constituye la síntesis más sólida y sustentada de este debate académico?",
+      "context": "En un foro internacional de peruanistas, se debate si el Realismo de Manuel González Prada y de Clorinda Matto de Turner puede ser catalogado como un movimiento \"genuinamente nacionalista\" o como una mera copia mimética de los modelos de Emilio Zola y del Realismo francés.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Realismo peruano es una copia exacta sin originalidad del naturalismo francés, pues los personajes de Kíllac hablan en idioma francés fluido en todas las novelas de la época.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra realista peruana está profundamente arraigada en el territorio, con personajes que se expresan en castellano andino o quechua coloquial, adaptando las técnicas francesas a problemáticas peruanas autóctonas."
+        },
+        {
+          "letter": "B",
+          "text": "Aunque adoptó técnicas de observación científica y crudeza expositiva de raigambre europea, el Realismo peruano es profundamente original al nacionalizar estas herramientas teóricas para diagnosticar el gamonalismo andino, el problema de la servidumbre indígena y las secuelas éticas de la derrota patria.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Realismo en el Perú adaptó el método naturalista y el rigor positivista para resolver y fustigar problemas genuinamente nacionales, fundando una literatura de tesis que inauguró la vertiente indigenista de América."
+        },
+        {
+          "letter": "C",
+          "text": "El Realismo peruano no existió en absoluto; fue un invento publicitario del siglo XX financiado por las empresas exportadoras de algodón de la costa norte de Trujillo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Realismo fue un movimiento intelectual vibrante y documentado con revistas de época (como *El Perú Ilustrado*) y obras que marcaron la historia literaria peruana de forma ineludible."
+        },
+        {
+          "letter": "D",
+          "text": "Las novelas realistas peruanas carecen de valor porque proponen que la única forma de salvación nacional es retornar al régimen absolutista de los reyes incas prehispánicos de Caral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Realismo fue modernizador y progresista, mirando hacia el futuro de la ciencia y la educación ciudadana verdadera; no promovió un retorno utópico monárquico del Arcaico Tardío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaluación literaria compleja de alto nivel requiere que el alumno supere la dicotomía de originalidad vs. copia. El Realismo peruano demostró soberanía estética al instrumentalizar las teorías científicas y literarias globales (positivismo, naturalismo) para alumbrar una radiografía descarnada del ande de incuestionable trascendencia histórica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

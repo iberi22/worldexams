@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to media effects.
 
@@ -45,7 +45,7 @@ Mass media has the power to shape public opinion through the selective reporting
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing social media impact.
 
@@ -65,7 +65,7 @@ The present continuous passive describes the ongoing, active process of change i
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about media literacy.
 
@@ -85,7 +85,7 @@ The second conditional 'if + were' describes how a hypothetical educational chan
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "agenda-setting".
 
@@ -105,7 +105,7 @@ Agenda-setting is the ability of the news media to influence the importance plac
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "sensationalism".
 
@@ -125,7 +125,7 @@ Sensationalism is a type of editorial bias in mass media in which events and top
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Marketing through media.
 
@@ -145,7 +145,7 @@ Product placement is a practice in which manufacturers of goods or providers of 
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a celebrity's media coverage.
 
@@ -165,7 +165,7 @@ The past continuous passive describes how the scandal was receiving constant att
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "media bias".
 
@@ -185,7 +185,7 @@ Media bias refers to the perceived or real bias of journalists and news producer
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a study on media consumption.
 
@@ -205,7 +205,7 @@ In reported findings, it is standard to use the past tense 'was' to describe the
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "celebrity culture".
 
@@ -225,7 +225,7 @@ The obsession with celebrity culture can distract the public from more significa
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of "propaganda".
 
@@ -245,7 +245,7 @@ Propaganda is information, especially of a biased or misleading nature, used to 
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future media development.
 
@@ -265,7 +265,7 @@ The passive infinitive 'to be integrated' describes a future expectation for tec
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "media literacy".
 
@@ -285,7 +285,7 @@ Media literacy empowers individuals to critically evaluate the messages they rec
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Advice on social media use.
 
@@ -305,7 +305,7 @@ You shouldn't believe everything you read on social media unless it comes from a
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on the "attention economy".
 
@@ -325,7 +325,7 @@ The author concludes that our attention is a valuable commodity that is constant
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing a "viral" phenomenon.
 
@@ -345,7 +345,7 @@ A story that goes viral is shared widely and rapidly across the internet.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a past regret about media influence.
 
@@ -365,7 +365,7 @@ The 'wish + past perfect' structure allows for the expression of regret about a 
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "influencer marketing".
 
@@ -385,7 +385,7 @@ Influencer marketing relies on the trust and rapport that creators have built wi
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a speaker's warning about media manipulation.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the original statement to the past
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on critical consumption.
 

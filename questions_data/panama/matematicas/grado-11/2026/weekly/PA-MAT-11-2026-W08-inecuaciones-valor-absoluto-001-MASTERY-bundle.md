@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en David repasa la definición de inecuación lineal para un examen de bachillerato.
 
@@ -41,7 +41,7 @@ Identificación conceptual de las inecuaciones y sus diferencias fundamentales c
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** En una tienda de la Avenida Central de Santiago, se establece un presupuesto máximo para la compra de suministros.
 
@@ -62,7 +62,7 @@ Uso de símbolos de desigualdad para modelar restricciones de la vida real media
 ## Question 3 [D3]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Durante una clase de matemáticas en la Ciudad de Panamá, se explica la propiedad del valor absoluto de un número real.
 
@@ -83,7 +83,7 @@ Definición básica y cálculo del valor absoluto de un número real decimal.
 ## Question 4 [D3]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un mensajero en Colón debe resolver una inecuación para determinar el rango de kilómetros que puede recorrer.
 
@@ -104,7 +104,7 @@ Resolución de inecuaciones lineales básicas de un solo paso mediante trasposic
 ## Question 5 [D4]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un profesor explica qué sucede al dividir una inecuación por un número negativo para despejar una variable.
 
@@ -125,7 +125,7 @@ Aplicación de la regla de inversión del signo de desigualdad al operar con fac
 ## Question 6 [D4]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero establece el rango de tolerancia para la presión en una tubería usando valor absoluto.
 
@@ -146,7 +146,7 @@ Resolución de inecuaciones fundamentales con valor absoluto (menor o igual).
 ## Question 7 [D5]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un analista de calidad en Chitré verifica que el peso de un producto esté dentro del margen.
 
@@ -167,7 +167,7 @@ Resolución de inecuaciones lineales de dos pasos con coeficientes positivos.
 ## Question 8 [D5]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un meteorólogo analiza el rango de temperaturas extremas en el Volcán Barú mediante desigualdades.
 
@@ -188,7 +188,7 @@ Resolución de inecuaciones fundamentales con valor absoluto (mayor que).
 ## Question 9 [D5]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un agrónomo determina el rango óptimo de pH mediante una inecuación lineal doble.
 
@@ -209,7 +209,7 @@ Resolución de inecuaciones lineales dobles (simultáneas) expresadas en forma d
 ## Question 10 [D6]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en la Ciudad del Saber resuelve una inecuación que involucra fracciones para un proyecto.
 
@@ -230,7 +230,7 @@ Resolución de inecuaciones lineales con términos fraccionarios y reducción de
 ## Question 11 [D6]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero analiza el margen de error de una señal usando valor absoluto compuesto.
 
@@ -251,7 +251,7 @@ Resolución de inecuaciones de valor absoluto de la forma |ax + b| < c.
 ## Question 12 [D6]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto diseña una rampa y asegura que la pendiente absoluta no supere un valor.
 
@@ -272,7 +272,7 @@ Análisis y resolución de inecuaciones de valor absoluto de la forma |ax + b| >
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un administrador en la Zona Libre de Colón calcula el rango de ganancias para productos.
 
@@ -293,7 +293,7 @@ Resolución de inecuaciones lineales complejas con paréntesis y coeficientes ne
 ## Question 14 [D7]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un científico analiza el nivel de oxígeno y encuentra una restricción absoluta inusual.
 
@@ -314,7 +314,7 @@ Identificación de inecuaciones inconsistentes basadas en las propiedades del va
 ## Question 15 [D7]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de bachillerato en Aguadulce resuelve una inecuación con variable en el denominador.
 
@@ -335,7 +335,7 @@ Resolución de inecuaciones racionales simples involucrando conceptos de valor a
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un experto en seguridad analiza los límites permitidos por una función de distancia absoluta entre usuarios.
 
@@ -356,7 +356,7 @@ Resolución de inecuaciones con valor absoluto en ambos miembros mediante análi
 ## Question 17 [D8]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un científico estudia la dilatación de una pieza y define un intervalo de seguridad lineal doble.
 
@@ -377,7 +377,7 @@ Resolución de sistemas de inecuaciones lineales concatenadas o dobles.
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un programador desarrolla un algoritmo para detectar anomalías basadas en desviaciones absolutas dobles.
 
@@ -398,7 +398,7 @@ Resolución de inecuaciones compuestas con valor absoluto y doble restricción d
 ## Question 19 [D10]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** Un matemático plantea un reto sobre inecuaciones con valor absoluto anidado para un concurso nacional.
 
@@ -419,7 +419,7 @@ Resolución de inecuaciones complejas con valor absoluto anidado mediante el des
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W08-inecuaciones-valor-absoluto-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Un experto analiza la estabilidad de llaves basado en la intersección de dos restricciones absolutas.
 

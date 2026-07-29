@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um estudante em São Paulo está aprendendo as bases das funções que descrevem fenômenos de crescimento rápido, como populações ou juros compostos.
 
@@ -39,7 +39,7 @@ Uma função exponencial é definida pela lei $f(x) = a^x$. As restrições sobr
 ## Question 2 [D3]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Um biólogo em Manaus observa o crescimento de bactérias em uma placa de Petri e nota que a população dobra a cada hora.
 
@@ -58,7 +58,7 @@ O valor da base $a$ determina o comportamento da função: se $a > 1$, os valore
 ## Question 3 [D4]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Um investidor no Rio de Janeiro calcula o montante de uma aplicação financeira após alguns anos usando a fórmula de juros compostos.
 
@@ -77,7 +77,7 @@ Avaliar uma função exponencial consiste em elevar a base ao valor de $x$ indic
 ## Question 4 [D4]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Em um laboratorio de química em Curitiba, estuda-se a desintegração radioativa de um elemento, onde a massa cai pela metade a cada período fixo.
 
@@ -96,7 +96,7 @@ Como $x=0$ no eixo $y$, calculamos $f(0) = a^0$. Pela propriedade das potências
 ## Question 5 [D5]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um analista financeiro em Brasília projeta a desvalorização de um veículo ao longo dos anos usando uma taxa percentual fixa.
 
@@ -115,7 +115,7 @@ Um expoente negativo inverte a base da potência. Assim, $(\frac{1}{3})^{-2} = (
 ## Question 6 [D5]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um programador em Belo Horizonte cria um algoritmo para simular a propagação de um vírus em uma rede de computadores.
 
@@ -134,7 +134,7 @@ A função exponencial $f(x) = a^x$ (com $a > 0$) tem como imagem o intervalo $(
 ## Question 7 [D6]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um técnico em Salvador analisa o crescimento de uma cultura de algas marinhas cuja população $P$ em gramas é dada por $P(t) = 10 \cdot 2^t$.
 
@@ -153,7 +153,7 @@ Igualamos a função ao valor desejado: $160 = 10 \cdot 2^t$. Dividindo por 10: 
 ## Question 8 [D6]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Em um laboratório de informática em Porto Alegre, estuda-se o poder de processamento que dobra a cada 18 meses (Lei de Moore).
 
@@ -172,7 +172,7 @@ Para resolver equações exponenciais, devemos igualar as bases. Como $9 = 3^2$ 
 ## Question 9 [D6]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um geógrafo em Recife analisa a redução da área de uma floresta nativa que perde 10\% de seu tamanho a cada década.
 
@@ -191,7 +191,7 @@ Calculamos o fator de redução após 2 períodos: $(0,9)^2 = 0,9 \cdot 0,9 = 0,
 ## Question 10 [D6]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um estudante em Fortaleza resolve desafios sobre potências para se preparar para as olimpíadas regionais de matemática.
 
@@ -210,7 +210,7 @@ Expressamos 32 como uma potência de 2: $32 = 2^5$. A equação fica $2^{x+3} = 
 ## Question 11 [D7]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um cientista em São Paulo estuda a propagação de calor e utiliza funções exponenciais com translação vertical para modelar a temperatura de um objeto.
 
@@ -229,7 +229,7 @@ A função $a^x$ tem assíntota em $y=0$. Ao somar 3, todo o gráfico sobe 3 uni
 ## Question 12 [D7]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um engenheiro civil em Goiânia analisa a atenuação do sinal de rádio ao atravessar paredes de diferentes espessuras.
 
@@ -248,7 +248,7 @@ Escrevemos ambos os lados na mesma base: $(\frac{1}{2})^x < (\frac{1}{2})^3$. Co
 ## Question 13 [D7]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor em Vitória desafia seus alunos a comparar o crescimento de uma função afim com o de uma função exponencial.
 
@@ -267,7 +267,7 @@ Testando os valores: para $x=4$, $2^4 = 16$ e $4 \cdot 4 = 16$. Embora funções
 ## Question 14 [D7]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um biólogo em Manaus estuda uma população de insetos que triplica a cada semana.
 
@@ -286,7 +286,7 @@ O fator de crescimento é 3. Como esse crescimento ocorre a cada 7 dias, o tempo
 ## Question 15 [D8]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um analista financeiro em São Paulo utiliza a constante de Euler ($e \approx 2,718$) para calcular juros compostos continuamente.
 
@@ -305,7 +305,7 @@ Por definição, a função logarítmica é a inversa da função exponencial. Q
 ## Question 16 [D8]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um físico em São José dos Campos estuda o decaimento de uma voltagem em um capacitor, seguindo a função $V(t) = V_0 \cdot e^{-t/RC}$.
 
@@ -324,7 +324,7 @@ Substituímos $t = 3$ na função: $V(3) = 100 \cdot 2^{-3}$. Calculamos a potê
 ## Question 17 [D9]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um matemático em Campinas propõe uma equação que exige a substituição de variáveis para ser resolvida.
 
@@ -343,7 +343,7 @@ Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y
 ## Question 18 [D9]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Durante uma competição de matemática, avalia-se a profundidade do conhecimento sobre o comportamento assintótico de funções compostas.
 
@@ -362,7 +362,7 @@ A base é maior que 1, então a função cresce com o aumento do expoente. O exp
 ## Question 19 [D10]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um pesquisador avançado em São José dos Campos investiga as propriedades de funções exponenciais em domínios complexos.
 
@@ -381,7 +381,7 @@ Colocamos na base 2: $2^{x^2 - 4} > 2^{-(x-2)}$. Como a base é maior que 1, man
 ## Question 20 [D10]
 **ID:** BR-MAT-3EM-2026-W05-funcao-exponencial-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Em um exame de alto nível para ingressar no ITA, avalia-se a capacidade de manipulação algébrica de potências compostas.
 

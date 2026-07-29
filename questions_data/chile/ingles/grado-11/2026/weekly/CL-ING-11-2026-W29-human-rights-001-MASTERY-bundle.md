@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to the Universal Declaration.
 
@@ -45,7 +45,7 @@ The Universal Declaration of Human Rights was adopted by the United Nations in 1
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing fundamental principles.
 
@@ -65,7 +65,7 @@ Human rights are inherent to all human beings, regardless of race, gender, or na
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about social justice history.
 
@@ -85,7 +85,7 @@ The third conditional is used to express the past importance of social movements
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about freedom of expression.
 
@@ -105,7 +105,7 @@ Freedom of expression is a fundamental right that allows individuals to hold and
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "inalienable rights".
 
@@ -125,7 +125,7 @@ Inalienable rights are rights that cannot be taken away or denied by any governm
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Describing a violation.
 
@@ -145,7 +145,7 @@ A violation occurs when a person's fundamental rights are ignored or actively ta
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passive voice in a rights report.
 
@@ -165,7 +165,7 @@ The present continuous passive describes how certain groups continue to experien
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "due process".
 
@@ -185,7 +185,7 @@ Due process is the legal requirement that the state must respect all legal right
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a human rights finding.
 
@@ -205,7 +205,7 @@ In reported speech, we backshift the tense to show the events happened prior to 
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "tokenism".
 
@@ -225,7 +225,7 @@ Tokenism is the practice of making only a perfunctory or symbolic effort to be i
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of asylum.
 
@@ -245,7 +245,7 @@ Asylum is the protection granted by a nation to someone who has left their nativ
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future human rights goal.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the action will be a finished achievem
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "empowerment".
 
@@ -285,7 +285,7 @@ Human rights education aims to empower individuals to stand up for themselves an
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about awareness.
 
@@ -305,7 +305,7 @@ The second conditional describes how a hypothetical increase in knowledge would 
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on "corporate responsibility".
 
@@ -325,7 +325,7 @@ The author concludes that companies must be held accountable for any human right
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing "equality".
 
@@ -345,7 +345,7 @@ Equality means ensuring that every individual has an equal opportunity to make t
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a past wish.
 
@@ -365,7 +365,7 @@ The 'wish + past perfect' structure allows for the expression of regret about pa
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "dignity".
 
@@ -385,7 +385,7 @@ Dignity is the right of a person to be valued and respected for their own sake, 
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a call for justice.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense to show the infringement occurred pri
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on universal rights.
 

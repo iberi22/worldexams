@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Ciudad de Guatemala utiliza el sistema de coordenadas cartesianas para ubicar puntos en un plano.
 
@@ -39,7 +39,7 @@ La distancia entre dos puntos es la longitud del segmento que los une, calculada
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Se desea encontrar el centro de un segmento que une dos comunidades en un mapa de Guatemala.
 
@@ -58,7 +58,7 @@ El punto medio es el punto que divide al segmento en dos partes iguales y sus co
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza la inclinación de una rampa de acceso en un edificio público.
 
@@ -77,7 +77,7 @@ La pendiente cuantifica la inclinación de una recta. Si $m > 0$ la recta es cre
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** En la geometría analítica, existen diferentes formas de expresar la ecuación de una misma recta.
 
@@ -96,7 +96,7 @@ La ecuación general de la recta permite representar cualquier recta en el plano
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un topógrafo mide la distancia entre dos hitos de propiedad en un terreno llano en Escuintla.
 
@@ -115,7 +115,7 @@ Se aplica la fórmula de distancia. El resultado es un ejemplo del triángulo sa
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Se necesita encontrar la ubicación exacta para colocar una antena de comunicación a la mitad de camino entre dos estaciones.
 
@@ -134,7 +134,7 @@ El cálculo del punto medio requiere sumar algebraicamente las coordenadas corre
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante calcula la pendiente de una calle empinada en una zona residencial de Mixco.
 
@@ -153,7 +153,7 @@ La pendiente se halla restando las ordenadas ($y$) y dividiendo por la resta de 
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un arquitecto utiliza la forma punto-pendiente para definir la línea de drenaje de una construcción.
 
@@ -172,7 +172,7 @@ Usando la forma punto-pendiente ($y - y_1 = m(x - x_1)$), se sustituyen los valo
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante observa dos rectas en un software de geometría dinámica y nota que nunca se cruzan.
 
@@ -191,7 +191,7 @@ El paralelismo geométrico implica igualdad en la inclinación algebraica (pendi
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un analista financiero representa el crecimiento de una inversión mediante una línea recta.
 
@@ -210,7 +210,7 @@ Una recta que pasa por el origen se llama función lineal proporcional y su ecua
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** En el diseño de una lotificación en Villa Nueva, se requiere que dos calles sean perpendiculares entre sí.
 
@@ -229,7 +229,7 @@ Dos rectas son perpendiculares si y solo si el producto de sus pendientes es $-1
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de bachillerato convierte la ecuación general de una recta a su forma pendiente-intercepto para graficarla más fácilmente.
 
@@ -248,7 +248,7 @@ Para hallar la pendiente y el intercepto a partir de la forma general, se debe d
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero calcula la distancia más corta (perpendicular) desde un punto de control a una carretera recta.
 
@@ -267,7 +267,7 @@ La distancia de un punto $(x_0, y_0)$ a una recta $Ax+By+C=0$ se halla con la f�
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Se estudian las propiedades de los cuadriláteros en el plano cartesiano mediante sus pendientes.
 
@@ -286,7 +286,7 @@ Existe una relación directa entre la trigonometría y la geometría analítica:
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de ingeniería de la USAC utiliza la forma simétrica de la recta para identificar rápidamente los puntos de corte con los ejes.
 
@@ -305,7 +305,7 @@ En la forma simétrica $x/a + y/b = 1$, los valores $a$ y $b$ representan las in
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante analiza si tres puntos dados en el plano están alineados (son colineales).
 
@@ -324,7 +324,7 @@ Tres o más puntos son colineales si pertenecen a la misma recta, lo cual algebr
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un matemático estudia las rectas que dividen a un segmento en una razón dada (no solo el punto medio).
 
@@ -343,7 +343,7 @@ La división de un segmento en una razón $r$ utiliza la fórmula $x = (x_1 + r 
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de ingeniería civil calcula el ángulo agudo que forman dos carreteras representadas por rectas.
 
@@ -362,7 +362,7 @@ El ángulo entre dos rectas se halla mediante la fórmula de la tangente de la d
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un arquitecto diseña una plaza y necesita hallar el punto de la recta $2x + y = 5$ que esté más cerca del origen.
 
@@ -381,7 +381,7 @@ El punto de una recta más cercano al origen es el pie de la perpendicular traza
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W08-geometria-analitica-recta-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Se plantea un problema sobre la mediatriz de un segmento como lugar geométrico de puntos equidistantes de los extremos.
 

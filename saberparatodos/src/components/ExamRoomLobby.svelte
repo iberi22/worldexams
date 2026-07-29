@@ -1,7 +1,5 @@
 <script lang="ts">
-  import { onMount, onDestroy } from 'svelte';
-  import { supabase } from '../lib/supabase';
-  import type { RealtimeChannel } from '@supabase/supabase-js';
+  import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
   import FlashlightCard from './FlashlightCard.svelte';
 
   export let roomCode: string;
@@ -9,55 +7,25 @@
   export let onCancel: () => void; // To go back
   export let isHost: boolean = false; // 🆕 Track if current user is host
 
-  let channel: RealtimeChannel | null = null;
   let students: any[] = [];
-  let isLoading = false;
+  let generatingAi = false;
+  let aiStatus = '';
 
-  // Listen for students joining
-  onMount(() => {
-    // Initial fetch of students (if any)
-    fetchStudents();
+  $: students = roomState.players;
 
-    // Subscribe to changes
-    channel = supabase.channel(`room_lobby:${roomCode}`)
-      .on('postgres_changes', {
-         event: 'UPDATE',
-         schema: 'public',
-         table: 'party_sessions',
-         filter: `party_code=eq.${roomCode}`
-      }, (payload) => {
-         if (payload.new && payload.new.students) {
-            students = payload.new.students;
-         }
-      })
-      .on('broadcast', { event: 'student_joined' }, (payload) => {
-          // Fallback if postgres changes is slow/not triggering
-          const s = payload.payload;
-          if (!students.find(st => st.id === s.student_id)) {
-              students = [...students, { id: s.student_id, name: s.name, isHost: s.isHost }];
-          }
-      })
-      .subscribe();
-
-    // Also track presence for real-time online count
-     channel.track({ role: 'host', status: 'lobby' });
-  });
-
-  async function fetchStudents() {
-      const { data } = await supabase
-        .from('party_sessions')
-        .select('students')
-        .eq('party_code', roomCode)
-        .maybeSingle();
-
-      if (data && Array.isArray(data.students)) {
-          students = data.students;
-      }
+  async function generateWithAi() {
+    if (!isHost || generatingAi) return;
+    generatingAi = true;
+    aiStatus = 'Generando examen on-device…';
+    try {
+      await roomState.generateQuestionsWithAi();
+      aiStatus = `Listo: ${roomState.questions.length} preguntas (local-llm)`;
+    } catch (e) {
+      aiStatus = e instanceof Error ? e.message : 'Error al generar';
+    } finally {
+      generatingAi = false;
+    }
   }
-
-  onDestroy(() => {
-    if (channel) supabase.removeChannel(channel);
-  });
 </script>
 
 <div class="min-h-screen flex flex-col items-center justify-center p-6 text-[#F5F5DC] animate-fade-in-up">
@@ -104,7 +72,7 @@
        </div>
     </div>
 
-    <div class="flex justify-center gap-4">
+    <div class="flex justify-center gap-4 flex-wrap">
         <button
            onclick={onCancel}
            class="px-8 py-4 bg-white/5 border border-white/10 rounded-full font-bold uppercase tracking-widest hover:bg-white/10 transition-all text-sm"
@@ -113,6 +81,14 @@
         </button>
 
         {#if isHost}
+          <button
+             type="button"
+             onclick={generateWithAi}
+             disabled={generatingAi}
+             class="px-8 py-4 bg-violet-600/80 border border-violet-400/30 rounded-full font-bold uppercase tracking-widest hover:bg-violet-500 transition-all text-sm disabled:opacity-50"
+          >
+             {generatingAi ? 'Generando IA…' : 'Generar con IA local'}
+          </button>
           <button
              onclick={onStart}
              disabled={students.length === 0}
@@ -127,6 +103,9 @@
           </div>
         {/if}
     </div>
+    {#if aiStatus}
+      <p class="mt-4 text-xs text-violet-200/80">{aiStatus}</p>
+    {/if}
 
   </div>
 </div>

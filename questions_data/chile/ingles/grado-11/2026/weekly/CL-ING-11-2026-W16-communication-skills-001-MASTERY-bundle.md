@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to non-verbal communication.
 
@@ -45,7 +45,7 @@ Non-verbal communication includes body language, facial expressions, and eye con
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing active listening.
 
@@ -65,7 +65,7 @@ The present simple 'involves' is used to define the components of a skill.
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Hypothetical communication breakdown.
 
@@ -85,7 +85,7 @@ The third conditional is used to speculate about how a past situation could have
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about empathy in communication.
 
@@ -105,7 +105,7 @@ To empathize with someone is to understand and share their feelings from their p
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "assertive communication".
 
@@ -125,7 +125,7 @@ Assertive communication involves expressing one's needs and feelings clearly and
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Clarifying meaning.
 
@@ -145,7 +145,7 @@ Could you please clarify what you mean by that statement?
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a speaker's ability.
 
@@ -165,7 +165,7 @@ The phrase 'capable of' requires the following verb to be in the gerund form.
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "intercultural communication".
 
@@ -185,7 +185,7 @@ Intercultural communication requires an awareness of cultural nuances and langua
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing an ongoing public speaking trend.
 
@@ -205,7 +205,7 @@ The present continuous passive describes a process that is currently becoming mo
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "digital communication".
 
@@ -225,7 +225,7 @@ The article argues that digital communication can lack the emotional resonance o
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Formal presentations.
 
@@ -245,7 +245,7 @@ Visual aids such as slides or charts can help to illustrate complex information.
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a past communication failure.
 
@@ -265,7 +265,7 @@ The past perfect continuous 'had been arguing' shows the length of the conflict 
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing negotiation.
 
@@ -285,7 +285,7 @@ Negotiation is a process by which people settle differences and reach an agreeme
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Condition about transparency.
 
@@ -305,7 +305,7 @@ The second conditional describes how a change in behavior would result in a chan
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an article on digital etiquette.
 
@@ -325,7 +325,7 @@ The author concludes that "netiquette" is essential for civil discourse in onlin
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Public speaking fears.
 
@@ -345,7 +345,7 @@ Glossophobia is the technical term for the fear of public speaking.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Reporting a request.
 
@@ -365,7 +365,7 @@ The structure 'ask someone to do something' is used for reporting requests.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "persuasive communication".
 
@@ -385,7 +385,7 @@ Rhetoric is the art of effective or persuasive speaking or writing.
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a future goal in communication.
 
@@ -405,7 +405,7 @@ The perfect infinitive 'to have become' indicates a process finished by a specif
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on the importance of communication.
 

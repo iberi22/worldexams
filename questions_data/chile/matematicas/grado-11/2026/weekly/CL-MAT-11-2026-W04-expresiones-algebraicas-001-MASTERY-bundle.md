@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.85
 **Contexto:** En una clase de álgebra en Santiago, se definen los elementos de un término algebraico.
 
@@ -39,7 +39,7 @@ Un término algebraico consta de un coeficiente numérico (el número con su sig
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante identifica términos semejantes para simplificar una expresión.
 
@@ -58,7 +58,7 @@ Dos o más términos son semejantes si tienen el mismo factor literal, es decir,
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.75
 **Contexto:** Se requiere reducir términos semejantes en un polinomio.
 
@@ -77,7 +77,7 @@ Para reducir términos semejantes, agrupamos los que tienen la misma letra: $(5x
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.70
 **Contexto:** Diego analiza el grado de un polinomio.
 
@@ -96,7 +96,7 @@ El grado de un polinomio con una sola variable es el exponente más alto al que 
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Valentina evalúa una expresión algebraica para un valor determinado.
 
@@ -115,7 +115,7 @@ Sustituimos los valores: $2^2 - 2(-3)$. Resolvemos la potencia: $2^2 = 4$. Luego
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.60
 **Contexto:** Se aplica la propiedad distributiva para multiplicar un monomio por un binomio.
 
@@ -134,7 +134,7 @@ Aplicamos la propiedad distributiva multiplicando $3x$ por cada término dentro 
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.65
 **Contexto:** Matías resuelve un producto notable: el cuadrado de un binomio.
 
@@ -153,7 +153,7 @@ El cuadrado de un binomio sigue la regla: el primer término al cuadrado ($x^2$)
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto diseña una habitación rectangular cuyo largo es el doble del ancho más 3 metros.
 
@@ -172,7 +172,7 @@ El ancho es $x$ y el largo es $2x + 3$. El área de un rectángulo es el product
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.60
 **Contexto:** En un laboratorio, se simplifica una fracción algebraica.
 
@@ -191,7 +191,7 @@ Dividimos los coeficientes numéricos: $10 / 5 = 2$. Para las letras, restamos l
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.50
 **Contexto:** Camila analiza el producto de una suma por su diferencia.
 
@@ -210,7 +210,7 @@ Es un producto notable llamado "Suma por su diferencia", cuyo resultado es el cu
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.45
 **Contexto:** Se busca factorizar una expresión usando factor común.
 
@@ -229,7 +229,7 @@ Buscamos el factor común: el MCD de 6 y 9 es 3; las letras comunes con menor ex
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante factoriza un trinomio de la forma $x^2 + bx + c$.
 
@@ -248,7 +248,7 @@ Buscamos dos números que sumados den $-5$ (coeficiente de $x$) y multiplicados 
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.35
 **Contexto:** Se analiza el resultado de una resta de polinomios con paréntesis.
 
@@ -267,7 +267,7 @@ Planteamos la resta: $(5a^2 + a - 2) - (2a^2 - 3a + 5)$. Cambiamos los signos de
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.30
 **Contexto:** Un grupo de estudio discute la validez de una factorización por diferencia de cuadrados.
 
@@ -286,7 +286,7 @@ Es una diferencia de cuadrados perfectos: $4x^2$ es $(2x)^2$ y $25$ es $5^2$. La
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Representación
+**EJE:** Representación
 **Expected_Success:** 0.35
 **Contexto:** Se pide expresar el área de un cuadrado cuyo lado mide $(2x - 3) \text{ cm}$.
 
@@ -305,7 +305,7 @@ El área de un cuadrado es lado al cuadrado: $(2x - 3)^2$. Aplicamos el producto
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Modelación
+**EJE:** Modelación
 **Expected_Success:** 0.40
 **Contexto:** En un problema de física en Concepción, se utiliza la fórmula $d = vt + \frac{1}{2}at^2$.
 
@@ -324,7 +324,7 @@ Sustituimos las variables: $d = 5 \cdot x + \frac{1}{2} \cdot 2 \cdot x^2$. Simp
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.25
 **Contexto:** Un estudiante analiza la simplificación de una fracción algebraica compleja.
 
@@ -343,7 +343,7 @@ Factorizamos numerador y denominador: el numerador es una diferencia de cuadrado
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.20
 **Contexto:** Se requiere encontrar el valor de $k$ para que un trinomio sea un cuadrado perfecto.
 
@@ -362,7 +362,7 @@ En un cuadrado de binomio $x^2 + 2ax + a^2$, el coeficiente de $x$ es $2a$ y el 
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución de problemas
+**EJE:** Resolución de problemas
 **Expected_Success:** 0.15
 **Contexto:** Se pide resolver el producto notable de cubos.
 
@@ -381,7 +381,7 @@ El cubo de un binomio sigue la regla: $a^3 - 3a^2b + 3ab^2 - b^3$. Aquí $a=x$ y
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W04-expresiones-algebraicas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Argumentación
+**EJE:** Argumentación
 **Expected_Success:** 0.10
 **Contexto:** Un profesor en Puerto Montt pregunta sobre la factorización de una suma de cubos.
 

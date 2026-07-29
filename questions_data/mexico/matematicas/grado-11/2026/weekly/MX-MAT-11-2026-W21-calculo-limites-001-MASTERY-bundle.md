@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de la UNAM analiza el comportamiento de una función lineal mientras la variable independiente se aproxima a un valor específico.
 **Expected_Success:** 0.85
 
@@ -43,7 +43,7 @@ Para funciones polinomiales, el límite cuando $x$ tiende a un valor $a$ se pued
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un laboratorio de física en Monterrey, se observa que la velocidad de una partícula se estabiliza según una función constante.
 **Expected_Success:** 0.90
 
@@ -65,7 +65,7 @@ La propiedad fundamental de los límites establece que $\lim_{x \to a} c = c$. E
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un arquitecto en Guadalajara utiliza una función cuadrática para modelar la curvatura de un arco decorativo.
 **Expected_Success:** 0.80
 
@@ -87,7 +87,7 @@ Al tratarse de una función polinomial (cuadrática), aplicamos la sustitución 
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En una clase de matemáticas avanzadas, se discute la propiedad de la suma de límites.
 **Expected_Success:** 0.75
 
@@ -109,7 +109,7 @@ La propiedad de la suma de límites establece que $\lim_{x \to a} [f(x) + g(x)] 
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero civil analiza el esfuerzo en un material mediante una función racional que presenta una indeterminación inicial.
 **Expected_Success:** 0.65
 
@@ -131,7 +131,7 @@ Este límite presenta la forma indeterminada $0/0$. Al factorizar el numerador c
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un estudio de mercado, se analiza la tendencia de precios mediante una función que requiere simplificación algebraica.
 **Expected_Success:** 0.60
 
@@ -153,7 +153,7 @@ Al sustituir $x = -2$ se obtiene $0/0$. Factorizamos el trinomio $x^2 + 5x + 6$ 
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un biólogo en Chiapas modela el crecimiento de una población de bacterias que se ve frenado por la capacidad de carga del entorno.
 **Expected_Success:** 0.55
 
@@ -175,7 +175,7 @@ Para calcular límites al infinito de funciones racionales, dividimos cada térm
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un financiero calcula el interés compuesto continuo y se encuentra con el número de Euler expresado como un límite.
 **Expected_Success:** 0.50
 
@@ -197,7 +197,7 @@ El límite $\lim_{x \to \infty} (1 + \frac{1}{x})^x$ es uno de los límites nota
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería en el IPN analiza la continuidad de una función definida a trozos.
 **Expected_Success:** 0.65
 
@@ -219,7 +219,7 @@ Los límites laterales se calculan observando la rama de la función correspondi
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un técnico evalúa la estabilidad de un sistema electrónico cuya señal se comporta como una función racional.
 **Expected_Success:** 0.55
 
@@ -241,7 +241,7 @@ El límite $\lim_{x \to 0} \frac{\sin(x)}{x} = 1$ es esencial para derivar funci
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista de sistemas estudia la latencia de una red mediante una función que incluye raíces cuadradas.
 **Expected_Success:** 0.45
 
@@ -263,7 +263,7 @@ Cuando un límite con radicales produce $0/0$, se multiplica numerador y denomin
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un físico en la Ciudad de México estudia el comportamiento asintótico de un campo gravitacional teórico.
 **Expected_Success:** 0.40
 
@@ -285,7 +285,7 @@ En funciones racionales, si el grado del polinomio del denominador es mayor que 
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un matemático investiga la existencia del límite en un punto donde la función cambia su comportamiento abruptamente.
 **Expected_Success:** 0.35
 
@@ -307,7 +307,7 @@ Para que un límite exista, los límites laterales deben ser iguales. Aquí, si 
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un curso de cálculo integral, se analiza el comportamiento de una función cerca de su asíntota vertical.
 **Expected_Success:** 0.40
 
@@ -329,7 +329,7 @@ Los límites de la forma $k/0$ con $k \neq 0$ indican una asíntota vertical. El
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de economía revisa un modelo de costos que incluye una función racional compleja.
 **Expected_Success:** 0.45
 
@@ -351,7 +351,7 @@ Se utilizan las fórmulas de productos notables: $x^3 - 1 = (x-1)(x^2+x+1)$ y $x
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** En un laboratorio químico, se mide la concentración de un reactivo que sigue una función con una asíntota horizontal.
 **Expected_Success:** 0.50
 
@@ -373,7 +373,7 @@ Al evaluar límites al infinito con raíces, identificamos el grado efectivo del
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador de la BUAP estudia una función de distribución de probabilidad que requiere el uso del Teorema del Emparedado.
 **Expected_Success:** 0.30
 
@@ -395,7 +395,7 @@ El Teorema del Emparedado es útil cuando una función está acotada entre otras
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un experto en óptica analiza la difracción de la luz mediante el comportamiento de funciones trigonométricas en el infinito.
 **Expected_Success:** 0.25
 
@@ -417,7 +417,7 @@ Este es un caso de una función acotada dividida por una función que diverge. P
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de posgrado en el CINVESTAV analiza una indeterminación del tipo $1^\infty$ en un proceso termodinámico.
 **Expected_Success:** 0.20
 
@@ -439,7 +439,7 @@ Este límite es una variante del límite fundamental del número $e$. Mediante u
 
 **ID:** MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero de software optimiza un algoritmo cuya complejidad sigue una función con parámetros exponenciales.
 **Expected_Success:** 0.15
 

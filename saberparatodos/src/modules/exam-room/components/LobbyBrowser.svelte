@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { supabase } from '../../../lib/supabase';
+  import { roomState } from '../stores/roomState.svelte.ts';
   import { fade, fly } from 'svelte/transition';
   import FlashlightCard from '../../../components/FlashlightCard.svelte';
 
@@ -14,6 +14,8 @@
   let lobbies = $state<any[]>([]);
   let isLoading = $state(true);
   let error = $state<string | null>(null);
+  let refreshInterval: ReturnType<typeof setInterval> | undefined;
+  let regionFilter = $state('');
 
   // Name Prompt State
   let guestName = $state('');
@@ -32,20 +34,9 @@
     isLoading = true;
     error = null;
     try {
-      const { data, error: sbError } = await supabase
-        .from('party_sessions')
-        .select('*')
-        .eq('status', 'waiting')
-        .order('created_at', { ascending: false });
-
-      if (sbError) throw sbError;
-
-      // Filter public stop mode lobbies
-      lobbies = (data || []).filter(session =>
-        session.exam_config?.mode === 'stop' &&
-        session.exam_config?.is_public === true
-      );
-      console.log(`[Lobby] Found ${lobbies.length} public stop sessions`);
+      await roomState.fetchPublicRooms(regionFilter || undefined);
+      lobbies = [...roomState.publicRooms];
+      console.log(`[Lobby] Found ${lobbies.length} mesh rooms`);
     } catch (e: any) {
       console.error('Error fetching lobbies:', e);
       error = 'No se pudieron cargar las partidas activas.';
@@ -55,21 +46,19 @@
   }
 
   onMount(() => {
-    fetchLobbies();
+    try {
+      const config = document.getElementById('api-config')?.textContent;
+      if (config) {
+        regionFilter = String(JSON.parse(config).countryCode || '').toUpperCase();
+      }
+    } catch {
+      regionFilter = '';
+    }
 
-    // Subscribe to changes to keep it updated
-    const channel = supabase.channel('lobby-updates')
-      .on('postgres_changes', {
-        event: '*',
-        schema: 'public',
-        table: 'party_sessions'
-      }, () => {
-        fetchLobbies();
-      })
-      .subscribe();
-
+    void fetchLobbies();
+    refreshInterval = setInterval(fetchLobbies, 10_000);
     return () => {
-      supabase.removeChannel(channel);
+      if (refreshInterval) clearInterval(refreshInterval);
     };
   });
 </script>

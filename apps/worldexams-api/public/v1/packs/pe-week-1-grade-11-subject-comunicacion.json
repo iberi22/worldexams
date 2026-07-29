@@ -1,889 +1,909 @@
 {
   "metadata": {
     "grade": 11,
-    "subject": "Comunicacion",
+    "subject": "comunicacion",
     "country": "pe",
     "pack_id": "pe-week-1-grade-11-subject-comunicacion",
     "generated_at": "2026-06-18T23:59:08.243Z"
   },
   "questions": [
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v1",
-      "statement": "En una lectura en Trujillo: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "En la obra de Abraham Valdelomar, ¿cuál es el nombre del gallo viejo y noble que representa las virtudes del honor y el valor en el hogar familiar?",
+      "context": "Un estudiante en un colegio de Trujillo lee el cuento 'El caballero Carmelo' de Abraham Valdelomar.",
       "options": [
         {
           "letter": "A",
-          "text": "** Crear una atmosfera o ambiente",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "El Ajiseco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Ajiseco es el rival joven y arrogante contra el cual pelea el Carmelo."
         },
         {
           "letter": "B",
-          "text": "** Presentar un argumento",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** Narrar una secuencia",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v2",
-      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** Funcion expresiva o emotiva",
+          "text": "El caballero Carmelo",
           "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** Funcion referencial",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Correcto. El caballero Carmelo es el gallo protagonista que encarna la nobleza y la valentía en el relato de Valdelomar."
         },
         {
           "letter": "C",
-          "text": "** Funcion apelativa",
+          "text": "El gallo de pelea de San Andrés",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. Este es solo un término general para referirse a la procedencia geográfica, no es el nombre del protagonista."
         },
         {
           "letter": "D",
-          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "text": "El Pelado",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El Pelado es otro gallo de la familia, caracterizado por ser travieso y causar disgustos antes de la pelea del Carmelo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
+      "correct_answer": "B",
+      "explanation": "El cuento 'El caballero Carmelo' se centra en la figura de un viejo gallo de pelea homónimo que es considerado un miembro noble de la familia en la provincia de Pisco.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v3",
-      "statement": "Identifica el conector: Huancayo es hermosa, ____ su gente es acogedora.",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "En la narrativa de Valdelomar, especialmente en 'El caballero Carmelo', ¿qué valor ético-familiar simboliza fundamentalmente el Carmelo?",
+      "context": "Un taller literario en Arequipa analiza los símbolos en la narrativa de Abraham Valdelomar.",
       "options": [
         {
           "letter": "A",
-          "text": "** ademas",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "La rebeldía juvenil frente a la autoridad paterna",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Carmelo representa valores tradicionales de madurez, serenidad y respeto, no rebeldía juvenil."
         },
         {
           "letter": "B",
-          "text": "** sin embargo",
+          "text": "El desprecio por las tradiciones rurales",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. Al contrario, la obra exalta con nostalgia las tradiciones rurales y costeñas del Perú."
         },
         {
           "letter": "C",
-          "text": "** por lo tanto",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v4",
-      "statement": "Cual oracion esta correctamente escrita?",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** Los estudiantes del Colegio Nacional Coronel Bolognesi estudian mucho.",
+          "text": "La dignidad frente a la vejez y el deber cumplido",
           "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** Los estudiantes del Colegio Nacional Coronel Bolognesi estudian mucho.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** Los estudiantes del school estudian mucho.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Correcto. El gallo Carmelo acepta combatir a pesar de su avanzada edad y cansancio, representando la dignidad, el honor familiar y el sacrificio."
         },
         {
           "letter": "D",
-          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "text": "La ambición por el dinero de las apuestas",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. La familia no desea apostar por ambición comercial; es el honor y el compromiso del padre lo que impulsa el evento."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v5",
-      "statement": "En el Colegio Nacional La Libertad de Huaraz, analizando un texto. Cual es la idea principal?",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** El agua solo se usa para beber",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** El agua no es importante",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
+      "correct_answer": "C",
+      "explanation": "El Carmelo simboliza el honor, la nobleza y el cumplimiento del deber aun en la vejez, contrastando con el carácter arrogante y puramente instintivo del Ajiseco.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v6",
-      "statement": "En una lectura en Iquitos: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "Lea el siguiente fragmento:\n'Efraín y Enrique comenzaron su trabajo. Cada uno con su lata se dirigía a los muladares... Don Santos los esperaba con la vara en la mano'.\n¿Qué tipo de conflicto socio-humano predomina en este fragmento del cuento literario de Ribeyro?",
+      "context": "En la preparación para el examen de la UNMSM, se estudia el cuento 'Los gallinazos sin plumas' de Julio Ramón Ribeyro.",
       "options": [
         {
           "letter": "A",
-          "text": "** Crear una atmosfera o ambiente",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "La falta de comunicación entre diferentes generaciones andinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no se enfoca en problemas generacionales andinos, sino en la explotación urbana costeña de la marginalidad de Lima."
         },
         {
           "letter": "B",
-          "text": "** Presentar un argumento",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "La explotación infantil y la deshumanización en la urbe marginal",
+          "is_correct": true,
+          "feedback": "Correcto. El abuelo Don Santos representa la explotación despiadada hacia sus nietos Efraín y Enrique para alimentar al cerdo Pascual, reflejando la deshumanización de los sectores marginados."
         },
         {
           "letter": "C",
-          "text": "** Narrar una secuencia",
+          "text": "La delincuencia juvenil organizada en los callejones limeños",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. Los niños no participan de delincuencia organizada, sino que realizan tareas de recolección de basura para subsistir bajo coacción."
         },
         {
           "letter": "D",
-          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "text": "El abandono del Estado en el ámbito de la salud rural peruana",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El escenario es netamente urbano (la periferia de la Lima metropolitana) y se enfoca en la dinámica familiar opresiva."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
+      "correct_answer": "B",
+      "explanation": "Ribeyro expone en 'Los gallinazos sin plumas' la cruda realidad del abuso familiar e infantil dentro de los muladares limeños de mediados del siglo XX, donde la pobreza extrema aliena y deshumaniza a las personas.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v7",
-      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "Si quisiéramos asociar la situación de explotación de Enrique y Efraín con un problema social contemporáneo en el centro de Lima o sus distritos periféricos, ¿cuál de los siguientes fenómenos sería el equivalente directo?",
+      "context": "Un estudiante de Lima redacta una comparación crítica entre los protagonistas de 'Los gallinazos sin plumas' y un escenario social actual.",
       "options": [
         {
           "letter": "A",
-          "text": "** Funcion expresiva o emotiva",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "La deserción estudiantil en universidades particulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este fenómeno involucra educación superior privada, alejado de la subsistencia y explotación infantil extrema."
         },
         {
           "letter": "B",
-          "text": "** Funcion referencial",
+          "text": "La escasez de mano de obra calificada en el sector minero de la sierra",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. Se trata de un problema técnico de otra región geográfica y laboral."
         },
         {
           "letter": "C",
-          "text": "** Funcion apelativa",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "El trabajo infantil informal en botaderos de basura y calles céntricas",
+          "is_correct": true,
+          "feedback": "Correcto. La recolección de residuos en muladares bajo explotación es la definición directa del trabajo infantil informal y peligroso en zonas marginales actuales."
         },
         {
           "letter": "D",
-          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
+          "text": "La migración de profesionales peruanos calificados al extranjero",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. Esto se denomina 'fuga de cerebros', un fenómeno socioeconómico de clase media/alta que no guarda analogía con la marginalidad extrema descrita."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "El trabajo infantil en condiciones insalubres (reciclar basura en botaderos o calles para generar ingresos para terceros) es el equivalente contemporáneo exacto a la labor de Enrique y Efraín en el relato de Ribeyro.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "En la novela 'Los ríos profundos' de José María Arguedas, ¿qué objeto mágico y musical de origen andino sirve como elemento de pacificación y unión entre los estudiantes del internado de Abancay?",
+      "context": "Un estudiante de 5to de secundaria analiza el indigenismo peruano a través de las novelas de José María Arguedas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quena de caña",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es un instrumento tradicional andino, no es el objeto focal de integración escolar descrito en el texto de Arguedas."
+        },
+        {
+          "letter": "B",
+          "text": "El charango de caparazón de armadillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El charango tiene presencia en la novela, pero no cumple la función de juego e hipnosis colectiva del zumbayllu."
+        },
+        {
+          "letter": "C",
+          "text": "El zumbayllu",
+          "is_correct": true,
+          "feedback": "Correcto. El zumbayllu es un trompo rústico que, al girar y emitir un zumbido, evoca la magia del viento y la música andina, logrando pacificar los ánimos hostiles de los jóvenes en el internado."
+        },
+        {
+          "letter": "D",
+          "text": "El huayno cantado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canto colectivo es importante en la obra de Arguedas, pero el objeto lúdico y mágico central en los primeros capítulos del internado es el trompo o zumbayllu."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El zumbayllu es el trompo mágico cuya música evoca para Ernesto la armonía de la naturaleza andina y actúa como puente de comunicación e identidad en un entorno conflictivo.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v8",
-      "statement": "Identifica el conector: Puno es hermosa, ____ su gente es acogedora.",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "A partir de la experiencia del protagonista Ernesto en 'Los ríos profundos', ¿cómo se manifiesta su conflicto de identidad en el internado?",
+      "context": "Un grupo de estudio en Cusco discute el sentido del bilingüismo y la dualidad cultural en 'Los ríos profundos'.",
       "options": [
         {
           "letter": "A",
-          "text": "** ademas",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "Rechaza sus orígenes hispanos y se niega a aprender castellano literario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ernesto habla perfectamente castellano, pero su sensibilidad está profundamente ligada al quechua."
         },
         {
           "letter": "B",
-          "text": "** sin embargo",
+          "text": "Siente vergüenza de haber crecido en comunidades indígenas andinas",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. Al contrario, él añora la ternura y la música de las comunidades indias donde fue criado y de las cuales extrae su fuerza moral."
         },
         {
           "letter": "C",
-          "text": "** por lo tanto",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v9",
-      "statement": "Cual oracion esta correctamente escrita?",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
+          "text": "Se halla atrapado entre el mundo señorial hispano (opresor) y el mundo indígena (maternal y armónico)",
           "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** Los estudiantes del Colegio Nacional Santa Isabel estudian mucho.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** Los estudiantes del school estudian mucho.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Correcto. Ernesto vive una profunda dualidad: pertenece por herencia familiar al mundo criollo o terrateniente, pero su sensibilidad moral, lingüística y espiritual pertenece al mundo quechua, viéndose marginado en el internado."
         },
         {
           "letter": "D",
-          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "text": "Intenta asimilarse rápidamente a las costumbres limeñas de los profesores",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El internado se ubica en Abancay y los referentes de Ernesto están lejos de las modas urbanas de Lima."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
+      "correct_answer": "C",
+      "explanation": "El conflicto arguediano central es la escisión cultural: el protagonista se encuentra en una frontera donde debe convivir con el sistema escolar opresivo y jerárquico mientras su alma añora la cosmovisión andina solidaria.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v10",
-      "statement": "En el Colegio Nacional de la Independencia Americana de Arequipa, analizando un texto. Cual es la idea principal?",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "Lea el fragmento de una leyenda recogida por Arguedas:\n'El Amaru es una serpiente alada que vive en el fondo de las lagunas. Cuando el agua se agita, el Amaru vuela desatando las tormentas y renovando la tierra'.\nSi aplicamos este mito andino para interpretar un cambio social brusco pero necesario en una comunidad, ¿qué valor cultural se le atribuye al Amaru según el texto?",
+      "context": "Un examen simulado tipo UNMSM en San Juan de Lurigancho presenta un texto sobre las tradiciones orales andinas.",
       "options": [
         {
           "letter": "A",
-          "text": "** El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "La destrucción absoluta y el castigo eterno de los pecados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cosmovisión andina no opera bajo el concepto de pecado judeocristiano de castigo eterno; el Amaru tiene un fin transformador."
         },
         {
           "letter": "B",
-          "text": "** El agua solo se usa para beber",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "Un agente de cambio cíclico que destruye para regenerar la vida",
+          "is_correct": true,
+          "feedback": "Correcto. El Amaru desata tormentas que, aunque destructivas en apariencia, tienen como fin 'renovar la tierra', lo que simboliza la regeneración cíclica."
         },
         {
           "letter": "C",
-          "text": "** El agua no es importante",
+          "text": "El temor reverencial a la tecnología moderna",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El mito es prehispánico y se vincula con la naturaleza, no con el miedo a la tecnología contemporánea."
         },
         {
           "letter": "D",
-          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "text": "La inmutabilidad del orden social establecido",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El Amaru agita las aguas y vuela desatando cambios, lo que representa transformación y movimiento, no inmutabilidad."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "En la mitología andina, el desorden temporal o catástrofe (pachakuti) representado por deidades como el Amaru no es un fin destructivo nihilista, sino un paso necesario para el reordenamiento y la fertilidad de la tierra.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v11",
-      "statement": "En una lectura en Arequipa: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "Lea el siguiente inicio de relato:\n'Llegamos a la pampa de la quinua cuando el sol empezaba a ocultarse. Mi padre señaló con el dedo el gran obelisco y guardó silencio. Yo entendí que debíamos quitarnos los sombreros'.\n¿Qué tipo de narrador se emplea en el fragmento y cuál es su efecto pragmático inmediato?",
+      "context": "Una sesión sobre técnicas de narración contemporánea en Chimbote analiza el narrador en la literatura peruana.",
       "options": [
         {
           "letter": "A",
-          "text": "** Crear una atmosfera o ambiente",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "Narrador omnisciente; genera un distanciamiento irónico y frío de la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utiliza la primera persona ('Llegamos', 'Mi padre', 'Yo'), lo que descarta al narrador omnisciente."
         },
         {
           "letter": "B",
-          "text": "** Presentar un argumento",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "Narrador protagonista (primera persona); otorga intimidad y veracidad emocional a la experiencia del viaje",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador participa directamente en la acción física y expresa sus sentimientos íntimos de respeto ('entendí que debíamos quitarnos los sombreros'), generando cercanía emocional con el lector."
         },
         {
           "letter": "C",
-          "text": "** Narrar una secuencia",
+          "text": "Narrador testigo; describe de manera externa e imparcial las acciones de un héroe histórico",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El narrador no es un observador pasivo de un tercero; él es parte central de la vivencia familiar íntima."
         },
         {
           "letter": "D",
-          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
+          "text": "Narrador en segunda persona; busca interpelar al lector para que tome una posición política activa",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. No se dirige al lector como 'tú', sino que narra en primera persona del plural y singular."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "La narración en primera persona (protagonista) restringe la perspectiva a lo que el personaje ve y siente, propiciando una conexión subjetiva fuerte y una sensación de autenticidad en el relato de viaje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "En la narrativa de Mario Vargas Llosa, el uso de múltiples perspectivas o 'múltiples puntos de vista' sobre un mismo acontecimiento histórico sirve principalmente para:",
+      "context": "Análisis de la novela histórica 'La guerra del fin del mundo' de Mario Vargas Llosa en un colegio de Piura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundir deliberadamente al lector y evitar que comprenda el desenlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo de las técnicas de Vargas Llosa no es la confusión caótica, sino la representación de la complejidad social."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que la realidad histórica es compleja, fragmentada y subjetiva",
+          "is_correct": true,
+          "feedback": "Correcto. Al presentar los hechos a través de los ojos de los soldados del gobierno, los rebeldes, el Consejero y periodistas, el autor ilustra la imposibilidad de una única verdad absoluta e incuestionable."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar la falta de documentación real de los procesos históricos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vargas Llosa destaca justamente por su rigurosa investigación documental e histórica previa a la redacción de sus novelas."
+        },
+        {
+          "letter": "D",
+          "text": "Garantizar que la voz oficial del gobierno sea la que predomine en la novela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La técnica descentraliza la voz oficial para dar igual peso narrativo a las voces marginales, disidentes o místicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La polifonía y el multiperspectivismo en la novela moderna permiten explorar los sesgos ideológicos de los participantes en un conflicto, revelando que la 'historia' se compone de múltiples verdades en pugna.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v12",
-      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "Lea el fragmento:\n'Por la noche, Roberto regresaba a su cuarto con los bolsillos vacíos, pero con la cabeza llena de proyectos fantásticos. En Lima, pensaba él, basta una buena idea para volverse millonario en un mes'.\n¿Qué actitud o rasgo psicológico del personaje limeño de clase media o baja es criticado sutilmente por la ironía ribeyriana en este fragmento?",
+      "context": "Estudio del cuento 'La palabra del mudo' de Ribeyro en una biblioteca comunal de Comas.",
       "options": [
         {
           "letter": "A",
-          "text": "** Funcion expresiva o emotiva",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "La falta de imaginación y creatividad para resolver la pobreza urbana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, Roberto tiene 'proyectos fantásticos' e imaginación desbordante."
         },
         {
           "letter": "B",
-          "text": "** Funcion referencial",
+          "text": "El desinterés por las oportunidades educativas que brinda el Estado",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El texto no alude a la educación formal, sino a la expectativa de enriquecimiento rápido."
         },
         {
           "letter": "C",
-          "text": "** Funcion apelativa",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v13",
-      "statement": "Identifica el conector: Arequipa es hermosa, ____ su gente es acogedora.",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** ademas",
+          "text": "El autoengaño ilusorio y la idealización del éxito rápido sin bases reales",
           "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** sin embargo",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** por lo tanto",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Correcto. La ironía de Ribeyro reside en contrastar la dura realidad material de Roberto (bolsillos vacíos) con sus fantasías desmesuradas de riqueza instantánea (volverse millonario en un mes con una sola idea), rasgo común en sus personajes frustrados."
         },
         {
           "letter": "D",
-          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "text": "Su profunda resignación y conformismo frente a su destino económico",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El personaje no está resignado; por el contrario, sueña activamente con el éxito, aunque de manera ingenua e inoperante."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v14",
-      "statement": "Cual oracion esta correctamente escrita?",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** Los estudiantes del Colegio Nacional San Ramon estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** Los estudiantes del Colegio Nacional San Ramon estudian mucho.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** Los estudiantes del school estudian mucho.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v15",
-      "statement": "En el Colegio Nacional Iquitos de Iquitos, analizando un texto. Cual es la idea principal?",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** El agua solo se usa para beber",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** El agua no es importante",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v16",
-      "statement": "En una lectura en Cajamarca: El sol brillaba mientras los pajaros cantaban. Que funcion cumple?",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** Crear una atmosfera o ambiente",
-          "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** Presentar un argumento",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** Narrar una secuencia",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** Describir un dialogo\r\n  \r\n\r\n**Explicacion:** Las descripciones ayudan a crear la atmosfera de la narracion.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "La ironía ribeyriana retrata con agudeza la frustración de la clase media y baja de la Lima de mediados de siglo, caracterizada por albergar ambiciones desmedidas que chocan inevitablemente contra la rigidez de las estructuras sociales y económicas.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v17",
-      "statement": "Cual es la funcion del lenguaje en: Feliz cumpleaños!",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "Si tuviéramos que caracterizar el 'realismo urbano' de la generación del 50 en el Perú en contraste con el indigenismo previo, ¿cuál de los siguientes enunciados define mejor su especificidad temática?",
+      "context": "Un estudiante de secundaria analiza el concepto de 'realismo urbano' peruano para una exposición escolar.",
       "options": [
         {
           "letter": "A",
-          "text": "** Funcion expresiva o emotiva",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "El traslado del foco de atención hacia los conflictos agrarios de los latifundios serranos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe al indigenismo clásico, no al realismo urbano de la generación del 50."
         },
         {
           "letter": "B",
-          "text": "** Funcion referencial",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
-          "text": "** Funcion apelativa",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "D",
-          "text": "** Funcion metalinguistica\r\n  \r\n\r\n**Explicacion:** La funcion expresiva se centra en el emisor y expresa sentimientos.\r\n\r\n---",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "Comunicacion",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v18",
-      "statement": "Identifica el conector: Callao es hermosa, ____ su gente es acogedora.",
-      "context": "Clase de lenguaje en PE.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "** ademas",
+          "text": "La representación de Lima como una urbe hostil y devoradora que recibe las primeras oleadas de migrantes provincianos",
           "is_correct": true,
-          "feedback": "Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "** sin embargo",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Correcto. El realismo urbano (Congrains, Ribeyro) explora las barriadas, la burocracia estatal media y la difícil adaptación de los migrantes andinos a una capital que los marginaliza."
         },
         {
           "letter": "C",
-          "text": "** por lo tanto",
+          "text": "La idealización bucólica y poética de las caletas de pescadores del norte peruano",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El tono del realismo del 50 es de denuncia social y desilusión, ajeno a la idealización romántica o bucólica."
         },
         {
           "letter": "D",
-          "text": "** aunque\r\n  \r\n\r\n**Explicacion:** El conector 'ademas' anade informacion complementaria.\r\n\r\n---",
+          "text": "El análisis psicológico de la aristocracia limeña durante el virreinato",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. La generación del 50 es contemporánea y se enfoca en las clases medias, bajas y migrantes, no en el virreinato aristocrático."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "La generación de 1950 registra la gran transformación demográfica de Lima debido a la migración del campo a la ciudad. Sus relatos asumen una mirada desencantada de la capital, retratada como un 'monstruo de un millón de cabezas' (en palabras de Congrains).\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v19",
-      "statement": "Cual oracion esta correctamente escrita?",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "En 'Yawar Fiesta', el conflicto central gira en torno a la prohibición gubernamental de la corrida de toros al estilo andino (turupukllay). ¿Qué revela este conflicto sobre las relaciones de poder en Puquio?",
+      "context": "Un círculo de lectura en Cusco analiza la novela 'Yawar Fiesta' de José María Arguedas.",
       "options": [
         {
           "letter": "A",
-          "text": "** Los estudiantes del Colegio Nacional San Ramon estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "La perfecta asimilación y acuerdo armonioso entre las autoridades de Lima y los comuneros de Puquio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una tensión constante y conflicto abierto, no asimilación armoniosa."
         },
         {
           "letter": "B",
-          "text": "** Los estudiantes del Colegio Nacional San Ramon estudian mucho.",
+          "text": "El desinterés absoluto de los indígenas por conservar sus ritos religiosos ancestrales",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. Los comuneros defienden con fervor el turupukllay como afirmación de su valor e identidad comunal."
         },
         {
           "letter": "C",
-          "text": "** Los estudiantes del school estudian mucho.",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "El choque cultural entre el centralismo modernizador limeño (que tilda la fiesta de bárbara) y la resistencia cultural andina (que la considera un rito de identidad)",
+          "is_correct": true,
+          "feedback": "Correcto. La circular del gobierno de Lima prohíbe la corrida por considerarla 'salvaje', chocando contra los comuneros locales que ven en el turupukllay la máxima expresión de su valentía y autonomía cultural frente al misti (blanco/mestizo)."
         },
         {
           "letter": "D",
-          "text": "** Los estudiantes del school estudian mucho.\r\n  \r\n\r\n**Explicacion:** La opcion A sigue las normas ortograficas correctamente.\r\n\r\n---",
+          "text": "La alianza inquebrantable de los terratenientes locales con las demandas de los indios más pobres",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. Los terratenientes (mistis) están divididos; algunos apoyan la modernización de Lima para ganar prestigio y otros la rechazan por defender sus privilegios feudales, pero no se alían de forma desinteresada con los indios."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "La novela escenifica el conflicto irresuelto entre el deseo de modernización homogeneizadora impuesto por el Estado central peruano y la vigorosa resistencia de las culturas locales andinas por preservar sus modos de existencia y ritualidad.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     },
     {
-      "id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-v20",
-      "statement": "En el Colegio Nacional Coronel Bolognesi de Tacna, analizando un texto. Cual es la idea principal?",
-      "context": "Clase de lenguaje en PE.",
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "Lea el fragmento de 'Tristitia':\n'Mi infancia, que fue dulce, serena, triste y sola, / se deslizó en la paz de una aldea lejana, / entre el manso rumor con que muere una ola / y el tañer doloroso de una vieja campana'.\n¿Qué atmósfera emocional configura fundamentalmente el autor a través de la descripción de su entorno de infancia?",
+      "context": "Se evalúa la comprensión de 'Tristitia', el famoso poema de Abraham Valdelomar.",
       "options": [
         {
           "letter": "A",
-          "text": "** El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto!"
+          "text": "Un dinamismo festivo propio de las celebraciones patronales costeñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos 'triste y sola', 'manso rumor con que muere una ola' y 'tañer doloroso' configuran una atmósfera de recogimiento, no de fiesta."
         },
         {
           "letter": "B",
-          "text": "** El agua solo se usa para beber",
-          "is_correct": false,
-          "feedback": "Incorrecto."
+          "text": "Una melancolía serena asociada al paisaje marino y la soledad del hogar provinciano",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de elementos naturales (el mar de Pisco) y acústicos (la campana de la iglesia) genera un tono de nostalgia dulce, triste y contemplativa típica de la estética postmodernista de Valdelomar."
         },
         {
           "letter": "C",
-          "text": "** El agua no es importante",
+          "text": "El pavor existencial ante la inminencia del terremoto en el sur peruano",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. No se describe ningún desastre o pavor existencial violento; la escena es de calma y paz rural deslizada de forma mansa."
         },
         {
           "letter": "D",
-          "text": "** El agua es un recurso infinito\r\n  \r\n\r\n**Explicacion:** El texto destaca la importancia del agua como recurso vital.\r\n\r\n---",
+          "text": "La rebeldía romántica del poeta que se siente incomprendido por su familia",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Incorrecto. El poema exalta la paz del hogar y la ternura de sus padres ('me dieron el oro de su ternura...'), mostrando agradecimiento, no rebeldía."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Valdelomar edifica en 'Tristitia' un espacio íntimo de comunión con la naturaleza costera, donde la tristeza no es un dolor insoportable, sino un rasgo lírico de melancolía que define la identidad del yo poético.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "bundle_id": "PE-COM-11-2026-W01-comunicacion-proceso-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "Comunicacion",
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "En la obra narrativa de César Vallejo, como en su novela 'El tungsteno' o el cuento 'Paco Yunque', ¿qué perspectiva ideológico-social asume primordialmente la voz narrativa?",
+      "context": "En un círculo de estudios preuniversitarios en Trujillo, se estudia el vanguardismo de César Vallejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El esteticismo puro, desprovisto de juicios éticos o de compromiso político",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vallejo se caracteriza por un fuerte compromiso humano y social; su literatura no busca el arte por el arte."
+        },
+        {
+          "letter": "B",
+          "text": "La justificación de las desigualdades como parte del orden natural de las cosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda la obra vallejana denuncia con dolor y rabia las injusticias, buscando despertar la sensibilidad ética del lector."
+        },
+        {
+          "letter": "C",
+          "text": "La denuncia explícita de las asimetrías de clase y la opresión sobre los sectores desprotegidos",
+          "is_correct": true,
+          "feedback": "Correcto. 'El tungsteno' denuncia la explotación de los peones e indígenas por parte de una empresa minera extranjera y la oligarquía local; 'Paco Yunque' expone la humillación del niño campesino por parte de la élite de provincia."
+        },
+        {
+          "letter": "D",
+          "text": "La defensa de las corporaciones transnacionales como motores únicos del progreso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Justamente las empresas mineras extranjeras son retratadas como entes despiadados y corruptores en 'El tungsteno'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La narrativa de Vallejo de los años 30 se inscribe dentro de un realismo social o literatura de compromiso, donde el autor denuncia activamente las condiciones de explotación de la clase trabajadora y la población indígena del Perú.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Considerando las actitudes de Humberto Grieve (el niño rico) y la pasividad del maestro de escuela en 'Paco Yunque', ¿cuál es el cuestionamiento ético implícito que el cuento plantea a las instituciones sociales peruanas de su tiempo?",
+      "context": "Un debate en el aula en Lima evalúa los personajes de 'Paco Yunque' y sus implicancias morales contemporáneas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La incapacidad de los maestros para enseñar contenidos de matemáticas complejas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto del aula no es pedagógico-académico, sino moral y de abuso de poder sin sanción."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de infraestructura moderna en los colegios públicos andinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento no centra su crítica en el aspecto material del aula, sino en las relaciones humanas e institucionales."
+        },
+        {
+          "letter": "C",
+          "text": "La complicidad del sistema educativo frente a los abusos cometidos por las clases influyentes",
+          "is_correct": true,
+          "feedback": "Correcto. El maestro tolera las mentiras, agresiones y tardanzas de Humberto Grieve debido al poder económico de su padre (el gerente de la empresa local), lo que demuestra cómo las jerarquías de clase corrompen la justicia en la escuela."
+        },
+        {
+          "letter": "D",
+          "text": "La necesidad de expulsar a los niños campesinos de las escuelas urbanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vallejo defiende la dignidad de Paco Yunque; el cuento no promueve la segregación, sino que denuncia la marginación existente para combatirla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cuento 'Paco Yunque' constituye una dura parábola social. A través de la injusticia sufrida por Paco, Vallejo critica la doble moral del sistema escolar y de las autoridades que, por temor o conveniencia ante el poder económico, se vuelven cómplices del abuso y la impunidad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "Lea la siguiente afirmación de José María Arguedas en su discurso 'No soy un aculturado':\n'Yo no soy un aculturado; yo soy un peruano que orgullosamente, como un demonio feliz habla en cristiano y en indio, en español y en quechua'.\n¿Cuál es el valor epistemológico y social que defiende Arguedas sobre la identidad peruana en esta famosa cita?",
+      "context": "Un profesor de literatura de una universidad limeña dicta una conferencia sobre la vigencia del indigenismo arguediano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La erradicación del castellano para recuperar el quechua como única lengua nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arguedas habla 'en cristiano y en indio', defendiendo la coexistencia y mestizaje de ambos mundos, no la eliminación de uno."
+        },
+        {
+          "letter": "B",
+          "text": "La superioridad inherente de la cultura criolla sobre las tradiciones andinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda la vida y obra de Arguedas combate la discriminación y la falsa idea de que la cultura andina es inferior."
+        },
+        {
+          "letter": "C",
+          "text": "La posibilidad de habitar simultáneamente dos universos culturales distintos sin perder la autenticidad",
+          "is_correct": true,
+          "feedback": "Correcto. El autor rechaza la idea de que para integrarse a la modernidad occidental el indígena deba renunciar a su herencia cultural, proponiendo un diálogo de culturas asertivo y simétrico (interculturalidad)."
+        },
+        {
+          "letter": "D",
+          "text": "La necesidad de aislar a las comunidades andinas de todo contacto con el mundo exterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arguedas reconoce la necesidad de dominar el castellano ('habla en cristiano') para interactuar en el mundo moderno, pero conservando la riqueza andina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Arguedas encarna una visión no excluyente de la identidad nacional. Ante la tesis de que la modernización requería la homogeneización (aculturación o pérdida de la identidad indígena), él plantea la vigencia de un sujeto bilingüe y bicultural que enriquece la nación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "En 'Los cachorros' de Mario Vargas Llosa, el uso de un narrador colectivo en primera persona del plural (el 'nosotros') para narrar la tragedia de Cuéllar cumple la función formal de:",
+      "context": "Un seminario crítico en Arequipa deconstruye la estructura de la célebre novela corta de Vargas Llosa 'Los cachorros'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocultar la identidad del verdadero culpable de la castración física del protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agresión del perro Judas es un accidente fortuito y público; no hay un culpable humano que ocultar."
+        },
+        {
+          "letter": "B",
+          "text": "Representar la presión asfixiante de la mentalidad de grupo de la burguesía miraflorina de la época",
+          "is_correct": true,
+          "feedback": "Correcto. El 'nosotros' (la pandilla del barrio) actúa como una conciencia colectiva que acompaña, juzga, asimila y finalmente margina a Cuéllar cuando este es incapaz de adaptarse a los ritos de virilidad y madurez exigidos por su clase social."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar el uso de diálogos para acelerar el ritmo del relato de aventuras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La novela está cargada de diálogos directos que se insertan de manera sumamente dinámica dentro de la corriente de voz del narrador."
+        },
+        {
+          "letter": "D",
+          "text": "Establecer la voz del propio autor como un juez moral absoluto fuera de la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador colectivo está inmerso en la historia (es personaje-testigo); comparte los mismos prejuicios de su grupo y no juzga desde afuera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso del pronombre 'nosotros' fusiona las voces de los amigos de Cuéllar (Choto, Chingolo, Mañuco, Lalo). Esta técnica de narración coral expresa la homogeneidad de su círculo socioeconómico y cómo el grupo condiciona y aliena las vidas individuales de sus integrantes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.25,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "Lea los siguientes dos pasajes sobre la vida en Lima:\n**Texto A (Felipe Pardo y Aliaga, siglo XIX):** '¡Qué gusto da ver las buenas costumbres y el respeto a la mesa de nuestros mayores en este valle bendito, lejos de las modas alocadas de Francia!'\n**Texto B (Enrique Congrains, siglo XX):** 'Lima era una mandíbula gigante que trituraba a los miles de hombres que bajaban de los cerros buscando una choza donde ampararse'.\n¿Qué divergencia ideológico-estética fundamental se constata entre ambos autores?",
+      "context": "Se compara críticamente el costumbrismo del siglo XIX con la generación de 1950 en el Perú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A propone un análisis económico moderno mientras que el Texto B es puramente humorístico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto A es conservador y costumbrista, no económico; el Texto B es de corte dramático y realista, no humorístico."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos autores coinciden en idealizar el campo frente al progreso tecnológico de la capital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pardo y Aliaga defiende el orden aristocrático colonial de la ciudad; Congrains retrata de manera brutal la marginalidad urbana de la migración."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto A adopta una postura conservadora y nostálgica del orden tradicional, mientras que el Texto B ejerce una denuncia naturalista de la violencia social urbana",
+          "is_correct": true,
+          "feedback": "Correcto. Pardo y Aliaga representa al costumbrismo de élite que idealiza el pasado colonial y sus ritos señoriales; Congrains representa el neorrealismo urbano que describe con lenguaje crudo el impacto de la modernización desordenada y la migración masiva."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto A defiende la revolución obrera y el Texto B aboga por el retorno al virreinato de España",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es justamente al revés en cuanto a posturas ante el cambio, y las ideas de revolución obrera no corresponden a Pardo y Aliaga."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El contraste muestra la evolución de la literatura sobre Lima: de la mirada protectora, satírica y nostálgica de la élite decimonónica costumbrista a la visión descarnada, existencial y de denuncia social propia de la narrativa urbana de mediados del siglo XX.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "Lea el fragmento de la novela 'Conversación en La Catedral' de Mario Vargas Llosa:\n'¿En qué momento se había jodido el Perú, piensa Santiago entre la avenida Tacna y la avenida Emancipación? Él piensa: eran los tiempos del General Odría, cuando la ciudad se llenaba de polvo y de silencios cómplices'.\n¿Cuál es la hipótesis central sobre la decadencia republicana que el protagonista Santiago Zavala plantea de forma metafórica en esta emblemática interrogante?",
+      "context": "Un examen de admisión preuniversitario UNI de alta dificultad evalúa la comprensión epistemológica de la narrativa contemporánea peruana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la decadencia del país se inició debido a factores externos como la caída de los precios internacionales de los minerales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Santiago asocia la frustración con un problema moral interno ligado al autoritarismo y la complicidad de su propia clase social, no a factores macroeconómicos globales."
+        },
+        {
+          "letter": "B",
+          "text": "Que la frustración nacional no es un evento fortuito, sino un proceso acumulativo de claudicación moral y pérdida de libertades democráticas",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta sobre el momento en que se 'jodió' el país indaga en las raíces históricas de un fracaso colectivo que se agrava durante la dictadura de Odría (el Ochenio), donde la sociedad civil (incluida la familia adinerada de Santiago) claudicó moralmente a cambio de estabilidad económica."
+        },
+        {
+          "letter": "C",
+          "text": "La culpa exclusiva del crecimiento urbano desordenado sobre la felicidad de los ciudadanos de Lima",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geografía de Lima (el polvo) acompaña su pensamiento de desilusión existencial, pero el núcleo de la pregunta es ético, político e histórico."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta de restaurar el Imperio de los Incas como única vía de salvación moral para la República",
+          "is_correct": false,
+          "feedback": "Incorrecto. Santiago Zavala es un joven periodista de clase media alta desencantado con posturas utópicas; no propone una restauración indigenista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La célebre pregunta de Santiago Zavala sintetiza la frustración de una generación frente a la corrupción estructural del Estado y la sociedad peruana. Al asociarla con el régimen de Odría, se sugiere que la 'jodienda' es moral e institucional: el triunfo del pragmatismo amoral y la dictadura sobre los ideales de justicia y democracia.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "Si contrastamos el 'primer indigenismo' de Clorinda Matto de Turner en su novela 'Aves sin nido' (siglo XIX) con el indigenismo de José María Arguedas en 'Los ríos profundos' o Manuel Scorza en 'Redoble por Rancas' (siglo XX), ¿cuál es el avance epistemológico fundamental en la representación del sujeto indígena?",
+      "context": "Un simposio de literatura peruana analiza el impacto social del indigenismo y el neoindigenismo en el siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clorinda Matto de Turner dota al indio de un lenguaje quechua poético y místico, mientras que Arguedas lo retrata como un salvaje violento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: Matto de Turner escribe desde una perspectiva paternalista hispana y sus indios hablan con giros románticos ajenos a su realidad; Arguedas los dota de una gran profundidad interna y lírica basada en su propia lengua."
+        },
+        {
+          "letter": "B",
+          "text": "La renuncia del indigenismo del siglo XX a plantear reclamos sobre la tenencia de la tierra para centrarse solo en la música",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, las luchas agrarias por la tierra son centrales en Arguedas y en Scorza ('Redoble por Rancas' narra la rebelión campesina contra la Cerro de Pasco Corporation)."
+        },
+        {
+          "letter": "C",
+          "text": "La transición de una mirada paternalista-filantrópica externa hacia una representación autónoma, compleja y de resistencia activa desde la propia cosmovisión andina",
+          "is_correct": true,
+          "feedback": "Correcto. Matto de Turner asume una postura humanitaria y de queja cristiana donde el indio es una víctima pasiva que requiere la salvación de intelectuales criollos ilustrados; Arguedas y Scorza, en cambio, muestran al indio como un agente histórico complejo con una cosmovisión rica, capaz de organizarse, rebelarse y resistir la opresión terrateniente."
+        },
+        {
+          "letter": "D",
+          "text": "La asimilación definitiva del indio a la vida urbana criolla como única salida digna",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de estos autores propone la desaparición de la cultura andina mediante la asimilación criolla; defienden el valor autónomo de sus tradiciones y derechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evolución crítica del indigenismo muestra cómo se pasó de una estética romántica y piadosa del siglo XIX (donde el indígena era tutelado) a una literatura que otorga al sujeto andino voz propia, espesura mítica y un rol de combatiente histórico consciente de su destino.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-COM-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
       "grade": 11,
       "country": "pe"
     }

@@ -1,7 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import FlashlightCard from './FlashlightCard.svelte';
-  import CommentsSection from './CommentsSection.svelte';
   import QuestionFeedback from './QuestionFeedback.svelte';
   import MemoryStatus from './MemoryStatus.svelte';
   import AdBanner from './AdBanner.svelte';
@@ -10,6 +9,7 @@
   import ExamRoomResultsView from './ExamRoomResultsView.svelte';
   import SharedContextLayout from './SharedContextLayout.svelte';
   import { loadVideoManifest, type VideoManifestEntry } from '../lib/video-manifest';
+  import { generateExamPerformanceSnapshot, generateUserProfile } from '../lib/local-intelligence';
 
   import { supabase } from '../lib/supabase';
   import {
@@ -38,6 +38,7 @@
   } from '../lib/api-service';
   import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validation-registry';
   import { countryConfig as defaultCountryConfig, type CountryConfig as RuntimeCountryConfig } from '../config';
+  import TutorPanel from './ai/TutorPanel.svelte';
 
   // Props (Svelte 5 Runes)
   interface Props {
@@ -47,6 +48,7 @@
     onHome: () => void;
     onLeaderboard: () => void;
     onViewReports?: () => void;
+    onDiscussQuestion?: (question: any) => void;
     onLogin: () => void;
     onRegister: () => void;
     runtimeCountry?: RuntimeCountryConfig;
@@ -59,6 +61,7 @@
     onHome,
     onLeaderboard,
     onViewReports = undefined,
+    onDiscussQuestion = undefined,
     onLogin,
     onRegister,
     runtimeCountry = defaultCountryConfig
@@ -98,6 +101,18 @@
   }).length);
 
   let percentage = $derived(totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0);
+
+  let wrongQuestions = $derived(safeQuestions.filter(q => {
+    const u = String(userAnswers[q.id] || '').trim().toLowerCase();
+    const c = String(q.correctOptionId || '').trim().toLowerCase();
+    return !(u === c && u !== '');
+  }));
+
+  let canNativeShare = $state(false);
+  let shareFeedback = $state<string | null>(null);
+  let longitudinalMmr = $state<number | null>(null);
+  let longitudinalRank = $state<string | null>(null);
+  let commentCounts = $state<Record<string, number>>({});
 
   // Helper function for ExamResult conversion
   function toExamResult(data: ExamCompletionData, questionsList: any[], answers: Record<string | number, string>): ExamResult {
@@ -261,6 +276,8 @@
   }
 
   onMount(() => {
+    canNativeShare = typeof navigator !== 'undefined' && typeof navigator.share === 'function';
+
     (async () => {
         identity = getLocalIdentity();
         user = await getUser();
@@ -274,6 +291,30 @@
         await saveExamResultLocal(examData, localAnswers);
         hasGitHub = await hasGitHubAuth();
         await hydrateVideoMetadata();
+
+        try {
+          const [snapshot, profile] = await Promise.all([
+            generateExamPerformanceSnapshot(undefined, runtimeCountry),
+            generateUserProfile(runtimeCountry)
+          ]);
+          longitudinalMmr = profile?.globalMMR ?? null;
+          longitudinalRank = snapshot?.rankTitle || profile?.rankTitle || null;
+        } catch (e) {
+          console.warn('Could not load longitudinal MMR snapshot', e);
+        }
+
+        try {
+          const ids = (questions || []).map((q) => String(q.id)).filter(Boolean).slice(0, 40);
+          if (ids.length > 0) {
+            const res = await fetch(`/api/comments?counts=${encodeURIComponent(ids.join(','))}`);
+            if (res.ok) {
+              const body = await res.json();
+              commentCounts = body.counts || {};
+            }
+          }
+        } catch (e) {
+          console.warn('Could not load comment counts', e);
+        }
     })();
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange(async (_event, session) => {
@@ -312,6 +353,34 @@
         cleanupRoom();
     };
   });
+
+  function buildShareText() {
+    const subject = examData.subject || 'Simulacro';
+    const grade = examData.grade ? `grado ${examData.grade}` : '';
+    const site = runtimeCountry.product?.siteName || 'SaberParaTodos';
+    return `${site}: ${correctCount}/${totalQuestions} (${percentage}%) en ${subject} ${grade}`.trim();
+  }
+
+  async function handleShareResults() {
+    const text = buildShareText();
+    const url = typeof window !== 'undefined' ? window.location.origin : '';
+    try {
+      if (canNativeShare) {
+        await navigator.share({ title: 'Mis resultados', text, url });
+        shareFeedback = 'Compartido';
+      } else if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(`${text}${url ? `\n${url}` : ''}`);
+        shareFeedback = 'Copiado';
+      } else {
+        shareFeedback = 'No disponible';
+      }
+    } catch {
+      shareFeedback = null;
+    }
+    if (shareFeedback) {
+      setTimeout(() => { shareFeedback = null; }, 2500);
+    }
+  }
 
   async function saveScoreToSupabase() {
     if (!user || saved || isSaving) return;
@@ -503,6 +572,42 @@
       <!-- Score Display -->
       {#if examScore}
         <ScoreDisplay {examScore} {runtimeCountry} />
+        <div class="max-w-2xl mx-auto -mt-2 px-1">
+          <div class="rounded-xl border border-white/10 bg-white/[0.03] p-4 space-y-2">
+            <p class="text-[10px] font-bold uppercase tracking-widest text-white/45">Cómo leer tu puntaje</p>
+            <p class="text-xs sm:text-sm text-white/70 leading-relaxed">
+              El estimado de esta pantalla es de <span class="text-emerald-300 font-semibold">esta sesión</span>
+              ({correctCount}/{totalQuestions}, {percentage}% precisión).
+              {#if longitudinalMmr != null}
+                Tu nivel longitudinal (historial local) va aparte:
+                <span class="text-cyan-300 font-semibold">{Math.round(longitudinalMmr)}</span>
+                {#if longitudinalRank}
+                  · {longitudinalRank}
+                {/if}.
+              {:else}
+                Tu nivel longitudinal se construye en Informe con el historial local.
+              {/if}
+            </p>
+          </div>
+        </div>
+      {/if}
+
+      {#if wrongQuestions.length > 0 && onDiscussQuestion && runtimeCountry.features?.blog}
+        <div class="max-w-2xl mx-auto rounded-xl border border-amber-500/25 bg-amber-500/10 p-4 flex flex-col sm:flex-row sm:items-center gap-3">
+          <div class="flex-1 space-y-1">
+            <p class="text-[10px] font-bold uppercase tracking-widest text-amber-300">Revisar en comunidad</p>
+            <p class="text-xs sm:text-sm text-white/70">
+              Tienes {wrongQuestions.length} respuesta{wrongQuestions.length === 1 ? '' : 's'} para discutir en el banco social.
+            </p>
+          </div>
+          <button
+            type="button"
+            onclick={() => onDiscussQuestion?.(wrongQuestions[0])}
+            class="shrink-0 px-4 py-2.5 rounded-lg bg-amber-500/20 hover:bg-amber-500/30 border border-amber-400/30 text-amber-100 text-[10px] font-black uppercase tracking-widest transition-colors"
+          >
+            Abrir primera duda
+          </button>
+        </div>
       {/if}
 
       <!-- Detailed Review -->
@@ -513,6 +618,7 @@
           {@const isCorrect = u === c && u !== ''}
           {@const userAnswer = userAnswers[q.id]}
           {@const videoMeta = getVideoForQuestion(q.id)}
+          {@const discussCount = commentCounts[String(q.id)] || 0}
 
           <SharedContextLayout context={q.context} maxHeightDesktop="max-h-[60vh]">
             <div class={`
@@ -676,10 +782,32 @@
                 />
               </div>
 
-              <!-- Comments -->
-              <div class="pt-4 border-t border-white/5">
-                <CommentsSection questionId={q.id} />
-              </div>
+              <!-- Discuss CTA → Revisar / ArticleView comments -->
+              {#if onDiscussQuestion && runtimeCountry.features?.blog}
+                <div class="pt-4 border-t border-white/5">
+                  <button
+                    type="button"
+                    onclick={() => onDiscussQuestion?.(q)}
+                    class={`w-full flex items-center justify-between gap-3 px-4 py-3 rounded-xl border transition-colors ${
+                      isCorrect
+                        ? 'border-white/10 bg-white/[0.03] hover:bg-white/[0.06] text-white/70'
+                        : 'border-emerald-500/30 bg-emerald-500/10 hover:bg-emerald-500/15 text-emerald-100'
+                    }`}
+                  >
+                    <span class="text-left">
+                      <span class="block text-[10px] font-bold uppercase tracking-widest opacity-70">
+                        {isCorrect ? 'Ver discusión' : 'Discutir en Revisar'}
+                      </span>
+                      <span class="block text-xs sm:text-sm mt-0.5">
+                        {discussCount > 0
+                          ? `${discussCount} comentario${discussCount === 1 ? '' : 's'} en comunidad`
+                          : 'Abre el hilo social de esta pregunta'}
+                      </span>
+                    </span>
+                    <span class="text-lg opacity-70" aria-hidden="true">→</span>
+                  </button>
+                </div>
+              {/if}
             </div>
           </div>
         </SharedContextLayout>
@@ -777,4 +905,50 @@
     </div>
   </div>
   {/if}
+
+  <!-- Sticky post-exam Informe actions -->
+  {#if activeTab === 'individual'}
+    <div class="fixed bottom-0 left-0 right-0 z-50 border-t border-white/10 bg-[#0a0a0a]/95 backdrop-blur-md">
+      <div class="max-w-3xl mx-auto px-3 py-2.5 flex flex-wrap items-center justify-center gap-2 sm:gap-3">
+        <button
+          type="button"
+          onclick={onHome}
+          class="px-3 py-2 rounded-lg border border-white/10 bg-white/5 hover:bg-white/10 text-[10px] font-black uppercase tracking-widest text-white/70 transition-colors"
+        >
+          Inicio
+        </button>
+        {#if onViewReports}
+          <button
+            type="button"
+            onclick={onViewReports}
+            class="px-3 py-2 rounded-lg border border-emerald-500/30 bg-emerald-500/15 hover:bg-emerald-500/25 text-[10px] font-black uppercase tracking-widest text-emerald-200 transition-colors"
+          >
+            Ver informe
+          </button>
+        {/if}
+        <button
+          type="button"
+          onclick={onLeaderboard}
+          class="px-3 py-2 rounded-lg border border-white/10 bg-white/5 hover:bg-white/10 text-[10px] font-black uppercase tracking-widest text-white/70 transition-colors"
+        >
+          Ranking
+        </button>
+        {#if canNativeShare || (typeof navigator !== 'undefined' && !!navigator.clipboard)}
+          <button
+            type="button"
+            onclick={handleShareResults}
+            class="px-3 py-2 rounded-lg border border-cyan-500/25 bg-cyan-500/10 hover:bg-cyan-500/20 text-[10px] font-black uppercase tracking-widest text-cyan-200 transition-colors"
+          >
+            {shareFeedback || 'Compartir'}
+          </button>
+        {/if}
+      </div>
+    </div>
+  {/if}
+
+  <TutorPanel
+    questionText={questions[0]?.text || questions[0]?.statement || ''}
+    subject={examData?.subject || examData?.asignatura || ''}
+    grade={examData?.grade || examData?.grado}
+  />
 </div>

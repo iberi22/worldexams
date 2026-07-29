@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 5to de secundaria en Lima repasa las propiedades fundamentales de los triángulos.
 
@@ -45,7 +45,7 @@ La propiedad de la suma de los ángulos internos ($180°$) es la base para resol
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Clasificación de triángulos según sus lados en un taller de arte en Cusco.
 
@@ -70,7 +70,7 @@ Los triángulos se clasifican según la relación entre sus lados en equilátero
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Aplicación de la propiedad del ángulo exterior en un ejercicio de un colegio en Trujillo.
 
@@ -95,7 +95,7 @@ El Teorema del Ángulo Exterior establece que la medida de un ángulo exterior d
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Existencia de triángulos en la construcción de una estructura metálica en Arequipa.
 
@@ -120,7 +120,7 @@ La existencia de un triángulo está condicionada por la Desigualdad Triangular:
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Propiedades del triángulo isósceles en un diseño de techo en Puno.
 
@@ -145,7 +145,7 @@ En un triángulo isósceles, los ángulos opuestos a los lados iguales también 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Líneas notables del triángulo: la mediana.
 
@@ -170,7 +170,7 @@ La mediana, por definición, llega al punto medio del lado opuesto. Por lo tanto
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Teorema de Pitágoras en un contexto de navegación en el Callao.
 
@@ -195,7 +195,7 @@ El desplazamiento forma un triángulo rectángulo donde los movimientos norte y 
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Propiedades de la bisectriz interior, un clásico de los exámenes de la UNMSM.
 
@@ -220,7 +220,7 @@ Primero hallamos el tercer ángulo del triángulo principal. Luego usamos la def
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Cálculo de perímetros en figuras compuestas por triángulos en Chiclayo.
 
@@ -245,7 +245,7 @@ Identificamos la medida del lado común ($8$ cm). Al unir las figuras, el lado c
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Relación entre los ángulos de un triángulo y sus lados (Propiedad de correspondencia).
 
@@ -270,7 +270,7 @@ La Propiedad de Correspondencia establece que en todo triángulo, al ángulo de 
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Puntos notables del triángulo: El baricentro, tema común en la UNI.
 
@@ -295,7 +295,7 @@ El baricentro (punto de intersección de las medianas) se ubica a dos tercios de
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Área de un triángulo usando la fórmula de Herón en un terreno irregular en Huancayo.
 
@@ -320,7 +320,7 @@ Cuando se conocen los tres lados de un triángulo, se utiliza la fórmula de Her
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Triángulos notables y relaciones trigonométricas básicas.
 
@@ -345,7 +345,7 @@ El triángulo 30°-60° es un triángulo notable cuya relación de lados es $k, 
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Teorema de la bisectriz exterior, un reto avanzado de geometría plana.
 
@@ -370,7 +370,7 @@ El Teorema de la Bisectriz Exterior establece que la razón entre los lados que 
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Triángulo rectángulo: propiedad de la mediana relativa a la hipotenusa.
 
@@ -395,7 +395,7 @@ Propiedad clave: en un triángulo rectángulo, el circuncentro coincide con el p
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un problema de optimización geométrica: el punto de Fermat simplificado.
 
@@ -420,7 +420,7 @@ El Teorema de Viviani es una propiedad elegante de los polígonos regulares. En 
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Relaciones métricas en el triángulo rectángulo, nivel examen UNI.
 
@@ -445,7 +445,7 @@ En un triángulo rectángulo, la altura relativa a la hipotenusa es media propor
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Un problema de ángulos en un triángulo complejo (problemas tipo "Trazo Auxiliar").
 
@@ -470,7 +470,7 @@ Este es un problema de olimpiada que evalúa la capacidad de ver simetrías y re
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Teorema de Ceva en la geometría del triángulo, nivel avanzado.
 
@@ -495,7 +495,7 @@ El Teorema de Ceva establece que tres cevianas son concurrentes si y solo si el 
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Cálculo de la distancia entre puntos notables: incentro y circuncentro.
 

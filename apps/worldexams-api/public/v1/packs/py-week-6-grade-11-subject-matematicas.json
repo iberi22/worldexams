@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "py",
+    "pack_id": "py-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.773Z"
+  },
+  "questions": [
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v1",
+      "statement": "¿Cuándo se considera que un sistema de dos ecuaciones lineales con dos incógnitas es consistente?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando el sistema tiene al menos una solución común para ambas incógnitas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un sistema es consistente o compatible si posee solución (única o infinitas)."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando no existe ningún par de números reales que satisfaga ambas ecuaciones simultáneamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe un sistema inconsistente o incompatible."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando las rectas representadas en el plano cartesiano son estrictamente paralelas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas paralelas no tienen puntos de intersección, lo que representa un sistema inconsistente."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando una de las variables tiene coeficientes nulos en todas las ecuaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso reduce el sistema de variables de manera trivial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un sistema consistente de ecuaciones lineales es aquel que posee solución (una o infinitas).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v2",
+      "statement": "Dado el sistema de ecuaciones:\n$x + y = 10$\n$x - y = 4$\n¿Cuál método algebraico consiste en despejar una variable en una ecuación y sustituirla en la otra?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Método de sustitución.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por definición, el método de sustitución requiere despejar y reemplazar."
+        },
+        {
+          "letter": "B",
+          "text": "Método de reducción o eliminación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese método busca sumar o restar las ecuaciones para eliminar una variable."
+        },
+        {
+          "letter": "C",
+          "text": "Método de igualación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El de igualación despeja la misma variable en ambas ecuaciones y las iguala."
+        },
+        {
+          "letter": "D",
+          "text": "Método gráfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico se realiza dibujando las rectas en el plano cartesiano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El método de sustitución consiste en despejar una de las variables en una de las ecuaciones y sustituir su expresión en la otra ecuación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v3",
+      "statement": "En Luque. Jorge compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(1)y = 10000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v4",
+      "statement": "En Encarnación. Liz compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(2)y = 20000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v5",
+      "statement": "En Ciudad del Este. Gladys compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(3)y = 30000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v6",
+      "statement": "En Caacupé. Diego compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(1)y = 10000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v7",
+      "statement": "En Pilar. Patricia compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(2)y = 20000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.67,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v8",
+      "statement": "En Coronel Oviedo. Gustavo compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(3)y = 30000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v9",
+      "statement": "En Concepción. Natalia compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(1)y = 10000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.62,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v10",
+      "statement": "En Villarrica. Carlos compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(2)y = 20000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v11",
+      "statement": "En Asunción. Ramón compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(3)y = 30000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v12",
+      "statement": "En San Lorenzo. María compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(1)y = 10000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v13",
+      "statement": "En Luque. Jorge compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(2)y = 20000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.52,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v14",
+      "statement": "En Encarnación. Liz compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(3)y = 30000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v15",
+      "statement": "En Ciudad del Este. Gladys compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(1)y = 10000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v16",
+      "statement": "En Caacupé. Diego compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(2)y = 20000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v17",
+      "statement": "En Pilar. Patricia compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(3)y = 30000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v18",
+      "statement": "En Coronel Oviedo. Gustavo compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(1)y = 10000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v19",
+      "statement": "En Concepción. Natalia compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(2)y = 20000 \\implies y = 10.000$ Guaraníes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-v20",
+      "statement": "En Villarrica. Carlos compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Sistemas de Ecuaciones Lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "₲ 10.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲."
+        },
+        {
+          "letter": "B",
+          "text": "₲ 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "C",
+          "text": "₲ 12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor calculado no satisface las condiciones de compra."
+        },
+        {
+          "letter": "D",
+          "text": "₲ 8.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(3)y = 30000 \\implies y = 10.000$ Guaraníes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

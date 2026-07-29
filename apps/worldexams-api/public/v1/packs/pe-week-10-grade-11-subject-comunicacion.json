@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "comunicacion",
+    "country": "pe",
+    "pack_id": "pe-week-10-grade-11-subject-comunicacion",
+    "generated_at": "2026-07-28T22:40:18.424Z"
+  },
+  "questions": [
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "En un texto de divulgación científica, ¿cuál es la función de la sección denominada 'abstract' o resumen inicial?",
+      "context": "Un estudiante de secundaria en Lima lee un artículo científico sobre el retroceso glaciar en la cordillera Blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocultar la metodología experimental para que el lector no pueda replicar el estudio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen busca clarificar y resumir, no ocultar la metodología científica."
+        },
+        {
+          "letter": "B",
+          "text": "Ofrecer una síntesis concisa del objetivo, metodología, resultados principales y conclusiones del estudio",
+          "is_correct": true,
+          "feedback": "Correcto. El resumen científico provee una panorámica completa y estructurada del artículo, permitiendo al lector evaluar su relevancia de manera inmediata."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar agradecimientos personales a los familiares de los investigadores del Cusco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los agradecimientos personales constituyen otra sección independiente al final del artículo académico."
+        },
+        {
+          "letter": "D",
+          "text": "Exaltar poéticamente la belleza de los nevados andinos con metáforas líricas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro científico es denotativo y formal, por lo que el resumen evita la prosa poética o metáforas líricas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El resumen o abstract es una sección obligatoria y normalizada en la comunicación científica que optimiza el procesamiento de información especializada en la comunidad de investigadores.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de lenguaje y registro lingüístico caracteriza obligatoriamente a los textos de divulgación científica formal?",
+      "context": "Se repasa la estructura del texto de divulgación científica en Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje coloquial y registro informal plagado de metáforas afectivas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este registro es inadecuado para la precisión y rigor del conocimiento científico."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje connotativo y registro místico andino de corte lírico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se busca denotación y objetividad empírica, no misticismo o lenguaje lírico."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje denotativo, registro formal culto y uso de terminología técnica especializada (tecnicismos)",
+          "is_correct": true,
+          "feedback": "Correcto. La ciencia exige precisión conceptual libre de ambigüedades. El lenguaje denotativo (las palabras significan su definición unívoca de diccionario) y el uso de tecnicismos aseguran la objetividad del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Uso exclusivo de la jerga administrativa forense colonial",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jerga forense es legalista tradicional; la ciencia moderna utiliza la terminología estandarizada de sus respectivas disciplinas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estilo científico prioriza la claridad, objetividad y precisión referencial. Utiliza tecnicismos y una sintaxis clara para evitar sesgos de interpretación emocional en la transmisión de datos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Lea el fragmento del artículo de botánica médica:\n'El yacón (Smallanthus sonchifolius) contiene inulina, un carbohidrato que no es metabolizado por el tracto digestivo superior humano. Por ende, su consumo no eleva los niveles de glucosa en la sangre, resultando un edulcorante seguro para pacientes con diabetes'.\n¿Cuál es la idea principal que se desprende de este pasaje científico?",
+      "context": "Un estudiante preuniversitario lee un estudio de la UNMSM sobre el potencial biotecnológico del yacón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El yacón es una planta silvestre dañina para la digestión de los niños en la costa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento resalta sus beneficios nutricionales; no lo califica como nocivo."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de inulina en el yacón impide la metabolización de azúcar nociva, convirtiéndolo en un alimento recomendable para los diabéticos",
+          "is_correct": true,
+          "feedback": "Correcto. El texto explica científicamente el porqué del beneficio del yacón: la inulina no se metaboliza en la primera fase digestiva, evitando elevar la glucosa sanguínea, lo cual es excelente para pacientes con diabetes."
+        },
+        {
+          "letter": "C",
+          "text": "Las empresas farmacéuticas han prohibido el consumo de tubérculos de origen andino en el Perú",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan prohibiciones o trabas corporativas farmacéuticas en el texto expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "El yacón contiene más glucosa que la caña de azúcar importada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto indica que el consumo de yacón 'no eleva los niveles de glucosa', lo que sugiere justamente un comportamiento metabólico opuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comprensión del texto científico requiere captar las relaciones de causa y efecto biológicas descritas en la prosa técnica (inulina $\\rightarrow$ no se metaboliza $\\rightarrow$ no eleva glucosa $\\rightarrow$ seguro para diabéticos).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "En un artículo de arqueología aplicada, se detalla que los andenes incas reducen la erosión del suelo y optimizan el uso del agua de lluvia filtrando los sedimentos de las laderas. ¿Qué tipo de organización discursiva predomina en la explicación de estos beneficios hidráulicos?",
+      "context": "Análisis de textos expositivos sobre la tecnología hidráulica de los andenes incas en Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organización secuencial cronológica basada en biografías de gobernantes prehispánicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se relata la vida de los incas en orden temporal; se explican los beneficios de una técnica hidráulica."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura narrativa en primera persona de aventuras místicas sobre los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro es objetivo y descriptivo de una infraestructura, ajeno a aventuras místicas."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura de causa-efecto y descripción técnica de un sistema de ingeniería agrícola",
+          "is_correct": true,
+          "feedback": "Correcto. El texto explica cómo el diseño físico de los andenes (causa) produce la reducción de la erosión y la filtración óptima (efecto), describiendo la mecánica de funcionamiento de las terrazas de cultivo."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura dialéctica de controversia entre científicos de Lima y Cusco",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un debate de opiniones en discordia en la descripción técnica pura de los andenes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos de divulgación tecnológica o arqueológica suelen estructurarse bajo el patrón causa-efecto o problema-solución para detallar el funcionamiento e impacto de las obras de ingeniería.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Lea el fragmento explicativo:\n'Las amunas constituyen canales de infiltración prehispánicos que conducen el agua de lluvia de las cumbres hacia las fracturas geológicas de la montaña. De esta forma, el agua se infiltra en el subsuelo, recargando los acuíferos que alimentarán los manantiales de los valles durante la temporada de sequía costera'.\nDe acuerdo con la lógica de este texto expositivo, ¿qué beneficio estratégico reporta la técnica de las amunas para las poblaciones de los valles bajos?",
+      "context": "Un estudiante de Trujillo lee un texto sobre el sistema de 'siembra y cosecha de agua' (amunas) en la serranía de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocar inundaciones artificiales en las zonas arqueológicas de la costa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las amunas regulan el agua en el subsuelo; no buscan causar inundaciones dañinas en sitios patrimoniales."
+        },
+        {
+          "letter": "B",
+          "text": "Asegurar el abastecimiento de agua dulce en los valles bajos durante los meses de ausencia de lluvias en la costa",
+          "is_correct": true,
+          "feedback": "Correcto. La recarga de acuíferos mediante infiltración en la montaña garantiza que los manantiales de los valles sigan activos durante la sequía, sirviendo como una represa natural subterránea."
+        },
+        {
+          "letter": "C",
+          "text": "Acelerar el derretimiento de los glaciares debido a la fricción física del agua de lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las amunas captan agua de lluvia en laderas de tierra o roca; su fin no es destruir glaciares de nieve."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir la reubicación de las empresas mineras de la cordillera central de los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto describe una técnica hidráulica agrícola de captación de agua; no aborda demandas políticas mineras en este fragmento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comprensión crítica de textos de divulgación social andina requiere identificar la utilidad práctica y el diseño ecológico de las tecnologías ancestrales para mitigar la crisis del agua en el Perú actual.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "En el informe científico, se afirma:\n'Las antocianinas presentes en el pericarpio del maíz morado poseen una alta capacidad antioxidante, la cual neutraliza los radicales libres celulares implicados en el envejecimiento y en el desarrollo de ciertas neoplasias'.\n¿Qué tecnicismo de la salud se emplea en esta frase para referirse de forma científica a las enfermedades oncológicas (cáncer)?",
+      "context": "Análisis de un estudio sobre las propiedades antioxidantes del maíz morado de la sierra de Cajamarca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "antocianinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las antocianinas son los pigmentos naturales del grano que poseen propiedades antioxidantes."
+        },
+        {
+          "letter": "B",
+          "text": "pericarpio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pericarpio es la cáscara o tejido externo que recubre la semilla del maíz."
+        },
+        {
+          "letter": "C",
+          "text": "neoplasias",
+          "is_correct": true,
+          "feedback": "Correcto. 'Neoplasia' es el término médico y biológico especializado para referirse de forma precisa al crecimiento anormal de células o tumores, vinculados al cáncer (neoplasias malignas)."
+        },
+        {
+          "letter": "D",
+          "text": "radicales libres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los radicales libres son las moléculas inestables de oxígeno que causan daño celular, no las enfermedades tumorales en sí mismas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La identificación de tecnicismos y términos especializados del metalenguaje científico es un requisito clave para el análisis denotativo de textos biomédicos de divulgación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "El estudiante escribe:\n'El sistema inmunológico es como la muralla defensiva del viejo Lima colonial. Los glóbulos blancos patrullan el cuerpo como soldados en vigía, prestos a combatir a los microbios invasores'.\n¿Qué estrategia de divulgación didáctica está utilizando para explicar el concepto de defensa biológica?",
+      "context": "Un estudiante de Lima redacta un artículo de divulgación escolar comparando el sistema inmunológico con la muralla de Lima colonial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cita directa de autoridad científica de la Academia de Medicina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cita la declaración literal de un médico o estudio indexado."
+        },
+        {
+          "letter": "B",
+          "text": "Analogía didáctica o metáfora explicativa",
+          "is_correct": true,
+          "feedback": "Correcto. El autor compara el funcionamiento complejo de un proceso biológico invisible (sistema inmune) con un marco histórico familiar y visible para la población (las murallas de Lima colonial y los soldados vigías), facilitando el aprendizaje dinámico."
+        },
+        {
+          "letter": "C",
+          "text": "Definición conceptual mediante fórmulas químicas de laboratorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se utilizan fórmulas matemáticas, nomenclaturas o ecuaciones químicas en este pasaje descriptivo."
+        },
+        {
+          "letter": "D",
+          "text": "Falacia ad hominem contra los virus respiratorios de la costa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los virus son entidades biológicas y no se les puede agredir mediante la falacia de ataque a la persona moral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de la analogía didáctica constituye un recurso valioso en la divulgación científica. Permite acercar la terminología técnica compleja al universo cognitivo y cultural de los lectores comunes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Lea la cita inserta en un artículo sobre sismología peruana:\n'De acuerdo con Tavera (2020), la alta acumulación de energía sísmica frente a las costas de Lima Metropolitana incrementa de forma severa la probabilidad de un terremoto de magnitud superior a 8.5 en el mediano plazo'.\n¿Por qué el autor inserta la cita parentética con fecha en su discurso expositivo?",
+      "context": "Análisis de citas académicas (APA) en textos de divulgación científica en Piura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para asustar a los pobladores y motivar la compra de seguros de vida privados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fin de la citación académica es el rigor de fuentes, no el sesgo mercantil de infundir terror para vender seguros."
+        },
+        {
+          "letter": "B",
+          "text": "Para evitar que los ingenieros de la municipalidad de Piura tengan que revisar la sismicidad local",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudio de sismicidad local de Piura es independiente y exige rigores locales técnicos de todas formas."
+        },
+        {
+          "letter": "C",
+          "text": "Para dar respaldo de autoridad científica y vigencia temporal a su afirmación, refiriéndose a un estudio del sismólogo Hernando Tavera, jefe del Instituto Geofísico del Perú (IGP)",
+          "is_correct": true,
+          "feedback": "Correcto. En la redacción académica y de divulgación formal, citar el autor (Tavera) y la fecha (2020) acredita la fuente del dato técnico y demuestra que el postulado sobre el peligro sísmico se basa en investigaciones vigentes y calificadas del IGP."
+        },
+        {
+          "letter": "D",
+          "text": "Para probar que en el Perú está prohibida la construcción de viviendas de asfalto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene ninguna relación con leyes de prohibición de asfalto en viviendas; es una referencia sísmica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La citación sistemática de fuentes legítimas (autor, institución y fecha de publicación) es un requisito ético y científico de los textos de divulgación y monografías académicas que garantiza la trazabilidad y rigor del conocimiento expuesto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "En el artículo de divulgación, se lee:\n'El análisis molecular de los restos orgánicos hallados en Caral reveló que el consumo de pescados azules (ricos en omega-3) fue la base de su alimentación'.\n¿Cuál de las siguientes afirmaciones constituye una conclusión científica legítima y coherente con el fragmento?",
+      "context": "Un taller escolar en Chiclayo evalúa la diferencia entre 'conclusión científica' y 'opinión de sentido común'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los antiguos pobladores de Caral sabían que el omega-3 protegía las arterias coronarias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto atribuye de forma anacrónica el conocimiento de la bioquímica moderna (omega-3, medicina coronaria) a una civilización precolombina."
+        },
+        {
+          "letter": "B",
+          "text": "El comercio de Caral fue destruido por la sobrepesca de barcos factoría extranjeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sobrepesca por barcos factoría industriales es un fenómeno moderno del siglo XX; no existía en el periodo arcaico de Caral."
+        },
+        {
+          "letter": "C",
+          "text": "La dieta de la civilización Caral dependía en gran medida de los recursos marinos de la costa del Pacífico, demostrando una temprana integración económica costa-sierra",
+          "is_correct": true,
+          "feedback": "Correcto. El hallazgo empírico de restos de pescados azules en Caral (sitio arqueológico en el valle de Supe) prueba la presencia constante de recursos marinos en su alimentación y sugiere relaciones de intercambio o pesca activa con el litoral."
+        },
+        {
+          "letter": "D",
+          "text": "Caral es la única civilización del mundo prehispánico que consumía pescados grasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una generalización abusiva no respaldada por el texto ni por la arqueología andina general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conclusión en la divulgación científica debe limitarse a lo que la evidencia permite deducir con rigor lógico, evitando atribuir de forma anacrónica saberes de la ciencia contemporánea a sociedades del pasado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "En un texto sobre la medicina tradicional andina de la sierra norte, un curandero local afirma:\n'El dolor de estómago ocurre porque el paciente cruzó un río de noche y recibió el viento del agua (el aire de manantial)'.\n¿Cómo evalúa un divulgador de ciencia médica esta explicación tradicional desde la perspectiva del pensamiento crítico científico?",
+      "context": "Se estudia la presencia del sesgo de correlación ilusoria en explicaciones médicas tradicionales peruanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta científicamente porque el viento nocturno contiene microorganismos de plomo líquido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento no contiene plomo líquido de forma natural en un río rural andino; la explicación biológica del malestar es otra."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser censurada por ley penal del Estado peruano para proteger la venta de medicamentos importados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La legislación no penaliza las creencias tradicionales en el Perú; el papel del divulgador es la educación cívica racional, no el autoritarismo judicial."
+        },
+        {
+          "letter": "C",
+          "text": "Representa una explicación basada en la tradición cultural que incurre en causa falsa o correlación ilusoria (asociar el frío del río con la infección gástrica), obviando la verdadera causa biológica (ingesta de agua o alimentos contaminados por bacterias)",
+          "is_correct": true,
+          "feedback": "Correcto. La ciencia médica explica que el dolor estomacal (gastroenteritis) responde a la presencia de patógenos (bacterias, virus o parásitos) en el agua o comida, desmitificando la atribución mística del viento nocturno o 'aire de río' como causa física directa."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que la medicina occidental no sirve para curar dolores estomacales en el norte del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medicina moderna cura la gastroenteritis mediante antibióticos y rehidratación con base científica contrastada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La divulgación científica valora el saber tradicional como patrimonio antropológico, pero deconstruye de forma objetiva sus explicaciones causales místicas cuando estas contradicen las leyes empíricas de la microbiología y de la infectología modernas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Lea el fragmento del informe de INDECOPI:\n'La biopiratería de la maca (Lepidium meyenii) ocurre cuando corporaciones extranjeras patentan los genes o principios activos de la raíz andina sin el consentimiento previo ni compensación a las comunidades nativas que han domesticado y conservado esta planta durante siglos'.\nSustentado en este texto, ¿cuál es el verdadero dilema ético y jurídico que plantea el fenómeno de la biopiratería en los andes?",
+      "context": "Un análisis sobre las patentes biotecnológicas de plantas nativas del Perú (maca, uña de gato) frente a la biopiratería en Huancayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de espacio físico en las oficinas de INDECOPI para archivar los folletos de botánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biopiratería es un problema de propiedad intelectual global, no de capacidad de archivadores en las oficinas de Lima."
+        },
+        {
+          "letter": "B",
+          "text": "La incapacidad biológica de la maca para crecer en suelos de otros continentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La maca sí puede cultivarse en invernaderos extranjeros; el problema es ético-jurídico por los derechos de patente de los saberes tradicionales."
+        },
+        {
+          "letter": "C",
+          "text": "El despojo legal del conocimiento colectivo tradicional andino por parte del sistema de patentes mercantiles internacionales, privatizando un recurso de origen comunitario",
+          "is_correct": true,
+          "feedback": "Correcto. El conflicto reside en que las patentes internacionales amparan la propiedad intelectual privada e individual de laboratorios farmacéuticos extranjeros sobre principios activos que en realidad fueron domesticados y seleccionados de forma colectiva y milenaria por las comunidades andinas, vulnerando los derechos colectivos indígenas."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de consumir chicha de maca en las ferias agropecuarias del Cusco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consumir chicha de maca no está prohibido; el debate es sobre las patentes farmacéuticas mundiales de exportación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La biopiratería es un tema de alta relevancia en los estudios sociales andinos. Cuestiona la hegemonía de los marcos legales occidentales que priorizan el derecho corporativo mercantil individual sobre el derecho ancestral colectivo y comunitario de los pueblos de origen.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "En debates sobre la antigüedad de la civilización andina, el arqueólogo peruano Julio C. Tello sostuvo la tesis autoctonista del origen de la cultura peruana frente a la tesis inmigracionista de Max Uhle. ¿Cuál era el postulado central de Tello que reconfiguró la identidad nacional?",
+      "context": "Un ejercicio de análisis literario e ideológico sobre los discursos de los arqueólogos peruanos en el siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la cultura peruana nació en las costas de México gracias a viajes en balsas de totora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una variante de la tesis inmigracionista o difusionista mesoamericana combatida por Tello."
+        },
+        {
+          "letter": "B",
+          "text": "Que los incas fueron instruidos en la ciencia de los andenes por monjes budistas de Asia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una hipótesis fantástica falsa sin base arqueológica o científica real en los andes peruanos."
+        },
+        {
+          "letter": "C",
+          "text": "Que la cultura peruana es un desarrollo autónomo e interno nacido en la sierra y selva (cultura Chavín), sin depender de influencias externas mesoamericanas",
+          "is_correct": true,
+          "feedback": "Correcto. Tello defendió el autoctonismo: la civilización peruana se forjó de forma independiente en su propio suelo, teniendo como raíz original o 'cultura matriz' a Chavín de Huántar, cuyas deidades (jaguar, serpiente) revelan una procedencia de la selva amazónica, rebatiendo a Uhle que afirmaba la superioridad de influencias mexicanas."
+        },
+        {
+          "letter": "D",
+          "text": "Que la civilización Caral fue construida por extraterrestres debido a la perfección de sus pirámides",
+          "is_correct": false,
+          "feedback": "Incorrecto. Julio C. Tello no conoció Caral (declarada patrimonio en el siglo XXI) ni formuló explicaciones pseudocientíficas extraterrestres."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis autoctonista de Julio C. Tello (el padre de la arqueología peruana) fue un hito de soberanía cultural. Devolvió al país el orgullo de ser cuna independiente de civilización mundial, desmitificando la vieja idea eurocéntrica de que la alta cultura andina provenía necesariamente de afuera.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Lea el fragmento biológico:\n'La alpaca (Vicugna pacos) posee una fibra de estructura hueca y con microcámaras de aire que aíslan térmicamente el cuerpo del animal. Este diseño físico de la fibra regula la temperatura corporal impidiendo la pérdida de calor, una adaptación evolutiva idónea para la supervivencia en altitudes superiores a los 4000 metros de altitud'.\n¿Cuál es la explicación científica que justifica la resistencia de la alpaca al frío andino según el texto?",
+      "context": "Un análisis sobre las propiedades adaptativas de los camélidos andinos en Puno frente a las bajas temperaturas de las heladas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su piel produce una capa de cera vegetal importada que la impermeabiliza de la nieve",
+          "is_correct": false,
+          "feedback": "Incorrecto. No produce cera vegetal (la cera vegetal es de plantas); el texto atribuye la resistencia a la estructura de su fibra de lana."
+        },
+        {
+          "letter": "B",
+          "text": "La alpaca realiza labores de migración masiva a las playas de la costa durante el invierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las alpacas son criadas de forma permanente en las zonas altoandinas de la puna; no migran a la costa en invierno de forma masiva."
+        },
+        {
+          "letter": "C",
+          "text": "La estructura hueca de su fibra capilar, que contiene microcámaras de aire que operan como un aislante térmico natural de alta eficiencia corporal",
+          "is_correct": true,
+          "feedback": "Correcto. El texto detalla con precisión anatómica que la fibra de la alpaca tiene canales huecos con aire, impidiendo la disipación del calor corporal frente a las temperaturas extremas de la puna."
+        },
+        {
+          "letter": "D",
+          "text": "Su alimentación basada exclusivamente en sales minerales y plomo líquido de los ríos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los camélidos andinos se alimentan de ichu y pastizales nativos; ingerir sales de plomo líquido sería letal para el animal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fibra de alpaca es reconocida mundialmente por sus bondades textiles de confort y aislamiento térmico, propiedades evolutivas desarrolladas para convivir con los cambios climáticos extremos de la estepa altoandina.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.4,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "En un estudio sobre el derretimiento de los glaciares de la cordillera Blanca, se presenta un gráfico con una curva descendente de masa glaciar cruzada con la curva ascendente de la concentración de dióxido de carbono global. ¿Cuál es el peligro de causalidad directa que un científico riguroso debe advertir al redactar las conclusiones de este estudio para evitar sesgos?",
+      "context": "Un seminario crítico en Arequipa deconstruye la metodología de los textos científicos de glaciología.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Afirmar que el dióxido de carbono es el único gas que respiran los pobladores andinos de Huaraz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CO2 es un gas contaminante de desecho e invernadero, no es gas respirable por humanos."
+        },
+        {
+          "letter": "B",
+          "text": "Declarar que el glaciar va a recuperar toda su masa de hielo de forma inmediata al prohibirse las chimeneas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retroceso es un proceso acumulativo complejo de difícil reversión inmediata por una sola prohibición local."
+        },
+        {
+          "letter": "C",
+          "text": "Confundir correlación estadística general (dos variables fluctúan de forma paralela en el tiempo) con causalidad directa y exclusiva, obviando el papel de factores locales (como la deposición de hollín de incendios de laderas o cambios microclimatológicos de la cuenca)",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque hay una evidente correlación global entre calentamiento por CO2 y retroceso glaciar, en la escala local de una montaña específica intervienen otras variables críticas como el hollín urbano local que ennegrece la nieve (reduciendo el albedo o capacidad de reflejar el sol), acelerando la fusión."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir que la población de la sierra peruana deje de sembrar quinua para no calentar la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cultivo de quinua no contribuye al calentamiento global de los glaciares de forma significativa; es una actividad agrícola sostenible de la puna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La investigación científica rigurosa exige diferenciar la correlación estadística macro de la causalidad multifactorial de microescala, garantizando que el diseño de políticas públicas de mitigación de riesgos sí responda a los verdaderos gatilladores locales del fenómeno ecológico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Lea el fragmento del ensayo de sociología rural:\n'El ayni constituye la institución andina de reciprocidad simétrica por excelencia. Su principio rector, \"hoy por ti, mañana por mí\", estructura el intercambio de fuerza de trabajo agrícola y ayuda familiar mutua entre los comuneros, actuando como un seguro social comunitario sin dinero frente a la vulnerabilidad material del entorno'.\nDesde una perspectiva de análisis económico y social, ¿cuál es el postulado sociológico sobre el Ayni que defiende el autor?",
+      "context": "Se estudia un texto de antropología andina sobre el 'Ayni' (reciprocidad andina) y su rol de cohesión comunitaria en el Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ayni es un sistema mercantil capitalista primitivo que busca la usura bancaria de los indios",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ayni se basa en reciprocidad simétrica de fuerza de trabajo sin transacciones monetarias o usura."
+        },
+        {
+          "letter": "B",
+          "text": "La tradición del ayni impide el desarrollo de los mercados modernos en los pueblos de la sierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se presenta como un freno al desarrollo, sino como una institución solidaria protectora frente a riesgos."
+        },
+        {
+          "letter": "C",
+          "text": "El ayni opera como un mecanismo de autogestión y seguridad social colectiva sin flujos financieros, protegiendo a los comuneros de la escasez",
+          "is_correct": true,
+          "feedback": "Correcto. El autor analiza el ayni no como folclore pintoresco, sino como una institución económica objetiva de autodefensa social, donde la fuerza de trabajo prestada de forma mutua e igualitaria suple la falta de cobertura de seguros del Estado en los Andes."
+        },
+        {
+          "letter": "D",
+          "text": "Se debe prohibir la ayuda mutua entre parientes para fomentar la competencia individual extrema",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto exalta las bondades y la cohesión del ayni; no propone su abolición para implantar una competencia neoliberal destructiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis sociológico de la cosmovisión andina rescata sus instituciones agrarias (ayni, minka) como tecnologías sociales vigentes y altamente sofisticadas para garantizar la seguridad comunitaria en ausencia de los servicios de protección del Estado central.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "En un folleto escolar de ciencias, un estudiante escribe:\n'La maca negra es una raíz milagrosa que cura la infertilidad de forma inmediata y aumenta el coeficiente intelectual de los niños en un 50% con solo tomar un vaso al día'.\n¿Cuál es la crítica científica y de estilo que un divulgador de ciencia debe formular frente a este texto expositivo?",
+      "context": "Un ejercicio de precisión metodológica en la divulgación de las propiedades medicinales de la maca negra en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto es correcto porque la maca negra fue domesticada por los incas en la pampa de Junín",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el origen geográfico sea correcto, esto no valida las afirmaciones pseudocientíficas de cura milagrosa e IQ del 50%."
+        },
+        {
+          "letter": "B",
+          "text": "Debería sugerir que la maca negra se consuma únicamente mezclada con gaseosa importada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezclarla con gaseosa azucarada deteriora su perfil saludable; la sugerencia de receta no resuelve la falta de rigor científico."
+        },
+        {
+          "letter": "C",
+          "text": "Incurre en lenguaje pseudocientífico sensacionalista al usar términos absolutos ('cura inmediata', 'milagrosa') y datos estadísticos inverosímiles ('50% de IQ') sin sustento en ensayos clínicos controlados, comprometiendo la credibilidad de la divulgación",
+          "is_correct": true,
+          "feedback": "Correcto. La divulgación de ciencias exige desterrar los adjetivos mágicos o hiperbólicos y las cifras de rendimiento intelectual fantásticas. Debe expresar los beneficios nutricionales o cognitivos de forma prudencial y respaldada en estudios médicos contrastables (ej. 'posee nutrientes que contribuyen a reducir el cansancio físico y mental')."
+        },
+        {
+          "letter": "D",
+          "text": "El término 'maca' debe escribirse obligatoriamente con la grafía K en el español estándar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Maca se escribe correctamente con C en castellano; la grafía K es un préstamo o asimilación etimológica opcional de uso minoritario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sensacionalismo y la invención de beneficios desmesurados son vicios comunes de la publicidad de suplementos alimenticios. El buen divulgador de ciencias traduce los hallazgos biológicos de forma rigurosa y prudente, educando al consumidor frente al engaño de los 'productos milagro'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Lea el fragmento de un artículo de divulgación histórica alternativa extranjera:\n'La asombrosa precisión en el encaje de las piedras ciclópeas de Sacsayhuamán, cuyas toneladas impiden el transporte humano por pendientes andinas, sugiere que los antiguos incas contaron con tecnología de corte láser provista por visitantes de otros mundos, pues el hombre andino carecía de herramientas de hierro'.\nDesde la perspectiva de la deconstrucción metodológica científica, ¿cuál es el sesgo e inconsistencia fáctica constitutiva de este tipo de discursos?",
+      "context": "Evaluación crítica del sesgo eurocentrista en estudios arqueológicos internacionales sobre los monumentos de Sacsayhuamán (Cusco).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto porque la ciencia moderna peruana ha verificado la presencia de naves espaciales en la fortaleza del Cusco",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna verificación científica de naves o extraterrestres en la arqueología de Sacsayhuamán; es pura ficción de entretenimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Invalida el artículo por no definir el color exacto de los rayos láser utilizados por los extraterrestres",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica no debe debatir sobre la gama cromática de una fantasía tecnológica, sino sobre el sesgo del argumento de fondo."
+        },
+        {
+          "letter": "C",
+          "text": "Incurre en un sesgo eurocentrista y de prejuicio racista implícito (falacia de incredulidad personal), al subestimar de forma sistemática la capacidad organizativa, la destreza de ingeniería y el uso de técnicas de desgaste de piedra y maquetas de la sociedad incaica",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento comete una falacia lógica (petición de ignorancia) al asumir que como los incas no usaban hierro, entonces no podían tallar piedra. La arqueología científica ha demostrado que usaban martillos de hematita o piedras más duras, palancas de madera, fricción por arena y agua y, sobre todo, una formidable organización social y división del trabajo. Atribuir la obra a extraterrestres despoja de forma sistemática al indígena andino de su genio histórico e intelectual."
+        },
+        {
+          "letter": "D",
+          "text": "Se corrige señalando que el hierro usado por los incas era importado de las minas de carbón de Alemania colonial",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Imperio de los Incas fue prehispánico y anterior a la existencia de Alemania colonial; la metalurgia andina fue autónoma y de cobre, bronce, oro y plata."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los discursos pseudocientíficos que atribuyen la arquitectura de Sacsayhuamán, Machu Picchu o las líneas de Nasca a entes espaciales encubren a menudo una profunda condescendencia racista. Al negar que el hombre andino prehispánico fuera capaz de realizar obras de ingeniería monumental por sus propios medios materiales, revelan prejuicios eurocéntricos no superados que la arqueología científica se encarga de desmentir mediante evidencias materiales de canteras, rampa y rozamiento.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Lea los siguientes dos argumentos en conflicto nacional:\n**Argumento A (Biotecnología industrial):** 'El uso de papas modificadas genéticamente (transgénicas) es indispensable en el Perú. Permite crear resistencia a las plagas del gorgojo andino, reduce la aplicación de pesticidas químicos y aumenta el rendimiento por hectárea, combatiendo la pobreza del campesinado'.\n**Argumento B (Conservación de biodiversidad):** 'La moratoria al ingreso de transgénicos es una salvaguarda de soberanía biológica. Introducir papas transgénicas amenaza con la hibridación y desaparición de las más de tres mil variedades de papas nativas peruanas, las cuales constituyen un patrimonio genético irrecuperable y la base de la seguridad alimentaria andina'.\n¿Cuál es la hipótesis crítica que formula el analista de políticas públicas agrarias para sopesar este dilema científico nacional?",
+      "context": "Se evalúa la solidez y ética de un artículo de opinión científica sobre los cultivos transgénicos en la agricultura de la papa nativa del Perú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Argumento A es el único científico porque la resistencia a las plagas es una mentira biológica de las comunidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El beneficio de resistencia a plagas sí es un hecho biotecnológico real verificado en laboratorios; no es una mentira."
+        },
+        {
+          "letter": "B",
+          "text": "El Argumento B es puramente poético y carece de validez económica para la agricultura rural de la sierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conservación de la biodiversidad de papas tiene un enorme valor económico de mercado orgánico internacional y de seguridad alimentaria real frente al cambio climático."
+        },
+        {
+          "letter": "C",
+          "text": "Se trata de un dilema complejo entre la rentabilidad agrícola inmediata de alta eficiencia y la preservación de la seguridad biológica y la megadiversidad nativa a largo plazo, donde cada opción defiende prioridades de desarrollo incompatibles entre sí",
+          "is_correct": true,
+          "feedback": "Correcto. El debate de los transgénicos en el Perú (país de origen de la papa) es un dilema de prioridades estratégicas: optar por el incremento volumétrico de corto plazo mediante monocultivos transgénicos patentados de empresas transnacionales, o proteger el patrimonio de biodiversidad nativa que dota al suelo andino de resistencia natural frente a crisis globales y consagra la soberanía de las comunidades locales."
+        },
+        {
+          "letter": "D",
+          "text": "La ciencia peruana exige prohibir el cultivo de todo tipo de papas nativas en la cordillera Blanca para enfriar el clima",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las papas nativas son el cultivo sostenible tradicional andino por excelencia y no contribuyen a alterar el albedo o derretir los glaciares de Huaraz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El debate nacional sobre la moratoria de transgénicos ilustra que la ciencia y la tecnología no operan en un vacío ético o político. El análisis crítico debe sopesar las ventajas tecnológicas inmediatas frente a los riesgos irreversibles sobre la soberanía alimentaria, la biodiversidad de origen y el control de semillas por parte de patentes corporativas internacionales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Lea el fragmento de un artículo de neurociencia cognitiva de la Universidad de San Marcos:\n'Los análisis de resonancia magnética funcional demuestran que los sujetos bilingües tempranos quechua-español activan áreas de la corteza prefrontal dorsolateral de forma simétrica durante el procesamiento lingüístico, revelando una notable reserva cognitiva y mayor flexibilidad neurocomputacional para la resolución de conflictos atencionales frente a los sujetos monolingües'.\n¿Cuál es la implicancia pedagógica y social más trascendente que un divulgador científico debe extraer de este estudio para combatir la discriminación lingüística en el Perú?",
+      "context": "Un examen preuniversitario de alta exigencia académica de la UNI evalúa la deconstrucción epistemológica de la de la investigación sobre el cerebro y el bilingüismo quechua-español.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad de erradicar la enseñanza del quechua para purificar los cerebros de los niños andinos de la sierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudio demuestra lo contrario: que el bilingüismo quechua-español enriquece la reserva cognitiva y el desarrollo neuronal del sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "La obligación de que todos los científicos del país realicen sus tomografías de forma exclusiva en quechua imperial",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma de los aparatos médicos o del personal de salud es instrumental; la implicancia es de valoración cognitiva general."
+        },
+        {
+          "letter": "C",
+          "text": "Desmitificar la falsa creencia de que el bilingüismo andino retrasa el aprendizaje escolar, probando que hablar quechua y español de forma paralela enriquece el desarrollo cerebral y las destrezas lógicas del estudiante",
+          "is_correct": true,
+          "feedback": "Correcto. El estudio provee evidencia científica dura contra el prejuicio lingüístico tradicional (que tildaba al quechua de ser un estorbo para el aprendizaje del castellano). Al demostrar que el bilingüismo temprano andino expande la reserva cognitiva y la agilidad de atención, la ciencia valida la necesidad de la educación intercultural bilingüe para potenciar el talento intelectual de los jóvenes peruanos."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de usar computadoras en los colegios públicos donde se hable la lengua aimara",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo cognitivo bilingüe es plenamente compatible con el uso de tecnologías digitales modernas en el aula rural o urbana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La divulgación de la neurociencia cumple un rol emancipador en el plano social peruano. Al dotar de respaldo científico biológico a las ventajas cognitivas del bilingüismo quechua-castellano, deconstruye los discursos discriminatorios coloniales, impulsando la equidad educativa y el orgullo lingüístico nacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "En la redacción de textos de divulgación científica dirigidos a las comunidades andinas y amazónicas del Perú, ¿cuál es el estándar metodológico supremo que garantiza el respeto ético e intercultural del conocimiento colectivo?",
+      "context": "Un simposio de ética de la divulgación científica en la Universidad de San Marcos analiza el valor del diálogo de saberes (interculturalidad epistémica).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La traducción literal de las teorías físicas de Albert Einstein al quechua, ignorando los ritos locales de agricultura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traducción unilateral de teorías occidentales sin diálogo con las necesidades agrícolas locales no constituye un diálogo de saberes simétrico."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición de utilizar terminología técnica en español para aislar a los pobladores de la modernidad científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aislamiento lingüístico o técnico impide el acceso soberano a la ciencia moderna universal; no es un estándar ético deseable."
+        },
+        {
+          "letter": "C",
+          "text": "El diálogo de saberes o interculturalidad epistémica; que consiste en articular de forma simétrica e integradora el rigor empírico de la ciencia moderna con la cosmovisión y el conocimiento tradicional empírico andino y amazónico",
+          "is_correct": true,
+          "feedback": "Correcto. La verdadera ética de la divulgación en un país pluricultural exige no subyugar el conocimiento local campesino. Reconoce que las comunidades poseen saberes ecológicos válidos fruto de milenios de observación empírica, promoviendo un diálogo de respeto mutuo donde la ciencia moderna y la sabiduría andina cooperan para resolver problemas materiales del agua, la siembra y el cambio climático."
+        },
+        {
+          "letter": "D",
+          "text": "La exigencia de que todas las patentes de plantas medicinales nativas sean propiedad exclusiva del Estado de Suiza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entregar la propiedad exclusiva de los recursos endémicos peruanos a farmacéuticas de Suiza es la definición de biopiratería, atentando contra la soberanía nacional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La interculturalidad epistémica es el modelo de desarrollo del conocimiento idóneo para el Perú contemporáneo. Supera el desprecio colonial y la idealización romántica ingenua, proponiendo un diálogo racional y simétrico de saberes donde la ciencia y la tradición cooperan en igualdad de jerarquía moral para la preservación de la vida, el agua y la soberanía alimentaria de la República.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "comunicacion",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

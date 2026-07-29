@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Guatemala analiza las ecuaciones de trayectoria de diferentes objetos en movimiento.
 
@@ -39,7 +39,7 @@ La parábola es una curva simétrica cuyo eje de simetría pasa por el vértice.
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** En el estudio de las funciones lineales, la pendiente es el concepto clave para entender la inclinación.
 
@@ -58,7 +58,7 @@ La pendiente $m$ se define como la razón del cambio en $y$ respecto al cambio e
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante observa una parábola y nota que se abre hacia abajo.
 
@@ -77,7 +77,7 @@ El signo del coeficiente principal $a$ determina la concavidad de la parábola: 
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un emprendedor en Quetzaltenango modela sus costos fijos y variables mediante una función lineal.
 
@@ -96,7 +96,7 @@ En modelos lineales de costo, el intercepto $b$ representa el costo inicial o fi
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero calcula la ubicación del punto más alto (vértice) de un puente con forma parabólica.
 
@@ -115,7 +115,7 @@ La coordenada $x$ del vértice se calcula con la fórmula $x = -b / 2a$. Este pu
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de bachillerato necesita hallar los puntos donde una trayectoria cruza el eje horizontal (raíces).
 
@@ -134,7 +134,7 @@ Los interceptos con el eje $x$ se obtienen igualando la función a cero y resolv
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** En un laboratorio en Ciudad de Guatemala se estudia la relación entre dos variables físicas que producen una línea recta.
 
@@ -153,7 +153,7 @@ Si el punto dado tiene $x=0$, su coordenada $y$ es directamente el intercepto $b
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un taxista en Guatemala cobra una tarifa base más un costo por cada kilómetro recorrido.
 
@@ -172,7 +172,7 @@ Este es un problema de aplicación de funciones lineales. Se resuelve una ecuaci
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante compara dos funciones lineales para encontrar su punto de intersección.
 
@@ -191,7 +191,7 @@ El punto de intersección de dos funciones es el punto donde sus valores son igu
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un profesor muestra cómo cambia la apertura de una parábola según el valor absoluto del coeficiente $a$.
 
@@ -210,7 +210,7 @@ El coeficiente $a$ actúa como un factor de estiramiento o compresión vertical.
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un arquitecto necesita la ecuación de una recta que represente el borde de un techo inclinado en una casa de La Antigua.
 
@@ -229,7 +229,7 @@ Para hallar la ecuación entre dos puntos, primero se calcula la pendiente $m$ y
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de física en Guatemala modela la altura de una pelota lanzada hacia arriba con la función $h(t) = -5t^2 + 20t + 2$.
 
@@ -248,7 +248,7 @@ En problemas de proyectiles, el tiempo para la altura máxima corresponde a la c
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Se estudian rectas paralelas en el diseño de una red eléctrica.
 
@@ -267,7 +267,7 @@ Rectas paralelas tienen la misma pendiente. Se utiliza la pendiente de la recta 
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante analiza el comportamiento de una función cuadrática para determinar su valor máximo.
 
@@ -286,7 +286,7 @@ El valor máximo o mínimo de una función cuadrática es la coordenada $y$ de s
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un geómetra estudia la relación entre rectas perpendiculares en un plano de construcción.
 
@@ -305,7 +305,7 @@ La condición de perpendicularidad entre dos rectas es que el producto de sus pe
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un agrónomo en Guatemala utiliza una función cuadrática para modelar el rendimiento de una cosecha basado en la cantidad de fertilizante.
 
@@ -324,7 +324,7 @@ Al faltar el término independiente, la función se factoriza fácilmente por fa
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un economista analiza el equilibrio entre la oferta (lineal) y el beneficio (cuadrático) de una empresa en Guatemala.
 
@@ -343,7 +343,7 @@ La resolución de desigualdades cuadráticas se apoya en el hallazgo de las raí
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de ingeniería utiliza la forma canónica (vértice) de la parábola para identificar sus propiedades rápidamente.
 
@@ -362,7 +362,7 @@ La forma vértice de una función cuadrática permite identificar el punto extre
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un analista financiero estudia la intersección entre una función lineal de ingresos y una función cuadrática de costos.
 
@@ -381,7 +381,7 @@ La intersección de funciones de distinto tipo se halla igualando sus expresione
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W07-funciones-lineales-cuadraticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Se plantea un problema sobre la determinación de una función cuadrática a partir de puntos específicos en su gráfica.
 

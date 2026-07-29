@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to ethics.
 
@@ -45,7 +45,7 @@ An ethical dilemma is a situation in which a difficult choice has to be made bet
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing moral philosophy.
 
@@ -65,7 +65,7 @@ The present simple 'suggests' is used to define the core tenet of a philosophica
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Hypothetical moral choice.
 
@@ -85,7 +85,7 @@ The second conditional 'if + past simple, would + verb' is used to ask about an 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about whistleblowing.
 
@@ -105,7 +105,7 @@ A whistleblower is a person who informs on a person or organization regarded as 
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on corporate ethics.
 
@@ -125,7 +125,7 @@ The text implies that prioritizing profit over safety is inherently unethical an
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Legal vs. Moral.
 
@@ -145,7 +145,7 @@ The distinction between 'legal' (following the law) and 'moral' (doing what is r
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing a past ethical failure.
 
@@ -165,7 +165,7 @@ The company should have disclosed the risks to the public much sooner.
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "conflict of interest".
 
@@ -185,7 +185,7 @@ A conflict of interest occurs when an individual's personal interests interfere 
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing an ongoing ethical debate.
 
@@ -205,7 +205,7 @@ The present continuous passive 'are being debated' describes the current, ongoin
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "consequentialism".
 
@@ -225,7 +225,7 @@ Consequentialism is the class of normative ethical theories holding that the con
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Integrity in the workplace.
 
@@ -245,7 +245,7 @@ Integrity is the quality of being honest and having strong moral principles; mor
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a difficult decision.
 
@@ -265,7 +265,7 @@ The adjective 'agonizing' is used to describe a situation that causes great ment
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing social justice.
 
@@ -285,7 +285,7 @@ Equality of opportunity is the idea that everyone should have a fair chance to s
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about personal values.
 
@@ -305,7 +305,7 @@ The mixed conditional (if + past simple, would + have + past participle) connect
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on ethics.
 
@@ -325,7 +325,7 @@ The author concludes that we must cultivate our moral compass through reflection
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of empathy.
 
@@ -345,7 +345,7 @@ Empathy is the ability to understand and share the feelings of another.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a moral obligation.
 
@@ -365,7 +365,7 @@ We ought to treat others with the same respect that we expect for ourselves.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about human rights.
 
@@ -385,7 +385,7 @@ Fundamental human rights are inalienable, meaning they cannot be taken away from
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a philosophical statement.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift tenses: 'The ends do not justify...' becomes '.
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on responsibility.
 

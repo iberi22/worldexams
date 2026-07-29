@@ -59,7 +59,9 @@
     "test:video:frames": "playwright test tests/video-frame-review.spec.ts",
     "test:party:headed": "playwright test party-mode.spec.ts --headed",
     "test:unit": "vitest run",
-    "test:coverage": "vitest run --coverage"
+    "test:coverage": "vitest run --coverage",
+    "smoke:geo": "node ../scripts/smoke-geo-routing.mjs",
+    "smoke:ai": "node scripts/smoke-ai-core.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^14.0.1",

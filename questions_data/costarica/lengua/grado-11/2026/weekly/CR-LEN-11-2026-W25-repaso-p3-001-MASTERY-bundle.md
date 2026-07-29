@@ -32,7 +32,7 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ## Question 1 [D3]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.90
 **Contexto:** Un análisis literario de la obra "Mamita Yunai" de Carlos Luis Fallas, fundamental en la literatura costarricense.
 
@@ -57,7 +57,7 @@ Identificar la intención comunicativa de los grandes autores nacionales es clav
 ## Question 2 [D3]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.88
 **Contexto:** Un estudiante de San José redacta una carta formal para solicitar una pasantía.
 
@@ -82,7 +82,7 @@ La regla de las palabras esdrújulas es absoluta: todas se tildan. Dominar la or
 ## Question 3 [D3]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.85
 **Contexto:** Se estudia el poema "Como la lluvia" de la poeta costarricense Eunice Odio.
 
@@ -107,7 +107,7 @@ Eunice Odio representa la vanguardia poética de Costa Rica, explorando mundos i
 ## Question 4 [D4]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.82
 **Contexto:** Un periodista del semanario Universidad escribe un artículo de opinión sobre la crisis climática.
 
@@ -132,7 +132,7 @@ El uso de conectores lógicos garantiza la cohesión textual, permitiendo al lec
 ## Question 5 [D4]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.80
 **Contexto:** Corrección de un informe de laboratorio en un colegio técnico de Cartago.
 
@@ -157,7 +157,7 @@ La ortografía de palabras con 'sc' suele presentar dificultades. Es importante 
 ## Question 6 [D4]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.78
 **Contexto:** Análisis de un fragmento de "La loca de Gandoca" de Anacristina Rossi.
 
@@ -182,7 +182,7 @@ La literatura contemporánea costarricense utiliza la personificación para sens
 ## Question 7 [D5]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.75
 **Contexto:** Una conversación informal entre amigos en una cafetería de Alajuela.
 
@@ -207,7 +207,7 @@ El español de Costa Rica posee modismos y expresiones que refuerzan la identida
 ## Question 8 [D5]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.72
 **Contexto:** Un estudiante envía un mensaje a la dirección de su colegio para justificar una ausencia.
 
@@ -232,7 +232,7 @@ Saber adaptar el lenguaje según el receptor y el propósito de la comunicación
 ## Question 9 [D5]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.70
 **Contexto:** Un texto argumentativo que defiende el sistema de salud pública costarricense (CCSS).
 
@@ -257,7 +257,7 @@ Los argumentos basados en valores son muy efectivos en el ensayo costarricense p
 ## Question 10 [D6]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10
 **Bloom:** Remember
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.68
 **Contexto:** Diferencias entre los géneros literarios en un curso de preparación para bachillerato.
 
@@ -282,7 +282,7 @@ Comprender la estructura de los géneros literarios permite al estudiante analiz
 ## Question 11 [D6]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.65
 **Contexto:** Redacción de la bibliografía para un trabajo de Estudios Sociales sobre la Campaña Nacional de 1856.
 
@@ -307,7 +307,7 @@ La sistematización de las fuentes de información es fundamental para la ética
 ## Question 12 [D6]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.62
 **Contexto:** Una estrofa poética que describe la neblina sobre el Cerro de la Muerte.
 
@@ -332,7 +332,7 @@ La personificación es un recurso lírico que permite humanizar el entorno, crea
 ## Question 13 [D7]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.60
 **Contexto:** Un debate escolar sobre la regulación del uso de bolsas plásticas.
 
@@ -357,7 +357,7 @@ Un argumento de causa-consecuencia debe demostrar una relación lógica y verifi
 ## Question 14 [D7]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.58
 **Contexto:** Un texto sobre la historia del Teatro Nacional de Costa Rica.
 
@@ -382,7 +382,7 @@ Inferir es leer "entre líneas", conectando los datos explícitos con el context
 ## Question 15 [D7]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.55
 **Contexto:** Revisión de la puntuación en un fragmento informativo sobre el Volcán Arenal.
 
@@ -407,7 +407,7 @@ El punto y coma es un signo de puntuación avanzado que permite organizar ideas 
 ## Question 16 [D8]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.52
 **Contexto:** Los elementos de la tragedia en el teatro clásico y su influencia en obras modernas.
 
@@ -432,7 +432,7 @@ Conocer los conceptos del drama clásico ayuda al estudiante a analizar la const
 ## Question 17 [D8]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.50
 **Contexto:** Análisis de un editorial de un periódico sobre la educación dual en Costa Rica.
 
@@ -457,7 +457,7 @@ La antítesis es un recurso poderoso en la argumentación para resaltar contradi
 ## Question 18 [D9]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18
 **Bloom:** Apply
-**ICFES:** Producción Textual
+**EJE:** Producción Textual
 **Expected_Success:** 0.45
 **Contexto:** Ejercicio de precisión léxica para evitar palabras "baúl" (cosa, algo, tener).
 
@@ -482,7 +482,7 @@ La precisión léxica enriquece el texto y demuestra un dominio superior del idi
 ## Question 19 [D9]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.42
 **Contexto:** Comparación entre la literatura modernista y la generación del repertorio americano.
 
@@ -507,7 +507,7 @@ Entender las corrientes literarias ayuda a ver cómo los escritores costarricens
 ## Question 20 [D10]
 **ID:** CR-LEN-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Interpretación Textual
+**EJE:** Interpretación Textual
 **Expected_Success:** 0.38
 **Contexto:** Un fragmento filosófico sobre la importancia de la lectura crítica en la era de la información.
 

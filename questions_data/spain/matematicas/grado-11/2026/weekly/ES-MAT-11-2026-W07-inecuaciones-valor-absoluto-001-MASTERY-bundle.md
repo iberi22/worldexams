@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en un instituto de Madrid repasa los símbolos de desigualdad para comparar conjuntos de números.
 
@@ -41,7 +41,7 @@ Los símbolos de desigualdad ($<, >, \leq, \geq$) definen relaciones de orden en
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** Se explica la definición de valor absoluto en una clase de álgebra en Barcelona.
 
@@ -62,7 +62,7 @@ El valor absoluto $|a|$ mide la magnitud del número sin tener en cuenta su sign
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante en Valencia resuelve una inecuación lineal sencilla.
 
@@ -83,7 +83,7 @@ Para resolver inecuaciones lineales, aplicamos pasos similares a las ecuaciones:
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.78
 **Contexto:** Un examen en Sevilla pregunta por la representación de intervalos.
 
@@ -104,7 +104,7 @@ La notación de intervalos usa corchetes $[ \ ]$ para extremos incluidos (desigu
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Bilbao resuelve una inecuación lineal con un coeficiente negativo.
 
@@ -125,7 +125,7 @@ La regla de oro de las inecuaciones: al multiplicar o dividir ambos miembros por
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un técnico en Zaragoza mide la tolerancia de una pieza mecánica usando valor absoluto.
 
@@ -146,7 +146,7 @@ La inecuación $|x| < k$ (con $k > 0$) equivale al intervalo abierto $(-k, k)$. 
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante en San Sebastián resuelve una inecuación de segundo grado.
 
@@ -167,7 +167,7 @@ Para inecuaciones cuadráticas, hallamos las raíces del polinomio y estudiamos 
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Se plantea la solución de un sistema de dos inecuaciones lineales.
 
@@ -188,7 +188,7 @@ La solución de un sistema de inecuaciones es la intersección de las soluciones
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en Santander resuelve una ecuación sencilla con valor absoluto.
 
@@ -209,7 +209,7 @@ La ecuación $|A| = b$ se divide en dos casos: $A = b$ o $A = -b$. Resolvemos am
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.63
 **Contexto:** Un comerciante en Málaga sabe que su beneficio $B$ debe cumplir $B \geq 500$ para cubrir gastos. Si $B = 10x - 100$, donde $x$ es el número de ventas.
 
@@ -230,7 +230,7 @@ Planteamos la inecuación basada en el enunciado y despejamos la variable. El re
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante avanzado analiza el dominio de una función con raíz cuadrada.
 
@@ -251,7 +251,7 @@ El dominio de una raíz par requiere que el radicando sea mayor o igual a cero. 
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.58
 **Contexto:** En un laboratorio en Valencia, se requiere que la temperatura $T$ no varíe más de 2 grados respecto a los $20^{\circ}\text{C}$.
 
@@ -272,7 +272,7 @@ La expresión $|x - a| \leq k$ representa todos los valores $x$ cuya distancia a
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante estudia la inecuación del valor absoluto para valores grandes.
 
@@ -293,7 +293,7 @@ La inecuación $|A| \geq k$ se descompone en la unión de dos intervalos: $A \ge
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Un estudiante resuelve una inecuación racional analizando el signo del cociente.
 
@@ -314,7 +314,7 @@ Para inecuaciones racionales, marcamos los puntos donde se anulan el numerador (
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Se analiza una inecuación cuadrática que no tiene raíces reales.
 
@@ -335,7 +335,7 @@ Si un polinomio de segundo grado tiene discriminante negativo y coeficiente prin
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante resuelve una inecuación con valor absoluto doble.
 
@@ -356,7 +356,7 @@ La igualdad de valores absolutos $|A| = |B|$ equivale a $A = B$ o $A = -B$. Reso
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** Un programador en una startup en Madrid optimiza un rango de búsqueda usando inecuaciones.
 
@@ -377,7 +377,7 @@ Al resolver inecuaciones donde la incógnita está en el denominador, no podemos
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea una inecuación de grado superior mediante factorización.
 
@@ -398,7 +398,7 @@ Para inecuaciones polinómicas de grado $>2$, usamos el método de los intervalo
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un estudiante de ingeniería analiza la relación entre el cuadrado de un número y su valor absoluto.
 
@@ -419,7 +419,7 @@ Esta es una identidad fundamental en análisis: la raíz cuadrada del cuadrado d
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W07-inecuaciones-valor-absoluto-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un reto sobre inecuaciones con valor absoluto anidado.
 

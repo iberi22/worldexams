@@ -20,7 +20,7 @@ creador: Jules-Agent
 ## Question 1 [D3]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
 **Contexto:** Um estudante em São Paulo revisa os conceitos fundamentais de sequências para sua prova de matemática.
 
@@ -39,7 +39,7 @@ Em uma PA, cada termo a partir do segundo é igual ao anterior somado a uma cons
 ## Question 2 [D3]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
 **Contexto:** Um professor no Rio de Janeiro explica como classificar uma progressão baseando-se no sinal de sua razão.
 
@@ -58,7 +58,7 @@ O comportamento de crescimento da PA depende exclusivamente da razão. Se somamo
 ## Question 3 [D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
 **Contexto:** Um arquiteto projeta uma escada em Curitiba onde a largura dos degraus diminui linearmente de baixo para cima.
 
@@ -77,7 +77,7 @@ A razão é a diferença entre um termo e seu antecessor: $r = a_2 - a_1$. No ca
 ## Question 4 [D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
 **Contexto:** Um economista em Brasília utiliza a fórmula da soma da PA para calcular o total de parcelas pagas em um financiamento com amortização constante.
 
@@ -96,7 +96,7 @@ A soma dos termos de uma PA pode ser visualizada pareando os termos (primeiro co
 ## Question 5 [D5]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
 **Contexto:** Um técnico de laboratório registra o aumento de temperatura de uma estufa que sobe $2^\circ$C a cada 10 minutos.
 
@@ -115,7 +115,7 @@ Aplicamos o termo geral: $a_{11} = a_1 + 10r$. Substituindo: $a_{11} = 12 + 10 \
 ## Question 6 [D5]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Um atleta em Belo Horizonte planeja seu treinamento aumentando a distância percorrida em 400 metros a cada dia.
 
@@ -134,7 +134,7 @@ Usamos o termo geral para isolar $n$: $a_n = a_1 + (n-1)r \Rightarrow 90 = 10 + 
 ## Question 7 [D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
 **Contexto:** Uma empresa em Salvador organiza seu estoque em prateleiras onde a primeira tem 50 caixas e cada prateleira seguinte tem 3 caixas a menos.
 
@@ -153,7 +153,7 @@ Montamos a equação com $a_1 = 50$, $r = -3$ e $a_n = 20$. Temos $20 = 50 + (n-
 ## Question 8 [D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um investidor aplica R\$ 100,00 por mês em uma conta que não rende juros, apenas acumula o capital.
 
@@ -172,7 +172,7 @@ O 12º termo é $100 + (12-1)100 = 1200$. A soma é $S_{12} = \frac{(100 + 1200)
 ## Question 9 [D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
 **Contexto:** Um programador em Recife cria uma rotina de repetição onde o valor de uma variável segue uma PA.
 
@@ -191,7 +191,7 @@ Usamos a relação entre dois termos quaisquer: $a_k = a_j + (k-j)r$. Logo, $a_6
 ## Question 10 [D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um agrimensor em Manaus mede a distância entre estacas colocadas em linha reta com intervalos constantes.
 
@@ -210,7 +210,7 @@ Inserir 3 meios aritméticos entre 5 e 21 significa criar uma PA onde $a_1 = 5$ 
 ## Question 11 [D7]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
 **Contexto:** Um engenheiro em São Paulo calcula o peso suportado por colunas dispostas em série com reforço progressivo.
 
@@ -232,7 +232,7 @@ Em uma PA, a soma dos $n$ primeiros termos é dada por $S_n = n^2 + 2n$. Qual é
 ## Question 12 [D7]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um analista financeiro avalia o total acumulado de um fundo onde o aporte mensal cresce linearmente para compensar a inflação.
 
@@ -253,7 +253,7 @@ Determine a soma de todos os números naturais múltiplos de 7 entre 10 e 100.
 ## Question 13 [D7]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
 **Contexto:** Um professor desafia os alunos com uma propriedade curiosa dos termos da PA.
 
@@ -272,7 +272,7 @@ Representamos os termos como $(x-r, x, x+r)$. A soma é $(x-r) + x + (x+r) = 3x 
 ## Question 14 [D7]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um arquiteto em Porto Alegre utiliza PA para definir as alturas de colunas em um telhado inclinado.
 
@@ -291,7 +291,7 @@ Em qualquer PA, a soma de dois termos equidistantes dos extremos é constante. C
 ## Question 15 [D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
 **Contexto:** Um estatístico em São Paulo utiliza a interpolação para prever valores faltantes em uma série histórica linear.
 
@@ -312,7 +312,7 @@ Ao intercalar 6 meios aritméticos entre 10 e 45, qual é o valor do quarto term
 ## Question 16 [D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
 **Contexto:** Um matemático estuda a relação entre funções afins e progressões aritméticas.
 
@@ -332,7 +332,7 @@ Toda PA pode ser vista como uma função discreta. Se $a_n = 4n - 1$, qual é a 
 ## Question 17 [D9]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
 **Contexto:** Um pesquisador em Campinas analisa uma sequência onde os termos são funções de uma variável $x$.
 
@@ -354,7 +354,7 @@ Como $r_1 = r_2 = \log 2$ (constante), a sequência é uma PA para qualquer $x$ 
 ## Question 18 [D9]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
 **Contexto:** Durante uma olimpíada, propõe-se um desafio envolvendo a soma de termos de índices pares e ímpares.
 
@@ -373,7 +373,7 @@ Existem 50 termos ímpares ($a_1, a_3, ..., a_{99}$) e 50 termos pares ($a_2, a_
 ## Question 19 [D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** No vestibular do ITA, avalia-se a capacidade de relacionar PA com geometria plana.
 
@@ -392,7 +392,7 @@ Lados em PA: $x-r, x, x+r$. No triângulo retângulo, $(x-r)^2 + x^2 = (x+r)^2 \
 ## Question 20 [D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Funções e Álgebra
+**EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
 **Contexto:** Um matemático estuda o comportamento da soma dos inversos dos termos de uma PA, aproximando-se do conceito de série harmônica.
 

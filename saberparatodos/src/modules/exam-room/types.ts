@@ -3,7 +3,8 @@
  * Sistema de aula virtual multiplayer para exámenes sincronizados
  */
 
-export type ConnectionMode = 'supabase' | 'local';
+/** edge-mesh = default; supabase = opt-in mirror/legacy; local = rust/legacy */
+export type ConnectionMode = 'edge-mesh' | 'supabase' | 'local';
 
 export type SubscriptionPlan = 'free' | 'pro' | 'institutional';
 
@@ -42,6 +43,9 @@ export interface RoomConfig {
   totalQuestions: number;
   grado: number;
   asignatura: string;
+  /** Mesh registry metadata used for regional discovery. */
+  region?: string;
+  countryCode?: string;
   connectionMode: ConnectionMode;
   mode?: 'standard' | 'stop';
   stopConfig?: {
@@ -50,6 +54,13 @@ export interface RoomConfig {
   };
   createdAt: Date;
 }
+
+/** Connection service alias — RoomConfig + optional display name for mesh peer. */
+export type PartyConfig = RoomConfig & {
+  nombreUsuario?: string;
+  /** edge-mesh: create announces a salon; join discovers it by room code. */
+  meshIntent?: 'create' | 'join';
+};
 
 export interface Player {
   id: string;

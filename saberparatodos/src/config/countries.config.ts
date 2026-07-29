@@ -16,27 +16,29 @@ export interface Country {
 
 const RUNTIME_COUNTRY_CODES: CountryCode[] = ['CO', 'MX', 'AR', 'CL', 'PE', 'EC', 'BR', 'PA', 'CR', 'GT', 'DO', 'SV', 'HN', 'NI', 'ES', 'PR', 'GQ', 'UY', 'PY', 'BO'];
 
+// Audit 2026-07-28 (post-purge): bundleCount = bundles weekly canónicos v5.2 VÁLIDOS
+// en questions_data (npm run validate = 958/958 verde). hasContent = ≥1 bundle válido.
 const COUNTRY_CONTENT_META: Record<CountryCode, Pick<Country, 'bundleCount' | 'hasContent'>> = {
-  CO: { bundleCount: 589, hasContent: true },
-  MX: { bundleCount: 0, hasContent: false },
-  AR: { bundleCount: 0, hasContent: false },
-  CL: { bundleCount: 13, hasContent: true },
-  PE: { bundleCount: 13, hasContent: true },
-  EC: { bundleCount: 13, hasContent: true },
-  BR: { bundleCount: 0, hasContent: false },
-  PA: { bundleCount: 3, hasContent: true },
-  CR: { bundleCount: 3, hasContent: true },
-  GT: { bundleCount: 3, hasContent: true },
-  DO: { bundleCount: 3, hasContent: true },
-  SV: { bundleCount: 3, hasContent: true },
-  HN: { bundleCount: 3, hasContent: true },
-  NI: { bundleCount: 3, hasContent: true },
-  ES: { bundleCount: 3, hasContent: true },
-  PR: { bundleCount: 3, hasContent: true },
-  GQ: { bundleCount: 3, hasContent: true },
-  UY: { bundleCount: 4, hasContent: true },
-  PY: { bundleCount: 4, hasContent: true },
-  BO: { bundleCount: 3, hasContent: true },
+  CO: { bundleCount: 224, hasContent: true },
+  MX: { bundleCount: 35, hasContent: true },
+  AR: { bundleCount: 28, hasContent: true },
+  CL: { bundleCount: 50, hasContent: true },
+  PE: { bundleCount: 60, hasContent: true },
+  EC: { bundleCount: 50, hasContent: true },
+  BR: { bundleCount: 11, hasContent: true },
+  PA: { bundleCount: 10, hasContent: true },
+  CR: { bundleCount: 44, hasContent: true },
+  GT: { bundleCount: 10, hasContent: true },
+  DO: { bundleCount: 10, hasContent: true },
+  SV: { bundleCount: 95, hasContent: true },
+  HN: { bundleCount: 44, hasContent: true },
+  NI: { bundleCount: 10, hasContent: true },
+  ES: { bundleCount: 60, hasContent: true },
+  PR: { bundleCount: 40, hasContent: true },
+  GQ: { bundleCount: 10, hasContent: true },
+  UY: { bundleCount: 0, hasContent: false },
+  PY: { bundleCount: 0, hasContent: false },
+  BO: { bundleCount: 0, hasContent: false },
 };
 
 export const allCountries: Country[] = RUNTIME_COUNTRY_CODES.map((code) => {

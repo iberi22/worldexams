@@ -1,5 +1,6 @@
 <script lang="ts">
   import { roomState } from '../stores/roomState.svelte.ts';
+  import { reportGeneratorService } from '../services/reportGenerator';
   import type { RoomResults, PlayerStats } from '../types';
 
   interface Props {
@@ -21,9 +22,28 @@
       .slice(0, 5)
   );
 
-  function downloadReport() {
-    // TODO: Generar PDF con jsPDF y Chart.js
-    alert('Descarga de reporte en desarrollo');
+  let isDownloading = $state(false);
+
+  async function downloadReport(scope: 'personal' | 'full' = 'personal') {
+    if (!results || isDownloading) return;
+    isDownloading = true;
+    try {
+      const options = { format: 'pdf' as const, includeCharts: true, includeRecommendations: true };
+      const safeName = (results.roomName || 'reporte').replace(/[^\w\d-]+/g, '-').toLowerCase();
+
+      if (scope === 'personal' && currentPlayer?.id) {
+        const blob = await reportGeneratorService.generatePlayerReport(results, currentPlayer.id, options);
+        reportGeneratorService.downloadReport(blob, `reporte-${safeName}-${currentPlayer.name || 'jugador'}`, 'pdf');
+      } else {
+        const blob = await reportGeneratorService.generateFullReport(results, options);
+        reportGeneratorService.downloadReport(blob, `reporte-${safeName}-completo`, 'pdf');
+      }
+    } catch (err) {
+      console.error('[RoomResults] Error generating report:', err);
+      alert('No se pudo generar el reporte. Intenta nuevamente.');
+    } finally {
+      isDownloading = false;
+    }
   }
 
   function shareResults() {
@@ -110,10 +130,11 @@
         <!-- Action Buttons -->
         <div class="flex gap-3 mt-6">
           <button
-            onclick={downloadReport}
-            class="flex-1 px-4 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-bold transition-colors"
+            onclick={() => downloadReport('personal')}
+            disabled={isDownloading}
+            class="flex-1 px-4 py-3 bg-blue-600 hover:bg-blue-700 disabled:opacity-50 rounded-lg font-bold transition-colors"
           >
-            📥 Descargar Reporte
+            {isDownloading ? '⏳ Generando…' : '📥 Descargar Reporte'}
           </button>
           <button
             onclick={shareResults}
@@ -226,10 +247,11 @@
 
         <!-- Download Full Report Button -->
         <button
-          onclick={downloadReport}
-          class="w-full px-6 py-4 bg-purple-600 hover:bg-purple-700 rounded-lg font-bold text-lg transition-colors"
+          onclick={() => downloadReport('full')}
+          disabled={isDownloading}
+          class="w-full px-6 py-4 bg-purple-600 hover:bg-purple-700 disabled:opacity-50 rounded-lg font-bold text-lg transition-colors"
         >
-          📑 Descargar Reporte Completo (PDF)
+          {isDownloading ? '⏳ Generando…' : '📑 Descargar Reporte Completo (PDF)'}
         </button>
       </div>
     {/if}

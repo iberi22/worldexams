@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "cr",
+    "pack_id": "cr-week-5-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.364Z"
+  },
+  "questions": [
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el criterio fundamental que permite clasificar un texto dentro de la tipología descriptiva?",
+      "context": "Javier repasa para las Pruebas Nacionales Estandarizadas de Español en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La representación con palabras de las características de objetos, personas o ambientes, respondiendo al 'cómo es' algo.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción se enfoca en representar cualidades espaciales o de personalidad."
+        },
+        {
+          "letter": "B",
+          "text": "La defensa de un punto de vista subjetivo para persuadir al lector mediante argumentos de peso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define a los textos de carácter argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "El relato estructurado de acontecimientos cronológicos reales o ficticios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto caracteriza a la tipología narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de directrices técnicas emitidas por el Ministerio de Obras Públicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define la tipología instructiva o normativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tipología descriptiva recrea la realidad fisonómica, espacial o moral mediante el uso de adjetivos, respondiendo a la pregunta '¿cómo es?'.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "¿Qué elemento distingue de manera exclusiva a la tipología narrativa frente a la expositiva?",
+      "context": "Sofía lee cuatro textos diferentes en su manual de preparación del MEP en Heredia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso del registro culto formal en todas las oraciones del escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas tipologías pueden utilizar el registro culto formal de la lengua."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de un narrador y el transcurrir de acciones en un tiempo y espacio que transforman el estado inicial de los personajes.",
+          "is_correct": true,
+          "feedback": "Correcto. El dinamismo de la acción y la secuencia de cambios de estado son exclusivos del relato narrativo."
+        },
+        {
+          "letter": "C",
+          "text": "La explicación detallada y objetiva de conceptos científicos especializados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto caracteriza al texto expositivo, no al narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "La división del escrito en párrafos coherentes con sangría inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una característica formal de presentación común a casi todos los textos en prosa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La narrativa se define por su dinamismo temporal y la presencia de agentes que experimentan transformaciones a lo largo del relato.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes afirmaciones describe la diferencia funcional entre la monografía expositiva y el ensayo de opinión?",
+      "context": "En un debate escolar en San José, Andrey analiza un ensayo y una monografía científica sobre recursos hídricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La monografía persigue conmover los sentimientos líricos del lector costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La monografía científica es estrictamente denotativa y neutral."
+        },
+        {
+          "letter": "B",
+          "text": "La monografía expone información objetiva y contrastada de manera imparcial, mientras que el ensayo defiende con argumentos una tesis de carácter personal.",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue con precisión los fines informativos expositivos de los fines suasorios argumentativos."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo de opinión carece de una introducción estructurada e inicia directamente en el nudo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo tiene una estructura rigurosa de introducción, desarrollo y conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos son de naturaleza ficticia y no tienen ninguna vinculación con la realidad del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos abordan temáticas reales y fácticas de interés social y científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La exposición persigue la transmisión neutral del saber, mientras que la argumentación busca persuadir al lector de que adopte una determinada postura ideológica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "¿Qué figura descriptiva está empleando al representar de forma exclusiva el relieve y paisaje geográfico?",
+      "context": "María redacta un párrafo donde describe el relieve montañoso que rodea la provincia de Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Topografía.",
+          "is_correct": true,
+          "feedback": "Correcto. La topografía se especializa en la representación lingüística de lugares, relieves y paisajes."
+        },
+        {
+          "letter": "B",
+          "text": "Etopeya.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etopeya retrata los rasgos éticos y morales de una persona, no accidentes geográficos."
+        },
+        {
+          "letter": "C",
+          "text": "Prosopografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe las características físicas exteriores de seres humanos o animales."
+        },
+        {
+          "letter": "D",
+          "text": "Cronografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa épocas históricas o transcursos de tiempo, no relieves de montañas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La representación detallada de espacios naturales o urbanos inanimados constituye una descripción de carácter topográfico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "Si incorporan la opinión fundamentada del director regional del MEP para dar solidez a su escrito, ¿qué tipo de argumento emplean?",
+      "context": "Un grupo de estudiantes de undécimo año escribe un artículo para la revista del Liceo de Liberia contra el acoso escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento analógico de causa-efecto de carácter familiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece un encadenamiento causal o comparativo de sucesos familiares."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad.",
+          "is_correct": true,
+          "feedback": "Correcto. Recurrir al testimonio de expertos o autoridades del sector dota de credibilidad la postura defendida."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento ad populum fundamentado en las mayorías de Liberia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela al sentimiento colectivo común o a lo que piensa la mayoría."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento afectivo de culpa del estudiante tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela a la manipulación emocional del receptor, cita un cargo oficial experto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento de autoridad legitima la validez de la tesis apoyándose en el conocimiento y prestigio de un especialista en la materia.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipología textual predomina cuando se explica de forma secuencial un proceso biológico natural?",
+      "context": "Un texto escolar describe detalladamente el ciclo de polinización de las abejas en los cultivos frutales de Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tipología argumentativa literaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No intenta convencer de una postura, explica un proceso biológico objetivo."
+        },
+        {
+          "letter": "B",
+          "text": "Tipología expositiva.",
+          "is_correct": true,
+          "feedback": "Correcto. Su propósito es hacer comprender el funcionamiento de un proceso mediante datos objetivos secuenciales."
+        },
+        {
+          "letter": "C",
+          "text": "Tipología descriptiva pura de carácter prosopográfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prosopografía describe el físico de una persona, no procesos interactivos."
+        },
+        {
+          "letter": "D",
+          "text": "Tipología narrativa de ficción fantástica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto de divulgación de ciencias de la naturaleza, ajeno a la ficción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción procesal científica se enmarca en la tipología expositiva, pues persigue el entendimiento objetivo de fenómenos naturales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes opciones utiliza una construcción impersonal y pasiva refleja adecuada para el tono expositivo?",
+      "context": "Javier desea reescribir un texto narrativo subjetivo sobre la recolección de café en Tarrazú en uno de carácter expositivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nosotros fuimos a Tarrazú y recogimos mucho café de excelente calidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de la primera persona plural introduce la subjetividad del relator."
+        },
+        {
+          "letter": "B",
+          "text": "Se recolecta el café manualmente durante la estación seca para garantizar la selección óptima del grano.",
+          "is_correct": true,
+          "feedback": "Correcto. El 'Se recolecta' despersonaliza la acción, centrando la atención en el proceso agrícola de forma objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Yo considero que el café de Tarrazú es el más delicioso de toda Costa Rica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona singular 'yo' expresa una apreciación subjetiva de agrado."
+        },
+        {
+          "letter": "D",
+          "text": "¡Ojalá todas las familias de Cartago ayuden en la recolecta de este maravilloso producto nacional!",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresa deseos y emociones ajenas a la neutralidad expositiva formal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las estructuras impersonales con 'se' permiten ocultar al agente, logrando la neutralidad y el rigor denotativo de los textos explicativos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "¿Qué conector de causa es apropiado para justificar una de las consecuencias observadas en el suelo?",
+      "context": "Andrey redacta una monografía explicativa de undécimo año sobre el impacto ecológico de la ganadería extensiva en Guanacaste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por consiguiente, el suelo se erosiona rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector conclusivo o consecutivo, señala el efecto, no introduce la causa."
+        },
+        {
+          "letter": "B",
+          "text": "puesto que el pisoteo continuo de los bueyes compacta la capa superficial del terreno.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Puesto que' es un conector causal que introduce la explicación física originaria del fenómeno."
+        },
+        {
+          "letter": "C",
+          "text": "En primer lugar, debemos reforestar las llanuras de Liberia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector ordenador temporal del discurso."
+        },
+        {
+          "letter": "D",
+          "text": "No obstante, la ganadería genera ingresos económicos considerables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector adversativo o de oposición restrictiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores causales (puesto que, ya que, porque, dado que) introducen la justificación lógica o el origen de un fenómeno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "¿Qué relación lógica establece el conector 'por el contrario' en el enunciado argumentativo anterior?",
+      "context": "En un artículo de opinión de San José se afirma: 'La inversión en educación es el pilar de la democracia; por el contrario, recortar recursos precariza el porvenir nacional.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relación de adición de un nuevo dato de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No suma información, contrapone dos opciones de política."
+        },
+        {
+          "letter": "B",
+          "text": "Relación de oposición o contraste entre dos decisiones gubernamentales opuestas.",
+          "is_correct": true,
+          "feedback": "Correcto. Confronta directamente la inversión frente al recorte presupuestario."
+        },
+        {
+          "letter": "C",
+          "text": "Relación temporal consecutiva de acciones históricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No marca una secuencia temporal de hechos cronológicos."
+        },
+        {
+          "letter": "D",
+          "text": "Relación de causa y efecto biológico en las aulas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresa contraste ético y de gestión, no leyes físicas causales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conector 'por el contrario' sirve para contrastar de manera directa dos realidades o tesis opuestas en la argumentación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "¿Qué función cumple convencionalmente el 'nudo' en el desarrollo de la trama de un relato?",
+      "context": "Durante un análisis en el Liceo de Heredia, Sofía estudia las partes fundamentales de la estructura narrativa de una leyenda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar las características geográficas e históricas del cantón donde nació la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la introducción de contexto o planteamiento inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir el conflicto principal que quiebra el equilibrio inicial y desencadena las acciones de los personajes.",
+          "is_correct": true,
+          "feedback": "Correcto. El nudo es la complicación de la trama que dinamiza el relato."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar las raíces etimológicas de los nombres de las criaturas mágicas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es propio de textos enciclopédicos explicativos, no de la narrativa literaria."
+        },
+        {
+          "letter": "D",
+          "text": "Sintetizar la moraleja del cuento en un párrafo expositivo corto para el MEP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto puede aparecer en un epílogo o conclusión reflexiva moral, no es el nudo dramático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nudo constituye la sección central de la narrativa clásica donde se presenta y complica el problema que los personajes intentarán resolver.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se lógicamente las ideas en este fragmento argumentativo?",
+      "context": "Lea el siguiente fragmento de un debate costarricense sobre telecomunicaciones:\n'Costa Rica debe modernizar urgentemente sus redes digitales con tecnología de quinta generación. No obstante, las licitaciones estatales en San José enfrentan trabas burocráticas que dilatan el despliegue de infraestructura, restando competitividad a los comercios costarricenses.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se plantea una necesidad urgente de modernización y se contrasta mediante un conector adversativo con los obstáculos de índole burocrática locales.",
+          "is_correct": true,
+          "feedback": "Correcto. Presenta una propuesta ('debe modernizar') y la matiza oponiéndola al obstáculo ('No obstante, enfrentan trabas') para concluir el impacto negativo."
+        },
+        {
+          "letter": "B",
+          "text": "Se narra de forma mítica el origen del tendido de cables eléctricos en las montañas de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relato mítico o de fantasía; de la provincia."
+        },
+        {
+          "letter": "C",
+          "text": "Se describe la composición de las antenas satelitales instaladas en la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay descripción física o técnica del material de las antenas."
+        },
+        {
+          "letter": "D",
+          "text": "Se defienden con vehemencia las ventajas de privatizar los recursos del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto aborda telecomunicaciones e infraestructura, sin mencionar privatización de recursos naturales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura del fragmento confronta una exigencia de progreso frente a una realidad obstaculizadora, valiéndose del conector adversativo 'no obstante'.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el propósito explicativo que articula la descripción física del reptil en el texto anterior?",
+      "context": "Considere el siguiente fragmento descriptivo de un texto científico:\n'La lagartija de hojarasca posee un camuflaje críptico que imita el follaje seco del bosque de Guanacaste. Su coloración parda y sus movimientos espasmódicos impiden que los depredadores aéreos la identifiquen sobre el suelo forestal.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresar los sentimientos de pánico de los turistas al ver al reptil de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene un tono científico e impersonal libre de emociones humanas."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar de manera funcional el mecanismo biológico de supervivencia (camuflaje) de la especie en su hábitat natural.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción del físico del reptil (color pardo, forma) justifica su capacidad de supervivencia."
+        },
+        {
+          "letter": "C",
+          "text": "Relatar las travesías legendarias de la lagartija por las playas puntarenenses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un relato fantástico o épico de un personaje animal ficticio."
+        },
+        {
+          "letter": "D",
+          "text": "Instruir sobre los métodos de captura científica del reptil mediante redes de plástico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No provee directrices o instrucciones de captura o experimentación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En los textos de ciencias naturales, la descripción anatómica o conductual tiene la finalidad expositiva de hacer comprender las adaptaciones ecológicas de los seres vivos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la premisa moral implícita que sustenta la validez lógica del argumento anterior?",
+      "context": "Un ensayo escolar afirma lo siguiente sobre el consumo de agua potable:\n'El agua es un derecho humano incuestionable. Por lo tanto, prohibir el corte del servicio por falta de pago a familias en condición de pobreza extrema es una medida de justicia social y de amparo humanitario.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El costo de producción del agua potable costarricense es bajo en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento apela a derechos humanos y justicia moral, no a variables financieras o de costos."
+        },
+        {
+          "letter": "B",
+          "text": "La preservación de la vida humana y la dignidad familiar de los costarricenses prevalecen sobre los intereses de recaudación económica de las empresas distribuidoras.",
+          "is_correct": true,
+          "feedback": "Correcto. Para sostener que prohibir el corte es justicia social basándose en que el agua es un derecho, se debe presuponer que la vida prevalece sobre el cobro comercial del servicio."
+        },
+        {
+          "letter": "C",
+          "text": "La municipalidad de San José posee suficientes fondos para pagar las deudas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un supuesto de factibilidad administrativa externa que no determina la lógica moral del argumento central."
+        },
+        {
+          "letter": "D",
+          "text": "El ciclo del agua de lluvia en Cartago garantiza el abastecimiento ilimitado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una variable física hidrológica que no aborda la premisa ética de justicia social descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La premisa implícita constituye el fundamento moral sobre el cual se erige la conexión lógica entre la tesis y el derecho humano esgrimido.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "¿Qué técnica descriptiva unificada emplea el autor para caracterizar a don Pedro en este fragmento?",
+      "context": "Lea detenidamente el siguiente pasaje narrativo costumbrista costarricense:\n'Don Pedro amarró su caballo frente al viejo mercado de Heredia. Con paso pausado y apoyándose en su bastón de guayabo, se adentró en el tramo de las verduras. Saludó a cada conocido de la provincia con una leve inclinación de cabeza y una sonrisa nostálgica que revelaba el peso de sus recuerdos.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un retrato literario, ya que amalgama la descripción física y conductual exterior del personaje con sugerencias de su mundo psicológico íntimo y emocional.",
+          "is_correct": true,
+          "feedback": "Correcto. Reúne rasgos externos (caballo, bastón, paso pausado, saludo) con rasgos internos (paciencia, nostalgia, recuerdos), configurando un retrato."
+        },
+        {
+          "letter": "B",
+          "text": "Una prosopografía pura exenta de cualquier rasgo anímico, emocional o ético del personaje costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Menciona una 'sonrisa nostálgica' y el 'peso de sus recuerdos', que pertenecen al mundo interno afectivo."
+        },
+        {
+          "letter": "C",
+          "text": "Una topografía exhaustiva centrada en detallar la composición de adobes del viejo mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto describe la fisonomía de la persona, no la arquitectura de la provincia."
+        },
+        {
+          "letter": "D",
+          "text": "Una caricatura satírica que ridiculiza el andar pausado y el bastón del anciano de Heredia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tratamiento del anciano es de respeto y dignidad, no hay burlas o deformaciones satíricas grotescas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retrato literario asocia el físico y la conducta con la psicología, logrando una representación tridimensional del personaje en la novela o cuento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "¿Cómo se califica críticamente el razonamiento presentado en el ensayo del estudiante?",
+      "context": "Un docente costarricense evalúa la solidez de una propuesta argumentativa redactada por un estudiante de undécimo año en San José:\n'No debemos permitir la instalación de ciclovías en el cantón central porque todos los ciclistas son personas irresponsables que irrespetan los semáforos viales y causarán accidentes terribles.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Altamente sólido, al fundarse en las leyes de tránsito vigentes en la provincia de San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita leyes y recurre a una descalificación grupal prejuiciosa irrelevante."
+        },
+        {
+          "letter": "B",
+          "text": "Poco sólido e inválido, puesto que incurre en una falacia de generalización apresurada al atribuir una conducta negativa particular a todo un colectivo social sin pruebas científicas.",
+          "is_correct": true,
+          "feedback": "Correcto. Calificar a 'todos los ciclistas' de irresponsables es una generalización falaz que destruye el rigor argumentativo académico."
+        },
+        {
+          "letter": "C",
+          "text": "Completamente verídico y riguroso, al proteger la integridad de los peatones del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de rigor y veracidad fáctica al basarse en un prejuicio absoluto y no en datos oficiales."
+        },
+        {
+          "letter": "D",
+          "text": "Inválido debido a que el estudiante debió escribir el párrafo empleando rimas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los escritos argumentativos académicos deben evitar rimas y lirismos poéticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La generalización apresurada o prejuicio absoluto despoja al texto argumentativo de su consistencia racional, convirtiéndolo en un ataque sin bases empíricas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "Al evaluar la viabilidad de esta propuesta, ¿cuál es su principal debilidad de contenido?",
+      "context": "Lea la siguiente propuesta de ley redactada de forma expositiva para una asamblea de estudiantes costarricenses:\n'El MEP debe suspender de inmediato todos los exámenes escritos tradicionales en Costa Rica y reemplazarlos por videojuegos educativos este mismo mes, garantizando así la felicidad escolar absoluta.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de uso de un vocabulario poético y figuras literarias como la metáfora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las propuestas formales o de ley deben ser claras y directas, evitando tropos poéticos ornamentales."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de pragmatismo y realismo técnico, al proponer una reforma curricular nacional radical inmediata sin transición institucional ni sustento de viabilidad presupuestaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Proponer suspender exámenes en un mes sin plan de contingencia tecnológica o presupuestaria carece de realismo de la provincia."
+        },
+        {
+          "letter": "C",
+          "text": "Que el autor no especificó las marcas de consolas de videojuegos que comprarían las escuelas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detallar marcas comerciales de consolas no resuelve la utopía metodológica de fondo de la propuesta."
+        },
+        {
+          "letter": "D",
+          "text": "La mención del MEP como entidad rectora de la educación costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El MEP es la entidad rectora oficial real de la educación del país; mencionarlo es correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una propuesta o argumento con fines prácticos debe estar respaldado por la viabilidad operativa y la factibilidad presupuestaria para conservar consistencia formal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "¿Qué falacia lógica empaña la solidez de esta intervención ciudadana?",
+      "context": "En una asamblea comunal en Liberia, un vecino argumenta en contra de la instalación de una planta de reciclaje de plástico:\n'Si abrimos esa planta en nuestro cantón, Liberia se convertirá en el basurero del continente americano de forma inmediata, provocando la destrucción ecológica de toda la provincia de Guanacaste.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia ad hominem directa al descalificar la moral de los recicladores locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ataca el proyecto ecológico de la planta, no la vida privada o moral del vecino."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia de la pendiente resbaladiza, al postular una cadena catastrófica desmesurada sin demostrar la relación causa-efecto real de la actividad industrial.",
+          "is_correct": true,
+          "feedback": "Correcto. Sostiene que una sola planta convertirá a Liberia en basurero continental inmediato, incurriendo en una exageración causal falaz sin pruebas."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad verecundiam al apoyarse en estudios del Estado de la Nación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se apoya en ninguna autoridad; emite un vaticinio apocalíptico personal."
+        },
+        {
+          "letter": "D",
+          "text": "Petición de principio al definir reciclaje como sinónimo exacto de salud ecológica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia que define la estructura del argumento es el encadenamiento de desastre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente resbaladiza busca infundir temor al postular que un acto desencadenará inevitablemente un desastre absoluto, omitiendo explicar los pasos causales de forma racional.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "¿Qué deficiencia de razonamiento presenta esta síntesis argumentativa?",
+      "context": "Considere la siguiente conclusión de un ensayo sobre conservación biológica en Costa Rica:\n'En conclusión, debemos cuidar los bosques costarricenses porque los árboles son la flora del país. Sin una vegetación boscosa, no tendríamos árboles de ningún tipo en las montañas costarricenses y nos quedaríamos sin bosques naturales.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contradicción flagrante entre los términos biológicos utilizados por el estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es temáticamente coherente, no presenta contradicciones lógicas directas de términos."
+        },
+        {
+          "letter": "B",
+          "text": "Razonamiento circular o tautología, al repetir la tesis de partida de forma redundante en las premisas sin aportar un desarrollo conceptual real.",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento dice 'debemos cuidar bosques porque son árboles y sin árboles no hay vegetación y no hay bosques', repitiendo la misma idea circularmente."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de inclusión de un registro informal con voseo para conectar con el campesino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escritura académica formal de ensayos exige evitar variantes informales y voseos coloquiales."
+        },
+        {
+          "letter": "D",
+          "text": "Sesgo geográfico al no mencionar el Parque Nacional de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es obligatorio mencionar un parque específico para fundamentar la necesidad de cuidar los bosques."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El razonamiento circular o petición de principio no aporta argumentos demostrativos, limitándose a reformular la premisa de origen en una conclusión redundante.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál de las siguientes propuestas cumple adecuadamente con el propósito informativo y objetivo de la tipología expositiva?",
+      "context": "Un profesor de Español en Cartago solicita a su clase clasificar fragmentos textuales extraídos de diarios nacionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Volcán Irazú es un lugar mágico cuyo cráter verdoso parece un espejo donde duermen los duendes del bosque de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una descripción literaria y subjetiva con de fantasía (mágico, duendes), ajena a la objetividad."
+        },
+        {
+          "letter": "B",
+          "text": "Los diputados de la provincia costarricense deberían sentir vergüenza de ignorar las necesidades de la zona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresa un fuerte juicio de valor de reproche político de carácter argumentativo subjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "La Red de Áreas Protegidas abarca más del 25% del territorio nacional de Costa Rica, bajo la administración del Sistema Nacional de Áreas de Conservación (SINAC).",
+          "is_correct": true,
+          "feedback": "Correcto. Presenta información fáctica real, precisa, en tercera persona gramatical y con tono neutral y objetivo (expositivo)."
+        },
+        {
+          "letter": "D",
+          "text": "Camine despacio por el sendero y recoja toda la basura que encuentre para conservar limpia la hermosa provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto de tipo instructivo o apelativo directo que emite órdenes de comportamiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La exposición fáctica de datos geográficos y administrativos del SINAC costarricense cumple con el propósito de neutralidad y función referencial del texto expositivo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.32,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "¿Cómo se denomina formalmente al recurso descriptivo literario que retrata detalladamente las características físicas y fisonomía exterior de una persona?",
+      "context": "Durante una sesión de repaso en San José, los estudiantes recapitulan la tipología de los textos descriptivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Etapeya moral de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etopeya retrata de manera exclusiva rasgos psicológicos y morales del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Prosopografía.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el vocablo técnico de la retórica para la descripción física exterior de personas o animales."
+        },
+        {
+          "letter": "C",
+          "text": "Topografía descriptiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encarga de la caracterización de relieves geográficos, paisajes y lugares inanimados."
+        },
+        {
+          "letter": "D",
+          "text": "Cronografía de época.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe las condiciones de un marco temporal o época histórica costarricense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prosopografía es la descripción retórica centrada en el aspecto físico, corporal y fisonómico exterior del sujeto representado literariamente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.3,
+      "bundle_id": "CR-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

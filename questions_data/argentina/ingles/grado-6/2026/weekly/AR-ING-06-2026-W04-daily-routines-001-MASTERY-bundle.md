@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-001`
 **Bloom:** Remember
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.85
 **Contexto:** Telling the time on a digital clock.
 
@@ -42,7 +42,7 @@ En inglés, para indicar las "y media", se utiliza la expresión "half past" seg
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-002`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.80
 **Contexto:** Personal hygiene habits in the morning.
 
@@ -64,7 +64,7 @@ El vocabulario de rutina diaria requiere conocer las combinaciones de verbos y s
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-003`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.85
 **Contexto:** The start of the morning shift at school.
 
@@ -86,7 +86,7 @@ Para las horas en punto, se utiliza la expresión "o'clock" después del número
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-004`
 **Bloom:** Analyze
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.75
 **Contexto:** Categorizing activities by time of day.
 
@@ -108,7 +108,7 @@ Relacionar las actividades de la rutina diaria con los momentos del día es una 
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-005`
 **Bloom:** Remember
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.75
 **Contexto:** Grammar rule for adverbs with the verb "to be".
 
@@ -130,7 +130,7 @@ Con el verbo "to be", los adverbios de frecuencia se colocan después del verbo.
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-006`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Having "merienda" in Argentina at 5:00 PM.
 
@@ -152,7 +152,7 @@ Diferenciar entre acciones de comer y beber según el complemento (leche) es par
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-007`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Telling the time (09:15).
 
@@ -174,7 +174,7 @@ Se utiliza "quarter past" para indicar que han pasado 15 minutos (un cuarto de h
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-008`
 **Bloom:** Analyze
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.65
 **Contexto:** Weekend routines and frequency.
 
@@ -196,7 +196,7 @@ Con verbos de acción (que no son "to be"), los adverbios de frecuencia se coloc
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-009`
 **Bloom:** Understand
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.70
 **Contexto:** Understanding different levels of frequency.
 
@@ -218,7 +218,7 @@ Comprender la escala de frecuencia (Always -> Usually -> Often -> Sometimes -> R
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-010`
 **Bloom:** Apply
-**ICFES:** Comunicación y culturas
+**EJE:** Comunicación y culturas
 **Expected_Success:** 0.65
 **Contexto:** Using prepositions for times of day.
 

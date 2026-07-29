@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.85
 **Contexto:** En la cocina de una casa en San Luis, Facundo está preparando la merienda y observa distintos materiales a su alrededor.
 
@@ -45,7 +45,7 @@ La materia es el componente físico del universo. Todo lo que podemos tocar, ver
 ## Question 2 [D4]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.80
 **Contexto:** Lucía tiene dos pelotas del mismo tamaño: una de telgopor y otra de acero. Nota que la de acero es mucho más "pesada" a pesar de ocupar el mismo espacio.
 
@@ -70,7 +70,7 @@ La densidad nos permite distinguir materiales. El acero es más denso que el tel
 ## Question 3 [D5]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.75
 **Contexto:** Estás preparando un café con leche y le agregás una cucharada de azúcar. Revolvés bien hasta que el azúcar "desaparece" a la vista.
 
@@ -95,7 +95,7 @@ Las mezclas homogéneas presentan una sola fase. El azúcar (soluto) se disuelve
 ## Question 4 [D5]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.70
 **Contexto:** En un laboratorio en La Plata, un grupo de alumnos tiene un frasco con agua, arena y clips de hierro. Necesitan separar los clips rápidamente.
 
@@ -120,7 +120,7 @@ La imantación aprovecha la propiedad magnética de ciertos materiales (como el 
 ## Question 5 [D6]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.65
 **Contexto:** Martín quiere preparar una ensalada de frutas con trozos de manzana, naranja y banana. Mezcla todo en un bol.
 
@@ -145,7 +145,7 @@ En las mezclas heterogéneas se pueden distinguir los componentes a simple vista
 ## Question 6 [D7]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.60
 **Contexto:** Unos alumnos en Neuquén observan cómo el agua de un charco desaparece después de un día de sol, mientras que el hielo de un glaciar se derrite lentamente.
 
@@ -170,7 +170,7 @@ Los cambios de estado son procesos físicos. El agua cambia su organización mol
 ## Question 7 [D7]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.55
 **Contexto:** Al mezclar aceite y agua en un vaso, notás que por más que revuelvas, el aceite siempre termina flotando arriba del agua.
 
@@ -195,7 +195,7 @@ El agua y el aceite son líquidos inmiscibles (no se mezclan). Al tener el aceit
 ## Question 8 [D8]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.50
 **Contexto:** Valentina está estudiando las propiedades de los metales en su escuela de Córdoba. Nota que puede convertir un alambre de cobre en láminas finas o en hilos delgados.
 
@@ -220,7 +220,7 @@ Los metales son materiales muy versátiles en la industria debido a su ductilida
 ## Question 9 [D9]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.45
 **Contexto:** En una planta potabilizadora de agua en Buenos Aires, el agua del río viene con mucha arcilla y lodo. Los ingenieros deben decidir cómo limpiarla para el consumo.
 
@@ -245,7 +245,7 @@ La filtración es un método de separación físico que retiene sólidos en susp
 ## Question 10 [D10]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
-**ICFES:** Materia
+**EJE:** Materia
 **Expected_Success:** 0.40
 **Contexto:** Un grupo de investigadores argentinos está diseñando un nuevo material para envases de comida que se degrade rápido y no contamine.
 

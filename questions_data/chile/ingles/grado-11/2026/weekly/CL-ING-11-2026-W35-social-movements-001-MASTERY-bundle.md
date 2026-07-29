@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Introduction to social activism.
 
@@ -45,7 +45,7 @@ Activism is the policy or action of using vigorous campaigning to bring about po
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing movement history.
 
@@ -65,7 +65,7 @@ The past perfect continuous 'had been growing' emphasizes the long history of de
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about social change.
 
@@ -85,7 +85,7 @@ The third conditional allows us to reflect on the historical importance of colle
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about "grassroots" movements.
 
@@ -105,7 +105,7 @@ A grassroots movement is one that uses the people in a given district, region, o
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on "civil disobedience".
 
@@ -125,7 +125,7 @@ Civil disobedience is the active, professed refusal of a citizen to obey certain
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Protest methods.
 
@@ -145,7 +145,7 @@ A boycott is a punitive ban that forbids relations with certain groups, cooperat
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing an ongoing social campaign.
 
@@ -165,7 +165,7 @@ The present continuous passive describes the current, active focus of the moveme
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on "solidarity".
 
@@ -185,7 +185,7 @@ Solidarity is unity or agreement of feeling or action, especially among individu
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting on a past movement's success.
 
@@ -205,7 +205,7 @@ In reported speech, we backshift the tense to show the achievement occurred befo
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "slacktivism".
 
@@ -225,7 +225,7 @@ In reported speech, we backshift the tense to show the achievement occurred befo
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of a rally.
 
@@ -245,7 +245,7 @@ A rally is a mass meeting of people making a political protest or showing suppor
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Describing a future social goal.
 
@@ -265,7 +265,7 @@ The future perfect passive indicates that the signing of the bill will be a fini
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing "advocacy".
 
@@ -285,7 +285,7 @@ Effective advocacy requires clear communication and the ability to build broad c
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about collective action.
 
@@ -305,7 +305,7 @@ The second conditional describes the likely result of a hypothetical increase in
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on social change.
 
@@ -325,7 +325,7 @@ The author concludes that systemic change is only possible when individual actio
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Describing an "activist".
 
@@ -345,7 +345,7 @@ An activist is a person who campaigns to bring about political or social change.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a hope for social progress.
 
@@ -365,7 +365,7 @@ The 'wish + past' structure expresses a desire for the current situation to be d
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about "non-violent resistance".
 
@@ -385,7 +385,7 @@ Non-violent resistance is the practice of achieving goals through symbolic prote
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a leader's speech.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift the tense of the original statement to show it 
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on change.
 

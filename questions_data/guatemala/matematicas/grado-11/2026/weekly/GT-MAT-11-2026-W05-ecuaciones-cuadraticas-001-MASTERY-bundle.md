@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de bachillerato en Ciudad de Guatemala identifica las características de las ecuaciones de segundo grado.
 
@@ -39,7 +39,7 @@ Una ecuación cuadrática se caracteriza por tener como máximo exponente de la 
 ## Question 2 [D3-D4]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.85
 **Contexto:** Para resolver ecuaciones cuadráticas, se utilizan diferentes métodos. Uno de los más universales es el uso de la fórmula cuadrática.
 
@@ -58,7 +58,7 @@ El discriminante ($\Delta$) permite saber de antemano si la ecuación tiene solu
 ## Question 3 [D3-D4]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un arquitecto diseña un jardín cuadrado en Antigua Guatemala y conoce su área total.
 
@@ -77,7 +77,7 @@ Este es un ejemplo de una ecuación cuadrática incompleta pura ($ax^2 + c = 0$)
 ## Question 4 [D3-D4]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante analiza la cantidad de soluciones de una ecuación cuadrática basándose en el valor del discriminante.
 
@@ -96,7 +96,7 @@ Cuando el discriminante es cero, el trinomio es un cuadrado perfecto y la paráb
 ## Question 5 [D5-D6]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.75
 **Contexto:** Un carpintero en Mixco necesita encontrar las dimensiones de una pieza rectangular.
 
@@ -115,7 +115,7 @@ Las ecuaciones cuadráticas puras se resuelven despejando $x^2$ y extrayendo la 
 ## Question 6 [D5-D6]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un agricultor en Escuintla planta árboles en una disposición rectangular donde el número de filas es igual al número de árboles por fila.
 
@@ -134,7 +134,7 @@ El problema se modela con una ecuación cuadrática pura donde el área (total d
 ## Question 7 [D5-D6]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Al resolver ecuaciones cuadráticas por factorización, se busca simplificar la expresión a un producto de binomios.
 
@@ -153,7 +153,7 @@ La factorización de un trinomio permite convertir la ecuación en dos ecuacione
 ## Question 8 [D5-D6]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante estudia ecuaciones cuadráticas mixtas o incompletas del tipo $ax^2 + bx = 0$.
 
@@ -172,7 +172,7 @@ Al no tener término independiente ($c=0$), la variable $x$ es factor común, lo
 ## Question 9 [D5-D6]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** En un taller de física en Quetzaltenango, se analiza el movimiento de un objeto lanzado hacia arriba.
 
@@ -191,7 +191,7 @@ Se aplica la factorización por factor común para descomponer la ecuación en d
 ## Question 10 [D5-D6]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante usa la fórmula cuadrática para resolver una ecuación que no es fácilmente factorizable.
 
@@ -210,7 +210,7 @@ El discriminante se halla con la expresión $b^2 - 4ac$. Un valor positivo indic
 ## Question 11 [D7-D8]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero hidráulico en Guatemala utiliza ecuaciones cuadráticas para calcular el flujo en tuberías.
 
@@ -229,7 +229,7 @@ La fórmula cuadrática es un método infalible para hallar las raíces de cualq
 ## Question 12 [D7-D8]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante analiza problemas geométricos donde se involucra el teorema de Pitágoras, resultando en ecuaciones cuadráticas.
 
@@ -248,7 +248,7 @@ Se plantea una ecuación cuadrática basada en el teorema de Pitágoras. Al obte
 ## Question 13 [D7-D8]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** El método de completar el cuadrado es fundamental para entender la geometría de las parábolas.
 
@@ -267,7 +267,7 @@ Para completar el cuadrado en $x^2 + bx$, se suma $(b/2)^2$. Esto permite conver
 ## Question 14 [D7-D8]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un diseñador industrial en Villa Nueva trabaja con piezas metálicas cuya resistencia está modelada por una función cuadrática.
 
@@ -286,7 +286,7 @@ Cuando el trinomio es un cuadrado perfecto, el discriminante es cero y la ecuaci
 ## Question 15 [D7-D8]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de ingeniería en la USAC analiza sistemas de ecuaciones donde una es lineal y otra es cuadrática.
 
@@ -305,7 +305,7 @@ Un discriminante negativo indica que la parábola asociada no corta el eje $x$, 
 ## Question 16 [D7-D8]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.55
 **Contexto:** En un curso de física, se estudia el tiempo que tarda un proyectil en caer al suelo.
 
@@ -324,7 +324,7 @@ El tiempo en problemas de caída libre suele resolverse mediante una ecuación c
 ## Question 17 [D9-D10]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un matemático analiza la relación entre las raíces y los coeficientes de una ecuación cuadrática (Teorema de Vieta).
 
@@ -343,7 +343,7 @@ A partir de las raíces $x_1, x_2$, se puede reconstruir la ecuación usando $(x
 ## Question 18 [D9-D10]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de ingeniería de la USAC resuelve una ecuación cuadrática con coeficientes literales.
 
@@ -362,7 +362,7 @@ Las ecuaciones literales se resuelven de la misma forma que las numéricas, reco
 ## Question 19 [D9-D10]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.45
 **Contexto:** Un economista analiza una función de costo total cuadrática $C(x) = x^2 - 20x + 150$.
 
@@ -381,7 +381,7 @@ Al igualar la función a un valor dado, se forma una nueva ecuación cuadrática
 ## Question 20 [D9-D10]
 **ID:** GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Lógico-Matemático
+**EJE:** Pensamiento Lógico-Matemático
 **Expected_Success:** 0.35
 **Contexto:** Se plantea un reto matemático sobre la suma de los inversos de las raíces de una ecuación cuadrática.
 

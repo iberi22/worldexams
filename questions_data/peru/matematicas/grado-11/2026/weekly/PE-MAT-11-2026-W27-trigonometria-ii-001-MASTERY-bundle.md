@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Lima repasa la definición de un ángulo en posición normal en el plano cartesiano.
 
@@ -45,7 +45,7 @@ Un ángulo se encuentra en posición normal cuando su vértice se ubica en el or
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Análisis del signo de las razones trigonométricas en los cuadrantes.
 
@@ -70,7 +70,7 @@ En el sistema de coordenadas, el seno de un ángulo $\theta$ se define como $y/r
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Un punto en el plano cartesiano pertenece al lado final de un ángulo $\alpha$ en posición normal.
 
@@ -95,7 +95,7 @@ Calculamos primero el radio vector $r = \sqrt{x^2 + y^2} = \sqrt{(-3)^2 + 4^2} =
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Estudio de la circunferencia trigonométrica (C.T.) en Arequipa.
 
@@ -120,7 +120,7 @@ La Circunferencia Trigonométrica es una herramienta geométrica donde el radio 
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Cálculo de razones trigonométricas para ángulos cuadrantales.
 
@@ -145,7 +145,7 @@ Los ángulos cuadrantales son múltiplos de 90°. En la C.T., el punto para 270�
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Variación del seno en el segundo cuadrante.
 
@@ -170,7 +170,7 @@ En el segundo cuadrante ($90^\circ < \alpha < 180^\circ$), el seno es positivo. 
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Un problema sobre ángulos coterminales.
 
@@ -195,7 +195,7 @@ Dos ángulos están en posición normal y son coterminales si comparten el mismo
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Cálculo de la tangente en el tercer cuadrante.
 
@@ -220,7 +220,7 @@ En el tercer cuadrante, la ordenada $y$ y la abscisa $x$ son negativas. Con $\si
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Área sombreada en la circunferencia trigonométrica.
 
@@ -245,7 +245,7 @@ El triángulo tiene vértices en $(0,0)$, $(\cos\theta, \sin\theta)$ y $(\cos\th
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Comparación de valores trigonométricos en la C.T.
 
@@ -270,7 +270,7 @@ En el primer cuadrante, a medida que el ángulo aumenta de 0 a 90°, el valor de
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Signo de expresiones trigonométricas.
 
@@ -295,7 +295,7 @@ Evaluamos el signo de cada factor por su ubicación cuadrantal: en el segundo cu
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Reducción al primer cuadrante.
 
@@ -320,7 +320,7 @@ Para ángulos en el cuarto cuadrante, usamos la relación $\cos(360^\circ - \the
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Distancia entre puntos en la C.T.
 
@@ -345,7 +345,7 @@ Usamos la fórmula de distancia entre puntos $(x_1, y_1)$ y $(x_2, y_2)$ elevada
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Rango de una función trigonométrica en un intervalo restringido.
 
@@ -370,7 +370,7 @@ En el intervalo dado, el coseno decrece continuamente. En $60^\circ$, $\cos = 0.
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Simplificación con reducción al primer cuadrante y ángulos negativos.
 
@@ -395,7 +395,7 @@ Reducimos cada término: 1) $\sin(-30^\circ) = -\sin(30^\circ) = -1/2$. 2) $\cos
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Representación de la tangente en la circunferencia trigonométrica.
 
@@ -420,7 +420,7 @@ La tangente de un ángulo $\theta$ en la C.T. se representa geométricamente sob
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Desafío sobre el área de una región limitada por líneas trigonométricas.
 
@@ -445,7 +445,7 @@ El triángulo descrito es un triángulo rectángulo cuyos catetos se ubican sobr
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Periodicidad de las funciones trigonométricas.
 
@@ -470,7 +470,7 @@ La función seno es periódica con un periodo fundamental de $2\pi$. Esto implic
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Análisis de una ecuación trigonométrica con parámetros.
 
@@ -495,7 +495,7 @@ La función coseno está acotada entre $-1$ y $1$. Para que la ecuación tenga s
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Geometría analítica y tangentes de ángulos de inclinación.
 

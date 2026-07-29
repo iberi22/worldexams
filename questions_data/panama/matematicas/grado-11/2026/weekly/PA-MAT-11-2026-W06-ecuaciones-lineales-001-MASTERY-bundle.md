@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en Ciudad de Panamá repasa las propiedades de la igualdad para resolver ecuaciones de primer grado.
 
@@ -41,7 +41,7 @@ Identificación de los pasos lógicos y propiedades de la igualdad para la resol
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un mensajero en Colón necesita calcular el tiempo de entrega basado en una tarifa fija más un costo variable.
 
@@ -62,7 +62,7 @@ Resolución de ecuaciones lineales de dos pasos mediante el uso de operaciones i
 ## Question 3 [D3]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Durante una clase en la Universidad de Panamá, se discuten las características técnicas de las ecuaciones lineales.
 
@@ -83,7 +83,7 @@ Definición técnica y clasificación de las ecuaciones polinómicas (lineales o
 ## Question 4 [D3]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante en Santiago modela sus gastos semanales mediante una igualdad lineal simple.
 
@@ -104,7 +104,7 @@ Manejo de coeficientes negativos y términos constantes en la resolución de ecu
 ## Question 5 [D4]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un artesano en Coclé traduce un problema verbal a lenguaje matemático para calcular su producción.
 
@@ -125,7 +125,7 @@ Traducción de enunciados en lenguaje natural a ecuaciones lineales de primer gr
 ## Question 6 [D4]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero en David resuelve una ecuación con variables en ambos lados para equilibrar cargas.
 
@@ -146,7 +146,7 @@ Resolución de ecuaciones lineales con la incógnita presente en ambos miembros 
 ## Question 7 [D5]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un contador en Panamá simplifica una expresión con paréntesis antes de determinar una utilidad.
 
@@ -167,7 +167,7 @@ Aplicación de la propiedad distributiva en la resolución de ecuaciones lineale
 ## Question 8 [D5]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un técnico en refrigeración en Chitré utiliza una fórmula para conversión de temperaturas fraccionarias.
 
@@ -188,7 +188,7 @@ Resolución de ecuaciones lineales que involucran coeficientes fraccionarios.
 ## Question 9 [D5]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un analista en la Ciudad del Saber determina si una ecuación de configuración posee solución real.
 
@@ -209,7 +209,7 @@ Identificación de ecuaciones lineales sin solución (sistemas inconsistentes).
 ## Question 10 [D6]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un topógrafo en Chiriquí resuelve una ecuación con varios términos para el perímetro de un lote.
 
@@ -230,7 +230,7 @@ Resolución de ecuaciones lineales que requieren distribución y reducción de t
 ## Question 11 [D6]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un economista en Panamá analiza una ecuación de demanda con diferentes denominadores.
 
@@ -251,7 +251,7 @@ Resolución de ecuaciones lineales con denominadores numéricos mediante el mét
 ## Question 12 [D6]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto resuelve una ecuación para hallar el punto de intersección de dos vigas rectas.
 
@@ -272,7 +272,7 @@ Resolución de ecuaciones lineales que contienen coeficientes en forma decimal.
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante plantea una ecuación para resolver un problema de edades inspirado en nombres locales.
 
@@ -293,7 +293,7 @@ Modelado de problemas de la vida real mediante el planteamiento de ecuaciones li
 ## Question 14 [D7]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un farmacéutico en Aguadulce prepara una mezcla y resuelve una proporción lineal.
 
@@ -314,7 +314,7 @@ Resolución de ecuaciones lineales mediante el producto cruzado en estructuras p
 ## Question 15 [D7]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un analista financiero determina si una política resulta en una identidad matemática con infinitos puntos.
 
@@ -335,7 +335,7 @@ Distinción entre ecuaciones con solución única, inconsistentes e identidades.
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un experto en logística en el Canal resuelve una ecuación literal para despejar una variable.
 
@@ -356,7 +356,7 @@ Resolución de ecuaciones literales mediante el despeje algorítmico de variable
 ## Question 17 [D8]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un científico en el Smithsonian analiza tasas de evaporación mediante una ecuación compleja.
 
@@ -377,7 +377,7 @@ Resolución de ecuaciones lineales complejas con múltiples fracciones y signos 
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un consultor financiero evalúa una inversión que depende de parámetros variables k.
 
@@ -398,7 +398,7 @@ Análisis de condiciones paramétricas para la existencia de soluciones en igual
 ## Question 19 [D9]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** Reto sobre ecuaciones que parecen de grado superior pero se reducen a lineales por cancelación.
 
@@ -419,7 +419,7 @@ Resolución de ecuaciones que involucran productos notables y simplificaciones l
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Un experto en criptografía analiza la reversibilidad de una función usada en un código.
 

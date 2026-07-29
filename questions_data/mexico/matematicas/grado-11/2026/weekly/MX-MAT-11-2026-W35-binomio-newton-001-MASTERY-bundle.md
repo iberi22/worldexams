@@ -27,7 +27,7 @@ Este bundle se centra en el desarrollo de binomios elevados a potencias enteras 
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identificación del desarrollo de un binomio al cuadrado.
 **Expected_Success:** 0.95
 
@@ -48,7 +48,7 @@ El cuadrado de un binomio sigue la regla: el cuadrado del primero, más el doble
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Relación con el Triángulo de Pascal.
 **Expected_Success:** 0.90
 
@@ -69,7 +69,7 @@ El Triángulo de Pascal proporciona los coeficientes binomiales. Para $n=3$, los
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Propiedades del Teorema del Binomio.
 **Expected_Success:** 0.88
 
@@ -90,7 +90,7 @@ Por el Teorema del Binomio, los términos van desde $\binom{n}{0}$ hasta $\binom
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Desarrollo de un binomio al cubo con resta.
 **Expected_Success:** 0.82
 
@@ -111,7 +111,7 @@ Aplicamos $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$. Sustituyendo $a=x$ y $b=1$: $x^
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Cálculo de un coeficiente específico.
 **Expected_Success:** 0.75
 
@@ -132,7 +132,7 @@ El término general es $T_{k+1} = \binom{n}{k} a^{n-k} b^k$. Para $x^3$, $n-k=3 
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Suma de los coeficientes de un binomio.
 **Expected_Success:** 0.70
 
@@ -153,7 +153,7 @@ Para hallar la suma de coeficientes de cualquier polinomio, sustituimos las vari
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Desarrollo de potencia 4.
 **Expected_Success:** 0.74
 
@@ -174,7 +174,7 @@ Usamos $T_{k+1}$ con $k=2$: $\binom{4}{2} (2x)^{4-2} (3)^2 = 6 \cdot (4x^2) \cdo
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Comportamiento de los exponentes.
 **Expected_Success:** 0.80
 
@@ -195,7 +195,7 @@ En $(x+y)^n$, el exponente de $x$ baja y el de $y$ sube. Como aquí son $a^2$ y 
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Término central de un desarrollo.
 **Expected_Success:** 0.68
 
@@ -216,7 +216,7 @@ Para $n=6$, el término central es el cuarto ($k=3$). $T_4 = \binom{6}{3} x^3 (2
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Propiedades de simetría de los coeficientes.
 **Expected_Success:** 0.72
 
@@ -237,7 +237,7 @@ Los coeficientes binomiales son simétricos respecto al centro del desarrollo: $
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Término independiente de x.
 **Expected_Success:** 0.55
 
@@ -258,7 +258,7 @@ Buscamos el término donde el exponente final de $x$ sea 0. En este caso, $x^{4-
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Coeficientes negativos en el binomio.
 **Expected_Success:** 0.52
 
@@ -279,7 +279,7 @@ Para $x^2y^2$, $k=2$. El término es $\binom{4}{2} (3x)^2 (-2y)^2 = 6 \cdot (9x^
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Uso de la fórmula del término general.
 **Expected_Success:** 0.58
 
@@ -300,7 +300,7 @@ Aplicamos $T_{k+1}$ con $k=4$: $\binom{7}{4} a^3 b^4 = 35 a^3 b^4$.
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Binomio con fracciones.
 **Expected_Success:** 0.48
 
@@ -321,7 +321,7 @@ Para $k=3$: $\binom{6}{3} (\frac{x}{2})^3 (-\frac{2}{x})^3 = 20 \cdot \frac{x^3}
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Comparación de coeficientes.
 **Expected_Success:** 0.50
 
@@ -342,7 +342,7 @@ Igualamos $\binom{n}{1} = \binom{n}{2} \rightarrow n = \frac{n(n-1)}{2} \rightar
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Aplicación del binomio en estimaciones numéricas.
 **Expected_Success:** 0.45
 
@@ -363,7 +363,7 @@ Para $(1+x)^n$ con $x$ pequeño, $(1+x)^n \approx 1 + nx$. Aquí: $1 + 5(0.02) =
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Hallar la potencia n a partir de un término.
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ El coeficiente es $4 \cdot \binom{n}{2} = 112$. Entonces $\binom{n}{2} = 28$. La
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Binomios con exponentes negativos (teórico).
 **Expected_Success:** 0.30
 
@@ -405,7 +405,7 @@ Esta es una serie geométrica infinita. El desarrollo es $1 + x + x^2 + x^3...$,
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Generalización del teorema.
 **Expected_Success:** 0.32
 
@@ -426,7 +426,7 @@ La suma de una fila $n$ del Triángulo de Pascal es siempre $2^n$. Se deriva de 
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W35-binomio-newton-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Razonamiento sobre términos máximos.
 **Expected_Success:** 0.28
 

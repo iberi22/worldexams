@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Advice on physical activity.
 
@@ -45,7 +45,7 @@ Maintaining a wholesome lifestyle, including regular exercise and a balanced die
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing stress management.
 
@@ -65,7 +65,7 @@ Many people had been practicing meditation for years before it became a popular 
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Talking about a hypothetical diet change.
 
@@ -85,7 +85,7 @@ The second conditional is used to discuss a situation that is different from cur
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about the importance of sleep.
 
@@ -105,7 +105,7 @@ Chronic sleep deprivation can lead to impaired cognitive function and a weakened
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on the holistic approach to health.
 
@@ -125,7 +125,7 @@ The holistic approach suggests that mental health is inextricably linked to phys
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** Public health announcement.
 
@@ -145,7 +145,7 @@ Washing your hands frequently is a simple but effective way to prevent the sprea
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Recommendation for mental health.
 
@@ -165,7 +165,7 @@ After 'It is recommended that...', the base form of the verb (subjunctive) is us
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on nutrition labels.
 
@@ -185,7 +185,7 @@ Consumers should pay close attention to the content of sugar and sodium in the f
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Talking about a past health goal.
 
@@ -205,7 +205,7 @@ By the time the marathon started, Sarah had been training for over six months.
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of "fast food" culture.
 
@@ -225,7 +225,7 @@ The article argues that the ubiquity of fast food has contributed significantly 
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of a term.
 
@@ -245,7 +245,7 @@ A vegan is a person who eats no food that comes from animals, including dairy an
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passive voice in a medical report.
 
@@ -265,7 +265,7 @@ The present continuous passive 'are being developed' is used to describe a proce
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing mental resilience.
 
@@ -285,7 +285,7 @@ Developing emotional resilience helps individuals bounce back from setbacks and 
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a health study.
 
@@ -305,7 +305,7 @@ The present simple 'drink' is used to state a general truth or habitual action.
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on public health policy.
 
@@ -325,7 +325,7 @@ The author argues that governments should prioritize preventative care rather th
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Fitness advice.
 
@@ -345,7 +345,7 @@ Don't forget to warm up before your workout to prevent muscle strain.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Advice on sun protection.
 
@@ -365,7 +365,7 @@ You should wear sunscreen even on cloudy days to protect your skin from UV rays.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about healthcare access.
 
@@ -385,7 +385,7 @@ Universal coverage ensures that all citizens have access to necessary health ser
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Speculating about a health outcome.
 
@@ -405,7 +405,7 @@ The mixed conditional connects a past hypothetical event with its present conseq
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on workplace wellness.
 

@@ -118,3 +118,19 @@ For each one decide exactly one:
 3. Check whether `analyze-party-results` is meant to back the live exam-room flow
 4. Recover or retire the three remote-only functions
 5. Re-run the audit script and update this file
+
+## Deploy Runbook (Linux, 2026-07-28)
+
+El audit script PowerShell fue retirado en la migración a Linux. Para reconciliar y desplegar:
+
+```bash
+export SUPABASE_ACCESS_TOKEN=<token>
+supabase link --project-ref tzmrgvtptdtsjcugwqyq
+supabase functions list                 # remoto vs local (este directorio es canónico)
+supabase functions deploy analyze-party-results
+supabase functions deploy api-gateway
+```
+
+Pendiente (feat-premium-api): desplegar las funciones corregidas en la próxima ventana ops
+con `SUPABASE_ACCESS_TOKEN` configurado. El deploy NO es automático desde CI (workflows
+deshabilitados por política SWAL).

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante de David está clasificando los gastos de su viaje escolar en diferentes conjuntos numéricos para un proyecto de contabilidad básica.
 
@@ -41,7 +41,7 @@ Identificación y clasificación de números reales en sus subconjuntos fundamen
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** En una tienda en la Avenida Central de Santiago, los precios se redondean para facilitar el cambio en balboas.
 
@@ -62,7 +62,7 @@ Comprensión del sistema de numeración decimal y aplicación de reglas de redon
 ## Question 3 [D4]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un agrimensor en Chiriquí compara las altitudes de dos puntos de control respecto al nivel del mar utilizando números reales.
 
@@ -83,7 +83,7 @@ Comprensión de la propiedad de orden en el conjunto de los números reales, esp
 ## Question 4 [D4]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un profesor en la Universidad de Panamá repasa las propiedades básicas de las operaciones con números reales.
 
@@ -104,7 +104,7 @@ Identificación de las propiedades fundamentales de las operaciones (adición) e
 ## Question 5 [D5]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un contador en una empresa de logística en Colón debe calcular el saldo final tras una serie de transacciones expresadas en balboas.
 
@@ -125,7 +125,7 @@ Aplicación de operaciones básicas con números reales (enteros con signo) en u
 ## Question 6 [D5]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** En el laboratorio de física de una escuela en Penonomé, se mide la distancia absoluta de un objeto respecto a un punto de referencia.
 
@@ -146,7 +146,7 @@ Comprensión y aplicación del concepto de valor absoluto en operaciones combina
 ## Question 7 [D5]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero ambiental monitorea el rango de temperatura en la reserva forestal de Fortuna utilizando intervalos de números reales.
 
@@ -167,7 +167,7 @@ Representación de subconjuntos de números reales mediante la notación de inte
 ## Question 8 [D6]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Para un diseño arquitectónico en la Ciudad de Panamá, se requiere calcular el inverso multiplicativo de un factor de escala.
 
@@ -188,7 +188,7 @@ Aplicación de la propiedad del elemento inverso (multiplicativo) en el conjunto
 ## Question 9 [D6]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un topógrafo debe calcular la distancia entre dos puntos en un plano coordenado utilizando la propiedad distributiva para simplificar cálculos.
 
@@ -209,7 +209,7 @@ Uso de las propiedades distributiva y asociativa para la simplificación de expr
 ## Question 10 [D6]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un científico en el Instituto Smithsonian de Investigaciones Tropicales analiza la densidad de los números reales en una escala microscópica.
 
@@ -230,7 +230,7 @@ Comprensión teórica de la propiedad de densidad del conjunto de los números r
 ## Question 11 [D7]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** En un análisis financiero complejo de los peajes del Canal de Panamá, se utilizan aproximaciones de números irracionales.
 
@@ -251,7 +251,7 @@ Cálculo de errores absolutos en aproximaciones de números reales irracionales 
 ## Question 12 [D7]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un matemático está verificando la validez de ciertas identidades con valor absoluto para un software de navegación marítima.
 
@@ -272,7 +272,7 @@ Análisis y resolución de ecuaciones con valor absoluto basadas en la definici�
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero civil en David calcula la resistencia de materiales usando sumas de fracciones y números decimales periódicos.
 
@@ -293,7 +293,7 @@ Conversión de decimales periódicos a fracciones y ejecución de operaciones ex
 ## Question 14 [D8]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un analista de datos compara el crecimiento de dos poblaciones microbianas cuyas tasas están representadas por los números $e$ (base de logaritmos naturales) y $\pi$.
 
@@ -314,7 +314,7 @@ Análisis de desigualdades y operaciones con constantes irracionales fundamental
 ## Question 15 [D8]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un programador en la Ciudad del Saber desarrolla un algoritmo para encontrar la intersección de dos rangos de sensores.
 
@@ -335,7 +335,7 @@ Operaciones con conjuntos de números reales representados como intervalos (inte
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Se plantea un dilema sobre la naturaleza de los números reales en una competencia académica nacional.
 
@@ -356,7 +356,7 @@ Evaluación de la comprensión de las propiedades de cierre y composición de lo
 ## Question 17 [D9]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un economista en el Ministerio de Economía y Finanzas (MEF) evalúa el impacto de la inflación acumulada usando una progresión de números reales.
 
@@ -377,7 +377,7 @@ Modelado de crecimiento compuesto utilizando potencias de números reales en con
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un ingeniero de software debe optimizar un proceso que involucra el cálculo de la media geométrica de dos distancias reales.
 
@@ -398,7 +398,7 @@ Análisis de desigualdades fundamentales entre medidas de tendencia central en e
 ## Question 19 [D10]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** En un estudio de topología urbana para la expansión del Metro de Panamá, se analiza la distancia máxima permitida entre estaciones definida por una inecuación de valor absoluto compleja.
 
@@ -419,7 +419,7 @@ Resolución de inecuaciones anidadas con valor absoluto, aplicando propiedades d
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Un astrofísico en el Observatorio de la Universidad de Panamá modela la oscilación de una señal estelar cuya amplitud está ligada a la raíz de una expresión real.
 

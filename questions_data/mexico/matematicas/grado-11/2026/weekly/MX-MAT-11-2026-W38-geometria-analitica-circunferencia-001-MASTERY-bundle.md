@@ -27,7 +27,7 @@ Este bundle explora la circunferencia como lugar geométrico, cubriendo sus ecua
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ecuación canónica (con centro en el origen).
 **Expected_Success:** 0.95
 
@@ -48,7 +48,7 @@ La circunferencia es el conjunto de puntos $(x,y)$ cuya distancia al origen es c
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Identificación de centro y radio.
 **Expected_Success:** 0.90
 
@@ -69,7 +69,7 @@ En la forma ordinaria $(x-h)^2 + (y-k)^2 = r^2$, las coordenadas del centro son 
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ecuación a partir del radio y centro.
 **Expected_Success:** 0.88
 
@@ -90,7 +90,7 @@ Sustituimos los valores en $(x-h)^2 + (y-k)^2 = r^2$: $(x-2)^2 + (y-1)^2 = 3^2 =
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Forma general de la circunferencia.
 **Expected_Success:** 0.85
 
@@ -111,7 +111,7 @@ La ecuación general se obtiene desarrollando los binomios de la forma ordinaria
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Conversión de forma ordinaria a general.
 **Expected_Success:** 0.80
 
@@ -132,7 +132,7 @@ Expandimos los binomios: $x^2 + 2x + 1 + y^2 - 4y + 4 = 4$. Simplificamos e igua
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Centro desde la forma general.
 **Expected_Success:** 0.78
 
@@ -153,7 +153,7 @@ En la forma general $x^2 + y^2 + Dx + Ey + F = 0$, las coordenadas del centro so
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Radio desde la forma general.
 **Expected_Success:** 0.75
 
@@ -174,7 +174,7 @@ Usamos $r = \sqrt{h^2 + k^2 - F}$. Primero hallamos el centro: $h=5, k=1$. Luego
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Circunferencia tangente a un eje.
 **Expected_Success:** 0.72
 
@@ -195,7 +195,7 @@ La tangencia al eje Y significa que la distancia del centro al eje vertical es e
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Puntos extremos del diámetro.
 **Expected_Success:** 0.74
 
@@ -216,7 +216,7 @@ Por definición, el centro de la circunferencia es el punto medio de cualquier d
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Reconocimiento de ecuaciones imposibles.
 **Expected_Success:** 0.80
 
@@ -237,7 +237,7 @@ Para que una circunferencia sea real, su radio al cuadrado ($r^2$) debe ser estr
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Ecuación con centro y un punto de paso.
 **Expected_Success:** 0.65
 
@@ -258,7 +258,7 @@ Calculamos el radio usando la fórmula de distancia entre centro y punto: $r^2 =
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Completar el trinomio cuadrado perfecto.
 **Expected_Success:** 0.60
 
@@ -279,7 +279,7 @@ Para completar cuadrados, sumamos $(\frac{D}{2})^2$ y $(\frac{E}{2})^2$. Aquí: 
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Circunferencia tangente a una recta.
 **Expected_Success:** 0.55
 
@@ -300,7 +300,7 @@ El radio es la distancia del centro a la recta tangente. $r = \frac{|-10|}{\sqrt
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Posición relativa de un punto.
 **Expected_Success:** 0.62
 
@@ -321,7 +321,7 @@ Evaluamos el punto en la expresión $x^2+y^2$. Obtenemos $3^2+4^2=25$. Como $25 
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Intersección con los ejes.
 **Expected_Success:** 0.58
 
@@ -342,7 +342,7 @@ Para hallar cortes con el eje X, igualamos $y=0$: $(x-5)^2 + (-3)^2 = 25 \righta
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Circunferencias concéntricas.
 **Expected_Success:** 0.52
 
@@ -363,7 +363,7 @@ Concéntrica significa que comparten el mismo centro $(2, -3)$. Usando el nuevo 
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Circunferencia que pasa por tres puntos (teórico).
 **Expected_Success:** 0.35
 
@@ -384,7 +384,7 @@ Tres puntos no alineados forman un triángulo. Las mediatrices de sus lados se c
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Recta tangente en un punto dado.
 **Expected_Success:** 0.38
 
@@ -405,7 +405,7 @@ La recta tangente es perpendicular al radio en el punto de contacto. La pendient
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Intersección de recta y circunferencia.
 **Expected_Success:** 0.32
 
@@ -426,7 +426,7 @@ Analizamos el sistema de ecuaciones. Al sustituir la recta en la circunferencia 
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Circunferencia inscrita en un cuadrado.
 **Expected_Success:** 0.30
 

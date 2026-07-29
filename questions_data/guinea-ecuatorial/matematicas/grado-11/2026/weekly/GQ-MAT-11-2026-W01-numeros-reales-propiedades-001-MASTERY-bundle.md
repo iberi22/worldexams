@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** En una tienda en Malabo, se venden sacos de arroz. Un comerciante quiere clasificar los precios de los productos segun el conjunto numerico al que pertenecen.
 
@@ -39,7 +39,7 @@ Los numeros irracionales son aquellos que no pueden ser expresados como el cocie
 ## Question 2 [D3-D4]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante del Instituto Nacional Enrique Nvó Okenve de Bata repasa las propiedades de la suma en el conjunto de los numeros reales.
 
@@ -58,7 +58,7 @@ La propiedad asociativa permite agrupar tres o mas sumandos de diferentes manera
 ## Question 3 [D3-D4]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un arquitecto en Mongomo esta diseñando una plaza circular y necesita utilizar el numero $\pi$ para los calculos del perimetro.
 
@@ -77,7 +77,7 @@ Los numeros irracionales, como $\pi$, forman parte del conjunto de los numeros r
 ## Question 4 [D3-D4]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.78
 **Contexto:** Un agricultor en Evinayong quiere calcular el area de una parcela rectangular y utiliza la propiedad conmutativa para organizar sus calculos.
 
@@ -96,7 +96,7 @@ La propiedad conmutativa de la multiplicacion establece que para cualquier par d
 ## Question 5 [D5-D6]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.72
 **Contexto:** Durante una clase en el Liceo Leoncio May de Malabo, el profesor explica la densidad de los numeros reales.
 
@@ -115,7 +115,7 @@ La densidad es una propiedad topologica de los numeros reales. Significa que no 
 ## Question 6 [D5-D6]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un comerciante en Ebebiyin debe calcular el costo total de varios articulos aplicando un impuesto del $15\%$.
 
@@ -134,7 +134,7 @@ La propiedad distributiva establece que $a \cdot (b + c) = a \cdot b + a \cdot c
 ## Question 7 [D5-D6]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.68
 **Contexto:** En la construccion de una carretera entre Bata y Mbini, se requiere calcular el inverso aditivo de una variacion de altura de $-15.5$ metros para equilibrar el terreno.
 
@@ -153,7 +153,7 @@ Para cada numero real $a$, existe un unico numero $-a$ tal que $a + (-a) = 0$. E
 ## Question 8 [D5-D6]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un oceanografo en la isla de Annobon mide la salinidad del agua y necesita encontrar el inverso multiplicativo de un factor de dilucion igual a $0.25$.
 
@@ -172,7 +172,7 @@ Para cada numero real $a \neq 0$, existe un numero $1/a$ tal que $a \cdot (1/a) 
 ## Question 9 [D5-D6]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un cientifico en el Parque Nacional de Monte Alen estudia la relacion entre la temperatura y la altitud, encontrando valores que pertenecen a distintos subconjuntos de los reales.
 
@@ -191,7 +191,7 @@ Los intervalos son subconjuntos de la recta real. El simbolo $<$ indica que el e
 ## Question 10 [D5-D6]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante compara la velocidad de conexion a internet en Luba y Malabo, representando los datos en la recta numerica.
 
@@ -210,7 +210,7 @@ La Ley de Tricotomia es fundamental para establecer el orden en el conjunto de l
 ## Question 11 [D7-D8]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** En un laboratorio quimico en Bata, se requiere preparar una solucion donde el volumen debe ser exactamente $\pi + \sqrt{3}$ litros.
 
@@ -229,7 +229,7 @@ Por la propiedad de clausura, la suma de dos numeros reales es siempre un numero
 ## Question 12 [D7-D8]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.58
 **Contexto:** Un ingeniero civil en Guinea Ecuatorial calcula la resistencia de una viga usando la expresion $R = a \cdot (b - c) + a \cdot c$.
 
@@ -248,7 +248,7 @@ Al aplicar la propiedad distributiva: $a(b - c) = ab - ac$. Luego, la expresion 
 ## Question 13 [D7-D8]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un analista financiero en Malabo estudia el crecimiento de una inversion y se encuentra con la operacion $x \cdot (y \cdot z) = (x \cdot y) \cdot z$.
 
@@ -267,7 +267,7 @@ La propiedad asociativa es crucial para manipular expresiones algebraicas y reso
 ## Question 14 [D7-D8]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.52
 **Contexto:** En una discusion sobre los fundamentos de las matematicas en la UNGE, se analiza la estructura de los numeros reales.
 
@@ -286,7 +286,7 @@ La definicion de inverso multiplicativo para un numero $a$ requiere que $a \cdot
 ## Question 15 [D7-D8]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.48
 **Contexto:** Se define una operacion personalizada en el conjunto de los reales para un software de gestion en Mongomo: $a \oplus b = a + b + 1$.
 
@@ -305,7 +305,7 @@ Un elemento neutro $e$ debe cumplir que $a \oplus e = a$. Sustituyendo en la for
 ## Question 16 [D7-D8]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un topografo en Annobon mide una distancia como $\sqrt{50}$ metros y desea simplificarla usando propiedades de los radicales (reales).
 
@@ -324,7 +324,7 @@ Utilizando la propiedad de la multiplicacion de raices: $\sqrt{a \cdot b} = \sqr
 ## Question 17 [D9-D10]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un estudiante de bachillerato avanzado analiza la validez de generalizaciones sobre operaciones con numeros irracionales.
 
@@ -343,7 +343,7 @@ Aunque los racionales e irracionales tienen propiedades distintas, ambos son den
 ## Question 18 [D9-D10]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.38
 **Contexto:** Se plantea un problema de logica matematica sobre la completitud de los numeros reales.
 
@@ -362,7 +362,7 @@ El axioma de completitud es la propiedad clave que hace que la recta real sea co
 ## Question 19 [D9-D10]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.42
 **Contexto:** Un programador en Bata intenta implementar una funcion que detecte numeros reales fuera de un rango de seguridad $[A, B]$.
 
@@ -381,7 +381,7 @@ Un intervalo cerrado $[A, B]$ incluye a todos los puntos $x$ tales que $A \le x 
 ## Question 20 [D9-D10]
 **ID:** GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre el valor absoluto como una propiedad de los numeros reales que representa distancia.
 

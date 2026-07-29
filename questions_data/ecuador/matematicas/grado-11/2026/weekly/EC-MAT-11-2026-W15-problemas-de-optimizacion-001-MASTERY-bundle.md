@@ -26,7 +26,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.90
 **Contexto:** Un administrador de un mercado en Quito desea entender el objetivo de la optimización matemática.
 
@@ -51,7 +51,7 @@ La optimización es la aplicación práctica de los extremos locales y globales 
 ## Question 2 [D3]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.85
 **Contexto:** Pasos para resolver problemas de optimización.
 
@@ -76,7 +76,7 @@ Identificar la función objetivo es el paso crítico para traducir un problema v
 ## Question 3 [D4]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Un agricultor en Ibarra tiene 40 metros de malla para cercar un huerto rectangular aprovechando una pared existente (solo necesita cercar tres lados).
 
@@ -101,7 +101,7 @@ Modelado de funciones de área sujetas a restricciones de perímetro en contexto
 ## Question 4 [D4]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** Optimización de números. Se buscan dos números positivos cuya suma sea 20 y cuyo producto sea máximo.
 
@@ -130,7 +130,7 @@ Demostración de que para una suma constante, el producto máximo se alcanza cua
 ## Question 5 [D5]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.70
 **Contexto:** Un fabricante de cajas en Guayaquil desea construir una caja abierta a partir de una lámina cuadrada de 12 cm de lado, cortando cuadrados iguales de lado $x$ en las esquinas.
 
@@ -155,7 +155,7 @@ Resolución del clásico problema de la caja de cartón aplicando el análisis d
 ## Question 6 [D5]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Minimizando el costo de materiales. Una lata cilíndrica debe contener un volumen de $500$ cm³. El costo del material es el mismo para la base, la tapa y el lateral.
 
@@ -180,7 +180,7 @@ Determinación de proporciones óptimas en envases industriales para reducir el 
 ## Question 7 [D6]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Una empresa de logística en Manta quiere minimizar el tiempo de viaje. Un repartidor debe ir de un punto A en la playa a un punto B en el mar. Corre a 5 m/s en la arena y nada a 3 m/s en el agua.
 
@@ -205,7 +205,7 @@ Conexión entre problemas de optimización de trayectorias y leyes fundamentales
 ## Question 8 [D6]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.60
 **Contexto:** Maximización de ingresos. Un teatro en Quito tiene capacidad para 500 personas. Si la entrada cuesta $20, se llena. Por cada $1 de aumento en el precio, se pierden 10 espectadores.
 
@@ -230,7 +230,7 @@ Aplicación del cálculo para encontrar el punto de equilibrio entre el precio u
 ## Question 9 [D6]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Un cable de electricidad debe conectar una planta en la orilla de un río de 300 m de ancho con una ciudad ubicada 800 m río abajo en la otra orilla. El costo por tierra es menor que por agua.
 
@@ -255,7 +255,7 @@ Estructuración de modelos de optimización para infraestructura utilizando el T
 ## Question 10 [D6]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Perímetro mínimo para un área dada. Se desea diseñar un jardín rectangular de 36 m² de área en un parque de Cuenca.
 
@@ -284,7 +284,7 @@ Deducción de que el cuadrado es el polígono de cuatro lados más eficiente en 
 ## Question 11 [D7]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Un rectángulo está inscrito en un triángulo rectángulo con catetos de 3 y 4 unidades. Dos lados del rectángulo están sobre los catetos.
 
@@ -309,7 +309,7 @@ Uso de la semejanza de triángulos para establecer la relación entre las variab
 ## Question 12 [D7]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.50
 **Contexto:** Un envase de cartón para leche en Ambato debe tener capacidad de 1 litro ($1000$ cm³). Su base es cuadrada de lado $x$. El costo del material de la base y tapa es el doble que el de las paredes laterales.
 
@@ -334,7 +334,7 @@ Modelado de problemas de optimización con costos diferenciados por tipo de supe
 ## Question 13 [D7]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Distancia mínima a una curva. Queremos encontrar el punto sobre la parábola $y = x^2$ que está más cerca del punto $(0, 5)$.
 
@@ -359,7 +359,7 @@ Técnica de simplificación de funciones objetivo (uso del cuadrado de la distan
 ## Question 14 [D8]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Un canal de agua en la provincia de Loja tiene una sección transversal en forma de trapecio isósceles. El fondo y los lados miden 2 metros cada uno.
 
@@ -384,7 +384,7 @@ Optimización de secciones hidráulicas para maximizar el caudal, aplicando trig
 ## Question 15 [D8]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Un fabricante de ropa en Otavalo estima que si produce $x$ unidades, su utilidad es $U(x) = -x^3 + 300x^2 - 22500x - 2000$.
 
@@ -409,7 +409,7 @@ Análisis de funciones de utilidad de tercer grado, identificando el máximo rel
 ## Question 16 [D8]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.40
 **Contexto:** Verificación de la concavidad en un problema de optimización.
 
@@ -438,7 +438,7 @@ Importancia del rigor matemático al clasificar puntos críticos para evitar err
 ## Question 17 [D9]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Cilindro inscrito en una esfera. Se desea inscribir un cilindro circular recto de volumen máximo en una esfera de radio $R = 3$.
 
@@ -463,7 +463,7 @@ Optimización de volúmenes inscritos en cuerpos geométricos curvos utilizando 
 ## Question 18 [D9]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.30
 **Contexto:** Reflexión de la luz. Un rayo de luz viaja del punto A al punto B reflejándose en un espejo plano (eje x). El camino óptimo minimiza la distancia total.
 
@@ -488,7 +488,7 @@ Uso del cálculo diferencial para demostrar leyes físicas clásicas a partir de
 ## Question 19 [D10]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.25
 **Contexto:** Un problema de inventarios en una fábrica de zapatos de Latacunga. El costo total anual es $C(x) = \frac{500000}{x} + 2x + 10000$, donde $x$ es el tamaño de cada pedido.
 
@@ -513,7 +513,7 @@ Aplicación del modelo de la Cantidad Económica de Pedido (EOQ) mediante el an�
 ## Question 20 [D10]
 **ID:** EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.20
 **Contexto:** Un problema de optimización en una superficie curva. Se desea encontrar el rectángulo de mayor área con base en el eje x y vértices superiores en la elipse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$.
 

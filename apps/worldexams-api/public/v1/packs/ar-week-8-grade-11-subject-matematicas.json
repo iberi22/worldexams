@@ -8,42 +8,43 @@
   },
   "questions": [
     {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v1",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 1 sobre funcion exponencial para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición matemática de la diferencia común ($d$) de una progresión aritmética?",
+      "context": "Martina estudia el comportamiento constante de las progresiones aritméticas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
+          "letter": "A",
+          "text": "Es el cociente constante entre dos términos consecutivos cualesquiera.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. El cociente constante define a la razón de una progresión geométrica."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
+          "text": "Es el valor constante que se suma a cada término para obtener el siguiente.",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, en una progresión aritmética, cada término se obtiene sumando un valor constante $d$ al término anterior ($a_n = a_{n-1} + d$)."
+        },
+        {
+          "letter": "C",
+          "text": "Es la suma total de los primeros $N$ términos de la sucesión.",
           "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "feedback": "Incorrecto. Este concepto corresponde a la suma de la progresión ($S_n$)."
         },
         {
           "letter": "D",
-          "text": "Cuarta opción incorrecta",
+          "text": "Es el exponente al que se eleva la variable independiente.",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Las progresiones aritméticas tienen un comportamiento lineal, no potencial."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
+      "correct_answer": "B",
+      "explanation": "Una progresión aritmética es una sucesión de números reales en la que la diferencia entre dos términos consecutivos cualesquiera es constante. Esta constante se denomina diferencia común.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -52,42 +53,538 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v2",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 2 sobre funcion exponencial para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el término que define a la constante multiplicativa ($r$) que vincula dos términos consecutivos de una progresión geométrica?",
+      "context": "Matías analiza la rapidez con la que crecen las progresiones geométricas en Córdoba.",
       "options": [
         {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
+          "letter": "A",
+          "text": "La diferencia común de la sucesión.",
           "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "feedback": "Incorrecto. La diferencia se asocia a las progresiones aritméticas."
+        },
+        {
+          "letter": "B",
+          "text": "La razón de la progresión geométrica.",
+          "is_correct": true,
+          "feedback": "Correcto. En una progresión geométrica, cada término se obtiene multiplicando el anterior por una constante llamada razón de la progresión ($a_n = a_{n-1} \\cdot r$)."
         },
         {
           "letter": "C",
-          "text": "Tercera opción incorrecta",
+          "text": "El término general de la progresión.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. El término general es la fórmula explícita $a_n$."
         },
         {
           "letter": "D",
-          "text": "Cuarta opción incorrecta",
+          "text": "El límite de convergencia al infinito.",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. La razón determina si converge, pero no es el límite en sí."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
+      "correct_answer": "B",
+      "explanation": "La razón de una progresión geométrica es el factor constante por el cual se multiplica cada término para generar el término inmediato siguiente.\n\n---",
       "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "Dada la fórmula del término general de una progresión aritmética, $a_n = a_1 + (n - 1)d$, ¿qué representa la variable $n$?",
+      "context": "Valentina calcula términos distantes en una progresión aritmética en Mendoza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor absoluto del primer término de la serie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer término es la constante $a_1$."
+        },
+        {
+          "letter": "B",
+          "text": "El valor de la diferencia común entre términos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia es la constante $d$."
+        },
+        {
+          "letter": "C",
+          "text": "La posición o índice del término dentro de la sucesión.",
+          "is_correct": true,
+          "feedback": "Correcto. La variable $n$ es un número entero positivo que indica el lugar o posición del término $a_n$ en la secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad total de sumandos que contiene la sucesión completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sucesiones pueden ser infinitas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la fórmula explícita de una sucesión, el índice $n \\in \\mathbb{N}$ determina la posición ordinal de cada término en la secuencia secuencial de valores.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "¿Bajo qué condición matemática para la razón $r$ es posible calcular la suma de los infinitos términos de una progresión geométrica (convergencia de la serie)?",
+      "context": "Agustín analiza el comportamiento límite de la suma de infinitos términos en La Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando la razón es estrictamente mayor que uno ($r > 1$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $r > 1$, la serie diverge y la suma tiende a infinito."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando el valor absoluto de la razón es estrictamente menor que uno ($|r| < 1$).",
+          "is_correct": true,
+          "feedback": "Correcto. Si $-1 < r < 1$, las potencias de la razón tienden a cero a medida que sumamos infinitos términos, permitiendo calcular la suma exacta como $S = \\frac{a_1}{1 - r}$."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente si la razón es igual a cero ($r = 0$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $r=0$ la serie se anula de inmediato, pero existen infinitos valores decimales que también convergen."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando la razón es menor o igual a menos uno ($r \\le -1$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este caso la serie oscila divergiendo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una serie geométrica infinita converge a un valor numérico finito si y solo si la razón se halla estrictamente contenida entre $-1$ y $1$, lo que se expresa como $|r| < 1$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Dada la fórmula para calcular la suma de los primeros $n$ términos de una progresión aritmética, $S_n = \\frac{(a_1 + a_n)n}{2}$, ¿qué propiedad de la sucesión justifica este cálculo directo?",
+      "context": "Lucía analiza las cuotas mensuales constantes de un plan de pagos en Rosario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los términos alternan de signo de manera regular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las progresiones aritméticas comunes no alternan de signo si la diferencia es constante positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Que la suma de términos equidistantes de los extremos es constante.",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los términos simétricos respecto al centro de la progresión siempre es constante y es igual a la suma del primer y del último término ($a_1 + a_n$)."
+        },
+        {
+          "letter": "C",
+          "text": "Que la progresión crece exponencialmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento de las progresiones aritméticas es lineal."
+        },
+        {
+          "letter": "D",
+          "text": "Que la diferencia común tiende a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia $d$ es una constante no nula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El método desarrollado por Gauss para sumar progresiones se basa en el principio de que los pares de términos equidistantes de los extremos tienen una suma idéntica y constante a la suma de $a_1 + a_n$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "¿Bajo qué condición para la diferencia común $d$ se afirma que una progresión aritmética es estrictamente decreciente?",
+      "context": "Franco repasa las propiedades de las sucesiones monótonas en Buenos Aires.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando la diferencia común es positiva ($d > 0$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este caso la progresión es creciente."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando la diferencia común es negativa ($d < 0$).",
+          "is_correct": true,
+          "feedback": "Correcto. Si sumamos un valor negativo, cada término será estrictamente menor que su antecesor ($a_n < a_{n-1}$), haciendo decrecer a la progresión."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente si el primer término es menor que cero ($a_1 < 0$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del primer término no determina el crecimiento o decrecimiento de la serie."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando la diferencia común es igual a uno ($d = 1$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto generaría un crecimiento lineal simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El signo de la diferencia común $d$ rige de forma absoluta la monotonía de una progresión aritmética. Si $d > 0$ es creciente, si $d < 0$ es decreciente, y si $d = 0$ es constante.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "Las filas de asientos de un teatro forman una progresión aritmética. Si la primera fila tiene $12$ asientos, la segunda tiene $16$, la tercera tiene $20$, ¿cuántos asientos tiene la fila número $15$?",
+      "context": "Sofía quiere calcular la cantidad de asientos de un teatro en San Miguel de Tucumán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$72\\text{ asientos}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el valor del índice al aplicar la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$68\\text{ asientos}$",
+          "is_correct": true,
+          "feedback": "Correcto. Identificamos la progresión: $a_1 = 12$, $d = 4$. Aplicando la fórmula: $a_{15} = 12 + (15 - 1) \\cdot 4 = 12 + 14 \\cdot 4 = 12 + 56 = 68$ asientos."
+        },
+        {
+          "letter": "C",
+          "text": "$60\\text{ asientos}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron de manera errónea las cantidades."
+        },
+        {
+          "letter": "D",
+          "text": "$76\\text{ asientos}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No respeta la posición secuencial exacta de la fila 15."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cantidad de asientos forma una progresión aritmética con término inicial $12$ y diferencia común $4$. Aplicando la fórmula explícita para la posición $n=15$, se obtiene $a_{15} = 12 + 14 \\cdot 4 = 68$ asientos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "Calculá la suma de los primeros $20$ números enteros positivos pares (es decir, la serie $2 + 4 + 6 + \\dots + 40$).",
+      "context": "Mateo calcula la suma de los números pares para una estimación probabilística en Salta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$400$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es la suma de los primeros 20 números impares."
+        },
+        {
+          "letter": "B",
+          "text": "$420$",
+          "is_correct": true,
+          "feedback": "Correcto. Identificamos: $a_1 = 2, a_{20} = 40, n = 20$. Aplicando la fórmula de la suma: $S_{20} = \\frac{(2 + 40) \\cdot 20}{2} = 42 \\cdot 10 = 420$."
+        },
+        {
+          "letter": "C",
+          "text": "$820$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la división por dos del factor común."
+        },
+        {
+          "letter": "D",
+          "text": "$210$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representa la suma de los primeros 20 enteros sucesivos ($1+2+\\dots+20$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los números pares forman una progresión aritmética con $a_1 = 2$, $d = 2$, y el vigésimo término es $a_{20} = 40$. La suma de los primeros $20$ términos se calcula mediante $S_{20} = \\frac{(2 + 40) \\cdot 20}{2} = 420$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "Un virus informático infecta a $2$ computadoras el primer día, a $6$ el segundo, a $18$ el tercero, triplicando la cantidad de nuevas infecciones diariamente. ¿Cuántas computadoras se infectarán el día número $6$?",
+      "context": "Camila analiza el aumento geométrico de un virus informático en Mendoza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$108\\text{ computadoras}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una progresión lineal en lugar de geométrica."
+        },
+        {
+          "letter": "B",
+          "text": "$486\\text{ computadoras}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una progresión geométrica con $a_1 = 2$ y $r = 3$. El sexto término es $a_6 = a_1 \\cdot r^{6-1} = 2 \\cdot 3^5 = 2 \\cdot 243 = 486$."
+        },
+        {
+          "letter": "C",
+          "text": "$1458\\text{ computadoras}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería el cálculo para el séptimo día ($a_7$)."
+        },
+        {
+          "letter": "D",
+          "text": "$324\\text{ computadoras}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó de manera errónea la potencia de la razón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cantidad de nuevas computadoras infectadas diariamente se modela mediante una progresión geométrica de razón $r=3$ y término inicial $a_1=2$. Para la posición $n=6$, resulta $a_6 = 2 \\cdot 3^5 = 486$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "Calculá el valor exacto de la suma de los infinitos términos de la siguiente serie geométrica convergente:\n$$ S = 1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\dots $$",
+      "context": "Joaquín suma los términos de una serie infinita convergente en Bahía Blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma es infinita (diverge).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dado que la razón es $1/2 < 1$, la serie es perfectamente convergente."
+        },
+        {
+          "letter": "B",
+          "text": "La suma es exactamente igual a $2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una serie geométrica infinita con $a_1 = 1$ y razón $r = 1/2$. Usando la fórmula de la suma infinita: $S = \\frac{1}{1 - 1/2} = \\frac{1}{1/2} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "La suma es exactamente igual a $1,5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es solo la suma de los dos primeros términos."
+        },
+        {
+          "letter": "D",
+          "text": "La suma es igual a $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se operó de forma incorrecta el divisor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para una serie geométrica infinita convergente, la suma de todos sus términos se determina mediante la fórmula $S = \\frac{a_1}{1-r}$. Sustituyendo $a_1 = 1$ y $r = \\frac{1}{2}$, se obtiene que la suma converge exactamente al valor de $2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Julieta decide ahorrar dinero en su cuenta de ahorros. El primer mes deposita $\\$100$, el segundo mes $\\$150$, el tercer mes $\\$200$, aumentando su depósito mensual en $\\$50$ de forma constante. ¿Cuánto dinero total habrá acumulado tras realizar su depósito en el mes número $24$?",
+      "context": "Julieta organiza un método de ahorro mensual progresivo en Neuquén.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$12500$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró de forma correcta la progresión acumulada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$16200$",
+          "is_correct": true,
+          "feedback": "Correcto. Progresión aritmética: $a_1 = 100, d = 50, n = 24$. El depósito 24 es $a_{24} = 100 + 23 \\cdot 50 = 1250$. La suma es $S_{24} = \\frac{(100 + 1250) \\cdot 24}{2} = 1350 \\cdot 12 = 16200$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$15000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la suma total acumulada."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$18000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto resultaría de sumas estimadas por encima de la progresión real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los depósitos forman una progresión aritmética con $a_1 = 100$ y $d = 50$. El vigésimo cuarto término es $a_{24} = 1250$. Sumando estos $24$ términos mediante la fórmula correspondiente, resulta un capital acumulado de $\\$16200$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "En una progresión geométrica, se sabe que el segundo término es $a_2 = 6$ y el quinto término es $a_5 = 48$. ¿Cuál es el valor del término inicial $a_1$ y la razón $r$?",
+      "context": "Lautaro busca los coeficientes de una progresión geométrica desconocida en San Juan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_1 = 2, r = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $r=3$, el segundo término sería 6 pero el tercero sería 18."
+        },
+        {
+          "letter": "B",
+          "text": "$a_1 = 3, r = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Relación: $a_5 = a_2 \\cdot r^3 \\Rightarrow 48 = 6 \\cdot r^3 \\Rightarrow 8 = r^3 \\Rightarrow r = 2$. Como $a_2 = a_1 \\cdot r \\Rightarrow 6 = a_1 \\cdot 2 \\Rightarrow a_1 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_1 = 1, r = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No verifica los valores de los términos dados."
+        },
+        {
+          "letter": "D",
+          "text": "$a_1 = 4, r = 1,5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón debe ser un número entero para estas variables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividiendo los términos conocidos se obtiene una expresión para la razón: $a_5/a_2 = r^3 \\Rightarrow 48/6 = r^3 \\Rightarrow r = 2$. Luego, sabiendo que $a_2 = a_1 \\cdot r$, se calcula el valor del término inicial $a_1 = 6/2 = 3$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Dada la sucesión infinita cuyo término general es $a_n = \\left(\\frac{2}{3}\\right)^n$, ¿qué se puede afirmar respecto de su carácter y de la suma de todos sus infinitos términos?",
+      "context": "Delfina analiza la convergencia de una serie para calcular su viabilidad en San Luis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es divergente y su suma tiende a infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón es menor que 1, por lo que la serie es convergente."
+        },
+        {
+          "letter": "B",
+          "text": "Es convergente y su suma infinita es exactamente igual a $2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Serie geométrica con primer término $a_1 = 2/3$ (para $n=1$) y razón $r = 2/3$. Suma: $S = \\frac{2/3}{1 - 2/3} = \\frac{2/3}{1/3} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "Es convergente y su suma infinita es igual a $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar el primer término de la serie (comienza en $n=1$)."
+        },
+        {
+          "letter": "D",
+          "text": "Es oscilante y no se puede definir su suma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos son estrictamente positivos y decrecientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dado que la razón de la serie geométrica es $r = 2/3$, y cumple que $|r| < 1$, la serie es convergente. Su primer término es $a_1 = 2/3$. Aplicando la fórmula de la suma infinita se obtiene que converge a exactamente $2$.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -96,746 +593,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v3",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 3 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v4",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 4 sobre funcion exponencial para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "Cada pared de hormigón que atraviesa una señal de internet reduce su potencia a la mitad respecto al valor anterior. Si la señal original tiene una potencia de $64\\\\text{ mW}$, ¿cuántas paredes como mínimo habrá atravesado cuando la potencia de la señal sea estrictamente menor que $1\\\\text{ mW}$?",
+      "context": "Isabella modela la atenuación de una onda de red móvil tras atravesar paredes en Ushuaia.",
       "options": [
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "Como mínimo 5 paredes.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Con 5 paredes la potencia es $64 / 2^5 = 64/32 = 2\\\\text{ mW}$, que sigue siendo mayor que 1."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "text": "Como mínimo 7 paredes.",
+          "is_correct": true,
+          "feedback": "Correcto. La potencia tras $n$ paredes es $P(n) = 64 \\cdot (1/2)^n$. Buscamos $64 \\cdot (1/2)^n < 1 \\Rightarrow (1/2)^n < 1/64 \\Rightarrow 2^n > 64 \\Rightarrow n > 6$. Al ser un número entero de paredes, el valor mínimo es 7."
         },
         {
           "letter": "C",
-          "text": "Tercera opción incorrecta",
+          "text": "Como mínimo 6 paredes.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Con 6 paredes la potencia es exactamente de 1 mW, pero se pide estrictamente menor."
         },
         {
           "letter": "D",
-          "text": "Cuarta opción incorrecta",
+          "text": "Como mínimo 8 paredes.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Excede el número mínimo de paredes requeridas para atenuar la señal por debajo del límite de 1 mW."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v5",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 5 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v6",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 6 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v7",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 7 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v8",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 8 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v9",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 9 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v10",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 10 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v11",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 11 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v12",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 12 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v13",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 13 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v14",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 14 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v15",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 15 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v16",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 16 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v17",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 17 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v18",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 18 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v19",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 19 sobre funcion exponencial para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "La atenuación se modela como una progresión geométrica decreciente de razón $r = \\frac{1}{2}$. Planteamos la desigualdad $64 \\cdot (\\frac{1}{2})^n < 1 \\Rightarrow 2^n > 64 \\Rightarrow n > 6$. Al requerirse que sea estrictamente menor, se necesitan al menos $7$ paredes.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -844,42 +638,268 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W08-funcion-exponencial-001-MASTERY-v20",
-      "statement": "Con respecto al tema de funcion exponencial, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 20 sobre funcion exponencial para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "El plan 'Plata' ofrece un pago inicial de $\\$1000$ y aumentos fijos de $\\$200$ anuales. El plan 'Oro' ofrece un pago inicial de $\\$1000$ y aumentos del $10\\%$ acumulativo anual respecto al año anterior. ¿En qué año el aumento del plan 'Oro' superará por primera vez al aumento anual del plan 'Plata'?",
+      "context": "Tomas analiza de forma comparativa dos ofertas de planes de jubilación privada en Bariloche.",
       "options": [
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "En el año 3.",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. El aumento del plan Oro sería de $1000 \\cdot 0,1 = 100$ el primer año y $110$ el segundo, menor a 200."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
+          "text": "En el año 5.",
           "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "feedback": "Incorrecto. El capital del plan Oro sigue acumulándose por debajo del umbral de variación de 200 pesos."
+        },
+        {
+          "letter": "C",
+          "text": "En el año 9 o posterior.",
+          "is_correct": true,
+          "feedback": "Correcto. El aumento en el año $n$ para Plata es 200. Para Oro es $P_0 \\cdot (1,1)^{n-1} \\cdot 0,1 \\Rightarrow 100 \\cdot (1,1)^{n-1}$. Buscamos $100 \\cdot (1,1)^{n-1} > 200 \\Rightarrow (1,1)^{n-1} > 2$. Evaluando potencias: $(1,1)^7 \\approx 1,95$, $(1,1)^8 \\approx 2,14$. Por ende, ocurre para $n-1 = 8 \\Rightarrow n = 9$ años."
+        },
+        {
+          "letter": "D",
+          "text": "En el año 15.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plan Oro supera al plan Plata mucho antes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El aumento anual del plan Plata es constante de $\\$200$. El incremento anual del plan Oro es geométrico: $100 \\cdot (1,1)^{n-1}$. Resolviendo la desigualdad se comprueba que a partir del año $9$ el aumento porcentual acumulativo supera los $\\$200$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "Dada la sucesión definida de forma recurrente por $a_1 = 1, a_2 = 1$ y $a_n = a_{n-1} + a_{n-2}$ para $n \\ge 3$. ¿Cuáles son los valores del sexto ($a_6$) y séptimo ($a_7$) términos de esta célebre sucesión?",
+      "context": "Milagros analiza la sucesión de Fibonacci definida de forma recurrente en Paraná.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_6 = 5, a_7 = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos corresponden a las posiciones 5 y 6 de la sucesión."
+        },
+        {
+          "letter": "B",
+          "text": "$a_6 = 8, a_7 = 13$",
+          "is_correct": true,
+          "feedback": "Correcto. Los términos sucesivos de la secuencia son: $a_1=1, a_2=1, a_3=2, a_4=3, a_5=5, a_6=8, a_7=13$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_6 = 13, a_7 = 21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores corresponden a las posiciones 7 y 8."
+        },
+        {
+          "letter": "D",
+          "text": "$a_6 = 6, a_7 = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fibonacci no se define como una progresión aritmética simple de diferencia 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sucesión de Fibonacci se construye sumando los dos términos anteriores para generar el siguiente: $1, 1, 2, 3, 5, 8, 13$. El sexto término es $8$ y el séptimo es $13$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Expresá el número decimal periódico puro $0,232323\\dots$ como una fracción irreducible aplicando la teoría de sumas de series geométricas infinitas.",
+      "context": "Nicolas utiliza series geométricas para expresar números periódicos como fracciones exactas en Corrientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{23}{100}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría al decimal exacto $0,23$, no al periódico puro."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{23}{99}$",
+          "is_correct": true,
+          "feedback": "Correcto. Escribimos como serie: $\\frac{23}{100} + \\frac{23}{10000} + \\dots$ con $a_1 = \\frac{23}{100}$ y razón $r = \\frac{1}{100}$. Suma: $S = \\frac{23/100}{1 - 1/100} = \\frac{23/100}{99/100} = \\frac{23}{99}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{23}{90}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría a un número decimal periódico mixto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fracción equivale al número decimal $0,666\\dots$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un decimal periódico se puede modelar como una suma de infinitas fracciones decimales simétricas. Al aplicar la fórmula de la serie geométrica infinita convergente se obtiene de manera analítica la fracción generatriz $\\frac{23}{99}$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "Si se realiza un depósito de $\\$1000$ a una tasa de interés del $5\\%$ mensual compuesto. ¿Cuál es el término general $a_n$ que describe la cantidad total de dinero acumulada al cabo de $n$ meses (capitalizando los intereses ganados)?",
+      "context": "Catalina analiza el crecimiento acumulado del capital en una inversión bursátil en Resistencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = 1000 + 50n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describiría un modelo de interés simple con crecimiento lineal, no compuesto."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = 1000 \\cdot (1,05)^n$",
+          "is_correct": true,
+          "feedback": "Correcto. En el interés compuesto el capital se multiplica mensualmente por el factor de crecimiento $1 + i = 1,05$, lo que constituye una progresión geométrica de la forma $a_n = P_0 \\cdot (1 + i)^n$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = 1000 \\cdot (0,05)^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base menor a 1 indicaría un decrecimiento severo del capital."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = 1000 \\cdot (1,5)^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor de crecimiento correspondería a un interés del $50\\%$ mensual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El interés compuesto capitaliza los intereses generados mes a mes, de modo que el capital crece de forma geométrica exponencial de acuerdo con la fórmula clásica de capitalización financiera $a_n = C_0 (1 + i)^n$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Un estudiante afirma que la suma de los primeros $n$ números naturales impares cumple con ser siempre un cuadrado perfecto, expresándose como $S_n = n^2$. Evaluá la veracidad y validez matemática de esta afirmación.",
+      "context": "Facundo evalúa una demostración por inducción completa sobre progresiones en Posadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es verdadera y se puede demostrar de forma rigurosa para todo $n$ usando el teorema de inducción completa o la fórmula de la suma aritmética.",
+          "is_correct": true,
+          "feedback": "Correcto. Los impares forman una progresión con $a_1=1, d=2 \\Rightarrow a_n = 2n-1$. Suma: $S_n = \\frac{(1 + (2n-1))n}{2} = \\frac{2n \\cdot n}{2} = n^2$. Es una proposición verdadera."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa porque para $n = 3$, la suma de los impares da 8, que no es un cuadrado perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $n=3$, la suma es $1 + 3 + 5 = 9$, que es exactamente $3^2$."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera únicamente si la progresión se inicia a partir de un número par.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La serie de números impares comienza por definición en 1."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa porque las progresiones aritméticas nunca pueden sumarse de forma directa mediante potencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de los términos de una progresión lineal genera siempre polinomios de grado dos."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "explanation": "La suma de los primeros $n$ impares se modela mediante una suma aritmética. Aplicando la fórmula clásica, se deduce que la suma es igual a $n^2$. Esta proposición puede ser demostrada formalmente mediante inducción matemática completa.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "AR-MAT-11-2026-W08-funcion-exponencial-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "La paradoja de Zenón de Aquiles y la tortuga sostiene que Aquiles nunca alcanzará a la tortuga porque cada vez que llega a donde estaba esta, la tortuga avanzó un tramo menor. Desde un análisis formal de series convergentes de la matemática moderna, evaluá la solución a este dilema lógico.",
+      "context": "Martina evalúa críticamente la viabilidad física del modelo geométrico de las paradojas de Zenón en Jujuy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zenón tiene razón, y la única forma de que Aquiles la alcance es si la tortuga decide detenerse por completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La matemática moderna demuestra que el alcance ocurre en un punto de tiempo finito."
+        },
+        {
+          "letter": "B",
+          "text": "La paradoja se resuelve al demostrar que una suma infinita de intervalos de tiempo decrecientes puede dar como resultado un valor de tiempo total finito, instante exacto en el que ocurre el alcance.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque el número de intervalos de aproximación sea infinito, al formar una serie geométrica decreciente convergente ($|r| < 1$), la suma del tiempo total requerido converge a un valor finito de tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "La paradoja se resuelve porque la distancia recorrida es una progresión aritmética estrictamente creciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia recorrida por Zenón forma una serie geométrica convergente, no una serie aritmética infinita divergente."
+        },
+        {
+          "letter": "D",
+          "text": "El dilema no tiene solución matemática y solo puede explicarse mediante posturas de la filosofía clásica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo de límites y series converge resolviendo de manera absoluta el dilema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Zenón planteaba que una suma infinita de lapsos de tiempo debía prolongarse indefinidamente hasta el infinito. El análisis de límites y series demuestra de manera contundente que una suma infinita de términos decrecientes puede converger de forma absoluta a una cantidad de tiempo finita y exacta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
       "cefr_level": null,

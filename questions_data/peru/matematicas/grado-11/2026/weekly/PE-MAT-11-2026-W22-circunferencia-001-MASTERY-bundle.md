@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Chiclayo identifica los elementos básicos de una circunferencia en un dibujo técnico.
 
@@ -45,7 +45,7 @@ El diámetro es el segmento que une dos puntos de la circunferencia pasando obli
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Se analiza la relación entre una recta tangente y el radio en un punto de contacto en una rueda de bicicleta.
 
@@ -70,7 +70,7 @@ Una de las propiedades más importantes de la circunferencia es que el radio tra
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Un artesano en Ayacucho traza un arco circular para un diseño decorativo.
 
@@ -95,7 +95,7 @@ El teorema del ángulo inscrito establece que su medida es igual a la mitad de l
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Se aplica el teorema de Poncelet en un triángulo rectángulo utilizado en una estructura de soporte en Huancayo.
 
@@ -120,7 +120,7 @@ Primero hallamos la hipotenusa usando Pitágoras: $c = \sqrt{6^2 + 8^2} = 10$. L
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un arquitecto en Lima diseña una plaza circular tangente a cuatro calles que forman un cuadrilátero.
 
@@ -145,7 +145,7 @@ El Teorema de Pitot establece que en todo cuadrilátero circunscrito a una circu
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Durante un examen de preparación en una academia de Lima, se pide calcular un ángulo exterior a la circunferencia.
 
@@ -170,7 +170,7 @@ La medida de un ángulo exterior a una circunferencia es igual a la mitad de la 
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** En un diseño geométrico inspirado en la cultura Chavín, se utilizan circunferencias tangentes exteriores.
 
@@ -195,7 +195,7 @@ Para circunferencias tangentes exteriores, la distancia entre centros es $D = R 
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de la UNI analiza la posición de un ángulo semi-inscrito en un engranaje.
 
@@ -220,7 +220,7 @@ El ángulo semi-inscrito es el formado por una cuerda y una recta tangente en un
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Se estudia un ángulo interior en una circunferencia durante una práctica en Trujillo.
 
@@ -245,7 +245,7 @@ El ángulo interior formado por la intersección de dos cuerdas es igual a la se
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Un dibujo técnico representa dos circunferencias concéntricas en un plano urbano de la ciudad de Cusco.
 
@@ -270,7 +270,7 @@ Las circunferencias concéntricas son aquellas que están situadas en el mismo p
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Problema sobre cuadriláteros inscritos en el prospecto de admisión de la UNMSM.
 
@@ -295,7 +295,7 @@ Una propiedad fundamental de los cuadriláteros inscritos es que sus ángulos op
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Un diseño de joyería en Piura utiliza una circunferencia y un punto exterior.
 
@@ -320,7 +320,7 @@ Para un ángulo formado por dos tangentes trazadas desde un mismo punto exterior
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** En un taller de metalmecánica en el Callao, se trabaja con una plancha circular de radio 13 cm.
 
@@ -345,7 +345,7 @@ La perpendicular desde el centro a una cuerda la biseca. Usamos el radio (13) co
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Preparación para el examen UNI sobre tangencias y arcos.
 
@@ -370,7 +370,7 @@ Trazando la tangente común interna por M, esta corta a AB en su punto medio P. 
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Un reto sobre el Teorema de Poncelet en un triángulo rectángulo de hipotenusa 25 cm.
 
@@ -395,7 +395,7 @@ Usamos el Teorema de Poncelet ($a + b = c + 2r$) para hallar la suma de los cate
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Un topógrafo en Trujillo mide una curva circular de radio 10 cm y cuerda 16 cm.
 
@@ -420,7 +420,7 @@ Primero calculamos la distancia del centro a la cuerda ($d$) usando Pitágoras c
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Problema sobre circunferencias ortogonales en el examen de admisión UNI.
 
@@ -445,7 +445,7 @@ En circunferencias ortogonales, las tangentes en el punto de intersección son p
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Análisis de un sistema de poleas circulares de radios 1, 2 y 3 cm tangentes entre sí.
 
@@ -470,7 +470,7 @@ Los lados del triángulo que une los centros son las sumas de los radios por par
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Aplicación del Teorema de Steiner en un cuadrilátero exinscrito.
 
@@ -495,7 +495,7 @@ El Teorema de Steiner establece que en un cuadrilátero exinscrito, la diferenci
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W22-circunferencia-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Problema de potencia de un punto sobre cuerdas secantes en el examen UNI.
 

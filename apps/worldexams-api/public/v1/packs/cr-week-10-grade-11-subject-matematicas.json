@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.372Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Determine el conjunto solución de la inecuación cuadrática $x^2 - 9 < 0$ en el conjunto de los números reales.",
+      "context": "En Alajuela, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [-3, 3]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-\\infty, -3[ \\cup ]3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]0, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]-3, 3[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para resolver $x^2 - 9 < 0$, factorizamos el primer miembro como una diferencia de cuadrados: $(x - 3)(x + 3) < 0$. Los puntos críticos que anulan los factores corresponden a $x = 3$ y $x = -3$. Realizando un análisis de signos en el plano real, el producto de ambos factores resulta ser estrictamente menor que cero (negativo) en la región intermedia entre ambos valores, es decir, en el intervalo abierto $]-3, 3[$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Halle el conjunto solución para la inecuación racional: $\\frac{1}{x - 3} > 0$.",
+      "context": "En Cartago, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = \\mathbb{R} - \\{ 3 \\}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la inecuación racional $\\frac{1}{x - 3} > 0$, observamos que el numerador es una constante estrictamente positiva ($1 > 0$). Para que el cociente sea estrictamente positivo (mayor que cero), el denominador también debe ser estrictamente positivo: $x - 3 > 0 \\Rightarrow x > 3$. De esta manera, el conjunto solución es el intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Resuelva la inecuación lineal en los números reales: $2x - 6 > 0$.",
+      "context": "En Heredia, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver la inecuación lineal $2x - 6 > 0$, sumamos $6$ a ambos miembros de la desigualdad: $2x > 6$. Dividimos ambos miembros por $2$. Como el coeficiente $2$ es estrictamente positivo, el sentido de la desigualdad se conserva idéntico: $x > \\frac{6}{2} \\Rightarrow x > 3$. Por lo tanto, el conjunto solución corresponde al intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Determine el conjunto solución de la inecuación cuadrática $x^2 - 9 < 0$ en el conjunto de los números reales.",
+      "context": "En Liberia, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [-3, 3]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-\\infty, -3[ \\cup ]3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-3, 3[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver $x^2 - 9 < 0$, factorizamos el primer miembro como una diferencia de cuadrados: $(x - 3)(x + 3) < 0$. Los puntos críticos que anulan los factores corresponden a $x = 3$ y $x = -3$. Realizando un análisis de signos en el plano real, el producto de ambos factores resulta ser estrictamente menor que cero (negativo) en la región intermedia entre ambos valores, es decir, en el intervalo abierto $]-3, 3[$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Halle el conjunto solución para la inecuación racional: $\\frac{1}{x - 3} > 0$.",
+      "context": "En Puntarenas, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = \\mathbb{R} - \\{ 3 \\}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la inecuación racional $\\frac{1}{x - 3} > 0$, observamos que el numerador es una constante estrictamente positiva ($1 > 0$). Para que el cociente sea estrictamente positivo (mayor que cero), el denominador también debe ser estrictamente positivo: $x - 3 > 0 \\Rightarrow x > 3$. De esta manera, el conjunto solución es el intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Resuelva la inecuación lineal en los números reales: $2x - 6 > 0$.",
+      "context": "En Limón, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la inecuación lineal $2x - 6 > 0$, sumamos $6$ a ambos miembros de la desigualdad: $2x > 6$. Dividimos ambos miembros por $2$. Como el coeficiente $2$ es estrictamente positivo, el sentido de la desigualdad se conserva idéntico: $x > \\frac{6}{2} \\Rightarrow x > 3$. Por lo tanto, el conjunto solución corresponde al intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Determine el conjunto solución de la inecuación cuadrática $x^2 - 9 < 0$ en el conjunto de los números reales.",
+      "context": "En San Carlos, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [-3, 3]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-3, 3[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-\\infty, -3[ \\cup ]3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver $x^2 - 9 < 0$, factorizamos el primer miembro como una diferencia de cuadrados: $(x - 3)(x + 3) < 0$. Los puntos críticos que anulan los factores corresponden a $x = 3$ y $x = -3$. Realizando un análisis de signos en el plano real, el producto de ambos factores resulta ser estrictamente menor que cero (negativo) en la región intermedia entre ambos valores, es decir, en el intervalo abierto $]-3, 3[$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Halle el conjunto solución para la inecuación racional: $\\frac{1}{x - 3} > 0$.",
+      "context": "En Pérez Zeledón, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = \\mathbb{R} - \\{ 3 \\}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la inecuación racional $\\frac{1}{x - 3} > 0$, observamos que el numerador es una constante estrictamente positiva ($1 > 0$). Para que el cociente sea estrictamente positivo (mayor que cero), el denominador también debe ser estrictamente positivo: $x - 3 > 0 \\Rightarrow x > 3$. De esta manera, el conjunto solución es el intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Resuelva la inecuación lineal en los números reales: $2x - 6 > 0$.",
+      "context": "En Escazú, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para resolver la inecuación lineal $2x - 6 > 0$, sumamos $6$ a ambos miembros de la desigualdad: $2x > 6$. Dividimos ambos miembros por $2$. Como el coeficiente $2$ es estrictamente positivo, el sentido de la desigualdad se conserva idéntico: $x > \\frac{6}{2} \\Rightarrow x > 3$. Por lo tanto, el conjunto solución corresponde al intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Determine el conjunto solución de la inecuación cuadrática $x^2 - 9 < 0$ en el conjunto de los números reales.",
+      "context": "En San José, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]-3, 3[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = [-3, 3]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-\\infty, -3[ \\cup ]3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver $x^2 - 9 < 0$, factorizamos el primer miembro como una diferencia de cuadrados: $(x - 3)(x + 3) < 0$. Los puntos críticos que anulan los factores corresponden a $x = 3$ y $x = -3$. Realizando un análisis de signos en el plano real, el producto de ambos factores resulta ser estrictamente menor que cero (negativo) en la región intermedia entre ambos valores, es decir, en el intervalo abierto $]-3, 3[$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Halle el conjunto solución para la inecuación racional: $\\frac{1}{x - 3} > 0$.",
+      "context": "En Alajuela, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = \\mathbb{R} - \\{ 3 \\}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la inecuación racional $\\frac{1}{x - 3} > 0$, observamos que el numerador es una constante estrictamente positiva ($1 > 0$). Para que el cociente sea estrictamente positivo (mayor que cero), el denominador también debe ser estrictamente positivo: $x - 3 > 0 \\Rightarrow x > 3$. De esta manera, el conjunto solución es el intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Resuelva la inecuación lineal en los números reales: $2x - 6 > 0$.",
+      "context": "En Cartago, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver la inecuación lineal $2x - 6 > 0$, sumamos $6$ a ambos miembros de la desigualdad: $2x > 6$. Dividimos ambos miembros por $2$. Como el coeficiente $2$ es estrictamente positivo, el sentido de la desigualdad se conserva idéntico: $x > \\frac{6}{2} \\Rightarrow x > 3$. Por lo tanto, el conjunto solución corresponde al intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Determine el conjunto solución de la inecuación cuadrática $x^2 - 9 < 0$ en el conjunto de los números reales.",
+      "context": "En Heredia, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [-3, 3]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-\\infty, -3[ \\cup ]3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]0, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]-3, 3[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para resolver $x^2 - 9 < 0$, factorizamos el primer miembro como una diferencia de cuadrados: $(x - 3)(x + 3) < 0$. Los puntos críticos que anulan los factores corresponden a $x = 3$ y $x = -3$. Realizando un análisis de signos en el plano real, el producto de ambos factores resulta ser estrictamente menor que cero (negativo) en la región intermedia entre ambos valores, es decir, en el intervalo abierto $]-3, 3[$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Halle el conjunto solución para la inecuación racional: $\\frac{1}{x - 3} > 0$.",
+      "context": "En Liberia, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = \\mathbb{R} - \\{ 3 \\}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la inecuación racional $\\frac{1}{x - 3} > 0$, observamos que el numerador es una constante estrictamente positiva ($1 > 0$). Para que el cociente sea estrictamente positivo (mayor que cero), el denominador también debe ser estrictamente positivo: $x - 3 > 0 \\Rightarrow x > 3$. De esta manera, el conjunto solución es el intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Resuelva la inecuación lineal en los números reales: $2x - 6 > 0$.",
+      "context": "En Puntarenas, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver la inecuación lineal $2x - 6 > 0$, sumamos $6$ a ambos miembros de la desigualdad: $2x > 6$. Dividimos ambos miembros por $2$. Como el coeficiente $2$ es estrictamente positivo, el sentido de la desigualdad se conserva idéntico: $x > \\frac{6}{2} \\Rightarrow x > 3$. Por lo tanto, el conjunto solución corresponde al intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Determine el conjunto solución de la inecuación cuadrática $x^2 - 9 < 0$ en el conjunto de los números reales.",
+      "context": "En Limón, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [-3, 3]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-\\infty, -3[ \\cup ]3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-3, 3[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver $x^2 - 9 < 0$, factorizamos el primer miembro como una diferencia de cuadrados: $(x - 3)(x + 3) < 0$. Los puntos críticos que anulan los factores corresponden a $x = 3$ y $x = -3$. Realizando un análisis de signos en el plano real, el producto de ambos factores resulta ser estrictamente menor que cero (negativo) en la región intermedia entre ambos valores, es decir, en el intervalo abierto $]-3, 3[$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Halle el conjunto solución para la inecuación racional: $\\frac{1}{x - 3} > 0$.",
+      "context": "En San Carlos, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = \\mathbb{R} - \\{ 3 \\}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la inecuación racional $\\frac{1}{x - 3} > 0$, observamos que el numerador es una constante estrictamente positiva ($1 > 0$). Para que el cociente sea estrictamente positivo (mayor que cero), el denominador también debe ser estrictamente positivo: $x - 3 > 0 \\Rightarrow x > 3$. De esta manera, el conjunto solución es el intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Resuelva la inecuación lineal en los números reales: $2x - 6 > 0$.",
+      "context": "En Pérez Zeledón, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la inecuación lineal $2x - 6 > 0$, sumamos $6$ a ambos miembros de la desigualdad: $2x > 6$. Dividimos ambos miembros por $2$. Como el coeficiente $2$ es estrictamente positivo, el sentido de la desigualdad se conserva idéntico: $x > \\frac{6}{2} \\Rightarrow x > 3$. Por lo tanto, el conjunto solución corresponde al intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Determine el conjunto solución de la inecuación cuadrática $x^2 - 9 < 0$ en el conjunto de los números reales.",
+      "context": "En Escazú, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = [-3, 3]",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = ]-3, 3[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]-\\infty, -3[ \\cup ]3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "D",
+          "text": "S = ]0, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver $x^2 - 9 < 0$, factorizamos el primer miembro como una diferencia de cuadrados: $(x - 3)(x + 3) < 0$. Los puntos críticos que anulan los factores corresponden a $x = 3$ y $x = -3$. Realizando un análisis de signos en el plano real, el producto de ambos factores resulta ser estrictamente menor que cero (negativo) en la región intermedia entre ambos valores, es decir, en el intervalo abierto $]-3, 3[$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Halle el conjunto solución para la inecuación racional: $\\frac{1}{x - 3} > 0$.",
+      "context": "En San José, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = ]-\\infty, 3[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se incluye incorrectamente el valor frontera del intervalo cerrado, violando el sentido estricto de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "S = \\mathbb{R} - \\{ 3 \\}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se selecciona la dirección opuesta del intervalo o se asume erróneamente un intervalo de unión externa de conjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "S = ]3, +\\infty[",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta que define exactamente el intervalo solución abierto, respetando el sentido estricto del signo de desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "S = [3, +\\infty[",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que toda inecuación tiene solución positiva a partir de cero sin resolver algebraicamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la inecuación racional $\\frac{1}{x - 3} > 0$, observamos que el numerador es una constante estrictamente positiva ($1 > 0$). Para que el cociente sea estrictamente positivo (mayor que cero), el denominador también debe ser estrictamente positivo: $x - 3 > 0 \\Rightarrow x > 3$. De esta manera, el conjunto solución es el intervalo abierto $]3, +\\infty[$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

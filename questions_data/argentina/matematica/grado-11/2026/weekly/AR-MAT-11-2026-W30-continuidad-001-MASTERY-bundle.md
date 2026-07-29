@@ -28,7 +28,7 @@ Este bundle trata sobre la continuidad de funciones en un punto y en un interval
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Concepto intuitivo de continuidad.
 **Expected_Success:** 0.92
 
@@ -51,7 +51,7 @@ La existencia de la función en el punto (f(a)) es la primera de las tres condic
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Definición formal de continuidad.
 **Expected_Success:** 0.88
 
@@ -74,7 +74,7 @@ La continuidad requiere que el "agujero" que podría dejar el límite sea "tapad
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Tipos de discontinuidad.
 **Expected_Success:** 0.85
 
@@ -97,7 +97,7 @@ Una discontinuidad es evitable cuando el límite existe pero la función no est�
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Discontinuidades infinitas.
 **Expected_Success:** 0.82
 
@@ -122,7 +122,7 @@ Cuando al menos uno de los límites laterales en un punto tiende a infinito, se 
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Determinación de parámetros para asegurar continuidad.
 **Expected_Success:** 0.80
 
@@ -145,7 +145,7 @@ Para que la función sea continua, los límites laterales en el punto de unión 
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Análisis de puntos de discontinuidad.
 **Expected_Success:** 0.75
 
@@ -168,7 +168,7 @@ Los puntos de discontinuidad de una función racional son aquellos valores de x 
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Clasificación de discontinuidades en una misma función.
 **Expected_Success:** 0.72
 
@@ -191,7 +191,7 @@ Si un valor anula numerador y denominador simultáneamente, suele ser evitable (
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Aplicación real de funciones discontinuas.
 **Expected_Success:** 0.78
 
@@ -214,7 +214,7 @@ Cuando los límites laterales existen pero son diferentes, la función presenta 
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v9
 **Bloom:** Remember
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Teoremas de funciones continuas.
 **Expected_Success:** 0.80
 
@@ -237,7 +237,7 @@ Bolzano establece que si una función continua cambia de signo en los extremos d
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Aplicación práctica del Teorema de Bolzano.
 **Expected_Success:** 0.74
 
@@ -260,7 +260,7 @@ Calculamos f(0) = -1 y f(1) = 1. Como f es un polinomio (continua) y los signos 
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Análisis de funciones con huecos.
 **Expected_Success:** 0.65
 
@@ -283,7 +283,7 @@ Esta es una discontinuidad evitable. Al simplificar la función queda f(x) = x p
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Funciones especiales y continuidad.
 **Expected_Success:** 0.62
 
@@ -306,7 +306,7 @@ Para cualquier entero n, el límite por izquierda es n-1 y el límite por derech
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Discontinuidades por oscilación.
 **Expected_Success:** 0.58
 
@@ -329,7 +329,7 @@ Aunque la función está definida en x=0 y acotada en todo su dominio, la falta 
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v14
 **Bloom:** Understand
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Propiedades de funciones continuas en compactos.
 **Expected_Success:** 0.70
 
@@ -354,7 +354,7 @@ El Teorema de Weierstrass garantiza la existencia de extremos absolutos para fun
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Parámetros en funciones con discontinuidades salvables.
 **Expected_Success:** 0.64
 
@@ -377,7 +377,7 @@ Calculamos el límite de la función en x = a simplificando la expresión (x + a
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Consecuencias de la continuidad y Bolzano.
 **Expected_Success:** 0.60
 
@@ -400,7 +400,7 @@ Esta es una aplicación del corolario del Teorema de Bolzano: entre dos raíces 
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Análisis exhaustivo de discontinuidades de salto.
 **Expected_Success:** 0.52
 
@@ -423,7 +423,7 @@ En una discontinuidad de salto finito (primera especie), la brecha entre los tra
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Resolución de ecuaciones mediante teoremas de continuidad.
 **Expected_Success:** 0.50
 
@@ -446,7 +446,7 @@ Combinando la continuidad de los polinomios con el estudio de los límites al in
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Continuidad en funciones producto.
 **Expected_Success:** 0.45
 
@@ -469,7 +469,7 @@ Este es un caso interesante donde una función "corrige" la discontinuidad de ot
 
 **ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Álgebra y Funciones
+**EJE:** Álgebra y Funciones
 **Contexto:** Generalización del Teorema de Bolzano.
 **Expected_Success:** 0.48
 

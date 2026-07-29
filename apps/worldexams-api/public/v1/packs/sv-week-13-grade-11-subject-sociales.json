@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "sv",
+    "pack_id": "sv-week-13-grade-11-subject-sociales",
+    "generated_at": "2026-07-28T22:52:17.162Z"
+  },
+  "questions": [
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v1",
+      "statement": "¿Qué documento establece la organización del Estado?",
+      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Una ley ordinaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Un decreto presidencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado internacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Retorno a la vida agrícola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Disminución del comercio global",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación del trabajo manual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v3",
+      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "context": "Clase de ciencias sociales en San Salvador estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos humanos fundamentales",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos de propiedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente derechos políticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos del gobierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v4",
+      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superávit comercial",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Déficit comercial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Balanza equilibrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Crisis económica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La Revolución Rusa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "La invención del avión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v6",
+      "statement": "¿Qué documento establece la organización del Estado?",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Una ley ordinaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Un decreto presidencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado internacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Retorno a la vida agrícola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Disminución del comercio global",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación del trabajo manual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v8",
+      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "context": "Clase de ciencias sociales en Mejicanos estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos humanos fundamentales",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos de propiedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente derechos políticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos del gobierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v9",
+      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "context": "Clase de ciencias sociales en San Salvador estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superávit comercial",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Déficit comercial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Balanza equilibrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Crisis económica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "context": "Clase de ciencias sociales en Mejicanos estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La Revolución Rusa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "La invención del avión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v11",
+      "statement": "¿Qué documento establece la organización del Estado?",
+      "context": "Clase de ciencias sociales en Santa Ana estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Una ley ordinaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Un decreto presidencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado internacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "context": "Clase de ciencias sociales en Mejicanos estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Retorno a la vida agrícola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Disminución del comercio global",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación del trabajo manual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v13",
+      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "context": "Clase de ciencias sociales en San Salvador estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos humanos fundamentales",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos de propiedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente derechos políticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos del gobierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v14",
+      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superávit comercial",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Déficit comercial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Balanza equilibrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Crisis económica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "context": "Clase de ciencias sociales en Mejicanos estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La Revolución Rusa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "La invención del avión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v16",
+      "statement": "¿Qué documento establece la organización del Estado?",
+      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Una ley ordinaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Un decreto presidencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado internacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v17",
+      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "context": "Clase de ciencias sociales en Soyapango estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Retorno a la vida agrícola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Disminución del comercio global",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminación del trabajo manual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v18",
+      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos humanos fundamentales",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo derechos de propiedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente derechos políticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos del gobierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v19",
+      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superávit comercial",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "Déficit comercial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "Balanza equilibrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Crisis económica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "context": "Clase de ciencias sociales en San Salvador estudiando acuerdos paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "is_correct": true,
+          "feedback": "¡Correcto!"
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "C",
+          "text": "La Revolución Rusa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        },
+        {
+          "letter": "D",
+          "text": "La invención del avión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el concepto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    }
+  ]
+}

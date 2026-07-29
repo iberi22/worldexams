@@ -8,86 +8,43 @@
   },
   "questions": [
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v1",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 1 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "Dada una función cuadrática expresada en su forma polinómica general, $f(x) = ax^2 + bx + c$, ¿cuál es la fórmula para hallar la coordenada $x$ de su vértice ($x_v$)?",
+      "context": "Martina analiza la fórmula del vértice de una parábola de cara a su lección en Rosario.",
       "options": [
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "$x_v = \\frac{b}{2a}$",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v2",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 2 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Falta el signo negativo en la fórmula del vértice."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "text": "$x_v = -\\frac{b}{2a}$",
+          "is_correct": true,
+          "feedback": "Correcto. La abscisa del vértice se localiza en el punto medio de las raíces, dado por la expresión $x_v = -b/(2a)$."
         },
         {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
+          "letter": "C",
+          "text": "$x_v = \\sqrt{b^2 - 4ac}$",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Esto es la raíz cuadrada del discriminante."
+        },
+        {
+          "letter": "D",
+          "text": "$x_v = -\\frac{c}{a}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representa el producto de las raíces si el coeficiente principal es 1."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
+      "correct_answer": "B",
+      "explanation": "La abscisa del vértice de una parábola representa su eje de simetría y se calcula mediante la fórmula $x_v = -\\frac{b}{2a}$.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -96,42 +53,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v3",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 3 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "Dada la ecuación cuadrática $ax^2 + bx + c = 0$ con raíces reales $x_1$ y $x_2$, ¿a qué es igual la suma de sus raíces ($x_1 + x_2$)?",
+      "context": "Matías estudia las relaciones entre los coeficientes y las raíces de una función cuadrática en Córdoba.",
       "options": [
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "$\\frac{c}{a}$",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Esto representa el producto de las raíces ($x_1 \\cdot x_2$)."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
+          "text": "$-\\frac{b}{a}$",
+          "is_correct": true,
+          "feedback": "Correcto. Según las fórmulas de Vieta, la suma de las raíces de una ecuación cuadrática es igual a $-b/a$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{b^2 - 4ac}$",
           "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "feedback": "Incorrecto. Esto es la raíz del discriminante."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{b}{a}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el signo opuesto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
+      "correct_answer": "B",
+      "explanation": "Las fórmulas de Vieta relacionan los coeficientes de un polinomio con sus raíces. Para un polinomio de grado dos, la suma de las raíces es $-\\frac{b}{a}$.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -140,42 +98,493 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v4",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 4 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "¿Qué efecto geométrico produce en la parábola $f(x) = ax^2 + bx + c$ que el coeficiente principal $a$ sea estrictamente menor que cero ($a < 0$)?",
+      "context": "Valentina analiza el comportamiento gráfico del coeficiente principal en Mendoza.",
       "options": [
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "La parábola se desplaza hacia la izquierda del eje de las ordenadas.",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Las traslaciones horizontales dependen del coeficiente lineal y del vértice."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "text": "Las ramas de la parábola abren hacia abajo (cóncava hacia abajo).",
+          "is_correct": true,
+          "feedback": "Correcto. Si el coeficiente principal es negativo ($a < 0$), las ramas de la parábola abren hacia abajo, y el vértice representa un punto máximo."
         },
         {
           "letter": "C",
-          "text": "Tercera opción incorrecta",
+          "text": "La parábola corta al eje de las ordenadas en un valor negativo.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. La intersección con el eje $y$ depende del valor de $c$."
+        },
+        {
+          "letter": "D",
+          "text": "Las ramas de la parábola abren hacia arriba (cóncava hacia arriba).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abre hacia arriba únicamente si $a > 0$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El signo del coeficiente principal $a$ determina la concavidad de la parábola. Si es positivo, abre hacia arriba; si es negativo, abre hacia abajo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "Si al calcular el discriminante de una ecuación cuadrática se obtiene un valor estrictamente igual a cero ($\\Delta = 0$), ¿qué se puede afirmar sobre las raíces de la ecuación?",
+      "context": "Agustín analiza los resultados arrojados por el discriminante de una función en La Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ecuación tiene dos raíces reales distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando el discriminante es estrictamente positivo ($\\Delta > 0$)."
+        },
+        {
+          "letter": "B",
+          "text": "La ecuación posee una única raíz real de multiplicidad 2 (raíz doble).",
+          "is_correct": true,
+          "feedback": "Correcto. Si el discriminante es cero, la parte de la fórmula cuadrática que contiene a la raíz cuadrada se anula, dando una única raíz real $x = -b/(2a)$."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación no tiene raíces reales (tiene raíces complejas conjugadas).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando el discriminante es negativo ($\\Delta < 0$)."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación posee infinitas raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una ecuación polinómica de grado dos tiene como máximo dos raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discriminante $\\Delta = b^2 - 4ac$ determina el carácter de las raíces de una ecuación cuadrática. Si es igual a cero, hay una raíz real repetida (doble).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "Dada la función cuadrática expresada en su forma canónica $f(x) = -2(x - 3)^2 + 5$, ¿cuáles son las coordenadas exactas de su vértice $V(x_v, y_v)$?",
+      "context": "Lucía analiza las ventajas de representar una parábola en su forma canónica o de vértice en Buenos Aires.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V(-3, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coordenada $x$ del vértice toma el signo opuesto de la expresión interna."
+        },
+        {
+          "letter": "B",
+          "text": "$V(3, 5)$",
+          "is_correct": true,
+          "feedback": "Correcto. La forma canónica es $f(x) = a(x - x_v)^2 + y_v$. Identificando los términos, el vértice es $V(3, 5)$."
+        },
+        {
+          "letter": "C",
+          "text": "$V(3, -5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coordenada $y$ del vértice conserva su propio signo."
+        },
+        {
+          "letter": "D",
+          "text": "$V(-3, -5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos signos son erróneos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma canónica $f(x) = a(x - h)^2 + k$ revela de forma directa las coordenadas del vértice de la parábola, las cuales son $V(h, k)$. En la ecuación dada, $h = 3$ y $k = 5$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "Una función cuadrática tiene raíces en $x = -2$ y $x = 4$, y su coeficiente principal es $a = 3$. ¿Cuál es su representación en forma factorizada?",
+      "context": "Franco analiza la forma factorizada de una parábola de cara a su examen escolar en Mar del Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3(x - 2)(x + 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la forma factorizada los signos de las raíces se restan."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 3(x + 2)(x - 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. La forma factorizada es $f(x) = a(x - x_1)(x - x_2)$. Sustituyendo $a=3$, $x_1 = -2$ y $x_2 = 4$, nos queda $3(x + 2)(x - 4)$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = -3(x + 2)(x - 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia de forma arbitraria el signo del coeficiente principal."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = (x + 2)(x - 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite el coeficiente principal de valor 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma factorizada de una función cuadrática se expresa como $f(x) = a(x - x_1)(x - x_2)$, donde $x_1$ y $x_2$ son las raíces reales de la función y $a$ es su coeficiente principal.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Resolvé la ecuación cuadrática $x^2 - 6x + 8 = 0$ para encontrar sus raíces en el conjunto de los números reales.",
+      "context": "Sofía resuelve una ecuación cuadrática en un análisis de física de fluidos en San Miguel de Tucumán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x_1 = -2, x_2 = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas raíces darían la ecuación $x^2 + 6x + 8 = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$x_1 = 2, x_2 = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la fórmula cuadrática: $\\frac{6 \\pm \\sqrt{36 - 32}}{2} = \\frac{6 \\pm 2}{2}$. Las raíces son $4$ y $2$. También se puede factorizar como $(x - 2)(x - 4) = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x_1 = 1, x_2 = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma da 9, no 6."
+        },
+        {
+          "letter": "D",
+          "text": "$x_1 = 3, x_2 = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No verifica el término independiente: $3 \\times 3 = 9 \\neq 8$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una ecuación cuadrática completa de la forma $ax^2 + bx + c = 0$ puede resolverse mediante la fórmula general de Bhaskara o mediante factorización por términos comunes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "La altura $h$ (en metros) de un proyectil lanzado verticalmente en función del tiempo $t$ (en segundos) está dada por la expresión $h(t) = -5t^2 + 40t$. ¿Cuál es la altura máxima alcanzada por el proyectil?",
+      "context": "Mateo analiza la trayectoria de un proyectil disparado desde el suelo en Salta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el tiempo que tarda en alcanzar la altura máxima, no la altura máxima en sí."
+        },
+        {
+          "letter": "B",
+          "text": "$80\\text{ metros}$",
+          "is_correct": true,
+          "feedback": "Correcto. El tiempo del vértice es $t_v = -40 / (2 \\cdot (-5)) = 4$ segundos. Evaluando en la función: $h(4) = -5(16) + 40(4) = -80 + 160 = 80$ metros."
+        },
+        {
+          "letter": "C",
+          "text": "$160\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un cálculo duplicado sin restar el término de la aceleración gravitatoria."
+        },
+        {
+          "letter": "D",
+          "text": "$40\\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se obtiene al evaluar en un tiempo incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La altura máxima se localiza en el vértice de la parábola. Calculamos primero la coordenada de tiempo del vértice $t_v = -b/(2a) = 4\\text{ s}$ y luego la evaluamos en la función de altura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "Determiná la ecuación de la parábola que tiene su vértice en $V(1, 4)$ y que pasa por el punto $P(2, 6)$ en el plano real.",
+      "context": "Camila modela un túnel con forma parabólica en Bahía Blanca para permitir el paso de transportes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = (x - 1)^2 + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar en $x=2$ da $1+4=5 \\neq 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 2(x - 1)^2 + 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la forma canónica: $f(x) = a(x - 1)^2 + 4$. Evaluamos en $P(2,6)$: $6 = a(2 - 1)^2 + 4 \\Rightarrow 6 = a(1) + 4 \\Rightarrow a = 2$. Así, nos queda $2(x - 1)^2 + 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 2(x + 1)^2 + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del desplazamiento horizontal es erróneo."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = -2(x - 1)^2 + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto daría una parábola que abre hacia abajo, pasando por $(2, 2)$, no por $(2, 6)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la ecuación de una parábola dado su vértice y un punto, se plantea la forma canónica $f(x) = a(x - h)^2 + k$, y se sustituyen las coordenadas del punto para despejar la incógnita del coeficiente principal $a$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "Encontrá los puntos de intersección en el plano entre la recta $y = x + 2$ y la parábola $y = x^2$.",
+      "context": "Joaquín busca los puntos de intersección entre una ruta y una vía férrea en Neuquén.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Únicamente en $(1, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay dos puntos de intersección ya que es una ecuación cuadrática compatible."
+        },
+        {
+          "letter": "B",
+          "text": "En $(-1, 1)$ y $(2, 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualamos las ecuaciones: $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Las raíces son $x = 2$ y $x = -1$. Evaluando en la recta: para $x=2 \\Rightarrow y=4$, para $x=-1 \\Rightarrow y=1$. Los puntos son $(-1,1)$ y $(2,4)$."
+        },
+        {
+          "letter": "C",
+          "text": "En $(0, 2)$ y $(3, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No verifica la ecuación de la parábola para dichos puntos."
+        },
+        {
+          "letter": "D",
+          "text": "En $(-2, 4)$ y $(1, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $x = 1$, la recta da $y=3$ pero la parábola da $y=1$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar las intersecciones de una línea y una parábola, se igualan sus ecuaciones para obtener una ecuación cuadrática de una variable, cuyas raíces reales nos dan las abscisas de los puntos de intersección.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Julieta dispone de un rollo de alambre de $100\\\\text{ metros}$ de longitud para cercar un corral rectangular de ovejas (aprovechando una pared de piedra ya construida como uno de los lados de la cerca, por lo que solo debe cercar los otros 3 lados). ¿Qué dimensiones del rectángulo maximizan el área del corral?",
+      "context": "Julieta quiere delimitar un sector rectangular para criar ovejas en un campo de Santa Fe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ancho de $25\\\\text{ m}$ y largo de $25\\\\text{ m}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no optimiza el espacio dado el hecho de que solo se cercan tres lados."
+        },
+        {
+          "letter": "B",
+          "text": "Ancho de $25\\\\text{ m}$ y largo de $50\\\\text{ m}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Si el ancho es $x$, la longitud de la cerca es $2x + L = 100 \\Rightarrow L = 100 - 2x$. El área es $A(x) = x(100 - 2x) = -2x^2 + 100x$. El vértice está en $x = -100 / (2 \\cdot (-2)) = 25$ metros. El largo es $100 - 2(25) = 50$ metros."
+        },
+        {
+          "letter": "C",
+          "text": "Ancho de $20\\\\text{ m}$ y largo de $60\\\\text{ m}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área sería de $1200\\\\text{ m}^2$, por debajo del óptimo de $1250\\\\text{ m}^2$."
+        },
+        {
+          "letter": "D",
+          "text": "Ancho de $30\\\\text{ m}$ y largo de $40\\\\text{ m}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto da un área de $1200\\\\text{ m}^2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El problema de optimización se reduce a hallar el vértice de la función de área resultante $A(x) = -2x^2 + 100x$. El valor óptimo para el ancho es $25\\text{ m}$, resultando en un largo de $50\\text{ m}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "Encontrá los valores reales de $x$ que satisfacen la ecuación cuadrática $2x^2 + 5x - 3 = 0$.",
+      "context": "Lautaro resuelve una ecuación cuadrática con raíces fraccionarias en un examen en San Juan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x_1 = \\frac{1}{2}, x_2 = -3$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la fórmula de Bhaskara con $a=2, b=5, c=-3$: $\\frac{-5 \\pm \\sqrt{25 - 4(2)(-3)}}{4} = \\frac{-5 \\pm \\sqrt{49}}{4} = \\frac{-5 \\pm 7}{4}$. Las soluciones son $2/4 = 1/2$ y $-12/4 = -3$."
+        },
+        {
+          "letter": "B",
+          "text": "$x_1 = -\\frac{1}{2}, x_2 = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos al aplicar el opuesto de la fórmula."
+        },
+        {
+          "letter": "C",
+          "text": "$x_1 = \\frac{3}{2}, x_2 = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de las raíces no verifica el término independiente de la ecuación original."
+        },
+        {
+          "letter": "D",
+          "text": "$x_1 = -1, x_2 = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No verifica la igualdad."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "explanation": "La resolución por fórmula general permite obtener de forma directa las raíces reales de un polinomio de segundo grado, incluso si una de ellas es fraccionaria.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "Dada la parábola $f(x) = x^2 - 4x + c$, ¿cuál debe ser el valor de $c$ para que el vértice de la parábola esté posicionado exactamente sobre el eje de las abscisas (eje $x$)?",
+      "context": "Delfina analiza el comportamiento paramétrico del término independiente en San Luis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$c = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $c=2$, el vértice está por debajo del eje x."
+        },
+        {
+          "letter": "B",
+          "text": "$c = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parábola cortaría al eje y en un punto negativo y tendría dos raíces."
+        },
+        {
+          "letter": "C",
+          "text": "$c = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Para que el vértice esté sobre el eje x, la parábola debe tener una única raíz real doble, lo que implica que el discriminante sea cero: $\\Delta = (-4)^2 - 4(1)(c) = 0 \\Rightarrow 16 - 4c = 0 \\Rightarrow c = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$c = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vértice estaría por debajo en el punto $(2, -4)$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que el vértice de una parábola esté sobre el eje horizontal, la ordenada del vértice debe ser cero ($y_v = 0$), lo que equivale a imponer la condición de que la función tenga una sola raíz real doble ($\\Delta = 0$).\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -184,86 +593,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v5",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 5 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v6",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 6 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "¿Para qué valores del parámetro real $m$ la recta $y = mx$ tiene un único punto de contacto (es tangente) con la parábola $y = x^2 + 4$?",
+      "context": "Isabella analiza analíticamente la existencia de intersecciones entre rectas y parábolas en Ushuaia.",
       "options": [
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "Únicamente para $m = 2$",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Se omitió la solución negativa de la ecuación cuadrática resultante."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
+          "text": "Para $m = 4$ y $m = -4$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando: $x^2 + 4 = mx \\Rightarrow x^2 - mx + 4 = 0$. Para que tengan un único punto de contacto, el discriminante debe ser cero: $\\Delta = (-m)^2 - 4(1)(4) = 0 \\Rightarrow m^2 - 16 = 0 \\Rightarrow m = \\pm 4$."
+        },
+        {
+          "letter": "C",
+          "text": "Para cualquier valor de $m$ mayor que 4",
           "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "feedback": "Incorrecto. En este rango la recta cortaría a la parábola en dos puntos distintos."
         },
         {
           "letter": "D",
-          "text": "Cuarta opción incorrecta",
+          "text": "Únicamente para $m = 0$",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Si $m=0$, la recta no tiene puntos de contacto con la parábola."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "La condición de tangencia entre una recta y una curva cuadrática se cumple cuando la ecuación de intersección tiene una raíz doble, es decir, cuando su discriminante es idénticamente nulo.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -272,42 +638,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v7",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 7 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "La ganancia $G(x)$ en miles de pesos de una excursión depende del número de turistas $x$ según la expresión $G(x) = -x^2 + 40x + 500$. ¿Cuál es el valor máximo de ganancia que se puede obtener?",
+      "context": "Tomas analiza el conjunto imagen de la rentabilidad de una inversión turística en Bariloche.",
       "options": [
         {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "$\\$500$ mil",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Esta es la ganancia fija si no asistieran clientes."
         },
         {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "letter": "B",
+          "text": "$\\$900$ mil",
+          "is_correct": true,
+          "feedback": "Correcto. Calculamos el vértice de la parábola: $x_v = -40 / (2 \\cdot (-1)) = 20$ turistas. Evaluamos la ganancia en este punto: $G(20) = -(20)^2 + 40(20) + 500 = -400 + 800 + 500 = 900$."
         },
         {
           "letter": "C",
-          "text": "Tercera opción incorrecta",
+          "text": "$\\$1100$ mil",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Se cometió un error algebraico de signos en el desarrollo de la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$400$ mil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor no corresponde al máximo absoluto de la función de beneficio."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "La función de ganancia es una parábola cóncava hacia abajo. Su valor máximo se localiza en el vértice, el cual se calcula evaluando la ordenada para la abscisa óptima de 20 turistas.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -316,42 +683,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v8",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 8 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "La trayectoria de un chorro de agua sigue la ecuación de la parábola $y = a(x - 2)^2 + 4$. Si el chorro sale de una boquilla situada a nivel del suelo en el origen de coordenadas $(0, 0)$, ¿cuál es el valor del parámetro $a$?",
+      "context": "Milagros analiza la representación matemática del movimiento parabólico de un chorro de agua en Paraná.",
       "options": [
         {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "$a = 1$",
           "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Esto daría valores positivos de altura por encima de los límites físicos reales."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
+          "text": "$a = -1$",
+          "is_correct": true,
+          "feedback": "Correcto. Dado que pasa por $(0,0)$, evaluamos la ecuación canónica: $0 = a(0 - 2)^2 + 4 \\Rightarrow 0 = 4a + 4 \\Rightarrow 4a = -4 \\Rightarrow a = -1$."
+        },
+        {
+          "letter": "C",
+          "text": "$a = -2$",
           "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "feedback": "Incorrecto. Con este coeficiente la trayectoria pasaría por el punto $(0, -4)$, no por el origen."
+        },
+        {
+          "letter": "D",
+          "text": "$a = -\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No verifica el paso por el origen de coordenadas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Al sustituir el punto de paso obligatorio $(0,0)$ en la ecuación con el vértice conocido, se despeja la incógnita del coeficiente principal $a$, revelando que la parábola abre hacia abajo de manera simétrica.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -360,42 +728,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v9",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 9 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Encontrá los puntos de intersección entre las parábolas $y = x^2 - 4x + 3$ e $y = -x^2 + 2x + 3$.",
+      "context": "Nicolas estudia la superposición de dos campos de gravedad modelados por parábolas en Corrientes.",
       "options": [
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "text": "En $(0, 3)$ y $(3, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualamos las ecuaciones: $x^2 - 4x + 3 = -x^2 + 2x + 3 \\Rightarrow 2x^2 - 6x = 0 \\Rightarrow 2x(x - 3) = 0$. Las abscisas de intersección son $x = 0$ y $x = 3$. Evaluando en cualquiera de las parábolas obtenemos los puntos $(0,3)$ y $(3,0)$."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
+          "text": "Únicamente en $(0, 3)$",
           "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "feedback": "Incorrecto. Falta la otra raíz de la ecuación cuadrática incompleta resultante."
+        },
+        {
+          "letter": "C",
+          "text": "En $(1, 0)$ y $(2, -1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos puntos no verifican las dos ecuaciones simultáneamente."
         },
         {
           "letter": "D",
-          "text": "Cuarta opción incorrecta",
+          "text": "En $(-1, 8)$ y $(2, -1)$",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. No verifica la intersección de ambas curvas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "explanation": "Al igualar dos funciones cuadráticas se obtiene una ecuación polinómica cuyo conjunto solución determina las coordenadas de abscisa de los puntos de cruce de ambas parábolas.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -404,42 +773,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v10",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 10 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "Resolvé la inecuación cuadrática $x^2 - 2x - 15 \\le 0$ para encontrar el intervalo solución en el conjunto de los números reales.",
+      "context": "Catalina analiza un problema de límites de producción resolviendo una inecuación de segundo grado en Resistencia.",
       "options": [
         {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
+          "letter": "A",
+          "text": "$(-\\infty, -3] \\cup [5, +\\infty)$",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Este sería el rango de soluciones si la desigualdad fuera mayor o igual a cero."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "text": "$[-3, 5]$",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces de la ecuación cuadrática son $x = -3$ y $x = 5$. Dado que la parábola abre hacia arriba (coeficiente principal positivo), los valores no positivos se encuentran entre las dos raíces inclusive."
         },
         {
           "letter": "C",
-          "text": "Tercera opción incorrecta",
+          "text": "$[-5, 3]$",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Los signos de las raíces fueron aplicados de manera inversa."
+        },
+        {
+          "letter": "D",
+          "text": "$(-3, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desigualdad no es estricta, por lo que los extremos cerrados deben estar incluidos en la solución."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Para resolver $x^2 - 2x - 15 \\le 0$, hallamos las raíces críticas de la ecuación cuadrática por factorización: $(x - 5)(x + 3) \\le 0$. Al analizar el signo por intervalos, se observa que el signo es negativo entre las dos raíces.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -448,130 +818,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v11",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 11 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "Un compañero plantea que el beneficio neto de un negocio está dado por la función cuadrática $B(x) = 10x^2 - 120x + 500$, donde $x$ es el precio de venta. Afirma que fijando el precio en $\\$6$ se maximiza el beneficio neto. Evaluá la veracidad matemática de esta afirmación.",
+      "context": "Facundo juzga la consistencia de un planteo de optimización económica propuesto por un compañero en Posadas.",
       "options": [
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
+          "text": "La afirmación es correcta porque la abscisa del vértice da exactamente 6.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. Aunque la abscisa del vértice es 6, el estudiante no analizó la concavidad de la parábola."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "text": "La afirmación es falsa porque como $a = 10 > 0$, la parábola abre hacia arriba, por lo que en $x=6$ se alcanza el beneficio mínimo, no el máximo.",
+          "is_correct": true,
+          "feedback": "Correcto. Dado que el coeficiente principal es positivo ($a=10$), el vértice representa el mínimo absoluto de la función de beneficio, por lo que fijar el precio en 6 generaría la peor rentabilidad posible."
         },
         {
           "letter": "C",
-          "text": "Tercera opción incorrecta",
+          "text": "La afirmación es correcta porque a mayor precio, el beneficio siempre tiende a crecer infinitamente.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. No evalúa correctamente el concepto del vértice en parábolas de coeficiente positivo."
         },
         {
           "letter": "D",
-          "text": "Cuarta opción incorrecta",
+          "text": "La afirmación es falsa porque la ecuación cuadrática no tiene raíces reales y no se puede calcular el vértice.",
           "is_correct": false,
-          "feedback": ""
+          "feedback": "Incorrecto. El vértice siempre se puede calcular independientemente de la existencia de raíces."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v12",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 12 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v13",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 13 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Fijar el precio basándose únicamente en el vértice sin analizar el signo del coeficiente principal es un error conceptual crítico. Si $a > 0$, el vértice de la función es un mínimo absoluto, no un máximo.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -580,306 +863,43 @@
       "country": "ar"
     },
     {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v14",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 14 sobre sistemas ecuaciones para el CBC / UBA.",
+      "id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "Evaluá la veracidad de la siguiente proposición: 'Dos parábolas distintas cualesquiera con ejes de simetría verticales paralelos se cortan como máximo en dos puntos'. ¿Es esta afirmación siempre verdadera o falsa?",
+      "context": "Martina evalúa las afirmaciones teóricas referidas a las intersecciones de familias de parábolas en Jujuy.",
       "options": [
         {
           "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
+          "text": "Siempre verdadera.",
+          "is_correct": true,
+          "feedback": "Correcto. Al igualar dos ecuaciones cuadráticas distintas de la forma $y = a_1 x^2 + b_1 x + c_1$ e $y = a_2 x^2 + b_2 x + c_2$ se obtiene una ecuación que a lo sumo es de grado dos. Por el teorema fundamental del álgebra, una ecuación de grado menor o igual a dos posee a lo sumo dos raíces reales distintas, lo que garantiza un máximo de dos puntos de corte."
         },
         {
           "letter": "B",
-          "text": "Opción correcta con explicación detallada",
+          "text": "Falsa, porque pueden cortarse en hasta tres o cuatro puntos.",
           "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
+          "feedback": "Incorrecto. Dos curvas cuadráticas con ejes de simetría verticales paralelos no pueden cruzarse en más de dos puntos."
+        },
+        {
+          "letter": "C",
+          "text": "Verdadera solo si ambas parábolas tienen coeficientes principales idénticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si tienen coeficientes principales idénticos, al igualarlas los términos cuadráticos se anulan, dando una ecuación lineal de grado uno con a lo sumo un punto de corte."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa, ya que si abren en sentidos contrarios es físicamente imposible que se corten.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí pueden cortarse si se posicionan adecuadamente en el plano cartesiano."
         }
       ],
       "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
+      "explanation": "La intersección algebraica entre dos parábolas verticales se reduce a resolver una ecuación cuadrática de grado menor o igual a dos. Por consiguiente, el número máximo de soluciones reales, que determina los puntos de contacto, es estrictamente menor o igual a dos.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v15",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 15 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v16",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 16 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v17",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 17 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v18",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 18 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v19",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 19 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MATEMATICAS-11-2026-W04-sistemas-ecuaciones-001-MASTERY-v20",
-      "statement": "Con respecto al tema de sistemas ecuaciones, ¿cuál de las siguientes afirmaciones es CORRECTA?",
-      "context": "Contexto de la pregunta 20 sobre sistemas ecuaciones para el CBC / UBA.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Tercera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "D",
-          "text": "Cuarta opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "A",
-          "text": "Primera opción incorrecta",
-          "is_correct": false,
-          "feedback": ""
-        },
-        {
-          "letter": "B",
-          "text": "Opción correcta con explicación detallada",
-          "is_correct": false,
-          "feedback": "Esta es la respuesta correcta porque se alinea con el concepto fundamental de {topic}."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "bundle_id": "AR-MAT-11-2026-W04-sistemas-ecuaciones-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.90
 **Contexto:** Juan está organizando sus ahorros en su cuenta del Banco de Reservas en Santo Domingo.
 
@@ -41,7 +41,7 @@ Los números naturales ($\mathbb{N}$) son el primer conjunto de números utiliza
 ## Question 2 [D3-D4]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.85
 **Contexto:** En un colmado de Santiago, el dueño anota las deudas como números negativos y las ganancias como positivos.
 
@@ -62,7 +62,7 @@ El conjunto de los números enteros ($\mathbb{Z}$) incluye naturales, negativos 
 ## Question 3 [D3-D4]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.80
 **Contexto:** Una receta dominicana indica usar 2.5 tazas de harina.
 
@@ -83,7 +83,7 @@ Los números racionales ($\mathbb{Q}$) pueden expresarse como el cociente de dos
 ## Question 4 [D3-D4]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero calcula el área de una plaza circular en Puerto Plata usando $\pi$.
 
@@ -104,7 +104,7 @@ Los números irracionales tienen representación decimal infinita no periódica.
 ## Question 5 [D5-D6]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.70
 **Contexto:** Se discute la relación entre los conjuntos en un liceo de La Romana.
 
@@ -125,7 +125,7 @@ Los números reales ($\mathbb{R}$) son la unión de racionales e irracionales.
 ## Question 6 [D5-D6]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.70
 **Contexto:** Un agrimensor en San Francisco de Macorís mide un lado de terreno de $\sqrt{50}$ metros.
 
@@ -146,7 +146,7 @@ Raíces de números no cuadrados perfectos son irracionales.
 ## Question 7 [D5-D6]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante simplifica la expresión $(-8 + 5) \times 2$.
 
@@ -167,7 +167,7 @@ $-3 \times 2 = -6$, el cual es un número entero.
 ## Question 8 [D5-D6]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Comunicación
+**EJE:** Comunicación
 **Expected_Success:** 0.65
 **Contexto:** Un técnico analiza un circuito con impedancia $a + bi$.
 
@@ -188,7 +188,7 @@ Los complejos ($\mathbb{C}$) incluyen reales e imaginarios.
 ## Question 9 [D5-D6]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v9
 **Bloom:** Understand
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.60
 **Contexto:** Reto sobre la densidad en San Pedro de Macorís.
 
@@ -209,7 +209,7 @@ La densidad racional permite hallar siempre un número entre otros dos.
 ## Question 10 [D5-D6]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.60
 **Contexto:** Un matemático estudia las operaciones en diferentes conjuntos.
 
@@ -230,7 +230,7 @@ Los enteros no son cerrados bajo la división.
 ## Question 11 [D7-D8]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Jerarquía de conjuntos en una escuela de Baní.
 
@@ -251,7 +251,7 @@ Cada conjunto numérico expande las capacidades del anterior.
 ## Question 12 [D7-D8]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante clasifica el número $0.333...$ en Higüey.
 
@@ -272,7 +272,7 @@ Decimales periódicos tienen fracción generatriz racional.
 ## Question 13 [D7-D8]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.50
 **Contexto:** Análisis de $\sqrt{-4}$ en San Juan de la Maguana.
 
@@ -293,7 +293,7 @@ La raíz de un negativo requiere números imaginarios.
 ## Question 14 [D7-D8]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.45
 **Contexto:** Pregunta lógica en competencia en Santiago.
 
@@ -314,7 +314,7 @@ Racionales e irracionales no tienen elementos comunes.
 ## Question 15 [D7-D8]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v15
 **Bloom:** Apply
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.45
 **Contexto:** Simplificación de $\frac{\sqrt{16}}{2} + \pi - \pi$.
 
@@ -335,7 +335,7 @@ El resultado 2 es un número natural.
 ## Question 16 [D7-D8]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.40
 **Contexto:** Debate sobre números trascendentes en la UASD.
 
@@ -356,7 +356,7 @@ Números como $\pi$ son trascendentes.
 ## Question 17 [D9-D10]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Evaluación de proposiciones para Pruebas Nacionales.
 
@@ -377,7 +377,7 @@ La suma de opuestos irracionales da cero.
 ## Question 18 [D9-D10]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.35
 **Contexto:** Reflexión sobre el orden en Nagua.
 
@@ -398,7 +398,7 @@ Los enteros no tienen un límite inferior.
 ## Question 19 [D9-D10]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resolución
+**EJE:** Resolución
 **Expected_Success:** 0.30
 **Contexto:** Desafío de olimpiada en Santo Domingo.
 
@@ -419,7 +419,7 @@ Es irracional porque su patrón cambia siempre.
 ## Question 20 [D9-D10]
 **ID:** DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento
+**EJE:** Razonamiento
 **Expected_Success:** 0.30
 **Contexto:** Examen final de alto rendimiento.
 

@@ -25,7 +25,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Basic economic terms.
 
@@ -45,7 +45,7 @@ Inflation refers to the general increase in prices and the fall in the purchasin
 ## Question 2 [D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Discussing market trends.
 
@@ -65,7 +65,7 @@ The present perfect continuous 'has been fluctuating' emphasizes the ongoing nat
 ## Question 3 [D5]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.65
 **Contexto:** Conditional about trade policy.
 
@@ -85,7 +85,7 @@ The second conditional passive 'if + were + past participle' is used to discuss 
 ## Question 4 [D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v4`
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.70
 **Contexto:** Article about globalization.
 
@@ -105,7 +105,7 @@ Globalization has led to increased interdependence among nations, making local e
 ## Question 5 [D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v5`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.60
 **Contexto:** Discussion on income inequality.
 
@@ -125,7 +125,7 @@ Critics of the current economic system argue that wealth is disproportionately c
 ## Question 6 [D3]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v6`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
 **Contexto:** International organizations.
 
@@ -145,7 +145,7 @@ The World Bank provides financial and technical assistance to developing countri
 ## Question 7 [D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Prediction about interest rates.
 
@@ -165,7 +165,7 @@ The future perfect 'will have risen' describes a state that will be a completed 
 ## Question 8 [D5]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Text on corporate social responsibility.
 
@@ -185,7 +185,7 @@ Companies are under increasing pressure to operate sustainably and ethically.
 ## Question 9 [D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Describing a past economic crisis.
 
@@ -205,7 +205,7 @@ The past perfect 'had implemented' establishes the sequence of events during the
 ## Question 10 [D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Critique of consumerism.
 
@@ -225,7 +225,7 @@ The author suggests that the relentless pursuit of economic growth may be incomp
 ## Question 11 [D3]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v11`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Definition of a budget.
 
@@ -245,7 +245,7 @@ A budget is an estimate of income and expenditure for a set period of time.
 ## Question 12 [D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v12`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Passive voice in an economic report.
 
@@ -265,7 +265,7 @@ The present perfect passive 'have been lost' describes the impact on employment 
 ## Question 13 [D5]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.65
 **Contexto:** Discussing emerging markets.
 
@@ -285,7 +285,7 @@ Emerging markets often offer higher potential returns but also involve greater r
 ## Question 14 [D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Conditional about currency devaluation.
 
@@ -305,7 +305,7 @@ The second conditional 'if + were' is used to discuss a hypothetical change in c
 ## Question 15 [D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.50
 **Contexto:** Conclusion of an essay on fair trade.
 
@@ -325,7 +325,7 @@ The author argues that fair trade initiatives help to alleviate poverty by ensur
 ## Question 16 [D3]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v16`
 **Bloom:** Remember
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.85
 **Contexto:** Business entities.
 
@@ -345,7 +345,7 @@ A multinational corporation is a company that operates in several countries.
 ## Question 17 [D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v17`
 **Bloom:** Understand
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.75
 **Contexto:** Expressing a hope for economic stability.
 
@@ -365,7 +365,7 @@ The citizens wish the government would control inflation more effectively.
 ## Question 18 [D5]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v18`
 **Bloom:** Apply
-**ICFES:** Vocabulary
+**EJE:** Vocabulary
 **Expected_Success:** 0.60
 **Contexto:** Text about the "gig economy".
 
@@ -385,7 +385,7 @@ The gig economy is characterized by the prevalence of short-term contracts or fr
 ## Question 19 [D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Grammar
+**EJE:** Grammar
 **Expected_Success:** 0.70
 **Contexto:** Reporting a financial forecast.
 
@@ -405,7 +405,7 @@ In reported speech, we backshift tenses: 'exceeded' (past simple) or 'has exceed
 ## Question 20 [D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v20`
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.55
 **Contexto:** Final thought on economic ethics.
 

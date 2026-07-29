@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en la CDMX identifica las condiciones para calcular el determinante de una matriz.
 **Expected_Success:** 0.95
 
@@ -43,7 +43,7 @@ El determinante es una propiedad exclusiva de las matrices cuadradas. Es un núm
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta el símbolo estándar para representar la operación de determinante en un libro de texto.
 **Expected_Success:** 0.90
 
@@ -65,7 +65,7 @@ Para distinguir entre la matriz (el arreglo de números) y el determinante (el v
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un joven en Guadalajara aprende la fórmula básica para una matriz de segundo orden.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ Para una matriz $2 \times 2$, el determinante se obtiene multiplicando los eleme
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un profesor en Monterrey explica qué sucede cuando el determinante de una matriz es igual a cero.
 **Expected_Success:** 0.80
 
@@ -109,7 +109,7 @@ El determinante funciona como un "indicador de salud" de la matriz. Si es cero, 
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante resuelve un problema rápido de una matriz $2 \times 2$ en un examen parcial.
 **Expected_Success:** 0.75
 
@@ -131,7 +131,7 @@ Multiplicamos la diagonal principal ($3 \cdot 5 = 15$) y restamos la diagonal se
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se solicita calcular el determinante de una matriz que contiene números negativos.
 **Expected_Success:** 0.70
 
@@ -153,7 +153,7 @@ Al manejar números negativos, debemos ser cuidadosos con la ley de los signos. 
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un ingeniero industrial en Puebla aplica la Regla de Sarrus para una matriz de tercer orden.
 **Expected_Success:** 0.65
 
@@ -175,7 +175,7 @@ La Regla de Sarrus es un método mnemotécnico para matrices $3 \times 3$. Al es
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presenta una matriz $3 \times 3$ con una fila de ceros y se pide su determinante.
 **Expected_Success:** 0.75
 
@@ -197,7 +197,7 @@ Existen propiedades de los determinantes que permiten ahorrar tiempo. Una de ell
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de economía en el Estado de México calcula el determinante de una matriz diagonal.
 **Expected_Success:** 0.70
 
@@ -219,7 +219,7 @@ Para cualquier matriz diagonal o triangular (donde los elementos fuera de la dia
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se busca un valor desconocido $x$ que haga que la matriz sea singular.
 **Expected_Success:** 0.60
 
@@ -241,7 +241,7 @@ Planteamos la ecuación del determinante: $(x \cdot 4) - (6 \cdot 2) = 0$. Esto 
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un programador en Querétaro analiza la propiedad del determinante tras intercambiar filas.
 **Expected_Success:** 0.50
 
@@ -263,7 +263,7 @@ Una propiedad fundamental de los determinantes es que cada intercambio de dos fi
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un físico en la UNAM utiliza la propiedad del determinante del producto de dos matrices.
 **Expected_Success:** 0.45
 
@@ -285,7 +285,7 @@ La propiedad distributiva del determinante respecto a la multiplicación estable
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante aplica el método de cofactores (expansión por menores) para una matriz $3 \times 3$.
 **Expected_Success:** 0.40
 
@@ -307,7 +307,7 @@ Al usar cofactores, elegimos una fila (preferiblemente una con ceros) y multipli
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el efecto de multiplicar toda una matriz por una constante escalar.
 **Expected_Success:** 0.35
 
@@ -329,7 +329,7 @@ Cuando multiplicamos una matriz por un escalar $k$, cada fila es multiplicada po
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador utiliza la propiedad de la matriz transpuesta.
 **Expected_Success:** 0.55
 
@@ -351,7 +351,7 @@ Esta propiedad demuestra la simetría entre filas y columnas respecto al determi
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza una matriz triangular superior en un problema de sistemas de ecuaciones lineales.
 **Expected_Success:** 0.50
 
@@ -373,7 +373,7 @@ En las matrices triangulares (superior o inferior), todos los elementos por enci
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un experto en álgebra matricial en el IPN analiza la relación entre el determinante y la matriz inversa.
 **Expected_Success:** 0.30
 
@@ -395,7 +395,7 @@ Existe una relación inversa entre los determinantes de una matriz y su inversa.
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un matemático utiliza la Regla de Cramer para resolver un sistema de ecuaciones $2 \times 2$.
 **Expected_Success:** 0.25
 
@@ -417,7 +417,7 @@ La Regla de Cramer es una aplicación directa de los determinantes para resolver
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista estudia una matriz de Vandermonde y sus propiedades de dependencia lineal.
 **Expected_Success:** 0.20
 
@@ -439,7 +439,7 @@ Geométricamente, el determinante representa el "volumen" hiperespacial formado 
 
 **ID:** MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante avanzado utiliza operaciones elementales de fila para simplificar un determinante complejo.
 **Expected_Success:** 0.15
 

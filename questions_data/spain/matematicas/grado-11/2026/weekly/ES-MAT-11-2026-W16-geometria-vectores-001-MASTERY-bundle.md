@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 1º de Bachillerato en Madrid comienza el estudio de los vectores en el plano $\mathbb{R}^2$.
 
@@ -41,7 +41,7 @@ Un vector es una magnitud física o matemática que requiere más que un simple 
 ## Question 2 [D3-D4]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.82
 **Contexto:** En una clase de Matemáticas en Valencia, se explica cómo sumar vectores gráficamente.
 
@@ -62,7 +62,7 @@ La suma de vectores puede visualizarse de dos formas: colocando el origen del se
 ## Question 3 [D3-D4]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante repasa el cálculo del módulo de un vector en el plano.
 
@@ -83,7 +83,7 @@ El módulo representa la longitud del segmento orientado. En un sistema de ejes 
 ## Question 4 [D3-D4]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.78
 **Contexto:** Se define el concepto de vectores unitarios.
 
@@ -104,7 +104,7 @@ Un vector unitario se obtiene dividiendo cualquier vector por su propio módulo.
 ## Question 5 [D5-D6]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.75
 **Contexto:** Un estudiante en Barcelona tiene los puntos $A(1, 2)$ y $B(4, 6)$.
 
@@ -125,7 +125,7 @@ Un vector libre definido por dos puntos se obtiene restando las coordenadas del 
 ## Question 6 [D5-D6]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.72
 **Contexto:** Un ingeniero en Zaragoza debe calcular el producto escalar de dos vectores: $\vec{u} = (2, -3)$ y $\vec{v} = (5, 4)$.
 
@@ -146,7 +146,7 @@ El producto escalar de dos vectores en coordenadas cartesianas es la suma de los
 ## Question 7 [D5-D6]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.70
 **Contexto:** Se desea comprobar si dos fuerzas representadas por vectores son perpendiculares (ortogonales).
 
@@ -167,7 +167,7 @@ La ortogonalidad es una propiedad angular. Como el coseno de 90 grados es cero, 
 ## Question 8 [D5-D6]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.68
 **Contexto:** Un estudiante analiza la multiplicación de un vector por un número escalar $k$.
 
@@ -188,7 +188,7 @@ Multiplicar por un escalar cambia el módulo del vector. Si el escalar es negati
 ## Question 9 [D5-D6]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.65
 **Contexto:** Se busca el punto medio de un segmento en un mapa de Sevilla. Los extremos son $P(2, 5)$ y $Q(8, 11)$.
 
@@ -209,7 +209,7 @@ El punto medio es el promedio aritmético de las coordenadas de los extremos. Ge
 ## Question 10 [D5-D6]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.62
 **Contexto:** Un estudiante en Bilbao calcula el ángulo que forma el vector $\vec{a} = (1, 1)$ con el semieje positivo de las abscisas (Eje X).
 
@@ -230,7 +230,7 @@ La dirección de un vector en el primer cuadrante se halla mediante la arcotange
 ## Question 11 [D7-D8]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.60
 **Contexto:** Un matemático en Salamanca analiza la combinación lineal de vectores.
 
@@ -251,7 +251,7 @@ La dependencia lineal en el plano significa que uno de los vectores puede expres
 ## Question 12 [D7-D8]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.58
 **Contexto:** Se pide hallar el valor de un parámetro $k$ para asegurar la ortogonalidad. Vectores: $\vec{a} = (k, 4)$ y $\vec{b} = (3, -6)$.
 
@@ -272,7 +272,7 @@ Resolvemos la ecuación del producto escalar igualada a cero. Es un procedimient
 ## Question 13 [D7-D8]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Comunicación y Razonamiento
+**EJE:** Comunicación y Razonamiento
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto en Asturias calcula el ángulo entre dos vectores de diseño: $\vec{u} = (3, 0)$ y $\vec{v} = (2, 2)$.
 
@@ -293,7 +293,7 @@ El producto escalar permite calcular ángulos. El coseno del ángulo es el cocie
 ## Question 14 [D7-D8]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.53
 **Contexto:** Se proyecta un vector $\vec{u} = (4, 3)$ sobre la dirección del eje X.
 
@@ -314,7 +314,7 @@ La proyección ortogonal de un vector sobre un eje coordenado coincide con el va
 ## Question 15 [D7-D8]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante investiga el concepto de base ortonormal del plano.
 
@@ -335,7 +335,7 @@ Las bases ortonormales son las más cómodas para trabajar en geometría, ya que
 ## Question 16 [D7-D8]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.48
 **Contexto:** Un estudiante analiza el vector $\vec{v} = (0, 0)$.
 
@@ -356,7 +356,7 @@ El vector nulo es el elemento neutro de la suma vectorial. Matemáticamente es u
 ## Question 17 [D9-D10]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**ICFES:** Resolución de Problemas
+**EJE:** Resolución de Problemas
 **Expected_Success:** 0.45
 **Contexto:** En un sistema de navegación en Málaga, se desea normalizar el vector de desplazamiento $\vec{d} = (3, -4)$.
 
@@ -377,7 +377,7 @@ Normalizar un vector es un proceso común en física y computación gráfica par
 ## Question 18 [D9-D10]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.42
 **Contexto:** Se plantea la desigualdad triangular en el contexto de vectores.
 
@@ -398,7 +398,7 @@ La desigualdad triangular es una propiedad métrica fundamental. Indica que el c
 ## Question 19 [D9-D10]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**ICFES:** Modelización y Comunicación
+**EJE:** Modelización y Comunicación
 **Expected_Success:** 0.38
 **Contexto:** Un programador de juegos calcula la reflexión de un vector de luz $\vec{L}$ sobre una superficie con vector normal $\vec{n}$.
 
@@ -419,7 +419,7 @@ El signo del producto escalar es un test de visibilidad u orientación rápido e
 ## Question 20 [D9-D10]
 **ID:** ES-MAT-11-2026-W16-geometria-vectores-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Matemático
+**EJE:** Razonamiento Matemático
 **Expected_Success:** 0.35
 **Contexto:** Un estudiante reflexiona sobre la estructura algebraica de los vectores del plano.
 

@@ -1,5 +1,8 @@
-﻿nul
-# Python generated files
+﻿# ============================================
+# WorldExams .gitignore (SWAL node, Linux base)
+# ============================================
+
+# --- Python generated files (legacy) ---
 __pycache__/
 *.pyc
 *.pyo
@@ -7,27 +10,51 @@ _gen_*/
 _generated/
 temp/
 temp_*
-gen_*.py
-generate_*.py
-generar_*.py
-_gen_*
-null
-test_*.py
+*.log
+*.txt
 
-# SaberParaTods build output
+# --- Windows scripts (migrated to Linux) ---
+*.ps1
+*.bat
+*.cmd
+
+# --- Build output ---
 saberparatodos/public/api/
-
-# Node
-node_modules/
-
-# pnpm
-pnpm-lock.yaml
-pnpm-workspace.yaml
-
-# Astro build
 saberparatodos/.astro/
 saberparatodos/.wrangler/
 saberparatodos/dist/
 
-# Workspace node_modules
+# --- Node ---
+node_modules/
+
+# --- pnpm lockfiles in root (sub-projects keep theirs) ---
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+# --- Workspace node_modules ---
 apps/*/node_modules/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Editor/IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Environment ---
+.env.local
+.env.production
+.env*.local
+
+# --- Test results ---
+test-results/
+coverage/
+
+# --- Agent artifacts ---
+.worldexams/
+.hermes/
+scratch/
+

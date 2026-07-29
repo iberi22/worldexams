@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en Lima repasa las identidades trigonométricas pitagóricas fundamentales.
 
@@ -45,7 +45,7 @@ La identidad $\sin^2(\theta) + \cos^2(\theta) = 1$ es la más importante de la t
 ## Question 2 [D3]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.80
 **Contexto:** Se analizan las identidades por cociente en una clase en Trujillo.
 
@@ -70,7 +70,7 @@ La identidad por cociente establece que la tangente de un ángulo es igual al se
 ## Question 3 [D4]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.75
 **Contexto:** Aplicación de identidades pitagóricas para simplificar expresiones.
 
@@ -95,7 +95,7 @@ Partiendo de $\sin^2 x + \cos^2 x = 1$, si dividimos todo por $\cos^2 x$, obtene
 ## Question 4 [D4]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.70
 **Contexto:** Se estudia el seno de la suma de dos ángulos agudos en Cusco.
 
@@ -120,7 +120,7 @@ La identidad para el seno de la suma de dos ángulos establece que: $\sin(A + B)
 ## Question 5 [D5]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.65
 **Contexto:** Un examen de simulación de la UNI sobre identidades trigonométricas.
 
@@ -145,7 +145,7 @@ Al elevar al cuadrado el binomio obtenemos el trinomio $\sin^2 x + 2\sin x \cos 
 ## Question 6 [D5]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.60
 **Contexto:** Un estudiante en Piura calcula el valor de una función trigonométrica de un ángulo compuesto.
 
@@ -170,7 +170,7 @@ Usamos la identidad $\sin(A+B) = \sin A\cos B + \cos A\sin B$. Reemplazando con 
 ## Question 7 [D5]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Cálculo del coseno del ángulo doble.
 
@@ -195,7 +195,7 @@ La identidad del coseno del ángulo doble es $\cos(2x) = 2\cos^2 x - 1$. Sustitu
 ## Question 8 [D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Simplificación de expresiones con la tangente de la suma.
 
@@ -220,7 +220,7 @@ La expresión dada corresponde exactamente al desarrollo de la tangente de la su
 ## Question 9 [D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.55
 **Contexto:** Se plantea un problema de identidades cuadráticas en Trujillo.
 
@@ -245,7 +245,7 @@ Elevamos al cuadrado la igualdad original: $(\tan x + \cot x)^2 = 3^2 \Rightarro
 ## Question 10 [D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.50
 **Contexto:** Identidad del seno del ángulo doble.
 
@@ -270,7 +270,7 @@ La identidad del ángulo doble para el seno se obtiene de la fórmula de la suma
 ## Question 11 [D7]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.45
 **Contexto:** Reducción de expresiones con identidades de ángulo doble.
 
@@ -295,7 +295,7 @@ Utilizamos la identidad $\cos(2x) = 1 - 2\sin^2 x$. Al sustituirla en $K$: $K = 
 ## Question 12 [D7]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Coseno de la suma de dos ángulos agudos.
 
@@ -320,7 +320,7 @@ Usamos la identidad $\cos(A+B) = \cos A\cos B - \sin A\sin B$. Primero hallamos 
 ## Question 13 [D7]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.40
 **Contexto:** Identidades auxiliares y productos notables.
 
@@ -345,7 +345,7 @@ La expresión es un producto de binomios conjugados, equivalente a la diferencia
 ## Question 14 [D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Identidades de ángulo mitad para el seno.
 
@@ -370,7 +370,7 @@ Usamos la fórmula del ángulo mitad: $\sin(x/2) = \sqrt{\frac{1 - \cos x}{2}}$.
 ## Question 15 [D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.30
 **Contexto:** Tangente del ángulo doble.
 
@@ -395,7 +395,7 @@ Aplicamos la identidad $\tan(2x) = \frac{2\tan x}{1 - \tan^2 x}$. Con $\tan x = 
 ## Question 16 [D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.35
 **Contexto:** Determinación del seno del doble a partir de la diferencia de seno y coseno.
 
@@ -420,7 +420,7 @@ Elevamos la igualdad al cuadrado: $(\sin x - \cos x)^2 = 1/4$. Expandiendo: $\si
 ## Question 17 [D9]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.25
 **Contexto:** Transformación de suma de senos y cosenos a producto.
 
@@ -445,7 +445,7 @@ Aplicamos las fórmulas de transformación a producto: el numerador queda como $
 ## Question 18 [D9]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.20
 **Contexto:** Valor máximo de una función simplificada por ángulo doble.
 
@@ -470,7 +470,7 @@ Simplificamos usando identidades de ángulo doble: $\sin x \cos x = \frac{1}{2}\
 ## Question 19 [D10]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.15
 **Contexto:** Identidad auxiliar compleja para productos de senos.
 
@@ -495,7 +495,7 @@ Existe una identidad auxiliar que establece $\sin\theta \sin(60^\circ - \theta) 
 ## Question 20 [D10]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Resuelve problemas de forma, movimiento y localización
+**EJE:** Resuelve problemas de forma, movimiento y localización
 **Expected_Success:** 0.10
 **Contexto:** Sumatoria finita de cosenos en progresión aritmética.
 

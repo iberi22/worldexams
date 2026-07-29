@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de preparatoria en la CDMX repasa la definición básica de logaritmo como la operación inversa de la potenciación.
 **Expected_Success:** 0.95
 
@@ -43,7 +43,7 @@ El logaritmo es una pregunta: "¿A qué exponente debo elevar la base para que m
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se presentan las restricciones de dominio de la función logarítmica en un curso de matemáticas.
 **Expected_Success:** 0.90
 
@@ -65,7 +65,7 @@ Dado que la base $b$ de un logaritmo es siempre positiva, cualquier potencia de 
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un joven en Guadalajara identifica los valores especiales de los logaritmos.
 **Expected_Success:** 0.85
 
@@ -87,7 +87,7 @@ Siguiendo la definición exponencial, buscamos un número tal que $b^y = 1$. Por
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v4
 **Bloom:** Remember
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se introduce el concepto de logaritmo natural en un estudio de procesos biológicos.
 **Expected_Success:** 0.85
 
@@ -109,7 +109,7 @@ El logaritmo natural es fundamental en el cálculo y las ciencias naturales porq
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante aplica la propiedad del producto para simplificar una expresión logarítmica.
 **Expected_Success:** 0.75
 
@@ -131,7 +131,7 @@ Los logaritmos convierten multiplicaciones en sumas. Esta propiedad es el reflej
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se utiliza la propiedad del cociente para resolver un problema de decaimiento radiactivo.
 **Expected_Success:** 0.70
 
@@ -153,7 +153,7 @@ Al igual que con la multiplicación, los logaritmos simplifican la división con
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un técnico en acústica en Monterrey utiliza la propiedad de la potencia para calcular niveles de decibeles.
 **Expected_Success:** 0.80
 
@@ -175,7 +175,7 @@ Esta es una de las propiedades más potentes, ya que permite "bajar" exponentes,
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de ingeniería utiliza una calculadora que solo tiene base 10 para hallar un logaritmo en base 2.
 **Expected_Success:** 0.65
 
@@ -197,7 +197,7 @@ La fórmula de cambio de base permite calcular cualquier logaritmo usando bases 
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se requiere simplificar una expresión que involucra una raíz cuadrada dentro de un logaritmo.
 **Expected_Success:** 0.60
 
@@ -219,7 +219,7 @@ Recordando que $\sqrt{x} = x^{1/2}$, aplicamos la propiedad de la potencia: el e
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante simplifica una suma de logaritmos con la misma base en un taller de matemáticas en Puebla.
 **Expected_Success:** 0.70
 
@@ -241,7 +241,7 @@ Usamos la propiedad del producto en sentido inverso: $\log A + \log B = \log(A \
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un analista de sistemas utiliza logaritmos en base 2 para calcular la profundidad de un árbol binario.
 **Expected_Success:** 0.50
 
@@ -263,7 +263,7 @@ Buscamos el valor de $y$ tal que $2^y = 32$. Al descomponer 32 en factores primo
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante de química calcula el pH de una solución usando logaritmos decimales.
 **Expected_Success:** 0.55
 
@@ -285,7 +285,7 @@ Los logaritmos de números menores que 1 (pero mayores que 0) son siempre negati
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador utiliza la base natural para resolver una ecuación de interés continuo.
 **Expected_Success:** 0.45
 
@@ -307,7 +307,7 @@ Por definición de funciones inversas, $f(f^{-1}(x)) = x$. Como la función expo
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante en la UNAM expande una expresión logarítmica compleja en sus componentes básicos.
 **Expected_Success:** 0.40
 
@@ -329,7 +329,7 @@ Primero aplicamos la propiedad del cociente (resta), luego la del producto (suma
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se analiza el comportamiento de una función logarítmica con base fraccionaria.
 **Expected_Success:** 0.35
 
@@ -351,7 +351,7 @@ Cuando la base es menor que 1, el logaritmo de un número mayor que 1 será nega
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante simplifica una resta de logaritmos que involucra una potencia.
 **Expected_Success:** 0.45
 
@@ -373,7 +373,7 @@ Usamos las propiedades en sentido inverso para "comprimir" la expresión. El coe
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un matemático de la BUAP demuestra un valor logarítmico que involucra raíces de la base.
 **Expected_Success:** 0.30
 
@@ -395,7 +395,7 @@ Buscamos el exponente $y$ tal que $4^y = 2$. Como $2 = \sqrt{4}$, y la raíz cua
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Se resuelve un problema complejo que requiere el uso de múltiples propiedades simultáneamente.
 **Expected_Success:** 0.25
 
@@ -417,7 +417,7 @@ Descomponemos el número 12 en factores cuyas logaritmos conocemos: $12 = 2^2 \c
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un estudiante avanzado analiza la relación entre logaritmos de diferentes bases.
 **Expected_Success:** 0.20
 
@@ -439,7 +439,7 @@ Al aplicar la fórmula de cambio de base a cada término, los numeradores de una
 
 **ID:** MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Matemático
+**EJE:** Pensamiento Matemático
 **Contexto:** Un investigador del Cinvestav estudia una identidad logarítmica compleja.
 **Expected_Success:** 0.15
 

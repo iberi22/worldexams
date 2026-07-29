@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:40:18.480Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Si la suma de dos ángulos complementarios en un plano de construcción es de $90^\\circ$ y uno de ellos mide $40^\\circ$, ¿cuánto mide el otro ángulo?",
+      "context": "Un estudiante de Chachapoyas repasa temas de tema-w10 como parte de su preparación para postular a la PUCP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. Restando el ángulo conocido de 90 grados para hallar su complemento."
+        },
+        {
+          "letter": "B",
+          "text": "$140^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo correspondería al suplemento del ángulo."
+        },
+        {
+          "letter": "C",
+          "text": "$60^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error aritmético en la sustracción."
+        },
+        {
+          "letter": "D",
+          "text": "$40^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en el despeje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos ángulos son complementarios si su suma es exactamente $90^\\circ$. Por lo tanto, el ángulo restante mide $90^\\circ - 40^\\circ = 50^\\circ$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la suma de los ángulos internos de cualquier triángulo plano en geometría euclidiana?",
+      "context": "Un estudiante de Arequipa repasa temas de tema-w10 como parte de su preparación para postular a la UNT.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$180^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los ángulos interiores de cualquier triángulo es siempre $180^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "$90^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos ángulos rectos ya suman 180 grados, ningún triángulo tiene suma 90."
+        },
+        {
+          "letter": "C",
+          "text": "$360^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 360 grados es la suma de los ángulos internos de un cuadrilátero."
+        },
+        {
+          "letter": "D",
+          "text": "$270^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que contradice el teorema de la geometría plana euclidiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el teorema fundamental de la geometría triangular euclidiana, la suma de los tres ángulos interiores de todo triángulo es equivalente a un ángulo llano ($180^\\circ$).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "En un triángulo rectángulo, los catetos miden $9$ m y $12$ m. Determine la longitud en metros de la hipotenusa.",
+      "context": "Un estudiante de Chiclayo repasa temas de tema-w10 como parte de su preparación para postular a la UNSAAC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando el teorema de Pitágoras, la raíz cuadrada de la suma de los cuadrados de los catetos resulta en el valor indicado."
+        },
+        {
+          "letter": "B",
+          "text": "$21$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede calcular sumando directamente las longitudes de los catetos."
+        },
+        {
+          "letter": "C",
+          "text": "$17$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "$14$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipotenusa debe ser estrictamente mayor que cada uno de los catetos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usando el teorema de Pitágoras: $H^2 = (9)^2 + (12)^2 = 81 + 144 = 225$. Extrayendo la raíz cuadrada obtenemos $H = 15$ m.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Un plano a escala representa un parque rectangular de 50 metros de largo por 30 metros de ancho. Si la escala utilizada es 1:1000, ¿cuál es el largo en centímetros del parque en el plano?",
+      "context": "Un estudiante de Iquitos repasa temas de tema-w10 como parte de su preparación para postular a la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cm",
+          "is_correct": true,
+          "feedback": "Correcto. 50 metros equivalen a 5000 cm. Dividiendo por la escala de 1000 obtenemos 5 cm."
+        },
+        {
+          "letter": "B",
+          "text": "50 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de escala por factor de 10."
+        },
+        {
+          "letter": "C",
+          "text": "0.5 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al convertir metros a centímetros antes de aplicar la escala."
+        },
+        {
+          "letter": "D",
+          "text": "500 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría una escala de reducción mucho menor de lo especificado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Convertimos la distancia real a centímetros: $50 \\text{ m} = 5000 \\text{ cm}$. Aplicando la escala de reducción 1:1000, dividimos entre 1000: $5000 \\text{ cm} / 1000 = 5 \\text{ cm}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "En una circunferencia de radio $4$ m, se tiene un sector circular cuyo ángulo central mide $60^\\circ$. Determine el área en metros cuadrados de este sector circular.",
+      "context": "Un estudiante de Cajamarca repasa temas de tema-w10 como parte de su preparación para postular a la UNPRG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.67\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. El área del sector circular es la fracción correspondiente del área total."
+        },
+        {
+          "letter": "B",
+          "text": "$5.33\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al usar la fórmula del sector o duplicar el resultado."
+        },
+        {
+          "letter": "C",
+          "text": "$1.33\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir por el radio o ángulo central."
+        },
+        {
+          "letter": "D",
+          "text": "$16\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al área del círculo completo, no al sector."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de un sector circular es $A = \\frac{\\theta}{360^\\circ} \\pi r^2$. Con $\\theta = 60^\\circ$ y $r = 4$, tenemos $A = \\frac{60}{360} \\pi (4)^2 = \\frac{1}{6} \\pi (16) = 2.67\\pi$ m$^2$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Un trapecio tiene bases de longitud $15$ m and $9$ m, con una altura de $6$ m. Determine la superficie del trapecio en metros cuadrados.",
+      "context": "Un estudiante de Huaraz repasa temas de tema-w10 como parte de su preparación para postular a la UNSCH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$72.0$",
+          "is_correct": true,
+          "feedback": "Correcto. Calculando la semisuma de las bases multiplicada por la altura."
+        },
+        {
+          "letter": "B",
+          "text": "$82.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar las longitudes de las bases."
+        },
+        {
+          "letter": "C",
+          "text": "$67.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la multiplicación de los factores del trapecio."
+        },
+        {
+          "letter": "D",
+          "text": "$90$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó como si fuera un rectángulo con una sola base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La superficie de un trapecio es $S = \\frac{B + b}{2} \\cdot h$. Sustituyendo los valores: $S = \\frac{15 + 9}{2} \\cdot 6 = 12 \\cdot 6 = 72.0$ m$^2$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Determine el perímetro en metros de un paralelogramo cuyos lados adyacentes miden $8$ m y $12$ m.",
+      "context": "Un estudiante de Tarapoto repasa temas de tema-w10 como parte de su preparación para postular a la UNMSM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40$ m",
+          "is_correct": true,
+          "feedback": "Correcto. El perímetro de un paralelogramo es la suma de sus cuatro lados, es decir, dos veces la suma de sus lados adyacentes."
+        },
+        {
+          "letter": "B",
+          "text": "$20.0$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se sumó la longitud de dos lados adyacentes."
+        },
+        {
+          "letter": "C",
+          "text": "$44$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de suma de los términos adyacentes."
+        },
+        {
+          "letter": "D",
+          "text": "$38$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético en las multiplicaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El perímetro se calcula sumando el duplo de la longitud de cada uno de sus lados desiguales: $P = 2(8 + 12) = 40$ m.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Si un polígono convexo regular tiene $6$ lados, determine la suma de sus ángulos internos en grados sexagesimales.",
+      "context": "Un estudiante de Moquegua repasa temas de tema-w10 como parte de su preparación para postular a la UNSA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$720^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los ángulos interiores de un polígono de n lados cumple la relación estándar."
+        },
+        {
+          "letter": "B",
+          "text": "$900^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un factor de lado adicional en la fórmula."
+        },
+        {
+          "letter": "C",
+          "text": "$540^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó un factor de lado de la expresión de polígonos regulares."
+        },
+        {
+          "letter": "D",
+          "text": "$1080^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aplicó el descuento de los dos lados iniciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula para la suma de ángulos internos es $S = (n - 2) \\cdot 180^\\circ$. Para $n = 6$ lados, la suma es $(6 - 2) \\cdot 180^\\circ = 720^\\circ$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Si un poste vertical de $7$ metros de altura proyecta una sombra de $8$ metros en el suelo, ¿cuál es la longitud en metros de la sombra que proyectará en ese mismo instante un edificio cercano de $21$ metros de altura?",
+      "context": "Un estudiante de Cusco repasa temas de tema-w10 como parte de su preparación para postular a la UNALM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación altura/sombra se mantiene constante."
+        },
+        {
+          "letter": "B",
+          "text": "$29$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Proporcionalidad incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "$19$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la razón de semejanza entre los cuerpos."
+        },
+        {
+          "letter": "D",
+          "text": "$21$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la longitud de la sombra con la altura del edificio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los triángulos formados por la altura de los objetos y sus sombras son semejantes. Planteamos la proporción: sombra = 3 veces la sombra del poste.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "En una maqueta de un centro cívico, un muro mide 40 cm. Si la escala es de 1:50, ¿cuál es la longitud real del muro en metros?",
+      "context": "Un estudiante de Piura repasa temas de tema-w10 como parte de su preparación para postular a la Udep.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 m",
+          "is_correct": true,
+          "feedback": "Correcto. 40 cm multiplicados por 50 resulta en 2000 cm, que equivale exactamente a 20 metros."
+        },
+        {
+          "letter": "B",
+          "text": "2 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de conversión de unidades por un factor de 10."
+        },
+        {
+          "letter": "C",
+          "text": "200 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede por mucho el valor real de escala de reducción."
+        },
+        {
+          "letter": "D",
+          "text": "40 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede mantener el mismo valor numérico de centímetros a metros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicamos la medida del plano por el factor de escala: $40 \\text{ cm} \\times 50 = 2000 \\text{ cm}$. Convertimos a metros dividiendo entre 100: $2000 / 100 = 20 \\text{ m}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Dos segmentos de recta $AB$ y $CD$ son paralelos. Una secante cruza a ambos de manera que un ángulo alterno interno mide $30^\\circ$. ¿Cuánto mide su correspondiente ángulo conjugado interno en grados?",
+      "context": "Un estudiante de Puno repasa temas de tema-w10 como parte de su preparación para postular a la PUCP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$150^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. Los ángulos conjugados internos entre paralelas son suplementarios, por lo que su suma es 180 grados."
+        },
+        {
+          "letter": "B",
+          "text": "$30^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor correspondería al ángulo alterno interno o correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$60^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó como si fueran complementarios en lugar de suplementarios."
+        },
+        {
+          "letter": "D",
+          "text": "$210^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al operar la diferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ángulos conjugados internos formados por rectas paralelas cortadas por una secante suman siempre $180^\\circ$. Por lo tanto, el ángulo conjugado mide $180^\\circ - 30^\\circ = 150^\\circ$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Un triángulo semejante a otro tiene sus lados multiplicados por un factor de escala $k = 3$. ¿Por qué factor se multiplicará el área del nuevo triángulo?",
+      "context": "Un estudiante de Ica repasa temas de tema-w10 como parte de su preparación para postular a la UNT.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$",
+          "is_correct": true,
+          "feedback": "Correcto. La razón de las áreas de dos figuras semejantes es igual al cuadrado de la razón de semejanza, es decir, 9."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón de las áreas no es lineal respecto al factor de escala de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplica por el doble del factor de escala."
+        },
+        {
+          "letter": "D",
+          "text": "$27$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este factor de escala cúbico correspondería al volumen de sólidos tridimensionales semejantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La relación entre las superficies de dos polígonos semejantes es igual al cuadrado de la razón de semejanza de sus longitudes homólogas: Razón de Áreas es 9.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Determine la longitud del segmento perpendicular trazado desde el centro de una circunferencia de radio $20$ m hasta una cuerda de longitud $32$ m.",
+      "context": "Un estudiante de Ayacucho repasa temas de tema-w10 como parte de su preparación para postular a la UNSAAC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$ m",
+          "is_correct": true,
+          "feedback": "Correcto. El radio perpendicular biseca la cuerda formándose un triángulo rectángulo de cateto 4a e hipotenusa 5a, lo que da un cateto restante de 3a."
+        },
+        {
+          "letter": "B",
+          "text": "$16$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la mitad de la longitud de la cuerda."
+        },
+        {
+          "letter": "C",
+          "text": "$20$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el radio de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$8$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el teorema de Pitágoras para este triángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al trazar la perpendicular desde el centro, esta corta a la cuerda en su punto medio, midiendo cada mitad $16$ m. Se forma un triángulo rectángulo con la hipotenusa igual al radio $20$ m y un cateto de $16$ m. Por Pitágoras: d = 12 m.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.44,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Un rombo tiene diagonales que miden $12$ m y $16$ m. Determine la longitud del lado del rombo en metros.",
+      "context": "Un estudiante de Pucallpa repasa temas de tema-w10 como parte de su preparación para postular a la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Las diagonales se cruzan perpendicularmente en sus puntos medios, formándose un triángulo rectángulo de catetos 3a y 4a, dando un lado de 5a."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una dimensión del lado no puede ser igual a una de las diagonales en este caso."
+        },
+        {
+          "letter": "C",
+          "text": "$16$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede la longitud teórica permitida para el lado."
+        },
+        {
+          "letter": "D",
+          "text": "$14$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la hipotenusa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las diagonales de un rombo se cortan perpendicularmente en sus puntos medios, dividiéndolo en cuatro triángulos rectángulos. Sus catetos son la mitad de las diagonales: $6$ m y $8$ m. Aplicando Pitágoras para el lado: L = 10 m.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.41,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Resuelva para la longitud $x$ en el teorema de Tales sabiendo que dos paralelas cortan a dos secantes determinando segmentos de longitud $3$ cm y $5$ cm en una, y $3$ cm y $x$ cm en la otra secante respectiva.",
+      "context": "Un estudiante de Lima repasa temas de tema-w10 como parte de su preparación para postular a la UNPRG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.00$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. Planteamos la proporción de Tales: 3/5 = a/x y despejamos x."
+        },
+        {
+          "letter": "B",
+          "text": "$6.00$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al plantear la igualdad de las fracciones."
+        },
+        {
+          "letter": "C",
+          "text": "$4.00$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético."
+        },
+        {
+          "letter": "D",
+          "text": "$1.80$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió la relación de proporcionalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el teorema de Tales de Mileto, los segmentos correspondientes son proporcionales: x = 5.00 cm.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Halle la distancia entre dos puntos $P_1(1, 2)$ y $P_2(13, 18)$ en el plano cartesiano $R^2$.",
+      "context": "Un estudiante de Trujillo repasa temas de tema-w10 como parte de su preparación para postular a la UNSCH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. Calculamos la raíz de la suma de diferencias de coordenadas al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$28$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron directamente las diferencias de coordenadas de los ejes."
+        },
+        {
+          "letter": "C",
+          "text": "$22$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar los cuadrados parciales."
+        },
+        {
+          "letter": "D",
+          "text": "$19$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo de la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia es la raíz cuadrada de la suma de los cuadrados de las diferencias, resultando en 20 unidades.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Si se sabe que en un triángulo rectángulo los catetos miden 2 y 6, determine la proyección del cateto menor sobre la hipotenusa si $a = 2$ y $b = 6$.",
+      "context": "Un estudiante de Huancayo repasa temas de tema-w10 como parte de su preparación para postular a la UNMSM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.63$ metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por relaciones métricas, el cuadrado de un cateto es igual al producto de la hipotenusa por su proyección."
+        },
+        {
+          "letter": "B",
+          "text": "$1.63$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al operar el Teorema del Cateto."
+        },
+        {
+          "letter": "C",
+          "text": "$-0.37$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los factores de proporcionalidad."
+        },
+        {
+          "letter": "D",
+          "text": "$4.00$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividió entre el valor de la hipotenusa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipotenusa mide 6.32 m. Por relaciones métricas en el triángulo rectángulo, se cumple que la proyección es 0.63 m.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Halle las coordenadas del punto medio del segmento de recta cuyos extremos son $A(3, 3)$ y $B(9, 15)$.",
+      "context": "Un estudiante de Chimbote repasa temas de tema-w10 como parte de su preparación para postular a la UNSA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(6.0, 9.0)$",
+          "is_correct": true,
+          "feedback": "Correcto. Las coordenadas del punto medio son la semisuma de las coordenadas de los extremos."
+        },
+        {
+          "letter": "B",
+          "text": "$(7.0, 9.0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la semisuma del eje horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "$(6.0, 8.0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en el promedio del eje vertical."
+        },
+        {
+          "letter": "D",
+          "text": "$(9, 15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al punto extremo B, no al punto medio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto medio es (6.0, 9.0) por promedio directo de las coordenadas de los extremos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.27,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Un triángulo tiene lados que miden $12$ m, $16$ m y $20$ m. Determine el radio de la circunferencia inscrita en dicho triángulo (inradio).",
+      "context": "Un estudiante de Tacna repasa temas de tema-w10 como parte de su preparación para postular a la UNALM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Por el teorema de Poncelet para triángulos rectángulos, la suma de los catetos es igual a la hipotenusa más dos veces el inradio."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la relación de Poncelet."
+        },
+        {
+          "letter": "C",
+          "text": "$8$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde al diámetro del inradio, no al inradio."
+        },
+        {
+          "letter": "D",
+          "text": "$2.0$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimación por mala división de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El triángulo de lados es rectángulo. Por el Teorema de Poncelet el inradio mide 4 m.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.23,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Si un triángulo equilátero tiene un lado que mide $4$ m, calcule la longitud de su altura en metros.",
+      "context": "Un estudiante de Huanuco repasa temas de tema-w10 como parte de su preparación para postular a la Udep.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\sqrt{3}$ m",
+          "is_correct": true,
+          "feedback": "Correcto. La altura de un triángulo equilátero de lado L es la mitad del lado por la raíz de 3, dando el valor exacto."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la mitad del lado, no a la altura vertical."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\sqrt{3}$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al duplicar el factor de proporcionalidad geométrico."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\sqrt{2}$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la constante de la diagonal del cuadrado con la de la altura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La altura mide la mitad del lado por la raíz de 3, lo que resulta en la altura de 2 veces la raíz de 3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

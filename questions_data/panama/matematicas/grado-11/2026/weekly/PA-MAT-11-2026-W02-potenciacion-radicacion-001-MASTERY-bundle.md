@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante en un bachillerato técnico en David revisa las leyes fundamentales de los exponentes para un examen de ingreso universitario.
 
@@ -41,7 +41,7 @@ Identificación y aplicación de la ley de producto de potencias con la misma ba
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un carpintero en Chitré necesita calcular el área de un tablero cuadrado cuyo lado está expresado como una potencia de 2.
 
@@ -62,7 +62,7 @@ Comprensión de la ley de potencia de una potencia y su aplicación en el cálcu
 ## Question 3 [D4]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Durante una clase en la escuela secundaria Pedro Pablo Sánchez de La Chorrera, se discute el significado de los exponentes negativos.
 
@@ -83,7 +83,7 @@ Definición y manejo de exponentes negativos para la conversión de potencias en
 ## Question 4 [D4]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un topógrafo panameño calcula la raíz de una medida para ajustar un plano de construcción.
 
@@ -104,7 +104,7 @@ Conversión entre la notación de radicales y la notación de potencias con expo
 ## Question 5 [D5]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un biólogo en el Parque Nacional Coiba estudia el crecimiento de una población de bacterias que se triplica cada hora.
 
@@ -125,7 +125,7 @@ Aplicación de las leyes de los exponentes en modelos de crecimiento exponencial
 ## Question 6 [D5]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante de ingeniería en la UTP simplifica una expresión compleja para un problema de estática.
 
@@ -146,7 +146,7 @@ Ejecución de operaciones combinadas con potencias, incluyendo potencia de un pr
 ## Question 7 [D5]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** En un taller de orfebrería en Herrera, se calcula la diagonal de una pieza cuadrada simplificando radicales.
 
@@ -167,7 +167,7 @@ Procedimiento de simplificación de radicales mediante la extracción de factore
 ## Question 8 [D6]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un agrónomo en Los Santos mide el volumen de un depósito de agua esférico, lo cual requiere el uso de potencias fraccionarias.
 
@@ -188,7 +188,7 @@ Evaluación de potencias con exponentes fraccionarios combinando radicación y p
 ## Question 9 [D6]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un analista financiero en la Ciudad de Panamá utiliza la racionalización para simplificar fórmulas de tasas de interés.
 
@@ -209,7 +209,7 @@ Aplicación de la técnica de racionalización de denominadores con raíces cuad
 ## Question 10 [D6]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v10
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Durante una olimpiada de matemáticas en Santiago de Veraguas, se presenta un reto sobre la suma de radicales.
 
@@ -230,7 +230,7 @@ Adición de radicales semejantes mediante su simplificación previa a una base c
 ## Question 11 [D7]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero de telecomunicaciones calcula la pérdida de señal en una antena cerca del Canal de Panamá usando potencias negativas.
 
@@ -251,7 +251,7 @@ Simplificación de expresiones algebraicas complejas utilizando múltiples leyes
 ## Question 12 [D7]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** En un estudio metalúrgico en una mina en Donoso, se requiere racionalizar una fracción con raíz cúbica.
 
@@ -272,7 +272,7 @@ Comprensión del proceso de racionalización para raíces de índice superior a 
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante de física analiza la relación entre la velocidad de una partícula y su energía, involucrando productos de raíces.
 
@@ -293,7 +293,7 @@ Multiplicación de radicales con diferentes índices mediante la conversión a e
 ## Question 14 [D8]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v14
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un ingeniero eléctrico en la represa de Bayano resuelve una ecuación que involucra la raíz de una raíz.
 
@@ -314,7 +314,7 @@ Simplificación de radicales anidados (raíz de una raíz) y aplicación de leye
 ## Question 15 [D8]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un analista de sistemas en el Biomuseo verifica una propiedad de los números reales para un simulador de ecosistemas.
 
@@ -335,7 +335,7 @@ Análisis de las propiedades de los radicales con índices pares e impares y su 
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un químico en un laboratorio de Aduanas en Paso Canoas calcula la concentración de una sustancia usando sumas de potencias.
 
@@ -356,7 +356,7 @@ Evaluación y suma de potencias con exponentes fraccionarios que resultan en nú
 ## Question 17 [D9]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un economista analiza el interés compuesto continuo para una deuda soberana de Panamá, lo que involucra expresiones con el número $e$.
 
@@ -377,7 +377,7 @@ Evaluación de la capacidad para manipular ecuaciones exponenciales y comprender
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un físico nuclear en un centro de investigación en Gamboa estudia la desintegración radiactiva usando leyes de exponentes.
 
@@ -398,7 +398,7 @@ Simplificación de expresiones con radicales de índice variable n y potencias d
 ## Question 19 [D10]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** Se plantea un reto de alta complejidad en el Concurso Nacional de Matemática de Panamá sobre ecuaciones exponenciales.
 
@@ -419,7 +419,7 @@ Resolución de ecuaciones exponenciales mediante la aplicación de la propiedad 
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W02-potenciacion-radicacion-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Un experto en criptografía en el Hub Digital de Panamá utiliza propiedades avanzadas de radicales para un protocolo.
 

@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.90
 **Contexto:** Un estudiante repasa las características de la función lineal para su examen de graduación.
 
@@ -41,7 +41,7 @@ Identificación de la representación algebraica estándar de la función lineal
 ## Question 2 [D3]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** En una clase en David, se discute el significado geométrico de los parámetros de una parábola.
 
@@ -62,7 +62,7 @@ Identificación de los elementos clave de la gráfica de una función cuadrátic
 ## Question 3 [D3]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.85
 **Contexto:** Un mensajero en Colón analiza la pendiente de una calle representada por una función lineal.
 
@@ -83,7 +83,7 @@ Interpretación geométrica del valor de la pendiente en funciones lineales.
 ## Question 4 [D3]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un comerciante en Santiago utiliza una función para calcular ingresos basados en unidades vendidas.
 
@@ -104,7 +104,7 @@ Evaluación de funciones lineales en contextos de aplicación comercial y financ
 ## Question 5 [D4]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.80
 **Contexto:** Un estudiante en Penonomé analiza el cambio de concavidad según el coeficiente principal.
 
@@ -125,7 +125,7 @@ Relación entre el signo del coeficiente principal y la concavidad de la funció
 ## Question 6 [D4]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un arquitecto en David calcula la pendiente de una rampa que conecta dos puntos específicos.
 
@@ -146,7 +146,7 @@ Cálculo de la pendiente de una función lineal a partir de dos puntos conocidos
 ## Question 7 [D4]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.75
 **Contexto:** Un ingeniero hidráulico determina el punto más bajo de una sección de canal parabólica.
 
@@ -167,7 +167,7 @@ Cálculo de la coordenada del vértice en una función cuadrática mediante su f
 ## Question 8 [D5]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.70
 **Contexto:** Un técnico en refrigeración encuentra los interceptos para calibrar un sensor de temperatura.
 
@@ -188,7 +188,7 @@ Determinación de las raíces de una función cuadrática mediante la técnica d
 ## Question 9 [D5]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un analista en la Ciudad del Saber utiliza la forma canónica para describir la trayectoria de una señal.
 
@@ -209,7 +209,7 @@ Identificación de los elementos del vértice a partir de la forma canónica de 
 ## Question 10 [D5]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.65
 **Contexto:** Un estudiante en Los Santos determina la ecuación de una recta paralela a una vía principal.
 
@@ -230,7 +230,7 @@ Construcción de ecuaciones lineales basándose en condiciones de paralelismo en
 ## Question 11 [D6]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.60
 **Contexto:** Un ingeniero de tránsito modela la velocidad mediante una función cuadrática y usa el discriminante.
 
@@ -251,7 +251,7 @@ Uso del discriminante para determinar la naturaleza y cantidad de las raíces re
 ## Question 12 [D6]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un arquitecto analiza la intersección entre una pared recta y un arco parabólico decorativo.
 
@@ -272,7 +272,7 @@ Resolución de sistemas mixtos lineal-cuadráticos para hallar puntos de interse
 ## Question 13 [D7]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.55
 **Contexto:** Un experto financiero proyecta la depreciación lineal de un equipo portuario valorado en balboas.
 
@@ -293,7 +293,7 @@ Modelado de problemas de depreciación mediante funciones lineales con pendiente
 ## Question 14 [D7]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un científico analiza el crecimiento de una planta en Gamboa mediante un modelo cuadrático.
 
@@ -314,7 +314,7 @@ Aplicación del concepto de vértice para la optimización de valores máximos e
 ## Question 15 [D7]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.45
 **Contexto:** Un geómetra en Chiriquí determina la ecuación de una recta perpendicular a una cerca perimetral.
 
@@ -335,7 +335,7 @@ Relación analítica entre las pendientes de rectas perpendiculares en el plano 
 ## Question 16 [D8]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.50
 **Contexto:** Un estudiante encuentra la ecuación de una parábola que pasa por el origen y un punto dado.
 
@@ -356,7 +356,7 @@ Determinación de coeficientes de una función cuadrática a partir de informaci
 ## Question 17 [D8]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.40
 **Contexto:** Un economista analiza el punto de equilibrio donde los ingresos igualan a los costos variables.
 
@@ -377,7 +377,7 @@ Resolución de problemas de optimización económica mediante el uso de modelos 
 ## Question 18 [D9]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.35
 **Contexto:** Un físico modela la energía cinética y necesita encontrar el rango de velocidades negativas.
 
@@ -398,7 +398,7 @@ Análisis de signos de funciones cuadráticas basándose en su representación e
 ## Question 19 [D9]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.30
 **Contexto:** Reto de alta complejidad sobre una familia de parábolas tangentes al eje horizontal.
 
@@ -419,7 +419,7 @@ Análisis de la posición del vértice basándose en los parámetros cuadrático
 ## Question 20 [D10]
 **ID:** PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Razonamiento Cuantitativo
+**EJE:** Razonamiento Cuantitativo
 **Expected_Success:** 0.25
 **Contexto:** Un experto en balística modela la altura de un proyectil disparado desde una plataforma.
 

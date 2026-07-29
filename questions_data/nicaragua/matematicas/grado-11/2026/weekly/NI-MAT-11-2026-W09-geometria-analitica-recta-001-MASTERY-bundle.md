@@ -20,7 +20,7 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante de 11º grado en Nicaragua repasa la geometría de René Descartes.
 
@@ -39,7 +39,7 @@ La distancia entre dos puntos es la longitud del segmento que los une. Se calcul
 ## Question 2 [D3-D4]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.82
 **Contexto:** Un mapa de una zona urbana en Estelí utiliza un sistema de coordenadas.
 
@@ -58,7 +58,7 @@ El punto medio es el promedio aritmético de las coordenadas de los extremos. Ge
 ## Question 3 [D3-D4]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.80
 **Contexto:** Un análisis de la inclinación de una carretera en las montañas de Jinotega.
 
@@ -77,7 +77,7 @@ La pendiente cuantifica la inclinación de la recta. Un valor positivo indica as
 ## Question 4 [D3-D4]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.78
 **Contexto:** Diferentes formas de escribir la ecuación de una línea.
 
@@ -96,7 +96,7 @@ La forma punto-pendiente es especialmente útil cuando se conocen las coordenada
 ## Question 5 [D5-D6]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.75
 **Contexto:** La planificación de calles paralelas en un nuevo barrio de Managua.
 
@@ -115,7 +115,7 @@ Dos rectas son paralelas si y solo si tienen la misma pendiente y diferentes int
 ## Question 6 [D5-D6]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.72
 **Contexto:** El diseño de dos avenidas que se cruzan en ángulo recto (90°) cerca del Mercado Oriental.
 
@@ -134,7 +134,7 @@ Para que dos rectas formen un ángulo de 90°, el producto de sus pendientes deb
 ## Question 7 [D5-D6]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.68
 **Contexto:** Hallar el intercepto con el eje $y$ de una recta.
 
@@ -153,7 +153,7 @@ Para encontrar el intercepto con el eje $y$, sustituimos $x=0$ en la ecuación y
 ## Question 8 [D5-D6]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.65
 **Contexto:** Determinación de la pendiente a partir de la forma general.
 
@@ -172,7 +172,7 @@ En la forma general $Ax + By + C = 0$, la pendiente es siempre $-A/B$. En este c
 ## Question 9 [D5-D6]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.63
 **Contexto:** Un cálculo de la ecuación de una recta que pasa por un punto y es paralela a otra.
 
@@ -191,7 +191,7 @@ Rectas paralelas comparten la misma pendiente. Usamos la forma $y = mx + b$ sust
 ## Question 10 [D5-D6]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.60
 **Contexto:** Un problema de geometría plana sobre colinealidad.
 
@@ -210,7 +210,7 @@ Tres puntos son colineales si la pendiente calculada con cualquier par de ellos 
 ## Question 11 [D7-D8]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.58
 **Contexto:** Obtención de la ecuación a partir de dos puntos.
 
@@ -229,7 +229,7 @@ Primero calculamos la pendiente y luego usamos la forma punto-pendiente con cual
 ## Question 12 [D7-D8]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.55
 **Contexto:** Una recta perpendicular que pasa por un punto dado.
 
@@ -248,7 +248,7 @@ La pendiente de la recta perpendicular es el recíproco negativo de la pendiente
 ## Question 13 [D7-D8]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.52
 **Contexto:** Un análisis de la forma simétrica de la recta.
 
@@ -267,7 +267,7 @@ La forma simétrica $x/a + y/b = 1$ permite ver directamente dónde cruza la rec
 ## Question 14 [D7-D8]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.50
 **Contexto:** Distancia de un punto a una recta en un diseño arquitectónico.
 
@@ -286,7 +286,7 @@ La distancia de un punto a una recta se calcula mediante el valor absoluto de la
 ## Question 15 [D7-D8]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.48
 **Contexto:** Ángulo de inclinación de la recta.
 
@@ -305,7 +305,7 @@ La pendiente de una recta es igual a la tangente del ángulo que forma con el ej
 ## Question 16 [D7-D8]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.45
 **Contexto:** Un sistema de ecuaciones representado gráficamente por dos rectas.
 
@@ -324,7 +324,7 @@ El punto de intersección es el conjunto de coordenadas que satisfacen ambas ecu
 ## Question 17 [D9-D10]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.40
 **Contexto:** Mediatriz de un segmento en el plano.
 
@@ -343,7 +343,7 @@ La mediatriz es la recta perpendicular a un segmento que pasa por su punto medio
 ## Question 18 [D9-D10]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.38
 **Contexto:** Área de un triángulo definido por interceptos.
 
@@ -362,7 +362,7 @@ El triángulo es rectángulo con vértices en el origen y los dos interceptos de
 ## Question 19 [D9-D10]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Variacional
+**EJE:** Pensamiento Variacional
 **Expected_Success:** 0.35
 **Contexto:** Una propiedad de las pendientes y ángulos.
 
@@ -381,7 +381,7 @@ El ángulo entre el eje $x$ y una recta que pasa por el origen es simplemente el
 ## Question 20 [D9-D10]
 **ID:** NI-MAT-11-2026-W09-geometria-analitica-recta-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Pensamiento Espacial
+**EJE:** Pensamiento Espacial
 **Expected_Success:** 0.32
 **Contexto:** Un reto sobre la distancia entre rectas paralelas.
 

@@ -26,7 +26,7 @@ Este bundle contiene 20 preguntas sobre **Funciones Polinomiales**, diseñadas p
 ## Question 1 [D3-D4]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Definición de función polinomial
+**EJE:** Definición de función polinomial
 **Expected_Success:** 0.90
 **Contexto:** En una preparatoria de Campeche, se introducen las funciones de grado superior.
 
@@ -47,7 +47,7 @@ Una función polinomial es una expresión de la forma $P(x) = a_n x^n + a_{n-1} 
 ## Question 2 [D3-D4]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Grado de un polinomio
+**EJE:** Grado de un polinomio
 **Expected_Success:** 0.85
 **Contexto:** Un estudiante en la Ciudad de México está clasificando funciones en su cuaderno de apuntes.
 
@@ -68,7 +68,7 @@ El grado de un polinomio es el mayor exponente de la variable $x$. El coeficient
 ## Question 3 [D3-D4]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v3
 **Bloom:** Remember
-**ICFES:** Término independiente
+**EJE:** Término independiente
 **Expected_Success:** 0.88
 **Contexto:** Se analiza el comportamiento de una función de costos a largo plazo representada por un polinomio de tercer grado.
 
@@ -89,7 +89,7 @@ El término independiente es el valor de $P(0)$. Por lo tanto, indica el punto $
 ## Question 4 [D3-D4]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**ICFES:** Comportamiento final (End behavior)
+**EJE:** Comportamiento final (End behavior)
 **Expected_Success:** 0.82
 **Contexto:** Un estudiante observa que la gráfica de $f(x) = x^3$ sube hacia la derecha y baja hacia la izquierda.
 
@@ -110,7 +110,7 @@ El comportamiento final depende del término de mayor grado. Si el grado es impa
 ## Question 5 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Evaluación de polinomios
+**EJE:** Evaluación de polinomios
 **Expected_Success:** 0.75
 **Contexto:** Un laboratorio en Tabasco utiliza la función $P(t) = t^3 - 4t^2 + 6$ para medir la presión de un gas.
 
@@ -131,7 +131,7 @@ Evaluar un polinomio consiste en sustituir la variable por el valor indicado y r
 ## Question 6 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** División sintética / Teorema del residuo
+**EJE:** División sintética / Teorema del residuo
 **Expected_Success:** 0.72
 **Contexto:** Se desea saber si $(x - 2)$ es un factor del polinomio $P(x) = x^3 - 5x + 2$ utilizando el Teorema del Residuo.
 
@@ -152,7 +152,7 @@ Según el Teorema del Residuo, el resto de dividir $P(x)$ entre $(x - c)$ es igu
 ## Question 7 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**ICFES:** Identificación de raíces por inspección
+**EJE:** Identificación de raíces por inspección
 **Expected_Success:** 0.70
 **Contexto:** Un estudiante observa la función factorizada $f(x) = (x + 3)(x - 1)(x - 4)$.
 
@@ -173,7 +173,7 @@ En una función escrita en forma factorizada $a(x-r_1)(x-r_2)\dots$, las raíces
 ## Question 8 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v8
 **Bloom:** Understand
-**ICFES:** Multiplicidad de las raíces
+**EJE:** Multiplicidad de las raíces
 **Expected_Success:** 0.78
 **Contexto:** En una gráfica se observa que la curva "rebota" en el eje X en el punto $x = 2$ sin cruzarlo.
 
@@ -194,7 +194,7 @@ La multiplicidad de una raíz determina el comportamiento local: si es impar, la
 ## Question 9 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**ICFES:** Determinación del grado a partir de raíces
+**EJE:** Determinación del grado a partir de raíces
 **Expected_Success:** 0.74
 **Contexto:** Un profesor en Coahuila dibuja una gráfica que cruza el eje X en 4 puntos diferentes.
 
@@ -215,7 +215,7 @@ Por el Teorema Fundamental del Álgebra, un polinomio de grado $n$ tiene exactam
 ## Question 10 [D5-D6]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**ICFES:** Suma y resta de polinomios
+**EJE:** Suma y resta de polinomios
 **Expected_Success:** 0.68
 **Contexto:** Se tienen dos funciones que representan ingresos en dos sucursales: $f(x) = 2x^3 - 5x + 10$ y $g(x) = x^3 + 4x^2 - 2$.
 
@@ -236,7 +236,7 @@ Para sumar polinomios se agrupan los términos que tienen el mismo grado (térmi
 ## Question 11 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**ICFES:** División de polinomios (Larga)
+**EJE:** División de polinomios (Larga)
 **Expected_Success:** 0.62
 **Contexto:** En un examen de admisión, se pide dividir $x^3 - 2x^2 + 0x + 5$ entre $x - 1$.
 
@@ -257,7 +257,7 @@ La división de polinomios puede realizarse mediante el algoritmo de división l
 ## Question 12 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**ICFES:** Identificación de la gráfica por ceros y signo
+**EJE:** Identificación de la gráfica por ceros y signo
 **Expected_Success:** 0.58
 **Contexto:** Un analista observa que una función polinomial es negativa entre sus raíces $x = -2$ y $x = 3$, y positiva fuera de ese intervalo.
 
@@ -278,7 +278,7 @@ Para construir un polinomio a partir de sus raíces $r_1, r_2$, usamos la forma 
 ## Question 13 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**ICFES:** Raíces complejas conjugadas
+**EJE:** Raíces complejas conjugadas
 **Expected_Success:** 0.55
 **Contexto:** Un estudiante de preparatoria en Sonora encuentra que una raíz de un polinomio con coeficientes reales es \$3 + 2i$.
 
@@ -299,7 +299,7 @@ En polinomios con coeficientes reales, las raíces complejas siempre aparecen en
 ## Question 14 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**ICFES:** Multiplicación de polinomios
+**EJE:** Multiplicación de polinomios
 **Expected_Success:** 0.60
 **Contexto:** Un área rectangular tiene un largo de $(x^2 + 3)$ y un ancho de $(2x - 5)$.
 
@@ -320,7 +320,7 @@ La multiplicación de polinomios requiere aplicar la propiedad distributiva: cad
 ## Question 15 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**ICFES:** Máximos y mínimos locales (Concepto)
+**EJE:** Máximos y mínimos locales (Concepto)
 **Expected_Success:** 0.56
 **Contexto:** Se analiza la gráfica de un polinomio de grado 4 que parece una letra "W".
 
@@ -341,7 +341,7 @@ Visualmente, cada "vuelta" o cambio de dirección consume un grado de la funció
 ## Question 16 [D7-D8]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**ICFES:** Teorema fundamental del álgebra
+**EJE:** Teorema fundamental del álgebra
 **Expected_Success:** 0.52
 **Contexto:** Un matemático en la UNAM afirma que un polinomio de grado 6 tiene exactamente 6 raíces en el campo de los números complejos.
 
@@ -362,7 +362,7 @@ El grado de un polinomio define el número total de soluciones que posee la ecua
 ## Question 17 [D9-D10]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**ICFES:** Modelación de volumen máximo
+**EJE:** Modelación de volumen máximo
 **Expected_Success:** 0.45
 **Contexto:** Se diseña una caja sin tapa a partir de una cartulina de 10x10 cm, cortando cuadrados de lado $x$ en las esquinas. La función de volumen es $V(x) = x(10 - 2x)^2$.
 
@@ -383,7 +383,7 @@ En problemas de optimización física, el dominio está restringido por las dime
 ## Question 18 [D9-D10]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**ICFES:** Reconstrucción de polinomios complejos
+**EJE:** Reconstrucción de polinomios complejos
 **Expected_Success:** 0.42
 **Contexto:** Un ingeniero electrónico en Guadalajara requiere un polinomio que tenga raíces en $x = 0$ y $x = 2 + i$.
 
@@ -404,7 +404,7 @@ Para obtener un polinomio con coeficientes reales a partir de raíces complejas,
 ## Question 19 [D9-D10]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**ICFES:** Regla de los signos de Descartes
+**EJE:** Regla de los signos de Descartes
 **Expected_Success:** 0.40
 **Contexto:** Se analiza el polinomio $P(x) = x^4 - 3x^3 + 2x^2 + x - 5$ para estimar el número de raíces positivas.
 
@@ -425,7 +425,7 @@ La Regla de Descartes establece que el número de raíces positivas es igual al 
 ## Question 20 [D9-D10]
 **ID:** MX-MAT-11-2026-W09-funciones-funcion-polinomial-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**ICFES:** Análisis de gráficas complejas
+**EJE:** Análisis de gráficas complejas
 **Expected_Success:** 0.38
 **Contexto:** Se presenta una función polinomial de grado 5 con coeficiente principal negativo.
 
