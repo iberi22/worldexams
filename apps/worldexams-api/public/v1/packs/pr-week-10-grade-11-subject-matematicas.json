@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T02:17:15.700Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -4x + 8$$",
+      "context": "Un ingeniero en San Juan analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(2, 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-2, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(2, -4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(4, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-4) }{ 2(1) } = 2$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(2) = (2)^2 + -4(2) + 8 = 4 + -8 + 8 = 4$$. Por tanto, el vértice se encuentra en $(2, 4)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -6x + 14$$",
+      "context": "Un ingeniero en Ponce analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(3, 5)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 3$ y evaluando la función $f(3) = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-3, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(3, -5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(5, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-6) }{ 2(1) } = 3$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(3) = (3)^2 + -6(3) + 14 = 9 + -18 + 14 = 5$$. Por tanto, el vértice se encuentra en $(3, 5)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -8x + 22$$",
+      "context": "Un ingeniero en Bayamón analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(4, 6)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-4, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(4, -6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(6, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-8) }{ 2(1) } = 4$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(4) = (4)^2 + -8(4) + 22 = 16 + -32 + 22 = 6$$. Por tanto, el vértice se encuentra en $(4, 6)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -2x + 8$$",
+      "context": "Un ingeniero en Mayagüez analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(1, 7)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-1, 7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(1, -7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(3, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-2) }{ 2(1) } = 1$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(1) = (1)^2 + -2(1) + 8 = 1 + -2 + 8 = 7$$. Por tanto, el vértice se encuentra en $(1, 7)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -4x + 12$$",
+      "context": "Un ingeniero en Guaynabo analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(2, 8)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-2, 8)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(2, -8)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(4, 7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-4) }{ 2(1) } = 2$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(2) = (2)^2 + -4(2) + 12 = 4 + -8 + 12 = 8$$. Por tanto, el vértice se encuentra en $(2, 8)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -6x + 18$$",
+      "context": "Un ingeniero en Rincón analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(3, 9)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 3$ y evaluando la función $f(3) = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-3, 9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(3, -9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(5, 8)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-6) }{ 2(1) } = 3$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(3) = (3)^2 + -6(3) + 18 = 9 + -18 + 18 = 9$$. Por tanto, el vértice se encuentra en $(3, 9)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -8x + 26$$",
+      "context": "Un ingeniero en San Juan analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(4, 10)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-4, 10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(4, -10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(6, 9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-8) }{ 2(1) } = 4$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(4) = (4)^2 + -8(4) + 26 = 16 + -32 + 26 = 10$$. Por tanto, el vértice se encuentra en $(4, 10)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -2x + 12$$",
+      "context": "Un ingeniero en Ponce analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(1, 11)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 11$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-1, 11)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(1, -11)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(3, 10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-2) }{ 2(1) } = 1$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(1) = (1)^2 + -2(1) + 12 = 1 + -2 + 12 = 11$$. Por tanto, el vértice se encuentra en $(1, 11)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -4x + 16$$",
+      "context": "Un ingeniero en Bayamón analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(2, 12)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-2, 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(2, -12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(4, 11)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-4) }{ 2(1) } = 2$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(2) = (2)^2 + -4(2) + 16 = 4 + -8 + 16 = 12$$. Por tanto, el vértice se encuentra en $(2, 12)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -6x + 22$$",
+      "context": "Un ingeniero en Mayagüez analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(3, 13)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 3$ y evaluando la función $f(3) = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-3, 13)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(3, -13)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(5, 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-6) }{ 2(1) } = 3$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(3) = (3)^2 + -6(3) + 22 = 9 + -18 + 22 = 13$$. Por tanto, el vértice se encuentra en $(3, 13)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -8x + 30$$",
+      "context": "Un ingeniero en Guaynabo analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(4, 14)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 14$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-4, 14)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(4, -14)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(6, 13)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-8) }{ 2(1) } = 4$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(4) = (4)^2 + -8(4) + 30 = 16 + -32 + 30 = 14$$. Por tanto, el vértice se encuentra en $(4, 14)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -2x + 16$$",
+      "context": "Un ingeniero en Rincón analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(1, 15)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 15$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-1, 15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(1, -15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(3, 14)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-2) }{ 2(1) } = 1$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(1) = (1)^2 + -2(1) + 16 = 1 + -2 + 16 = 15$$. Por tanto, el vértice se encuentra en $(1, 15)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -4x + 20$$",
+      "context": "Un ingeniero en San Juan analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(2, 16)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-2, 16)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(2, -16)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(4, 15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-4) }{ 2(1) } = 2$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(2) = (2)^2 + -4(2) + 20 = 4 + -8 + 20 = 16$$. Por tanto, el vértice se encuentra en $(2, 16)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -6x + 26$$",
+      "context": "Un ingeniero en Ponce analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(3, 17)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 3$ y evaluando la función $f(3) = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-3, 17)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(3, -17)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(5, 16)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-6) }{ 2(1) } = 3$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(3) = (3)^2 + -6(3) + 26 = 9 + -18 + 26 = 17$$. Por tanto, el vértice se encuentra en $(3, 17)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -8x + 34$$",
+      "context": "Un ingeniero en Bayamón analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(4, 18)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 18$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-4, 18)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(4, -18)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(6, 17)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-8) }{ 2(1) } = 4$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(4) = (4)^2 + -8(4) + 34 = 16 + -32 + 34 = 18$$. Por tanto, el vértice se encuentra en $(4, 18)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -2x + 20$$",
+      "context": "Un ingeniero en Mayagüez analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(1, 19)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 19$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-1, 19)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(1, -19)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(3, 18)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-2) }{ 2(1) } = 1$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(1) = (1)^2 + -2(1) + 20 = 1 + -2 + 20 = 19$$. Por tanto, el vértice se encuentra en $(1, 19)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -4x + 24$$",
+      "context": "Un ingeniero en Guaynabo analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(2, 20)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-2, 20)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(2, -20)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(4, 19)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-4) }{ 2(1) } = 2$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(2) = (2)^2 + -4(2) + 24 = 4 + -8 + 24 = 20$$. Por tanto, el vértice se encuentra en $(2, 20)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -6x + 30$$",
+      "context": "Un ingeniero en Rincón analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(3, 21)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 3$ y evaluando la función $f(3) = 21$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-3, 21)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(3, -21)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(5, 20)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-6) }{ 2(1) } = 3$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(3) = (3)^2 + -6(3) + 30 = 9 + -18 + 30 = 21$$. Por tanto, el vértice se encuentra en $(3, 21)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -8x + 38$$",
+      "context": "Un ingeniero en San Juan analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(4, 22)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 22$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-4, 22)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(4, -22)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(6, 21)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-8) }{ 2(1) } = 4$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(4) = (4)^2 + -8(4) + 38 = 16 + -32 + 38 = 22$$. Por tanto, el vértice se encuentra en $(4, 22)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la función cuadrática:\n$$f(x) = x^2 + -2x + 24$$",
+      "context": "Un ingeniero en Ponce analiza la trayectoria parabólica de un chorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice en $(1, 23)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 23$."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice en $(-1, 23)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice en $(1, -23)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la coordenada vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice en $(3, 22)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valores erróneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \\frac{ -b }{ 2a } = \\frac{ -(-2) }{ 2(1) } = 1$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(1) = (1)^2 + -2(1) + 24 = 1 + -2 + 24 = 23$$. Por tanto, el vértice se encuentra en $(1, 23)$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
