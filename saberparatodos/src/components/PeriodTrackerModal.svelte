@@ -24,7 +24,7 @@
           <h2 class="text-lg font-bold uppercase tracking-widest text-white">
               Cronograma Escolar
           </h2>
-          <button onclick={onClose} class="text-white/40 hover:text-white">
+          <button onclick={onClose} class="text-white/40 hover:text-white" aria-label="Cerrar">
               ✕
           </button>
       </div>

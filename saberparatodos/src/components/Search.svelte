@@ -76,7 +76,7 @@
             class="flex-1 bg-transparent border-none outline-none text-[#F5F5DC] placeholder-white/20"
             autocomplete="off"
           />
-          <button on:click={toggleSearch} class="text-xs uppercase tracking-widest text-white/40 hover:text-white">
+          <button on:click={toggleSearch} class="text-xs uppercase tracking-widest text-white/40 hover:text-white" aria-label="Cerrar búsqueda">
             ESC
           </button>
         </div>
