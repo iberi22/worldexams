@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias",
+    "country": "pr",
+    "pack_id": "pr-week-9-grade-11-subject-ciencias",
+    "generated_at": "2026-07-29T05:00:59.730Z"
+  },
+  "questions": [
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v1",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Ácido de Arrhenius. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Ácido de Arrhenius en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Ácido de Arrhenius.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ácido de Arrhenius es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Ácido de Arrhenius.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Ácido de Arrhenius posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es sustancia que incrementa la concentración de iones $H^+$ en solución acuosa, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Ácido de Arrhenius."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Ácido de Arrhenius.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Ácido de Arrhenius."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Ácido de Arrhenius se define formalmente como sustancia que incrementa la concentración de iones $H^+$ en solución acuosa. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v2",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Base de Arrhenius. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Base de Arrhenius en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Base de Arrhenius.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Base de Arrhenius."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Base de Arrhenius.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Base de Arrhenius posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Base de Arrhenius.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Base de Arrhenius es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es sustancia que incrementa la concentración de iones $OH^-$ en solución acuosa, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Base de Arrhenius."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Base de Arrhenius se define formalmente como sustancia que incrementa la concentración de iones $OH^-$ en solución acuosa. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v3",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Ácido de Brønsted. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Ácido de Brønsted en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es sustancia capaz de donar un protón o ion $H^+$ en una reacción química, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Ácido de Brønsted."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Ácido de Brønsted.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Ácido de Brønsted posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Ácido de Brønsted.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ácido de Brønsted es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Ácido de Brønsted.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Ácido de Brønsted."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Ácido de Brønsted se define formalmente como sustancia capaz de donar un protón o ion $H^+$ en una reacción química. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v4",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Base de Brønsted. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Base de Brønsted en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Base de Brønsted.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Base de Brønsted posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es sustancia capaz de aceptar un protón o ion $H^+$ de un donante, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Base de Brønsted."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Base de Brønsted.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Base de Brønsted es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Base de Brønsted.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Base de Brønsted."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Base de Brønsted se define formalmente como sustancia capaz de aceptar un protón o ion $H^+$ de un donante. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v5",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Par Conjugado. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Par Conjugado en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Par Conjugado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Par Conjugado es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Par Conjugado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Par Conjugado posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es dos sustancias que difieren únicamente por la presencia o ausencia de un protón, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Par Conjugado."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Par Conjugado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Par Conjugado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Par Conjugado se define formalmente como dos sustancias que difieren únicamente por la presencia o ausencia de un protón. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v6",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Autoionización del Agua. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Autoionización del Agua en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Autoionización del Agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Autoionización del Agua."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Autoionización del Agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Autoionización del Agua posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Autoionización del Agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Autoionización del Agua es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es equilibrio en el cual el agua pura produce concentraciones iguales de $H_3O^+$ y $OH^-$, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Autoionización del Agua."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Autoionización del Agua se define formalmente como equilibrio en el cual el agua pura produce concentraciones iguales de $H_3O^+$ y $OH^-$. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v7",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Escala de pH. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Escala de pH en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es medida logarítmica de la acidez definida como $-\\log[H_3O^+]$, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Escala de pH."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Escala de pH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Escala de pH posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Escala de pH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escala de pH es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Escala de pH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Escala de pH."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Escala de pH se define formalmente como medida logarítmica de la acidez definida como $-\\log[H_3O^+]$. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v8",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Ácido Fuerte. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Ácido Fuerte en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Ácido Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Ácido Fuerte posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es ácido que se ioniza de forma completa en solución acuosa liberando todos sus protones, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Ácido Fuerte."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Ácido Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ácido Fuerte es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Ácido Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Ácido Fuerte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Ácido Fuerte se define formalmente como ácido que se ioniza de forma completa en solución acuosa liberando todos sus protones. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v9",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Base Fuerte. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Base Fuerte en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Base Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Base Fuerte es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Base Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Base Fuerte posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es base que se disocia de forma total en iones hidróxido en solución acuosa, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Base Fuerte."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Base Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Base Fuerte."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Base Fuerte se define formalmente como base que se disocia de forma total en iones hidróxido en solución acuosa. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v10",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Neutralización. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Neutralización en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Neutralización.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Neutralización."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Neutralización.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Neutralización posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Neutralización.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Neutralización es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es reacción entre un ácido y una base para producir sal neutra y agua líquida, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Neutralización."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Neutralización se define formalmente como reacción entre un ácido y una base para producir sal neutra y agua líquida. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Ácido Débil. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Ácido Débil en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es ácido que se disocia parcialmente en solución acuosa manteniendo un equilibrio químico, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Ácido Débil."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Ácido Débil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Ácido Débil posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Ácido Débil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ácido Débil es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Ácido Débil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Ácido Débil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Ácido Débil se define formalmente como ácido que se disocia parcialmente en solución acuosa manteniendo un equilibrio químico. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Base Débil. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Base Débil en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Base Débil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Base Débil posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es base que se protona de forma parcial dejando moléculas sin disociar en el solvente, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Base Débil."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Base Débil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Base Débil es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Base Débil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Base Débil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Base Débil se define formalmente como base que se protona de forma parcial dejando moléculas sin disociar en el solvente. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v13",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Constante de Acidez (Ka). ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Constante de Acidez (Ka) en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Constante de Acidez (Ka).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Constante de Acidez (Ka) es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Constante de Acidez (Ka).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Constante de Acidez (Ka) posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es medida cuantitativa de la fuerza ácida en un equilibrio de disociación, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Constante de Acidez (Ka)."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Constante de Acidez (Ka).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Constante de Acidez (Ka)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Constante de Acidez (Ka) se define formalmente como medida cuantitativa de la fuerza ácida en un equilibrio de disociación. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v14",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Constante de Basicidad (Kb). ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Constante de Basicidad (Kb) en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Constante de Basicidad (Kb).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Constante de Basicidad (Kb)."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Constante de Basicidad (Kb).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Constante de Basicidad (Kb) posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Constante de Basicidad (Kb).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Constante de Basicidad (Kb) es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es medida cuantitativa que evalúa la fuerza relativa de una base débil, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Constante de Basicidad (Kb)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Constante de Basicidad (Kb) se define formalmente como medida cuantitativa que evalúa la fuerza relativa de una base débil. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v15",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Escala de pOH. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Escala de pOH en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es medida logarítmica complementaria de la alcalinidad definida como $-\\log[OH^-]$, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Escala de pOH."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Escala de pOH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Escala de pOH posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Escala de pOH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escala de pOH es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Escala de pOH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Escala de pOH."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Escala de pOH se define formalmente como medida logarítmica complementaria de la alcalinidad definida como $-\\log[OH^-]$. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v16",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Solución Amortiguadora (Buffer). ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Solución Amortiguadora (Buffer) en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Solución Amortiguadora (Buffer).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Solución Amortiguadora (Buffer) posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es solución que resiste cambios drásticos de pH ante adiciones moderadas de ácido o base, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Solución Amortiguadora (Buffer)."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Solución Amortiguadora (Buffer).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solución Amortiguadora (Buffer) es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Solución Amortiguadora (Buffer).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Solución Amortiguadora (Buffer)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Solución Amortiguadora (Buffer) se define formalmente como solución que resiste cambios drásticos de pH ante adiciones moderadas de ácido o base. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Indicador de pH. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Indicador de pH en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Indicador de pH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicador de pH es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Indicador de pH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Indicador de pH posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es sustancia colorante orgánica cuyo color varía de forma reversible según el pH del medio, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Indicador de pH."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Indicador de pH.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Indicador de pH."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Indicador de pH se define formalmente como sustancia colorante orgánica cuyo color varía de forma reversible según el pH del medio. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v18",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Valoración Ácido-Base. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Valoración Ácido-Base en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Valoración Ácido-Base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Valoración Ácido-Base."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Valoración Ácido-Base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Valoración Ácido-Base posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Valoración Ácido-Base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valoración Ácido-Base es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es procedimiento volumétrico para determinar la concentración analítica mediante neutralización progresiva, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Valoración Ácido-Base."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Valoración Ácido-Base se define formalmente como procedimiento volumétrico para determinar la concentración analítica mediante neutralización progresiva. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Punto de Equivalencia. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Punto de Equivalencia en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es momento de la valoración donde el número de equivalentes de ácido y base es idéntico, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Punto de Equivalencia."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Punto de Equivalencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Punto de Equivalencia posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Punto de Equivalencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Punto de Equivalencia es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Punto de Equivalencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Punto de Equivalencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Punto de Equivalencia se define formalmente como momento de la valoración donde el número de equivalentes de ácido y base es idéntico. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v20",
+      "statement": "Al estudiar los aspectos fundamentales de Ácidos, Bases y Escala de pH, se analiza el rol de Hidrólisis de Sales. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Hidrólisis de Sales en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Hidrólisis de Sales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Hidrólisis de Sales posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es reacción de los iones constituyentes de una sal con agua alterando el pH del medio, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Hidrólisis de Sales."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Hidrólisis de Sales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hidrólisis de Sales es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Hidrólisis de Sales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Hidrólisis de Sales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Hidrólisis de Sales se define formalmente como reacción de los iones constituyentes de una sal con agua alterando el pH del medio. Su comprensión e identificación en Ácidos, Bases y Escala de pH resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
