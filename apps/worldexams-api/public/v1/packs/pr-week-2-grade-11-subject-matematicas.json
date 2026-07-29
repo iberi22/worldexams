@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T02:17:15.695Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "Si la razón de llaveros de madera a llaveros de metal vendidos es $3:5$ y se vendieron $15$ llaveros de madera, ¿cuántos de metal se vendieron?",
+      "context": "Una tienda en Ponce vende artesanías de recordatorios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3}{5} = \\frac{15}{x} \\Rightarrow 3x = 75 \\Rightarrow x = 25$."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Establecemos la proporción $\\frac{3}{5} = \\frac{15}{x}$. Multiplicando de forma cruzada, obtenemos $3x = 75 \\Rightarrow x = 25$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "Si consume $4$ galones de gasolina para recorrer $100$ millas, ¿cuál es la razón de millas por galón?",
+      "context": "Diego calcula el rendimiento de gasolina de su automóvil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 mpg",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "25 mpg",
+          "is_correct": true,
+          "feedback": "Correcto. $100 \\div 4 = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "400 mpg",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "20 mpg",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rendimiento en millas por galón es la división de las millas recorridas entre los galones: $100 \\div 4 = 25$ mpg.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "La escala del mapa indica que $2\\text{ cm}$ representan $5\\text{ km}$. ¿Cuántos kilómetros reales representan $10\\text{ cm}$ en el mapa?",
+      "context": "En un mapa del Bosque Seco de Guánica, se utiliza una escala lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$25\\text{ km}$",
+          "is_correct": true,
+          "feedback": "Correcto. Proporción: $\\frac{2}{5} = \\frac{10}{x} \\Rightarrow 2x = 50 \\Rightarrow x = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "$50\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$15\\text{ km}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Establecemos la proporción $\\frac{2}{5} = \\frac{10}{x}$. Al despejar $x$, obtenemos $x = \\frac{50}{2} = 25$ km reales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "Si un abrigo cuesta originalmente $\\$120.00$ y tiene un descuento del $30\\%$, ¿cuánto dinero se ahorra?",
+      "context": "Una tienda en Plaza Las Américas ofrece descuentos en abrigos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$84.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el precio final, no el ahorro."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$36.00$",
+          "is_correct": true,
+          "feedback": "Correcto. El ahorro es $120 \\times 0.30 = 36$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$30.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$40.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ahorro se halla multiplicando el precio regular por la tasa de descuento: $120 \\times 0.30 = 36$ dólares.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "En un grupo de $60$ estudiantes, $18$ asisten a tutorías. ¿Qué porcentaje del grupo representa esto?",
+      "context": "Luis analiza la asistencia de estudiantes a tutorías.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$30\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{18}{60} = 0.3 = 30\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$45\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$25\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el porcentaje, dividimos la parte entre el todo y multiplicamos por 100: $\\frac{18}{60} \\times 100 = 30\\%$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "La receta requiere una proporción de cemento, arena y piedra de $1:2:4$. Si usa $5$ pies cúbicos de cemento, ¿cuál es el volumen total producido?",
+      "context": "Un contratista en Carolina prepara una mezcla de concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 pies cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "35 pies cúbicos",
+          "is_correct": true,
+          "feedback": "Correcto. Cemento $5$, arena $10$, piedra $20$. Suma: $5+10+20 = 35$."
+        },
+        {
+          "letter": "C",
+          "text": "20 pies cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "25 pies cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La razón total de partes es $1+2+4 = 7$ partes. Como $1$ parte de cemento equivale a $5$ pies cúbicos, el volumen total es $7 \\times 5 = 35$ pies cúbicos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "De $1,200$ dispositivos inspeccionados, el $1.5\\%$ resultaron defectuosos. ¿Cuántos dispositivos cumplen los estándares?",
+      "context": "Una planta en Bayamón analiza el control de calidad de dispositivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el número de defectuosos."
+        },
+        {
+          "letter": "B",
+          "text": "1,182",
+          "is_correct": true,
+          "feedback": "Correcto. Defectuosos: $1,200 \\times 0.015 = 18$. Buenos: $1,200 - 18 = 1,182$."
+        },
+        {
+          "letter": "C",
+          "text": "1,150",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1,100",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calculamos los defectuosos: $1,200 \\times 0.015 = 18$ dispositivos. Los que cumplen estándares son $1,200 - 18 = 1,182$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "Si invierte $\\$2,500$ con un interés simple anual de $4.5\\%$, ¿cuánto interés acumula en $3$ años?",
+      "context": "Carmen deposita dinero en una cooperativa de Puerto Rico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$112.50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es para un año."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$337.50$",
+          "is_correct": true,
+          "feedback": "Correcto. $I = 2,500 \\times 0.045 \\times 3 = 337.50$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$225.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$450.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando la fórmula de interés simple $I = P \\cdot r \\cdot t$: $I = 2,500 \\times 0.045 \\times 3 = 337.50$ dólares.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "El paquete A cuesta $\\$6.00$ por $12\\text{ oz}$ y el paquete B cuesta $\\$9.60$ por $20\\text{ oz}$. ¿Cuál tiene menor precio unitario?",
+      "context": "Un supermercado en Mayagüez vende café en dos tamaños de paquetes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El paquete A, con un precio de $\\$0.50$ por onza.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "El paquete B, con un precio de $\\$0.48$ por onza.",
+          "is_correct": true,
+          "feedback": "Correcto. Paquete B cuesta $\\$0.48$ por onza, lo cual es menor."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tienen el mismo precio unitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar sin saber el peso del empaque.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividimos precio entre peso: Paquete A: $\\$6.00 \\div 12 = \\$0.50$/oz. Paquete B: $\\$9.60 \\div 20 = \\$0.48$/oz. El paquete B es el más económico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "Si corre $12\\text{ millas}$ en $90\\text{ minutos}$, ¿cuántas millas correrá en $150\\text{ minutos}$ si mantiene el mismo ritmo?",
+      "context": "Un atleta en Ponce registra su distancia recorrida en entrenamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18\\text{ millas}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\text{ millas}$",
+          "is_correct": true,
+          "feedback": "Correcto. $x = 150 \\times (12/90) = 20$."
+        },
+        {
+          "letter": "C",
+          "text": "$24\\text{ millas}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$15\\text{ millas}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Establecemos la proporción $\\frac{12}{90} = \\frac{x}{150}$. Despejando $x$: $x = \\frac{12 \\times 150}{90} = 20$ millas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "La proporción de mezcla es de $2:3$. Para preparar $150\\text{ libras}$ de harina total, ¿cuántas libras de harina integral se necesitan?",
+      "context": "Una panadería en San Juan mezcla harina integral y harina blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\text{ libras}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$60\\text{ libras}$",
+          "is_correct": true,
+          "feedback": "Correcto. integral: $\\frac{2}{5} \\times 150 = 60$."
+        },
+        {
+          "letter": "C",
+          "text": "$90\\text{ libras}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la harina blanca."
+        },
+        {
+          "letter": "D",
+          "text": "$100\\text{ libras}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La proporción consta de $2 + 3 = 5$ partes. La harina integral es $\\frac{2}{5}$ del total: $\\frac{2}{5} \\times 150 = 60$ libras.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "Para un préstamo de $\\$10,000$ con un interés simple anual de $6\\%$, ¿cuánto pagará en total después de $4$ años?",
+      "context": "Un banco en Hato Rey otorga préstamos de desarrollo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$10,240$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$2,400$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el interés."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$12,400$",
+          "is_correct": true,
+          "feedback": "Correcto. $I = 10,000 \\times 0.06 \\times 4 = 2,400$. Total: $10,000 + 2,400 = 12,400$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$11,800$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El interés acumulado es $10,000 \\times 0.06 \\times 4 = 2,400$. El total a pagar es $10,000 + 2,400 = 12,400$ dólares.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "La cartera A subió $20\\%$ y bajó $10\\%$. La cartera B subió $10\\%$ y luego subió $10\\%$. ¿Cuál es la relación de sus balances para un monto de $\\$1,000$?",
+      "context": "Un analista en Guaynabo estudia rentabilidades de carteras de inversión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cartera B es mayor que la cartera A.",
+          "is_correct": true,
+          "feedback": "Correcto. Cartera A: $1,000 \\times 1.20 \\times 0.90 = 1,080$. Cartera B: $1,000 \\times 1.10 \\times 1.10 = 1,210$."
+        },
+        {
+          "letter": "B",
+          "text": "La cartera A es igual a la cartera B.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "La cartera A es mayor que la cartera B por $\\$30.00$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La cartera B finaliza con $\\$1,100.00$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cartera A: $1,000 \\times 1.20 \\times 0.90 = 1,080$ dólares. Cartera B: $1,000 \\times 1.10 \\times 1.10 = 1,210$ dólares. La cartera B es mayor.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "Se compran $3$ toneladas de asfalto por $\\$450$. Luego, $5$ toneladas cuestan $\\$800$. ¿Cuál fue el porcentaje de aumento del precio unitario por tonelada?",
+      "context": "Un contratista compara costos unitarios de asfalto en Humacao.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$6.67\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. Unitario original: $150$. Unitario nuevo: $160$. Porcentaje de incremento: $\\frac{10}{150} \\approx 6.67\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "$15\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Precio unitario original: $450 \\div 3 = 150$. Precio nuevo: $800 \\div 5 = 160$. Incremento: $\\frac{10}{150} \\times 100 \\approx 6.67\\%$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "Si un artículo cuesta $\\$5.00$ y experimenta inflación del $4\\%$ compuesto anual por $2$ años, ¿cuál es su costo final?",
+      "context": "Un curso de economía en la UPR analiza el comportamiento de la inflación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$5.40$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó inflación simple."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$5.41$",
+          "is_correct": true,
+          "feedback": "Correcto. $5.00 \\times (1.04)^2 = 5.408 \\approx 5.41$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$5.20$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$5.50$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando interés compuesto: $C = 5.00 \\times (1.04)^2 = 5.408$ dólares, que redondea a $\\$5.41$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "Un proveedor ofrece uniformes a $\\$25$ cada uno, con $15\\%$ de descuento si compra más de $20$ unidades. Si compra $25$ uniformes, ¿cuánto paga en total?",
+      "context": "Luis desea comprar uniformes para su equipo en Carolina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$625.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aplicó el descuento."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$531.25$",
+          "is_correct": true,
+          "feedback": "Correcto. $25 \\times 25 \\times 0.85 = 531.25$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$500.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$550.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se aplica el descuento del $15\\%$ al precio de cada uniforme: $25 \\times 0.85 = 21.25$. Para $25$ unidades: $25 \\times 21.25 = 531.25$ dólares.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "La opción A cobra un interés simple del $8\\%$ anual por $5$ años. La opción B cobra un interés compuesto del $7\\%$ compuesto anual por $5$ años. Para un préstamo de $\\$50,000$, ¿cuál opción genera menor interés acumulado?",
+      "context": "Un inversionista evalúa opciones de financiamiento en San Juan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opción A, con un gasto de intereses de $\\$20,000$",
+          "is_correct": true,
+          "feedback": "Correcto. Opción A: $20,000$. Opción B: $50,000 \\times (1.07)^5 - 50,000 \\approx 20,127.50$."
+        },
+        {
+          "letter": "B",
+          "text": "La opción B, con un gasto de intereses de $\\$17,500$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas opciones representan exactamente el mismo costo de interés.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "La opción B es mejor por una diferencia de $\\$1,200$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Opción A: $I = 50,000 \\times 0.08 \\times 5 = 20,000$. Opción B: $I = 50,000(1.07)^5 - 50,000 \\approx 20,127.50$. Opción A es menor.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "Se mezclan $8$ galones de pintura roja al $10\\%$ de pigmento con $12$ galones de pintura roja al $20\\%$ de pigmento. ¿Cuál es el porcentaje de concentración final?",
+      "context": "Un analista en Ponce estudia las proporciones de una mezcla de pintura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un promedio directo."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. Pigmento: $0.8 + 2.4 = 3.2$ galones. Concentración: $\\frac{3.2}{20} = 0.16 = 16\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$18\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$12\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pigmento total: $(8 \\times 0.10) + (12 \\times 0.20) = 0.8 + 2.4 = 3.2$ galones. Volumen total: $20$ galones. Concentración: $\\frac{3.2}{20} = 16\\%$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "Si se invierten $\\$5,000$ con un interés del $6\\%$ anual compuesto trimestralmente, ¿cuál es la fórmula del balance acumulado tras $t$ años?",
+      "context": "Una cooperativa de ahorro en San Juan ofrece cuentas de inversión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A(t) = 5,000(1.06)^t$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$A(t) = 5,000(1.015)^{4t}$",
+          "is_correct": true,
+          "feedback": "Correcto. Tasa por periodo: $0.06/4 = 0.015$. Periodos en $t$ años: $4t$. Fórmula: $5,000(1.015)^{4t}$."
+        },
+        {
+          "letter": "C",
+          "text": "$A(t) = 5,000(1.06)^{4t}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$A(t) = 5,000(1.03)^{2t}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Capitalización trimestral implica $n = 4$ periodos anuales. La tasa trimestral es $\\frac{0.06}{4} = 0.015$. La fórmula es $5,000(1.015)^{4t}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "El costo $C$ es proporcional a la distancia $d$ e inversamente proporcional al rendimiento $r$. Si un viaje de $50\\text{ millas}$ con rendimiento $10\\text{ mpg}$ cuesta $\\$200$, ¿cuánto costará un viaje de $80\\text{ millas}$ con rendimiento $8\\text{ mpg}$?",
+      "context": "Un contratista en Puerto Rico analiza costos de transporte de carga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$250$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$400$",
+          "is_correct": true,
+          "feedback": "Correcto. $C = k \\frac{d}{r} \\Rightarrow 200 = k \\frac{50}{10} \\Rightarrow k = 40$. Nuevo costo: $40 \\times \\frac{80}{8} = 400$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$320$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$450$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Establecemos $C = k \\frac{d}{r}$. Hallando la constante $k$: $200 = k (50/10) \\Rightarrow k = 40$. El nuevo costo es $40 \\times (80/8) = 400$ dólares.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
