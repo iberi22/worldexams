@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "bo",
+    "pack_id": "bo-week-1-grade-11-subject-lengua",
+    "generated_at": "2026-07-29T05:00:16.154Z"
+  },
+  "questions": [
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "charla sobre comunicación social",
+      "context": "En La Paz, Roxana analiza una situación relacionada con la comunicación en el Colegio Nacional Junín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El idioma español que comparten el orador y los estudiantes.",
+          "is_correct": true,
+          "feedback": "El código es el sistema convencional de signos compartidos que permite entenderse."
+        },
+        {
+          "letter": "B",
+          "text": "El auditorio escolar.",
+          "is_correct": false,
+          "feedback": "canal o espacio físico."
+        },
+        {
+          "letter": "C",
+          "text": "El tema de la charla sobre redes sociales.",
+          "is_correct": false,
+          "feedback": "referente o contenido del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "El proyector y la pantalla.",
+          "is_correct": false,
+          "feedback": "canal técnico-visual de transmisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El código es el sistema convencional de signos compartidos que permite entenderse. En este contexto de La Paz, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "aviso importante en la puerta del colegio",
+      "context": "En Santa Cruz, Jhonny analiza una situación relacionada con la comunicación en el Colegio Nacional Bolívar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El emisor institucional de la dirección escolar.",
+          "is_correct": false,
+          "feedback": "la autora o emisora del mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "El cartel de papel que actúa como el medio físico para transportar el mensaje.",
+          "is_correct": true,
+          "feedback": "El soporte físico de papel actúa como el medio o canal de transporte."
+        },
+        {
+          "letter": "C",
+          "text": "El código de la lengua española escrita.",
+          "is_correct": false,
+          "feedback": "el código lingüístico, no el medio."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes que leen la nota.",
+          "is_correct": false,
+          "feedback": "los receptores de la información."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El soporte físico de papel actúa como el medio o canal de transporte. En este contexto de Santa Cruz, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "saludo entusiasta del locutor radial",
+      "context": "En Cochabamba, Marisol analiza una situación relacionada con la comunicación en el Colegio Nacional Sucre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función referencial meteorológica.",
+          "is_correct": false,
+          "feedback": "dar un reporte climático científico."
+        },
+        {
+          "letter": "B",
+          "text": "La función apelativa de orden.",
+          "is_correct": false,
+          "feedback": "emitir una orden directa a la audiencia."
+        },
+        {
+          "letter": "C",
+          "text": "La función metalingüística explicativa.",
+          "is_correct": false,
+          "feedback": "reflexionar sobre el origen gramatical de una palabra."
+        },
+        {
+          "letter": "D",
+          "text": "La función expresiva, porque expresa los sentimientos y estado de ánimo del emisor.",
+          "is_correct": true,
+          "feedback": "La función expresiva o emotiva se centra en el emisor para manifestar subjetividad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función expresiva o emotiva se centra en el emisor para manifestar subjetividad. En este contexto de Cochabamba, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "afiche municipal de feria",
+      "context": "En Sucre, Walter analiza una situación relacionada con la comunicación en el Liceo Pantaleón Dalence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función expresiva del creador.",
+          "is_correct": false,
+          "feedback": "revelar la emotividad subjetiva del emisor."
+        },
+        {
+          "letter": "B",
+          "text": "La función poética lírica compleja.",
+          "is_correct": false,
+          "feedback": "estructurar rimas líricas sobre el comercio."
+        },
+        {
+          "letter": "C",
+          "text": "La función apelativa, puesto que busca persuadir y modificar la conducta del receptor.",
+          "is_correct": true,
+          "feedback": "La función apelativa se orienta al receptor para inducir una acción de compra."
+        },
+        {
+          "letter": "D",
+          "text": "La función metalingüística de definición.",
+          "is_correct": false,
+          "feedback": "explicar el significado filológico del vocablo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función apelativa se orienta al receptor para inducir una acción de compra. En este contexto de Sucre, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "pregunta de control telefónico",
+      "context": "En Oruro, Grover analiza una situación relacionada con la comunicación en el Colegio Nacional Florida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función fática, que tiene como finalidad verificar el canal de comunicación.",
+          "is_correct": true,
+          "feedback": "La función fática se centra en el canal físico para comprobar la viabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "La función referencial meteorológica.",
+          "is_correct": false,
+          "feedback": "reportar datos objetivos sobre el clima."
+        },
+        {
+          "letter": "C",
+          "text": "La función expresiva de ira.",
+          "is_correct": false,
+          "feedback": "desahogar la molestia subjetiva del hablante."
+        },
+        {
+          "letter": "D",
+          "text": "La función poética de distanciamiento.",
+          "is_correct": false,
+          "feedback": "estructurar metáforas sobre la tecnología."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función fática se centra en el canal físico para comprobar la viabilidad. En este contexto de Oruro, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "explicación de vocablo andino en el aula",
+      "context": "En Potosí, Marcos analiza una situación relacionada con la comunicación en el U.E. Holanda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función expresiva de fervor.",
+          "is_correct": false,
+          "feedback": "manifestar la emotividad subjetiva del hablante."
+        },
+        {
+          "letter": "B",
+          "text": "La función metalingüística, porque utiliza la lengua para analizar el propio código.",
+          "is_correct": true,
+          "feedback": "La función metalingüística tiene como objeto de estudio al sistema de la lengua."
+        },
+        {
+          "letter": "C",
+          "text": "La función referencial botánica.",
+          "is_correct": false,
+          "feedback": "aportar un reporte biológico de las flores."
+        },
+        {
+          "letter": "D",
+          "text": "La función apelativa de orden.",
+          "is_correct": false,
+          "feedback": "exigir una acción u orden cívica obligatoria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función metalingüística tiene como objeto de estudio al sistema de la lengua. En este contexto de Potosí, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "debate acalorado en la asamblea estudiantil",
+      "context": "En Tarija, Lidia analiza una situación relacionada con la comunicación en el Colegio Don Bosco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función poética y la metalingüística.",
+          "is_correct": false,
+          "feedback": "un fin artístico o definición conceptual."
+        },
+        {
+          "letter": "B",
+          "text": "La función referencial y la fática.",
+          "is_correct": false,
+          "feedback": "un informe objetivo del tráfico de vehículos."
+        },
+        {
+          "letter": "C",
+          "text": "La función poética y la de contacto.",
+          "is_correct": false,
+          "feedback": "un simple control de línea sonora."
+        },
+        {
+          "letter": "D",
+          "text": "La función apelativa (demanda silencio) combinada con la función expresiva (molestia).",
+          "is_correct": true,
+          "feedback": "El enojo subjetivo manifiesta la función expresiva y las órdenes la apelativa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El enojo subjetivo manifiesta la función expresiva y las órdenes la apelativa. En este contexto de Tarija, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "noticia económica sobre exportaciones",
+      "context": "En Trinidad, Andrés analiza una situación relacionada con la comunicación en el Colegio San Calixto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función poética ornamental.",
+          "is_correct": false,
+          "feedback": "utilizar tropos estéticos o literarios ornamentales."
+        },
+        {
+          "letter": "B",
+          "text": "La función apelativa comercial.",
+          "is_correct": false,
+          "feedback": "ordenar a los lectores realizar inversiones de dinero."
+        },
+        {
+          "letter": "C",
+          "text": "La función referencial, porque describe objetivamente datos de la realidad.",
+          "is_correct": true,
+          "feedback": "La función referencial busca retratar hechos reales de forma neutral y lógica."
+        },
+        {
+          "letter": "D",
+          "text": "La función metalingüística química.",
+          "is_correct": false,
+          "feedback": "explicar la morfología gramatical del litio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función referencial busca retratar hechos reales de forma neutral y lógica. En este contexto de Trinidad, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "discurso motivacional cívico en el patio",
+      "context": "En Cobija, Zulma analiza una situación relacionada con la comunicación en el Liceo Venezuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La interpelación colectiva para apelar combinada con la pasión oratoria emotiva.",
+          "is_correct": true,
+          "feedback": "La persuasión cívica utiliza la apelación y la emotividad como estrategias."
+        },
+        {
+          "letter": "B",
+          "text": "La desconexión mediante lenguaje técnico.",
+          "is_correct": false,
+          "feedback": "establecer un monólogo cerrado sin comunicación."
+        },
+        {
+          "letter": "C",
+          "text": "La función fática acústica de sonido.",
+          "is_correct": false,
+          "feedback": "verificar si los micrófonos funcionan."
+        },
+        {
+          "letter": "D",
+          "text": "La función metalingüística de etimología.",
+          "is_correct": false,
+          "feedback": "analizar las raíces gramaticales del término líder."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La persuasión cívica utiliza la apelación y la emotividad como estrategias. En este contexto de Cobija, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "mensaje distorsionado en WhatsApp",
+      "context": "En Viacha, Ramiro analiza una situación relacionada con la comunicación en el Colegio Nacional Ayacucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El código deficiente de los primos.",
+          "is_correct": false,
+          "feedback": "un fallo idiomático en el código."
+        },
+        {
+          "letter": "B",
+          "text": "El ruido en el canal físico de transmisión de la señal telefónica.",
+          "is_correct": true,
+          "feedback": "Cualquier perturbación en el canal que altere la señal es técnicamente ruido."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de referente geográfico andino.",
+          "is_correct": false,
+          "feedback": "un error de ubicación del mercado central."
+        },
+        {
+          "letter": "D",
+          "text": "La desviación visual en la lectura.",
+          "is_correct": false,
+          "feedback": "un problema de capacidad intelectual en la tía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cualquier perturbación en el canal que altere la señal es técnicamente ruido. En este contexto de Viacha, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "afiche de seguridad vial multimodal",
+      "context": "En Montero, Yolanda analiza una situación relacionada con la comunicación en el Colegio Nacional Junín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conflicto de códigos contradictorio.",
+          "is_correct": false,
+          "feedback": "una contradicción insalvable en la señal."
+        },
+        {
+          "letter": "B",
+          "text": "El predominio de la función poética.",
+          "is_correct": false,
+          "feedback": "un fin estético de deleite artístico."
+        },
+        {
+          "letter": "C",
+          "text": "Un obstáculo de descodificación mental.",
+          "is_correct": false,
+          "feedback": "una mezcla de códigos incompatibles en tránsito."
+        },
+        {
+          "letter": "D",
+          "text": "Una redundancia multimodal que potencia y clarifica la función apelativa.",
+          "is_correct": true,
+          "feedback": "Los códigos visual e iconográfico apoyan al verbal escrito en el afiche."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los códigos visual e iconográfico apoyan al verbal escrito en el afiche. En este contexto de Montero, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "ondas sonoras y luz de televisión",
+      "context": "En Sacaba, Carlos analiza una situación relacionada con la comunicación en el Colegio Nacional Bolívar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El idioma español estructurado formal.",
+          "is_correct": false,
+          "feedback": "el código de signos abstractos común."
+        },
+        {
+          "letter": "B",
+          "text": "El estudio físico de filmación.",
+          "is_correct": false,
+          "feedback": "el espacio físico de emisión de la televisora."
+        },
+        {
+          "letter": "C",
+          "text": "Las ondas acústicas y luminosas que viajan por el aire hacia el espectador.",
+          "is_correct": true,
+          "feedback": "El canal es el soporte material por donde circulan las señales físicas."
+        },
+        {
+          "letter": "D",
+          "text": "Los pensamientos internos del receptor.",
+          "is_correct": false,
+          "feedback": "el proceso cognitivo mental de decodificación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El canal es el soporte material por donde circulan las señales físicas. En este contexto de Sacaba, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "carta formal de renuncia en la distrital",
+      "context": "En Quillacollo, Ana analiza una situación relacionada con la comunicación en el Colegio Nacional Sucre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El contexto institucional formal y la relación de jerarquía con el receptor.",
+          "is_correct": true,
+          "feedback": "La situación institucional impone el uso del registro formal culto."
+        },
+        {
+          "letter": "B",
+          "text": "La calidad de la tinta del papel físico.",
+          "is_correct": false,
+          "feedback": "el canal físico de soporte de escritura."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de términos coloquiales bolivianos.",
+          "is_correct": false,
+          "feedback": "un empobrecimiento sistemático del castellano."
+        },
+        {
+          "letter": "D",
+          "text": "La función poética obligatoria administrativa.",
+          "is_correct": false,
+          "feedback": "una métrica lírica obligatoria de correspondencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La situación institucional impone el uso del registro formal culto. En este contexto de Quillacollo, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "solicitud cotidiana de materiales escolares",
+      "context": "En Warnes, Jaime analiza una situación relacionada con la comunicación en el Liceo Pantaleón Dalence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función estética o poética.",
+          "is_correct": false,
+          "feedback": "un adorno rítmico o lírico literario."
+        },
+        {
+          "letter": "B",
+          "text": "La función apelativa, al buscar inducir una acción de préstamo en el receptor.",
+          "is_correct": true,
+          "feedback": "La función apelativa se activa al buscar que el receptor realice una conducta."
+        },
+        {
+          "letter": "C",
+          "text": "La función fática de contacto auditivo.",
+          "is_correct": false,
+          "feedback": "un control de línea telefónica o de conexión."
+        },
+        {
+          "letter": "D",
+          "text": "La función metalingüística morfológica.",
+          "is_correct": false,
+          "feedback": "un análisis filológico del vocablo tajador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función apelativa se activa al buscar que el receptor realice una conducta. En este contexto de Warnes, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "letrero o mural reflexivo urbano",
+      "context": "En El Alto, Rosmery analiza una situación relacionada con la comunicación en el Colegio Nacional Florida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función metalingüística conceptual.",
+          "is_correct": false,
+          "feedback": "dar una definición de diccionario de esperanza."
+        },
+        {
+          "letter": "B",
+          "text": "La función fática de límites físicos.",
+          "is_correct": false,
+          "feedback": "constatar la adherencia de la pintura al concreto."
+        },
+        {
+          "letter": "C",
+          "text": "La función representativa geográfica.",
+          "is_correct": false,
+          "feedback": "exponer un reporte biológico de las flores andinas."
+        },
+        {
+          "letter": "D",
+          "text": "La función poética, al utilizar la metáfora para conmover estéticamente.",
+          "is_correct": true,
+          "feedback": "La metáfora es un recurso figurado típico para embellecer el mensaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La metáfora es un recurso figurado típico para embellecer el mensaje. En este contexto de El Alto, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.47,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "falla de plataforma en examen virtual",
+      "context": "En Riberalta, Willy analiza una situación relacionada con la comunicación en el U.E. Holanda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una interrupción irreversible del código.",
+          "is_correct": false,
+          "feedback": "un colapso en el código lingüístico andino."
+        },
+        {
+          "letter": "B",
+          "text": "La función poética de protesta escolar.",
+          "is_correct": false,
+          "feedback": "un fin lírico o lírico-crítico contra internet."
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio de canal físico recurriendo al chat fático y referencial de aviso.",
+          "is_correct": true,
+          "feedback": "Ante el ruido técnico, se reajusta el canal y se activa la función fática."
+        },
+        {
+          "letter": "D",
+          "text": "Falla del emisor por incapacidad de teclear.",
+          "is_correct": false,
+          "feedback": "una deficiencia motora de velocidad de tecleado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ante el ruido técnico, se reajusta el canal y se activa la función fática. En este contexto de Riberalta, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "afiche publicitario de jugos naturales",
+      "context": "En Yacuiba, Teresa analiza una situación relacionada con la comunicación en el Colegio Don Bosco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La asociación de fruta con naturaleza fresca para camuflar el llamado apelativo.",
+          "is_correct": true,
+          "feedback": "La publicidad solapa la función estética y la emotiva para inducir la compra."
+        },
+        {
+          "letter": "B",
+          "text": "La función referencial química pura.",
+          "is_correct": false,
+          "feedback": "dar un informe de las calorías del jugo."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación radical del canal visual.",
+          "is_correct": false,
+          "feedback": "obligar al cliente a leer letras pequeñas."
+        },
+        {
+          "letter": "D",
+          "text": "La función metalingüística de morfología.",
+          "is_correct": false,
+          "feedback": "analizar las desinencias verbales del eslogan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad solapa la función estética y la emotiva para inducir la compra. En este contexto de Yacuiba, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "oratoria de líder estudiantil en recreo",
+      "context": "En Colcapirhua, Felipe analiza una situación relacionada con la comunicación en el Colegio San Calixto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de la función referencial fría.",
+          "is_correct": false,
+          "feedback": "presentar estadísticas de desempleo de forma plana."
+        },
+        {
+          "letter": "B",
+          "text": "La apelación colectiva unida a la pasión emotiva y tropos de porvenir.",
+          "is_correct": true,
+          "feedback": "La oratoria cívica se apoya en la entrega expresiva para persuadir."
+        },
+        {
+          "letter": "C",
+          "text": "La función fática de calibración auditiva.",
+          "is_correct": false,
+          "feedback": "certificar la calidad técnica de los micrófonos."
+        },
+        {
+          "letter": "D",
+          "text": "La función metalingüística gramatical.",
+          "is_correct": false,
+          "feedback": "enseñar las raíces griegas de las palabras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oratoria cívica se apoya en la entrega expresiva para persuadir. En este contexto de Colcapirhua, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "reflexión crítica de editorial de prensa",
+      "context": "En Tupiza, Patricia analiza una situación relacionada con la comunicación en el Liceo Venezuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de una única función pura.",
+          "is_correct": false,
+          "feedback": "un esquema de pureza absoluta y única de funciones."
+        },
+        {
+          "letter": "B",
+          "text": "La irrelevancia de las funciones comunicativas.",
+          "is_correct": false,
+          "feedback": "la inutilidad práctica de analizar la prensa boliviana."
+        },
+        {
+          "letter": "C",
+          "text": "El fin metalingüístico exclusivo.",
+          "is_correct": false,
+          "feedback": "un fin exclusivo de enseñanza de la ortografía."
+        },
+        {
+          "letter": "D",
+          "text": "La dominancia jerárquica de la referencial con presencia de la expresiva.",
+          "is_correct": true,
+          "feedback": "Según Jakobson, en todo texto conviven funciones en diferente jerarquía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Según Jakobson, en todo texto conviven funciones en diferente jerarquía. En este contexto de Tupiza, el proceso se adecúa de manera óptima.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "comunicado escolar oficial sin firmar",
+      "context": "En Villazón, Víctor analiza una situación relacionada con la comunicación en el Colegio Nacional Ayacucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falla física del canal de papel.",
+          "is_correct": false,
+          "feedback": "el mal estado físico de los murales escolares."
+        },
+        {
+          "letter": "B",
+          "text": "La falla del código por analfabetismo.",
+          "is_correct": false,
+          "feedback": "la incomprensión de las palabras individuales en el aula."
+        },
+        {
+          "letter": "C",
+          "text": "La descontextualización por falta de emisor que desata incertidumbre.",
+          "is_correct": true,
+          "feedback": "Omitir la firma impide validar la autoría y la referencia administrativa."
+        },
+        {
+          "letter": "D",
+          "text": "La falla de la función poética administrativa.",
+          "is_correct": false,
+          "feedback": "la falta de versos líricos de arte mayor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Omitir la firma impide validar la autoría y la referencia administrativa. En este contexto de Villazón, el proceso se adecúa de manera óptima.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}
