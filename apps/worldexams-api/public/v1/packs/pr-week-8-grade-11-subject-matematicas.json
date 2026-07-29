@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T02:17:15.699Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -4x + 3 = 0$$",
+      "context": "Un diseñador industrial en Caguas calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$ y $x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 1)(x - 3) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -1$ y $x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$ y $x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -4x + 3 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 3 y sumados den -4, los cuales son -1 y -3. Esto nos da $$(x - 1)(x - 3) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 1$ y $x = 3$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -6x + 8 = 0$$",
+      "context": "Un diseñador industrial en Humacao calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ y $x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 2)(x - 4) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -2$ y $x = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$ y $x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -6x + 8 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 8 y sumados den -6, los cuales son -2 y -4. Esto nos da $$(x - 2)(x - 4) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 2$ y $x = 4$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -8x + 15 = 0$$",
+      "context": "Un diseñador industrial en Mayagüez calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$ y $x = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 3)(x - 5) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -3$ y $x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$ y $x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -8x + 15 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 15 y sumados den -8, los cuales son -3 y -5. Esto nos da $$(x - 3)(x - 5) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 3$ y $x = 5$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -10x + 24 = 0$$",
+      "context": "Un diseñador industrial en Ponce calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$ y $x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 4)(x - 6) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -4$ y $x = -6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 6$ y $x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -10x + 24 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 24 y sumados den -10, los cuales son -4 y -6. Esto nos da $$(x - 4)(x - 6) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 4$ y $x = 6$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -12x + 35 = 0$$",
+      "context": "Un diseñador industrial en San Juan calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$ y $x = 7$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 5)(x - 7) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -5$ y $x = -7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 7$ y $x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -12x + 35 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 35 y sumados den -12, los cuales son -5 y -7. Esto nos da $$(x - 5)(x - 7) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 5$ y $x = 7$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -14x + 48 = 0$$",
+      "context": "Un diseñador industrial en Río Piedras calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$ y $x = 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 6)(x - 8) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -6$ y $x = -8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$ y $x = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -14x + 48 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 48 y sumados den -14, los cuales son -6 y -8. Esto nos da $$(x - 6)(x - 8) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 6$ y $x = 8$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -16x + 63 = 0$$",
+      "context": "Un diseñador industrial en Caguas calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7$ y $x = 9$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 7)(x - 9) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -7$ y $x = -9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 9$ y $x = 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -16x + 63 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 63 y sumados den -16, los cuales son -7 y -9. Esto nos da $$(x - 7)(x - 9) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 7$ y $x = 9$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -18x + 80 = 0$$",
+      "context": "Un diseñador industrial en Humacao calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 8$ y $x = 10$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 8)(x - 10) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -8$ y $x = -10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10$ y $x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -18x + 80 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 80 y sumados den -18, los cuales son -8 y -10. Esto nos da $$(x - 8)(x - 10) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 8$ y $x = 10$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -20x + 99 = 0$$",
+      "context": "Un diseñador industrial en Mayagüez calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 9$ y $x = 11$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 9)(x - 11) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -9$ y $x = -11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 11$ y $x = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -20x + 99 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 99 y sumados den -20, los cuales son -9 y -11. Esto nos da $$(x - 9)(x - 11) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 9$ y $x = 11$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -22x + 120 = 0$$",
+      "context": "Un diseñador industrial en Ponce calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 10$ y $x = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 10)(x - 12) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -10$ y $x = -12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 12$ y $x = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -22x + 120 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 120 y sumados den -22, los cuales son -10 y -12. Esto nos da $$(x - 10)(x - 12) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 10$ y $x = 12$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -24x + 143 = 0$$",
+      "context": "Un diseñador industrial en San Juan calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 11$ y $x = 13$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 11)(x - 13) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -11$ y $x = -13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 13$ y $x = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -24x + 143 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 143 y sumados den -24, los cuales son -11 y -13. Esto nos da $$(x - 11)(x - 13) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 11$ y $x = 13$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -26x + 168 = 0$$",
+      "context": "Un diseñador industrial en Río Piedras calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12$ y $x = 14$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 12)(x - 14) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -12$ y $x = -14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 14$ y $x = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -26x + 168 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 168 y sumados den -26, los cuales son -12 y -14. Esto nos da $$(x - 12)(x - 14) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 12$ y $x = 14$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -28x + 195 = 0$$",
+      "context": "Un diseñador industrial en Caguas calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 13$ y $x = 15$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 13)(x - 15) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -13$ y $x = -15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 15$ y $x = 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -28x + 195 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 195 y sumados den -28, los cuales son -13 y -15. Esto nos da $$(x - 13)(x - 15) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 13$ y $x = 15$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -30x + 224 = 0$$",
+      "context": "Un diseñador industrial en Humacao calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 14$ y $x = 16$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 14)(x - 16) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -14$ y $x = -16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 16$ y $x = 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -30x + 224 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 224 y sumados den -30, los cuales son -14 y -16. Esto nos da $$(x - 14)(x - 16) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 14$ y $x = 16$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -32x + 255 = 0$$",
+      "context": "Un diseñador industrial en Mayagüez calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 15$ y $x = 17$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 15)(x - 17) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -15$ y $x = -17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 17$ y $x = 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -32x + 255 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 255 y sumados den -32, los cuales son -15 y -17. Esto nos da $$(x - 15)(x - 17) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 15$ y $x = 17$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -34x + 288 = 0$$",
+      "context": "Un diseñador industrial en Ponce calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 16$ y $x = 18$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 16)(x - 18) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -16$ y $x = -18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 18$ y $x = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -34x + 288 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 288 y sumados den -34, los cuales son -16 y -18. Esto nos da $$(x - 16)(x - 18) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 16$ y $x = 18$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -36x + 323 = 0$$",
+      "context": "Un diseñador industrial en San Juan calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 17$ y $x = 19$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 17)(x - 19) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -17$ y $x = -19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 19$ y $x = 21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -36x + 323 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 323 y sumados den -36, los cuales son -17 y -19. Esto nos da $$(x - 17)(x - 19) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 17$ y $x = 19$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -38x + 360 = 0$$",
+      "context": "Un diseñador industrial en Río Piedras calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 18$ y $x = 20$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 18)(x - 20) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -18$ y $x = -20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 20$ y $x = 22$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -38x + 360 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 360 y sumados den -38, los cuales son -18 y -20. Esto nos da $$(x - 18)(x - 20) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 18$ y $x = 20$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -40x + 399 = 0$$",
+      "context": "Un diseñador industrial en Caguas calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 19$ y $x = 21$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 19)(x - 21) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -19$ y $x = -21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 21$ y $x = 23$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -40x + 399 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 399 y sumados den -40, los cuales son -19 y -21. Esto nos da $$(x - 19)(x - 21) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 19$ y $x = 21$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Encuentra las soluciones de la siguiente ecuación cuadrática:\n$$x^2 + -42x + 440 = 0$$",
+      "context": "Un diseñador industrial en Humacao calcula el área de una sección de empaque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 20$ y $x = 22$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como $(x - 20)(x - 22) = 0$, obtenemos las raíces reales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -20$ y $x = -22$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos de las raíces erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 22$ y $x = 24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisfacen la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene raíces reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es mayor a cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver la ecuación cuadrática $x^2 + -42x + 440 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 440 y sumados den -42, los cuales son -20 y -22. Esto nos da $$(x - 20)(x - 22) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 20$ y $x = 22$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

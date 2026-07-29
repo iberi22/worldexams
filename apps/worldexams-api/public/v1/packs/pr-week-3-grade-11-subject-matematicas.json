@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T02:17:15.696Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor simplificado de la expresión $(2^3)^2$?",
+      "context": "Un estudiante en San Juan repasa las leyes de exponentes en su libro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$64$",
+          "is_correct": true,
+          "feedback": "Correcto. $(2^3)^2 = 2^{3 \\times 2} = 2^6 = 64$."
+        },
+        {
+          "letter": "B",
+          "text": "$32$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia de una potencia requiere multiplicar los exponentes: $(2^3)^2 = 2^6 = 64$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la raíz cuadrada de la fracción $\\frac{9}{16}$?",
+      "context": "En una tutoría en Ponce se discute la raíz cuadrada de fracciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{9}/\\sqrt{16} = 3/4$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{9}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la raíz al numerador y denominador de forma independiente: $\\sqrt{\\frac{9}{16}} = \\frac{3}{4}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "¿A qué es igual la expresión $x^{-4}$ para $x \\neq 0$?",
+      "context": "Un estudiante en Mayagüez simplifica términos algebraicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-x^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{x^4}$",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente negativo indica el recíproco."
+        },
+        {
+          "letter": "C",
+          "text": "$4x$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$-4x$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición de exponentes negativos, $x^{-n} = \\frac{1}{x^n}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de la raíz cúbica de $-27$, es decir, $\\sqrt[3]{-27}$?",
+      "context": "En Bayamón, se analiza el comportamiento de raíces impares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe en los reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$-3$",
+          "is_correct": true,
+          "feedback": "Correcto. $(-3)^3 = -27$."
+        },
+        {
+          "letter": "C",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$-9$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La raíz de índice impar de un número real negativo existe en el campo real y es negativa: $\\sqrt[3]{-27} = -3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor simplificado de la expresión $\\frac{x^7 \\cdot x^{-2}}{x^2}$ para $x \\neq 0$?",
+      "context": "Un técnico en Carolina calcula la resistencia eléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^7$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{x^5}{x^2} = x^3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^9$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicando potencias de igual base se suman los exponentes: $x^7 \\cdot x^{-2} = x^5$. Dividiendo, se restan: $x^5 \\div x^2 = x^3$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "¿Qué expresión representa la forma radical de $x^{3/5}$?",
+      "context": "En una clase de álgebra en Caguas, se estudia la ley de exponentes fraccionarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt[5]{x^3}$",
+          "is_correct": true,
+          "feedback": "Correcto. El denominador es el índice de la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt[3]{x^5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$5x^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{\\sqrt[5]{x^3}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de exponente fraccionario, $x^{a/b} = \\sqrt[b]{x^a}$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "Si el volumen de un cubo es de $125\\text{ pulgadas cúbicas}$, ¿cuál es la medida del lado del cubo?",
+      "context": "Un carpintero en Humacao calcula el volumen de un cubo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\text{ pulgadas}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$5\\text{ pulgadas}$",
+          "is_correct": true,
+          "feedback": "Correcto. $5^3 = 125 \\Rightarrow \\sqrt[3]{125} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$15\\text{ pulgadas}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$5\\sqrt{5}\\text{ pulgadas}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La arista de un cubo con volumen $V$ es $\\sqrt[3]{V}$. Como $125 = 5^3$, la medida es $5$ pulgadas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "Si el área es de $18\\text{ m}^2$, ¿cuál es el largo de su lado en forma de radical simplificado?",
+      "context": "Un contratista en San Juan calcula el largo de un terreno cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9\\sqrt{2}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{2}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{18} = 3\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{3}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lado mide $\\sqrt{18}$. Simplificando el radical: $\\sqrt{18} = \\sqrt{9 \\times 2} = 3\\sqrt{2}$ metros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el resultado de la operación $3\\sqrt{8} - 2\\sqrt{18}$?",
+      "context": "Un estudiante en Ponce simplifica radicales semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": true,
+          "feedback": "Correcto. $6\\sqrt{2} - 6\\sqrt{2} = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Simplificando: $3\\sqrt{8} = 6\\sqrt{2}$ y $2\\sqrt{18} = 6\\sqrt{2}$. Al restar se obtiene $0$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "Si el largo es $2\\sqrt{3}\\text{ m}$ y el ancho es $4\\sqrt{3}\\text{ m}$, ¿cuál es el área del lote?",
+      "context": "Un topógrafo en Bayamón evalúa las dimensiones de un lote rectangular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8\\sqrt{3}\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$24\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $8 \\times 3 = 24$."
+        },
+        {
+          "letter": "C",
+          "text": "$12\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$48\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Área es largo por ancho: $(2\\sqrt{3}) \\times (4\\sqrt{3}) = 8 \\times 3 = 24$ metros cuadrados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor simplificado de la expresión $\\frac{27^{2/3}}{16^{1/4}}$?",
+      "context": "Un estudiante de la UPR simplifica expresiones con exponentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{9}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $27^{2/3} = 9$, $16^{1/4} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{9}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{27}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Numerador: $(\\sqrt[3]{27})^2 = 3^2 = 9$. Denominador: $\\sqrt[4]{16} = 2$. El cociente es $\\frac{9}{2}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "Racionaliza el denominador de $\\frac{6}{\\sqrt{3}}$. ¿Cuál es su forma equivalente?",
+      "context": "En una clase de matemáticas en Carolina, se racionalizan denominadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{6\\sqrt{3}}{3} = 2\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicando por $\\frac{\\sqrt{3}}{\\sqrt{3}}$, obtenemos $\\frac{6\\sqrt{3}}{3} = 2\\sqrt{3}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "Si hay inicialmente $100$ bacterias y se duplican cada hora, ¿cuántas hay a las $2.5\\text{ horas}$?",
+      "context": "Diego analiza bacterias en un laboratorio de Mayagüez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$500\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor no corresponde al modelo exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "$400\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $100 \\times 2^{2.5} = 400\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$200\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$300\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Fórmula: $100 \\times 2^{2.5} = 100 \\times 2^2 \\times 2^{1/2} = 400\\sqrt{2}$ bacterias.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el resultado de racionalizar el denominador de $\\frac{2}{\\sqrt{5} - 1}$?",
+      "context": "Se pide racionalizar una expresión de tipo binomio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{5} + 1}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{2(\\sqrt{5}+1)}{4} = \\frac{\\sqrt{5}+1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{5} + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{5} - 1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\sqrt{5} + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicamos por el conjugado: $\\frac{2(\\sqrt{5}+1)}{(\\sqrt{5}-1)(\\sqrt{5}+1)} = \\frac{2(\\sqrt{5}+1)}{4} = \\frac{\\sqrt{5}+1}{2}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "Si la arista de un cubo se triplica, ¿cuántas veces aumenta su volumen?",
+      "context": "En Ponce, un contratista analiza cómo cambia el volumen de un cubo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3\\text{ veces}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$9\\text{ veces}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$27\\text{ veces}$",
+          "is_correct": true,
+          "feedback": "Correcto. $3^3 = 27$."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\text{ veces}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen es el cubo de la arista. Al triplicar el lado, el volumen se multiplica por $3^3 = 27$ veces.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor de $x$ que satisface la ecuación radical $\\sqrt{3x - 2} = 4$?",
+      "context": "Un estudiante en Bayamón resuelve una ecuación radical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x-2=16 \\Rightarrow 3x=18 \\Rightarrow x=6$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{16}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elevando al cuadrado: $3x - 2 = 16 \\Rightarrow 3x = 18 \\Rightarrow x = 6$. Verificando, $\\sqrt{18-2} = 4$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "Si la fuerza $F$ está dada por $F = \\frac{(a^2 \\cdot b)^{3/2}}{a \\cdot b^{1/2}}$, ¿cuál es su expresión simplificada?",
+      "context": "Un ingeniero civil en San Juan evalúa fuerzas sobre una viga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a \\cdot b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se simplificaron denominadores de forma errónea."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 \\cdot b$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{a^3 \\cdot b^{1.5}}{a \\cdot b^{0.5}} = a^2 \\cdot b$."
+        },
+        {
+          "letter": "C",
+          "text": "$a \\cdot b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$a^3 \\cdot b$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Numerador: $a^3 \\cdot b^{3/2}$. Al dividir restamos exponentes: $a^{3-1} \\cdot b^{3/2-1/2} = a^2 \\cdot b$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el resultado de simplificar $\\sqrt[3]{54x^5 y^6}$?",
+      "context": "En Mayagüez, se simplifica un radical de grado tres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3xy^2\\sqrt[3]{2x^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt[3]{27 \\cdot 2 \\cdot x^3 \\cdot x^2 \\cdot y^6} = 3xy^2\\sqrt[3]{2x^2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$3xy\\sqrt[3]{2x^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2y^2\\sqrt[3]{2x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$9xy^2\\sqrt[3]{2x^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Separando factores cúbicos perfectos: $\\sqrt[3]{27 \\cdot 2 \\cdot x^3 \\cdot x^2 \\cdot (y^2)^3} = 3xy^2\\sqrt[3]{2x^2}$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el conjunto de soluciones reales para la ecuación $x^{2/3} = 9$?",
+      "context": "Un estudiante en Bayamón resuelve una ecuación cuadrática racional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 27$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 27$ y $x = -27$",
+          "is_correct": true,
+          "feedback": "Correcto. $x = \\pm 9^{3/2} = \\pm 27$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 9$ y $x = -9$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elevando a la $3/2$: $x = \\pm (\\sqrt{9})^3 = \\pm 3^3 = \\pm 27$. Ambas soluciones son reales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el resultado de simplificar la potencia imaginaria $i^{43}$?",
+      "context": "Un maestro de Ponce evalúa la unidad imaginaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$-i$",
+          "is_correct": true,
+          "feedback": "Correcto. $i^{43} = i^{4(10)+3} = i^3 = -i$."
+        },
+        {
+          "letter": "C",
+          "text": "$i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividiendo el exponente $43 \\div 4$ da residuo $3$. Así, $i^{43} = i^3 = -i$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
