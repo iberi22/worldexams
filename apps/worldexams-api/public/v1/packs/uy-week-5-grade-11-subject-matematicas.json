@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "uy",
+    "pack_id": "uy-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T03:05:14.421Z"
+  },
+  "questions": [
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "¿Qué condición debe cumplir una relación entre dos conjuntos para ser una función?",
+      "context": "Una docente de Montevideo repasa la definición de función con sexto año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada elemento del dominio debe tener exactamente una imagen.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La unicidad de la imagen define a la función."
+        },
+        {
+          "letter": "B",
+          "text": "Cada elemento del codominio debe tener una preimagen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería sobreyectividad, no se exige para ser función."
+        },
+        {
+          "letter": "C",
+          "text": "Elementos distintos del dominio deben tener imágenes distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es inyectividad; una función puede repetir imágenes."
+        },
+        {
+          "letter": "D",
+          "text": "El dominio y el codominio deben tener la misma cantidad de elementos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conjuntos pueden tener cualquier cardinal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una función asigna a cada $x$ del dominio un único $y$. Las propiedades de inyectividad o sobreyectividad son adicionales, no parte de la definición.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "En la función lineal $f(x) = 3x - 5$, ¿cuál es la pendiente?",
+      "context": "En un liceo de Salto se identifica la pendiente en la forma explícita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el término independiente u ordenada al origen."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! En $f(x) = mx + b$, la pendiente es $m = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x$ es la variable, no un coeficiente."
+        },
+        {
+          "letter": "D",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede sumar los coeficientes; la pendiente es solo el factor de $x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la forma explícita $y = mx + b$, $m$ es la pendiente (tasa de cambio) y $b$ la ordenada al origen. Aquí $m = 3$.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el costo de un viaje de 5 km según esa función?",
+      "context": "Un taxímetro de Montevideo cobra según la función $C(x) = 40x + 60$, donde $x$ son los kilómetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$U\\,200$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la bajada de bandera de 60 pesos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$U\\,260$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $40(5) + 60 = 260$ pesos."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$U\\,100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los coeficientes sin evaluar en $x = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$U\\,300$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 60 por 5; el costo variable es $40x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una función es sustituir la variable: $C(5) = 40 \\cdot 5 + 60 = 260$. El término independiente es el costo fijo del servicio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el dominio de la función $f(x) = x^2 - 3x + 2$?",
+      "context": "Una estudiante de Colonia interpreta el dominio de una función cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo los números positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los polinomios admiten cualquier real, incluidos negativos."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los reales excepto $x = 1$ y $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son las raíces, no restricciones del dominio."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los números reales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Toda función polinómica tiene dominio $\\mathbb{R}$."
+        },
+        {
+          "letter": "D",
+          "text": "Los números enteros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada impide evaluar el polinomio en fracciones o irracionales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las funciones polinómicas no tienen divisiones ni raíces de índice par que restrinjan valores: su dominio es todo $\\mathbb{R}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "Si $f(x) = 2x^2 - x$, ¿cuál es el valor de $f(3)$?",
+      "context": "Un técnico de Canelones calcula imágenes de una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $3^2$ sin los coeficientes."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2(9) - 3 = 18 - 3 = 15$."
+        },
+        {
+          "letter": "C",
+          "text": "$21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de restar el término lineal."
+        },
+        {
+          "letter": "D",
+          "text": "$39$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste $2x$ al cuadrado: $(2x)^2$ no es lo mismo que $2x^2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituyendo: $f(3) = 2(3)^2 - 3 = 18 - 3 = 15$. Respetar la jerarquía: primero la potencia, luego los productos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la raíz (cero) de la función $f(x) = 4x - 12$?",
+      "context": "Un comercio de Maldonado ajusta su precio con una función lineal de la demanda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisá el signo al despejar: $4x = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $4x - 12 = 0$ implica $x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta dividir entre el coeficiente 4."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz es donde la función vale 0, no donde $x$ vale 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La raíz se obtiene igualando a cero: $4x = 12$, $x = 3$. Gráficamente es donde la recta corta al eje $x$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la pendiente de la recta que pasa por $(1, 2)$ y $(5, 10)$?",
+      "context": "Una profesora de Rivera pide la ecuación de una recta dados dos puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el cociente: es $\\frac{\\Delta y}{\\Delta x}$, no $\\frac{\\Delta x}{\\Delta y}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $m = \\frac{10 - 2}{5 - 1} = \\frac{8}{4} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste solo las abscisas o solo las ordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo $\\Delta y$; falta dividir por $\\Delta x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente entre dos puntos es $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{8}{4} = 2$: por cada unidad horizontal, la recta sube dos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la ecuación de la recta con pendiente $-2$ que pasa por el punto $(3, 1)$?",
+      "context": "Un agrimensor de Tacuarembó modela una ladera con una recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 1 es la ordenada del punto, no la ordenada al origen."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -2x + 7$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $1 = -2(3) + b$ da $b = 7$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -2x - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisá el signo al despejar $b$: $1 + 6 = 7$."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 2x - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente pedida es negativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con punto-pendiente: $y - 1 = -2(x - 3)$, desarrollando $y = -2x + 7$. Verificación: en $x = 3$ da $y = 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "Las funciones $f(x) = 2x + 3$ y $g(x) = -x + 9$ se intersecan en el punto de abscisa:",
+      "context": "Una empresa de Paysandú analiza el crecimiento de sus ventas con dos funciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = 3$, $f(3) = 9$ pero $g(3) = 6$; no coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2x + 3 = -x + 9$ da $3x = 6$, $x = 2$ (y $y = 7$)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los términos independientes sin agrupar los de $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $3x$, falta dividir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intersección se halla igualando las expresiones: $2x + 3 = -x + 9$, así $x = 2$ e $y = 7$. El punto es $(2, 7)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "¿Cuáles son las raíces de $f(x) = x^2 - 6x + 5$?",
+      "context": "Un club de Durazno estudia el recorrido de su pelota con $f(x) = x^2 - 6x + 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$ y $x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $(x-1)(x-5) = 0$: suma 6 y producto 5."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -1$ y $x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas raíces corresponden a $x^2 + 6x + 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$ y $x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su producto es 6, no 5."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6$ y $x = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su suma es 5, no 6."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Buscando dos números con suma 6 y producto 5: 1 y 5. Las raíces marcan donde la parábola cruza el eje $x$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "¿Qué se puede afirmar de las rectas $y = 3x + 1$ e $y = 3x - 4$?",
+      "context": "Un analista de Montevideo compara el crecimiento de dos rectas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se cortan en el punto $(0, 1)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen la misma pendiente: nunca se cortan."
+        },
+        {
+          "letter": "B",
+          "text": "Son paralelas porque tienen igual pendiente y distinta ordenada.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $m = 3$ en ambas y $b$ distinto: paralelas."
+        },
+        {
+          "letter": "C",
+          "text": "Son la misma recta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ordenadas al origen difieren."
+        },
+        {
+          "letter": "D",
+          "text": "Son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La perpendicular tendría pendiente $-\\frac{1}{3}$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos rectas con igual pendiente y distinta ordenada al origen son paralelas: no se intersecan jamás. La perpendicularidad exige pendientes inversas y opuestas.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "¿Para qué valores de $x$ la función $f(x) = -2x + 8$ toma valores positivos?",
+      "context": "Una docente de Florida analiza el signo de una función lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $-2x + 8 > 0$ implica $x < 4$ (se invierte al dividir por $-2$)."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir por un negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$x > -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisá los signos: la raíz es $x = 4$, no $-4$."
+        },
+        {
+          "letter": "D",
+          "text": "Todo número real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta decrece y se hace negativa a partir de $x = 4$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolver $-2x + 8 > 0$ da $x < 4$, invirtiendo el sentido al dividir por $-2$. Coherente con una recta decreciente que corta al eje en 4.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "La función $f(x) = -x^2 + 6x - 5$ alcanza su valor máximo en:",
+      "context": "Un físico de la Udelar interpreta el vértice de una parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -3$, con valor máximo $-32$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abscisa del vértice es $-\\frac{b}{2a} = 3$, positiva."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$, con valor máximo $-5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el coeficiente $b$ directamente como abscisa del vértice."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$, con valor máximo $4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x_v = 3$ y $f(3) = -9 + 18 - 5 = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene máximo porque es cuadrática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al abrir hacia abajo ($a < 0$), sí tiene máximo en el vértice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con $a = -1 < 0$ la parábola abre hacia abajo y el vértice es máximo: $x_v = \\frac{-6}{-2} = 3$, $f(3) = 4$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "Si $f(x) = 3x + 2$ y $g(x) = x - 4$, ¿cuál es el valor de $f(g(6))$?",
+      "context": "Una municipalidad de San José cobra el estacionamiento con tarifa por tramos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $g(f(6))$: el orden de composición importa."
+        },
+        {
+          "letter": "B",
+          "text": "$8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $g(6) = 2$ y $f(2) = 3(2) + 2 = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el valor intermedio $g(6)$."
+        },
+        {
+          "letter": "D",
+          "text": "$22$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Componés en el orden equivocado o sumaste los resultados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La composición $f(g(x))$ evalúa primero la función interna: $g(6) = 2$, luego $f(2) = 8$. El orden no es conmutativo en general.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "¿Qué transformación lleva la gráfica de $y = x^2$ a la de $y = (x - 3)^2 + 2$?",
+      "context": "Un estudiante de Rocha transforma la gráfica de $y = x^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traslación 3 unidades a la izquierda y 2 hacia abajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos dentro del paréntesis trasladan en dirección opuesta a la intuición."
+        },
+        {
+          "letter": "B",
+          "text": "Traslación 3 unidades a la derecha y 2 hacia arriba.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x - 3$ mueve a la derecha 3 y $+2$ sube la gráfica."
+        },
+        {
+          "letter": "C",
+          "text": "Traslación 3 unidades a la derecha y 2 hacia abajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término externo $+2$ desplaza hacia arriba."
+        },
+        {
+          "letter": "D",
+          "text": "Traslación 2 unidades a la derecha y 3 hacia arriba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los desplazamientos horizontal y vertical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En $y = (x - h)^2 + k$ el vértice pasa a $(h, k)$: traslación horizontal $h$ a la derecha y vertical $k$ hacia arriba. Aquí el vértice queda en $(3, 2)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la función inversa de $f(x) = 2x + 6$?",
+      "context": "Una economista de Melo estudia la función inversa de un modelo de precios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{x - 6}{2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Despejando $x$ de $y = 2x + 6$: $x = \\frac{y - 6}{2}$ e intercambiando variables."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{x}{2} - 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 6 también queda dividido: sería $\\frac{x}{2} - 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = -2x - 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el signo no invierte la función."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{1}{2x + 6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inversa no es el recíproco de la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Invertir consiste en despejar $x$ en función de $y$: $x = \\frac{y-6}{2}$, y renombrar: $f^{-1}(x) = \\frac{x-6}{2}$. La composición $f(f^{-1}(x)) = x$ lo verifica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "Una tabla muestra que para $x = 1, 2, 3$ los valores de $f(x)$ son $5, 7, 9$. ¿Cuál modelo describe mejor los datos?",
+      "context": "En un examen en Minas se evalúa la lectura de una tabla de valores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lineal, $f(x) = 2x + 3$, porque la diferencia entre valores consecutivos es constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tasa de cambio es 2 constante y $f(1) = 5$ fija el término 3."
+        },
+        {
+          "letter": "B",
+          "text": "Cuadrático, porque los valores crecen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Crecer no implica cuadrático; la diferencia constante delata lo lineal."
+        },
+        {
+          "letter": "C",
+          "text": "Lineal, $f(x) = 5x$, porque el primer valor es 5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(2) = 10 \\ne 7$; no ajusta los demás puntos."
+        },
+        {
+          "letter": "D",
+          "text": "Constante, porque todos los valores son positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores cambian: no es una función constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferencias primeras constantes ($+2$) identifican un modelo lineal con pendiente 2; ajustando el punto $(1, 5)$ queda $f(x) = 2x + 3$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál criterio decide si una gráfica en el plano representa una función de $x$?",
+      "context": "Una docente de Treinta y Tres pide decidir si una gráfica representa una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prueba de la recta horizontal: si corta una vez, es función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa prueba sirve para detectar inyectividad, no la definición de función."
+        },
+        {
+          "letter": "B",
+          "text": "La prueba de la recta vertical: toda vertical debe cortar la gráfica a lo sumo una vez.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Garantiza que cada $x$ tenga una única imagen."
+        },
+        {
+          "letter": "C",
+          "text": "La gráfica debe pasar por el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas funciones no pasan por $(0,0)$."
+        },
+        {
+          "letter": "D",
+          "text": "La gráfica debe ser una línea continua sin saltos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay funciones discontinuas perfectamente válidas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prueba de la recta vertical traduce la definición: ninguna vertical puede tocar dos puntos de la gráfica, porque eso asignaría dos imágenes a un mismo $x$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "¿Qué cantidad $q$ maximiza el ingreso total $I(q) = q \\cdot p(q)$?",
+      "context": "Un productor de Colonia vende $q$ toneladas de trigo; el precio unitario baja con la cantidad: $p(q) = 120 - 2q$ miles de pesos por tonelada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$q = 60$, porque allí el precio llega a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con precio cero el ingreso también es cero, no máximo."
+        },
+        {
+          "letter": "B",
+          "text": "$q = 30$, el vértice de la parábola de ingresos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $I(q) = -2q^2 + 120q$ tiene vértice en $q = \\frac{-120}{-4} = 30$."
+        },
+        {
+          "letter": "C",
+          "text": "$q = 10$, porque se vende menos pero más caro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $q = 10$ el ingreso es $1000$, menor que el máximo $1800$."
+        },
+        {
+          "letter": "D",
+          "text": "$q = 120$, porque más cantidad siempre da más ingreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $q = 120$ el precio sería negativo y el modelo pierde sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ingreso $I(q) = 120q - 2q^2$ es una parábola que abre hacia abajo; su máximo está en el vértice $q = 30$, con ingreso $1800$ miles de pesos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la altura máxima que alcanza el proyectil?",
+      "context": "Un proyectil lanzado en Paysandú sigue la trayectoria $h(t) = -5t^2 + 30t + 10$ metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la altura inicial $h(0)$, no la máxima."
+        },
+        {
+          "letter": "B",
+          "text": "$30$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el coeficiente de $t$, no una altura."
+        },
+        {
+          "letter": "C",
+          "text": "$55$ metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! $t_v = \\frac{-30}{-10} = 3$ y $h(3) = -45 + 90 + 10 = 55$ metros."
+        },
+        {
+          "letter": "D",
+          "text": "$45$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede evaluar parcialmente; sumá todos los términos en $t = 3$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El vértice da el máximo: $t_v = 3$ s y $h(3) = 55$ m. Modelar con cuadráticas permite optimizar magnitudes físicas reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}
