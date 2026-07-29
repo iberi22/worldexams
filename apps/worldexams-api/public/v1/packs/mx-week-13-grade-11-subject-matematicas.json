@@ -906,6 +906,906 @@
       "subject": "matematicas",
       "grade": 11,
       "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 15 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Puebla analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "30 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "22 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 15 cm, entonces P_mayor = P_menor * (4/3) = 15 * 4 / 3 = 20 cm.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 18 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Guadalajara analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "32 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "36 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "27 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 18 cm, entonces P_mayor = P_menor * (4/3) = 18 * 4 / 3 = 24 cm.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 21 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Monterrey analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "37 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "31 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 21 cm, entonces P_mayor = P_menor * (4/3) = 21 * 4 / 3 = 28 cm.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 24 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Toluca analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "48 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "36 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 24 cm, entonces P_mayor = P_menor * (4/3) = 24 * 4 / 3 = 32 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 27 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Querétaro analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "48 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "54 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "40 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 27 cm, entonces P_mayor = P_menor * (4/3) = 27 * 4 / 3 = 36 cm.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 30 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Mérida analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "53 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "60 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "45 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 30 cm, entonces P_mayor = P_menor * (4/3) = 30 * 4 / 3 = 40 cm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 33 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Cancún analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "44 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "58 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "66 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "49 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 33 cm, entonces P_mayor = P_menor * (4/3) = 33 * 4 / 3 = 44 cm.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 36 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Veracruz analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "48 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "64 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "72 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "54 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 36 cm, entonces P_mayor = P_menor * (4/3) = 36 * 4 / 3 = 48 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 39 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Oaxaca analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "69 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "78 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "58 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 39 cm, entonces P_mayor = P_menor * (4/3) = 39 * 4 / 3 = 52 cm.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 42 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en San Luis Potosí analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "56 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "74 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "84 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "63 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 42 cm, entonces P_mayor = P_menor * (4/3) = 42 * 4 / 3 = 56 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 45 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Puebla analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "80 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "90 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "67 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 45 cm, entonces P_mayor = P_menor * (4/3) = 45 * 4 / 3 = 60 cm.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 48 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Guadalajara analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "64 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "85 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "96 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "72 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 48 cm, entonces P_mayor = P_menor * (4/3) = 48 * 4 / 3 = 64 cm.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 51 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Monterrey analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "68 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "90 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "102 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "76 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 51 cm, entonces P_mayor = P_menor * (4/3) = 51 * 4 / 3 = 68 cm.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 54 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Toluca analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "72 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "96 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "108 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "81 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 54 cm, entonces P_mayor = P_menor * (4/3) = 54 * 4 / 3 = 72 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 57 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Querétaro analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "76 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "101 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "114 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "85 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 57 cm, entonces P_mayor = P_menor * (4/3) = 57 * 4 / 3 = 76 cm.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 60 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Mérida analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "106 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "120 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "90 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 60 cm, entonces P_mayor = P_menor * (4/3) = 60 * 4 / 3 = 80 cm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 63 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Cancún analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "112 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "126 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "94 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 63 cm, entonces P_mayor = P_menor * (4/3) = 63 * 4 / 3 = 84 cm.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 66 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Veracruz analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "88 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "117 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "132 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "99 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 66 cm, entonces P_mayor = P_menor * (4/3) = 66 * 4 / 3 = 88 cm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 69 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Oaxaca analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "92 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "122 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "138 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "103 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 69 cm, entonces P_mayor = P_menor * (4/3) = 69 * 4 / 3 = 92 cm.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 72 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en San Luis Potosí analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "96 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "128 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "144 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "108 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 72 cm, entonces P_mayor = P_menor * (4/3) = 72 * 4 / 3 = 96 cm.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
     }
   ]
 }

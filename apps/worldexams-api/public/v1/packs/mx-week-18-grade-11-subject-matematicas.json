@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-18-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T05:11:20.316Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v1",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 1?",
+      "context": "Un programador de videojuegos en Guadalajara optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 1cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "1 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 1cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 1 * cos²(x).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v2",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 2?",
+      "context": "Un programador de videojuegos en CDMX optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 2cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "2 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 2cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 2 * cos²(x).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v3",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 3?",
+      "context": "Un programador de videojuegos en Monterrey optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 3cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "3 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 3cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 3 * cos²(x).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v4",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 4?",
+      "context": "Un programador de videojuegos en Querétaro optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 4cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "4 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 4cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 4 * cos²(x).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v5",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 5?",
+      "context": "Un programador de videojuegos en Puebla optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 5cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "5 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 5cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 5 * cos²(x).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v6",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 6?",
+      "context": "Un programador de videojuegos en Mérida optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 6cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "6 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 6cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 6 * cos²(x).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v7",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 7?",
+      "context": "Un programador de videojuegos en Aguascalientes optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 7cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "7 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 7cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 7 * cos²(x).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v8",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 8?",
+      "context": "Un programador de videojuegos en San Luis Potosí optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 8cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "8 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 8cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 8 * cos²(x).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v9",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 9?",
+      "context": "Un programador de videojuegos en Toluca optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 9cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "9 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 9cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 9 * cos²(x).",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v10",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 10?",
+      "context": "Un programador de videojuegos en Cancún optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 10cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "10 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 10cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 10 * cos²(x).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v11",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 11?",
+      "context": "Un programador de videojuegos en Guadalajara optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 11cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "11 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 11cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 11 * cos²(x).",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v12",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 12?",
+      "context": "Un programador de videojuegos en CDMX optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 12cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "12 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 12cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 12 * cos²(x).",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v13",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 13?",
+      "context": "Un programador de videojuegos en Monterrey optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 13cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "13 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 13cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 13 * cos²(x).",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v14",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 14?",
+      "context": "Un programador de videojuegos en Querétaro optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 14cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "14 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 14cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 14 * cos²(x).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v15",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 15?",
+      "context": "Un programador de videojuegos en Puebla optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 15cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "15 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 15cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 15 * cos²(x).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v16",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 16?",
+      "context": "Un programador de videojuegos en Mérida optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 16cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "16 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 16cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 16 * cos²(x).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v17",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 17?",
+      "context": "Un programador de videojuegos en Aguascalientes optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 17cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "17 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 17cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 17 * cos²(x).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v18",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 18?",
+      "context": "Un programador de videojuegos en San Luis Potosí optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 18cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "18 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 18cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 18 * cos²(x).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v19",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 19?",
+      "context": "Un programador de videojuegos en Toluca optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 19cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "19 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 19cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 19 * cos²(x).",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v20",
+      "statement": "¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 20?",
+      "context": "Un programador de videojuegos en Cancún optimiza la rotación de un personaje usando identidades trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 + 20cos²(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x)."
+        },
+        {
+          "letter": "B",
+          "text": "20 * (sen²(x) + cos²(x))",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar toda la expresión a un número constante."
+        },
+        {
+          "letter": "D",
+          "text": "sen(x) + 20cos(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sabemos que sen(x) * csc(x) = 1. Sustituyendo esta identidad trigonométrica fundamental en la expresión: E = 1 + 20 * cos²(x).",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}
