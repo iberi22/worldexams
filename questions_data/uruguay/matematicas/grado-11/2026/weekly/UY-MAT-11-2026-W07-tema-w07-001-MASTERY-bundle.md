@@ -1,0 +1,400 @@
+---
+id: "UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle"
+country: "uruguay"
+grado: 11
+asignatura: "matematicas"
+tema: "tema-w07"
+periodo: "weekly"
+week: "W07"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 20
+bundle_size: 20
+alignment: "ANEP - Plan 2006 Reformulación / Programa Ubicación"
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# MASTERY Bundle — Matemáticas: Trigonometría (UY-MAT-11-W07)
+
+## Question 1 [D3]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.90
+**Contexto:** Una docente de Montevideo repasa las razones trigonométricas en el triángulo rectángulo.
+
+### Enunciado
+En un triángulo rectángulo, el seno de un ángulo agudo se define como:
+
+### Opciones
+- [x] A) El cociente entre el cateto opuesto y la hipotenusa. <!-- feedback: ¡Correcto! $\sin \alpha = \frac{\text{opuesto}}{\text{hipotenusa}}$. -->
+- [ ] B) El cociente entre el cateto adyacente y la hipotenusa. <!-- feedback: Incorrecto. Esa es la definición del coseno. -->
+- [ ] C) El cociente entre el cateto opuesto y el adyacente. <!-- feedback: Incorrecto. Esa es la definición de la tangente. -->
+- [ ] D) El producto de los dos catetos. <!-- feedback: Incorrecto. Las razones trigonométricas son cocientes, no productos. -->
+
+### Explicación Pedagógica
+Las tres razones básicas son: seno (opuesto/hipotenusa), coseno (adyacente/hipotenusa) y tangente (opuesto/adyacente). Memorizarlas con la palabra SOH-CAH-TOA ayuda.
+
+## Question 2 [D3]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
+**Bloom:** Remember
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.88
+**Contexto:** En un liceo de Salto se recuerdan los valores de los ángulos notables.
+
+### Enunciado
+¿Cuál es el valor de $\sin 30°$?
+
+### Opciones
+- [ ] A) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Ese es el valor de $\sin 60°$. -->
+- [x] B) $\frac{1}{2}$ <!-- feedback: ¡Correcto! El seno de 30° es exactamente un medio. -->
+- [ ] C) $\frac{\sqrt{2}}{2}$ <!-- feedback: Incorrecto. Ese es el valor de $\sin 45°$. -->
+- [ ] D) $1$ <!-- feedback: Incorrecto. El seno vale 1 recién a los 90°. -->
+
+### Explicación Pedagógica
+En el triángulo 30°-60°-90°, el cateto opuesto a 30° mide la mitad de la hipotenusa, por eso $\sin 30° = \frac{1}{2}$.
+
+## Question 3 [D4]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.85
+**Contexto:** Un estudiante de Colonia convierte grados a radianes.
+
+### Enunciado
+¿A cuántos radianes equivalen $180°$?
+
+### Opciones
+- [ ] A) $\frac{\pi}{2}$ radianes <!-- feedback: Incorrecto. Eso equivaldría a 90°. -->
+- [x] B) $\pi$ radianes <!-- feedback: ¡Correcto! $180° = \pi$ rad, la conversión fundamental. -->
+- [ ] C) $2\pi$ radianes <!-- feedback: Incorrecto. Eso equivale a 360°, la vuelta completa. -->
+- [ ] D) $\frac{\pi}{4}$ radianes <!-- feedback: Incorrecto. Eso equivale a 45°. -->
+
+### Explicación Pedagógica
+La equivalencia base es $180° = \pi$ radianes; de ahí se derivan todas las demás por proporcionalidad.
+
+## Question 4 [D4]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
+**Bloom:** Understand
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.82
+**Contexto:** Una topógrafa de Maldonado usa la identidad fundamental de la trigonometría.
+
+### Enunciado
+¿Cuál es la identidad trigonométrica fundamental?
+
+### Opciones
+- [ ] A) $\sin^2 \alpha - \cos^2 \alpha = 1$ <!-- feedback: Incorrecto. El signo correcto entre los cuadrados es la suma. -->
+- [x] B) $\sin^2 \alpha + \cos^2 \alpha = 1$ <!-- feedback: ¡Correcto! Es el teorema de Pitágoras aplicado al círculo unitario. -->
+- [ ] C) $\sin \alpha + \cos \alpha = 1$ <!-- feedback: Incorrecto. Sin los cuadrados la identidad no vale; probá con $\alpha = 45°$. -->
+- [ ] D) $\tan^2 \alpha + 1 = \sin^2 \alpha$ <!-- feedback: Incorrecto. La identidad correcta es $\tan^2 \alpha + 1 = \frac{1}{\cos^2 \alpha}$. -->
+
+### Explicación Pedagógica
+En el círculo unitario, las coordenadas de un punto son $(\cos \alpha, \sin \alpha)$ y el radio es 1: $\sin^2 \alpha + \cos^2 \alpha = 1$ por Pitágoras.
+
+## Question 5 [D5]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
+**Bloom:** Understand
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.78
+**Contexto:** Un estudiante de Canelones ubica ángulos en los cuadrantes del círculo unitario.
+
+### Enunciado
+¿En qué cuadrante el seno es positivo y el coseno es negativo?
+
+### Opciones
+- [ ] A) Primer cuadrante <!-- feedback: Incorrecto. En el primer cuadrante ambas razones son positivas. -->
+- [x] B) Segundo cuadrante <!-- feedback: ¡Correcto! Entre 90° y 180°, $y > 0$ (seno positivo) y $x < 0$ (coseno negativo). -->
+- [ ] C) Tercer cuadrante <!-- feedback: Incorrecto. En el tercer cuadrante ambas son negativas. -->
+- [ ] D) Cuarto cuadrante <!-- feedback: Incorrecto. En el cuarto, el seno es negativo y el coseno positivo. -->
+
+### Explicación Pedagógica
+En el círculo unitario, el seno es la coordenada $y$ y el coseno la $x$. El segundo cuadrante tiene $y > 0$ y $x < 0$.
+
+## Question 6 [D5]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.75
+**Contexto:** Un observador en Montevideo mide la sombra de un edificio para estimar su altura.
+
+### Enunciado
+Un edificio proyecta una sombra de $20$ m cuando el ángulo de elevación del Sol es $45°$. ¿Cuál es su altura?
+
+### Opciones
+- [ ] A) $10$ m <!-- feedback: Incorrecto. Con 45° la tangente vale 1: altura y sombra son iguales. -->
+- [x] B) $20$ m <!-- feedback: ¡Correcto! $\tan 45° = 1 = \frac{h}{20}$, así $h = 20$ m. -->
+- [ ] C) $20\sqrt{2}$ m <!-- feedback: Incorrecto. Ese sería el largo de la línea visual (hipotenusa), no la altura. -->
+- [ ] D) $40$ m <!-- feedback: Incorrecto. Duplicaste la sombra; la tangente de 45° no es 2. -->
+
+### Explicación Pedagógica
+Con ángulo de 45°, el triángulo es isósceles: $\tan 45° = 1$, por lo que la altura iguala a la sombra: 20 m.
+
+## Question 7 [D5]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.72
+**Contexto:** Una escalera apoyada en una pared de Tacuarembó forma un triángulo rectángulo.
+
+### Enunciado
+Una escalera de $10$ m forma un ángulo de $60°$ con el suelo. ¿A qué altura de la pared llega? (Usar $\sin 60° = \frac{\sqrt{3}}{2} \approx 0.866$.)
+
+### Opciones
+- [ ] A) $5$ m <!-- feedback: Incorrecto. Usaste el coseno (adyacente) en lugar del seno (opuesto). -->
+- [x] B) $5\sqrt{3} \approx 8.66$ m <!-- feedback: ¡Correcto! $\sin 60° = \frac{h}{10}$ da $h = 10 \cdot \frac{\sqrt{3}}{2} = 5\sqrt{3}$. -->
+- [ ] C) $10\sqrt{3}$ m <!-- feedback: Incorrecto. Multiplicaste de más; la altura es $10 \cdot \sin 60°$. -->
+- [ ] D) $10$ m <!-- feedback: Incorrecto. La escalera solo mediría 10 m de altura si estuviera vertical. -->
+
+### Explicación Pedagógica
+La altura es el cateto opuesto al ángulo: $h = 10 \cdot \sin 60° = 5\sqrt{3} \approx 8.66$ m.
+
+## Question 8 [D6]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
+**Bloom:** Apply
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.68
+**Contexto:** Un navegante frente a Punta del Este calcula distancias con el coseno.
+
+### Enunciado
+Si $\cos \alpha = \frac{3}{5}$ en un triángulo rectángulo con hipotenusa $15$, ¿cuánto mide el cateto adyacente a $\alpha$?
+
+### Opciones
+- [ ] A) $5$ <!-- feedback: Incorrecto. Confundiste el denominador de la razón con la longitud. -->
+- [x] B) $9$ <!-- feedback: ¡Correcto! $\text{adyacente} = 15 \cdot \frac{3}{5} = 9$. -->
+- [ ] C) $12$ <!-- feedback: Incorrecto. Ese sería el cateto opuesto por Pitágoras, no el adyacente. -->
+- [ ] D) $25$ <!-- feedback: Incorrecto. Dividiste en lugar de multiplicar por el coseno. -->
+
+### Explicación Pedagógica
+Del coseno: adyacente $= \cos \alpha \times$ hipotenusa $= \frac{3}{5} \cdot 15 = 9$. Por Pitágoras, el opuesto sería 12.
+
+## Question 9 [D6]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.65
+**Contexto:** Un estudiante de Rivera calcula la tangente a partir del seno y el coseno.
+
+### Enunciado
+Si $\sin \alpha = \frac{4}{5}$ y $\cos \alpha = \frac{3}{5}$, ¿cuánto vale $\tan \alpha$?
+
+### Opciones
+- [ ] A) $\frac{12}{25}$ <!-- feedback: Incorrecto. Multiplicaste seno por coseno; la tangente es el cociente. -->
+- [x] B) $\frac{4}{3}$ <!-- feedback: ¡Correcto! $\tan \alpha = \frac{\sin \alpha}{\cos \alpha} = \frac{4/5}{3/5} = \frac{4}{3}$. -->
+- [ ] C) $\frac{3}{4}$ <!-- feedback: Incorrecto. Invertiste el cociente. -->
+- [ ] D) $\frac{7}{5}$ <!-- feedback: Incorrecto. Sumaste numerador y denominador por separado. -->
+
+### Explicación Pedagógica
+La tangente es el cociente seno sobre coseno: $\frac{4/5}{3/5} = \frac{4}{3}$; las hipotenusas se cancelan.
+
+## Question 10 [D6]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.62
+**Contexto:** Una docente de Paysandú convierte un ángulo común a radianes.
+
+### Enunciado
+Expresa $60°$ en radianes.
+
+### Opciones
+- [ ] A) $\frac{\pi}{6}$ <!-- feedback: Incorrecto. Eso son 30°, la mitad de 60°. -->
+- [x] B) $\frac{\pi}{3}$ <!-- feedback: ¡Correcto! $60° \cdot \frac{\pi}{180°} = \frac{\pi}{3}$. -->
+- [ ] C) $\frac{2\pi}{3}$ <!-- feedback: Incorrecto. Eso son 120°. -->
+- [ ] D) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Eso son 90°. -->
+
+### Explicación Pedagógica
+Multiplicando por $\frac{\pi}{180}$: $60° = \frac{60\pi}{180} = \frac{\pi}{3}$ radianes.
+
+## Question 11 [D7]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
+**Bloom:** Analyze
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.58
+**Contexto:** Un estudiante de Durazno analiza el signo de la tangente en los cuadrantes.
+
+### Enunciado
+¿En qué cuadrantes la tangente es positiva?
+
+### Opciones
+- [ ] A) Primero y segundo. <!-- feedback: Incorrecto. En el segundo, seno positivo y coseno negativo dan tangente negativa. -->
+- [ ] B) Primero y cuarto. <!-- feedback: Incorrecto. En el cuarto, el seno negativo hace negativa la tangente. -->
+- [x] C) Primero y tercero. <!-- feedback: ¡Correcto! Donde seno y coseno tienen el mismo signo, su cociente es positivo. -->
+- [ ] D) Segundo y cuarto. <!-- feedback: Incorrecto. Ahí los signos difieren y la tangente es negativa. -->
+
+### Explicación Pedagógica
+Como $\tan = \frac{\sin}{\cos}$, es positiva cuando ambos coinciden en signo: primer cuadrante (+/+) y tercero (−/−).
+
+## Question 12 [D7]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.55
+**Contexto:** Una docente de Florida pregunta por el período de la función seno.
+
+### Enunciado
+¿Cuál es el período de la función $f(x) = \sin x$ (con $x$ en radianes)?
+
+### Opciones
+- [ ] A) $\pi$ <!-- feedback: Incorrecto. En $\pi$ radianes el seno solo completa media oscilación. -->
+- [x] B) $2\pi$ <!-- feedback: ¡Correcto! El seno se repite cada vuelta completa del círculo unitario. -->
+- [ ] C) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Ese intervalo solo cubre un cuarto del ciclo. -->
+- [ ] D) $4\pi$ <!-- feedback: Incorrecto. Duplica el período real; la función ya se repitió en $2\pi$. -->
+
+### Explicación Pedagógica
+El seno recorre su ciclo completo (sube, baja, vuelve) en una vuelta del círculo unitario: período $2\pi$.
+
+## Question 13 [D7]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
+**Bloom:** Analyze
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.52
+**Contexto:** Un estudiante de Rocha relaciona ángulos complementarios.
+
+### Enunciado
+Si $\alpha$ y $\beta$ son ángulos agudos complementarios ($\alpha + \beta = 90°$), ¿qué relación es correcta?
+
+### Opciones
+- [x] A) $\sin \alpha = \cos \beta$ <!-- feedback: ¡Correcto! El seno de un ángulo es el coseno de su complemento. -->
+- [ ] B) $\sin \alpha = \sin \beta$ <!-- feedback: Incorrecto. Solo valdría si los ángulos fueran iguales. -->
+- [ ] C) $\tan \alpha = \tan \beta$ <!-- feedback: Incorrecto. Las tangentes de complementarios son recíprocas, no iguales. -->
+- [ ] D) $\cos \alpha = -\cos \beta$ <!-- feedback: Incorrecto. Los ángulos agudos tienen cosenos positivos. -->
+
+### Explicación Pedagógica
+En el triángulo rectángulo, el cateto opuesto a $\alpha$ es el adyacente a $\beta$: por eso $\sin \alpha = \cos \beta$ cuando son complementarios.
+
+## Question 14 [D8]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
+**Bloom:** Apply
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.48
+**Contexto:** Un guardabosques del Cerro Pan de Azúcar calcula la distancia a un punto usando dos catetos.
+
+### Enunciado
+En un triángulo rectángulo, los catetos miden $5$ y $12$. ¿Cuánto mide la hipotenusa?
+
+### Opciones
+- [ ] A) $17$ <!-- feedback: Incorrecto. Sumaste los catetos; la hipotenusa sale del teorema de Pitágoras. -->
+- [x] B) $13$ <!-- feedback: ¡Correcto! $\sqrt{25 + 144} = \sqrt{169} = 13$. -->
+- [ ] C) $\sqrt{119}$ <!-- feedback: Incorrecto. Restaste los cuadrados; la hipotenusa usa la suma. -->
+- [ ] D) $7$ <!-- feedback: Incorrecto. Esa es la diferencia de los catetos, sin elevar al cuadrado. -->
+
+### Explicación Pedagógica
+Pitágoras: $c = \sqrt{5^2 + 12^2} = \sqrt{169} = 13$. La terna 5-12-13 es una de las pitagóricas clásicas.
+
+## Question 15 [D8]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.45
+**Contexto:** Una ingeniera de Melo despeja un ángulo a partir de una razón conocida.
+
+### Enunciado
+Si $\tan \alpha = 1$ y $\alpha$ es agudo, ¿cuánto mide $\alpha$?
+
+### Opciones
+- [ ] A) $30°$ <!-- feedback: Incorrecto. $\tan 30° = \frac{\sqrt{3}}{3} \approx 0.577$. -->
+- [x] B) $45°$ <!-- feedback: ¡Correcto! En 45° los catetos son iguales y su cociente es 1. -->
+- [ ] C) $60°$ <!-- feedback: Incorrecto. $\tan 60° = \sqrt{3} \approx 1.732$. -->
+- [ ] D) $90°$ <!-- feedback: Incorrecto. La tangente de 90° no está definida y 90° no es agudo. -->
+
+### Explicación Pedagógica
+$\tan \alpha = 1$ significa catetos iguales: el triángulo es isósceles y el ángulo agudo es 45°.
+
+## Question 16 [D8]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.42
+**Contexto:** Un estudiante de Minas analiza el rango de la función coseno.
+
+### Enunciado
+¿Por qué la ecuación $\cos x = 2$ no tiene solución real?
+
+### Opciones
+- [ ] A) Porque el coseno solo toma valores enteros. <!-- feedback: Incorrecto. El coseno toma todos los valores del intervalo $[-1, 1]$, no solo enteros. -->
+- [x] B) Porque el rango del coseno es $[-1, 1]$ y 2 está fuera de él. <!-- feedback: ¡Correcto! Ningún ángulo real produce un coseno mayor que 1. -->
+- [ ] C) Porque el coseno es siempre negativo. <!-- feedback: Incorrecto. El coseno es positivo en el primer y cuarto cuadrante. -->
+- [ ] D) Porque 2 no es un ángulo válido. <!-- feedback: Incorrecto. El 2 es el valor buscado de la función, no el ángulo. -->
+
+### Explicación Pedagógica
+En el círculo unitario, el coseno es la coordenada $x$, acotada entre $-1$ y $1$. Cualquier ecuación $\cos x = k$ con $|k| > 1$ es imposible en los reales.
+
+## Question 17 [D9]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.38
+**Contexto:** En un debate de clase en San José se evalúa la afirmación: "el seno de 150° es negativo".
+
+### Enunciado
+¿Cuál es la evaluación correcta de la afirmación?
+
+### Opciones
+- [ ] A) Verdadera, porque 150° es un ángulo obtuso. <!-- feedback: Incorrecto. La obtusidad no decide el signo: el segundo cuadrante tiene seno positivo. -->
+- [x] B) Falsa: 150° está en el segundo cuadrante, donde el seno es positivo ($\sin 150° = \frac{1}{2}$). <!-- feedback: ¡Correcto! $\sin 150° = \sin(180° - 30°) = \sin 30° = \frac{1}{2}$. -->
+- [ ] C) Verdadera, porque todo ángulo mayor que 90° tiene seno negativo. <!-- feedback: Incorrecto. Entre 90° y 180° el seno sigue siendo positivo. -->
+- [ ] D) Falsa, porque $\sin 150° = -\frac{1}{2}$ y el valor correcto es $\frac{\sqrt{3}}{2}$. <!-- feedback: Incorrecto. La conclusión (falsa) es acertada, pero los valores citados son erróneos. -->
+
+### Explicación Pedagógica
+Los ángulos del segundo cuadrante tienen seno positivo por simetría con el primero: $\sin 150° = \sin 30° = 0.5$. El signo lo da la coordenada $y$ del círculo unitario.
+
+## Question 18 [D9]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
+**Bloom:** Evaluate
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.35
+**Contexto:** Una examinadora de Treinta y Tres pide evaluar un procedimiento de resolución.
+
+### Enunciado
+Para hallar la altura de un cerro, un topógrafo mide desde un punto a $100$ m de la base un ángulo de elevación de $30°$ y calcula $h = 100 \cdot \tan 30° \approx 57.7$ m. ¿Es correcto el procedimiento?
+
+### Opciones
+- [x] A) Sí: la altura es el cateto opuesto y la distancia el adyacente, así que $h = 100 \tan 30°$. <!-- feedback: ¡Correcto! $\tan = \frac{\text{opuesto}}{\text{adyacente}}$ despeja $h = 100 \cdot \tan 30° \approx 57.7$ m. -->
+- [ ] B) No: debería usar el seno, porque la altura es el opuesto. <!-- feedback: Incorrecto. El seno involucra la hipotenusa, que no es el dato disponible. -->
+- [ ] C) No: la altura es $100 \cdot \sin 30° = 50$ m. <!-- feedback: Incorrecto. Ese cálculo usa la razón equivocada para los datos dados. -->
+- [ ] D) No: falta conocer la hipotenusa para cualquier cálculo. <!-- feedback: Incorrecto. Con el cateto adyacente y el ángulo basta la tangente. -->
+
+### Explicación Pedagógica
+Con el ángulo y el cateto adyacente (distancia horizontal), la tangente vincula directamente con el opuesto (altura): procedimiento correcto.
+
+## Question 19 [D10]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
+**Bloom:** Evaluate
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.32
+**Contexto:** Un barco sale del puerto de Montevideo y navega $3$ km al este y luego $4$ km al norte.
+
+### Enunciado
+¿Cuál es la distancia en línea recta del barco al puerto y qué ángulo forma su rumbo con la dirección este (medido hacia el norte)?
+
+### Opciones
+- [x] A) $5$ km y $\arctan\frac{4}{3} \approx 53.1°$ <!-- feedback: ¡Correcto! Pitágoras da 5 km y la tangente del rumbo es $\frac{4}{3}$. -->
+- [ ] B) $7$ km y $45°$ <!-- feedback: Incorrecto. Sumaste los trayectos; la distancia directa usa Pitágoras, y el ángulo no es 45° porque los catetos difieren. -->
+- [ ] C) $5$ km y $\arctan\frac{3}{4} \approx 36.9°$ <!-- feedback: Incorrecto. La distancia es correcta, pero el ángulo pedido (desde el este) usa opuesto 4 sobre adyacente 3. -->
+- [ ] D) $12$ km y $30°$ <!-- feedback: Incorrecto. Multiplicaste los trayectos; ninguna de las dos magnitudes es correcta. -->
+
+### Explicación Pedagógica
+La distancia es la hipotenusa: $\sqrt{9 + 16} = 5$ km. El rumbo desde el este cumple $\tan \theta = \frac{4}{3}$, así $\theta \approx 53.1°$.
+
+## Question 20 [D10]
+**ID:** UY-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**EJE:** Pensamiento Geométrico
+**Expected_Success:** 0.30
+**Contexto:** Un estudiante de Maldonado afirma que $\sin(\alpha + 30°) = \sin \alpha + \sin 30°$ para todo ángulo $\alpha$.
+
+### Enunciado
+¿Cuál es la evaluación correcta de esa identidad propuesta?
+
+### Opciones
+- [ ] A) Es válida porque el seno es una función lineal. <!-- feedback: Incorrecto. El seno no es lineal; probá con $\alpha = 0$: queda $0.5 = 0.5$, pero con $\alpha = 60°$ falla. -->
+- [x] B) Es falsa: con $\alpha = 60°$, el miembro izquierdo es $\sin 90° = 1$ y el derecho $\frac{\sqrt{3}}{2} + \frac{1}{2} \approx 1.366$. <!-- feedback: ¡Correcto! El contraejemplo con $\alpha = 60°$ la refuta; la fórmula correcta es $\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$. -->
+- [ ] C) Es válida solo para ángulos agudos. <!-- feedback: Incorrecto. No vale para ningún caso general salvo ángulos particulares como $\alpha = 0$. -->
+- [ ] D) Es falsa porque $\sin 30°$ no existe en radianes. <!-- feedback: Incorrecto. El valor existe; el problema es la supuesta linealidad. -->
+
+### Explicación Pedagógica
+Las funciones trigonométricas no distribuyen sobre la suma. La identidad correcta del seno de la suma es $\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$, y un solo contraejemplo basta para refutar la falsa.

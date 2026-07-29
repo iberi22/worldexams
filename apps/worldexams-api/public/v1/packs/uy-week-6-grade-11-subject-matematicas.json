@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "uy",
+    "pack_id": "uy-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T03:05:14.422Z"
+  },
+  "questions": [
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general de una función exponencial?",
+      "context": "Una docente de Montevideo introduce la función exponencial en sexto año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = a \\cdot b^x$, con $b > 0$ y $b \\ne 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La variable está en el exponente y la base debe ser positiva y distinta de 1."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = ax + b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función lineal; la variable no está en el exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = x^a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una función potencia: la variable está en la base."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\log_a x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función logarítmica, inversa de la exponencial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la exponencial la incógnita está en el exponente: $f(x) = a \\cdot b^x$ con base $b > 0$, $b \\ne 1$. Si $b > 1$ crece; si $0 < b < 1$ decrece.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significa $\\log_2 8 = 3$?",
+      "context": "En un liceo de Salto se define el logaritmo como operación inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que $2 \\times 3 = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería multiplicación, no la definición del logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "Que $2^3 = 8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El logaritmo es el exponente al que hay que elevar la base para obtener el argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Que $3^2 = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3^2 = 9$; la base del logaritmo es 2."
+        },
+        {
+          "letter": "D",
+          "text": "Que $8^2 = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte los roles de base y argumento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$\\log_b a = c$ equivale a $b^c = a$. El logaritmo responde: \"¿a qué exponente elevo la base para obtener el argumento?\".",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "Si un capital se duplica cada año según $C(t) = 1000 \\cdot 2^t$, ¿cuál es el capital al cabo de 3 años?",
+      "context": "Un banco de Montevideo muestra el crecimiento de un capital con interés compuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$U\\,6\\,000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $1000 \\times 2 \\times 3$; el tiempo es exponente, no factor."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$U\\,8\\,000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $1000 \\cdot 2^3 = 1000 \\cdot 8 = 8000$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$U\\,3\\,000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería crecimiento lineal de mil por año."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$U\\,2\\,000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el capital al año 1 solamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la exponencial: $C(3) = 1000 \\cdot 2^3 = 8000$. El crecimiento exponencial duplica el valor en cada período.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de $\\log_{10} 1000$?",
+      "context": "Una estudiante de Colonia calcula logaritmos de potencias de 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10^2 = 100$, no 1000."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $10^3 = 1000$, así que el logaritmo vale 3."
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la base con el exponente."
+        },
+        {
+          "letter": "D",
+          "text": "$100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo es el exponente, no una potencia de la base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$\\log_{10} 1000$ pregunta por el exponente que lleva 10 a 1000: como $10^3 = 1000$, el valor es 3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "La función $f(x) = 80 \\cdot \\left(\\frac{1}{2}\\right)^x$ describe una sustancia que se reduce a la mitad cada hora. ¿Cuánto queda a las 2 horas?",
+      "context": "Un biólogo de Canelones modela el decaimiento de una sustancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40$ gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor a la primera hora; falta otra reducción a la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ gramos",
+          "is_correct": true,
+          "feedback": "¡Correcto! $80 \\cdot (1/2)^2 = 80 \\cdot 1/4 = 20$ gramos."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el valor a las 3 horas."
+        },
+        {
+          "letter": "D",
+          "text": "$160$ gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base menor que 1 hace decrecer, no crecer."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con base $\\frac{1}{2}$, cada período multiplica por un medio: $80 \\to 40 \\to 20$. Evaluar $f(2) = 80 \\cdot \\frac{1}{4} = 20$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor de $2^{-3}$?",
+      "context": "Un técnico de Maldonado aplica propiedades de potencias con exponentes enteros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente negativo no cambia el signo del resultado; indica recíproco."
+        },
+        {
+          "letter": "B",
+          "text": "$-6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste la base por el exponente con signo cambiado."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{8}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $2 \\times 3$ en el denominador en lugar de $2^3$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El exponente negativo invierte la base: $a^{-n} = \\frac{1}{a^n}$. Así $2^{-3} = \\frac{1}{8}$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "Sabiendo que $\\log_{10} 2 \\approx 0.301$ y $\\log_{10} 5 \\approx 0.699$, ¿cuánto vale $\\log_{10} 10$ calculado como $\\log_{10}(2 \\cdot 5)$?",
+      "context": "Una docente de Rivera aplica la propiedad del logaritmo de un producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.210$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los logaritmos; la propiedad correcta es la suma."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log 2 + \\log 5 = 0.301 + 0.699 = 1 = \\log 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$0.398$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los valores; el logaritmo del producto es la suma."
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el valor; $\\log_{10} 10 = 1$ por definición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad $\\log(ab) = \\log a + \\log b$ convierte productos en sumas: $0.301 + 0.699 = 1$, coherente con $\\log_{10} 10 = 1$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "Resuelve la ecuación $3^x = 81$.",
+      "context": "Un estudiante de Tacuarembó resuelve una ecuación exponencial simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3^3 = 27$, no 81."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $81 = 3^4$, así $x = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 27$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $81/3$; hay que expresar 81 como potencia de 3."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede $\\sqrt{81}$; no es la operación adecuada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Expresar ambos miembros en la misma base: $81 = 3^4$, así $3^x = 3^4$ y por inyectividad $x = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "Si $2^x = 32$, ¿cuál es el valor de $x$?",
+      "context": "Una química de Paysandú despeja el tiempo en un modelo de crecimiento bacteriano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 32 entre 2; el exponente no se obtiene dividiendo."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $32 = 2^5$, entonces $x = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^6 = 64$, el doble de 32."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^4 = 16$, la mitad de 32."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer potencias de 2 agiliza la resolución: $32 = 2^5$. La función exponencial de base 2 es inyectiva, así que el exponente es único.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor de $\\log_3 27 - \\log_3 3$?",
+      "context": "Un ingeniero de Durazno simplifica una expresión logarítmica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste los argumentos de forma incorrecta y luego calculaste mal."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_3 27 = 3$ y $\\log_3 3 = 1$; la resta da 2."
+        },
+        {
+          "letter": "C",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el primer logaritmo; falta restar el segundo."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste $\\log(27/3) = \\log 9$ pero luego evaluaste mal: $\\log_3 9 = 2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluando por separado: $27 = 3^3$ y $3 = 3^1$, así $3 - 1 = 2$. También vale $\\log_3(27/3) = \\log_3 9 = 2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "Una inversión A crece según $A(t) = 1000 + 500t$ y otra B según $B(t) = 1000 \\cdot 1.5^t$. ¿Qué afirmación es correcta para $t$ grande?",
+      "context": "Un analista de Montevideo compara crecimiento lineal y exponencial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A siempre supera a B porque 500 es mayor que la tasa de B.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento exponencial termina superando cualquier crecimiento lineal."
+        },
+        {
+          "letter": "B",
+          "text": "B termina superando a A porque el crecimiento exponencial es multiplicativo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Multiplicar por 1.5 cada período supera a sumar 500 en el largo plazo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas crecen al mismo ritmo porque parten de 1000.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor inicial no determina la tasa de crecimiento."
+        },
+        {
+          "letter": "D",
+          "text": "B nunca alcanza a A porque $1.5 < 500$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar la base con el incremento lineal es un error de escala."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El crecimiento lineal suma una cantidad fija; el exponencial multiplica por un factor fijo. A la larga, cualquier exponencial con base mayor que 1 domina a cualquier lineal.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el dominio de la función $f(x) = \\log_2 x$?",
+      "context": "Una docente de Florida analiza el dominio de la función logarítmica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo de números no positivos no está definido en los reales."
+        },
+        {
+          "letter": "B",
+          "text": "Los reales no negativos, $x \\ge 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 0 tampoco está permitido: $2^y$ nunca vale 0."
+        },
+        {
+          "letter": "C",
+          "text": "Los reales positivos, $x > 0$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Solo los positivos son potencias reales de 2."
+        },
+        {
+          "letter": "D",
+          "text": "Los enteros positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo también acepta fracciones e irracionales positivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $\\log_2 x = y$ equivale a $2^y = x$, y las potencias de 2 son siempre positivas, el dominio es $(0, +\\infty)$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la asíntota de la función $f(x) = 2^x$ y por dónde pasa su gráfica?",
+      "context": "Un estudiante de Rocha analiza la gráfica de $f(x) = 2^x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asíntota $x = 0$ y pasa por $(0, 0)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exponencial no tiene asíntota vertical ni pasa por el origen."
+        },
+        {
+          "letter": "B",
+          "text": "Asíntota $y = 0$ y pasa por $(0, 1)$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2^x \\to 0$ cuando $x \\to -\\infty$ y $2^0 = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "Asíntota $y = 1$ y pasa por $(1, 0)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asíntota es el eje $x$ y en $x = 1$ vale 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene asíntotas y pasa por $(0, 2)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^0 = 1$, no 2, y sí tiene asíntota horizontal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda exponencial $b^x$ pasa por $(0, 1)$ y tiene al eje $x$ como asíntota horizontal en el lado decreciente del dominio.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "¿Cuántos años tarda aproximadamente en duplicarse el capital, resolviendo $1.1^t = 2$?",
+      "context": "Un banco de Montevideo calcula el tiempo de duplicación de un capital al 10% anual compuesto usando $\\log 2 \\approx 0.301$ y $\\log 1.1 \\approx 0.0414$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unos 5 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1.1^5 \\approx 1.61$, todavía lejos de 2."
+        },
+        {
+          "letter": "B",
+          "text": "Unos 7.3 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $t = \\frac{\\log 2}{\\log 1.1} \\approx \\frac{0.301}{0.0414} \\approx 7.3$."
+        },
+        {
+          "letter": "C",
+          "text": "Unos 10 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede dividir 100 entre 10 (regla lineal), no del cálculo logarítmico."
+        },
+        {
+          "letter": "D",
+          "text": "Unos 20 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplica la estimación correcta; con 20 años el capital se cuadruplicaría."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tomando logaritmos: $t \\log 1.1 = \\log 2$, así $t = \\frac{0.301}{0.0414} \\approx 7.3$ años. Es la aplicación directa del logaritmo para despejar exponentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "Resuelve $4^x = 8$ escribiendo ambas bases como potencias de 2.",
+      "context": "Una estudiante de Melo resuelve una ecuación exponencial con bases distintas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4^2 = 16 \\ne 8$; convertí ambas bases a 2."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{3}{2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2^{2x} = 2^3$ implica $2x = 3$, $x = 1.5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4^{1/2} = 2$, no 8."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igualaste $x$ con el exponente de 8 sin ajustar la base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$4^x = (2^2)^x = 2^{2x}$ y $8 = 2^3$; igualando exponentes, $2x = 3$ y $x = \\frac{3}{2}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor de $\\log_5 25^3$?",
+      "context": "Un técnico de Minas evalúa una expresión con logaritmo de una potencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el exponente externo; falta el logaritmo de 25."
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la base con el resultado."
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\log_5 25^3 = 3 \\cdot \\log_5 25 = 3 \\cdot 2 = 6$."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $5 + 3$; la propiedad multiplica el logaritmo por el exponente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad $\\log a^n = n \\log a$ da $\\log_5 25^3 = 3 \\log_5 25 = 3 \\cdot 2 = 6$, pues $25 = 5^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En un debate de clase en San José se discute la afirmación: \"la función exponencial siempre crece\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadera, porque el exponente aumenta siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con base entre 0 y 1 la función decrece aunque el exponente crezca."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa: crece solo si la base es mayor que 1; decrece si la base está entre 0 y 1.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El comportamiento depende de la base: $b > 1$ crece, $0 < b < 1$ decrece."
+        },
+        {
+          "letter": "C",
+          "text": "Falsa, porque la exponencial es siempre decreciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bases mayores que 1 producen crecimiento, el caso más común."
+        },
+        {
+          "letter": "D",
+          "text": "Verdadera, porque toda exponencial pasa por $(0, 1)$ y sube.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pasar por $(0,1)$ no implica crecimiento: $(1/2)^x$ también pasa y decrece."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La monotonía de $b^x$ la decide la base: $b > 1$ creciente, $0 < b < 1$ decreciente. Ambas pasan por $(0, 1)$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la justificación correcta de la identidad $\\log_b \\frac{M}{N} = \\log_b M - \\log_b N$?",
+      "context": "Una examinadora de Treinta y Tres pide justificar una propiedad logarítmica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proviene de la propiedad de las potencias $\\frac{b^m}{b^n} = b^{m-n}$ aplicada a la definición de logaritmo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cociente de potencias de igual base resta exponentes, y el logaritmo es el exponente."
+        },
+        {
+          "letter": "B",
+          "text": "Es una convención sin relación con las potencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda propiedad logarítmica se deriva de una propiedad de potencias."
+        },
+        {
+          "letter": "C",
+          "text": "Se cumple porque el logaritmo del cociente es el cociente de logaritmos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería $\\frac{\\log M}{\\log N}$, que no es lo mismo y es falso en general."
+        },
+        {
+          "letter": "D",
+          "text": "Se demuestra sumando los argumentos $M$ y $N$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de argumentos no corresponde a ninguna propiedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si $M = b^m$ y $N = b^n$, entonces $\\frac{M}{N} = b^{m-n}$, y tomando logaritmo queda $m - n = \\log_b M - \\log_b N$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Si la amplitud crece por factor 10 por cada punto de magnitud, ¿cuántas veces mayor es la amplitud de un sismo de magnitud 7 respecto a uno de magnitud 4?",
+      "context": "Un sismólogo de Montevideo explica que en la escala Richter, un sismo de magnitud 6 libera 10 veces más amplitud que uno de magnitud 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 10 por 3; la relación es exponencial, no lineal."
+        },
+        {
+          "letter": "B",
+          "text": "300 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agregaste un cero de más; la potencia correcta es $10^3$."
+        },
+        {
+          "letter": "C",
+          "text": "1000 veces",
+          "is_correct": true,
+          "feedback": "¡Correcto! La diferencia es 3 puntos: $10^3 = 1000$ veces más amplitud."
+        },
+        {
+          "letter": "D",
+          "text": "3 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo la diferencia de magnitudes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las escalas logarítmicas convierten diferencias en potencias: $7 - 4 = 3$ puntos implican $10^3 = 1000$ veces más amplitud.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "¿Qué evaluación es correcta al comparar ambos capitales finales?",
+      "context": "Un inversionista de Punta del Este compara dos plazos fijos: uno al 5% simple y otro al 4% compuesto anual, ambos por 20 años sobre $\\$U\\,100\\,000$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El simple gana porque 5% supera al 4%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El simple da $100\\,000(1 + 0.05 \\cdot 20) = 200\\,000$, pero el compuesto da $100\\,000(1.04)^{20} \\approx 219\\,112$."
+        },
+        {
+          "letter": "B",
+          "text": "El compuesto gana: aunque la tasa es menor, capitaliza intereses y alcanza unos $\\$U\\,219\\,000$ frente a $\\$U\\,200\\,000$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $(1.04)^{20} \\approx 2.19$ supera al factor simple $2.0$."
+        },
+        {
+          "letter": "C",
+          "text": "Empatan porque ambos aplican tasas sobre el mismo capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estructuras de cálculo son distintas y los resultados difieren."
+        },
+        {
+          "letter": "D",
+          "text": "El simple gana porque el compuesto castiga los plazos largos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el compuesto beneficia especialmente los plazos largos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interés simple: $C = 100\\,000 \\times 2 = 200\\,000$. Compuesto: $C = 100\\,000 \\times (1.04)^{20} \\approx 219\\,112$. La capitalización exponencial supera a la lineal en horizontes largos, incluso con menor tasa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

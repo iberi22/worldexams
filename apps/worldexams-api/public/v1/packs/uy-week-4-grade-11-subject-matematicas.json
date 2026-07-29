@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "uy",
+    "pack_id": "uy-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T03:05:14.421Z"
+  },
+  "questions": [
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general de una ecuación cuadrática con una incógnita?",
+      "context": "Una profesora de Montevideo inicia la unidad de ecuaciones de segundo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ax^2 + bx + c = 0$, con $a \\ne 0$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El coeficiente principal debe ser no nulo para que sea de grado 2."
+        },
+        {
+          "letter": "B",
+          "text": "$ax + b = 0$, con $a \\ne 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la forma general de la ecuación lineal, de grado 1."
+        },
+        {
+          "letter": "C",
+          "text": "$ax^2 + bx + c = 0$, con cualquier valor de $a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $a = 0$ la ecuación degenera a lineal."
+        },
+        {
+          "letter": "D",
+          "text": "$ax^3 + bx^2 + cx + d = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una ecuación cúbica, de grado 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación cuadrática general es $ax^2 + bx + c = 0$ con $a \\ne 0$; si $a$ se anulara, el término de grado 2 desaparecería y dejaría de ser cuadrática.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "Si el discriminante $\\Delta = b^2 - 4ac$ de una ecuación cuadrática es positivo, la ecuación tiene:",
+      "context": "En un liceo de Salto se estudia el papel del discriminante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una única solución real doble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre cuando $\\Delta = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Dos soluciones reales distintas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\Delta > 0$ garantiza dos raíces reales diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solución real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sucede con $\\Delta < 0$."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una ecuación de grado 2 tiene a lo sumo dos raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discriminante decide la naturaleza de las soluciones: $\\Delta > 0$ dos reales distintas, $\\Delta = 0$ una doble, $\\Delta < 0$ ninguna real.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son las soluciones de $x^2 = 49$?",
+      "context": "Un estudiante de Maldonado resuelve una ecuación cuadrática pura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo $x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la raíz negativa; al elevar al cuadrado, $(-7)^2$ también da 49."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 7$ y $x = -7$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ambas raíces cuadradas de 49 verifican la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 24.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 49 entre 2; la operación inversa del cuadrado es la raíz."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene soluciones reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuadrados de 7 y $-7$ existen y valen 49."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Despejar $x^2 = k$ con $k > 0$ produce dos soluciones: $x = \\pm\\sqrt{k}$. Omitir la raíz negativa es el error más frecuente en ecuaciones puras.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son las soluciones de la ecuación $(x - 2)(x - 5) = 0$?",
+      "context": "Una estudiante de Colonia lee las raíces desde la forma factorizada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ y $x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un producto es cero cuando alguno de sus factores es cero."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -2$ y $x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los signos; cada factor se anula con el valor positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo factor también aporta una solución."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $2 \\times 5$; la propiedad del producto nulo se aplica a cada factor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la propiedad del producto nulo, $ab = 0$ implica $a = 0$ o $b = 0$. Así $x - 2 = 0$ da $x = 2$ y $x - 5 = 0$ da $x = 5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor del discriminante de $x^2 + 4x + 3 = 0$?",
+      "context": "Un técnico de Canelones calcula el discriminante antes de resolver.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\Delta = 28$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $16 + 12$ en lugar de restar $4ac$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\Delta = 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $4^2 - 4(1)(3) = 16 - 12 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\Delta = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisá los signos: $16 - 12$ es positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\Delta = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo $b^2$; falta restar $4ac$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discriminante es $\\Delta = b^2 - 4ac = 16 - 12 = 4$. Como es positivo, habrá dos soluciones reales distintas.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son las soluciones de $x^2 - 5x + 6 = 0$?",
+      "context": "Un estudiante de Tacuarembó resuelve una cuadrática por factorización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ y $x = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $(x-2)(x-3) = 0$, y $2 + 3 = 5$, $2 \\cdot 3 = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1$ y $x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $1 \\cdot 6 = 6$, la suma es 7 y no $-(-5) = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -2$ y $x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores darían $x^2 + 5x + 6$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$ y $x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su producto es $-6$, no $+6$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se buscan dos números con suma 5 y producto 6: 2 y 3. La factorización $(x-2)(x-3)$ entrega las soluciones directamente.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Resuelve la ecuación $x^2 - 9x = 0$.",
+      "context": "Una docente de Rivera muestra cómo resolver una cuadrática incompleta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo $x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perdés la solución $x = 0$ al dividir entre $x$ sin cuidado."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$ y $x = 9$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x(x - 9) = 0$ da ambas soluciones."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -9$ y $x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = -9$ queda $81 + 81 \\ne 0$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La factorización $x(x-9)$ muestra dos soluciones reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conviene factorizar el factor común: $x(x - 9) = 0$, que da $x = 0$ o $x = 9$. Dividir entre $x$ sin considerar que puede ser 0 pierde una solución.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "Aplicando la fórmula general a $x^2 + 2x - 8 = 0$, ¿cuál es la mayor de las soluciones?",
+      "context": "Un físico de la Udelar aplica la fórmula general en un problema de cinemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = 4$ queda $16 + 8 - 8 \\ne 0$; revisá el signo en la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x = \\frac{-2 \\pm 6}{2}$ da $2$ y $-4$; la mayor es 2."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un valor intermedio del cálculo, no una raíz."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde el término independiente con la solución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con $\\Delta = 4 + 32 = 36$, $x = \\frac{-2 \\pm 6}{2}$ produce $x = 2$ y $x = -4$. La mayor solución es 2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "Resuelve la inecuación $x - 3 > 5$.",
+      "context": "Una comerciante de Mercedes establece un mínimo de ventas con una inecuación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste en lugar de sumar el 3 al trasponer."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sumando 3 a ambos miembros: $x > 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay que invertir la desigualdad; solo se invierte al multiplicar o dividir por negativos."
+        },
+        {
+          "letter": "D",
+          "text": "$x > -8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trasladaste el 3 con el signo equivocado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las inecuaciones se operan como las ecuaciones, salvo al multiplicar o dividir por un negativo. Aquí basta sumar 3: $x > 8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el conjunto solución de $2x + 4 \\le 10$?",
+      "context": "Un productor de Salto limita el gasto en insumos con una restricción lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trasponer el 4 no cambia el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\le 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $10 + 4$ entre 2; primero se resta el 4."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\le 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2x \\le 6$ y dividiendo entre 2 (positivo): $x \\le 3$."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desigualdad es no estricta; el 3 pertenece a la solución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$2x + 4 \\le 10$ implica $2x \\le 6$ y $x \\le 3$. Dividir entre un número positivo conserva el sentido, y el símbolo $\\le$ incluye al extremo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "¿Qué se puede afirmar sobre las soluciones reales de $x^2 + x + 1 = 0$?",
+      "context": "Un estudiante de Durazno analiza una ecuación sin soluciones reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene dos soluciones reales distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es $1 - 4 = -3 < 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene una solución real doble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso requeriría $\\Delta = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene soluciones reales porque $\\Delta = -3 < 0$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Con discriminante negativo no hay raíces en los reales."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene soluciones $x = 1$ y $x = -1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de esos valores anula la expresión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El discriminante $\\Delta = 1 - 4 = -3$ es negativo: la parábola $y = x^2 + x + 1$ queda siempre por encima del eje $x$ y la ecuación carece de raíces reales.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "Completando el cuadrado en $x^2 + 6x + 5 = 0$, la ecuación equivalente es:",
+      "context": "Una docente de Florida enseña el método de completar el cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 6)^2 = 31$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término que completa el cuadrado es $(6/2)^2 = 9$, no $6^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)^2 = 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x^2 + 6x + 9 = 4$, es decir $(x+3)^2 = 4$, que da $x = -1$ o $x = -5$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 3)^2 = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El binomio debe llevar el signo del término lineal: $+3$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 3)^2 = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 9 sin restar el 5: $(x+3)^2 = -5 + 9 = 4$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Completar el cuadrado: $x^2 + 6x = -5$; sumando 9 a ambos lados, $(x+3)^2 = 4$. Las raíces $-3 \\pm 2$ son $-1$ y $-5$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el vértice de la parábola $y = x^2 - 4x + 3$?",
+      "context": "Un diseñador de Montevideo ubica el vértice de una parábola para un arco decorativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, -1)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x_v = \\frac{4}{2} = 2$ e $y_v = 4 - 8 + 3 = -1$."
+        },
+        {
+          "letter": "B",
+          "text": "$(-2, 15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abscisa del vértice es $-\\frac{b}{2a}$, positiva aquí."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada no es el término independiente; hay que evaluar en $x = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$(4, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $-b$ sin dividir entre $2a$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La abscisa del vértice es $x_v = -\\frac{b}{2a} = 2$; evaluando, $y_v = -1$. El vértice $(2, -1)$ es el mínimo de la parábola.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "¿En qué instante $t > 0$ la pelota vuelve al suelo ($h = 0$)?",
+      "context": "En una cancha de Paysandú, la altura de una pelota sigue el modelo $h(t) = -5t^2 + 20t$ metros, con $t$ en segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 2$ segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. A los 2 s está en la altura máxima, no en el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "$t = 4$ segundos",
+          "is_correct": true,
+          "feedback": "¡Correcto! $-5t(t - 4) = 0$ da $t = 0$ y $t = 4$; el regreso es en $t = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 5$ segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede igualar el coeficiente $-5$ a cero en lugar de resolver."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 20$ segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde el coeficiente de $t$ con el tiempo de vuelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorizando $h(t) = -5t(t - 4)$, las raíces son $0$ (lanzamiento) y $4$ (caída). El tiempo de vuelo es 4 segundos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el conjunto solución de $x^2 - 4 < 0$?",
+      "context": "Una estudiante de Rocha resuelve su primera inecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < -2$ o $x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la solución de $x^2 - 4 > 0$; la parábola es negativa entre las raíces."
+        },
+        {
+          "letter": "B",
+          "text": "$-2 < x < 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La parábola abre hacia arriba y es negativa entre sus raíces $-2$ y $2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la cota inferior; $x = -5$ no verifica la inecuación."
+        },
+        {
+          "letter": "D",
+          "text": "Todo número real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $|x| > 2$ la expresión es positiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las raíces de $x^2 - 4$ son $\\pm 2$. Como la parábola abre hacia arriba, la expresión es negativa entre las raíces: $(-2, 2)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "¿Para qué valor de $c$ la ecuación $x^2 + 6x + c = 0$ tiene exactamente una solución real?",
+      "context": "Un profesor de Melo propone hallar un parámetro para una solución única.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$c = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $c = 6$, $\\Delta = 36 - 24 = 12 > 0$: dos soluciones."
+        },
+        {
+          "letter": "B",
+          "text": "$c = 9$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\Delta = 36 - 4c = 0$ exige $c = 9$, raíz doble en $x = -3$."
+        },
+        {
+          "letter": "C",
+          "text": "$c = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $c = 0$, $\\Delta = 36$: dos soluciones distintas."
+        },
+        {
+          "letter": "D",
+          "text": "$c = 36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $c = 36$ el discriminante es negativo: sin soluciones reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Solución única equivale a discriminante nulo: $36 - 4c = 0$, así $c = 9$. La ecuación queda $(x+3)^2 = 0$ con raíz doble $-3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En un debate de clase en Minas, un estudiante afirma que toda ecuación cuadrática tiene dos soluciones reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es verdadera, porque la fórmula general siempre da dos valores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula involucra $\\sqrt{\\Delta}$, que no existe en reales si $\\Delta < 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa: el número de soluciones reales depende del signo del discriminante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Puede haber dos, una o ninguna según $\\Delta$."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera solo si $a > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo de $a$ no decide la cantidad de raíces reales."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa porque toda cuadrática tiene exactamente una solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia una generalización falsa por otra; hay casos con dos raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cantidad de soluciones reales la gobierna $\\Delta = b^2 - 4ac$: positivo da dos, cero da una doble y negativo ninguna. No vale generalizar.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "Sin resolverla, ¿qué se puede afirmar de las raíces de $x^2 - 7x + 10 = 0$?",
+      "context": "Una examinadora de Treinta y Tres pide evaluar propiedades de las raíces sin resolver.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su suma es $-7$ y su producto $10$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma es $-\\frac{b}{a} = 7$, positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Su suma es $7$ y su producto $10$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por las relaciones de Cardano: suma $-b/a = 7$, producto $c/a = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "Su suma es $10$ y su producto $7$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste las relaciones de Cardano."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas raíces son negativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma positiva y producto positivo implican raíces positivas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las relaciones de Cardano vinculan coeficientes y raíces: suma $-\\frac{b}{a}$ y producto $\\frac{c}{a}$. Aquí: suma 7, producto 10 (raíces 2 y 5).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "¿Qué dimensiones debe tener el terreno?",
+      "context": "Un productor rural de Tacuarembó cercará un terreno rectangular de $24\\ \\text{m}^2$ usando 20 m de alambre de perímetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 m por 6 m",
+          "is_correct": true,
+          "feedback": "¡Correcto! $4 + 6 = 10$ (semiperímetro) y $4 \\cdot 6 = 24$: resuelve $x(10 - x) = 24$."
+        },
+        {
+          "letter": "B",
+          "text": "3 m por 8 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área da 24, pero el perímetro sería 22 m, no 20."
+        },
+        {
+          "letter": "C",
+          "text": "2 m por 12 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro sería 28 m; además el área coincide por casualidad."
+        },
+        {
+          "letter": "D",
+          "text": "5 m por 5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro da 20, pero el área sería 25, no 24."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con lados $x$ y $10 - x$, el área exige $x(10-x) = 24$, es decir $x^2 - 10x + 24 = 0$, con raíces 4 y 6. El terreno mide 4 m por 6 m.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "¿En qué rango de producción la ganancia es estrictamente positiva?",
+      "context": "Una fábrica de Montevideo modela su ganancia diaria en miles de pesos con $G(x) = -x^2 + 10x - 9$, donde $x$ son las toneladas producidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para cualquier cantidad producida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fuera de las raíces la parábola es negativa: hay pérdidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo para $x = 5$ toneladas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el máximo, pero la ganancia es positiva en todo un intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "Entre 1 y 9 toneladas, sin incluir los extremos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las raíces son 1 y 9; la parábola abre hacia abajo y es positiva entre ellas."
+        },
+        {
+          "letter": "D",
+          "text": "Para producciones mayores a 9 toneladas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más allá de 9 la ganancia es negativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolviendo $-x^2 + 10x - 9 > 0$ (equivalente a $x^2 - 10x + 9 < 0$), las raíces 1 y 9 delimitan el intervalo de positividad: $(1, 9)$, con el máximo en $x = 5$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}
