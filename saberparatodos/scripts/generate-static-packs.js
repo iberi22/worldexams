@@ -193,7 +193,7 @@ function parseQuestions(body) {
 
     // Extract QA metadata fields (bloom, icfes, expected_success) for quality control
     const bloomMatch = section.match(/\*\*Bloom:\*\*\s*([^\n]+)/i);
-    const icfesMatch = section.match(/\*\*(?:ICFES|EJE):\*\*\s*([^\n]+)/i);
+    const icfesMatch = section.match(/\*\*ICFES:\*\*\s*([^\n]+)/i);
     const expectedSuccessMatch = section.match(/\*\*Expected_Success:\*\*\s*([^\n]+)/i);
 
     // Extract statement
@@ -216,7 +216,7 @@ function parseQuestions(body) {
           "",
         )
         .replace(/\*\*Bloom:\*\*.*$/gm, "")
-        .replace(/\*\*(?:ICFES|EJE):\*\*.*$/gm, "")
+        .replace(/\*\*ICFES:\*\*.*$/gm, "")
         .replace(/\*\*Expected_Success:\*\*.*$/gm, "")
         .replace(/^\s*###\s+Contexto/gm, "")
         .replace(/^\s*###\s+Enunciado/gm, "")
@@ -382,16 +382,25 @@ for (const file of allFiles) {
       brazil: "br",
       spain: "es",
       espana: "es",
+
       panama: "pa",
+
       "guinea-ecuatorial": "gq",
       nicaragua: "ni",
       dominican_republic: "do",
+      "costa-rica": "cr",
+      costa_rica: "cr",
+      costarica: "cr",
+      honduras: "hn",
       uruguay: "uy",
       paraguay: "py",
-      bolivia: "bo",
+      "puerto-rico": "pr",
+      puerto_rico: "pr",
       "el-salvador": "sv",
-      "costa-rica": "cr",
-      "costarica": "cr",
+      el_salvador: "sv",
+      elsalvador: "sv",
+      bolivia: "bo",
+
       global: "",
     };
     if (countryMap[countryCode] !== undefined) {
