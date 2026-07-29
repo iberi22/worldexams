@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias",
+    "country": "pr",
+    "pack_id": "pr-week-10-grade-11-subject-ciencias",
+    "generated_at": "2026-07-29T05:00:59.731Z"
+  },
+  "questions": [
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Velocidad de Reacción. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Velocidad de Reacción en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Velocidad de Reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Velocidad de Reacción."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Velocidad de Reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Velocidad de Reacción posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Velocidad de Reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Velocidad de Reacción es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es cambio en la concentración de reactivos o productos por unidad de tiempo, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Velocidad de Reacción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Velocidad de Reacción se define formalmente como cambio en la concentración de reactivos o productos por unidad de tiempo. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Energía de Activación. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Energía de Activación en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es barrera de energía mínima necesaria para que los reactivos inicien la reacción, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Energía de Activación."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Energía de Activación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Energía de Activación posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Energía de Activación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Energía de Activación es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Energía de Activación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Energía de Activación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Energía de Activación se define formalmente como barrera de energía mínima necesaria para que los reactivos inicien la reacción. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Teoría de Colisiones. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Teoría de Colisiones en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Teoría de Colisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Teoría de Colisiones posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es las moléculas deben chocar con energía suficiente y orientación adecuada para reaccionar, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Teoría de Colisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Teoría de Colisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Teoría de Colisiones es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Teoría de Colisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Teoría de Colisiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Teoría de Colisiones se define formalmente como las moléculas deben chocar con energía suficiente y orientación adecuada para reaccionar. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Catalizador. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Catalizador en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Catalizador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Catalizador es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Catalizador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Catalizador posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es sustancia que aumenta la velocidad disminuyendo la energía de activación sin consumirse, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Catalizador."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Catalizador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Catalizador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Catalizador se define formalmente como sustancia que aumenta la velocidad disminuyendo la energía de activación sin consumirse. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Equilibrio Dinámico. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Equilibrio Dinámico en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Equilibrio Dinámico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Equilibrio Dinámico."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Equilibrio Dinámico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Equilibrio Dinámico posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Equilibrio Dinámico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Equilibrio Dinámico es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es estado en el cual las velocidades directa e inversa se igualan de forma constante, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Equilibrio Dinámico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Equilibrio Dinámico se define formalmente como estado en el cual las velocidades directa e inversa se igualan de forma constante. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Principio de Le Chatelier. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Principio de Le Chatelier en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un sistema en equilibrio perturbará su estado para contrarrestar cualquier cambio impuesto, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Principio de Le Chatelier."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Principio de Le Chatelier.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Principio de Le Chatelier posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Principio de Le Chatelier.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Principio de Le Chatelier es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Principio de Le Chatelier.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Principio de Le Chatelier."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Principio de Le Chatelier se define formalmente como un sistema en equilibrio perturbará su estado para contrarrestar cualquier cambio impuesto. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Constante de Equilibrio. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Constante de Equilibrio en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Constante de Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Constante de Equilibrio posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es relación molar constante entre productos y reactivos en el equilibrio ($K_c$), fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Constante de Equilibrio."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Constante de Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Constante de Equilibrio es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Constante de Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Constante de Equilibrio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Constante de Equilibrio se define formalmente como relación molar constante entre productos y reactivos en el equilibrio ($K_c$). Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Efecto de la Temperatura. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Efecto de la Temperatura en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Efecto de la Temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Efecto de la Temperatura es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Efecto de la Temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Efecto de la Temperatura posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un aumento de temperatura favorece la dirección endotérmica del equilibrio, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Efecto de la Temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Efecto de la Temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Efecto de la Temperatura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Efecto de la Temperatura se define formalmente como un aumento de temperatura favorece la dirección endotérmica del equilibrio. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Efecto de la Presión. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Efecto de la Presión en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Efecto de la Presión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Efecto de la Presión."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Efecto de la Presión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Efecto de la Presión posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Efecto de la Presión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Efecto de la Presión es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es un aumento de presión desplaza el equilibrio hacia el lado con menor número de moles de gas, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Efecto de la Presión."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Efecto de la Presión se define formalmente como un aumento de presión desplaza el equilibrio hacia el lado con menor número de moles de gas. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Complejo Activado. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Complejo Activado en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estado de transición inestable de alta energía formado durante el choque eficaz, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Complejo Activado."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Complejo Activado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Complejo Activado posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Complejo Activado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Complejo Activado es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Complejo Activado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Complejo Activado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Complejo Activado se define formalmente como estado de transición inestable de alta energía formado durante el choque eficaz. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Ley de Velocidad. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Ley de Velocidad en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Ley de Velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Ley de Velocidad posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es relación matemática que vincula la velocidad de reacción con las concentraciones de reactantes, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Ley de Velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Ley de Velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ley de Velocidad es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Ley de Velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Ley de Velocidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Ley de Velocidad se define formalmente como relación matemática que vincula la velocidad de reacción con las concentraciones de reactantes. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Orden de Reacción. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Orden de Reacción en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Orden de Reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Orden de Reacción es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Orden de Reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Orden de Reacción posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es potencias matemáticas obtenidas empíricamente para cada reactante en la ley de velocidad, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Orden de Reacción."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Orden de Reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Orden de Reacción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Orden de Reacción se define formalmente como potencias matemáticas obtenidas empíricamente para cada reactante en la ley de velocidad. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Constante de Velocidad (k). ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Constante de Velocidad (k) en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Constante de Velocidad (k).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Constante de Velocidad (k)."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Constante de Velocidad (k).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Constante de Velocidad (k) posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Constante de Velocidad (k).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Constante de Velocidad (k) es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es coeficiente de proporcionalidad que figura de forma explícita en la ley de velocidad, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Constante de Velocidad (k)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Constante de Velocidad (k) se define formalmente como coeficiente de proporcionalidad que figura de forma explícita en la ley de velocidad. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Reacción Reversible. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Reacción Reversible en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es reacción química que ocurre de forma simultánea en la dirección directa e inversa, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Reacción Reversible."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Reacción Reversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Reacción Reversible posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Reacción Reversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reacción Reversible es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Reacción Reversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Reacción Reversible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Reacción Reversible se define formalmente como reacción química que ocurre de forma simultánea en la dirección directa e inversa. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Reacción Irreversible. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Reacción Irreversible en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Reacción Irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Reacción Irreversible posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es reacción de un solo sentido donde los reactivos se convierten completamente en productos, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Reacción Irreversible."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Reacción Irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reacción Irreversible es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Reacción Irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Reacción Irreversible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Reacción Irreversible se define formalmente como reacción de un solo sentido donde los reactivos se convierten completamente en productos. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Cociente de Reacción (Q). ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Cociente de Reacción (Q) en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Cociente de Reacción (Q).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cociente de Reacción (Q) es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Cociente de Reacción (Q).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Cociente de Reacción (Q) posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es relación molar en cualquier momento fuera del equilibrio de la reacción, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Cociente de Reacción (Q)."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Cociente de Reacción (Q).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Cociente de Reacción (Q)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Cociente de Reacción (Q) se define formalmente como relación molar en cualquier momento fuera del equilibrio de la reacción. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Equilibrio Homogéneo. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Equilibrio Homogéneo en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Equilibrio Homogéneo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Equilibrio Homogéneo."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Equilibrio Homogéneo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Equilibrio Homogéneo posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Equilibrio Homogéneo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Equilibrio Homogéneo es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es sistema químico en equilibrio donde todas las especies están en la misma fase física, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Equilibrio Homogéneo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Equilibrio Homogéneo se define formalmente como sistema químico en equilibrio donde todas las especies están en la misma fase física. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Equilibrio Heterogéneo. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Equilibrio Heterogéneo en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es equilibrio donde reactivos y productos participan en fases físicas distintas (como sólido y gas), fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Equilibrio Heterogéneo."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Equilibrio Heterogéneo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Equilibrio Heterogéneo posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Equilibrio Heterogéneo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Equilibrio Heterogéneo es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Equilibrio Heterogéneo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Equilibrio Heterogéneo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Equilibrio Heterogéneo se define formalmente como equilibrio donde reactivos y productos participan en fases físicas distintas (como sólido y gas). Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Efecto del Catalizador en Equilibrio. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Efecto del Catalizador en Equilibrio en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Efecto del Catalizador en Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Efecto del Catalizador en Equilibrio posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es el catalizador acelera ambas direcciones por igual sin desplazar la constante de equilibrio, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Efecto del Catalizador en Equilibrio."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Efecto del Catalizador en Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Efecto del Catalizador en Equilibrio es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Efecto del Catalizador en Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Efecto del Catalizador en Equilibrio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Efecto del Catalizador en Equilibrio se define formalmente como el catalizador acelera ambas direcciones por igual sin desplazar la constante de equilibrio. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Al estudiar los aspectos fundamentales de Cinética Química y Equilibrio Químico, se analiza el rol de Desplazamiento del Equilibrio. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Desplazamiento del Equilibrio en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Desplazamiento del Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desplazamiento del Equilibrio es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Desplazamiento del Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Desplazamiento del Equilibrio posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es cambio transitorio de concentraciones que reajusta el sistema ante un factor perturbador, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Desplazamiento del Equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Desplazamiento del Equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Desplazamiento del Equilibrio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Desplazamiento del Equilibrio se define formalmente como cambio transitorio de concentraciones que reajusta el sistema ante un factor perturbador. Su comprensión e identificación en Cinética Química y Equilibrio Químico resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
