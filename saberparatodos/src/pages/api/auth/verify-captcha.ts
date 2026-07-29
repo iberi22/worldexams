@@ -7,7 +7,7 @@ import type { APIRoute } from 'astro';
 // Using Cloudflare Turnstile
 // https://developers.cloudflare.com/turnstile/troubleshooting/testing/
 const TURNSTILE_SECRET = import.meta.env.TURNSTILE_SECRET_KEY;
-const CAPTCHA_SECRET = import.meta.env.CAPTCHA_SECRET || 'spt-captcha-2026-worldexams-secret-key';
+const CAPTCHA_SECRET = import.meta.env.CAPTCHA_SECRET;
 
 if (!TURNSTILE_SECRET) {
   console.warn('[verify-captcha] TURNSTILE_SECRET_KEY is not set. CAPTCHA verification will fail.');
@@ -38,6 +38,14 @@ export const POST: APIRoute = async ({ request }) => {
         verified: false,
         error: 'CAPTCHA not configured',
       }), { status: 403, headers: { 'Content-Type': 'application/json' } });
+    }
+
+    if (!CAPTCHA_SECRET) {
+      console.error('[verify-captcha] CRITICAL: CAPTCHA_SECRET is not configured in the environment.');
+      return new Response(JSON.stringify({
+        verified: false,
+        error: 'Server error',
+      }), { status: 500, headers: { 'Content-Type': 'application/json' } });
     }
 
     if (!token) {
