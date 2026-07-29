@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-4-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-29T02:17:36.148Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar proceso mediante el cual la célula sintetiza una copia fiel de su genoma completo antes de dividirse, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La replicación del adn",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso mediante el cual la célula sintetiza una copia fiel de su genoma completo antes de dividirse."
+        },
+        {
+          "letter": "B",
+          "text": "La transcripción de arn",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La traducción de proteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "La splicing de intrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La replicación del adn. Científicamente, esto se explica por la duplicación semiconservativa catalizada por ADN polimerasas durante la fase S celular. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar cada doble hélice hija conserva una cadena molde original y una cadena recién sintetizada, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Replicación semiconservativa",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cada doble hélice hija conserva una cadena molde original y una cadena recién sintetizada."
+        },
+        {
+          "letter": "B",
+          "text": "Replicación conservativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Replicación dispersiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Replicación fragmentaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Replicación semiconservativa. Científicamente, esto se explica por el mecanismo de replicación demostrado por los experimentos de Meselson y Stahl. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar enzima encargada de añadir nucleótidos de forma complementaria a la cadena molde de ADN en dirección 5' a 3', ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La adn polimerasa",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enzima encargada de añadir nucleótidos de forma complementaria a la cadena molde de ADN en dirección 5' a 3'."
+        },
+        {
+          "letter": "B",
+          "text": "La arn polimerasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "La ligasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La adn polimerasa. Científicamente, esto se explica por la actividad catalítica con función de corrección de pruebas de exonucleasa. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar enzima que rompe los puentes de hidrógeno entre las bases nitrogenadas para abrir la doble hélice de ADN, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La helicasa",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enzima que rompe los puentes de hidrógeno entre las bases nitrogenadas para abrir la doble hélice de ADN."
+        },
+        {
+          "letter": "B",
+          "text": "La ligasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La topoisomerasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "La primasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La helicasa. Científicamente, esto se explica por la generación de la horquilla de replicación activa mediante consumo de ATP. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar proceso en el cual la ARN polimerasa sintetiza una molécula de ARN mensajero a partir de un molde de ADN, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La transcripción",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso en el cual la ARN polimerasa sintetiza una molécula de ARN mensajero a partir de un molde de ADN."
+        },
+        {
+          "letter": "B",
+          "text": "La traducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La replicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "La maduración de arn",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La transcripción. Científicamente, esto se explica por la transferencia de la información genética del núcleo hacia el citoplasma eucariota. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar proceso en el que se decodifica el ARNm en los ribosomas para ensamblar una secuencia específica de aminoácidos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La traducción",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso en el que se decodifica el ARNm en los ribosomas para ensamblar una secuencia específica de aminoácidos."
+        },
+        {
+          "letter": "B",
+          "text": "La transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El splicing",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "La replicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La traducción. Científicamente, esto se explica por el acoplamiento de codones y anticodones mediado por ARNt aminoacilados. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar propiedad del código genético donde múltiples codones diferentes pueden codificar para un mismo aminoácido, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El código genético es redundante",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a propiedad del código genético donde múltiples codones diferentes pueden codificar para un mismo aminoácido."
+        },
+        {
+          "letter": "B",
+          "text": "El código genético es ambiguo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El código genético es solapado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "El código genético es variable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El código genético es redundante. Científicamente, esto se explica por la existencia de 64 codones posibles para sintetizar solo 20 aminoácidos biológicos standard. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar triplete de nucleótidos consecutivos en el ARNm que especifica un aminoácido concreto o señal de parada, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un codón",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a triplete de nucleótidos consecutivos en el ARNm que especifica un aminoácido concreto o señal de parada."
+        },
+        {
+          "letter": "B",
+          "text": "Un anticodón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Un cistrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Un nucleótido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Un codón. Científicamente, esto se explica por la unidad básica de traducción leída de forma sucesiva y no solapada por el ribosoma. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar triplete de nucleótidos complementario presente en el asa del ARNt que reconoce al codón del ARNm, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un anticodón",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a triplete de nucleótidos complementario presente en el asa del ARNt que reconoce al codón del ARNm."
+        },
+        {
+          "letter": "B",
+          "text": "Un codón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Un iniciador",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Un terminador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Un anticodón. Científicamente, esto se explica por el emparejamiento específico mediante puentes de hidrógeno antiparalelos en el ribosoma. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar cambio de nucleótido que altera el codón pero sigue codificando para el mismo aminoácido sin variar la proteína, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mutación silenciosa",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cambio de nucleótido que altera el codón pero sigue codificando para el mismo aminoácido sin variar la proteína."
+        },
+        {
+          "letter": "B",
+          "text": "Mutación de cambio de sentido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Mutación sin sentido",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Mutación de pauta de lectura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Mutación silenciosa. Científicamente, esto se explica por la protección termodinámica y evolutiva debida a la redundancia del código genético. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar cambio de base que convierte un codón de aminoácido en un codón de parada prematuro, truncando la proteína, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mutación sin sentido (nonsense)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cambio de base que convierte un codón de aminoácido en un codón de parada prematuro, truncando la proteína."
+        },
+        {
+          "letter": "B",
+          "text": "Mutación silenciosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Mutación de cambio de sentido",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Mutación de desfase",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Mutación sin sentido (nonsense). Científicamente, esto se explica por la producción de polipéptidos incompletos y generalmente disfuncionales en la célula. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar proceso post-transcripcional donde se eliminan los intrones no codificantes y se empalman los exones codificantes, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Splicing de intrones",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso post-transcripcional donde se eliminan los intrones no codificantes y se empalman los exones codificantes."
+        },
+        {
+          "letter": "B",
+          "text": "Caperuza 5' (5-cap)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Cola de poli-a 3'",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Metilación de histonas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Splicing de intrones. Científicamente, esto se explica por la maduración del pre-ARNm catalizada por el complejo espliceosoma en el núcleo eucariota. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar mecanismo por el cual un solo gen puede producir múltiples isoformas de proteínas diferentes empalmando exones, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Splicing alternativo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mecanismo por el cual un solo gen puede producir múltiples isoformas de proteínas diferentes empalmando exones."
+        },
+        {
+          "letter": "B",
+          "text": "Transcripción regulada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Duplicación génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Recombinación homóloga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Splicing alternativo. Científicamente, esto se explica por la notable diversidad proteica eucariota sin requerir un número equivalente de genes. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar unidad genética funcional procariota que agrupa genes estructurales regulados bajo un solo promotor, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un operón",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a unidad genética funcional procariota que agrupa genes estructurales regulados bajo un solo promotor."
+        },
+        {
+          "letter": "B",
+          "text": "Un promotor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Un potenciador",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Un intrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Un operón. Científicamente, esto se explica por la organización y regulación coordinada de genes metabólicos en bacterias. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar sustancia física o química que altera la estructura del ADN aumentando la tasa de mutación celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agente mutagénico",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a sustancia física o química que altera la estructura del ADN aumentando la tasa de mutación celular."
+        },
+        {
+          "letter": "B",
+          "text": "Agente oncogénico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Agente catalítico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Agente patógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Agente mutagénico. Científicamente, esto se explica por la inducción de daños como dímeros de timina por radiación UV o agentes alquilantes químicos. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar mecanismo celular que corta y reemplaza fragmentos de ADN dañados por radiación UV o químicos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reparación por escisión de nucleótidos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mecanismo celular que corta y reemplaza fragmentos de ADN dañados por radiación UV o químicos."
+        },
+        {
+          "letter": "B",
+          "text": "Reparación homóloga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Fotorreactivación enzimática",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Reparación sos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Reparación por escisión de nucleótidos. Científicamente, esto se explica por el mantenimiento de la integridad del genoma mediante endonucleasas, polimerasas y ligasas. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar técnica biotecnológica para amplificar in vitro millones de copias de un segmento específico de ADN, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reacción en cadena de la polimerasa (pcr)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a técnica biotecnológica para amplificar in vitro millones de copias de un segmento específico de ADN."
+        },
+        {
+          "letter": "B",
+          "text": "La electroforesis en gel",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La clonación molecular",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "La hibridación southern",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La reacción en cadena de la polimerasa (pcr). Científicamente, esto se explica por la desnaturalización, hibridación y extensión de cadenas usando polimerasas termoestables (Taq). Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar técnica que separa fragmentos de ADN según su peso molecular y tamaño aplicando un campo eléctrico, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electroforesis en gel",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a técnica que separa fragmentos de ADN según su peso molecular y tamaño aplicando un campo eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "Secuenciación sanger",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Centrifugación diferencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Espectrometría de masas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Electroforesis en gel. Científicamente, esto se explica por la migración de las moléculas de ADN cargadas negativamente hacia el polo positivo (ánodo). Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar representación visual organizada de los cromosomas de una célula ordenados por forma, tamaño y número, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Colcapirhua, el estudiante Lidia del Colegio Antonio Vaca Díez analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cariotipo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a representación visual organizada de los cromosomas de una célula ordenados por forma, tamaño y número."
+        },
+        {
+          "letter": "B",
+          "text": "El genograma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El fenograma",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "El pedigrí molecular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El cariotipo. Científicamente, esto se explica por el diagnóstico clínico de anomalías cromosómicas numéricas como trisomías o monosomías. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "Al realizar experimentos sobre genética molecular y expresión génica y estudiar mutación genómica caracterizada por la ganancia o pérdida de cromosomas individuales en el genoma celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre genética molecular y expresión génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aneuploidía",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mutación genómica caracterizada por la ganancia o pérdida de cromosomas individuales en el genoma celular."
+        },
+        {
+          "letter": "B",
+          "text": "Poliploidía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Euploidía",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica."
+        },
+        {
+          "letter": "D",
+          "text": "Translocación recíproca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Aneuploidía. Científicamente, esto se explica por el fallo de no disyunción cromosómica durante la anafase de la división meiótica. Lo cual es fundamental para comprender genética molecular y expresión génica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}
