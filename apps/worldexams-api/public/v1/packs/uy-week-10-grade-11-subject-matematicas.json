@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "uy",
+    "pack_id": "uy-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T03:05:14.424Z"
+  },
+  "questions": [
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula de la probabilidad clásica (regla de Laplace) de un evento?",
+      "context": "Una docente de Montevideo introduce la probabilidad clásica con un dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Casos favorables divididos entre casos posibles, si todos son equiprobables.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $P(E) = \\frac{\\text{favorables}}{\\text{posibles}}$."
+        },
+        {
+          "letter": "B",
+          "text": "Casos posibles divididos entre casos favorables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente puede superar 1; la probabilidad va de 0 a 1."
+        },
+        {
+          "letter": "C",
+          "text": "Casos favorables multiplicados por casos posibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto no acota la probabilidad entre 0 y 1."
+        },
+        {
+          "letter": "D",
+          "text": "Uno menos la cantidad de casos favorables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad no se calcula restando conteos al 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con resultados equiprobables, la probabilidad de un evento es el cociente entre los casos que lo cumplen y el total de casos posibles.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Al lanzar una moneda dos veces, ¿cuál es el espacio muestral?",
+      "context": "En un liceo de Salto se define el espacio muestral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\{C, S\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el espacio de un solo lanzamiento."
+        },
+        {
+          "letter": "B",
+          "text": "$\\{CC, CS, SC, SS\\}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los dos lanzamientos generan 4 pares ordenados de resultados."
+        },
+        {
+          "letter": "C",
+          "text": "$\\{CC, CS, SS\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta $SC$: el orden de los lanzamientos importa."
+        },
+        {
+          "letter": "D",
+          "text": "$\\{CCC, CSS, SSS\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos resultados corresponden a tres lanzamientos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada lanzamiento tiene 2 resultados; dos lanzamientos dan $2 \\times 2 = 4$ pares ordenados: $CC, CS, SC, SS$.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la probabilidad de obtener un número par al lanzar un dado equilibrado?",
+      "context": "Un estudiante de Colonia calcula la probabilidad de sacar un número par en un dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad de un resultado específico, no del conjunto de pares."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Hay 3 pares (2, 4, 6) entre 6 resultados: $\\frac{3}{6} = \\frac{1}{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste 4 pares; solo hay tres números pares en el dado."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos los resultados son pares; la probabilidad no es segura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Casos favorables: $\\{2, 4, 6\\}$, tres de seis posibles. $P = \\frac{3}{6} = \\frac{1}{2}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "¿Entre qué valores puede variar la probabilidad de un evento?",
+      "context": "Una estudiante de Maldonado interpreta los valores posibles de una probabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre $-1$ y $1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las probabilidades nunca son negativas."
+        },
+        {
+          "letter": "B",
+          "text": "Entre $0$ y $1$, inclusive.",
+          "is_correct": true,
+          "feedback": "¡Correcto! 0 es imposible y 1 es seguro; nada fuera de ese rango."
+        },
+        {
+          "letter": "C",
+          "text": "Entre $0$ y $100$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es en porcentaje; en valores absolutos el máximo es 1."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquier número real positivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna probabilidad supera 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los axiomas de la probabilidad exigen $0 \\le P(E) \\le 1$: 0 para eventos imposibles y 1 para eventos seguros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la probabilidad de extraer un caramelo rojo al azar?",
+      "context": "Un kiosco de Canelones tiene una bolsa con 4 caramelos rojos y 6 verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{4}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador debe ser el total de caramelos, no solo los verdes."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{5}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\frac{4}{10} = \\frac{2}{5}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad de sacar verde."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo los rojos como total; hay 10 caramelos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Total: 10 caramelos; favorables: 4 rojos. $P = \\frac{4}{10} = \\frac{2}{5} = 0.4$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la probabilidad de extraer un as de un mazo de 40 cartas (que tiene 4 ases)?",
+      "context": "Un grupo de Tacuarembó juega a sacar cartas de un mazo español de 40 naipes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la cantidad de ases con la fracción del mazo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{10}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\frac{4}{40} = \\frac{1}{10}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{40}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la probabilidad de una carta específica, como el as de oros."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparaste con un mazo de 10; el mazo tiene 40 cartas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Casos favorables: 4 ases; posibles: 40 cartas. $P = \\frac{4}{40} = 0.1$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Un restaurante ofrece 3 entradas, 4 platos principales y 2 postres. ¿Cuántos menús distintos se pueden armar eligiendo uno de cada categoría?",
+      "context": "Una docente de Rivera aplica el principio multiplicativo del conteo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las opciones; las elecciones independientes se multiplican."
+        },
+        {
+          "letter": "B",
+          "text": "$24$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3 \\times 4 \\times 2 = 24$ combinaciones."
+        },
+        {
+          "letter": "C",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo dos de las tres categorías."
+        },
+        {
+          "letter": "D",
+          "text": "$14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede una suma parcial con un producto; el principio es multiplicativo puro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de la multiplicación: si hay 3 formas de elegir la entrada, 4 el plato y 2 el postre, el total de menús es $3 \\cdot 4 \\cdot 2 = 24$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "¿De cuántas formas se pueden ordenar 4 libros distintos en un estante?",
+      "context": "Un estudiante de Paysandú calcula permutaciones para ordenar libros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo la cantidad de libros, no las ordenaciones posibles."
+        },
+        {
+          "letter": "B",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $4 \\times 4$; en cada posición quedan menos libros disponibles."
+        },
+        {
+          "letter": "C",
+          "text": "$24$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $4! = 4 \\times 3 \\times 2 \\times 1 = 24$."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede $4 \\times 2$; el factorial multiplica todos los enteros descendentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las ordenaciones de $n$ objetos distintos son $n!$: $4! = 24$ formas de disponer los libros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Si la probabilidad de que llueva mañana es $0.3$, ¿cuál es la probabilidad de que no llueva?",
+      "context": "Una estudiante de Durazno calcula la probabilidad del evento complementario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complemento no es el mismo valor; llueva o no, las probabilidades suman 1."
+        },
+        {
+          "letter": "B",
+          "text": "$0.7$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $P(\\text{no llueva}) = 1 - 0.3 = 0.7$."
+        },
+        {
+          "letter": "C",
+          "text": "$1.3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna probabilidad supera 1."
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que no llueva es bastante posible; no es un evento imposible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del complemento: $P(\\bar{E}) = 1 - P(E) = 1 - 0.3 = 0.7$. Es la forma más rápida de calcular \"al menos uno no ocurre\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "¿De cuántas formas se pueden asignar los dos cargos a personas distintas?",
+      "context": "Un club de Florida sortea dos cargos distintos entre 5 candidatos: presidente y secretario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el conteo de combinaciones sin importar el orden; los cargos son distintos, así que sí importa."
+        },
+        {
+          "letter": "B",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $5 \\times 4 = 20$ asignaciones ordenadas."
+        },
+        {
+          "letter": "C",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5 \\times 5$ permitiría que la misma persona ocupe ambos cargos."
+        },
+        {
+          "letter": "D",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de aplicar el principio multiplicativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como los cargos son distintos, el orden importa: 5 opciones para presidente y 4 restantes para secretario: $5 \\times 4 = 20$ (variaciones de 5 en 2).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "¿En cuál de estas situaciones NO importa el orden (combinación)?",
+      "context": "Un estudiante de Rocha distingue entre combinaciones y permutaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asignar oro, plata y bronce en una carrera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí el orden distingue los premios: es permutación."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir 3 delegados entre 10 estudiantes, todos con el mismo rol.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los delegados son indistinguibles: el orden de elección no crea grupos distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Formar un código de 4 dígitos distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el orden cambia el código: es permutación."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar películas en una lista de reproducción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lista es ordenada por definición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando los seleccionados cumplen el mismo rol, intercambiar el orden no genera un resultado nuevo: se cuenta con combinaciones $\\binom{n}{k}$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "¿De cuántas formas se puede elegir una comisión de 2 personas entre 6 candidatos (mismo rol para ambos)?",
+      "context": "Una docente de Melo calcula combinaciones para formar un equipo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el conteo ordenado; al no importar el orden hay que dividir entre $2!$."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\binom{6}{2} = \\frac{6 \\times 5}{2} = 15$."
+        },
+        {
+          "letter": "C",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $6 \\times 2$; las combinaciones usan el coeficiente binomial."
+        },
+        {
+          "letter": "D",
+          "text": "$36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste al cuadrado; faltan las restricciones del conteo sin reposición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin importar el orden: $\\binom{6}{2} = \\frac{6!}{2! \\cdot 4!} = 15$ comisiones posibles.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la probabilidad de obtener un 2 o un 5 al lanzar un dado?",
+      "context": "Un analista de Minas estudia eventos mutuamente excluyentes con un dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{36}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades; los eventos son excluyentes y se suman."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\frac{1}{6} + \\frac{1}{6} = \\frac{2}{6} = \\frac{1}{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste de más; con eventos excluyentes se suman las probabilidades."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste casos que no corresponden; solo el 2 y el 5 son favorables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Eventos mutuamente excluyentes: $P(A \\cup B) = P(A) + P(B) = \\frac{1}{6} + \\frac{1}{6} = \\frac{1}{3}$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la probabilidad de que el primer tornillo extraído sea bueno y el segundo defectuoso (en ese orden)?",
+      "context": "Una fábrica de San José tiene una caja con 5 tornillos buenos y 3 defectuosos; se extraen 2 sin reposición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{15}{56}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\frac{5}{8} \\times \\frac{3}{7} = \\frac{15}{56}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{15}{64}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste con reposición ($\\frac{5}{8} \\times \\frac{3}{8}$); la extracción es sin reposición."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{8}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las fracciones en lugar de multiplicar probabilidades condicionales."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo la probabilidad del primer evento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sin reposición, el segundo evento es condicional: $P = \\frac{5}{8} \\times \\frac{3}{7} = \\frac{15}{56} \\approx 0.268$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la probabilidad de obtener dos caras seguidas al lanzar una moneda dos veces?",
+      "context": "Un estudiante de Treinta y Tres analiza dos lanzamientos independientes de moneda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad de una cara; hay que multiplicar por la independencia."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$; solo $CC$ de 4 casos."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste para tres lanzamientos."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obtener dos caras no es seguro; hay 4 resultados posibles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Eventos independientes: las probabilidades se multiplican: $\\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4}$, coincidente con el único caso $CC$ de cuatro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la probabilidad de obtener al menos una cara al lanzar dos monedas?",
+      "context": "Una escuela de Maldonado analiza la probabilidad de \"al menos una cara\" en dos lanzamientos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad del complemento (dos sellos), no del evento pedido."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo 2 de los 3 casos favorables ($CC$, $CS$, $SC$)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $1 - P(SS) = 1 - \\frac{1}{4} = \\frac{3}{4}$."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El caso $SS$ existe, así que no es seguro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Al menos una\" se calcula por complemento: $1 - P(\\text{ninguna}) = 1 - \\frac{1}{4} = \\frac{3}{4}$. Directo: $CC, CS, SC$ son 3 de 4 casos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la evaluación correcta de ese razonamiento?",
+      "context": "En un debate de Paysandú, un estudiante dice: \"salieron 5 caras seguidas, así que la próxima casi seguro es sello\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correcto: la ley de promedios obliga a que salga sello.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal ley; es la falacia del apostador."
+        },
+        {
+          "letter": "B",
+          "text": "Incorrecto: los lanzamientos son independientes y la moneda no tiene memoria; la probabilidad de sello sigue siendo $\\frac{1}{2}$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada lanzamiento es independiente de los anteriores."
+        },
+        {
+          "letter": "C",
+          "text": "Correcto solo si la moneda está equilibrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La equilibra no cambia la independencia de los lanzamientos."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrecto, porque en realidad la próxima casi seguro es cara por la racha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rachas no predicen nada en procesos independientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia del apostador supone que los resultados pasados influyen en futuros. En lanzamientos independientes, $P(\\text{sello}) = \\frac{1}{2}$ siempre.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Para calcular $P(A \\cap B)$ como $P(A) \\cdot P(B)$, ¿qué condición debe verificarse?",
+      "context": "Una examinadora de Durazno presenta dos eventos: A \"llueve hoy\" y B \"hay tráfico hoy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que A y B sean independientes: que uno no altere la probabilidad del otro.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La regla del producto simple solo vale bajo independencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que A y B sean mutuamente excluyentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si son excluyentes, $P(A \\cap B) = 0$ sin importar el producto."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambos eventos tengan probabilidad $\\frac{1}{2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de las probabilidades no habilita la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "Que sean eventos seguros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los eventos seguros tienen probabilidad 1 y el caso es trivial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La multiplicación de probabilidades marginales exige independencia. Lluvia y tráfico suelen estar relacionados, así que habría que usar probabilidad condicional.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "¿Cuántos partidos deben jugarse en total para coronar un campeón?",
+      "context": "Un club de Montevideo organiza un torneo con 8 equipos a eliminación simple (quien pierde queda fuera).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la cantidad de equipos, no de partidos; contá las rondas: 4 + 2 + 1."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada partido elimina a un equipo; para eliminar 7 hacen falta 7 partidos."
+        },
+        {
+          "letter": "C",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste los equipos; la eliminación simple no juega ida y vuelta."
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo la primera ronda (cuartos)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En eliminación simple, cada partido elimina exactamente un equipo. Para dejar un campeón entre 8 hay que eliminar 7: 7 partidos (4 + 2 + 1).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la probabilidad de que una pieza elegida al azar tenga defecto y el test lo detecte?",
+      "context": "Una empresa de Salto evalúa un test rápido: si hay defecto, lo detecta con probabilidad 0.9; la probabilidad de que una pieza tenga defecto es 0.1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo la sensibilidad del test; falta ponderar por la frecuencia del defecto."
+        },
+        {
+          "letter": "B",
+          "text": "$0.09$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $P(\\text{defecto}) \\times P(\\text{detecta} \\mid \\text{defecto}) = 0.1 \\times 0.9 = 0.09$."
+        },
+        {
+          "letter": "C",
+          "text": "$0.81$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $0.9 \\times 0.9$; la probabilidad de defecto es 0.1, no 0.9."
+        },
+        {
+          "letter": "D",
+          "text": "$0.19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades; los eventos encadenados se multiplican."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de la multiplicación con condicional: $P(D \\cap T) = P(D) \\cdot P(T|D) = 0.1 \\times 0.9 = 0.09$. Es la base del teorema de probabilidad total y de Bayes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}
