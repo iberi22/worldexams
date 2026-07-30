@@ -1952,7 +1952,7 @@
         <h3 class="text-lg font-black text-white uppercase tracking-widest flex items-center gap-2">
           <span class="text-emerald-400">📊</span> Entendiendo tu Rating (MMR)
         </h3>
-        <button onclick={() => showHelpModal = false} class="text-white/40 hover:text-white transition-colors">
+        <button onclick={() => showHelpModal = false} class="text-white/40 hover:text-white transition-colors" aria-label="Cerrar">
           <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
         </button>
       </div>
