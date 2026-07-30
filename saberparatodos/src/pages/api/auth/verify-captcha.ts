@@ -7,10 +7,14 @@ import type { APIRoute } from 'astro';
 // Using Cloudflare Turnstile
 // https://developers.cloudflare.com/turnstile/troubleshooting/testing/
 const TURNSTILE_SECRET = import.meta.env.TURNSTILE_SECRET_KEY;
-const CAPTCHA_SECRET = import.meta.env.CAPTCHA_SECRET || 'spt-captcha-2026-worldexams-secret-key';
+const CAPTCHA_SECRET = import.meta.env.CAPTCHA_SECRET;
 
 if (!TURNSTILE_SECRET) {
   console.warn('[verify-captcha] TURNSTILE_SECRET_KEY is not set. CAPTCHA verification will fail.');
+}
+
+if (!CAPTCHA_SECRET) {
+  console.warn('[verify-captcha] CAPTCHA_SECRET is not set. CAPTCHA verification will fail.');
 }
 
 async function hmacSign(data: string, secret: string): Promise<string> {
@@ -32,6 +36,13 @@ export const POST: APIRoute = async ({ request }) => {
   try {
     const body = await request.json();
     const token = body.captchaToken || body.verificationToken || body.token;
+
+    if (!CAPTCHA_SECRET) {
+      return new Response(JSON.stringify({
+        verified: false,
+        error: 'Server configuration error: CAPTCHA_SECRET is missing',
+      }), { status: 500, headers: { 'Content-Type': 'application/json' } });
+    }
 
     if (!TURNSTILE_SECRET) {
       return new Response(JSON.stringify({
