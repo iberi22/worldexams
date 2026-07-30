@@ -3,6 +3,12 @@
   // Bounded Map to prevent memory leaks while optimizing synchronous rendering
   const MAX_CACHE_SIZE = 500;
   const renderCache = new Map<string, string>();
+
+  // Regex patterns for LaTeX (moved to module context to avoid per-instance recreation)
+  const BLOCK_MATH_REGEX = /\$\$([\s\S]*?)\$\$/g;
+  // Improved inline math regex: Must not be preceded/followed by digits (unless space) to avoid currency collisions
+  // and allows for more robust content capture
+  const INLINE_MATH_REGEX = /(?<![\d\w])\$([^\$\n]+?)\$(?![\d\w])/g;
 </script>
 
 <script lang="ts">
@@ -15,12 +21,6 @@
 
   let container: HTMLElement;
   let renderedHTML: string = '';
-
-  // Regex patterns for LaTeX
-  const BLOCK_MATH_REGEX = /\$\$([\s\S]*?)\$\$/g;
-  // Improved inline math regex: Must not be preceded/followed by digits (unless space) to avoid currency collisions
-  // and allows for more robust content capture
-  const INLINE_MATH_REGEX = /(?<![\d\w])\$([^\$\n]+?)\$(?![\d\w])/g;
 
   /**
    * Render LaTeX math expressions within the content
