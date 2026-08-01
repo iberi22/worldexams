@@ -58,7 +58,7 @@
     <div class="cache-details">
       <div class="details-header">
         <h3>Estado de la Caché {pwaStatus.isPWA ? '📱' : ''}</h3>
-        <button class="close-btn" on:click={() => showDetails = false}>✕</button>
+        <button class="close-btn" on:click={() => showDetails = false} aria-label="Cerrar detalles">✕</button>
       </div>
 
       {#if pwaStatus.isPWA}
