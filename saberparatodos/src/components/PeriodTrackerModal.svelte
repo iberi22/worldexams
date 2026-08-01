@@ -20,11 +20,11 @@
   >
       <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-emerald-500 to-blue-500"></div>
 
-      <div class="flex items-center justify-between mb-6">
-          <h2 class="text-lg font-bold uppercase tracking-widest text-white">
+      <div class="flex items-center justify-between mb-8 pb-4 border-b border-white/10">
+          <h2 class="text-xl font-bold uppercase tracking-widest text-emerald-400">
               Cronograma Escolar
           </h2>
-          <button onclick={onClose} class="text-white/40 hover:text-white">
+          <button onclick={onClose} class="text-white/40 hover:text-white" aria-label="Cerrar modal">
               ✕
           </button>
       </div>
