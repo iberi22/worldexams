@@ -211,7 +211,7 @@
   {#if showBreakdown}
     <button
       on:click={() => showDetails = !showDetails}
-      class="w-full py-3 text-xs uppercase tracking-widest text-white/40 hover:text-white/80 transition-colors flex items-center justify-center gap-2"
+      class="w-full py-3 text-xs uppercase tracking-widest text-white/40 hover:text-white/80 transition-colors flex items-center justify-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded"
     >
       {showDetails ? 'Ocultar' : 'Ver'} detalle por pregunta
     </button>
@@ -292,7 +292,7 @@
         <button
           type="button"
           on:click={closeScoreHelp}
-          class="w-10 h-10 rounded-full border border-white/10 bg-white/5 text-white/70 hover:text-white hover:bg-white/10 transition-colors"
+          class="w-10 h-10 rounded-full border border-white/10 bg-white/5 text-white/70 hover:text-white hover:bg-white/10 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500"
           aria-label="Cerrar explicacion del puntaje"
         >
           ✕

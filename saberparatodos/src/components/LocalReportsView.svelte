@@ -56,6 +56,22 @@
 
   let activeTab: 'dashboard' | 'history' = $state('dashboard');
   let historyResults: ExamResultRecord[] = $state([]);
+
+  // ⚡ Bolt Optimization: O(1) lookup map for historical questions to avoid O(N*M) nested loops on every modal open
+  let historyQuestionMap = $derived.by(() => {
+    const map = new Map<string, any>();
+    for (const record of historyResults) {
+      if (record.details && Array.isArray(record.details)) {
+        for (const detail of record.details) {
+          if (detail.question && !map.has(String(detail.questionId))) {
+            map.set(String(detail.questionId), detail.question);
+          }
+        }
+      }
+    }
+    return map;
+  });
+
   let userProfile: UserProfile | null = $state(null);
   let insights: string[] = $state([]);
   let loading = $state(true);
@@ -179,16 +195,12 @@
 
     // 🆕 Step 1: Check if we already have this question in our history records
     // This is the fastest and most reliable way for previously taken exams
-    for (const record of historyResults) {
-      if (record.details && Array.isArray(record.details)) {
-        const foundInHistory = record.details.find(d => String(d.questionId) === qid);
-        if (foundInHistory && foundInHistory.question) {
-          console.log(`🧠 Found question data in local history for: ${qid}`);
-          selectedQuestionData = foundInHistory.question;
-          loadingQuestion = false;
-          return;
-        }
-      }
+    const cachedQuestion = historyQuestionMap.get(qid);
+    if (cachedQuestion) {
+      console.log(`🧠 Found question data in local history for: ${qid}`);
+      selectedQuestionData = cachedQuestion;
+      loadingQuestion = false;
+      return;
     }
 
     try {
@@ -1952,7 +1964,7 @@
         <h3 class="text-lg font-black text-white uppercase tracking-widest flex items-center gap-2">
           <span class="text-emerald-400">📊</span> Entendiendo tu Rating (MMR)
         </h3>
-        <button onclick={() => showHelpModal = false} class="text-white/40 hover:text-white transition-colors" aria-label="Cerrar">
+        <button onclick={() => showHelpModal = false} class="text-white/40 hover:text-white transition-colors">
           <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
         </button>
       </div>
