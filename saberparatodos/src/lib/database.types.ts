@@ -46,7 +46,9 @@ export interface Database {
           created_at?: string
           updated_at?: string
         }
+        Relationships: []
       }
+
       colleges: {
         Row: {
           id: string
@@ -96,7 +98,9 @@ export interface Database {
           total_students?: number | null
           created_at?: string
         }
+        Relationships: []
       }
+
       training_sessions: {
         Row: {
           id: string
@@ -134,7 +138,9 @@ export interface Database {
           started_at?: string
           completed_at?: string | null
         }
+        Relationships: []
       }
+
       generated_content: {
         Row: {
           id: string
@@ -166,7 +172,9 @@ export interface Database {
           cost?: number
           created_at?: string
         }
+        Relationships: []
       }
+
       transactions: {
         Row: {
           id: string
@@ -195,7 +203,9 @@ export interface Database {
           reference_id?: string | null
           created_at?: string
         }
+        Relationships: []
       }
+
       user_answered_questions: {
         Row: {
           id: number
@@ -224,7 +234,9 @@ export interface Database {
           metadata?: Json | null
           created_at?: string
         }
+        Relationships: []
       }
+
       user_stats: {
         Row: {
           user_id: string
@@ -247,7 +259,9 @@ export interface Database {
           avg_time_seconds?: number | null
           updated_at?: string | null
         }
+        Relationships: []
       }
+
       party_sessions: {
         Row: {
           id: string
@@ -267,7 +281,9 @@ export interface Database {
           host_id?: string
           created_at?: string
         }
+        Relationships: []
       }
+
       parties: {
         Row: {
           id: string
@@ -299,7 +315,9 @@ export interface Database {
           ended_at?: string | null
           created_at?: string
         }
+        Relationships: []
       }
+
       party_players: {
         Row: {
           id: string
@@ -331,7 +349,125 @@ export interface Database {
           correct_answers?: number
           joined_at?: string
         }
+        Relationships: []
       }
+      organizations: {
+        Row: {
+          id: string
+          name: string
+          slug: string
+          billing_email: string | null
+          owner_user_id: string | null
+          plan_tier: 'free' | 'pro' | 'enterprise'
+          is_active: boolean
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          name: string
+          slug: string
+          billing_email?: string | null
+          owner_user_id?: string | null
+          plan_tier?: 'free' | 'pro' | 'enterprise'
+          is_active?: boolean
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          name?: string
+          slug?: string
+          billing_email?: string | null
+          owner_user_id?: string | null
+          plan_tier?: 'free' | 'pro' | 'enterprise'
+          is_active?: boolean
+          created_at?: string
+        }
+        Relationships: []
+      }
+      organization_members: {
+        Row: {
+          id: string
+          organization_id: string
+          user_id: string
+          role: 'owner' | 'admin' | 'member'
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          organization_id: string
+          user_id: string
+          role: 'owner' | 'admin' | 'member'
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          organization_id?: string
+          user_id?: string
+          role?: 'owner' | 'admin' | 'member'
+          created_at?: string
+        }
+        Relationships: []
+      }
+
+      bot_linking_codes: {
+        Row: {
+          code: string
+          user_id: string | null
+          created_at: string
+          expires_at: string
+        }
+        Insert: {
+          code: string
+          user_id?: string | null
+          created_at?: string
+          expires_at?: string
+        }
+        Update: {
+          code?: string
+          user_id?: string | null
+          created_at?: string
+          expires_at?: string
+        }
+        Relationships: []
+      }
+
+      question_comments: {
+        Row: {
+          id: string
+          question_id: string
+          user_id: string | null
+          user_name: string | null
+          content: string
+          created_at: string
+          updated_at: string
+          is_approved: boolean
+          github_issue_url: string | null
+        }
+        Insert: {
+          id?: string
+          question_id: string
+          user_id?: string | null
+          user_name?: string | null
+          content: string
+          created_at?: string
+          updated_at?: string
+          is_approved?: boolean
+          github_issue_url?: string | null
+        }
+        Update: {
+          id?: string
+          question_id?: string
+          user_id?: string | null
+          user_name?: string | null
+          content?: string
+          created_at?: string
+          updated_at?: string
+          is_approved?: boolean
+          github_issue_url?: string | null
+        }
+        Relationships: []
+      }
+
     }
     Views: {
       [_ in never]: never
