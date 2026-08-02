@@ -35,6 +35,8 @@
 
     // Trim input to remove leading/trailing whitespace/newlines
     let result = text.trim();
+    // Prevent XSS: Escape HTML tags while preserving math inequalities
+    result = result.replace(/<\s*([a-zA-Z\/!?][^>]*?)>/gi, "&lt;$1&gt;");
 
     // 🎥 Multimedia Parsers (English Protocol v3.0)
     // 1. YouTube: {{youtube:ID}} -> iframe
