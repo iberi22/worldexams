@@ -206,6 +206,7 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
               packId: String(payload?.meta?.pack_id || payload?.meta?.packId || `api-week-${currentWeek}`),
               grade,
               subject: normalizedSubject,
+              country: runtimeApiConfig.countryCode || 'co',
               questions: rawQuestions,
               downloadedAt: Date.now(),
               questionCount: rawQuestions.length
