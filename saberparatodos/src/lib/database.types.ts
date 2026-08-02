@@ -248,6 +248,90 @@ export interface Database {
           updated_at?: string | null
         }
       }
+      party_sessions: {
+        Row: {
+          id: string
+          party_code: string
+          host_id: string
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          party_code: string
+          host_id: string
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          party_code?: string
+          host_id?: string
+          created_at?: string
+        }
+      }
+      parties: {
+        Row: {
+          id: string
+          pin: string
+          host_id: string
+          status: string
+          config: Json
+          total_questions: number
+          ended_at: string | null
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          pin: string
+          host_id: string
+          status: string
+          config: Json
+          total_questions: number
+          ended_at?: string | null
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          pin?: string
+          host_id?: string
+          status?: string
+          config?: Json
+          total_questions?: number
+          ended_at?: string | null
+          created_at?: string
+        }
+      }
+      party_players: {
+        Row: {
+          id: string
+          party_id: string
+          player_id: string
+          nickname: string
+          score: number
+          rank: number | null
+          correct_answers: number
+          joined_at: string
+        }
+        Insert: {
+          id?: string
+          party_id: string
+          player_id: string
+          nickname: string
+          score?: number
+          rank?: number | null
+          correct_answers?: number
+          joined_at?: string
+        }
+        Update: {
+          id?: string
+          party_id?: string
+          player_id?: string
+          nickname?: string
+          score?: number
+          rank?: number | null
+          correct_answers?: number
+          joined_at?: string
+        }
+      }
     }
     Views: {
       [_ in never]: never
