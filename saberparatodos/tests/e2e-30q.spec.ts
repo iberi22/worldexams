@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 
 const BASE_URL = 'https://saberparatodos.space';
 
-async function startExam(page, grade, subject, mode, period) {
+async function startExam(page: any, grade: any, subject: any, mode: any, period: number | null = null) {
   await page.goto(BASE_URL, { waitUntil: 'networkidle', timeout: 30000 });
   const gradeBtn = page.locator('button').filter({ hasText: `${grade}° Grado` }).first();
   await expect(gradeBtn).toBeVisible({ timeout: 15000 });
@@ -31,7 +31,7 @@ async function startExam(page, grade, subject, mode, period) {
   await startBtn.click();
 }
 
-async function validateQuestions(page, label) {
+async function validateQuestions(page: any, label: any) {
   try {
     await expect(page.getByTestId('options-grid')).toBeVisible({ timeout: 60000 });
     const count = await page.locator('[data-testid="options-grid"] button, [data-testid="options-grid"] div[role="button"]').count();
