@@ -41,7 +41,7 @@ const {
   title = `${countryConfig.product.siteName} | ${countryConfig.examName}`,
   description = countryConfig.product.defaultDescription,
   keywords = countryConfig.product.seoKeywords.join(', '),
-  image = "/logo.png",
+  image = "/og-image.svg",
   type = "website",
   noindex = false,
   showNavbar = true,
@@ -147,8 +147,11 @@ const webAppSchema = {
       }
     </script>
 
-		<link rel="icon" type="image/png" href="/favicon.png" />
-		<link rel="apple-touch-icon" href="/logo.png" />
+    <!-- Favicons & App Icons -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 		<meta name="generator" content={Astro.generator} />
     <meta name="version" content={appVersion} />
     <link rel="sitemap" href="/sitemap-index.xml" />
@@ -199,6 +202,8 @@ const webAppSchema = {
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImageURL} />
+    <meta property="og:image:secure_url" content={ogImageURL} />
+    <meta property="og:image:type" content="image/svg+xml" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:alt" content={title} />
@@ -206,12 +211,14 @@ const webAppSchema = {
     <meta property="og:locale" content={ogLocale} />
 
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={canonicalURL} />
-    <meta property="twitter:title" content={title} />
-    <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={ogImageURL} />
-    <meta property="twitter:image:alt" content={title} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@worldexams_org" />
+    <meta name="twitter:creator" content="@worldexams_org" />
+    <meta name="twitter:url" content={canonicalURL} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageURL} />
+    <meta name="twitter:image:alt" content={title} />
 
     <!-- DNS Prefetch para recursos externos -->
     <link rel="dns-prefetch" href="https://fonts.googleapis.com" />

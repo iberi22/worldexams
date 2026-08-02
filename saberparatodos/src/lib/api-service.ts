@@ -38,6 +38,7 @@ export interface APIQuestion {
   cefr_level?: string;
   country?: string;
   subject?: string;
+  grade?: number;
 }
 
 export interface AppQuestion {
