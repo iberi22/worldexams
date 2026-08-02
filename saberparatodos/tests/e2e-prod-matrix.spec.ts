@@ -4,7 +4,7 @@ const BASE_URL = 'https://saberparatodos.space'; // Production URL
 
 // ── Helpers ──
 
-async function closeModals(page) {
+async function closeModals(page: any) {
   // Wait for hero welcome to auto-close (countdown ~5s)
   await page.waitForTimeout(6000);
   // Close "MODO LOCAL" banner if visible
@@ -17,7 +17,7 @@ async function closeModals(page) {
   }
 }
 
-async function runExam(page, grade, subject, mode, period) {
+async function runExam(page: any, grade: any, subject: any, mode: any, period: number | null = null) {
   await page.goto(BASE_URL, { waitUntil: 'networkidle', timeout: 30000 });
   await closeModals(page);
   await page.locator('[role="button"]').filter({ hasText: `${grade}° Grado` }).first().click();
