@@ -53,15 +53,15 @@ test.describe('Question Dedup — localStorage Integration', () => {
         }
       }
 
-      function markQuestionsAnswered(questions, totalAvailable, period) {
+      function markQuestionsAnswered(questions: { id: string }[], totalAvailable: number, period?: number) {
         const answeredIdsSet = loadAnsweredQuestions();
 
         questions.forEach(q => {
           if (q && q.id) answeredIdsSet.add(q.id);
         });
 
-        const newTimestamps = {};
-        const currentTimestamps = (() => {
+        const newTimestamps: Record<string, number> = {};
+        const currentTimestamps: Record<string, number> = (() => {
           const stored = localStorage.getItem(STORAGE_KEY);
           if (!stored) return {};
           try { return JSON.parse(stored).answeredTimestamps || {}; } catch { return {}; }
@@ -71,10 +71,11 @@ test.describe('Question Dedup — localStorage Integration', () => {
         const now = Date.now();
 
         answeredIdsSet.forEach((id) => {
-          if (currentTimestamps[id] && now - currentTimestamps[id] < SIX_DAYS_MS) {
-            newTimestamps[id] = currentTimestamps[id];
+          const ts = currentTimestamps[id as string];
+          if (ts && now - ts < SIX_DAYS_MS) {
+            newTimestamps[id as string] = ts;
           } else {
-            newTimestamps[id] = now;
+            newTimestamps[id as string] = now;
           }
         });
 
@@ -141,11 +142,11 @@ test.describe('Question Dedup — localStorage Integration', () => {
 
       // Now load and filter
       const stored = localStorage.getItem(STORAGE_KEY);
-      const data = JSON.parse(stored);
+      const data = JSON.parse(stored!);
       const timestamps = data.answeredTimestamps || {};
       const EXPIRY_MS = 14 * 24 * 60 * 60 * 1000;
       const now = Date.now();
-      const answeredSet = new Set();
+      const answeredSet = new Set<string>();
       Object.entries(timestamps).forEach(([id, ts]) => {
         if (now - Number(ts) < EXPIRY_MS) {
           answeredSet.add(id);
@@ -229,7 +230,7 @@ test.describe('Question Dedup — localStorage Integration', () => {
           const result = w.__saberparatodos__.filterUnansweredQuestions(pool, 3);
           return {
             method: 'real',
-            filtered: result.filtered.map(q => q.id),
+            filtered: result.filtered.map((q: { id: string }) => q.id),
             hadToRepeat: result.hadToRepeat
           };
         }
@@ -239,7 +240,7 @@ test.describe('Question Dedup — localStorage Integration', () => {
 
       // Manual verification
       const stored = localStorage.getItem(STORAGE_KEY);
-      const data = JSON.parse(stored);
+      const data = JSON.parse(stored!);
       const answeredSet = new Set(Object.keys(data.answeredTimestamps));
 
       const questionPool = [
