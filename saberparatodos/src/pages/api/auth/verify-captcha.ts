@@ -36,7 +36,14 @@ export const POST: APIRoute = async ({ request }) => {
     const body = await request.json();
     const token = body.captchaToken || body.verificationToken || body.token;
 
-    if (!TURNSTILE_SECRET || !CAPTCHA_SECRET) {
+    if (!CAPTCHA_SECRET) {
+      return new Response(JSON.stringify({
+        verified: false,
+        error: 'Server configuration error: CAPTCHA_SECRET is missing',
+      }), { status: 500, headers: { 'Content-Type': 'application/json' } });
+    }
+
+    if (!TURNSTILE_SECRET) {
       return new Response(JSON.stringify({
         verified: false,
         error: 'CAPTCHA not configured',
