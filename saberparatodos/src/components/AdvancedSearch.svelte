@@ -11,6 +11,18 @@
   // State
   let isOpen = false;
   let query = '';
+  let debouncedQuery = '';
+  let searchTimeout: ReturnType<typeof setTimeout>;
+
+  function updateDebouncedQuery(val: string) {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => {
+      debouncedQuery = val;
+    }, 300);
+  }
+
+  $: updateDebouncedQuery(query);
+
   let showFilters = false;
 
   // Filters
@@ -70,10 +82,10 @@
 
   // Filter results
   $: filteredQuestions = questions.filter(q => {
-    const normalizedQuery = normalizeText(query);
+    const normalizedQuery = normalizeText(debouncedQuery);
 
     // Text search (Smart Search across multiple fields)
-    const matchesQuery = !query || (() => {
+    const matchesQuery = !debouncedQuery || (() => {
       const text = normalizeText(q.text);
       const category = normalizeText(q.category);
       const explanation = normalizeText(q.explanation);
@@ -328,7 +340,7 @@
             <div class="p-8 text-center">
               <div class="text-4xl mb-4 opacity-20">🔍</div>
               <p class="text-white/40 text-sm">
-                {query || activeFiltersCount > 0 ? 'No se encontraron resultados' : 'Escribe para buscar o usa los filtros'}
+                {debouncedQuery || activeFiltersCount > 0 ? 'No se encontraron resultados' : 'Escribe para buscar o usa los filtros'}
               </p>
             </div>
           {:else}
