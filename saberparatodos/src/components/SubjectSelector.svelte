@@ -116,14 +116,14 @@
   <div class="flex gap-4">
     <button
       onclick={onBack}
-      class="px-6 py-2 border border-white/20 hover:bg-white/10 transition-colors uppercase text-xs tracking-widest opacity-60 hover:opacity-100"
+      class="px-6 py-2 border border-white/20 hover:bg-white/10 transition-colors uppercase text-xs tracking-widest opacity-60 hover:opacity-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded"
     >
       Volver
     </button>
 
     <button
       onclick={() => onSelect('CHANGE_GRADE')}
-      class="px-6 py-2 border border-emerald-500/20 hover:bg-emerald-500/10 text-emerald-500/80 hover:text-emerald-500 transition-colors uppercase text-xs tracking-widest"
+      class="px-6 py-2 border border-emerald-500/20 hover:bg-emerald-500/10 text-emerald-500/80 hover:text-emerald-500 transition-colors uppercase text-xs tracking-widest focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded"
     >
       Cambiar Grado
     </button>
