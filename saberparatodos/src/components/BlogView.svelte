@@ -14,6 +14,18 @@
   export let isLoading: boolean = false; // 🆕 Loading state from parent
 
   let searchTerm = "";
+  let debouncedSearchTerm = "";
+  let searchTimeout: ReturnType<typeof setTimeout>;
+
+  function updateDebouncedSearchTerm(val: string) {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => {
+      debouncedSearchTerm = val;
+    }, 300);
+  }
+
+  $: updateDebouncedSearchTerm(searchTerm);
+
   let selectedGrade: number | null = 11; // 🆕 Default to grade 11
   let selectedDifficulty: number | null = null;
   let selectedSubject: string | null = null; // 🆕 Will be set reactively after subjects load
@@ -212,7 +224,7 @@
       .replace(/[\u0300-\u036f]/g, '');
   }
 
-  $: normalizedSearchTerm = normalizeForSearch(searchTerm);
+  $: normalizedSearchTerm = normalizeForSearch(debouncedSearchTerm);
 
   $: filteredQuestions = questions.filter((q, index, self) => {
     // Skip invalid questions
@@ -242,7 +254,7 @@
       q.difficulty?.toString() || ''
     ].map(s => normalizeForSearch(String(s))).join(' ');
 
-    const matchesSearch = !searchTerm || searchTarget.includes(normalizedSearchTerm);
+    const matchesSearch = !debouncedSearchTerm || searchTarget.includes(normalizedSearchTerm);
 
     return matchesSearch && matchesGrade && matchesDifficulty && matchesPeriod && matchesSubject;
   });
@@ -271,7 +283,7 @@
 
   // Reset pagination when filters change
   $: {
-    searchTerm; selectedGrade; selectedDifficulty; selectedSubject; selectedPeriod;
+    debouncedSearchTerm; selectedGrade; selectedDifficulty; selectedSubject; selectedPeriod;
     visibleCount = 30;
   }
 
