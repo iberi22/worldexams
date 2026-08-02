@@ -4,3 +4,6 @@
 ## 2026-08-01 - O(N*M) lookup elimination in Svelte with derived Maps
 **Learning:** Performing a `.find()` on an array inside of a loop (e.g. searching through past exam details for a question) runs on every render/modal open and leads to O(N*M) time complexity. This is especially problematic with large history datasets in Svelte, leading to UI stuttering and unresponsiveness.
 **Action:** Replace nested array `.find()` calls with an O(1) `$derived` Map lookup. Constructing the Map once with Svelte's `$derived` (or `$derived.by`) caches the index and enables instant retrieval on subsequent lookups.
+## 2026-08-02 - Debouncing search inputs in Svelte
+**Learning:** Adding debouncing logic inside Svelte's reactive `$: { ... }` blocks can cause infinite update loops if the block assigns to a variable that it also reads from directly or indirectly (like `searchTimeout`).
+**Action:** Always move debounce `setTimeout` logic into a separate `function` and call that function from the reactive block to cleanly isolate dependencies.
