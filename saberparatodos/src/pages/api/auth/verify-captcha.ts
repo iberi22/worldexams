@@ -12,9 +12,8 @@ const CAPTCHA_SECRET = import.meta.env.CAPTCHA_SECRET;
 if (!TURNSTILE_SECRET) {
   console.warn('[verify-captcha] TURNSTILE_SECRET_KEY is not set. CAPTCHA verification will fail.');
 }
-
 if (!CAPTCHA_SECRET) {
-  console.warn('[verify-captcha] CAPTCHA_SECRET is not set. CAPTCHA verification will fail.');
+  console.warn('[verify-captcha] CAPTCHA_SECRET is not set. Verification token generation will fail.');
 }
 
 async function hmacSign(data: string, secret: string): Promise<string> {
