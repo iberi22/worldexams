@@ -55,7 +55,6 @@ jobs:
           retention-days: 1
 
   deploy:
-    needs: validate-and-build
     runs-on: ubuntu-latest
     environment:
       name: production
@@ -65,11 +64,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download Build Artifact
-        uses: actions/download-artifact@v4
+      - name: Checkout edge-mesh (sibling dependency)
+        uses: actions/checkout@v4
         with:
-          name: dist
-          path: saberparatodos/dist
+          repository: iberi22/edge-mesh
+          path: edge-mesh
+          token: ${{ secrets.EDGE_MESH_PAT }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        working-directory: ./saberparatodos
+        run: npm ci
+
+      - name: Build Application
+        working-directory: ./saberparatodos
+        run: npm run build
+        env:
+          PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
@@ -82,7 +98,6 @@ jobs:
           branch: main
 
   deploy-api:
-    needs: validate-and-build
     runs-on: ubuntu-latest
     timeout-minutes: 10
     environment:

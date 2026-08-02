@@ -44,7 +44,7 @@
 <div class="relative z-50">
   <button
     on:click={toggleSearch}
-    class="p-2 text-emerald-500 hover:text-emerald-400 transition-colors opacity-80 hover:opacity-100"
+    class="p-2 text-emerald-500 hover:text-emerald-400 transition-colors opacity-80 hover:opacity-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded"
     aria-label="Buscar preguntas"
   >
     <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -76,7 +76,7 @@
             class="flex-1 bg-transparent border-none outline-none text-[#F5F5DC] placeholder-white/20"
             autocomplete="off"
           />
-          <button on:click={toggleSearch} class="text-xs uppercase tracking-widest text-white/40 hover:text-white">
+          <button on:click={toggleSearch} class="text-xs uppercase tracking-widest text-white/40 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded px-1">
             ESC
           </button>
         </div>
@@ -90,7 +90,7 @@
             {#each results as result}
               <a
                 href={result.url}
-                class="block p-4 hover:bg-white/5 border-b border-white/5 last:border-0 transition-colors group"
+                class="block p-4 hover:bg-white/5 border-b border-white/5 last:border-0 transition-colors group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 focus-visible:-outline-offset-2"
               >
                 <h4 class="text-emerald-500 font-bold text-sm mb-1 group-hover:text-emerald-400">
                   {result.meta.title || 'Pregunta'}
