@@ -1,6 +1,10 @@
 import type { User } from '@supabase/supabase-js';
 import { supabase } from '../../../lib/supabase';
+import type { Database, Json } from '../../../lib/database.types';
 import type { RoomConfig } from '../types';
+
+type PartySessionInsert = Database['public']['Tables']['party_sessions']['Insert'];
+type PartySessionUpdate = Database['public']['Tables']['party_sessions']['Update'];
 
 export function isSupabaseMirrorEnabled(): boolean {
   return import.meta.env.PUBLIC_ROOMS_SUPABASE_MIRROR === 'true';
@@ -28,7 +32,9 @@ export async function maybePersistPartySession(
   const user = await getSupabaseMirrorUser();
   if (!user) return false;
 
-  const { error } = await supabase.from('party_sessions').insert(session);
+  const { error } = await supabase
+    .from('party_sessions')
+    .insert(session as PartySessionInsert);
   if (error) throw error;
   return true;
 }
@@ -59,7 +65,7 @@ export async function maybeUpdatePartySession(
 
   const { error } = await supabase
     .from('party_sessions')
-    .update(updates)
+    .update(updates as PartySessionUpdate)
     .eq('party_code', partyCode);
   if (error) throw error;
 
@@ -87,7 +93,7 @@ export async function maybePersistPartyResults(input: {
     pin: input.config.id,
     host_id: user.id,
     status: 'finished',
-    config: input.config,
+    config: JSON.parse(JSON.stringify(input.config)) as Json,
     total_questions: input.config.totalQuestions,
     ended_at: new Date().toISOString(),
   });
