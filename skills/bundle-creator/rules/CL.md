@@ -11,13 +11,13 @@
 - **Authority:** `AGENTS.md` Bundle Protocol v5.2 · `npm run validate`
 
 ## Subjects (folder keys)
+*Only these subjects exist in the Chile filesystem under `questions_data/chile/` and are supported:*
 | Area | Subject key | PAES / school note |
 |------|-------------|--------------------|
-| Matemática | `matematicas` (prefer) / `matematica` | M1 obligatoria; M2 electiva |
-| Lenguaje / Competencia Lectora | `lengua` / `lenguaje` | Prefer `lengua` for new weekly packs |
-| Ciencias Naturales | `ciencias-naturales` | Biología, Física, Química (electiva) |
-| Historia y Cs. Sociales | `sociales` / `sociales-ciudadanas` | Electiva PAES |
+| Matemática | `matematicas` | M1 obligatoria; M2 electiva |
 | Inglés | `ingles` | School curriculum; not PAES core |
+
+*Note: The subjects `lengua`, `ciencias-naturales`, and `historia` / `sociales` do not exist under `questions_data/chile/` and are currently not supported.*
 
 ## Curriculum Alignment (Bases + PAES stubs)
 

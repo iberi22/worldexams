@@ -11,14 +11,13 @@
 - **Authority:** `AGENTS.md` Bundle Protocol v5.2 · `npm run validate`
 
 ## Subjects (folder keys)
+*Only these subjects exist in the Mexico filesystem under `questions_data/mexico/` and are supported:*
 | Area | Subject key | Notes |
 |------|-------------|-------|
 | Matemáticas / Pensamiento Matemático | `matematicas` | Core transversal EXANI |
-| Lengua / Español | `lengua` | Redacción / lengua escolar |
 | Lectura Crítica / Comprensión Lectora | `lectura-critica` | EXANI transversal |
-| Ciencias Naturales | `ciencias-naturales` | Biología, física, química |
-| Formación Cívica / Sociales | `sociales-ciudadanas` | Historia, civismo |
-| Inglés | `ingles` | Diagnóstico EXANI (often unscored) |
+
+*Note: The subjects `lengua`, `ciencias-naturales`, `sociales-ciudadanas`, and `ingles` do not exist under `questions_data/mexico/` and are currently not supported.*
 
 ## Curriculum Alignment (SEP/NEM + EXANI stubs)
 
