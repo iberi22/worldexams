@@ -3,7 +3,7 @@
 ## Official Exam Framework
 - **Exam:** ENEM (Exame Nacional do Ensino Médio)
 - **Agency:** INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) — under MEC (Ministério da Educação)
-- **Subjects:** N/A
+- **Subjects:** `matematica` (Note: Only this subject exists in the Brasil filesystem under `questions_data/brasil/`)
 - **Grade:** 3° ano do Ensino Médio (12th grade equivalent)
 - **Established:** 1998 (as diagnostic); 2009 (current format); BNCC-aligned changes from 2024 onward
 - **Bundles Directory:** `questions_data/brasil/`
