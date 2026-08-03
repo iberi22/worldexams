@@ -36,6 +36,9 @@
     // Trim input to remove leading/trailing whitespace/newlines
     let result = text.trim();
 
+    // 🛡️ SECURITY: Escape HTML to prevent XSS (Cross-Site Scripting)
+    result = result.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
     // 🎥 Multimedia Parsers (English Protocol v3.0)
     // 1. YouTube: {{youtube:ID}} -> iframe
     result = result.replace(
@@ -52,7 +55,8 @@
     // First handle block math ($$...$$)
     result = result.replace(BLOCK_MATH_REGEX, (match, latex) => {
       try {
-        return katex.renderToString(latex.trim(), {
+        let cleanLatex = latex.trim().replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+        return katex.renderToString(cleanLatex, {
           displayMode: true,
           throwOnError: false,
           errorColor: '#ef4444',
@@ -69,7 +73,7 @@
     result = result.replace(INLINE_MATH_REGEX, (match, latex) => {
       try {
         // Remove trailing punctuation like period or comma inside LaTeX if it was accidentally captured
-        let cleanLatex = latex.trim();
+        let cleanLatex = latex.trim().replace(/&lt;/g, '<').replace(/&gt;/g, '>');
         const trailingPunctuation = /[.,;:]+$/.exec(cleanLatex);
         let suffix = '';
         if (trailingPunctuation) {
@@ -93,14 +97,13 @@
 
     // Handle code blocks (```code```) BEFORE other markdown to avoid conflict
     result = result.replace(/```([\s\S]*?)```/g, (match, code) => {
-      // Escape HTML in code block
-      const escaped = code.trim().replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      const escaped = code.trim();
       return `<pre class="bg-gray-900 rounded-xl p-4 overflow-x-auto text-sm font-mono text-emerald-300 border border-white/10 my-4"><code>${escaped}</code></pre>`;
     });
 
     // Handle inline code (`code`)
     result = result.replace(/`([^`\n]+)`/g, (match, code) => {
-      const escaped = code.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      const escaped = code;
       return `<code class="bg-gray-800 rounded px-1.5 py-0.5 text-sm font-mono text-emerald-300">${escaped}</code>`;
     });
 
