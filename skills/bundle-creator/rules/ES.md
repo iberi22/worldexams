@@ -3,7 +3,7 @@
 ## Official Exam Framework
 - **Exam:** EBAU (Evaluación de Bachillerato para el Acceso a la Universidad) / EvAU (Evaluación para el Acceso a la Universidad) — known regionally as PAU, ABAU, etc.
 - **Agency:** Each Autonomous Community + UNED (Universidad Nacional de Educación a Distancia); national framework by Ministerio de Educación y Formación Profesional
-- **Subjects:** N/A
+- **Subjects:** `ingles`, `matematicas` (Note: Only these subjects exist in the Spain filesystem under `questions_data/spain/`)
 - **Grade:** 2° de Bachillerato (12th grade)
 - **Established:** 2017 (LOMCE — current EBAU); replaced PAU; LOMLOE modifications from 2022–2024
 - **Bundles Directory:** `questions_data/espana/`

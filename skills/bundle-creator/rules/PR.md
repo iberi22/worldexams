@@ -3,7 +3,7 @@
 ## Official Exam Framework
 - **Exam:** College Board PEAU (Prueba de Evaluación y Admisión Universitaria) / Pruebas de Evaluación del Bachillerato
 - **Agency:** College Board Puerto Rico y América Latina; Consejo de Educación Superior (CESPR); Departamento de Educación de Puerto Rico
-- **Subjects:** Aptitud Académica (Verbal and Mathematical Reasoning), Comprensión de Lectura y Redacción, Spanish, English, Mathematics, Science, Social Studies
+- **Subjects:** `ingles`, `matematicas` (Note: Only these subjects exist in the Puerto Rico filesystem under `questions_data/puerto-rico/`)
 - **Grade:** 12 (4° año de escuela superior)
 - **Reference:** https://latam.collegeboard.org/pr/ | https://de.pr.gov/
 
