@@ -63,6 +63,13 @@ function weekTopic(w) {
 function buildIssue(opts) {
   const meta = COUNTRY_META[opts.country];
   if (!meta) throw new Error(`Unknown country ${opts.country}. Add to COUNTRY_META.`);
+
+  // Validation: Check if the subject folder exists in questions_data/[country_folder]/
+  const subjectPath = path.resolve(root, 'questions_data', meta.folder, opts.subject);
+  if (!fs.existsSync(subjectPath)) {
+    throw new Error(`[VALIDATION BLOCKED] Subject '${opts.subject}' does not exist under questions_data/${meta.folder}/. Please ensure the directory exists first.`);
+  }
+
   const from = Math.max(1, opts.from);
   const to = Math.min(40, opts.to);
   const count = to - from + 1;
