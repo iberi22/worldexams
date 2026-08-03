@@ -226,13 +226,16 @@
 
   $: normalizedSearchTerm = normalizeForSearch(debouncedSearchTerm);
 
-  $: filteredQuestions = questions.filter((q, index, self) => {
+  $: filteredQuestions = (() => {
+    const seenIds = new Set();
+    return questions.filter((q, index) => {
     // Skip invalid questions
     if (!q || !q.category) return false;
 
     // Deduplicate by ID
-    const isFirst = self.findIndex(item => item.id === q.id) === index;
-    if (!isFirst) return false;
+    if (seenIds.has(q.id)) return false;
+    seenIds.add(q.id);
+
 
     // Debug: log first question to see structure
     if (index === 0) {
@@ -257,7 +260,8 @@
     const matchesSearch = !debouncedSearchTerm || searchTarget.includes(normalizedSearchTerm);
 
     return matchesSearch && matchesGrade && matchesDifficulty && matchesPeriod && matchesSubject;
-  });
+    });
+  })();
 
   function clearSearch() {
     searchTerm = "";
