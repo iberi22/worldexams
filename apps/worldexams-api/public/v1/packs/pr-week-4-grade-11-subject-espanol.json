@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "espanol",
+    "country": "pr",
+    "pack_id": "pr-week-4-grade-11-subject-espanol",
+    "generated_at": "2026-07-29T05:14:35.342Z"
+  },
+  "questions": [
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "¿A qué clase pertenece la oración coordinada introducida por la conjunción adversativa \"mas\" en el enunciado anterior?",
+      "context": "Un estudiante analiza oraciones sobre el medio ambiente en Puerto Rico. Se presenta la oración: \"La marea roja afecta la fauna marina de la isla, mas los biólogos de San Juan investigan el origen de esta plaga\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración coordinada distributiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las distributivas alternan acciones (ej. \"ya... ya\", \"ora... ora\"), no marcan oposición de ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Oración coordinada copulativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las copulativas suman ideas usando nexos como \"y\", \"e\", \"ni\"."
+        },
+        {
+          "letter": "C",
+          "text": "Oración coordinada adversativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"mas\" (sin tilde) es una conjunción coordinante adversativa equivalente a \"pero\" que une dos oraciones en relación de oposición parcial o matiz restrictivo."
+        },
+        {
+          "letter": "D",
+          "text": "Oración coordinada disyuntiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las disyuntivas ofrecen opciones excluyentes usando los nexos \"o\", \"u\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coordinación adversativa une dos proposiciones independientes donde la segunda limita o restringe el alcance de la primera. El nexo formal \"mas\" es una conjunción adversativa tradicional del español equivalente a \"pero\", de uso habitual en textos formales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función sintáctica que cumple la proposición subordinada sustantiva \"que el festival del plátano de Corozal sea todo un éxito este fin de semana\" en relación con el verbo principal \"desea\"?",
+      "context": "En una lección de sintaxis en Bayamón, Alondra identifica proposiciones subordinadas sustantivas. Lee la oración: \"Sofía desea que el festival del plátano de Corozal sea todo un éxito este fin de semana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto del verbo \"desea\" es \"Sofía\"."
+        },
+        {
+          "letter": "B",
+          "text": "Objeto o complemento directo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proposición subordinada sustantiva funciona como objeto directo del verbo transitivo principal (\"Sofía lo desea\" -> \"¿Qué desea Sofía? Que el festival sea un éxito\")."
+        },
+        {
+          "letter": "C",
+          "text": "Complemento de régimen verbal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está introducido por una preposición exigida por el verbo de forma obligatoria (\"desear\" no exige preposición para su complemento directo)."
+        },
+        {
+          "letter": "D",
+          "text": "Complemento agente en voz pasiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración está en voz activa y no hay un complemento agente que ejecute la acción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las proposiciones subordinadas sustantivas equivalen a un sustantivo o sintagma nominal dentro de la oración compuesta. Al responder a la pregunta de \"¿qué de lo deseado por el sujeto?\", la proposición cumple con exactitud la función de Objeto Directo (OD).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el tipo de relación de coordinación que une a las dos proposiciones anteriores y qué nexo la introduce?",
+      "context": "Javier analiza las diferencias entre oraciones coordinadas y subordinadas en un folleto de turismo de Cabo Rojo. \"Los visitantes pueden pasear por las salinas de Cabo Rojo o pueden disfrutar del atardecer costero en el faro de Los Morrillos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordinación copulativa, unida por el nexo de adición \"o\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo \"o\" no es copulativo ni aditivo, sino de exclusión o disyunción."
+        },
+        {
+          "letter": "B",
+          "text": "Coordinación disyuntiva, unida por la conjunción \"o\" que ofrece opciones alternativas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La conjunción coordinante \"o\" enlaza dos opciones de actividad alternativas excluyentes o presentadas como elecciones en el folleto."
+        },
+        {
+          "letter": "C",
+          "text": "Coordinación consecutiva, unida por la conjunción \"o\" que marca causa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"O\" no marca causa ni consecuencia de la marea o la visita."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinación sustantiva directa de carácter explicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proposiciones son sintácticamente independientes y están unidas por coordinación, no por subordinación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coordinación disyuntiva presenta dos o más proposiciones coordinadas como alternativas que se excluyen mutuamente o que se ofrecen como opciones seleccionables para el sujeto. El nexo típico que las introduce es la conjunción disyuntiva \"o\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "¿A qué clase pertenece la proposición adjetiva o de relativo introducida entre comas por \"quienes exigen mejores salarios en San Juan\" en el enunciado anterior?",
+      "context": "Un texto argumentativo sobre la educación pública en Puerto Rico afirma: \"Los maestros de escuela superior, quienes exigen mejores salarios en San Juan, aseguran que la burocracia desmedida del gobierno paraliza la compra de materiales escolares básicos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proposición subordinada adjetiva especificativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las especificativas no van entre comas y delimitan restrictivamente al sustantivo antecedente; aquí se explica una característica general."
+        },
+        {
+          "letter": "B",
+          "text": "Proposición subordinada adjetiva explicativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ir entre comas, la proposición adjetiva de relativo aporta información complementaria o aclaratoria sobre el antecedente \"Los maestros\", sin restringir su alcance."
+        },
+        {
+          "letter": "C",
+          "text": "Proposición subordinada adverbial concesiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No introduce un obstáculo superable; describe de manera directa al antecedente nominal."
+        },
+        {
+          "letter": "D",
+          "text": "Proposición coordinada adversativa explicativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una proposición subordinada de relativo que modifica a un sustantivo, no es una oración coordinada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las proposiciones subordinadas adjetivas o de relativo funcionan como adjetivos que modifican a un sustantivo antecedente. Si van aisladas por comas en la escritura, se clasifican como adjetivas explicativas, aportando aclaraciones complementarias de interés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la función semántica de la proposición subordinada adverbial introducida por el nexo \"Aunque\" al inicio del enunciado?",
+      "context": "Lee la siguiente oración compuesta: \"Aunque las lluvias del huracán amenazaban con destruir el puente costero de Humacao, las milicias cívicas y los ingenieros locales lograron reforzar los cimientos temporales de manera heroica\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar la causa real directa de la victoria de los ingenieros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tormenta no es la causa de la victoria; es la amenaza de destrucción."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir la finalidad futura que perseguían los habitantes con el puente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo de finalidad es \"para que\", \"con el fin de que\"; no \"aunque\"."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir un obstáculo o dificultad real que no impide que se realice la acción de la oración principal (concesiva).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proposición es una subordinada adverbial concesiva que introduce una dificultad grave (el huracán), la cual no impidió el éxito final de los ingenieros."
+        },
+        {
+          "letter": "D",
+          "text": "Establecer una condición matemática indispensable para poder salvar la costa de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería una oración condicional introducida por \"si\", no concesiva introducida por \"aunque\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las oraciones subordinadas adverbiales concesivas expresan una objeción, obstáculo o dificultad para el cumplimiento de lo expresado en la proposición principal, pero dicha dificultad no anula ni evita que la acción principal se ejecute de forma exitosa.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes afirmaciones describe la estructura sintáctica general de este enunciado compuesto?",
+      "context": "En un análisis gramatical sobre la redacción periodística de Ponce, se estudia la oración: \"El testigo del accidente automovilístico declaró que conducía respetando los límites de velocidad, mas el informe forense determinó que el auto transitaba a exceso de velocidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una oración simple con múltiples modificadores directos de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contiene varios verbos conjugados (\"declaró\", \"conducía\", \"determinó\", \"transitaba\"), por lo que es compuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Es una oración coordinada copulativa que suma dos hechos idénticos de tránsito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo \"mas\" opone de manera adversativa la versión del testigo con la verdad forense, no los suma de forma afín."
+        },
+        {
+          "letter": "C",
+          "text": "Es un enunciado de coordinación adversativa donde ambas proposiciones coordinadas contienen subordinadas sustantivas de objeto directo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las dos proposiciones principales están coordinadas por la conjunción adversativa \"mas\". A su vez, ambas contienen subordinadas sustantivas (\"que conducía...\" y \"que el auto transitaba...\") funcionando como objetos directos de los verbos \"declaró\" y \"determinó\" respectivamente."
+        },
+        {
+          "letter": "D",
+          "text": "Es una oración subordinada adjetiva especificativa sin nexos explícitos de relativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nexos de subordinación sustantiva \"que\" y el nexo coordinante \"mas\" son explícitos y están presentes en el texto de Ponce."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las oraciones compuestas pueden integrar varios mecanismos simultáneos de coordinación y subordinación. En este caso de Ponce, se observa un esquema de coordinación adversativa de dos oraciones transitivas complejas que albergan en su interior oraciones subordinadas de objeto directo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "¿A qué clase pertenece la proposición subordinada adjetiva \"que crecen bajo sombra en la zona montañosa\" en relación con el sustantivo antecedente \"Los cafetales\"?",
+      "context": "Un texto descriptivo de la cordillera central de Puerto Rico señala: \"Los cafetales que crecen bajo sombra en la zona montañosa producen un grano de café más denso y aromático\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proposición subordinada adjetiva especificativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al no ir entre comas, delimita restrictivamente el conjunto de los cafetales, refiriéndose únicamente a aquellos específicos que se cultivan bajo sombra, no a todos en general."
+        },
+        {
+          "letter": "B",
+          "text": "Proposición subordinada adjetiva explicativa de aclaración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las explicativas van obligatoriamente aisladas por comas; en este caso de los cafetales, la ausencia de comas la define como especificativa."
+        },
+        {
+          "letter": "C",
+          "text": "Proposición coordinada copulativa de origen natural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una proposición subordinada que cumple función adjetiva modificadora, no coordinada."
+        },
+        {
+          "letter": "D",
+          "text": "Proposición subordinada sustantiva de sujeto de la oración de café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modifica de forma adjetiva a un sustantivo antecedente; su función es adyacente o modificador directo, no sujeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las subordinadas adjetivas especificativas restringen el significado del sustantivo antecedente para distinguir a un grupo particular dentro de la totalidad del conjunto. No se escriben entre comas, lo que las diferencia gramaticalmente de las explicativas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "¿Qué nexo ilativo-consecutivo o causal completa la oración compuesta de forma semánticamente COHERENTE?",
+      "context": "Alondra redacta un informe ecológico sobre el caño Martín Peña: \"Limpiar los sedimentos del caño es urgente, ________ de esa manera restauraremos el flujo de agua de la laguna costera y protegeremos a miles de familias de inundaciones letales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aunque",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Aunque\" es concesivo de dificultad, desvinculando de forma incoherente el beneficio directo de la limpieza del caño."
+        },
+        {
+          "letter": "B",
+          "text": "puesto que",
+          "is_correct": true,
+          "feedback": "¡Correcto! El conector causal \"puesto que\" introduce de manera idónea el argumento explicativo de la urgencia del saneamiento del canal (la causa de la urgencia es que así se restaurará el mar y se protegerá a las personas)."
+        },
+        {
+          "letter": "C",
+          "text": "por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría un contraste contradictorio, invalidando de forma absurda la urgencia ecológica descrita."
+        },
+        {
+          "letter": "D",
+          "text": "a pesar de que",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es concesivo e incoherente, restando valor a la consecuencia positiva de restaurar el flujo de agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia textual en la oración compuesta requiere el uso de nexos que representen con precisión las relaciones del entorno real. \"Puesto que\" introduce de manera formal la justificación de la urgencia del plan de limpieza de sedimentos en el caño de San Juan.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la función sintáctica y semántica de la proposición subordinada inicial introducida por el nexo \"Si\"?",
+      "context": "Lee la siguiente oración compuesta que Javier analiza en Ponce: \"Si el municipio de Ponce aprueba los fondos necesarios para restaurar el histórico Teatro La Perla, los ciudadanos disfrutarán de una cartelera dramática permanente durante todo el año 2026\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proposición subordinada adverbial condicional (prótasis).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proposición introducida por \"Si\" plantea el requisito o condición necesaria (la prótasis) para que se cumpla la consecuencia expresada en la proposición principal o apódosis."
+        },
+        {
+          "letter": "B",
+          "text": "Proposición subordinada sustantiva de objeto directo de teatro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No funciona como objeto directo; plantea un escenario condicionado del futuro presupuestario de la isla."
+        },
+        {
+          "letter": "C",
+          "text": "Proposición coordinada adversativa restrictiva de fondos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está unida por subordinación condicional, no por coordinación de oposición."
+        },
+        {
+          "letter": "D",
+          "text": "Proposición subordinada adjetiva especificativa de restauración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a ningún antecedente sustantivo nominal; introduce una condición circunstancial al verbo principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones condicionales constan de dos partes en relación de subordinación: la prótasis (la cláusula que establece la condición del presupuesto o acción, introducida por \"si\") y la apódosis (la oración principal que enuncia el resultado o efecto condicionado de la cultura).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el tipo de proposición subordinada adverbial que introduce el nexo \"para que\" en el enunciado anterior?",
+      "context": "En un discurso en Guaynabo, un orador exclama: \"Estudiar la historia nacional de nuestra isla es indispensable para que comprendamos las raíces geopolíticas de nuestra realidad caribeña contemporánea\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada adverbial temporal de tiempo transcurrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica un momento temporal o cronológico en el reloj histórico del Caribe; plantea un propósito."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adverbial de finalidad o propósito.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"para que\" introduce formalmente la meta, objetivo o finalidad perseguida por la acción principal (estudiar la historia nacional)."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada adverbial consecuencial de causa común.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un nexo de propósito final, no una consecuencia mecánica ya ocurrida previamente."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adjetiva especificativa de raíces caribeñas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una proposición adverbial circunstancial que modifica al infinitivo indispensable de estudio, no un adjetivo relativo de antecedente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las proposiciones subordinadas adverbiales finales expresan el propósito, intención o fin con el que se realiza la acción principal del enunciado. El nexo conjuntivo compuesto por excelencia para este tipo de oraciones compuestas es \"para que\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Analiza la estructura sintáctica de la oración compuesta anterior. ¿Qué función cumple el pronombre relativo \"que\" dentro de la proposición subordinada adjetiva \"que Alondra compró en la librería\"?",
+      "context": "Se presenta el siguiente enunciado: \"La novela que Alondra compró en la librería del Viejo San Juan narra la resistencia comunitaria en Vieques durante las protestas ciudadanas del siglo pasado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto de la oración subordinada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto de la proposición subordinada es \"Alondra\"."
+        },
+        {
+          "letter": "B",
+          "text": "Objeto o complemento directo de la proposición subordinada.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El relativo \"que\" tiene como antecedente a \"La novela\". Dentro de la proposición subordinada \"Alondra compró la novela\", el pronombre relativo cumple el rol de Objeto Directo del verbo \"compró\"."
+        },
+        {
+          "letter": "C",
+          "text": "Complemento circunstancial de lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El circunstancial de lugar es \"en la librería del Viejo San Juan\"."
+        },
+        {
+          "letter": "D",
+          "text": "Complemento de régimen de lectura del Viejo San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"comprar\" es transitivo directo y no rige ninguna preposición obligatoria de régimen en este contexto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pronombres relativos desempeñan una doble función en el análisis de la oración compuesta: actúan como enlace subordinante que introduce la proposición adjetiva, y simultáneamente asumen un rol sintáctico (sujeto, objeto directo, etc.) en representación de su antecedente sustantivo dentro de la cláusula subordinada.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la relación de coordinación que une los dos bloques de la oración compuesta y qué nexo la introduce?",
+      "context": "Un texto de opinión aborda el desarrollo de energías verdes en Caguas: \"Instalar placas fotovoltaicas en las escuelas públicas de la isla no es un lujo corporativo, sino que constituye una estrategia nacional de supervivencia energética civil\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordinación copulativa, unida por el nexo acumulativo \"sino que\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo no acumula elementos afines de suma, sino que opone de forma excluyente dos juicios."
+        },
+        {
+          "letter": "B",
+          "text": "Coordinación adversativa exclusiva, unida por el nexo compuesto \"sino que\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! La coordinación adversativa exclusiva corrige o sustituye una idea negada previamente (\"no es un lujo\") por una afirmación positiva excluyente (\"sino que constituye una estrategia...\"), utilizando el nexo \"sino que\"."
+        },
+        {
+          "letter": "C",
+          "text": "Coordinación consecutiva lógica, unida por el conector de causa \"sino que\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sino que\" es de carácter coordinante adversativo fuerte de exclusión, no un nexo de causa o consecuencia material."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinación sustantiva directa de carácter final de las escuelas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de dos oraciones principales en relación coordinada de oposición exclusiva de juicios valorativos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coordinación adversativa puede ser restrictiva (con nexos como \"pero\", \"mas\", \"sin embargo\") o exclusiva. La adversativa exclusiva requiere una negación previa en la primera proposición que se opone de manera tajante a una corrección positiva posterior introducida por el nexo \"sino que\".\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la estructura sintáctica de la proposición subordinada adverbial introducida por el nexo compuesto \"debido a que\"?",
+      "context": "Un ensayo académico examina las causas de la emigración de profesionales de la salud en Puerto Rico: \"Muchos médicos puertorriqueños emigran de la isla debido a que las aseguradoras de salud imponen tarifas abusivas que reducen a niveles insostenibles el cobro de los servicios de consulta médica en el país\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada adverbial temporal de tiempo transcurrido de los médicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No marca una relación de cronología temporal o simultaneidad del viaje o de la consulta médica."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adverbial concesiva de dificultad presupuestaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo concesivo es \"aunque\" o \"a pesar de que\"; \"debido a que\" explica el porqué real u origen del hecho."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada adverbial causal que explica la causa del exilio médico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"debido a que\" es un conector causal complejo que encabeza formalmente la proposición subordinada adverbial que detalla la causa u origen del éxodo de profesionales (la asfixia de las aseguradoras)."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adverbial de finalidad de exilio corporativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No señala la finalidad futura, sino la causa u obstáculo previo ya instalado por las aseguradoras en la isla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las oraciones subordinadas adverbiales causales proveen la razón, justificación lógica u origen fáctico de la acción principal del enunciado. Se construyen de manera típica mediante conectores causales subordinantes como \"porque\", \"ya que\" o \"debido a que\".\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "¿Qué tipo de subordinación múltiple o encadenada (proposiciones en diferentes niveles de jerarquía) se produce en el enunciado anterior?",
+      "context": "Analiza sintácticamente la siguiente oración compuesta compleja extraída de un discurso escolar en San Juan: \"Los directores escolares determinaron que todos los estudiantes que presentaran conductas sobresalientes en artes plásticas participarían en el taller muralista de Carolina\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una proposición subordinada sustantiva (objeto directo) que alberga en su interior una proposición subordinada adjetiva especificativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo principal \"determinaron\" rige una subordinada sustantiva de objeto directo (\"que todos los estudiantes... participarían...\"). A su vez, el sujeto de esta proposición subordinada (\"estudiantes\") está modificado por una adjetiva especificativa incrustada (\"que presentaran conductas sobresalientes...\")."
+        },
+        {
+          "letter": "B",
+          "text": "Una proposición coordinada copulativa que alberga dos subordinadas adverbiales condicionales consecutivas de artes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen oraciones coordinadas copulativas en este enunciado complejo; la estructura es enteramente jerárquica y de subordinación."
+        },
+        {
+          "letter": "C",
+          "text": "Una proposición subordinada adjetiva explicativa de comas que domina a una subordinada sustantiva de sujeto directo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relativo de artes no va entre comas (no es explicativo) y está incrustado en la sustantiva de objeto directo, no la domina."
+        },
+        {
+          "letter": "D",
+          "text": "Una oración condicional cuya prótasis es una proposición adverbial de finalidad artística.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo es \"que\", característico de la subordinación sustantiva y adjetiva, ausente de \"si\" condicional o \"para que\" de finalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sintaxis compleja puede presentar incrustación jerárquica de oraciones compuestas. Un nivel de subordinación puede albergar en su interior otro nivel subordinado (como en este caso, una proposición adjetiva especificativa de relativo que modifica a un elemento nominal de la proposición sustantiva de objeto directo).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "¿A qué clase pertenece y qué rol sintáctico cumple la proposición subordinada sustantiva introducida por \"que la Autoridad de Acueductos... repare la tubería principal...\" en relación con la estructura verbal cópula-adjetivo \"Es sumamente urgente\"?",
+      "context": "Lee la siguiente oración compuesta de Caguas: \"Es sumamente urgente que la Autoridad de Acueductos y Alcantarillados (AAA) repare la tubería principal de la avenida para evitar el desperdicio de miles de galones de agua potable\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objeto directo del adjetivo urgente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adjetivo \"urgente\" no admite un objeto directo de carácter transitivo verbal."
+        },
+        {
+          "letter": "B",
+          "text": "Sujeto de la oración principal cópula-adjetivo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En oraciones con la estructura \"Es + adjetivo valorativo\" (Es urgente, Es necesario, Es vital), la proposición subordinada sustantiva funciona sintácticamente como el Sujeto de la cópula (\"Que reparen la tubería es urgente\" -> \"Eso es urgente\")."
+        },
+        {
+          "letter": "C",
+          "text": "Complemento circunstancial de causa del desperdicio de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No actúa como circunstancial de causa; es el elemento nominal indispensable que rige la concordancia de urgencia."
+        },
+        {
+          "letter": "D",
+          "text": "Complemento de régimen preposicional obligatorio de la avenida de Caguas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proposición sustantiva no está precedida por ninguna preposición obligatoria de régimen exigida por un verbo o adjetivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las subordinadas sustantivas pueden actuar como Sujeto de la oración. Esto es característico de las estructuras impersonales con verbo copulativo y adjetivo atributivo (\"Es fundamental que estudies\", \"Es urgente que la AAA repare\"), donde el sujeto de la oración es la proposición subordinada entera.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "¿Qué tipo de proposición subordinada adverbial es introducida por la conjunción compuesta \"A menos que\" en la oración compuesta anterior?",
+      "context": "Un texto de debate universitario en Ponce examina la reforma tributaria: \"A menos que el gobierno reduzca los impuestos corporativos de las corporaciones locales de manufactura, las empresas internacionales reubicarán sus operaciones de producción en países con costos operativos más competitivos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subordinada adverbial condicional de carácter exceptivo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo compuesto \"A menos que\" introduce una proposición adverbial condicional exceptiva o restrictiva, estableciendo la única condición capaz de evitar la consecuencia negativa (el exilio o reubicación corporativa)."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adverbial causal explicativa de manufactura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No explica la causa de un hecho consumado; plantea una condición exceptiva hipotética del futuro fiscal."
+        },
+        {
+          "letter": "C",
+          "text": "Subordinada adverbial temporal de tiempo transcurrido en la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica un momento o secuencia cronológica de tiempo en Ponce; establece un requisito."
+        },
+        {
+          "letter": "D",
+          "text": "Subordinada adjetiva explicativa de comas de corporaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a ningún antecedente sustantivo nominal directo; funciona de forma circunstancial restrictiva al verbo de reubicación principal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las condicionales exceptivas o restrictivas introducidas por nexos como \"a menos que\", \"a no ser que\" o \"salvo que\" imponen una condición de excepción única. Si dicha condición exceptiva de impuestos se cumple, se evita que ocurra la consecuencia formulada en la oración principal (apódosis).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "¿Qué error de coherencia y cohesión de la oración compuesta se produce al inicio del enunciado anterior y cómo debe reformularse formalmente para el DEPR?",
+      "context": "Un crítico de redacción de la Universidad de Puerto Rico evalúa un texto argumentativo con problemas de asimetría sintáctica o anacoluto: \"Los estudiantes de escuela superior, su principal obstáculo es que las pruebas de admisión universitaria PAA contienen lecturas extensas de temas de ciencias que les resultan aburridas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso incorrecto del pronombre de relativo \"que\", que debe reemplazarse por \"quienes contienen lecturas\" de ciencias de forma obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pruebas no son personas, por lo que el uso de \"quienes\" sería agramatical y absurdo en este contexto de admisión."
+        },
+        {
+          "letter": "B",
+          "text": "Elipsis de sujeto que debe repararse repitiendo de forma exacta \"Los estudiantes de escuela superior\" tres veces consecutivas en la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La redundancia no cura el error de concordancia; agrava la pesadez de lectura del escrito."
+        },
+        {
+          "letter": "C",
+          "text": "Anacoluto o tema suspendido al inicio de la oración (\"Los estudiantes... su principal obstáculo\"), que carece de conector preposicional. Debe reescribirse como: \"Para los estudiantes de escuela superior, el principal obstáculo consiste en que las pruebas...\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! La estructura original deja la frase \"Los estudiantes\" flotando sin función sintáctica clara ni conector preposicional directo en relación con \"obstáculo\", lo que se clasifica técnicamente como anacoluto o ruptura de sintaxis."
+        },
+        {
+          "letter": "D",
+          "text": "El exceso de adjetivos explicativos de comas de ciencias de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay adjetivos explicativos redundantes de ciencias; la falla es la asonancia o anacoluto de inicio de la proposición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El anacoluto es una ruptura de la coherencia sintáctica en la oración compuesta. Ocurre con frecuencia al redactar cuando el escritor plantea un sujeto de atención (\"Los estudiantes\") pero desvía la construcción de la frase hacia otra estructura (\"su principal obstáculo\"), dejando al primer elemento suspendido sin función sintáctica clara.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "¿Qué precisión jurídica y de sintaxis formal aporta el uso de la proposición subordinada adjetiva especificativa \"que vierta contaminantes químicos en el acuífero del sur de la isla\" en la redacción de la ley?",
+      "context": "En un taller de debate legislativo en San Juan, se examina la redacción de una ley de protección ambiental: \"Toda corporación que vierta contaminantes químicos en el acuífero del sur de la isla será sancionada severamente por la secretaría del Departamento de Recursos Naturales y Ambientales (DRNA)\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Delimita de manera restrictiva la sanción únicamente a las corporaciones infractoras que cometan ese vertido específico, evitando la arbitrariedad en la aplicación de la ley.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ser una subordinada adjetiva especificativa (sin comas), restringe el universo de aplicación de la norma sancionadora exclusivamente a las corporaciones químicas que de hecho viertan contaminantes en el acuífero, salvaguardando a las corporaciones inocentes o de otros sectores."
+        },
+        {
+          "letter": "B",
+          "text": "Sanciona de forma general a absolutamente todas las corporaciones de manufactura que operan en Puerto Rico sin importar su rubro de producción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera así, la oración sería explicativa (entre comas) e incluiría a todas bajo una sospecha generalizada. La especificativa delimita el castigo de forma quirúrgica."
+        },
+        {
+          "letter": "C",
+          "text": "Excluye del castigo civil a los desarrolladores inmobiliarios que edifiquen sobre las llanuras costeras de Ponce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley aborda vertidos químicos acuíferos del sur de la isla; no regula de forma directa la edificación de llanuras de Ponce en este pasaje normativo."
+        },
+        {
+          "letter": "D",
+          "text": "Declara inconstitucional cualquier sanción económica que no esté redactada con rimas poéticas de vanguardia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rigor formal legislativo es sobrio e instrumental, ajeno a la exigencia de rimas poéticas artísticas de vanguardia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la redacción legislativa, la sintaxis y la delimitación de las oraciones compuestas adquieren un valor de orden constitucional. El uso preciso de la proposición adjetiva especificativa restringe el alcance coercitivo de la ley a los infractores del vertido químico, garantizando la seguridad jurídica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "¿Qué nexo de coordinación adversativa u oración coordinada de carácter restrictivo se requiere en el espacio en blanco de forma que establezca el equilibrio perfecto entre la agresión de la marea y la resistencia invicta de las piedras?",
+      "context": "Revisa el siguiente fragmento descriptivo e interpretativo de un poema caribeño: \"El mar golpea incansablemente las murallas históricas del Viejo San Juan, ________ las viejas piedras de sillería resisten la erosión marina de los siglos con la misma persistencia heroica con la que los poetas nativos defienden el idioma español contra la asimilación colonial estadounidense\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "de modo que",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría una consecuencia material física (el golpe de las olas causa la resistencia, lo cual es de sentido contrario a la erosión biológica natural destructora)."
+        },
+        {
+          "letter": "B",
+          "text": "por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un nexo de conclusión o consecuencia lógica que rompe la tensión dialéctica de lucha o combate entre el mar y las piedras de ausubo."
+        },
+        {
+          "letter": "C",
+          "text": "mas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo coordinante adversativo \"mas\" (sin tilde) establece el contraste dialéctico de oposición perfecta entre la agresión erosionadora de las olas y la resistencia imperturbable de las murallas españolas caribeñas de San Juan."
+        },
+        {
+          "letter": "D",
+          "text": "y consecuentemente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería contradictorio; la erosión debería ablandar o destruir las piedras, no causar su resistencia de forma material lógica automática."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación estética del discurso poético y descriptivo se apoya en nexos de contraste coordinado. La conjunción adversativa coordinante \"mas\" introduce de manera sobria la proposición restrictiva de la resistencia, deificando poéticamente la lucha física del suelo de San Juan frente a la erosión marina y cultural de la isla.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de las siguientes interpretaciones de la sintaxis del ensayo puertorriqueño se deriva de forma lógica del juicio valorativo expuesto por el lingüista?",
+      "context": "Un lingüista puertorriqueño expone la siguiente tesis de análisis sintáctico-ideológico: \"La estructura jerárquica de la subordinación adverbial en los ensayos boricuas contemporáneos, que pospone la tesis principal mediante una red compleja de concesiones y condicionales (prótasis), no es un mero adorno barroco de oratoria académica; es el reflejo sintáctico de una identidad nacional compleja que debe negociar constantemente su supervivencia civil en medio de contradicciones y limitaciones de asimilación geopolítica\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de la subordinación compleja es un error de traducción del inglés que los profesores del DEPR deben erradicar de inmediato de las aulas escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lingüista no ve la subordinación compleja como un error de inglés o calco gramatical nocivo, sino como una estructura legítima e identitaria boricua."
+        },
+        {
+          "letter": "B",
+          "text": "La complejidad de la oración compuesta en la prosa boricua se vincula íntimamente con la necesidad ética de expresar matices, tensiones, negociaciones e identidades híbridas de la realidad geopolítica de la isla.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El lingüista sostiene que la estructura compleja de subordinación adverbial (matizar con concesiones, posponer con condiciones) representa a nivel formal de la lengua la realidad existencial del puertorriqueño, que exige negociar matices frente a fuerzas coloniales asimiladoras."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo de opinión formal debe simplificarse redactando únicamente oraciones simples cortas de tres palabras para facilitar la lectura de los turistas de San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería la destrucción de la prosa compleja e intelectual que el lingüista precisamente celebra como reflejo identitario profundo y de resistencia estética de la isla."
+        },
+        {
+          "letter": "D",
+          "text": "Las oraciones coordinadas copulativas de suma simple son el único mecanismo sintáctico capaz de abolir la asonancia o anacoluto burocrático gubernamental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no habla de abolir el anacoluto con copulativas; reflexiona teóricamente sobre el valor social de la subordinación compleja y concesiva en el ensayo boricua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis valorativo avanzado del discurso une la gramática sintáctica formal con la sociología de la literatura. El lingüista boricua demuestra que la forma sintáctica (la oración subordinada compleja, la subordinación concesiva) no es un mero capricho estético de oratoria académica, sino el vehículo de pensamiento crítico complejo que permite articular la realidad de una isla que vive en tensión cultural permanente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-ESP-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
