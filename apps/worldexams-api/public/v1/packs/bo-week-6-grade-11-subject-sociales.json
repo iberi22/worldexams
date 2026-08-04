@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-6-grade-11-subject-sociales",
+    "generated_at": "2026-08-04T01:24:49.583Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "¿Qué características definieron a la Guerra de Independencia en el Alto Perú en comparación con otras regiones de Hispanoamérica?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín investiga la prolongada Guerra de los 15 años en el Alto Perú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una prolongada y devastadora contienda armada que duró de 1809 a 1825, caracterizada por la resistencia rural de las republiquetas.",
+          "is_correct": true,
+          "feedback": "Correcto. La independencia del Alto Perú (Bolivia) duró quince años ininterrumpidos de encarnizada lucha armada, devastando la infraestructura minera y agraria del territorio."
+        },
+        {
+          "letter": "B",
+          "text": "Un conflicto pacífico resuelto en una semana mediante votación secreta de los oidores realistas de Charcas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una de las guerras más sangrientas de América, sin acuerdos pacíficos iniciales ni votaciones secretas."
+        },
+        {
+          "letter": "C",
+          "text": "Una invasión naval masiva de barcos españoles que desembarcaron tropas en el lago navegable Poopó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lago Poopó es interior y poco profundo; las batallas coloniales fueron puramente terrestres y andinas."
+        },
+        {
+          "letter": "D",
+          "text": "Una alianza militar anglo-francesa que anexó de forma voluntaria a Bolivia al Imperio británico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los patriotas altoperuanos combatieron con sus propias fuerzas rurales sin intervención formal anglo-francesa de anexión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Guerra de la Independencia de Bolivia (1809-1825) asoló el territorio de la Real Audiencia de Charcas. Su prolongada duración se debió al inmenso valor estratégico y minero de Potosí, que ambos bandos consideraban el centro vital de financiamiento militar.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "¿Quién fue Juana Azurduy de Padilla y qué rol heroico le correspondió en la Guerra de Independencia del Alto Perú?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho estudia el rol de las heroínas de la independencia de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una destacada líder militar patriota que organizó y comandó guerrillas rurales contra los realistas, recibiendo el grado de teniente coronela.",
+          "is_correct": true,
+          "feedback": "Correcto. Juana Azurduy combatió heroicamente en el altiplano y valles junto a su esposo Manuel Ascensio Padilla en la Republiqueta de La Laguna, liderando cargas de caballería de jinetes indígenas y mestizos."
+        },
+        {
+          "letter": "B",
+          "text": "Una espía peninsular enviada por el virrey de Lima para envenenar a Pedro Domingo Murillo en Chuquisaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Juana Azurduy era una patriota convencida que luchó ferozmente contra el poder realista español, no una espía del virrey."
+        },
+        {
+          "letter": "C",
+          "text": "La primera rectora de origen aymara nombrada para gobernar la Universidad de Chuquisaca por Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Azurduy se desempeñó como jefa guerrillera militar en el campo de batalla, no como rectora universitaria."
+        },
+        {
+          "letter": "D",
+          "text": "Una monja jesuita del Beni que tradujo la Biblia al idioma portugués para consolidar la anexión a Portugal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No era monja jesuita, no operaba en el Beni y luchó decididamente contra el expansionismo colonial europeo real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juana Azurduy encarna la bravura de las mujeres altoperuanas en la independencia. Luchó incansablemente tras la muerte de su esposo, perdiendo a sus hijos en el conflicto. Hoy es honrada con el máximo rango militar póstumo en Bolivia y Argentina.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "¿Qué suceso heroico del 27 de mayo de 1812 en la colina de San Sebastián (Cochabamba) es recordado como el Día de la Madre en Bolivia?",
+      "context": "En Cochabamba, la estudiante Shirley del Colegio San Simón estudia los heroicos sucesos de la Batalla de la Coronilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La heroica defensa de la ciudad protagonizada por mujeres, ancianos y niños cochabambinos ante el avance de las tropas del general realista Goyeneche.",
+          "is_correct": true,
+          "feedback": "Correcto. Ante la ausencia del ejército patriota, las mujeres de Cochabamba (lideradas por la anciana ciega Manuela Gandarillas) se atrincheraron armadas de palos y piedras en la colina de la Coronilla, ofrendando sus vidas por la libertad."
+        },
+        {
+          "letter": "B",
+          "text": "La firma de la paz definitiva y pacífica entre el general Goyeneche y los terratenientes criollos de Charcas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Goyeneche asaltó y masacró de manera despiadada a la población cochabambina en la colina, sin tratados de paz pacíficos."
+        },
+        {
+          "letter": "C",
+          "text": "La abolición obligatoria del castellano decretada por las mujeres indígenas para imponer el quechua cuzqueño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las heroínas de la Coronilla luchaban por la libertad republicana, sin dictar decretos de prohibición lingüística del castellano."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega formal de las minas de plata de Potosí a los ejércitos auxiliares argentinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres cochabambinas defendían su ciudad ante el ataque español realista, sin relación con aduanas o entregas mineras de plata a argentinos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El heroísmo de las Heroínas de la Coronilla devela el profundo compromiso popular con la emancipación en Bolivia. El sacrificio de estas mujeres cochabambinas ante el implacable ejército realista es honrado anualmente el 27 de mayo como el Día de la Madre en todo el país.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "¿Qué importancia militar histórica tuvo la Batalla de Tumusla, librada el 1 de abril de 1825 en territorio de Potosí?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia el último enfrentamiento de la guerra de independencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue el último combate de la guerra de independencia, donde las fuerzas patriotas derrotaron de forma definitiva al general realista Pedro Antonio de Olañeta.",
+          "is_correct": true,
+          "feedback": "Correcto. En Tumusla se libró el combate final de la independencia boliviana, resultando herido de muerte el general realista Olañeta, último bastión del imperio español en el Alto Perú."
+        },
+        {
+          "letter": "B",
+          "text": "El inicio formal de la mita potosina obligatoria bajo las órdenes de los reyes borbones de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mita fue abolida con la independencia; Tumusla representó el fin del dominio colonial español, no el inicio de la mita."
+        },
+        {
+          "letter": "C",
+          "text": "La invasión naval de la bahía de Antofagasta por parte del ejército de Simón Bolívar en barcos franceses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tumusla fue una batalla terrestre andina potosina, sin participación de buques franceses en playas del Pacífico de Antofagasta."
+        },
+        {
+          "letter": "D",
+          "text": "La firma de la Constitución de 2009 que declaró a Bolivia Estado Plurinacional bajo el auspicio de la corona española.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un anacronismo total y una contradicción conceptual grave, puesto que la corona española fue derrotada en Tumusla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Batalla de Tumusla significó la liquidación militar del absolutismo español en Charcas. Permitió que el territorio quedara plenamente liberado y expedito para que la Asamblea Deliberante pudiera reunirse pocos meses después y fundar el Estado boliviano independiente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "¿Qué eran las 'republiquetas' en el contexto de la Guerra de la Independencia de Bolivia?",
+      "context": "En Oruro, la estudiante Nancy del Colegio Nacional Florida analiza la estructura de las 'republiquetas' durante la Guerra de los 15 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zonas de resistencia guerrillera rural controladas por caudillos patriotas que operaban de forma autónoma frente a los grandes ejércitos realistas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las republiquetas fueron focos de resistencia militar y política situados en puntos estratégicos de los valles y altiplano de Charcas, impidiendo que los realistas dominaran el campo."
+        },
+        {
+          "letter": "B",
+          "text": "Pequeñas colonias feudales autónomas fundadas por el rey de España para alojar a los piratas británicos prisioneros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No eran colonias reales ni albergaban piratas británicos; eran focos insurgentes patriotas locales contra el imperio de España."
+        },
+        {
+          "letter": "C",
+          "text": "Silos estatales de almacenamiento de quinua controlados por las aduanas de la corona española.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las colcas coloniales o silos de aduana no eran focos guerrilleros revolucionarios patriotas de resistencia."
+        },
+        {
+          "letter": "D",
+          "text": "Puertos marítimos libres de aranceles ubicados a orillas del océano Pacífico soberano de Bolivia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ubicaban en el interior montañoso de la cordillera andina y valles selváticos de Charcas, sin salida marítima oceánica directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las republiquetas sostuvieron la llama de la independencia cuando los ejércitos auxiliares argentinos fracasaron y las juntas formales urbanas fueron decapitadas por Goyeneche. Entre ellas destacaron la de Ayopaya, Larecaja, Vallegrande, La Laguna, Tarija y Chayanta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la Republiqueta de Ayopaya (Cochabamba-La Paz) destacó históricamente como el foco guerrillero más exitoso del Alto Perú?",
+      "context": "En Sacaba, el estudiante Limbert del Colegio San Simón estudia la Republiqueta de Ayopaya en los valles cochabambinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue la única republiqueta que sobrevivió ininterrumpidamente durante los 15 años de guerra, con leyes, diarios y una sólida organización interna.",
+          "is_correct": true,
+          "feedback": "Correcto. Ayopaya controló un agreste territorio montañoso entre Cochabamba y La Paz; gracias a su disciplina, apoyo campesino andino y geografía difícil, resistió todas las ofensivas realistas hasta 1825."
+        },
+        {
+          "letter": "B",
+          "text": "Fue financiada en pesos de oro de forma exclusiva por la corona del Imperio de Portugal y Brasil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ayopaya se autofinanciaba confiscando bienes a realistas y mediante aportes agrarios locales; no dependía de Portugal o Brasil."
+        },
+        {
+          "letter": "C",
+          "text": "Estaba compuesta exclusivamente por generales peninsulares que saboteaban los barcos de guerra de Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estaba conformada por criollos, mestizos e indígenas andinos guerrilleros de base popular opuestos al orden colonial real de España."
+        },
+        {
+          "letter": "D",
+          "text": "Construyó una red de ferrocarriles a vapor que conectaba los valles andinos con el puerto libre de Buenos Aires.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ferrocarriles no existían en el Alto Perú en el periodo de 1809 a 1825; el transporte era a lomo de mula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Republiqueta de Ayopaya devela la madurez organizativa del movimiento guerrillero boliviano. Contó con sus propios códigos de justicia y organización militar interna (documentada en el diario del tambor Vargas), constituyendo un verdadero micro-estado patriota soberano en armas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "¿Qué singularidad definía a la Republiqueta de Larecaja (norte de La Paz) en el contexto de la participación del clero en la independencia?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza la Republiqueta de Larecaja liderada por el sacerdote Ildefonso de las Muñecas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estaba comandada por el sacerdote católico Ildefonso de las Muñecas, quien articuló la teología de la liberación andina con las masas indígenas aymaras.",
+          "is_correct": true,
+          "feedback": "Correcto. El cura Muñecas lideró este foco guerrillero andino en los yungas y altiplano de Larecaja, uniendo la prédica evangélica con las reivindicaciones libertarias del campesinado indígena de masas."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibía de forma obligatoria el catolicismo para forzar a la población a adorar estelas de Tiwanaku.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser liderada por un sacerdote católico, el culto cristiano era central en el movimiento guerrillero, integrado sincréticamente con ritos andinos."
+        },
+        {
+          "letter": "C",
+          "text": "Se dedicaba a la exportación masiva de caucho y castaña a los puertos marítimos de Inglaterra de forma aérea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se exportaba caucho de forma aérea ni existía esa tecnología en el siglo XIX colonial de la guerra de independencia."
+        },
+        {
+          "letter": "D",
+          "text": "Exigía que Simón Bolívar fuera coronado rey absoluto de los llanos del Beni de forma hereditaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los guerrilleros propugnaban un orden republicano democrático, opuesto al retorno a monarquías absolutas europeas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ildefonso de las Muñecas representa al clero rebelde de Charcas que desafió la alianza formal de la jerarquía católica eclesiástica con el trono absolutista español. Capturado tras heroicos combates, fue fusilado por las fuerzas realistas de Goyeneche.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "Si aplicamos el análisis del liderazgo guerrillero de los valles del sur de Bolivia, ¿quién fue Eustaquio 'Moto' Méndez y qué hito militar lideró?",
+      "context": "En Tarija, el estudiante René del Colegio Nacional San Luis estudia la Republiqueta de Tarija y el rol del héroe local Moto Méndez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un célebre caudillo montonero tarijeño que lideró la Republiqueta de Tarija, logrando la victoria patriota en la célebre Batalla de la Tablada en 1817.",
+          "is_correct": true,
+          "feedback": "Correcto. El Moto Méndez (apodado así por haber perdido una mano) organizó a los gauchos y montoneros de Tarija, hostigando de forma audaz al ejército realista español y venciendo en la Tablada de Tolomosa el 15 de abril de 1817."
+        },
+        {
+          "letter": "B",
+          "text": "Un general enviado por la corona de España para restablecer el impuesto de la mita en el Cerro Rico potosino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Méndez era un aguerrido líder patriota local que combatió a los españoles, no un general al servicio de la corona de España."
+        },
+        {
+          "letter": "C",
+          "text": "Un magnate minero que privatizó el estaño de Oruro para exportar de forma gratuita a zoológicos de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No era magnate minero, el estaño no era estratégico en 1817 y no existía privatización de ese tipo con fines de exportación a zoológicos."
+        },
+        {
+          "letter": "D",
+          "text": "El primer presidente de origen portugués que gobernó el territorio plurinacional de Bolivia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Méndez era boliviano criollo, montonero de Tarija y nunca asumió la presidencia de la nación boliviana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Moto Méndez es uno de los héroes populares más queridos de la historia de Bolivia. Sus tácticas guerrilleras de caballería ligera (montoneras) desestabilizaron el control realista de los valles del sur, facilitando la conexión patriota con el norte argentino.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "Si aplicamos la historia militar de las republiquetas al oriente de Bolivia, ¿qué medida revolucionaria y de inclusión de masas ejecutó Ignacio Warnes al mando de la Republiqueta de Santa Cruz?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza el rol del general Ignacio Warnes en las tierras bajas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decretó la liberación de los esclavos afrodescendientes para conformar el batallón de soldados de infantería conocidos como 'los Pardos'.",
+          "is_correct": true,
+          "feedback": "Correcto. Ignacio Warnes aplicó medidas de gran alcance social en Santa Cruz, liberando a los esclavos de las haciendas para integrarlos con dignidad como soldados patriotas en la lucha armada contra los realistas."
+        },
+        {
+          "letter": "B",
+          "text": "Ordenó la quema de todas las misiones jesuíticas de Chiquitos para confiscar sus violines de madera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Warnes respetó el patrimonio eclesiástico de las misiones y cooperó con los cabildos indígenas locales de Chiquitos, sin destruirlos."
+        },
+        {
+          "letter": "C",
+          "text": "Decretó la entrega obligatoria de tierras fiscales a colonos procedentes de Francia para sembrar café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo entregas de tierras a colonos franceses ni se promovió el monocultivo de café con tales fines en 1813."
+        },
+        {
+          "letter": "D",
+          "text": "Declaró al portugués idioma oficial administrativo de Santa Cruz de la Sierra bajo soberanía del Brasil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Warnes combatía el avance de los realistas de Lima e intereses expansionistas de Portugal, manteniendo el castellano administrativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ignacio Warnes, enviado por el ejército auxiliar argentino, asumió la conducción militar de Santa Cruz de 1813 a 1816. Gobernó con un profundo sentido social, incorporando a indígenas chiquitanos y negros libertos, hasta su heroico deceso en la Batalla de El Pari en 1816.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Si aplicamos el análisis del accionar guerrillero de las republiquetas, ¿qué función estratégica cumplía la Republiqueta de Vallegrande conducida por Antonio Juan de Álzaga?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza las tácticas de resistencia de las guerrillas rurales en los valles del sur de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Controlaba las rutas y caminos de comunicación de la cordillera andina que conectaban la ciudad de Cochabamba con Santa Cruz de la Sierra.",
+          "is_correct": true,
+          "feedback": "Correcto. La Republiqueta de Vallegrande hostigaba de forma audaz las líneas de comunicación realistas españolas entre el altiplano de altura y las tierras bajas cruceñas, sirviendo de nexo vital para las caravanas de armas patriotas."
+        },
+        {
+          "letter": "B",
+          "text": "Construyó una red de astilleros para barcos de guerra nucleares en las orillas del lago Poopó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vallegrande es una región de valles secos terrestres; no cuenta con lagos andinos para barcos ni existía la tecnología de energía nuclear."
+        },
+        {
+          "letter": "C",
+          "text": "Estableció aduanas comerciales exclusivas para cobrar impuestos en pesos de oro a los comerciantes de la Standard Oil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Standard Oil es una compañía petrolera del siglo XX, ajena al periodo de 1810 a 1825 de la guerra de independencia."
+        },
+        {
+          "letter": "D",
+          "text": "Buscaba la anexión voluntaria de la provincia del Litoral al territorio imperial del Japón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento era de emancipación altoperuana contra España, sin vinculación diplomática o comercial con Japón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Republiqueta de Vallegrande formaba parte del sistema de focos guerrilleros de resistencia rural del Alto Perú. Su rol de hostigamiento permanente impidió el libre tránsito de los ejércitos reales españoles.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "Al analizar el impacto socioeconómico de los quince años de guerra constante en el Alto Perú, ¿qué factor destructivo mermó la viabilidad inicial del Estado de Bolivia en 1825?",
+      "context": "En Oruro, la estudiante Nancy del Colegio Nacional Florida analiza las consecuencias demográficas de la Guerra de los 15 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parálisis total de la minería de la plata por inundaciones periódicas, el despoblamiento de estancias y la fuga de capitales de los azogueros.",
+          "is_correct": true,
+          "feedback": "Correcto. Tres lustros de hostilidades y guerras asolaron las haciendas de beneficio, inhabilitaron las minas andinas y ahuyentaron los capitales de inversión potosinos, heredando el nuevo Estado una severa crisis económica de iliquidez fiscal."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición total de cultivar papa y quinua en el altiplano andino central por orden de Simón Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar y Sucre deseaban potenciar la agricultura altiplánica para alimentar a la población andina, no la prohibieron."
+        },
+        {
+          "letter": "C",
+          "text": "La inundación masiva de la Casa de la Moneda de Potosí por las mareas altas del océano Pacífico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Potosí es mediterráneo andino terrestre elevado, sin relación física con mareas oceánicas altas del Pacífico."
+        },
+        {
+          "letter": "D",
+          "text": "La adopción forzosa de la moneda brasileña de oro de las aduanas de la corona del Brasil de forma obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moneda de Bolivia continuó basándose en el peso de plata y no se adoptó moneda brasileña de oro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La devastación económica heredada de la guerra de independencia constituyó la mayor limitación para la consolidación de la joven República. Forzó al presidente Sucre a reestablecer el oprobioso impuesto indigenal ante la falta de ingresos mineros.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "¿Qué contradicción socio-política dificultaba la alianza táctica entre los caudillos criollos de las republiquetas y los líderes indígenas andinos?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho estudia la alianza de guerrillas de republiquetas con indígenas del altiplano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los líderes indígenas luchaban por la restitución del autogobierno de sus ayllus y tierras comunales, mientras que los caudillos criollos defendían la hegemonía terrateniente.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque coincidían en combatir el dominio realista español de la corona de España, las metas de largo plazo eran contradictorias: los andinos buscaban librarse del régimen tributario agrario terrateniente, defendido por los criollos locales."
+        },
+        {
+          "letter": "B",
+          "text": "El rechazo de las tropas indígenas a que los criollos continuaran hablando el idioma castellano en los regimientos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El castellano se mantuvo como el idioma oficial de mando militar y no se registró conflicto lingüístico de ese tipo."
+        },
+        {
+          "letter": "C",
+          "text": "La exigencia de los criollos de comprar tanques de guerra modernos importados de la Europa occidental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían tanques de guerra en el siglo XIX colonial de la guerra de independencia; el combate era de caballería ligera e infantería."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del catolicismo que pretendían imponer las fuerzas armadas paraguayas de forma militar en Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Paraguay no participó en la guerra de independencia andina altoperuana de 1809-1825; es un desfase geográfico e histórico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta tensión estructural de clases sociales persistiría tras el nacimiento de Bolivia. Los criollos locales que asumieron el poder político mantuvieron intacta la exclusión indígena andina de la ciudadanía real y mantuvieron el pongueaje servil.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Al analizar críticamente las expediciones de los Ejércitos Auxiliares argentinos al Alto Perú, ¿qué factor de descontento local provocó el rechazo de la población de Charcas?",
+      "context": "En Cochabamba, la estudiante Shirley del Colegio San Simón analiza los fracasos de los Ejércitos Auxiliares de las Provincias Unidas de Buenos Aires.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El comportamiento de indisciplina y saqueo de las tropas de Buenos Aires en las urbes de Potosí y La Plata, tratadas como provincias conquistadas.",
+          "is_correct": true,
+          "feedback": "Correcto. El atropellamiento y saqueo perpetrado por los ejércitos auxiliares argentinos (especialmente bajo el mando de Castelli y Alvear) en la aduana de Potosí indignaron a la población criolla de Charcas, acelerando las tendencias autonomistas locales."
+        },
+        {
+          "letter": "B",
+          "text": "La orden de Buenos Aires de demoler el Cerro Rico de Potosí de forma física utilizando explosivos nucleares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían explosivos nucleares en la era colonial andina y es físicamente imposible demoler una montaña andina de ese tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición absoluta de la fe católica andina para declarar la fe budista obligatoria en Sucre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tanto Buenos Aires como Charcas compartían el catolicismo devoto, sin relación con el budismo o la abolición del culto."
+        },
+        {
+          "letter": "D",
+          "text": "La exigencia de que todos los habitantes de Bolivia hablaran portugués de manera obligatoria bajo penas de cárcel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Buenos Aires era de habla hispana, opuesta al expansionismo portugués; no impuso el portugués en Charcas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las malas relaciones con los ejércitos auxiliares de Buenos Aires sembraron en el Alto Perú la convicción de que debían labrar su propio destino independiente. Deseaban cooperar contra España pero sin someterse a la hegemonía porteña.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "Al analizar el accionar pragmático de Casimiro Olañeta en 1825, ¿qué contradicción de clase revela respecto de la aristocracia criolla de Charcas?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza la transición política del bando realista al patriota de las élites criollas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revela que la élite criolla local, que había servido devotamente a la corona española realista, se acomodó ágilmente al bando patriota para conservar el poder político de la joven república.",
+          "is_correct": true,
+          "feedback": "Correcto. Olañeta operó de manera ambivalente: sirvió de consejero de su tío el general realista Olañeta para luego fundar la Asamblea de 1825, asegurando que los criollos terratenientes monopolizaran el poder político del nuevo Estado excluyendo a indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra su compromiso heroico inquebrantable luchando desinteresadamente en las trincheras guerrilleras de las republiquetas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olañeta nunca combatió físicamente en trincheras guerrilleras de republiquetas; operó como un astuto doctor de leyes de cabildos."
+        },
+        {
+          "letter": "C",
+          "text": "Su destierro definitivo de Bolivia decretado por Simón Bolívar debido a su origen de nacimiento francés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olañeta era criollo altoperuano, no de origen francés, y Bolívar lo incorporó inicialmente como ministro de Estado por sus leyes locales."
+        },
+        {
+          "letter": "D",
+          "text": "Su decisión voluntaria de donar todas sus haciendas agrícolas cruceñas para construir escuelas rurales gratuitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olañeta conservó e incrementó sus haciendas agrícolas, consolidando el poder agrario terrateniente republicano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transición del orden colonial al republicano andino representó una recomposición interna de poder de las mismas élites criollas terratenientes de Charcas, garantizando la preservación de privilegios de casta tradicionales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "¿Qué contradicción militar realista de la campaña del Alto Perú devela el trágico suplicio y muerte del caudillo Manuel Ascensio Padilla en 1816?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia el martirio y muerte de los esposos Padilla en la resistencia de republiquetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La radicalización armada y de exterminio del ejército español conducido por de la Pezuela, que ejecutaba sin piedad a los cabecillas patriotas rurales.",
+          "is_correct": true,
+          "feedback": "Correcto. La decapitación de Padilla en el combate del Villar (septiembre de 1816) y la decapitación de otros líderes de republiquetas evidenció el carácter de exterminio de la guerra, donde los realistas no tomaban prisioneros políticos."
+        },
+        {
+          "letter": "B",
+          "text": "La alianza secreta de los españoles con los generales franceses del ejército de Napoleón Bonaparte en Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España combatía contra las tropas francesas napoleónicas en la península, sin alianza alguna con generales franceses en Charcas."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición real decretada por el papa de que los sacerdotes oficiaran matrimonios en templos andinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El culto católico continuó rigiendo de forma oficial en ambos bandos realistas y patriotas, sin prohibición papal de matrimonios."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega forzosa de la Casa de la Moneda de Potosí al Paraguay a cambio de barcos de guerra a vapor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay no participó en la contienda de 1816 y la Casa de la Moneda continuó bajo control español, sin relación con barcos paraguayos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La campaña represiva realista de 1816 devela la brutalidad militar de la Guerra de los 15 años. Goyeneche y de la Pezuela aplicaron la 'Guerra de Exterminio' para descabezar las republiquetas, forzando a Juana Azurduy a huir herida de guerra hacia el norte argentino.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "Al analizar críticamente las relaciones políticas entre las republiquetas altoperuanas, ¿qué asimetría de coordinación militar impidió un mando unificado patriota?",
+      "context": "En El Alto, el estudiante Walter de la Unidad Educativa Juan Pablo II investiga las rivalidades internas entre caudillos de republiquetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las fuertes rivalidades y el caudillismo agrario local de los jefes guerrilleros, que preferían gobernar autónomamente sus territorios de valles.",
+          "is_correct": true,
+          "feedback": "Correcto. El carácter fragmentario y autónomo de las republiquetas (caudillismo rural) dificultaba la coordinación militar de gran calado, facilitando que el disciplinado ejército español realista las hostigara y derrotara de forma sucesiva por separado."
+        },
+        {
+          "letter": "B",
+          "text": "El desacuerdo sobre si la moneda de Bolivia debía acuñarse en pesos de oro del Brasil o libras esterlinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían monedas de Brasil o libras esterlinas circulando legalmente y la moneda era el peso de plata potosino."
+        },
+        {
+          "letter": "C",
+          "text": "La exigencia de que todos los guerrilleros hablaran de manera obligatoria el idioma portugués bajo el bando patriota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma oficial patriota era el castellano y no se impuso el portugués en ningún regimiento de republiquetas."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición absoluta de cultivar papa y quinua decretada de forma obligatoria por los incas del Cuzco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quinua y la papa eran los cultivos de subsistencia alimentaria guerrillera andina, apoyados por los incas en épocas pasadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este caudillismo andino-guerrillero local sembró las bases de la fragmentación de poder de la era republicana del siglo XIX. Aunque heroicos, los caudillos rurales recelaban de mandos centralizados exteriores, facilitando la reconquista realista española.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "Al juzgar de manera integral el papel de las guerrillas de las republiquetas frente a la posterior campaña libertadora exterior de Bolívar y Sucre, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín evalúa la historiografía nacionalista de la independencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las republiquetas sostuvieron de forma real y prolongada la defensa del territorio por quince años, desgastando al ejército realista y preparando el terreno para la liberación final de los libertadores.",
+          "is_correct": true,
+          "feedback": "Correcto. Una evaluación de largo plazo devela que la victoria de Ayacucho y de los ejércitos bolivarianos libertadores del norte en 1824-1825 coronó un proceso de desgaste militar formidable sostenido de forma fáctica por las guerrillas de base popular andina de las republiquetas."
+        },
+        {
+          "letter": "B",
+          "text": "Las republiquetas carecieron de importancia militar real debido a que las batallas de la independencia se decidieron de forma pacífica por mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las batallas fueron puramente terrestres andinas y sumamente violentas, sin que el Litoral decidiera pacíficamente el fin de la guerra de independencia."
+        },
+        {
+          "letter": "C",
+          "text": "El movimiento guerrillero fue destructivo porque toda la población andina deseaba continuar bajo el yugo colonial real de la corona de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las transformaciones republicanas contaban con amplio respaldo andino y de valles; no se deseaba continuar bajo el yugo de la corona española."
+        },
+        {
+          "letter": "D",
+          "text": "Las republiquetas se rindieron inmediatamente en su primer año de guerra en 1809, disolviéndose de forma voluntaria en favor de los realistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lejos de disolverse, resistieron con tenacidad y fiereza por quince años hasta el año fundacional de la república de 1825."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La historiografía crítica de Bolivia reivindica el protagonismo de las guerrillas de las republiquetas. Su rol de hostigamiento rural permanente impidió el libre tránsito de los ejércitos reales españoles, constituyendo el verdadero motor de la autodeterminación local.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.53,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "Al juzgar críticamente el rol de las masas indígenas andino-amazónicas dentro de las republiquetas de la guerra de independencia, ¿cuál de las siguientes conclusiones posee mayor validez socio-histórica?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez evalúa el papel integrador de las guerrillas rurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representaron la fuerza de infantería de combate y de abastecimiento logístico que sostuvo las guerrillas, ofrendando sus vidas por una libertad agraria y social confiscada luego por los criollos.",
+          "is_correct": true,
+          "feedback": "Correcto. El campesinado indígena andino y los guerrilleros nativos de tierras bajas constituyeron el escudo humano real que defendió el territorio; sin embargo, al fundarse la república en 1825, las élites criollas terratenientes de Charcas les confiscaron los derechos ciudadanos reales."
+        },
+        {
+          "letter": "B",
+          "text": "Se mantuvieron al margen del conflicto armado por considerarse leales incondicionales a los reyes borbones de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades andinas y de llanos participaron activamente del conflicto de republiquetas, sufriendo la implacable represión realista real."
+        },
+        {
+          "letter": "C",
+          "text": "Se aliaron de forma incondicional con los comerciantes de esclavos portugueses del Imperio del Brasil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas combatían contra cualquier opresión colonial europea o brasileña y defendían la libertad territorial de la patria."
+        },
+        {
+          "letter": "D",
+          "text": "Abolieron el uso de las lenguas originarias aymara y quechua para declarar el idioma inglés único oficial en trincheras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lenguas originarias eran las lenguas maternas de comunicación mayoritarias en las trincheras guerrilleras andinas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La herencia de la guerra de independencia devela el desencuentro civilizatorio fundacional de Bolivia. El sacrificio indígena en las republiquetas no se tradujo en una emancipación agraria real, consolidándose la exclusión del nuevo Estado republicano terrateniente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar críticamente el legado de las republiquetas en la delimitación geográfica y departamental inicial de la joven República de Bolivia en 1825, ¿cuál de las siguientes conclusiones posee mayor validez?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar valora el legado de las republiquetas en la delimitación de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La geografía de resistencia de las republiquetas (como las de Vallegrande, Tarija y Santa Cruz) delineó los primeros contornos de integración regional andina y llanera de Bolivia.",
+          "is_correct": true,
+          "feedback": "Correcto. La movilización y el control militar de facto ejercido por las distintas republiquetas en el Alto Perú prefiguraron los espacios territoriales y de poder de las provincias autónomas que luego conformaron los departamentos de Bolivia."
+        },
+        {
+          "letter": "B",
+          "text": "Fue nulo debido a que las fronteras de Bolivia se trazaron de forma voluntaria en un tratado secreto con el Imperio del Japón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían tratados de fronteras con Japón y la delimitación se basó en el uti possidetis de Charcas de 1810."
+        },
+        {
+          "letter": "C",
+          "text": "Provocó que Simón Bolívar anulara el Acta de Independencia de Bolivia para regalar el Chaco completo al Paraguay.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar refrendó el Acta de Independencia del 6 de agosto de 1825 y defendió la soberanía territorial andina y chaqueña de Bolivia."
+        },
+        {
+          "letter": "D",
+          "text": "Obligó al parlamento de Bolivia a prohibir de manera obligatoria la minería de estaño para cultivar yuca amazónica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería de estaño y plata continuó estimulándose y no se prohibió con fines de forzar el cultivo boseño de yuca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La geografía de las republiquetas consolidó identidades provinciales vigorosas. Sus zonas de influencia facilitaron el trazado inicial de los departamentos fundacionales de Bolivia por los libertadores, reconociendo el dominio territorial patriota de facto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "Al evaluar globalmente el rol de las republiquetas en la posterior exclusión social de los combatientes indígenas tras 1825, ¿cuál de las siguientes valoraciones posee mayor sustento?",
+      "context": "En Sacaba, el estudiante Limbert del Colegio San Simón reflexiona sobre la historiografía crítica de la independencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devela la honda fisura de la república señorial, que se valió de la fuerza militar y el sacrificio indígena andino en las republiquetas para luego privarles de la propiedad de la tierra y del derecho a votar.",
+          "is_correct": true,
+          "feedback": "Correcto. La consolidación de la república minera terrateniente reprodujo el colonialismo interno: las mayorías indígenas que combatieron y murieron en las republiquetas fueron reducidas al régimen servil agrario del pongueaje, marginadas de la ciudadanía por un siglo."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los combatientes indígenas prefirieron renunciar de forma voluntaria a la propiedad de sus tierras comunales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas andinos resistieron tenazmente despojos de tierras y defendieron sus ayllus ancestrales, sufriendo abusos agrarios de élites."
+        },
+        {
+          "letter": "C",
+          "text": "Establecía que las 36 naciones indígenas debían ser devueltas de forma incondicional al yugo de los reyes borbones de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se rechazaba ardientemente el yugo de la corona española de Madrid y no se planteó someterse de nuevo a los borbones."
+        },
+        {
+          "letter": "D",
+          "text": "Abolió pacíficamente toda forma de discriminación de castas para coronar a Juana Azurduy de Padilla reina absoluta de Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Juana Azurduy fue marginada del poder y de las esferas de decisión de Chuquisaca; falleció en la pobreza y no fue coronada reina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La contradicción fundacional de la república devela que la liberación de España no significó la descolonización social interna de Bolivia. El sacrificio de las republiquetas rurales fue instrumentalizado por los doctores criollos de Chuquisaca para consagrar un Estado de privilegios oligárquicos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "BO-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}
