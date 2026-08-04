@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-08-04T00:18:31.417Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v1",
+      "statement": "¿A qué conjunto numérico pertenece el número racional formado por la relación de la altura de un edificio en Guayaquil de 15 metros dividido para 4 pisos?",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{N}$ (Números Naturales)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{I}$ (Números Irracionales)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$\\mathbb{Z}$ (Números Enteros)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{Q}$ (Números Racionales)",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La relación 15/4 representa una fracción de números enteros, lo cual define exactamente a un número racional, denotado por $\\mathbb{Q}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.91,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v2",
+      "statement": "¿A qué conjunto numérico pertenece el número racional formado por la relación de la altura de un edificio en Ibarra de 15 metros dividido para 4 pisos?",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{I}$ (Números Irracionales)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{N}$ (Números Naturales)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$\\mathbb{Q}$ (Números Racionales)",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{Z}$ (Números Enteros)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La relación 15/4 representa una fracción de números enteros, lo cual define exactamente a un número racional, denotado por $\\mathbb{Q}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v3",
+      "statement": "¿A qué conjunto numérico pertenece el número racional formado por la relación de la altura de un edificio en Ibarra de 15 metros dividido para 4 pisos?",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{N}$ (Números Naturales)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{Z}$ (Números Enteros)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$\\mathbb{I}$ (Números Irracionales)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{Q}$ (Números Racionales)",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La relación 15/4 representa una fracción de números enteros, lo cual define exactamente a un número racional, denotado por $\\mathbb{Q}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v4",
+      "statement": "¿A qué conjunto numérico pertenece el número racional formado por la relación de la altura de un edificio en Machala de 15 metros dividido para 4 pisos?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{Q}$ (Números Racionales)",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{Z}$ (Números Enteros)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$\\mathbb{I}$ (Números Irracionales)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{N}$ (Números Naturales)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La relación 15/4 representa una fracción de números enteros, lo cual define exactamente a un número racional, denotado por $\\mathbb{Q}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v5",
+      "statement": "Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.5^\\circ\\text{C}$. ¿Cuál es la clasificación más precisa de este número dentro de los conjuntos numéricos?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Número natural negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Número entero negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Número decimal racional negativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Número irracional negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v6",
+      "statement": "Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.5^\\circ\\text{C}$. ¿Cuál es la clasificación más precisa de este número dentro de los conjuntos numéricos?",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Número natural negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Número entero negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Número decimal racional negativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Número irracional negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v7",
+      "statement": "Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.5^\\circ\\text{C}$. ¿Cuál es la clasificación más precisa de este número dentro de los conjuntos numéricos?",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Número decimal racional negativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Número entero negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Número irracional negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Número natural negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v8",
+      "statement": "Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.5^\\circ\\text{C}$. ¿Cuál es la clasificación más precisa de este número dentro de los conjuntos numéricos?",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Número decimal racional negativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Número irracional negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Número entero negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Número natural negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v9",
+      "statement": "Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.5^\\circ\\text{C}$. ¿Cuál es la clasificación más precisa de este número dentro de los conjuntos numéricos?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Número entero negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Número natural negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Número irracional negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Número decimal racional negativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v10",
+      "statement": "Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.5^\\circ\\text{C}$. ¿Cuál es la clasificación más precisa de este número dentro de los conjuntos numéricos?",
+      "context": "En la ciudad de Cuenca, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Número natural negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Número entero negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Número irracional negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Número decimal racional negativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v11",
+      "statement": "Si representamos la población de Machala como $P$, el conjunto de todos los presupuestos mensuales de las familias de Machala en dólares como $M$, y el conjunto de números reales positivos como $\\mathbb{R}^+$. ¿Cuál de las siguientes relaciones es correcta respecto a la naturaleza de estos conjuntos?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.56,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v12",
+      "statement": "Si representamos la población de Machala como $P$, el conjunto de todos los presupuestos mensuales de las familias de Machala en dólares como $M$, y el conjunto de números reales positivos como $\\mathbb{R}^+$. ¿Cuál de las siguientes relaciones es correcta respecto a la naturaleza de estos conjuntos?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v13",
+      "statement": "Si representamos la población de Riobamba como $P$, el conjunto de todos los presupuestos mensuales de las familias de Riobamba en dólares como $M$, y el conjunto de números reales positivos como $\\mathbb{R}^+$. ¿Cuál de las siguientes relaciones es correcta respecto a la naturaleza de estos conjuntos?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v14",
+      "statement": "Si representamos la población de Manta como $P$, el conjunto de todos los presupuestos mensuales de las familias de Manta en dólares como $M$, y el conjunto de números reales positivos como $\\mathbb{R}^+$. ¿Cuál de las siguientes relaciones es correcta respecto a la naturaleza de estos conjuntos?",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v15",
+      "statement": "Si representamos la población de Riobamba como $P$, el conjunto de todos los presupuestos mensuales de las familias de Riobamba en dólares como $M$, y el conjunto de números reales positivos como $\\mathbb{R}^+$. ¿Cuál de las siguientes relaciones es correcta respecto a la naturaleza de estos conjuntos?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v16",
+      "statement": "Si representamos la población de Machala como $P$, el conjunto de todos los presupuestos mensuales de las familias de Machala en dólares como $M$, y el conjunto de números reales positivos como $\\mathbb{R}^+$. ¿Cuál de las siguientes relaciones es correcta respecto a la naturaleza de estos conjuntos?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v17",
+      "statement": "Considere el conjunto de números definidos por la solución de la ecuación cuadrática $x^2 + 4 = 0$. ¿A qué conjunto numérico pertenecen estas soluciones en el contexto de la ampliación de los números reales para resolver problemas de ingeniería en Manta?",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al conjunto de los números naturales ($\\mathbb{N}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Al conjunto de los números racionales ($\\mathbb{Q}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Al conjunto de los números irracionales ($\\mathbb{I}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Al conjunto de los números complejos ($\\mathbb{C}$)",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \\pm 2i$, que no pertenecen a los números reales $\\mathbb{R}$, sino al conjunto de los números complejos $\\mathbb{C}$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v18",
+      "statement": "Considere el conjunto de números definidos por la solución de la ecuación cuadrática $x^2 + 4 = 0$. ¿A qué conjunto numérico pertenecen estas soluciones en el contexto de la ampliación de los números reales para resolver problemas de ingeniería en Machala?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al conjunto de los números racionales ($\\mathbb{Q}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Al conjunto de los números irracionales ($\\mathbb{I}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Al conjunto de los números complejos ($\\mathbb{C}$)",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Al conjunto de los números naturales ($\\mathbb{N}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \\pm 2i$, que no pertenecen a los números reales $\\mathbb{R}$, sino al conjunto de los números complejos $\\mathbb{C}$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v19",
+      "statement": "Considere el conjunto de números definidos por la solución de la ecuación cuadrática $x^2 + 4 = 0$. ¿A qué conjunto numérico pertenecen estas soluciones en el contexto de la ampliación de los números reales para resolver problemas de ingeniería en Machala?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al conjunto de los números racionales ($\\mathbb{Q}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Al conjunto de los números irracionales ($\\mathbb{I}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Al conjunto de los números complejos ($\\mathbb{C}$)",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Al conjunto de los números naturales ($\\mathbb{N}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \\pm 2i$, que no pertenecen a los números reales $\\mathbb{R}$, sino al conjunto de los números complejos $\\mathbb{C}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v20",
+      "statement": "Considere el conjunto de números definidos por la solución de la ecuación cuadrática $x^2 + 4 = 0$. ¿A qué conjunto numérico pertenecen estas soluciones en el contexto de la ampliación de los números reales para resolver problemas de ingeniería en Quito?",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al conjunto de los números irracionales ($\\mathbb{I}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Al conjunto de los números naturales ($\\mathbb{N}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Al conjunto de los números racionales ($\\mathbb{Q}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Al conjunto de los números complejos ($\\mathbb{C}$)",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \\pm 2i$, que no pertenecen a los números reales $\\mathbb{R}$, sino al conjunto de los números complejos $\\mathbb{C}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}
