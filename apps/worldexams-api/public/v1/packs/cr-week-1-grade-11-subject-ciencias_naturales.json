@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cr",
+    "pack_id": "cr-week-1-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T00:36:27.694Z"
+  },
+  "questions": [
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "En Alajuela, un grupo de estudiantes del Instituto de Alajuela analiza teoría celular y postulados históricos. Durante su investigación, Luis plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan teoría celular y postulados históricos en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Teoría celular y postulados históricos."
+        },
+        {
+          "letter": "B",
+          "text": "La estructura metabólica asociada de manera indirecta en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Teoría celular y postulados históricos."
+        },
+        {
+          "letter": "C",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Teoría celular y postulados históricos."
+        },
+        {
+          "letter": "D",
+          "text": "El principio biológico que define a teoría celular y postulados históricos de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a teoría celular y postulados históricos de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: Teoría celular y postulados históricos constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "En Limón, un grupo de estudiantes del Liceo Nuevo de Limón analiza células procariotas vs eucariotas. Durante su investigación, Sofía plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan células procariotas vs eucariotas en Limón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Células procariotas vs eucariotas."
+        },
+        {
+          "letter": "B",
+          "text": "La estructura metabólica asociada de manera indirecta en Limón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Células procariotas vs eucariotas."
+        },
+        {
+          "letter": "C",
+          "text": "El principio biológico que define a células procariotas vs eucariotas de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a células procariotas vs eucariotas de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Células procariotas vs eucariotas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: Células procariotas vs eucariotas constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "En Maldonado, un grupo de estudiantes del Colegio Técnico Profesional de Flores analiza la membrana celular y el modelo de mosaico fluido. Durante su investigación, Sofía plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan la membrana celular y el modelo de mosaico fluido en Maldonado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de La membrana celular y el modelo de mosaico fluido."
+        },
+        {
+          "letter": "B",
+          "text": "El principio biológico que define a la membrana celular y el modelo de mosaico fluido de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a la membrana celular y el modelo de mosaico fluido de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "La estructura metabólica asociada de manera indirecta en Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de La membrana celular y el modelo de mosaico fluido."
+        },
+        {
+          "letter": "D",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de La membrana celular y el modelo de mosaico fluido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicación Pedagógica: La membrana celular y el modelo de mosaico fluido constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "En Puntarenas, un grupo de estudiantes del Liceo de Puntarenas analiza el núcleo celular y la cromatina. Durante su investigación, Valeria plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan el núcleo celular y la cromatina en Puntarenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de El núcleo celular y la cromatina."
+        },
+        {
+          "letter": "B",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de El núcleo celular y la cromatina."
+        },
+        {
+          "letter": "C",
+          "text": "La estructura metabólica asociada de manera indirecta en Puntarenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de El núcleo celular y la cromatina."
+        },
+        {
+          "letter": "D",
+          "text": "El principio biológico que define a el núcleo celular y la cromatina de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a el núcleo celular y la cromatina de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: El núcleo celular y la cromatina constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "En Limón, un grupo de estudiantes del Liceo Nuevo de Limón analiza mitocondrias y respiración celular aeróbica. Durante su investigación, Felipe plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan mitocondrias y respiración celular aeróbica en Limón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Mitocondrias y respiración celular aeróbica."
+        },
+        {
+          "letter": "B",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Mitocondrias y respiración celular aeróbica."
+        },
+        {
+          "letter": "C",
+          "text": "El principio biológico que define a mitocondrias y respiración celular aeróbica de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a mitocondrias y respiración celular aeróbica de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La estructura metabólica asociada de manera indirecta en Limón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Mitocondrias y respiración celular aeróbica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: Mitocondrias y respiración celular aeróbica constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "En Puntarenas, un grupo de estudiantes del Liceo de Puntarenas analiza cloroplastos y fotosíntesis. Durante su investigación, Keylor plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan cloroplastos y fotosíntesis en Puntarenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio biológico que define a cloroplastos y fotosíntesis de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a cloroplastos y fotosíntesis de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Cloroplastos y fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La estructura metabólica asociada de manera indirecta en Puntarenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Cloroplastos y fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Cloroplastos y fotosíntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación Pedagógica: Cloroplastos y fotosíntesis constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "En Cartago, un grupo de estudiantes del Colegio de San Luis Gonzaga analiza retículo endoplasmático liso y rugoso. Durante su investigación, Luis plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan retículo endoplasmático liso y rugoso en Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio biológico que define a retículo endoplasmático liso y rugoso de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a retículo endoplasmático liso y rugoso de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "La estructura metabólica asociada de manera indirecta en Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Retículo endoplasmático liso y rugoso."
+        },
+        {
+          "letter": "C",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Retículo endoplasmático liso y rugoso."
+        },
+        {
+          "letter": "D",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Retículo endoplasmático liso y rugoso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación Pedagógica: Retículo endoplasmático liso y rugoso constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "En Maldonado, un grupo de estudiantes del Colegio Técnico Profesional de Flores analiza aparato de golgi y secreción celular. Durante su investigación, Ana plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan aparato de golgi y secreción celular en Maldonado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Aparato de Golgi y secreción celular."
+        },
+        {
+          "letter": "B",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Aparato de Golgi y secreción celular."
+        },
+        {
+          "letter": "C",
+          "text": "El principio biológico que define a aparato de golgi y secreción celular de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a aparato de golgi y secreción celular de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La estructura metabólica asociada de manera indirecta en Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Aparato de Golgi y secreción celular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: Aparato de Golgi y secreción celular constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "En San Carlos, un grupo de estudiantes del Liceo de Ciudad Quesada analiza lisosomas, peroxisomas y digestión celular. Durante su investigación, Esteban plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan lisosomas, peroxisomas y digestión celular en San Carlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Lisosomas, peroxisomas y digestión celular."
+        },
+        {
+          "letter": "B",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Lisosomas, peroxisomas y digestión celular."
+        },
+        {
+          "letter": "C",
+          "text": "La estructura metabólica asociada de manera indirecta en San Carlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Lisosomas, peroxisomas y digestión celular."
+        },
+        {
+          "letter": "D",
+          "text": "El principio biológico que define a lisosomas, peroxisomas y digestión celular de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a lisosomas, peroxisomas y digestión celular de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: Lisosomas, peroxisomas y digestión celular constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "En Limón, un grupo de estudiantes del Liceo Nuevo de Limón analiza vacuolas en células vegetales y animales. Durante su investigación, Alonso plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan vacuolas en células vegetales y animales en Limón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Vacuolas en células vegetales y animales."
+        },
+        {
+          "letter": "B",
+          "text": "La estructura metabólica asociada de manera indirecta en Limón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Vacuolas en células vegetales y animales."
+        },
+        {
+          "letter": "C",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Vacuolas en células vegetales y animales."
+        },
+        {
+          "letter": "D",
+          "text": "El principio biológico que define a vacuolas en células vegetales y animales de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a vacuolas en células vegetales y animales de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: Vacuolas en células vegetales y animales constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "En Maldonado, un grupo de estudiantes del Colegio Técnico Profesional de Flores analiza ribosomas y síntesis de proteínas. Durante su investigación, José plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan ribosomas y síntesis de proteínas en Maldonado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Ribosomas y síntesis de proteínas."
+        },
+        {
+          "letter": "B",
+          "text": "La estructura metabólica asociada de manera indirecta en Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Ribosomas y síntesis de proteínas."
+        },
+        {
+          "letter": "C",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Ribosomas y síntesis de proteínas."
+        },
+        {
+          "letter": "D",
+          "text": "El principio biológico que define a ribosomas y síntesis de proteínas de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a ribosomas y síntesis de proteínas de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: Ribosomas y síntesis de proteínas constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "En Alajuela, un grupo de estudiantes del Instituto de Alajuela analiza citoesqueleto: microtúbulos, microfilamentos. Durante su investigación, Gabriela plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan citoesqueleto: microtúbulos, microfilamentos en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Citoesqueleto: microtúbulos, microfilamentos."
+        },
+        {
+          "letter": "B",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Citoesqueleto: microtúbulos, microfilamentos."
+        },
+        {
+          "letter": "C",
+          "text": "El principio biológico que define a citoesqueleto: microtúbulos, microfilamentos de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a citoesqueleto: microtúbulos, microfilamentos de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La estructura metabólica asociada de manera indirecta en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Citoesqueleto: microtúbulos, microfilamentos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: Citoesqueleto: microtúbulos, microfilamentos constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "En Alajuela, un grupo de estudiantes del Instituto de Alajuela analiza pared celular vegetal y hongos. Durante su investigación, Valeria plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan pared celular vegetal y hongos en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La estructura metabólica asociada de manera indirecta en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Pared celular vegetal y hongos."
+        },
+        {
+          "letter": "B",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Pared celular vegetal y hongos."
+        },
+        {
+          "letter": "C",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Pared celular vegetal y hongos."
+        },
+        {
+          "letter": "D",
+          "text": "El principio biológico que define a pared celular vegetal y hongos de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a pared celular vegetal y hongos de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: Pared celular vegetal y hongos constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "En Maldonado, un grupo de estudiantes del Colegio Técnico Profesional de Flores analiza transporte pasivo: difusión simple y facilitada. Durante su investigación, Ana plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan transporte pasivo: difusión simple y facilitada en Maldonado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio biológico que define a transporte pasivo: difusión simple y facilitada de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a transporte pasivo: difusión simple y facilitada de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Transporte pasivo: difusión simple y facilitada."
+        },
+        {
+          "letter": "C",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Transporte pasivo: difusión simple y facilitada."
+        },
+        {
+          "letter": "D",
+          "text": "La estructura metabólica asociada de manera indirecta en Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Transporte pasivo: difusión simple y facilitada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación Pedagógica: Transporte pasivo: difusión simple y facilitada constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "En San José, un grupo de estudiantes del Liceo de Costa Rica analiza transporte activo: bomba de sodio-potasio. Durante su investigación, Javier plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan transporte activo: bomba de sodio-potasio en San José.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Transporte activo: bomba de sodio-potasio."
+        },
+        {
+          "letter": "B",
+          "text": "La estructura metabólica asociada de manera indirecta en San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Transporte activo: bomba de sodio-potasio."
+        },
+        {
+          "letter": "C",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Transporte activo: bomba de sodio-potasio."
+        },
+        {
+          "letter": "D",
+          "text": "El principio biológico que define a transporte activo: bomba de sodio-potasio de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a transporte activo: bomba de sodio-potasio de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: Transporte activo: bomba de sodio-potasio constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "En Puntarenas, un grupo de estudiantes del Liceo de Puntarenas analiza endocitosis, pinocitosis y fagocitosis. Durante su investigación, Felipe plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan endocitosis, pinocitosis y fagocitosis en Puntarenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio biológico que define a endocitosis, pinocitosis y fagocitosis de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a endocitosis, pinocitosis y fagocitosis de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "La estructura metabólica asociada de manera indirecta en Puntarenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Endocitosis, pinocitosis y fagocitosis."
+        },
+        {
+          "letter": "C",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Endocitosis, pinocitosis y fagocitosis."
+        },
+        {
+          "letter": "D",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Endocitosis, pinocitosis y fagocitosis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación Pedagógica: Endocitosis, pinocitosis y fagocitosis constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "En San Carlos, un grupo de estudiantes del Liceo de Ciudad Quesada analiza exocitosis y secreción de vesículas. Durante su investigación, Luis plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan exocitosis y secreción de vesículas en San Carlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio biológico que define a exocitosis y secreción de vesículas de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a exocitosis y secreción de vesículas de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Exocitosis y secreción de vesículas."
+        },
+        {
+          "letter": "C",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Exocitosis y secreción de vesículas."
+        },
+        {
+          "letter": "D",
+          "text": "La estructura metabólica asociada de manera indirecta en San Carlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Exocitosis y secreción de vesículas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación Pedagógica: Exocitosis y secreción de vesículas constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "En Cartago, un grupo de estudiantes del Colegio de San Luis Gonzaga analiza cilios y flagelos en locomoción. Durante su investigación, Gabriela plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan cilios y flagelos en locomoción en Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La estructura metabólica asociada de manera indirecta en Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Cilios y flagelos en locomoción."
+        },
+        {
+          "letter": "B",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Cilios y flagelos en locomoción."
+        },
+        {
+          "letter": "C",
+          "text": "El principio biológico que define a cilios y flagelos en locomoción de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a cilios y flagelos en locomoción de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Cilios y flagelos en locomoción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: Cilios y flagelos en locomoción constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.54,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "En San Carlos, un grupo de estudiantes del Liceo de Ciudad Quesada analiza uniones celulares y matriz extracelular. Durante su investigación, Esteban plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan uniones celulares y matriz extracelular en San Carlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Uniones celulares y matriz extracelular."
+        },
+        {
+          "letter": "B",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Uniones celulares y matriz extracelular."
+        },
+        {
+          "letter": "C",
+          "text": "El principio biológico que define a uniones celulares y matriz extracelular de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a uniones celulares y matriz extracelular de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La estructura metabólica asociada de manera indirecta en San Carlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Uniones celulares y matriz extracelular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: Uniones celulares y matriz extracelular constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "En Heredia, un grupo de estudiantes del Liceo de Heredia analiza diferenciación celular y especialización de tejidos. Durante su investigación, Ana plantea la siguiente interrogante: ¿Cuál es el postulado fundamental o el mecanismo directo que caracteriza a este proceso o estructura?",
+      "context": "Estudiantes de undécimo año analizan diferenciación celular y especialización de tejidos en Heredia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ruta anaeróbica alternativa observada en condiciones experimentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Diferenciación celular y especialización de tejidos."
+        },
+        {
+          "letter": "B",
+          "text": "El organelo celular que asiste secundariamente el proceso celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Diferenciación celular y especialización de tejidos."
+        },
+        {
+          "letter": "C",
+          "text": "La estructura metabólica asociada de manera indirecta en Heredia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Diferenciación celular y especialización de tejidos."
+        },
+        {
+          "letter": "D",
+          "text": "El principio biológico que define a diferenciación celular y especialización de tejidos de forma unívoca y constante.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El principio biológico que define a diferenciación celular y especialización de tejidos de forma unívoca y constante. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: Diferenciación celular y especialización de tejidos constituye un pilar esencial en la biología celular para grado 11, garantizando la homeostasis y el funcionamiento correcto de las células eucariotas y procariotas según el marco curricular del MEP.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}
