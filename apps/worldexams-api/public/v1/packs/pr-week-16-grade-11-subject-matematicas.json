@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-16-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T05:17:39.282Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v1",
+      "statement": "Si dos triángulos son semejantes con una razón de semejanza $k = 3$, ¿cuál es la razón entre sus áreas correspondientes?",
+      "context": "Como parte de las olimpiades científicas en Río Piedras, Carlos aplica conceptos algebraicos en la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se elevó al cubo de forma errónea."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la razón de semejanza lineal."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. La razón de las áreas es el cuadrado de la razón de semejanza ($3^2 = 9$)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La teoría de semejanza establece que si la razón de semejanza entre los lados correspondientes de dos figuras semejantes es $k$, entonces la razón entre sus áreas es $k^2$. Con $k = 3$, la razón entre las áreas es $3^2 = 9$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v2",
+      "statement": "El Teorema de Tales establece que si tres o más rectas paralelas son cortadas por dos transversales, los segmentos determinados en ellas son:",
+      "context": "Como parte de las olimpiades científicas en Trujillo Alto, Gabriel aplica conceptos algebraicos en la Escuela Superior Medardo Carazo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Congruentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo serían congruentes en casos muy particulares."
+        },
+        {
+          "letter": "B",
+          "text": "Paralelos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió con la propiedad de las paralelas."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendiculares",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay perpendicularidad involucrada."
+        },
+        {
+          "letter": "D",
+          "text": "Proporcionales",
+          "is_correct": true,
+          "feedback": "Correcto. Los segmentos correspondientes son proporcionales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Teorema de Tales de Mileto postula fundamentalmente la proporcionalidad entre los segmentos correspondientes recortados en dos rectas transversales por un haz de rectas paralelas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v3",
+      "statement": "Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 28 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Trujillo Alto, Mateo estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Medardo Carazo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "28 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "56 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{4}{8} = \\frac{h}{28} \\implies \\frac{1}{2} = \\frac{h}{28} \\implies h = 14$ metros.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v4",
+      "statement": "Un poste de 3 metros de altura proyecta una sombra de 6 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?",
+      "context": "Como parte de las olimpiades científicas en Caguas, José aplica conceptos algebraicos en la Escuela Superior José Gautier Benítez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "B",
+          "text": "3 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "C",
+          "text": "36 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "D",
+          "text": "9 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{3}{6} = \\frac{h}{18} \\implies \\frac{1}{2} = \\frac{h}{18} \\implies h = 9$ metros.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v5",
+      "statement": "Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 20 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Cidra, Alondra analiza un problema de modelación matemática para un proyecto de la Escuela Superior Luis Muñoz Iglesias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "20 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "40 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "D",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{5}{10} = \\frac{h}{20} \\implies \\frac{1}{2} = \\frac{h}{20} \\implies h = 10$ metros.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v6",
+      "statement": "Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Trujillo Alto, María estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Medardo Carazo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "44 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{4}{8} = \\frac{h}{22} \\implies \\frac{1}{2} = \\frac{h}{22} \\implies h = 11$ metros.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v7",
+      "statement": "Un poste de 6 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Utuado, Sofía analiza un problema de modelación matemática para un proyecto de la Escuela Superior Luis Muñoz Rivera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "44 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "D",
+          "text": "6 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{6}{12} = \\frac{h}{22} \\implies \\frac{1}{2} = \\frac{h}{22} \\implies h = 11$ metros.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v8",
+      "statement": "Un poste de 6 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Isabela, María diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Francisco Mendoza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "44 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "D",
+          "text": "6 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{6}{12} = \\frac{h}{22} \\implies \\frac{1}{2} = \\frac{h}{22} \\implies h = 11$ metros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v9",
+      "statement": "Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Río Piedras, Sebastián estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "B",
+          "text": "36 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "C",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "9 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{5}{10} = \\frac{h}{18} \\implies \\frac{1}{2} = \\frac{h}{18} \\implies h = 9$ metros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v10",
+      "statement": "Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Cidra, Diego estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Iglesias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "60 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{5}{10} = \\frac{h}{30} \\implies \\frac{1}{2} = \\frac{h}{30} \\implies h = 15$ metros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v11",
+      "statement": "Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?",
+      "context": "Como parte de las olimpiades científicas en Aguadilla, Sofía aplica conceptos algebraicos en la Escuela Superior Juan Suárez Pelegrina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "44 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "D",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{5}{10} = \\frac{h}{22} \\implies \\frac{1}{2} = \\frac{h}{22} \\implies h = 11$ metros.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v12",
+      "statement": "Un poste de 2 metros de altura proyecta una sombra de 4 metros. Al mismo tiempo, un edificio proyecta una sombra de 24 metros. ¿Cuál es la altura del edificio?",
+      "context": "Un grupo de estudiantes de la Escuela Superior Dra. Concepción Aponte en Bayamón realiza una investigación guiada por Francisco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "2 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "C",
+          "text": "24 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "D",
+          "text": "48 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{2}{4} = \\frac{h}{24} \\implies \\frac{1}{2} = \\frac{h}{24} \\implies h = 12$ metros.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v13",
+      "statement": "Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 28 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Cayey, Sebastián diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Miguel Meléndez Muñoz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "28 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "56 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{4}{8} = \\frac{h}{28} \\implies \\frac{1}{2} = \\frac{h}{28} \\implies h = 14$ metros.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v14",
+      "statement": "Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 28 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Guaynabo, Mateo estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Margarita Janer Palacios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "28 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "56 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{4}{8} = \\frac{h}{28} \\implies \\frac{1}{2} = \\frac{h}{28} \\implies h = 14$ metros.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v15",
+      "statement": "Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?",
+      "context": "Como parte de las olimpiades científicas en Aguadilla, Sebastián aplica conceptos algebraicos en la Escuela Superior Juan Suárez Pelegrina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "60 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{5}{10} = \\frac{h}{30} \\implies \\frac{1}{2} = \\frac{h}{30} \\implies h = 15$ metros.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v16",
+      "statement": "Un poste de 6 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 24 metros. ¿Cuál es la altura del edificio?",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Rivera de Utuado, Mariana resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "24 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "48 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "D",
+          "text": "6 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{6}{12} = \\frac{h}{24} \\implies \\frac{1}{2} = \\frac{h}{24} \\implies h = 12$ metros.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v17",
+      "statement": "Un poste de 2 metros de altura proyecta una sombra de 4 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Carolina, Mariana analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ana Roque de Duprey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "B",
+          "text": "2 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "C",
+          "text": "36 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "D",
+          "text": "9 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{2}{4} = \\frac{h}{18} \\implies \\frac{1}{2} = \\frac{h}{18} \\implies h = 9$ metros.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v18",
+      "statement": "Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?",
+      "context": "Un grupo de estudiantes de la Escuela Superior Margarita Janer Palacios en Guaynabo realiza una investigación guiada por Valentina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "60 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{4}{8} = \\frac{h}{30} \\implies \\frac{1}{2} = \\frac{h}{30} \\implies h = 15$ metros.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v19",
+      "statement": "Un poste de 3 metros de altura proyecta una sombra de 6 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?",
+      "context": "En Arecibo, Sofía diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Luis Muñoz Marín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        },
+        {
+          "letter": "B",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "3 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "44 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{3}{6} = \\frac{h}{22} \\implies \\frac{1}{2} = \\frac{h}{22} \\implies h = 11$ metros.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v20",
+      "statement": "Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?",
+      "context": "Como parte de las olimpiades científicas en Aguadilla, Carlos aplica conceptos algebraicos en la Escuela Superior Juan Suárez Pelegrina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la sombra, no la altura."
+        },
+        {
+          "letter": "B",
+          "text": "36 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura sobredimensionada."
+        },
+        {
+          "letter": "C",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altura del poste."
+        },
+        {
+          "letter": "D",
+          "text": "9 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza de triángulos, la relación es constante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\\frac{\\text{altura poste}}{\\text{sombra poste}} = \\frac{\\text{altura edificio}}{\\text{sombra edificio}} \\implies \\frac{5}{10} = \\frac{h}{18} \\implies \\frac{1}{2} = \\frac{h}{18} \\implies h = 9$ metros.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

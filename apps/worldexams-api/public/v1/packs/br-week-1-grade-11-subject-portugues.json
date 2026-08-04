@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "portugues",
+    "country": "br",
+    "pack_id": "br-week-1-grade-11-subject-portugues",
+    "generated_at": "2026-07-29T05:11:46.044Z"
+  },
+  "questions": [
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "Qual função da linguagem é caracterizada pelo foco no canal de comunicação, tendo como objetivo principal estabelecer, prolongar ou interromper o contato entre o emissor e o receptor?",
+      "context": "Um jornalista de Porto Alegre escreve um editorial analisando as novas medidas de mobilidade urbana da cidade.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Função Referencial.",
+          "is_correct": false,
+          "feedback": "Incorreto. A função referencial foca no referente (contexto/informação), buscando transmitir dados objetivos."
+        },
+        {
+          "letter": "B",
+          "text": "Função Apelativa.",
+          "is_correct": false,
+          "feedback": "Incorreto. A função apelativa ou conativa foca no receptor, buscando influenciar seu comportamento."
+        },
+        {
+          "letter": "C",
+          "text": "Função Fática.",
+          "is_correct": true,
+          "feedback": "Correto! A função fática foca no canal, testando sua eficiência ou iniciando/mantendo a interação."
+        },
+        {
+          "letter": "D",
+          "text": "Função Poética.",
+          "is_correct": false,
+          "feedback": "Incorreto. A função poética foca na mensagem, estruturando o texto de maneira estética e expressiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função fática tem como objetivo testar o canal de comunicação, garantindo que a transmissão da mensagem ocorra sem interferências e que o contato seja estabelecido ou mantido.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "Assinale a alternativa que indica corretamente o elemento da comunicação no qual a Função Metalinguística se centraliza:",
+      "context": "Um estudante de Salvador prepara um resumo de gramática para revisar os conceitos de comunicação para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emissor.",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco no emissor caracteriza a função emotiva ou expressiva."
+        },
+        {
+          "letter": "B",
+          "text": "Mensagem.",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco na mensagem caracteriza a função poética."
+        },
+        {
+          "letter": "C",
+          "text": "Código.",
+          "is_correct": true,
+          "feedback": "Correto! A função metalinguística ocorre quando o código (a língua) é usado para explicar o próprio código."
+        },
+        {
+          "letter": "D",
+          "text": "Receptor.",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco no receptor caracteriza a função conativa ou apelativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função metalinguística se refere ao uso do código linguístico para falar de si mesmo. Um exemplo clássico são os dicionários ou gramáticas, onde o português explica termos do próprio português.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "No áudio, a jovem diz: \"Eu estou tão feliz que meu coração parece que vai explodir de tanta alegria!\". Qual é a função da linguagem que predomina nesse enunciado e qual é a justificativa teórica correta para essa classificação?",
+      "context": "Uma jovem de Curitiba envia um áudio para sua amiga expressando sua grande emoção após receber uma carta de aceitação acadêmica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Função Referencial, pois relata de forma objetiva um evento biológico de batimento cardíaco acelerado.",
+          "is_correct": false,
+          "feedback": "Incorreto. A fala é metafórica e carrega intensa subjetividade, não sendo um relato médico objetivo."
+        },
+        {
+          "letter": "B",
+          "text": "Função Emotiva, pois o foco está no emissor que expressa seus sentimentos, opiniões e estados de espírito subjetivos de forma direta.",
+          "is_correct": true,
+          "feedback": "Correto! A forte carga emocional, o uso da primeira pessoa (\"eu\", \"meu\") e o tom exclamativo caracterizam a função emotiva."
+        },
+        {
+          "letter": "C",
+          "text": "Função Apelativa, uma vez que busca convencer a amiga a compartilhar da mesma sensação imediatamente.",
+          "is_correct": false,
+          "feedback": "Incorreto. A fala expressa o estado interno do emissor e não uma ordem ou apelo para que o receptor tome uma ação."
+        },
+        {
+          "letter": "D",
+          "text": "Função Metalinguística, visto que utiliza termos da língua para descrever o significado da palavra \"felicidade\".",
+          "is_correct": false,
+          "feedback": "Incorreto. Não há explicação de termos ou do código linguístico em si, apenas expressão de afeto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A função emotiva (ou expressiva) ocorre quando o ato comunicativo se centra no próprio emissor, exteriorizando sentimentos pessoais, emoções e estados de espírito por meio de interjeições, exclamações e primeira pessoa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "Considerando os propósitos da campanha, identifique a função de linguagem que predomina nessa publicidade e seu elemento-chave correspondente:",
+      "context": "Um outdoor instalado na Rodovia Castello Branco, em São Paulo, exibe uma campanha de trânsito com a seguinte frase: \"Não dirija sob o efeito de álcool. Proteja a sua família!\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Função Fática, voltada para manter o canal de comunicação ativo durante o percurso rodoviário.",
+          "is_correct": false,
+          "feedback": "Incorreto. A frase não testa o canal, mas faz um apelo explícito ao leitor."
+        },
+        {
+          "letter": "B",
+          "text": "Função Apelativa (ou Conativa), centrada no receptor, com o uso de verbos no imperativo para influenciar seu comportamento.",
+          "is_correct": true,
+          "feedback": "Correto! Os verbos \"Não dirija\" e \"Proteja\" buscam persuadir o leitor (receptor) a adotar uma conduta prudente."
+        },
+        {
+          "letter": "C",
+          "text": "Função Referencial, pois fornece dados estatísticos exatos sobre os acidentes nas rodovias paulistas.",
+          "is_correct": false,
+          "feedback": "Incorreto. Não há dados estatísticos ou fatos informativos puros na mensagem, mas sim um comando imperativo."
+        },
+        {
+          "letter": "D",
+          "text": "Função Poética, pois foca na sonoridade lírica e na estrutura métrica das rimas do slogan de segurança.",
+          "is_correct": false,
+          "feedback": "Incorreto. O texto prioriza o apelo persuasivo direto, não a construção estética elaborada das rimas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A função apelativa ou conativa tem como objetivo principal persuadir, ordenar ou influenciar o comportamento do receptor da mensagem. É comum o uso de pronomes de segunda pessoa (\"sua\") e verbos no imperativo (\"dirija\", \"proteja\").",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "\"As baterias de sódio armazenam energia por meio de reações químicas reversíveis de intercalação de íons. Elas apresentam menor densidade energética que as de lítio, porém seu custo de produção é reduzido em até 40%.\"\nNesse parágrafo, predomina a função da linguagem:",
+      "context": "Um artigo de divulgação científica publicado em uma revista de Campinas detalha o funcionamento das novas baterias de íon de sódio de baixo custo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Referencial, pois foca na transmissão de informações de forma objetiva, impessoal e precisa sobre o objeto real.",
+          "is_correct": true,
+          "feedback": "Correto! O texto é informativo, utiliza terceira pessoa, linguagem denotativa e foca na descrição científica objetiva."
+        },
+        {
+          "letter": "B",
+          "text": "Metalinguística, porque utiliza termos químicos difíceis que definem a gramática da ciência aplicada.",
+          "is_correct": false,
+          "feedback": "Incorreto. O fato de usar termos químicos não significa que o foco do texto seja explicar a própria língua ou código."
+        },
+        {
+          "letter": "C",
+          "text": "Fática, com o intuito de estabelecer uma conexão descontraída e informal com o leitor iniciante da revista.",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco não é testar o canal ou saudar o leitor, mas expor conhecimentos científicos."
+        },
+        {
+          "letter": "D",
+          "text": "Emotiva, visto que demonstra o entusiasmo apaixonado dos cientistas pelo avanço sustentável da tecnologia.",
+          "is_correct": false,
+          "feedback": "Incorreto. O texto é estritamente impessoal e neutro, sem marcas de sentimentos ou opiniões pessoais do autor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A função referencial (ou denotativa/informativa) centra-se no referente (contexto). Ela se caracteriza pela objetividade, impessoalidade, foco na informação real e pelo uso predominante da linguagem em sentido denotativo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "\"O sol deitava-se devagar sobre as montanhas mineiras, costurando fios de ouro na poeira vermelha da tarde fria.\"\nNesse trecho poético do romance, a função da linguagem que se sobrepõe é a:",
+      "context": "Em um romance ambientado em Belo Horizonte, o narrador descreve minuciosamente o entardecer sobre a Serra do Curral utilizando metáforas e jogos de palavras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Função Referencial, pois descreve as coordenadas exatas da posição solar em relação à serra mineira.",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco é a beleza e expressividade poética da imagem solar, não dados astronômicos precisos."
+        },
+        {
+          "letter": "B",
+          "text": "Função Fática, já que busca chamar a atenção do leitor para que continue acompanhando a narrativa ficcional.",
+          "is_correct": false,
+          "feedback": "Incorreto. O fragmento foca na estética da construção lírica e não em testar o canal de comunicação física."
+        },
+        {
+          "letter": "C",
+          "text": "Função Poética, visto que a mensagem é elaborada de modo estético, valorizando a seleção de palavras e as figuras de linguagem.",
+          "is_correct": true,
+          "feedback": "Correto! O uso de metáforas (\"costurando fios de ouro\") e a riqueza rítmica e sensorial colocam a mensagem em primeiro plano."
+        },
+        {
+          "letter": "D",
+          "text": "Função Emotiva, pois expressa cientificamente a melancolia do autor diante das mudanças climáticas regionais.",
+          "is_correct": false,
+          "feedback": "Incorreto. Embora carregue sensibilidade, a estrutura da linguagem figurada foca na criação de um objeto estético (a própria mensagem)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função poética manifesta-se quando a atenção está voltada para a própria mensagem, ou seja, para a seleção, arranjo e elaboração das palavras, criando efeitos de sentido estéticos e conotativos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "Assinale a alternativa que explica corretamente o papel dos elementos comunicativos e a função da linguagem na fala do cliente:",
+      "context": "Durante uma ligação de suporte de internet em Recife, o cliente diz à atendente: \"Alô? Oi? Você consegue me ouvir ou a ligação caiu?\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O cliente usa a função conativa para dar uma ordem imperativa de que a internet seja restabelecida na hora.",
+          "is_correct": false,
+          "feedback": "Incorreto. Ele está apenas tentando confirmar se a outra pessoa está na linha e ouvindo sua voz."
+        },
+        {
+          "letter": "B",
+          "text": "O cliente aplica a função metalingüística para discutir o significado técnico da palavra \"ligação\".",
+          "is_correct": false,
+          "feedback": "Incorreto. Ele não está definindo termos de comunicação ou conceitos gramaticais."
+        },
+        {
+          "letter": "C",
+          "text": "O cliente recorre à função fática para verificar se o canal de transmissão físico ainda está ativo e funcional.",
+          "is_correct": true,
+          "feedback": "Correto! Termos como \"Alô?\", \"Oi?\" e \"Você consegue me ouvir?\" servem especificamente para testar o canal de voz."
+        },
+        {
+          "letter": "D",
+          "text": "O cliente emprega a função referencial para apresentar um boletim técnico detalhado do sinal da operadora.",
+          "is_correct": false,
+          "feedback": "Incorreto. Ele não passa informações objetivas, apenas pergunta se o contato telefônico foi interrompido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função fática foca no canal. Na fala coloquial diária, expressões como saudações, interrupções e pedidos de confirmação de escuta servem apenas para certificar que o meio de comunicação está funcionando.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "\"O cordel é poesia, / escrita para cantar, / folheto que no barbante / fica exposto pro olhar.\"\nNesse verso, observa-se uma rica interseção entre duas funções da linguagem. Quais são elas e qual é o argumento correto para essa dupla classificação?",
+      "context": "Em uma palestra no Recife sobre literatura de cordel, o palestrante recita um folheto tradicional que explica os próprios termos do gênero poético do Nordeste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fática e Conativa, pois busca testar a voz do palestrante e ordenar que o público compre os folhetos pendurados.",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco não é testar o canal ou ordenar uma compra, mas definir o gênero do cordel por meio da poesia."
+        },
+        {
+          "letter": "B",
+          "text": "Referencial e Emotiva, visto que faz um registro estatístico dos cordéis e expressa a tristeza pessoal do poeta.",
+          "is_correct": false,
+          "feedback": "Incorreto. O poema define o termo de forma poética, não sendo uma notícia objetiva ou desabafo melancólico."
+        },
+        {
+          "letter": "C",
+          "text": "Poética e Metalingüística, pois o texto possui uma elaboração artística em versos e usa essa estrutura poética para definir o próprio cordel.",
+          "is_correct": true,
+          "feedback": "Correto! Há função poética pela estrutura rimada e estética, e metalinguística porque o poema explica o que é o próprio gênero \"cordel\"."
+        },
+        {
+          "letter": "D",
+          "text": "Emotiva e Apelativa, porque expõe as dores d'alma do retirante sertanejo e impõe um comportamento ao leitor.",
+          "is_correct": false,
+          "feedback": "Incorreto. Embora haja beleza lírica, o tema central é a própria definição formal e física do suporte do cordel."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "As funções da linguagem raramente ocorrem isoladas. No cordel citado, a função metalinguística está presente na autodefinição do gênero (\"O cordel é...\"), enquanto a função poética cuida da forma métrica, das rimas e do ritmo estético do próprio enunciado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "A análise estilística e pragmática do anúncio acima permite concluir que a marca utiliza de forma estratégica:",
+      "context": "Um anúncio publicitário de uma montadora em São José dos Campos destaca: \"Compre o novo SUV híbrido e sinta a verdadeira liberdade sustentável em cada quilômetro!\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A função metalinguística para ensinar o cliente a ler as especificações técnicas detalhadas no manual do proprietário.",
+          "is_correct": false,
+          "feedback": "Incorreto. O slogan publicitário não funciona como manual ou glossário explicativo das palavras da língua."
+        },
+        {
+          "letter": "B",
+          "text": "A função apelativa (uso de imperativos como \"Compre\", \"sinta\") aliada à função poética (relação metafórica entre \"híbrido\" e \"liberdade\").",
+          "is_correct": true,
+          "feedback": "Correto! O foco principal é convencer o receptor a comprar (apelativa), usando recursos estéticos persuasivos e sedutores (poética)."
+        },
+        {
+          "letter": "C",
+          "text": "A função emotiva pura, centrada nas lamentações íntimas do fabricante sobre o aquecimento global das grandes cidades.",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco não é o desabafo do emissor, mas a persuasão do consumidor final para a compra de um carro."
+        },
+        {
+          "letter": "D",
+          "text": "A função referencial exclusiva, fornecendo dados técnicos e o preço exato das parcelas de financiamento do veículo.",
+          "is_correct": false,
+          "feedback": "Incorreto. O slogan apela à emoção subjetiva e desejo de liberdade, o que destoa de um texto informativo técnico neutro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A publicidade combina frequentemente a função apelativa (persuasão para compra) com a função poética (mensagens criativas, ritmadas, com analogias subjetivas), buscando gerar conexões sentimentais positivas em torno da marca.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "Nessa postagem pessoal, as duas funções de linguagem que agem de maneira integrada são:",
+      "context": "Uma jovem de Florianópolis atualiza seu status nas redes sociais com a frase: \"Às vezes, o silêncio grita coisas que o peito não consegue mais guardar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metalinguística e Referencial, pois o silêncio é definido gramaticalmente de forma factual para o dicionário público.",
+          "is_correct": false,
+          "feedback": "Incorreto. Não se define o termo lexicograficamente, mas sim expressa-se uma metáfora subjetiva."
+        },
+        {
+          "letter": "B",
+          "text": "Emotiva e Poética, pois expressa um estado interno de aflição pessoal (emotiva) usando uma linguagem figurada e expressiva (poética).",
+          "is_correct": true,
+          "feedback": "Correto! A postagem é um desabafo íntimo em primeira pessoa implícita (\"o peito [meu] não consegue\") construído sobre uma antítese poética (\"silêncio grita\")."
+        },
+        {
+          "letter": "C",
+          "text": "Conativa e Fática, já que busca ditar o comportamento dos seguidores e testar a conexão estável dos servidores da rede.",
+          "is_correct": false,
+          "feedback": "Incorreto. Não há imperativos com comandos aos leitores ou testes instrumentais de sinal de rede no enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Referencial e Fática, pois reporta com precisão científica os decibéis da ausência de som no quarto da jovem.",
+          "is_correct": false,
+          "feedback": "Incorreto. É um texto lírico e subjetivo, longe do rigor acadêmico de medição sonora referencial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Status pessoais de redes sociais carregam uma expressiva função emotiva (subjetividade do eu) que é frequentemente potencializada pela função poética (uso de figuras de linguagem como a personificação do silêncio).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "\"As telas exibem traços geométricos rígidos que parecem fraturar a realidade em mil pedaços cinzentos, desafiando a perspectiva clássica.\"\nAssinale a opção que indica a função de linguagem que se destaca na construção dessa resenha crítica e seu respectivo elemento norteador:",
+      "context": "Um renomado crítico de arte de Belo Horizonte redige uma resenha sobre a exposição de quadros cubistas que acaba de abrir no Circuito Liberdade.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Função Fática, pois busca constatar o canal visual de observação do museu pelo público.",
+          "is_correct": false,
+          "feedback": "Incorreto. A resenha analisa aspectos estéticos e conceituais dos quadros, não o canal físico de recepção visual."
+        },
+        {
+          "letter": "B",
+          "text": "Função Apelativa, pois o crítico emite comandos diretos para o leitor visitar a exposição no Circuito Liberdade.",
+          "is_correct": false,
+          "feedback": "Incorreto. Embora possa influenciar o leitor, a frase descrita foca na análise poética das telas em si."
+        },
+        {
+          "letter": "C",
+          "text": "Função Poética, devido à elaboração artística do comentário do crítico, construindo belas metáforas para explicar as obras.",
+          "is_correct": true,
+          "feedback": "Correto! O crítico elabora esteticamente seu texto (\"fraturar a realidade em mil pedaços cinzentos\") para descrever outra obra de arte."
+        },
+        {
+          "letter": "D",
+          "text": "Função Metalinguística, pois foca na explicação morfológica de cada vocábulo utilizado para nomear as cores primárias.",
+          "is_correct": false,
+          "feedback": "Incorreto. O crítico não analisa a gramática das palavras em si, mas sim os efeitos estéticos das pinturas descritas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mesmo em resenhas críticas, a linguagem pode assumir forte função poética quando o autor elabora o estilo do seu próprio texto com recursos líricos e sensoriais para evocar a atmosfera das obras de arte analisadas.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "\"Atenção, motoristas! Evitem o trecho sul da Marginal Pinheiros devido a um grave engarrafamento provocado pelo tombamento de uma carreta carregada de areia.\"\nNesse alerta de trânsito, as funções linguísticas que atuam de forma dominante e coadjuvante são, respectivamente:",
+      "context": "No rádio de um táxi que cruza a Avenida Paulista, em São Paulo, o locutor interrompe a programação musical para fazer um alerta urgente aos motoristas da capital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Função Poética (dominante) e Função Fática (coadjuvante).",
+          "is_correct": false,
+          "feedback": "Incorreto. O alerta de trânsito não prioriza a elaboração estética ou lírica, mas sim o apelo de segurança."
+        },
+        {
+          "letter": "B",
+          "text": "Função Apelativa ou Conativa (dominante) e Função Referencial (coadjuvante).",
+          "is_correct": true,
+          "feedback": "Correto! O locutor busca orientar a ação imediata do motorista (\"Evitem\", \"Atenção\") embasado em uma informação factual (o engarrafamento na Marginal Pinheiros)."
+        },
+        {
+          "letter": "C",
+          "text": "Função Metalinguística (dominante) e Função Emotiva (coadjuvante).",
+          "is_correct": false,
+          "feedback": "Incorreto. Não se define gramática nem se relatam os sentimentos subjetivos dolorosos do taxista ou do locutor."
+        },
+        {
+          "letter": "D",
+          "text": "Função Fática (dominante) e Função Poética (coadjuvante).",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco central é influenciar a rota de trânsito dos condutores e não testar o rádio ou criar poesias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em alertas de utilidade pública, a função conativa (apelativa) se manifesta como dominante, pois o objetivo primeiro é ordenar uma ação coletiva (\"Evitem o trecho\"). A função referencial dá suporte, trazendo os dados concretos do contexto que justificam essa ordem de desvio de tráfego.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "\"voseio (substantivo masculino): Emprego do pronome pessoal 'vós' ou das formas verbais correspondentes em substituição ao pronome 'tu' ou 'você' em determinadas variantes do espanhol e do português.\"\nConsiderando a estrutura desse verbete, analise a afirmação correta sobre a organização da linguagem:",
+      "context": "Um renomado dicionário eletrônico de Língua Portuguesa registra o seguinte verbete para a palavra \"voseo\" (voseio):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O texto foca na função expressiva, registrando o carinho linguístico do autor pelas variações linguísticas do Cone Sul.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tom do verbete é neutro e impessoal, sem marcas subjetivas de afeição ou preferências pessoais."
+        },
+        {
+          "letter": "B",
+          "text": "Predomina a função metalinguística de forma absoluta, pois utiliza a língua portuguesa estruturada em uma definição para explicar um fenômeno gramatical do próprio idioma.",
+          "is_correct": true,
+          "feedback": "Correto! Trata-se da clássica metalinguagem de dicionários, na qual a linguagem analisa o funcionamento da própria língua."
+        },
+        {
+          "letter": "C",
+          "text": "A função poética se sobrepõe, haja vista a cuidadosa métrica rítmica das definições dos dicionários acadêmicos modernos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O foco do verbete é informar com clareza conceitual e exatidão semântica, sem uso conotativo ou artístico de palavras."
+        },
+        {
+          "letter": "D",
+          "text": "Trata-se de um exemplo claro de função fática, pois busca abrir um canal interativo e descontraído com o consulente do site.",
+          "is_correct": false,
+          "feedback": "Incorreto. O dicionário é conceitual e formal, não servindo apenas para testar a conexão técnica da página web do usuário."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A metalinguagem é a propriedade que permite ao código descrever as próprias características do código. Verbetes de dicionário, explicações gramaticais e ensaios linguísticos são os exemplos mais puros dessa função.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "Nesse conhecido poema-manifesto do Modernismo brasileiro, as funções da linguagem travam uma complexa relação dialética. Pode-se afirmar com propriedade que o poeta:",
+      "context": "Leia o famoso poema de Manuel Bandeira intitulado \"Poética\": \"Estou farto do lirismo comedido / Do lirismo bem-comportado / Do lirismo funcionário público com livro de ponto expediente protocolo e manifestações de apreço ao sr. diretor.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utiliza a função fática para verificar se o público das vanguardas estéticas ainda o lê com atenção sincera.",
+          "is_correct": false,
+          "feedback": "Incorreto. O poema discute estética artística e não os limites técnicos do suporte impresso do livro de poesia."
+        },
+        {
+          "letter": "B",
+          "text": "Apoia-se na função referencial neutra para elencar de forma documental a rotina de trabalho das repartições paulistas.",
+          "is_correct": false,
+          "feedback": "Incorreto. A crítica é irônica e usa metáforas subjetivas contra a poesia parnasiana, distanciando-se de um relatório neutro."
+        },
+        {
+          "letter": "C",
+          "text": "Constrói um texto estético (função poética) em que debate e define o fazer poético desejado (função metalinguística) e desabafa sua indignação (função emotiva).",
+          "is_correct": true,
+          "feedback": "Correto! O poema é artístico (poética), discute de forma irônica a própria criação literária (metalinguagem) e expressa o cansaço do eu lírico (\"Estou farto\" - emotiva)."
+        },
+        {
+          "letter": "D",
+          "text": "Aplica a função conativa de modo exclusivo para impor que o leitor mude suas leituras imediatamente.",
+          "is_correct": false,
+          "feedback": "Incorreto. Não se limita a comandos imperativos imperiosos ao receptor, mas elabora uma forte autocrítica estética nacional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A literatura modernista frequentemente reúne as funções poética, metalinguística e emotiva. O autor faz poesia para falar sobre as regras da própria poesia, rompendo padrões antigos e expressando sua revolta de forma densa e criativa.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "\"Nós dizemos 'tudo bem?' sem esperar que o outro de fato desabe a contar suas dores. O 'tudo bem' é apenas uma chave de fenda que enfiamos na engrenagem do cotidiano para lubrificar as engrenagens da convivência social.\"\nCom base na crônica, analise a finalidade pragmática do \"tudo bem?\" e aponte a função de linguagem que sustenta essa reflexão:",
+      "context": "Uma crônica escrita por um cronista gaúcho contemporâneo reflete sobre o papel das saudações nas interações humanas diárias na cidade de Pelotas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Função Referencial, pois serve para coletar dados médicos reais do interlocutor gaúcho na rua.",
+          "is_correct": false,
+          "feedback": "Incorreto. Como o próprio cronista diz, não se espera que o outro relate dados de saúde factual de verdade na conversa."
+        },
+        {
+          "letter": "B",
+          "text": "Função Apelativa, pois dita uma ordem imperativa de que o interlocutor se sinta alegre e produtivo no trabalho.",
+          "is_correct": false,
+          "feedback": "Incorreto. É um cumprimento rotineiro de polidez e não um comando autoritário ou conselho diretivo direto."
+        },
+        {
+          "letter": "C",
+          "text": "Função Fática, pois o cumprimento serve essencialmente para iniciar o canal de contato social e demonstrar respeito mútuo.",
+          "is_correct": true,
+          "feedback": "Correto! O \"tudo bem?\" de passagem foca no canal comunicativo-social, estabelecendo e abrindo o contato com o outro de forma polida."
+        },
+        {
+          "letter": "D",
+          "text": "Função Poética, visto que busca criar efeitos líricos elevados por meio do ritmo musical das vogais da saudação.",
+          "is_correct": false,
+          "feedback": "Incorreto. Embora o cronista escreva belas metáforas na crônica, a fala \"tudo bem?\" em si é puramente instrumental fática."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A faticidade da linguagem é essencial para as convenções sociais de aproximação. Fórmulas de cortesia como \"Bom dia!\", \"Tudo bem?\", \"Até logo!\" atuam para certificar a disposição comunicativa dos agentes sociais, lubrificando as relações cotidianas antes ou sem a necessidade de passagem de conteúdo relevante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "\"Os emojis frequentemente reforçam o tom irônico da mensagem, servindo como marcadores de sentimentos que as palavras sozinhas poderiam deixar ambíguos.\"\nAnalisando esse uso dos emojis sob a ótica das funções da linguagem, conclui-se que esses símbolos visuais desempenham um importante papel nas funções:",
+      "context": "Um linguista da Unicamp estuda o uso de emojis em mensagens instantâneas enviadas por jovens de Campinas durante as conversas por celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emotiva e Fática, pois exteriorizam o estado emocional do emissor de forma explícita e ajudam a manter a interatividade viva e ágil no canal escrito.",
+          "is_correct": true,
+          "feedback": "Correto! Os emojis expressam sentimentos (emotiva) e ajudam a sinalizar engajamento visual na conversa rápida pelo chat (fática)."
+        },
+        {
+          "letter": "B",
+          "text": "Referencial e Metalinguística, haja vista que servem exclusivamente para catalogar fatos da natureza de forma estritamente impessoal e científica.",
+          "is_correct": false,
+          "feedback": "Incorreto. Emojis são expressivos e cheios de carga afetiva subjetiva, longe do rigor impessoal das tabelas denotativas científicas."
+        },
+        {
+          "letter": "C",
+          "text": "Conativa e Poética pura de rimas, pois forçam o receptor a comprar aplicativos de imagens e estruturam versos métricos decassílabos no WhatsApp.",
+          "is_correct": false,
+          "feedback": "Incorreto. Não criam métricas líricas fixas clássicas no chat nem servem para a coerção mercadológica direta imediata de compra."
+        },
+        {
+          "letter": "D",
+          "text": "Apenas Metalinguística, visto que são definições lexicais idênticas às dos dicionários tradicionais do vernáculo formal escrito.",
+          "is_correct": false,
+          "feedback": "Incorreto. Os emojis não agem como glossários rígidos de gramática normativa; eles matizam as nuances emocionais e sociais cotidianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Emojis na escrita digital cumprem a função emotiva de marcar as pistas não-verbais de entonação e afeto do emissor que seriam perdidas no texto plano. Também dinamizam a função fática, mantendo o fluxo da interação eletrônica dinâmico e amigável.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Avalie criticamente a fala do candidato e determine as funções da linguagem que se sobrepõem e colidem nesse ato de fala polêmico:",
+      "context": "Durante um inflamado debate eleitoral de TV em São Paulo, um candidato interrompe o outro e aponta o dedo indicador afirmando: \"A verdade é que as suas propostas econômicas são uma verdadeira ilusão matemática, um desastre irresponsável que vai quebrar o nosso estado!\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Função Referencial pura, pois as palavras apresentam cálculos econômicos factuais objetivos sobre o orçamento público de forma denotativa neutra.",
+          "is_correct": false,
+          "feedback": "Incorreto. A fala é agressiva, subjetiva (\"ilusão matemática\", \"desastre\") e não apresenta dados precisos ou relatórios neutros."
+        },
+        {
+          "letter": "B",
+          "text": "Função Fática dominante, visto que o candidato busca amigavelmente assegurar que o oponente o ouça e concorde com sua tese educadamente.",
+          "is_correct": false,
+          "feedback": "Incorreto. Não é um teste neutro de microfone, mas sim um ataque político hostil que visa constranger o oponente."
+        },
+        {
+          "letter": "C",
+          "text": "Função Emotiva (expressão de forte indignação e repúdio subjetivo do emissor) entrelaçada com a Função Conativa/Apelativa (persuadir o telespectador receptor contra o oponente).",
+          "is_correct": true,
+          "feedback": "Correto! A fala carrega intensa emoção pessoal (\"desastre\", \"ilusão\") para impressionar e moldar o voto da audiência (receptor)."
+        },
+        {
+          "letter": "D",
+          "text": "Função Metalinguística, porque o político se preocupa em explicar didaticamente a etimologia grega do termo \"economia\".",
+          "is_correct": false,
+          "feedback": "Incorreto. Não há explicação gramatical do vocábulo no enunciado, mas sim uma crítica de conteúdo político inflamado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Discursos políticos e debates unem a função emotiva (subjetividade indignada ou apaixonada do orador) à função apelativa ou conativa (persuadir os eleitores a adotarem determinado ponto de vista ou voto). O tom enfático, os adjetivos de forte impacto e o foco no convencimento moldam essa dinâmica pragmática.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "\"As manchetes 'caça-cliques' modernas sacrificam a precisão da informação sob o altar do sensacionalismo estético e emocional, vendendo mistérios vagos para forçar o leitor a clicar no link.\"\nCom base nessa análise, avalie qual distorção das funções da linguagem ocorre nesse fenômeno da imprensa digital contemporânea:",
+      "context": "Um artigo de opinião publicado em um jornal de Curitiba avalia de forma rigorosa as manchetes sensacionalistas de portais de notícias modernos da internet brasileira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocorre uma supervalorização da função metalinguística em prejuízo dos verbetes mais simples e comuns da língua portuguesa tradicional.",
+          "is_correct": false,
+          "feedback": "Incorreto. O jornalismo de cliques rápidos não foca em explicar didaticamente as regras da gramática ou dicionários."
+        },
+        {
+          "letter": "B",
+          "text": "Ocorre o predomínio virtuoso da função fática que estreita os laços amigáveis e científicos do leitor com os donos de jornais.",
+          "is_correct": false,
+          "feedback": "Incorreto. Trata-se de uma distorção financeira de audiência de rede e não de uma polidez social de respeito mútuo."
+        },
+        {
+          "letter": "C",
+          "text": "A função referencial (transmissão objetiva dos fatos) é enfraquecida e mascarada em favor de uma função conativa disfarçada (seduzir o leitor para obter a ação do clique).",
+          "is_correct": true,
+          "feedback": "Correto! O foco deixa de ser informar os fatos com precisão de dados (referencial) e passa a ser a manipulação da atenção do leitor para clicar (conativa)."
+        },
+        {
+          "letter": "D",
+          "text": "Há o predomínio absoluto da função poética clássica das vanguardas estéticas modernistas do início do século XX na internet.",
+          "is_correct": false,
+          "feedback": "Incorreto. A elaboração das manchetes de fofocas não possui fins artísticos literários de alta complexidade estética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "As manchetes \"caça-cliques\" (clickbait) representam uma quebra da ética jornalística ao usar recursos apelativos e sensacionalistas para forçar o clique do usuário (ação do receptor - conativa). A função referencial (informativa) é relegada a segundo plano ou distorcida para criar suspense artificial.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "\"Jakobson assevera que a estrutura do texto é definida pela hierarquia interna de suas funções. Em um manifesto estético, a função poética se sobrepõe, mas é dinamizada pelo embate contínuo com as outras funções.\"\nConsiderando essa perspectiva teórica jakobsoniana, avalie a afirmação correta sobre a convivência de múltiplas funções da linguagem em um mesmo texto artístico:",
+      "context": "Em um ensaio acadêmico da USP sobre a Teoria da Comunicação de Roman Jakobson, discute-se o conceito da \"função dominante\" em manifestos artísticos e literários.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Um texto poético ou lírico de alta qualidade não pode abrigar outras funções de linguagem secundárias sob pena de perder sua pureza lírica absoluta.",
+          "is_correct": false,
+          "feedback": "Incorreto. Jakobson deixa claro que as funções convivem em simbiose hierárquica; o que define o texto é apenas a função que domina."
+        },
+        {
+          "letter": "B",
+          "text": "A coexistência de múltiplas funções enriquece o texto literário; a função poética domina o arranjo das palavras, mas pode valer-se da emotiva e metalinguística de forma integrada.",
+          "is_correct": true,
+          "feedback": "Correto! As funções coexistem hierarquicamente e se enriquecem mutuamente nos gêneros híbridos."
+        },
+        {
+          "letter": "C",
+          "text": "As funções da linguagem se anulam de forma agressiva e caótica na literatura, gerando textos confusos e ininteligíveis para os leitores.",
+          "is_correct": false,
+          "feedback": "Incorreto. A hierarquização organiza a leitura e enriquece a interpretação, não gerando caos ou anulação mútua."
+        },
+        {
+          "letter": "D",
+          "text": "A função referencial neutra impede que qualquer texto literário possua mérito artístico se houver descrição de fatos históricos reais.",
+          "is_correct": false,
+          "feedback": "Incorreto. Romances históricos realistas mesclam dados do contexto (referencial) com arte literária expressiva de alto valor poético."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Roman Jakobson destaca que as mensagens dificilmente servem a apenas uma única função. A riqueza de um texto artístico reside na sua multifuncionalidade, na qual a função poética exerce a liderança estética (dominante) sem silenciar os apelos secundários (emotivo, metalinguístico, referencial).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "A campanha gerou grande debate linguístico e social. Avalie as implicações pragmáticas da escolha dessa linguagem em relação às funções da linguagem e seus respectivos efeitos de recepção pública:",
+      "context": "Um analista de mídias de São Paulo avalia uma polêmica campanha publicitária institucional que utilizou linguagem neutra em um anúncio oficial voltado ao público corporativo paulista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A adoção de linguagem inovadora cumpre apenas a função fática de testar a qualidade física de impressão das letras nos jornais corporativos paulistas.",
+          "is_correct": false,
+          "feedback": "Incorreto. O debate gerado foi de cunho social, identitário e político, extrapolando de longe testes físicos instrumentais de impressão de tinta."
+        },
+        {
+          "letter": "B",
+          "text": "A escolha tensiona a função metalinguística (propõe novas marcas morfológicas ao código) gerando polêmica conativa/apelativa de acordo com a adesão ou rejeição ideológica do receptor.",
+          "is_correct": true,
+          "feedback": "Correto! Ao propor modificações morfológicas ao próprio código (metalinguagem), a peça publicitária desencadeia reações apaixonadas ou de repúdio do receptor (conativa/apelativa)."
+        },
+        {
+          "letter": "C",
+          "text": "A linguagem alternativa anula por completo a função emotiva dos emissores que escreveram as peças corporativas.",
+          "is_correct": false,
+          "feedback": "Incorreto. Pelo contrário, as peças revelam o forte desejo subjetivo de inclusão identitária por parte de quem as cria (função emotiva)."
+        },
+        {
+          "letter": "D",
+          "text": "Trata-se de uma estratégia de função poética clássica, pois os neologismos gerados possuem idêntica sonoridade aos poemas árcades do século XVIII.",
+          "is_correct": false,
+          "feedback": "Incorreto. A motivação da linguagem neutra é sociopolítica e identitária moderna, sem conexão com os padrões formais árcades neoclássicos do século dezoito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ao propor modificações morfológicas ou sintáticas inovadoras à estrutura linguística (metalinguagem), o emissor de uma campanha publicitária interfere no repertório compartilhado do código comum. Essa decisão pragmática desencadeia fortes reações emotivas e conativas do público receptor, oscilando entre o apoio irrestrito e a rejeição categórica por questões culturais e sociopolíticas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-POR-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}

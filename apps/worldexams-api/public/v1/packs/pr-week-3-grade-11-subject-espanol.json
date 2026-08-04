@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "espanol",
+    "country": "pr",
+    "pack_id": "pr-week-3-grade-11-subject-espanol",
+    "generated_at": "2026-07-29T05:14:35.341Z"
+  },
+  "questions": [
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes conectores adversativos completa el espacio en blanco de forma semánticamente CORRECTA para introducir el contraste sobre la contaminación?",
+      "context": "Un estudiante redacta un reporte sobre la bahía bioluminiscente de Mosquito en Vieques. Escribe: \"La bahía brilla intensamente por la noche debido a unos microorganismos dinoflagelados; ________, la contaminación lumínica de los comercios cercanos amenaza con apagar este espectáculo natural\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "por consiguiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduciría una consecuencia directa del brillo, lo cual contradice el sentido negativo de la contaminación."
+        },
+        {
+          "letter": "B",
+          "text": "además",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector aditivo que sumaría información afín, no un contraste adverso."
+        },
+        {
+          "letter": "C",
+          "text": "sin embargo",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Sin embargo\" es el conector restrictivo perfecto para contraponer la belleza natural del brillo nocturno con la amenaza de la luz comercial."
+        },
+        {
+          "letter": "D",
+          "text": "es decir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector explicativo o reformulador, no adversativo de contraste."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores adversativos establecen una limitación o contraste entre dos enunciados. En este caso, \"sin embargo\" matiza la descripción maravillosa de la bahía introduciendo de forma cohesiva la problemática ecológica de la contaminación lumínica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "¿Qué conector aditivo u organizador textual es el más apropiado para dar continuidad armónica a la descripción del ambiente festivo en el espacio en blanco?",
+      "context": "Ana revisa un párrafo descriptivo sobre las tradicionales fiestas de la calle San Sebastián en San Juan. \"Los artesanos exhiben tallas de santos, hamacas y joyería. Los músicos tocan plena y bomba. ________, los miles de visitantes disfrutan de la gastronomía criolla bajo el sol caribeño\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sugiere una oposición total entre los artesanos y los visitantes, que no es lógica aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Asimismo",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Asimismo\" es un conector de adición y semejanza que permite sumar ordenadamente otra escena descriptiva del festival sin alterar la coherencia."
+        },
+        {
+          "letter": "C",
+          "text": "En resumidas cuentas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector de recapitulación o resumen, inoportuno para continuar añadiendo detalles descriptivos paralelos."
+        },
+        {
+          "letter": "D",
+          "text": "No obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es adversativo e introduce oposición, rompiendo la armonía de la lista de actividades alegres descritas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conector aditivo \"Asimismo\" (también escrito \"así mismo\") permite agregar información del mismo valor temático e intensidad que las oraciones previas, manteniendo la cohesión formal de la descripción sin saltos abruptos en el texto.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de mecanismo de cohesión por sustitución léxica se ha empleado al usar \"El ilustre médico puertorriqueño\" en la segunda oración?",
+      "context": "Javier analiza los mecanismos de referencia interna en un texto de historia de Puerto Rico. Lee: \"Ramón Emeterio Betances dedicó su vida a la abolición de la esclavitud en la isla. El ilustre médico puertorriqueño fundó el Comité Revolucionario de Puerto Rico para combatir la opresión colonial española\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elipsis nominal absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elipsis suprime el sujeto; aquí se ha sustituido explícitamente por un sintagma nominal descriptivo completo."
+        },
+        {
+          "letter": "B",
+          "text": "Repetición léxica exacta",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se repite la palabra \"Betances\"; se utiliza un término totalmente diferente con el mismo referente."
+        },
+        {
+          "letter": "C",
+          "text": "Sustitución por frase sinónima (perífrasis alusiva)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se reemplaza el nombre propio \"Ramón Emeterio Betances\" por una frase descriptiva o perífrasis equivalente (\"El ilustre médico puertorriqueño\") que alude al personaje sin redundancias."
+        },
+        {
+          "letter": "D",
+          "text": "Pronominalización catafórica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es anafórica porque alude a un elemento mencionado anteriormente, y se hace mediante un grupo nominal, no un pronombre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sustitución léxica mediante frases sinónimas o perífrasis alusivas permite evitar la repetición monótona de nombres propios en los textos argumentativos e históricos, aportando además información adicional sobre el referente para enriquecer la cohesión del escrito.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes pares de conectores consecutivos o causales completa de manera cohesiva y lógica la relación interna del enunciado?",
+      "context": "Un texto informativo sobre la agricultura hidropónica en Barranquitas dice: \"La lechuga hidropónica se cultiva en agua rica en nutrientes. ________ no requiere tierra fértil, su producción se protege de plagas terrestres de manera natural\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como / por lo que",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Como\" introduce de manera idónea la causa (no requerir tierra), y \"por lo que\" señala la consecuencia lógica (la protección de plagas terrestres)."
+        },
+        {
+          "letter": "B",
+          "text": "Aunque / a pesar de que",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son conectores concesivos que indicarían un obstáculo insuperable que no encaja con la causalidad directa de la agricultura hidropónica descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Si bien / en consecuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería redundante o contradictorio con el sentido causal de la primera proposición explicativa."
+        },
+        {
+          "letter": "D",
+          "text": "Con el fin de que / para",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introducen una finalidad futura, distorsionando la relación causal empírica que describe el método de cultivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cohesión textual requiere coordinar causas y efectos con precisión. \"Como\" funciona en este contexto como conector causal de inicio de oración, coordinándose perfectamente con el conector consecutivo de relativo \"por lo que\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes opciones integra estas tres oraciones en un párrafo que demuestre una impecable cohesión de causa-efecto y coherencia lógica?",
+      "context": "Lee las siguientes oraciones inconexas que Alondra intenta unir en un párrafo coherente sobre los huracanes en Puerto Rico:\n*1. Las cálidas aguas del Atlántico alimentan las tormentas tropicales.*\n*2. El aumento de las temperaturas oceánicas genera fenómenos atmosféricos más violentos.*\n*3. Debemos reforzar los códigos de construcción urbana de inmediato.*",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debemos reforzar los códigos de construcción urbana de inmediato porque las cálidas aguas del Atlántico alimentan las tormentas tropicales de la misma forma que no obstante aumentan las temperaturas oceánicas de forma violenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector \"de la misma forma que no obstante\" es confuso e incoherente, arruinando la lógica del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Las cálidas aguas del Atlántico alimentan las tormentas tropicales; en cambio, el aumento de las temperaturas oceánicas genera fenómenos atmosféricos más violentos, es decir, debemos reforzar los códigos de construcción urbana de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"En cambio\" introduce una oposición falsa entre dos hechos que se complementan, y \"es decir\" no introduce la consecuencia lógica de urgencia civil de la construcción."
+        },
+        {
+          "letter": "C",
+          "text": "Dado que las cálidas aguas del Atlántico alimentan las tormentas tropicales, el aumento de las temperaturas oceánicas genera fenómenos atmosféricos más violentos; por consiguiente, debemos reforzar los códigos de construcción de inmediato.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El conector causal inicial \"Dado que\" une lógicamente las dos primeras premisas sobre el mar y el clima, y el conector consecutivo de cierre \"por consiguiente\" introduce con total coherencia el mandato de seguridad civil urbana de la tercera oración."
+        },
+        {
+          "letter": "D",
+          "text": "Aunque las cálidas aguas del Atlántico alimentan las tormentas tropicales, debemos reforzar los códigos de construcción de inmediato sin embargo el aumento de temperaturas genera fenómenos atmosféricos violentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso repetido y desordenado de conectores de oposición (\"aunque\", \"sin embargo\") distorsiona la relación natural de causa y efecto de las premisas científicas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cohesión y coherencia exigen estructurar las ideas según su relación lógica real. El calentamiento marino causa huracanes violentos (relación causal unida por \"Dado que\"), lo que genera la necesidad ineludible de adaptar las viviendas (consecuencia unida por \"por consiguiente\").\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes oraciones contiene un ejemplo de **catáfora** (mecanismo donde el pronombre se anticipa a la mención del elemento nominal que se presentará después)?",
+      "context": "En un taller de redacción en la UPR en Río Piedras, el profesor explica el mecanismo de \"anáfora\" y \"catáfora\" en la cohesión textual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los pescadores de Cabo Rojo regresaron temprano de la faena; ellos estaban preocupados por la marea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronombre \"ellos\" refiere anafóricamente a \"Los pescadores\", elemento que ya fue mencionado con anterioridad."
+        },
+        {
+          "letter": "B",
+          "text": "Le advertí esto a Sofía: el costo de la matrícula universitaria aumentará en agosto.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El pronombre átono \"le\" y el demostrativo \"esto\" se anticipan y refieren catafóricamente a la información nominal que se detalla después: a \"Sofía\" y al \"aumento de la matrícula\"."
+        },
+        {
+          "letter": "C",
+          "text": "Fuimos al Yunque el sábado, caminamos por sus senderos húmedos y regresamos maravillados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un caso de elipsis del sujeto \"nosotros\" y posesivo anafórico \"sus\" que refiere a \"Yunque\", no hay catáfora."
+        },
+        {
+          "letter": "D",
+          "text": "Carmen compró una novela de René Marqués en la librería de San Juan; allí pasó toda la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adverbio \"allí\" alude anafóricamente a un lugar ya especificado: \"la librería de San Juan\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La catáfora es una figura de cohesión textual que consiste en la anticipación de una idea o término que se expresará de manera explícita más adelante en el discurso. El uso de \"Le\" y \"esto\" prepara al receptor para decodificar los referentes subsecuentes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes opciones reescribe el texto eliminando las redundancias molestas de manera cohesiva y fluida, utilizando elipsis y pronombres relativos de forma idónea?",
+      "context": "Analiza el siguiente fragmento mal redactado: \"La plena es un género musical puertorriqueño muy alegre. La plena nació en los sectores obreros de Ponce a principios del siglo XX. La plena utiliza panderos e instrumentos de viento para comunicar cantando los sucesos cotidianos de Ponce\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La plena es un género musical puertorriqueño muy alegre; por el contrario nació en Ponce a principios del siglo XX y además de que la plena utiliza panderos e instrumentos de viento para comunicar lo que pasa allí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Por el contrario\" rompe la coherencia del origen geográfico e introduce una oposición falsa donde no corresponde."
+        },
+        {
+          "letter": "B",
+          "text": "La plena es un género musical puertorriqueño muy alegre que nació en los sectores obreros de Ponce a principios del siglo XX. Este ritmo utiliza panderos e instrumentos de viento para comunicar cantando los sucesos cotidianos de dicha ciudad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El pronombre relativo \"que\" une de manera fluida las dos primeras oraciones con elipsis de sujeto, el sintagma sinónimo \"Este ritmo\" sustituye con elegancia a \"la plena\", y el demostrativo \"dicha ciudad\" evita reiterar de forma redundante \"Ponce\"."
+        },
+        {
+          "letter": "C",
+          "text": "Nació en Ponce a principios del siglo XX la plena que utiliza panderos e instrumentos de viento para comunicar los sucesos cotidianos de Ponce que es un género musical puertorriqueño muy alegre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden sintáctico resultante es confuso y reitera de forma redundante \"Ponce\" e \"hilo\" argumental desorganizado."
+        },
+        {
+          "letter": "D",
+          "text": "La plena es un género musical puertorriqueño muy alegre, la cual plena nació en Ponce, cuya plena utiliza panderos e instrumentos de viento para comunicar cantando los sucesos de Ponce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de \"la cual plena\" y \"cuya plena\" repite obsesiva y erróneamente el sustantivo, agravando la redundancia en lugar de resolverla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elipsis nominal y la sustitución léxica (por pronombres o sinónimos conceptuales) son técnicas indispensables de cohesión para eliminar redundancias repetitivas. Hacen que la lectura fluya, manteniendo el referente activo de manera elegante en el texto.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "¿Qué conector discursivo de adición intensificativa completa de forma cohesiva la incorporación de este nuevo factor al problema de la deserción?",
+      "context": "Un editorial escolar en Caguas discute la deserción escolar: \"Los problemas socioeconómicos en los hogares vulnerables desmotivan a los estudiantes boricuas. ________, la falta de alternativas extracurriculares atractivas fomenta que pasen el tiempo ocioso en las calles de la comunidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En resumidas cuentas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduciría un resumen de lo expuesto, no la adición intensiva de una nueva causa complementaria."
+        },
+        {
+          "letter": "B",
+          "text": "En cambio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector adversativo que indicaría un contraste de oposición inexistente entre los problemas de deserción planteados."
+        },
+        {
+          "letter": "C",
+          "text": "Es más",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Es más\" funciona como conector intensificativo o aditivo enfático, ideal para añadir un nuevo argumento de mayor peso o gravedad a la desmotivación escolar descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Opondría de forma excluyente la falta de actividades a los problemas socioeconómicos hogareños."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores aditivos de carácter intensificativo como \"es más\", \"más aún\" o \"por añadidura\" permiten incorporar premisas adicionales que refuerzan y otorgan mayor contundencia argumental a la tesis del escrito.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de los siguientes pares de conectores correlativos adversativos o de contraste completa el texto de manera cohesiva y coherente?",
+      "context": "Considera el siguiente párrafo técnico sobre las telecomunicaciones en Puerto Rico: \"La fibra óptica subterránea provee una conexión veloz y robusta ante huracanes; ________, la instalación aérea tradicional de cables sigue siendo vulnerable a la caída de postes de madera y árboles durante tempestades tropicales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "por un lado / por el contrario",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Por un lado\" introduce la primera perspectiva favorable (fibra subterránea), y \"por el contrario\" introduce de manera cohesionada el contraste directo con la tecnología aérea vulnerable."
+        },
+        {
+          "letter": "B",
+          "text": "a causa de / por ende",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría una relación de causa-efecto inapropiada; la tecnología aérea no es una consecuencia de la instalación subterránea robusta."
+        },
+        {
+          "letter": "C",
+          "text": "en primer lugar / en consecuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector \"en consecuencia\" sugeriría de manera errónea que la vulnerabilidad aérea es causada directamente por la fibra subterránea."
+        },
+        {
+          "letter": "D",
+          "text": "bien / ya que",
+          "is_correct": false,
+          "feedback": "Incorrecto. No coordinan de forma lógica el contraste tecnológico y estructural descrito en las dos proposiciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores de contraposición o contraste selectivo (\"por un lado... por el contrario\") permiten organizar la información de manera binaria, enfrentando dos realidades o tecnologías contrapuestas para evaluar sus ventajas y debilidades.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de los siguientes conectores causales o de consecuencia completa de forma semánticamente COHERENTE la relación entre la abundante lluvia y el florecimiento de la flora exótica?",
+      "context": "Un texto informativo sobre el yunque dice: \"El bosque estatal de El Yunque recibe precipitaciones torrenciales casi a diario. ________ posee una asombrosa biodiversidad vegetal donde abundan los helechos gigantes y las orquídeas salvajes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría que la lluvia torrencial impide de forma paradójica el desarrollo de la flora exótica, lo cual es contrario a la realidad ecológica del bosque lluvioso."
+        },
+        {
+          "letter": "B",
+          "text": "De todas formas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector concesivo de desestimación, inoportuno para marcar la causa física de la biodiversidad."
+        },
+        {
+          "letter": "C",
+          "text": "Debido a esto",
+          "is_correct": true,
+          "feedback": "¡Correcto! El conector causal \"Debido a esto\" conecta el hecho de la lluvia abundante (causa) con el desarrollo fecundo de la variada flora (efecto o consecuencia)."
+        },
+        {
+          "letter": "D",
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Señalaría una oposición ilógica entre el agua de lluvia y el crecimiento de las orquídeas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia textual descansa en el conocimiento fáctico de las leyes del entorno. La precipitación constante provee el agua indispensable que nutre directamente la biodiversidad (causa-efecto), relación señalada de forma unívoca por \"Debido a esto\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se debe corregir el sintagma redundante \"los cuales vertederos de Puerto Rico\" para mantener una cohesión sintáctica impecable mediante pronombres relativos simples?",
+      "context": "Javier corrige un ensayo de opinión estudiantil: \"El reciclaje doméstico reduce el volumen de desperdicios en los vertederos municipales de la isla, los cuales vertederos de Puerto Rico están llegando al final de su vida útil operativa para el año 2026\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "los cuales vertederos que hay allí de Puerto Rico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agranda la redundancia introduciendo elementos pleonásticos innecesarios."
+        },
+        {
+          "letter": "B",
+          "text": "los cuales",
+          "is_correct": true,
+          "feedback": "¡Correcto! El pronombre relativo compuesto \"los cuales\" sustituye de manera directa y fluida al sustantivo plural antecedente \"vertederos municipales\", eliminando por completo la repetición y simplificando la frase."
+        },
+        {
+          "letter": "C",
+          "text": "ya que los vertederos esos de nosotros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Adopta un registro excesivamente coloquial (\"esos de nosotros\") inadecuado para la redacción formal de un escrito ensayístico."
+        },
+        {
+          "letter": "D",
+          "text": "donde los vertederos de nuestra isla boricua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repite de forma innecesaria el término \"vertederos\" e introduce un tono lírico que no resuelve la redundancia estructural de la oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pronombres relativos (como \"los cuales\", \"que\", \"quienes\") cumplen una función sintáctica y cohesiva crucial: reemplazan al sustantivo antecedente inmediato para evitar la redundancia y permitir añadir información explicativa fluida de manera continua.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "¿Qué par de conectores introduce de manera CORRECTA y fluida la consecutividad positiva y, posteriormente, la restricción de la sobrecarga de trabajo en la segunda y tercera oración?",
+      "context": "Analiza el siguiente texto de opinión y sus vacíos discursivos de cohesión: \"Muchos jóvenes universitarios en San Juan optan por trabajar a tiempo parcial mientras estudian. ________ logran pagar su matrícula y adquirir experiencia laboral. ________, esta doble jornada reduce drásticamente el tiempo libre para el descanso y la recreación personal\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el contrario / Asimismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Por el contrario\" sugeriría una contradicción absurda en la segunda frase con el trabajo, y \"Asimismo\" sumaría de forma errónea la queja del descanso."
+        },
+        {
+          "letter": "B",
+          "text": "De esta manera / Sin embargo",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"De esta manera\" explica el mecanismo de logro financiero gracias al empleo parcial, y \"Sin embargo\" introduce con elegancia la consecuencia negativa restrictiva del cansancio de la doble jornada."
+        },
+        {
+          "letter": "C",
+          "text": "Por lo tanto / Es decir",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Es decir\" no introduce un contraste restrictivo sobre el cansancio, sino una aclaración redundante."
+        },
+        {
+          "letter": "D",
+          "text": "No obstante / Por consiguiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invierte de forma errónea el orden de las relaciones del párrafo, haciendo que el texto pierda su cohesión y sentido natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio de los conectores discursivos reside en saber articular de forma consecutiva la doble cara de una realidad social: la ventaja instrumental (introducida por \"De esta manera\") contrastada con su costo humano o personal (introducida por \"Sin embargo\").\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de los siguientes conectores de contraste o de matiz concesivo completa el espacio en blanco de forma que enfatice que, a pesar de su educación europea, Oller mantuvo su enfoque nacional criollo?",
+      "context": "En un debate sobre la historia del arte en Puerto Rico, se presenta el siguiente texto: \"El pintor Francisco Oller estudió en París con los grandes maestros del impresionismo. Allá absorbió las técnicas de luz y color. ________, nunca olvidó sus raíces caribeñas; al contrario, retrató con realismo la dureza de la vida rural boricua en obras maestras como *El velorio*\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por consiguiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marcaría que el olvido o no de sus raíces es una consecuencia mecánica directa de vivir en París, lo cual no es lógico."
+        },
+        {
+          "letter": "B",
+          "text": "A pesar de ello",
+          "is_correct": true,
+          "feedback": "¡Correcto! El conector concesivo \"A pesar de ello\" (que refiere a estudiar y vivir en París) destaca de forma magistral la coherencia patriótica de Oller, quien mantuvo su mirada criolla pese a la fuerte influencia estética europea."
+        },
+        {
+          "letter": "C",
+          "text": "En resumidas cuentas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un marcador de recapitulación global que no encaja con la oposición constructiva entre París y las raíces boricuas de Oller."
+        },
+        {
+          "letter": "D",
+          "text": "Es decir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduciría una equivalencia conceptual aclaratoria, no la tensión concesiva constructiva que exige el texto sobre su vida artística."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores de valor concesivo (\"A pesar de ello\", \"Aun así\", \"Con todo\") permiten cohesionar ideas donde existe un obstáculo o influencia externa (estudiar en el extranjero) que, de manera sorprendente, no impide que ocurra la acción principal (preservar su identidad artística boricua).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "¿Qué tipo de conector discursivo se requiere en el espacio en blanco para cohesionar de forma argumentativa la importancia ecológica costera con la importancia económica pesquera del manglar?",
+      "context": "Lee el siguiente fragmento donde se ha omitido intencionadamente un nexo organizador: \"La conservación de los manglares en la costa de Cabo Rojo es indispensable para amortiguar el azote de las marejadas ciclónicas. ________, estas formaciones vegetales sirven como el principal criadero de especies comerciales de peces y crustáceos que sustentan a las familias de los pescadores nativos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conector de contraste que censure la pesca comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos datos ensalzan el manglar; no hay oposición que justifique un conector adversativo o restrictivo."
+        },
+        {
+          "letter": "B",
+          "text": "Un conector de adición o de digresión integradora que sume un argumento independiente",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se requiere un conector aditivo como \"Asimismo\", \"Además\" o \"Por otra parte\" para sumar un argumento socioeconómico (pesca) independiente del argumento físico previo (amortiguación de olas)."
+        },
+        {
+          "letter": "C",
+          "text": "Un conector temporal de simultaneidad física de las olas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las olas y la reproducción de peces ocurren simultáneamente, pero la cohesión argumental busca añadir valor conceptual, no marcar la cronología del reloj marino."
+        },
+        {
+          "letter": "D",
+          "text": "Un conector explicativo que redefina el término \"marejada\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda oración aporta un beneficio productivo del manglar totalmente diferente, no explica ni redefine el término \"marejada\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos argumentativos sólidos acumulan razones independientes para sostener una tesis de conservación ambiental. Los conectores aditivos u organizadores del discurso de adición permiten cohesionar ordenadamente estos diferentes argumentos complementarios (físico y socioeconómico).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de los siguientes gerundios o conectores explicativos de causa instrumental y de modo completa la oración de forma que aclare conceptualmente **cómo** de Castro lideró de manera efectiva?",
+      "context": "Un estudiante escribe en su ensayo académico: \"El gobernador español Ramón de Castro lideró de forma efectiva la defensa militar de San Juan contra los invasores británicos en el año 1797, ________ logró unir a las milicias criollas, soldados regulares y ciudadanos en un frente patriótico invencible que frustró el sitio naval británico\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "habiendo olvidado de qué forma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El olvido o desorganización desmentiría el liderazgo efectivo que se alaba en la primera parte."
+        },
+        {
+          "letter": "B",
+          "text": "demostrando su capacidad al",
+          "is_correct": true,
+          "feedback": "¡Correcto! El gerundio de modo \"demostrando\" explica de manera directa e instrumental la acción descrita, hilando cohesivamente la afirmación abstracta del liderazgo efectivo con la hazaña práctica de unir a la población criolla boricua."
+        },
+        {
+          "letter": "C",
+          "text": "no obstante que nunca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rompe la sintaxis y el sentido de la oración introduciendo un obstáculo irreal de forma incoherente."
+        },
+        {
+          "letter": "D",
+          "text": "queriendo de todos modos si",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es sintácticamente agramatical e introduce vacilación y confusión en la narración histórica formal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El gerundio con valor modal-instrumental explicativo de acción simultánea permite conectar de manera fluida y cohesionada una afirmación general y abstracta con la descripción concreta de la acción ejecutada, evitando el abuso de oraciones coordinadas simples.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de los siguientes conectores de recapitulación o reformulación enfática consolida y resume la postura del autor de forma de dotar al cierre del párrafo de una mayor fuerza argumentativa?",
+      "context": "Un artículo de opinión analiza el abandono de mascotas en Puerto Rico: \"El maltrato animal en nuestras comunidades refleja una profunda quiebra de empatía social y de educación cívica. ________ es un problema moral de primer orden que exige la intervención de los Departamentos de Educación y de la Familia de la isla\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De todos modos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector concesivo que debilita el valor ético absoluto del argumento del autor, presentándolo como algo secundario."
+        },
+        {
+          "letter": "B",
+          "text": "En resumidas cuentas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El conector conclusivo de recapitulación o resumen \"En resumidas cuentas\" unifica de manera contundente la premisa de la educación con la urgencia del mandato moral del cierre del párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduciría una contradicción directa con la denuncia del maltrato animal, arruinando la coherencia moral del escrito."
+        },
+        {
+          "letter": "D",
+          "text": "Por ejemplo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduciría un caso ilustrativo particular, no la recapitulación o cierre conceptual general de la tesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los marcadores de recapitulación (\"en resumidas cuentas\", \"en síntesis\", \"en suma\") permiten consolidar una serie de premisas analizadas previamente para plantear una conclusión general de carácter contundente, perfeccionando la coherencia global del texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "Desde una perspectiva del análisis crítico de la redacción, ¿qué efecto de coherencia profunda busca generar el autor al colocar la frase adversativa \"No obstante...\" al final del pasaje?",
+      "context": "Un columnista en San Juan redacta una fuerte crítica contra la burocracia administrativa gubernamental. Lee: \"La lentitud extrema para otorgar permisos ambientales a los pequeños comerciantes locales asfixia el desarrollo económico nacional. Se nos dice que estas demoras aseguran la rigurosidad científica de la evaluación ecológica. No obstante, presenciamos con asombro la rápida aprobación de complejos turísticos sobre manglares vitales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Justificar de manera científica que los manglares no son ecosistemas tan valiosos ni vulnerables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor califica de \"asombro\" y denuncia la aprobación; defiende el manglar, no justifica su destrucción."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que los pequeños comerciantes carecen de preparación ecológica para operar negocios sostenibles en la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor apoya al pequeño comerciante frente a la burocracia desmedida; no los acusa de falta de conciencia ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Denunciar y evidenciar la doble vara fiscal e hipocresía institucional que penaliza al nativo y favorece al gran inversionista internacional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El contraste creado por \"No obstante\" enfrenta el discurso oficial de \"rigor científico ecológico lento\" con la \"rápida aprobación destructiva\" para complejos de lujo, revelando la injusticia de la política ambiental del gobierno."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar de manera matemática los márgenes de ganancia hotelera de San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se presentan datos cuantitativos de ganancias, sino una evaluación moral y ética de la asimetría institucional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores adversativos fuertes al final de un razonamiento (\"No obstante\", \"Sin embargo\") sirven como herramientas críticas de desmantelamiento discursivo. Enfrentan la justificación formal del poder (las leyes lentas de conservación) con la realidad corrupta contradictoria (privilegios de aprobación rápida), desarmando la legitimidad del argumento institucional.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de las siguientes propuestas de redacción presenta una estructura sintáctica e hilación discursiva formal CORRECTA para el DEPR?",
+      "context": "Analiza las siguientes opciones de unión de enunciados para un ensayo formal de geografía caribeña. Se busca la opción con una **cohesión y coherencia perfecta**, libre de anacolutos (errores de concordancia o rupturas sintácticas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunque el archipiélago puertorriqueño comparte características climatológicas y marinas con las demás Antillas Mayores, posee un relieve único, cuya cordillera central regula de manera particular sus microclimas locales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Presenta una estructura sintáctica subordinada impecable con concesión (\"Aunque\"), posesión relativa bien empleada (\"cuya cordillera\") y concordancia de número y género exacta."
+        },
+        {
+          "letter": "B",
+          "text": "El archipiélago puertorriqueño, compartiendo características climatológicas con las Antillas Mayores, sin embargo poseen un relieve que su cordillera de ellos regula de manera particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contiene un gerundio de posterioridad vicioso (\"compartiendo\"), discordancia de número (\"archipiélago... poseen\") y un uso agramatical del pronombre posesivo (\"su cordillera de ellos\")."
+        },
+        {
+          "letter": "C",
+          "text": "A pesar de que Puerto Rico comparte características del clima con las Antillas Mayores, pero posee un relieve único que regulan de manera particular las cordilleras de ellos allí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta redundancia viciosa de conectores de oposición (\"A pesar de que... pero\") y un uso poco elegante y agramatical del posesivo plural."
+        },
+        {
+          "letter": "D",
+          "text": "Aunque Puerto Rico comparte el clima caribeño, no obstante la isla posee un relieve cuyo los microclimas de dicha isla son regulados por su cordillera central de ella misma de forma particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reitera de forma redundante conectores adversativos (\"Aunque... no obstante\") y abusa de deícticos posesivos viciosos de redundancia (\"su... de ella misma\")."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La redacción académica formal requiere evitar el uso redundante de conectores de contraposición simétricos (como usar \"aunque... no obstante\" o \"a pesar de que... pero\" en la misma oración). Exige además el empleo adecuado de pronombres relativos de posesión como \"cuyo/cuya\".\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "¿Qué consecuencia teórica fundamental identifica el filólogo en la redacción juvenil desestructurada en las redes sociales?",
+      "context": "Un filólogo boricua examina la pérdida de coherencia textual en las redes sociales de adolescentes puertorriqueños: \"La yuxtaposición caótica de oraciones breves, emojis sin referente claro y elipsis extremas de verbos copulativos en los mensajes de texto fragmenta el flujo argumentativo, sustituyendo el pensamiento discursivo complejo por una comunicación puramente asociativa y de impacto inmediato\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad de adoptar el inglés como único idioma de comunicación cibernética en la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El filólogo analiza la estructura lógica y sintáctica del mensaje, no exige sustituir el español por el inglés."
+        },
+        {
+          "letter": "B",
+          "text": "El reemplazo del pensamiento lógico-discursivo estructurado por un modelo de asociación caótico y emocional de baja cohesión textual.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El filólogo advierte que la pérdida de nexos sintácticos y conectores lógicos en la escritura rápida desarticula la capacidad de estructurar argumentos lógicos de forma madura y secuencial."
+        },
+        {
+          "letter": "C",
+          "text": "El aumento del costo de las tarifas de telefonía celular de las empresas de San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impacto económico de las tarifas telefónicas no forma parte del análisis lingüístico estructural que realiza el experto."
+        },
+        {
+          "letter": "D",
+          "text": "Que los emojis constituyen un código perfecto que supera en precisión científica a las palabras de la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor ve los emojis sin referente claro como un factor de desestructuración caótica, no como un código superior de rigor científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis valorativo de la teoría lingüística contemporánea evalúa cómo las plataformas digitales alteran los hábitos cognitivos de escritura. La omisión sistemática de conectores lógicos debilita la capacidad del estudiante de hilvanar discursos complejos de causa-efecto, reemplazando el rigor formal por la asociación emotiva instantánea.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de los siguientes conectores concesivos o de contraposición dialéctica fuerte corona el párrafo de manera que resalte la resiliencia del escritor de la diáspora frente a la hostilidad de su entorno neoyorquino?",
+      "context": "Revisa el siguiente fragmento de cierre de un ensayo filosófico sobre la identidad boricua en la diáspora: \"El puertorriqueño de Nueva York escribe desde la nostalgia de un paisaje ausente. Allá, el asfalto frío y las chimeneas fabriles niegan los cocoteros y el mar de su memoria. ________, su literatura no es un lamento pasivo de desarraigo, sino el nacimiento de una identidad fronteriza robusta y bilingüe\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En consecuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría que la literatura resiliente es una consecuencia mecánica directa del asfalto frío que niega su memoria, lo cual carece de coherencia semántica íntima de superación."
+        },
+        {
+          "letter": "B",
+          "text": "Con todo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El conector concesivo dialéctico \"Con todo\" (que equivale a \"a pesar de todas estas hostilidades ambientales y de asimilación neoyorquinas\") resalta de manera magistral la resistencia creadora de la diáspora, que transforma la nostalgia en arte bilingüe activo."
+        },
+        {
+          "letter": "C",
+          "text": "Es decir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Propondría una mera equivalencia conceptual aclaratoria que diluiría el impacto dramático y dialéctico del desenlace del párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque marca contraste, la hilación dialéctica tras enumerar dos hechos complejos del entorno requiere un matiz concesivo abarcador que resuma la oposición (\"Con todo\"), no una oposición lineal excluyente básica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conector dialéctico de valor concesivo abarcador \"Con todo\" actúa como un poderoso marcador discursivo. Resume todas las condiciones adversas expuestas previamente (el desarraigo neoyorquino) y abre paso a la afirmación triunfante y resiliente de la literatura de la diáspora caribeña en los Estados Unidos, cerrando el párrafo con una gran fuerza lírica y conceptual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-ESP-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

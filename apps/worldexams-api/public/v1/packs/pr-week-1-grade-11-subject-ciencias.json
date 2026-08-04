@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias",
+    "country": "pr",
+    "pack_id": "pr-week-1-grade-11-subject-ciencias",
+    "generated_at": "2026-07-29T05:00:59.721Z"
+  },
+  "questions": [
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Hipótesis. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Hipótesis en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Hipótesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hipótesis es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Hipótesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Hipótesis posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es explicación tentativa y comprobable para un fenómeno observado, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Hipótesis."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Hipótesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Hipótesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Hipótesis se define formalmente como explicación tentativa y comprobable para un fenómeno observado. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Variable Independiente. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Variable Independiente en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Variable Independiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Variable Independiente."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Variable Independiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Variable Independiente posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Variable Independiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Variable Independiente es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es variable que el investigador manipula directamente en el experimento, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Variable Independiente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Variable Independiente se define formalmente como variable que el investigador manipula directamente en el experimento. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Variable Dependiente. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Variable Dependiente en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es variable que responde a los cambios y se mide como resultado, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Variable Dependiente."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Variable Dependiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Variable Dependiente posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Variable Dependiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Variable Dependiente es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Variable Dependiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Variable Dependiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Variable Dependiente se define formalmente como variable que responde a los cambios y se mide como resultado. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Precisión. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Precisión en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Precisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Precisión posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es nivel de reproducibilidad o concordancia entre medidas repetidas, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Precisión."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Precisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Precisión es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Precisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Precisión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Precisión se define formalmente como nivel de reproducibilidad o concordancia entre medidas repetidas. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Exactitud. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Exactitud en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Exactitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exactitud es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Exactitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Exactitud posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es proximidad de una medida al valor real o de referencia aceptado, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Exactitud."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Exactitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Exactitud."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Exactitud se define formalmente como proximidad de una medida al valor real o de referencia aceptado. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Cifras Significativas. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Cifras Significativas en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Cifras Significativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Cifras Significativas."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Cifras Significativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Cifras Significativas posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Cifras Significativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cifras Significativas es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es dígitos que aportan información real sobre la precisión de una medida, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Cifras Significativas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Cifras Significativas se define formalmente como dígitos que aportan información real sobre la precisión de una medida. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Error Sistemático. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Error Sistemático en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es error constante causado por la calibración defectuosa de un instrumento, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Error Sistemático."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Error Sistemático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Error Sistemático posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Error Sistemático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error Sistemático es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Error Sistemático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Error Sistemático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Error Sistemático se define formalmente como error constante causado por la calibración defectuosa de un instrumento. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Error Aleatorio. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Error Aleatorio en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Error Aleatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Error Aleatorio posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es variación inevitable debida a factores ambientales incontrolables, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Error Aleatorio."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Error Aleatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error Aleatorio es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Error Aleatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Error Aleatorio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Error Aleatorio se define formalmente como variación inevitable debida a factores ambientales incontrolables. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Unidades del SI. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Unidades del SI en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Unidades del SI.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Unidades del SI es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Unidades del SI.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Unidades del SI posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es sistema estándar internacional de unidades físicas y químicas, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Unidades del SI."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Unidades del SI.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Unidades del SI."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Unidades del SI se define formalmente como sistema estándar internacional de unidades físicas y químicas. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Temperatura Absoluta. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Temperatura Absoluta en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Temperatura Absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Temperatura Absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Temperatura Absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Temperatura Absoluta posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Temperatura Absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Temperatura Absoluta es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es temperatura medida en Kelvin (K), partiendo del cero absoluto, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Temperatura Absoluta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Temperatura Absoluta se define formalmente como temperatura medida en Kelvin (K), partiendo del cero absoluto. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Teoría Científica. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Teoría Científica en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es explicación amplia respaldada por gran cantidad de evidencia empírica, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Teoría Científica."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Teoría Científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Teoría Científica posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Teoría Científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Teoría Científica es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Teoría Científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Teoría Científica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Teoría Científica se define formalmente como explicación amplia respaldada por gran cantidad de evidencia empírica. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Ley Científica. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Ley Científica en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Ley Científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Ley Científica posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es descripción matemática constante de un fenómeno bajo ciertas condiciones, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Ley Científica."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Ley Científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ley Científica es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Ley Científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Ley Científica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Ley Científica se define formalmente como descripción matemática constante de un fenómeno bajo ciertas condiciones. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Grupo Control. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Grupo Control en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Grupo Control.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Grupo Control es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Grupo Control.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Grupo Control posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es grupo de prueba que no recibe el tratamiento experimental para comparación, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Grupo Control."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Grupo Control.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Grupo Control."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Grupo Control se define formalmente como grupo de prueba que no recibe el tratamiento experimental para comparación. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Grupo Experimental. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Grupo Experimental en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Grupo Experimental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Grupo Experimental."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Grupo Experimental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Grupo Experimental posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Grupo Experimental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Grupo Experimental es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es grupo que recibe la variable manipulada en estudio experimental, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Grupo Experimental."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Grupo Experimental se define formalmente como grupo que recibe la variable manipulada en estudio experimental. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Incertidumbre Absoluta. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Incertidumbre Absoluta en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es margen de error expresado en las mismas unidades de la medida, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Incertidumbre Absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Incertidumbre Absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Incertidumbre Absoluta posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Incertidumbre Absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incertidumbre Absoluta es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Incertidumbre Absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Incertidumbre Absoluta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Incertidumbre Absoluta se define formalmente como margen de error expresado en las mismas unidades de la medida. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Incertidumbre Relativa. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Incertidumbre Relativa en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Incertidumbre Relativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Incertidumbre Relativa posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es proporción del error con respecto a la medida total obtenida, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Incertidumbre Relativa."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Incertidumbre Relativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incertidumbre Relativa es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Incertidumbre Relativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Incertidumbre Relativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Incertidumbre Relativa se define formalmente como proporción del error con respecto a la medida total obtenida. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Error de Paralaje. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Error de Paralaje en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Error de Paralaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de Paralaje es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Error de Paralaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Error de Paralaje posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es error de lectura debido a la mala alineación visual con la escala, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Error de Paralaje."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Error de Paralaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Error de Paralaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Error de Paralaje se define formalmente como error de lectura debido a la mala alineación visual con la escala. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Gráfica de Regresión Lineal. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Gráfica de Regresión Lineal en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Gráfica de Regresión Lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Gráfica de Regresión Lineal."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Gráfica de Regresión Lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Gráfica de Regresión Lineal posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Gráfica de Regresión Lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gráfica de Regresión Lineal es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es modelo matemático que ajusta una línea recta entre las variables, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Gráfica de Regresión Lineal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Gráfica de Regresión Lineal se define formalmente como modelo matemático que ajusta una línea recta entre las variables. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Constante Física. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Constante Física en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es magnitud constante que describe propiedades fundamentales de la naturaleza, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Constante Física."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Constante Física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Constante Física posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Constante Física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Constante Física es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Constante Física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Constante Física."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Constante Física se define formalmente como magnitud constante que describe propiedades fundamentales de la naturaleza. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "Al estudiar los aspectos fundamentales de El Método Científico y Medidas en Ciencias, se analiza el rol de Factor de Conversión. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Factor de Conversión en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Factor de Conversión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Factor de Conversión posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es relación matemática empleada para cambiar unidades de medida de forma válida, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Factor de Conversión."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Factor de Conversión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factor de Conversión es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Factor de Conversión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Factor de Conversión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Factor de Conversión se define formalmente como relación matemática empleada para cambiar unidades de medida de forma válida. Su comprensión e identificación en El Método Científico y Medidas en Ciencias resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
