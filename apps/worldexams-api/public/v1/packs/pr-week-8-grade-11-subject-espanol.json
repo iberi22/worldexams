@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "espanol",
+    "country": "pr",
+    "pack_id": "pr-week-8-grade-11-subject-espanol",
+    "generated_at": "2026-07-29T05:14:35.346Z"
+  },
+  "questions": [
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la sección indispensable del ensayo de opinión donde se formula de manera explícita, clara y directa la tesis o postura central del autor que se defenderá a lo largo del escrito?",
+      "context": "Un estudiante de escuela superior en San Juan planifica la estructura de su primer ensayo académico sobre la conservación de los manglares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuerpo de desarrollo argumentativo secundario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el cuerpo se presentan las premisas y evidencias, no la formulación inicial de la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "El párrafo de introducción",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tesis debe presentarse al final del párrafo introductorio de manera clara y explícita, guiando la lectura y trazando el rumbo de la argumentación posterior."
+        },
+        {
+          "letter": "C",
+          "text": "El párrafo de conclusión recapitulativa de cierre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la conclusión se retoma o resume la tesis analizada, pero su planteamiento original ocurre en la introducción."
+        },
+        {
+          "letter": "D",
+          "text": "La bibliografía o sección de referencias en formato APA.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta sección final se listan las fuentes documentales utilizadas; no contiene la formulación de la tesis del estudiante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es el núcleo ideológico de cualquier escrito académico o de opinión. Se formula de forma clara y unívoca en el párrafo introductorio para guiar de manera coherente el desarrollo de los argumentos del ensayo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes opciones presenta una cita textual de menos de 40 palabras redactada de forma CORRECTA según las normas del formato APA, que exige incluir el apellido del autor, año de publicación y página exacta del libro?",
+      "context": "En una clase de español en Bayamón, Alondra redacta un ensayo sobre la deserción escolar. Desea citar una frase exacta del pedagogo Eugenio María de Hostos según el formato APA vigente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hostos opina que la educación de gratis salva al pueblo de la ignorancia (Eugenio María de Hostos, sin año, pág. 12).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta el solecismo \"de gratis\" y no cumple con el formato estándar de citación del formato APA."
+        },
+        {
+          "letter": "B",
+          "text": "Como señala Hostos (1888), \"la educación es el único timón de la razón soberana\" (p. 45), lo que evidencia la urgencia de su pedagogía moral.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cumple con exactitud el formato APA para citas cortas (menos de 40 palabras): apellido del autor fuera del paréntesis, año entre paréntesis de la mención, texto entre comas y comillas, y la página precedida de la abreviatura estándar de una sola \"p.\". (Nota: Hostos (1888)... \"texto\" (p. 45))."
+        },
+        {
+          "letter": "C",
+          "text": "\"La educación es el timón de la razón\" (Hostos p. 45, año de 1888).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No respeta la estructura formal estricta de orden del paréntesis que el formato APA exige para las citas textuales académicas de escuela superior."
+        },
+        {
+          "letter": "D",
+          "text": "Hostos dijo de que: \"La educación salva\" (1888, pág. 45 de gratis).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduce el solecismo de deísmo (\"dijo de que\"), la forma vulgar \"de gratis\" y abrevia de manera incorrecta la página (\"pág.\" en lugar de \"p.\")."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El formato APA (American Psychological Association), ampliamente utilizado por el Departamento de Educación de Puerto Rico (DEPR), exige precisión en las citas textuales directas de menos de 40 palabras. Deben ir integradas en el párrafo entre comillas, indicando el apellido, año entre paréntesis y el número de página precedido de la abreviatura \"p.\" (\"p. 45\") o \"pp.\" si es un rango de páginas (\"pp. 45-46\").\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera CORRECTA el orden lógico interno que debe poseer un párrafo de desarrollo formal dentro de un ensayo académico del DEPR?",
+      "context": "Javier evalúa las diferentes oraciones que componen un párrafo de desarrollo argumentativo en Ponce. \"La oración temática presenta la idea principal del párrafo. Las oraciones de soporte proveen la evidencia empírica u opiniones de expertos que respaldan la oración temática. La oración de cierre concluye y tiende un puente cohesivo hacia el próximo párrafo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe iniciar con la oración de cierre, seguida de la evidencia y finalizar con la tesis de la escuela superior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto desestructura de manera absurda la lógica natural de la argumentación, confundiendo al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Debe iniciar con la oración temática (idea principal), continuar con las oraciones de soporte (evidencia y justificación) y cerrar con una conclusión transicional (oración de cierre).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la estructura clásica del párrafo argumentativo académico de school superior. Expone de inmediato el punto principal (oración temática) y luego lo sostiene con datos u observaciones y lo cierra de forma fluida."
+        },
+        {
+          "letter": "C",
+          "text": "Consistir únicamente en una lista de citas sin comentarios u opiniones personales del estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un párrafo sin análisis del escritor es un mero corta y pega documental que carece de coherencia y de voz crítica propia."
+        },
+        {
+          "letter": "D",
+          "text": "Iniciar siempre con el solecismo de gratis para captar la atención de los lectores de Ponce de forma alegre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje vulgar o solecismos de estilo (\"de gratis\") están totalmente prohibidos en la redacción formal académica de ensayos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia interna del párrafo argumentativo descansa en la secuencia lógica de sus partes: se plantea un juicio o idea central (oración temática), se justifica instrumentalmente con datos, analogías o citas (oraciones de soporte) y se sintetiza el aporte de esa idea a la tesis general del ensayo (oración de cierre).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes propuestas de tesis posee el rigor formal, la precisión y la debatibilidad necesarias para encabezar un ensayo de nivel de escuela superior (grado 11)?",
+      "context": "Un estudiante intenta formular la tesis para su ensayo de opinión sobre la crisis energética en Puerto Rico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El costo de la luz eléctrica en Puerto Rico es muy alto y los apagones constantes de los municipios de la isla molestan a las familias boricuas de San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación fáctica subjetiva de sentido común obvia que carece de una postura argumentativa compleja y debatible que guíe un análisis crítico formal de fondo."
+        },
+        {
+          "letter": "B",
+          "text": "La transición inmediata del sistema eléctrico hacia microrredes de energía solar comunitaria es la única estrategia viable para democratizar el acceso energético y blindar la infraestructura crítica de la isla ante huracanes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es una tesis de excelencia académica: es precisa, delimita un camino de acción concreto (\"microrredes de energía solar\"), expone los beneficios justificativos (\"democratizar el acceso\", \"blindar infraestructura\") y plantea una postura debatible de política pública para Puerto Rico."
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas eléctricas y el sol son dos elementos de la naturaleza caribeña muy importantes para el progreso de la zafra de caña de Ponce de la isla de gratis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de rigor argumental debatible, incluye el solecismo \"de gratis\" y alude a la caña de azúcar de forma anacrónica."
+        },
+        {
+          "letter": "D",
+          "text": "Yo opino que la luz eléctrica es muy importante para poder cargar los teléfonos celulares en el interior montañoso de la cordillera central del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está redactada en primera persona informal débil (\"Yo opino\") y expone una obviedad cotidiana sin densidad conceptual o científica debatible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una tesis académica sobresaliente debe superar la mera queja del sentido común o la afirmación de hechos obvios en primera persona (\"yo opino\"). Debe formularse en tercera persona formal como una aseveración debatible de política pública o postura analítica crítica, respaldada por razones precisas que el ensayo desarrollará instrumentalmente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "¿Qué conector discursivo consecutivo o de transición de tesis completa de manera CORRECTA la cohesión interna del párrafo de introducción?",
+      "context": "Lee el siguiente fragmento de un párrafo introductorio que un estudiante de Carolina redactó para su ensayo sobre la gentrificación costera: \"En años recientes, las costas de nuestra isla han experimentado un auge inmobiliario sin precedentes. Construir condominios de lujo frente al mar desplaza a los residentes tradicionales boricuas que ven subir los precios de los servicios básicos. ________ es urgente regular los incentivos contributivos de extranjeros para proteger la permanencia de las comunidades nativas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indicaría una oposición entre el desplazamiento de los nativos y la urgencia de la regulación, rompiendo la lógica del texto."
+        },
+        {
+          "letter": "B",
+          "text": "En resumidas cuentas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utiliza para la conclusión general al final del ensayo completo; colocarlo en la introducción es inoportuno e introduce confusión."
+        },
+        {
+          "letter": "C",
+          "text": "Por consiguiente",
+          "is_correct": true,
+          "feedback": "¡Correcto! El conector consecutivo formal \"Por consiguiente\" (o de causa-efecto) une de manera impecable la descripción del problema (desplazamiento de los nativos por condominios) con la formulación de la tesis reguladora de la última oración del párrafo de introducción."
+        },
+        {
+          "letter": "D",
+          "text": "No obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector adversativo que introduce una objeción restrictiva desvinculada del sentido consecutivo que exige la tesis del escrito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cohesión del párrafo de introducción exige articular de manera progresiva el planteamiento del tema o problema con la formulación de la tesis. Conectores consecuenciales fuertes como \"Por consiguiente\", \"Por ende\" o \"Por lo tanto\" señalan al lector que la tesis es el resultado o la propuesta de solución directa frente a la problemática de la isla expuesta al inicio de la página.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se debe reescribir la oración anterior adoptando un estilo académico formal, impersonalizado y de mayor rigor conceptual adecuado para el DEPR?",
+      "context": "En un taller de revisión de redacción de ensayos en Bayamón, se analiza el uso de la voz pasiva con \"se\" frente a la primera persona en la prosa de escuela superior. Un alumno escribe: \"Yo analicé las muestras de agua de Cabo Rojo y yo determiné que el blanqueamiento de coral avanza de forma preocupante por culpa del cambio climático\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yo determiné de gratis que las muestras de Cabo Rojo que yo analicé avanza el cambio climático de forma preocupante en la costa de la isla de Puerto Rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene el uso de la primera persona débil (\"Yo determiné\") e introduce el solecismo \"de gratis\", vulnerando las normas formales."
+        },
+        {
+          "letter": "B",
+          "text": "Tras el análisis de las muestras de agua de Cabo Rojo, se determinó que el blanqueamiento coralino avanza de forma alarmante debido al cambio climático.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se elimina el uso redundante de la primera persona singular (\"Yo analicé\", \"Yo determiné\"), sustituyéndola de forma elegante por la voz impersonal (\"se determinó\") y reestructurando la frase con sustantivos de rigor científico (\"análisis coralino\", \"debido al\")."
+        },
+        {
+          "letter": "C",
+          "text": "Se determinó que yo y el grupo de nosotros de Bayamón analizamos las muestras de Cabo Rojo de gratis para salvar el coral de la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene de manera vulgar el pronombre coloquial de nosotros de Bayamón y el solecismo de preposición \"de gratis\", impropios de la redacción formal de un ensayo científico."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio climático tiene la culpa del blanqueamiento de Cabo Rojo de gratis según se determinó por mí cuando yo analicé el agua de la costa de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de la pasiva con agente personal débil (\"por mí\") y redundancias pronominales de primera persona arruina la formalidad del escrito científico de Caguas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La redacción científica y académica exige el uso del registro formal culto, caracterizado por la objetividad y la despersonalización del discurso escrito. Reemplazar la primera persona del singular (\"Yo analicé\") por la pasiva refleja impersonal (\"se analizó\", \"se determinó\") desvía la atención del lector de la figura del estudiante hacia el rigor de los hechos biológicos y empíricos descritos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes propuestas de reescritura eleva la calidad léxica, el rigor argumental y el tono formal de esta conclusión de Alondra para ajustarse a las exigencias del DEPR?",
+      "context": "Alondra corrige el borrador del párrafo conclusivo de su ensayo de opinión sobre la preservación histórica del Viejo San Juan. Escribe: \"En resumen, debemos salvar las murallas porque son bonitas y a todos los puertorriqueños nos gusta caminar los domingos por el paseo de La Princesa de gratis\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para finalizar, las murallas históricas de San Juan son de gratis y caminar por La Princesa es bien alegre para nosotros de Bayamón de forma continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Insiste en el solecismo de preposición \"de gratis\" y abusa de deícticos de bajo rigor léxico (\"bien alegre\", \"nosotros de Bayamón\")."
+        },
+        {
+          "letter": "B",
+          "text": "En síntesis, la restauración de las murallas del Viejo San Juan es indispensable no solo para preservar un patrimonio histórico colonial incalculable, sino para consolidar el legado cultural que define y ampara la identidad nacional puertorriqueña ante la modernización urbana desmedida.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reemplaza adjetivos genéricos débiles (\"son bonitas\") y deícticos de ocio dominical por argumentos de peso nacional e histórico y de alta adecuación léxica (\"patrimonio incalculable\", \"preservar legado cultural\"), cerrando la conclusión con excelente elocuencia formal."
+        },
+        {
+          "letter": "C",
+          "text": "Resumiendo de forma rápida, debemos pintar las murallas para que se vean bien bonitas en las fotos de los paradores del interior montañoso de la cordillera de la isla de gratis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Propone fines estéticos de fotografía superficial e insiste en el uso de los solecismos proscritos \"de gratis\"."
+        },
+        {
+          "letter": "D",
+          "text": "No cabe duda de que las murallas son importantes para que de gratis los turistas extranjeros disfruten de la costa de Ponce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vulnera el sentido geográfico de la obra (las murallas coloniales están en San Juan, no en Ponce) y cae en el solecismo de gratis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El párrafo de conclusión no debe limitarse a repetir de forma ingenua o infantil las ideas de ocio del autor (\"son bonitas\", \"caminar los domingos\"). Debe sintetizar de forma elocuente y con alta riqueza de vocabulario los argumentos de peso expuestos, vinculando el tema con consecuencias o reflexiones más amplias de orden ético, social o identitario de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de los siguientes esquemas de ordenación de los datos bibliográficos de un libro físico cumple de forma rigurosa y CORRECTA con las directrices vigentes del formato APA?",
+      "context": "Un estudiante de escuela superior redacta la sección de referencias en formato APA al final de su ensayo de opinión sobre la UPR.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eugenio María de Hostos, libro de la educación moral, año de 1888, editorial de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coloca los datos de forma libre desordenada sin respetar la secuencia formal estricta exigida por las normas de redacción."
+        },
+        {
+          "letter": "B",
+          "text": "*La educación moral* por Hostos, Eugenio (Ponce, año 1888) de gratis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduce el solecismo vulgar \"de gratis\" y altera las directrices de los apellidos y el paréntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Hostos, E. M. de. (1888). *Tratado de moral*. Editorial del Departamento de Instrucción Pública de Puerto Rico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el formato estándar APA vigente: Apellido, Iniciales del nombre. (Año de publicación entre paréntesis). *Título del libro en cursivas*. Editorial o institución editora. (Nota: Hostos, E. M. de. (1888). *Tratado de moral*...)."
+        },
+        {
+          "letter": "D",
+          "text": "E. M. Hostos (1888) editorial de San Juan de gratis: libro de la moral de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coloca de forma errónea el nombre de pila antes del apellido y añade el solecismo \"de gratis\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La bibliografía o sección de referencias en el formato APA exige una puntuación y tipografía estrictas. El apellido del autor encabeza la mención, seguido de las iniciales, el año entre paréntesis, el título en letra cursiva (itálica) y finaliza con el nombre de la editorial, facilitando al lector la rápida localización física de las fuentes citadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "¿Qué error de coherencia global por digresión temática (salirse del tema principal de argumentación) se produce en este párrafo de ensayo?",
+      "context": "Considera el siguiente párrafo inconexo y de baja coherencia interna: \"La energía de celdas solares soluciona el problema de los apagones en Caguas. Las placas solares de los paradores del interior de la cordillera central de la isla de gratis contienen silicio. El silicio es un elemento de la naturaleza química muy abundante en la corteza terrestre de nosotros\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso incorrecto del término \"Caguas\" que debe cambiarse a \"Ponce\" de forma obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son ciudades reales de la isla y no constituyen el error temático del escrito sobre energía."
+        },
+        {
+          "letter": "B",
+          "text": "Digresión temática; el autor desvía la argumentación sobre la solución energética hacia una explicación física irrelevante sobre la abundancia química del silicio en la corteza terrestre, debilitando el propósito del ensayo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El párrafo se sale del tema central (la solución a los apagones en Caguas) para divagar sobre las propiedades y abundancia geológica del silicio, un error clásico de digresión temática que destruye la coherencia de la redacción."
+        },
+        {
+          "letter": "C",
+          "text": "El exceso de adjetivos explicativos de comas sobre el sol del Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay adjetivos explicativos redundantes de comas en el texto; la falla es el salto temático al silicio."
+        },
+        {
+          "letter": "D",
+          "text": "No hay errores porque en la escuela superior de Puerto Rico se permite cualquier tipo de digresión geológica en la redacción formal de ensayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las directrices curriculares del DEPR exigen rigor argumental estricto, penalizando la divagación o digresión que debilita el foco de atención del escrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia temática exige que todas las oraciones del párrafo aporten información relevante subordinada a la idea central u oración temática. Salirse del tema para explicar detalles secundarios o científicos no pertinentes de los materiales (como divagar sobre el silicio) confunde al lector y destruye la unidad del ensayo argumentativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo se debe corregir el enunciado anterior para eliminar el uso vulgar de deícticos de posesión (\"de nosotros\") y el solecismo de gratis, adoptando un registro formal culto del DEPR?",
+      "context": "Un ensayo académico de escuela superior en Carolina aborda el uso de la tecnología: \"Los celulares de nosotros de gratis sirven para chatear todo el tiempo en las redes de la escuela superior de Carolina de la isla\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los teléfonos móviles de nosotros de gratis sirven para la comunicación de la escuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conserva intactos el deíctico vulgar \"de nosotros\" y el solecismo \"de gratis\"."
+        },
+        {
+          "letter": "B",
+          "text": "Los dispositivos móviles facilitan la comunicación y el acceso a recursos académicos en los centros escolares de escuela superior.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reemplaza vocablos genéricos e informales por términos de alta precisión léxica (\"dispositivos móviles\", \"acceso a recursos académicos\") y elimina de raíz el \"de nosotros\" y \"de gratis\" de la redacción."
+        },
+        {
+          "letter": "C",
+          "text": "Los celulares de nosotros de gratis de Carolina de la isla sirven para educarse en las aulas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene las redundancias de posesión \"de nosotros\" y de geografía \"de la isla\"."
+        },
+        {
+          "letter": "D",
+          "text": "No es necesario corregir nada porque el lenguaje de chat escolar es el único que debe usarse en los ensayos académicos de Puerto Rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La redacción formal académica de escuela superior prohíbe de manera tajante el uso del lenguaje coloquial o de chat informal en los ensayos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adecuación léxica de los escritos académicos formales exige desterrar los pronombres y deícticos vulgares de posesión colectiva (\"de nosotros\") sustituyéndolos por adjetivos posesivos formales (\"nuestro/nuestros\") o reestructurando el sintagma de forma impersonal. Asimismo, exige la proscripción de modismos y solecismos vulgares de preposición (\"de gratis\").\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "¿Cuáles de los siguientes vicios de redacción y solecismos graves de concordancia de número y género deben corregirse en la oración anterior para el DEPR?",
+      "context": "Se presenta el borrador de una oración para un ensayo formal de ciencias en San Juan: \"La Autoridad de Acueductos y Alcantarillados (AAA) de la isla de gratis, cuyos directores de la AAA de San Juan se reunieron ayer con los biólogos de Cabo Rojo, resolvieron el blanqueamiento del agua\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir \"La AAA de gratis de nosotros\" de forma de marcar la propiedad pública de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agranda los errores de estilo introduciendo el \"de nosotros\" vulgar y el solecismo de gratis de preposición."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar el solecismo \"de gratis\", corregir el relativo posesivo \"cuyo\" y concordar el verbo principal en singular (\"la AAA... resolvió\" o \"tomó medidas\") con su sujeto singular.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El sujeto principal \"La AAA\" exige el verbo en singular (\"resolvió\" o \"tomó medidas\", no \"resolvieron\" - discordancia). Además, se elimina la redundancia de \"cuyos directores de la AAA de San Juan\" simplificando con pronombres relativos simples y se suprime de raíz \"de gratis\"."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el género del sujeto a masculino escribiendo \"El AAA de San Juan de gratis\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene el solecismo de gratis y cambia de manera errónea el género del artículo de la institución (es la Autoridad, femenino)."
+        },
+        {
+          "letter": "D",
+          "text": "No corregir nada por tratarse de un informe de carácter técnico ambiental de Cabo Rojo de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los informes técnicos exigen un rigor de sintaxis y ortografía impecables, exentos de discordancias de número y solecismos vulgares de preposición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La revisión de la oración compuesta en los ensayos académicos exige corregir de manera exhaustiva las discordancias de número del verbo principal con su sujeto lejano, especialmente cuando se interponen proposiciones subordinadas de relativo extensas. Exige además desterrar solecismos de estilo y pronombres relativos mal hilados.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes propuestas de contraargumentación o matiz restrictivo es la más sólida y elocuente para incorporar a un párrafo de desarrollo argumentativo del ensayo?",
+      "context": "Un texto argumentativo discute los méritos de la educación bilingüe: \"La enseñanza de idiomas extranjeros expande los horizontes laborales de los estudiantes de Carolina. No obstante, en Puerto Rico, la falta de laboratorios de fonética en el interior montañoso de la isla limita el éxito de este plan pedagógico escolar de escuela superior de forma grave\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La educación bilingüe de la isla es de gratis para todos nosotros de Carolina de forma que no hay problemas de laboratorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contiene el solecismo de gratis e informalidades de posesión que debilitan el rigor de la argumentación científica."
+        },
+        {
+          "letter": "B",
+          "text": "Si bien la inmersión bilingüe ofrece indudables ventajas de inserción global, su implementación en Puerto Rico resulta sumamente desigual debido a la brecha de infraestructura y conectividad digital que sufre el interior montañoso de la isla.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Presenta un contraargumento de alto nivel académico formal: concede la ventaja del bilingüismo global (\"Si bien...\") pero enfrenta la realidad de desigualdad física y digital de la montaña de la isla, enriqueciendo la debatibilidad y rigor del escrito."
+        },
+        {
+          "letter": "C",
+          "text": "A fin de cuentas, hablar inglés de gratis es la única meta que debe guiar a todos los maestros del Departamento de Educación de Puerto Rico en San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene el solecismo \"de gratis\" y simplifica de forma grosera y antipedagógica el currículo escolar de la isla."
+        },
+        {
+          "letter": "D",
+          "text": "Los laboratorios de fonética de Ponce de gratis no sirven para nada porque los estudiantes boricuas prefieren hablar de forma natural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación antiintelectual con solecismo vulgar \"de gratis\" inaceptable en un ensayo académico formal del DEPR."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La contraargumentación de excelencia académica concede validez parcial a una premisa de la contraparte (\"Si bien la inmersión ofrece ventajas...\") pero de inmediato introduce límites de orden socioeconómico o geográfico real en la isla (\"su implementación resulta desigual debido a la brecha de infraestructura\"), dotando al ensayo de una mayor densidad y debatibilidad analítica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "¿Por qué se afirma que la propuesta de tesis anterior carece de debatibilidad, rigor léxico y precisión conceptual indispensables para un ensayo de grado 11?",
+      "context": "En un taller de debate sobre la agricultura ecológica en Caguas, se revisa la tesis: \"La agroecología de la isla de Puerto Rico de gratis constituye una excelente alternativa agrícola para el país\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el término \"Caguas\" no es representativo de la geografía del interior de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Caguas es un importante municipio agrícola e industrial y sí es apto; la falla es de la estructura de la tesis, no de la geografía de la isla."
+        },
+        {
+          "letter": "B",
+          "text": "Porque utiliza el solecismo \"de gratis\" y formula una aseveración obvia, subjetiva y vaga (\"excelente alternativa\") que no compromete al autor con una postura analítica debatible ni con propuestas de política pública concretas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Calificar a la agroecología de forma general como \"excelente alternativa\" es vago y obvio. Además, la presencia de la frase vulgar \"de gratis\" destruye la formalidad del escrito académico formal que exige el DEPR."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la agroecología es una ciencia inventada que no debe estudiarse en las aulas escolares de Puerto Rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agroecología es una disciplina científica seria, legítima e indispensable para la seguridad alimentaria caribeña defendida por expertos de la isla."
+        },
+        {
+          "letter": "D",
+          "text": "Porque debe escribirse obligatoriamente en inglés de forma de ser aprobada por el Congreso federal en San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pruebas de redacción de español y los ensayos académicos formales de la escuela superior se escriben e instituyen con orgullo en el idioma oficial de la isla, el español de Puerto Rico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una tesis académica deficiente adolece de vaguedad conceptual (usar adjetivos simplistas de valor vago como \"excelente\", \"buena\", \"bonita\") y de falta de debatibilidad lógica de fondo. Debe formularse de manera que plantee una propuesta concreta de cambio, uniendo causas y justificaciones de orden científico u social de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera CORRECTA la estructura y el uso de la locución adverbial prepositiva \"a efectos de\" en el enunciado anterior?",
+      "context": "Analiza sintácticamente la siguiente oración compuesta compleja extraída de la conclusión del borrador de un ensayo escolar en San Juan: \"En conclusión, el modelo de desarrollo cooperativo que se promueve en la isla constituye la estrategia más eficaz a efectos de mitigar la brecha económica que margina a la clase trabajadora de la costa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un conector de causa material que debe reemplazarse por el solecismo \"en base a de gratis\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"En base a\" y \"de gratis\" son solecismos vulgares prohibidos en la redacción formal de ensayos."
+        },
+        {
+          "letter": "B",
+          "text": "Es una locución conjuntiva o prepositiva de valor de finalidad que equivale a \"para\" o \"con el fin de\", cohesionando la estrategia con su meta económica de mitigación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La locución \"a efectos de\" tiene un valor final o de propósito en el registro administrativo-académico culto del español, vinculando la estrategia cooperativa con su propósito de justicia social."
+        },
+        {
+          "letter": "C",
+          "text": "Es una oración coordinada copulativa de carácter biológico natural de la costa de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una proposición subordinada circunstancial de finalidad, no una oración coordinada acumulativa de suma física."
+        },
+        {
+          "letter": "D",
+          "text": "No posee valor funcional y constituye una redundancia pleonástica del término \"conclusión\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple la función sintáctica de conectar el propósito o fin de la estrategia de cooperativas; no es una redundancia de la palabra \"conclusión\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la prosa académica y administrativa del español estándar, la locución prepositiva o de relativo \"a efectos de\" (o \"a fin de\") introduce formalmente la finalidad, meta u objetivo de una propuesta de política pública o de cambio social en el país.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "¿Qué mecanismos de cohesión y depuración léxica deben aplicarse en el texto para ajustarse al registro formal académico que exige el DEPR?",
+      "context": "Un estudiante de Ponce redacta un ensayo sobre la historia del arte boricua. Su borrador dice: \"La pintura *El velorio* de Francisco Oller causó una fuerte impresión en la sociedad burguesa de la isla. En ese cuadro de Oller, Oller retrató con realismo la picardía de nosotros de gratis ante la muerte de un niño humilde de Ponce\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir \"El velorio es un cuadro de gratis de nosotros\" de forma de simplificar el análisis del arte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acumula el deíctico vulgar de posesión \"de nosotros\" y el solecismo \"de gratis\" de preposición dudosas de estilo."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar el solecismo \"de gratis\", suprimir las repeticiones de \"Oller\" sustituyéndolas por pronombres relativos y cambiar \"nosotros\" por \"la población criolla\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reemplaza la repetición molesta del sustantivo propio \"Oller\" por recursos pronominales de relativo, elimina el deíctico posesivo de nosotros y suprime de raíz el solecismo \"de gratis\", de modo que el texto fluya de manera elocuente y académica."
+        },
+        {
+          "letter": "C",
+          "text": "Pintar el cuadro de gratis de forma de ser fotografiado en Ponce de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desvía el análisis hacia la geografía o la fotografía turística mercantil superficial de la costa de Ponce."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el nombre de Francisco Oller por el de un artista extranjero de París para darle prestigio internacional de gratis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Oller es un prócer del arte nacional de Puerto Rico; excluir su figura debilita de forma absurda la identidad histórica del escrito escolar boricua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión y la precisión léxica de los escritos escolares exigen desterrar el modismo vulgar \"de gratis\" y el deíctico coloquial \"de nosotros\". El pronombre relativo y la sinonimia conceptual (ej. \"el artista\", \"el maestro del impresionismo boricua\") permiten sostener al sujeto activo de la narración histórica artística sin redundancias inútiles.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la función semántica de la proposición subordinada condicional exceptiva introducida por \"A menos que\" al inicio del párrafo del ensayo?",
+      "context": "Un texto argumentativo que analiza críticamente la reforma contributiva de la isla señala: \"A menos que el Departamento de Hacienda de la isla simplifique el cobro del IVU para las PyMEs locales, los pequeños comerciantes seguirán sufriendo una asfixia fiscal insoportable ante los altos costos de energía eléctrica en el país\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plantear la única condición de cambio de política contributiva capaz de evitar la quiebra o asfixia comercial de las PyMEs nativas boricuas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ser una condicional exceptiva o restrictiva, el nexo \"A menos que\" formula el único requisito indispensable o transaccional de cambio capaz de salvar a los comerciantes de la ruina o asfixia fiscal descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar la causa científica real del blanqueamiento de los arrecifes de Cabo Rojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto versa sobre la reforma de Hacienda y las PyMEs comerciales; no analiza el blanqueamiento del mar de Cabo Rojo de la isla."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar que el cobro del IVU es de gratis para los turistas extranjeros de San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El IVU es un impuesto al consumo; calificarlo de gratis es contradictorio e incorrecto para la economía real del país."
+        },
+        {
+          "letter": "D",
+          "text": "Formular un ruego religioso a los paradores del interior de la cordillera de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto de orden racional argumentativo y de análisis de política pública de Hacienda, ajeno al ruego religioso lírico inerte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones condicionales exceptivas estructuran de manera muy precisa las propuestas de solución de los ensayos formales de opinión. Definen el requisito técnico e indispensable de Hacienda de la isla capaz de modificar la apódosis o consecuencia económica negativa de los comerciantes boricuas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "¿Qué juicios valorativos de idoneidad léxica, adecuación y coherencia sintáctica emite el evaluador del DEPR para depurar de forma académica formal el párrafo de ensayo anterior?",
+      "context": "Un crítico de redacción académica del DEPR evalúa el borrador de un ensayo: \"Se ha comprobado que el bilingüismo funcional en Puerto Rico no se logra memorizando de gratis listas de vocabulario lejanas de la realidad del estudiante de Carolina de la isla; exige, por el contrario, un enfoque comunicativo activo fundado en el diálogo sociocultural de la herencia del caribe contemporáneo de nosotros\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprobar el uso de \"de gratis\" por ser una de las señas dialectales más refinadas del español de Puerto Rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"De gratis\" es un solecismo de preposición censurado por el DEPR y la academia literaria; no se considera una seña dialectal culta refinada."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir que los estudiantes de Carolina de la isla estudien de gratis únicamente la gramática tradicional de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pedagogía moderna boricua promueve el enfoque comunicativo activo y la identidad caribeña, no la imitación estéril española."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar de raíz el solecismo de preposición \"de gratis\", cambiar \"nosotros\" por \"nuestra realidad\" y consolidar el enfoque comunicativo activo con vocabulario culto y preciso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El rigor académico exige depurar los escritos de escuela superior eliminando formas vulgares (\"de gratis\", \"de nosotros\" pronominal de posesión), elevando el tono de la discusión pedagógica del bilingüismo con total exactitud de la lengua escrita."
+        },
+        {
+          "letter": "D",
+          "text": "Traducir de gratis todo el párrafo al inglés de forma de ser evaluado por las universidades federales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prueba de español del DEPR de escuela superior exige el uso impecable y maduro de la lengua española del país; no calcos o traducciones forzadas al inglés."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis valorativo de la redacción formal de ensayos evalúa la consistencia estética y el rigor de los nexos discursivos. La depuración de solecismos vulgares de preposición (\"de gratis\") y deícticos informales de posesión colectiva (\"de nosotros\") es el primer requisito indispensable para que un ensayo de grado 11 adquiera adecuación e idoneidad académica para la escuela superior.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de las siguientes propuestas conclusivas cumple con el rigor de la redacción formal académica de school superior para el DEPR?",
+      "context": "Analiza las propuestas de reescritura para la conclusión de un ensayo sobre la educación vial en Bayamón. Se busca la opción de excelencia académica que demuestre total cohesión, libre de vicios gramaticales y redundancias molestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En conclusión, la implantación de cursos obligatorios de educación vial en la escuela superior constituye una estrategia indispensable para salvaguardar la vida de los jóvenes conductores de la isla de forma cívica y ordenada.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Presenta un párrafo conclusivo de alta factura académica formal: es sobrio, coherente, unifica las premisas de forma cohesiva (\"educación vial\", \"salvaguardar vida\") y utiliza un vocabulario preciso y elegante libre de solecismos o redundancias vulgares."
+        },
+        {
+          "letter": "B",
+          "text": "En resumen, hay que obligar a los estudiantes de Bayamón de gratis a estudiar las leyes de tránsito de nosotros en la escuela superior para que no de gratis choquen sus autos en la carretera costera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abusa de manera vulgar de los solecismos proscritos \"de gratis\" y deícticos débiles de posesión (\"de nosotros\"), arruinando la adecuación del escrito."
+        },
+        {
+          "letter": "C",
+          "text": "Para finalizar de forma rápida, la educación vial es bien importante de gratis para que los jóvenes boricuas de la isla conduzcan de forma alegre por las calles de Ponce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene los solecismos de gratis y de geografía imprecisa de la isla, devaluando el rigor de la conclusión del ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "No cabe duda de que la ley de tránsito de gratis de la isla se debe obedecer por nosotros de Bayamón para que no de gratis nos pongan multas en la avenida de San Juan de la isla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta redundancia excesiva de solecismos de gratis, pasivas débiles y deícticos vulgares de posesión colectiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conclusión de excelencia de un ensayo académico debe redactarse con un tono de elocuente dignidad cívica e intelectual. Se evitan modismos vulgares (\"de gratis\", \"bien importante\") y se prefieren verbos copulativos y atributivos solemnes (\"constituye una estrategia indispensable\", \"salvaguardar la vida\") que consoliden de manera coherente el aporte moral del escrito.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál de las siguientes interpretaciones del ensayo literario se alinea de manera CORRECTA con el juicio de valor expuesto por el filólogo boricua?",
+      "context": "Un ensayista de la Universidad de Puerto Rico reflexiona sobre la estructura del ensayo de opinión contemporáneo en el Caribe: \"El ensayo no es un almacén de datos ni una crónica descriptiva de paradores del interior de la cordillera de la isla. Es una aventura del pensamiento crítico formal, una arquitectura de la razón en español donde cada conector discursivo y cada subordinada adverbial sostienen con rigor una tesis debatible de soberanía espiritual de la patria\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ensayo es un género de baja complejidad intelectual cuyo único fin de gratis es divertir a los turistas extranjeros de San Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayista ve el ensayo como una \"arquitectura de la razón\" de alto rigor y de gran densidad crítica; no como entretenimiento turístico superficial de gratis."
+        },
+        {
+          "letter": "B",
+          "text": "El ensayo constituye una estructura orgánica de pensamiento crítico formal, donde el rigor de la sintaxis compuesta y la exactitud de los conectores lógicos manifiestan el compromiso ético del escritor con la debatibilidad de sus ideas nacionales boricuas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ensayo de excelencia académica exige que la forma gramatical (el conector, la subordinación, la tesis precisa) sirva de vehículo para articular ideas debatibles de peso social y filosófico del país, en superación de la mera recopilación empírica inerte."
+        },
+        {
+          "letter": "C",
+          "text": "Exigir que los estudiantes de escuela superior redacten todos sus ensayos utilizando de gratis únicamente dibujos o emojis sin palabras escritas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto desestructuraría de forma absurda el pensamiento formal y la precisión semántica de la lengua que el filólogo precisamente defiende en la isla."
+        },
+        {
+          "letter": "D",
+          "text": "Sostener que la oratoria del ensayo formal debe redactarse obligatoriamente de gratis con rimas infantiles de la montaña de Ponce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo es prosa formal reflexiva e intelectual, alejada de rimas poéticas infantiles de Ponce."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo de opinión y académico constituye el género literario del pensamiento por excelencia. El lingüista boricua recalca que su redacción exige unir el rigor sintáctico compuesto con la debatibilidad ética del discurso, convirtiendo cada nexo conjuntivo y cada oración subordinada en los cimientos racionales que blindan el valor intelectual del escrito formal del alumno puertorriqueño.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "¿Qué serie de reescrituras de deísmo, solecismos de estilo y precisión conceptual de la oración Compuesta eleva la directriz a un nivel de idoneidad y de total rigor formal para el DEPR?",
+      "context": "Un profesor evalúa la coherencia profunda de la tesis y su Justificación en un ensayo sobre el agroecoturismo en Vieques de grado 11: \"La propuesta de regular por ley las celdas solares es indispensable, ________ de esa forma daremos inicio a efectos de resolver el blanqueamiento del mar costero\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "de gratis / en base a / de gratis de nosotros de la isla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Insiste de forma grosera en los solecismos de gratis, en base a y deícticos de baja adecuación léxica de nosotros de la isla."
+        },
+        {
+          "letter": "B",
+          "text": "de que / para / de gratis de forma de salvar las playas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene de forma agramatical el deísmo \"de que\" tras indispensable e incorpora el solecismo de gratis."
+        },
+        {
+          "letter": "C",
+          "text": "que / ya que / de esa manera restauraremos la soberanía energética comunitaria en las islas municipio.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Elimina de raíz cualquier deísmo agramatical (\"Es indispensable que\", no \"indispensable de que\"). El conector causal \"ya que\" une con perfecta coherencia de causa-efecto la tesis con su justificación real, reestructurando con total elocuencia y rigor léxico formal el desenlace del escrito cívico de la isla."
+        },
+        {
+          "letter": "D",
+          "text": "de que / en relación a / de gratis de forma de solucionar de gratis el agua de Ponce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acumula múltiples y gravísimas discordancias sintácticas, deísmo, solecismos de gratis y de geografía equivocada (Vieques está al este, no en Ponce)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La excelencia en la redacción formal de directrices exige la depuración total de deícticos e hilaciones pesadas (\"daremos inicio a efectos de\", \"en base a de gratis\"). Al emplear la conjunción de relativo \"que\", el conector causal \"ya que\" y reestructurar la justificación con vocabulario de alta adecuación y de rigor científico (\"restaurar la soberanía energética comunitaria en las islas municipio\"), el texto adquiere la total idoneidad formal y precisión que el DEPR demanda en la escuela superior.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-ESP-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "espanol",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
