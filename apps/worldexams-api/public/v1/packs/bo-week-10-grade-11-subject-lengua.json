@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "bo",
+    "pack_id": "bo-week-10-grade-11-subject-lengua",
+    "generated_at": "2026-07-29T05:00:16.162Z"
+  },
+  "questions": [
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente comenzó a llover en la Plaza 10 de Febrero por la tarde, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En La Paz, Roxana lee un texto sobre nubes grises que obligan a abrir paraguas en Oruro en el Colegio Nacional Junín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — analizando el caso particular de comenzó a llover en la Plaza 10 de Febrero por la tarde.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "B",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — ignorando la relevancia de comenzó a llover en la Plaza 10 de Febrero por la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de comenzó a llover en la Plaza 10 de Febrero por la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de comenzó a llover en la Plaza 10 de Febrero por la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar comenzó a llover en la Plaza 10 de Febrero por la tarde en la región de La Paz.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente hubo un paso reciente de vehículos de carga pesada de litio, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Santa Cruz, Jhonny lee un texto sobre las huellas de camiones en las salinas de Uyuni en el Colegio Nacional Bolívar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de hubo un paso reciente de vehículos de carga pesada de litio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — ignorando la relevancia de hubo un paso reciente de vehículos de carga pesada de litio.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de hubo un paso reciente de vehículos de carga pesada de litio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de hubo un paso reciente de vehículos de carga pesada de litio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar hubo un paso reciente de vehículos de carga pesada de litio en la región de Santa Cruz.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente la presencia de un depredador silvestre en los nidos, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Cochabamba, Marisol lee un texto sobre el abandono de nidos de aves en el Madidi en el Colegio Nacional Sucre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de la presencia de un depredador silvestre en los nidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de la presencia de un depredador silvestre en los nidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — omitiendo los rasgos de la presencia de un depredador silvestre en los nidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — contradiciendo la importancia de la presencia de un depredador silvestre en los nidos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar la presencia de un depredador silvestre en los nidos en la región de Cochabamba.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se produjo una helada o sequía en los cultivos de los valles, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Sucre, Walter lee un texto sobre los precios elevados de la papa en Sucre en el Liceo Pantaleón Dalence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de se produjo una helada o sequía en los cultivos de los valles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de se produjo una helada o sequía en los cultivos de los valles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — omitiendo los rasgos de se produjo una helada o sequía en los cultivos de los valles.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de se produjo una helada o sequía en los cultivos de los valles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se produjo una helada o sequía en los cultivos de los valles en la región de Sucre.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente los estudiantes sienten orgullo y cercanía con la lengua materna, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Oruro, Grover lee un texto sobre las sonrisas de los niños de Viacha al oír el quechua en el Colegio Nacional Florida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — analizando el caso particular de los estudiantes sienten orgullo y cercanía con la lengua materna.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "B",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — ignorando la relevancia de los estudiantes sienten orgullo y cercanía con la lengua materna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de los estudiantes sienten orgullo y cercanía con la lengua materna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de los estudiantes sienten orgullo y cercanía con la lengua materna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar los estudiantes sienten orgullo y cercanía con la lengua materna en la región de Oruro.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente los obreros de la mita siguen trabajando en los túneles subterráneos, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Potosí, Marcos lee un texto sobre las luces encendidas en los socavones de Potosí en el U.E. Holanda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de los obreros de la mita siguen trabajando en los túneles subterráneos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — ignorando la relevancia de los obreros de la mita siguen trabajando en los túneles subterráneos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de los obreros de la mita siguen trabajando en los túneles subterráneos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de los obreros de la mita siguen trabajando en los túneles subterráneos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar los obreros de la mita siguen trabajando en los túneles subterráneos en la región de Potosí.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente los pescadores vendieron su captura de trucha en la orilla, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Tarija, Lidia lee un texto sobre el retorno de los botes de totora vacíos al puerto en el Colegio Don Bosco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de los pescadores vendieron su captura de trucha en la orilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de los pescadores vendieron su captura de trucha en la orilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — omitiendo los rasgos de los pescadores vendieron su captura de trucha en la orilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — contradiciendo la importancia de los pescadores vendieron su captura de trucha en la orilla.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar los pescadores vendieron su captura de trucha en la orilla en la región de Tarija.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente es la hora de ingreso o salida del colegio por la tarde, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Trinidad, Andrés lee un texto sobre el teleférico lleno de pasajeros cargando mochilas de libros en el Colegio San Calixto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de es la hora de ingreso o salida del colegio por la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de es la hora de ingreso o salida del colegio por la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — omitiendo los rasgos de es la hora de ingreso o salida del colegio por la tarde.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de es la hora de ingreso o salida del colegio por la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar es la hora de ingreso o salida del colegio por la tarde en la región de Trinidad.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente el prolongado retraso del ciclo de lluvias de invierno, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Cobija, Zulma lee un texto sobre la vegetación marchita en los cañones de Toro Toro en el Liceo Venezuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — analizando el caso particular de el prolongado retraso del ciclo de lluvias de invierno.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "B",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — ignorando la relevancia de el prolongado retraso del ciclo de lluvias de invierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de el prolongado retraso del ciclo de lluvias de invierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de el prolongado retraso del ciclo de lluvias de invierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar el prolongado retraso del ciclo de lluvias de invierno en la región de Cobija.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente el comprador ansía que el dios Ekeko multiplique su dinero real, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Viacha, Ramiro lee un texto sobre los billetes arrugados guardados en las miniaturas de la Alasita en el Colegio Nacional Ayacucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de el comprador ansía que el dios Ekeko multiplique su dinero real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — ignorando la relevancia de el comprador ansía que el dios Ekeko multiplique su dinero real.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de el comprador ansía que el dios Ekeko multiplique su dinero real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de el comprador ansía que el dios Ekeko multiplique su dinero real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar el comprador ansía que el dios Ekeko multiplique su dinero real en la región de Viacha.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se está ensayando o celebrando una entrada tradicional, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Montero, Yolanda lee un texto sobre el sonido de bombos y zampoñas por la avenida El Alto en el Colegio Nacional Junín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de se está ensayando o celebrando una entrada tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de se está ensayando o celebrando una entrada tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — omitiendo los rasgos de se está ensayando o celebrando una entrada tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — contradiciendo la importancia de se está ensayando o celebrando una entrada tradicional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se está ensayando o celebrando una entrada tradicional en la región de Montero.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente las intensas precipitaciones fluviales han saturado el terreno, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Sacaba, Carlos lee un texto sobre el aumento de lodo en las laderas de la autopista paceña en el Colegio Nacional Bolívar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de las intensas precipitaciones fluviales han saturado el terreno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de las intensas precipitaciones fluviales han saturado el terreno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — omitiendo los rasgos de las intensas precipitaciones fluviales han saturado el terreno.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de las intensas precipitaciones fluviales han saturado el terreno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar las intensas precipitaciones fluviales han saturado el terreno en la región de Sacaba.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se ha producido un problema de sobrepesca o contaminación en el lago, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Quillacollo, Ana lee un texto sobre la ausencia de truchas en los mercados del Titicaca en el Colegio Nacional Sucre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — analizando el caso particular de se ha producido un problema de sobrepesca o contaminación en el lago.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "B",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — ignorando la relevancia de se ha producido un problema de sobrepesca o contaminación en el lago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de se ha producido un problema de sobrepesca o contaminación en el lago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de se ha producido un problema de sobrepesca o contaminación en el lago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se ha producido un problema de sobrepesca o contaminación en el lago en la región de Quillacollo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se ha producido una quema de bosques para habilitar ganadería, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Warnes, Jaime lee un texto sobre las cenizas flotando sobre las copas de los árboles del Beni en el Liceo Pantaleón Dalence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de se ha producido una quema de bosques para habilitar ganadería.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — ignorando la relevancia de se ha producido una quema de bosques para habilitar ganadería.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de se ha producido una quema de bosques para habilitar ganadería.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de se ha producido una quema de bosques para habilitar ganadería.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se ha producido una quema de bosques para habilitar ganadería en la región de Warnes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se está refinando mineral de estaño en los hornos, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En El Alto, Rosmery lee un texto sobre el humo saliendo de los laboratorios mineros de Oruro en el Colegio Nacional Florida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de se está refinando mineral de estaño en los hornos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de se está refinando mineral de estaño en los hornos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — omitiendo los rasgos de se está refinando mineral de estaño en los hornos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — contradiciendo la importancia de se está refinando mineral de estaño en los hornos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se está refinando mineral de estaño en los hornos en la región de El Alto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.47,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se ha producido una sobredemanda de gas natural licuado en el mercado, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Riberalta, Willy lee un texto sobre las colas largas de camiones cisterna en la terminal de gas en el U.E. Holanda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de se ha producido una sobredemanda de gas natural licuado en el mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de se ha producido una sobredemanda de gas natural licuado en el mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — omitiendo los rasgos de se ha producido una sobredemanda de gas natural licuado en el mercado.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de se ha producido una sobredemanda de gas natural licuado en el mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se ha producido una sobredemanda de gas natural licuado en el mercado en la región de Riberalta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se han recolectado muestras vegetales para el estudio biológico, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Yacuiba, Teresa lee un texto sobre las flores tricolores de kantuta secas en el herbario en el Colegio Don Bosco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — analizando el caso particular de se han recolectado muestras vegetales para el estudio biológico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "B",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — ignorando la relevancia de se han recolectado muestras vegetales para el estudio biológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de se han recolectado muestras vegetales para el estudio biológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de se han recolectado muestras vegetales para el estudio biológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se han recolectado muestras vegetales para el estudio biológico en la región de Yacuiba.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se ha iniciado el periodo húmedo de invierno altiplánico, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Colcapirhua, Felipe lee un texto sobre el desierto de sal cubierto por una delgada lámina de agua de lluvia en el Colegio San Calixto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de se ha iniciado el periodo húmedo de invierno altiplánico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — ignorando la relevancia de se ha iniciado el periodo húmedo de invierno altiplánico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — omitiendo los rasgos de se ha iniciado el periodo húmedo de invierno altiplánico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de se ha iniciado el periodo húmedo de invierno altiplánico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se ha iniciado el periodo húmedo de invierno altiplánico en la región de Colcapirhua.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente se aproxima la gran festividad de danzas de la zona, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Tupiza, Patricia lee un texto sobre las polleras bordadas expuestas en los escaparates de El Alto en el Liceo Venezuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de se aproxima la gran festividad de danzas de la zona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de se aproxima la gran festividad de danzas de la zona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — omitiendo los rasgos de se aproxima la gran festividad de danzas de la zona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — contradiciendo la importancia de se aproxima la gran festividad de danzas de la zona.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar se aproxima la gran festividad de danzas de la zona en la región de Tupiza.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Considerando la comprensión de lectura en nivel inferencial y específicamente los bachilleres están concentrados rindiendo la prueba de suficiencia, ¿cuál de las opciones presenta de manera rigurosa la idea central?",
+      "context": "En Villazón, Víctor lee un texto sobre el silencio absoluto en el salón de exámenes del colegio en el Colegio Nacional Ayacucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memorizar robóticamente las palabras exactas escritas por el autor de forma mecánica. — analizando el caso particular de los bachilleres están concentrados rindiendo la prueba de suficiencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención mecánica de palabras textuales exactas corresponde a la memoria literal elemental."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir la lectura de columnas de opinión en las bibliotecas escolares del centro de educación. — ignorando la relevancia de los bachilleres están concentrados rindiendo la prueba de suficiencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis de lectura no guarda relación con medidas prohibitivas o disciplinarias de biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Unir pistas textuales directas con el razonamiento lógico para deducir hechos, ideas o intenciones implícitas no escritas directamente. — omitiendo los rasgos de los bachilleres están concentrados rindiendo la prueba de suficiencia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores ortográficos y tildes del texto literario de forma metalingüística. — contradiciendo la importancia de los bachilleres están concentrados rindiendo la prueba de suficiencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corregir la ortografía es una actividad de análisis gramatical formal o metalingüístico, no de comprensión de sentido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "¡Correcto! El nivel inferencial va más allá de las líneas explícitas, exigiendo que el lector formule hipótesis válidas a partir de indicios textuales. El nivel inferencial requiere un rol activo del lector: este debe leer 'entre líneas' para descifrar intenciones del autor, relaciones de causa-efecto implícitas y proyecciones de la trama. Esto se refleja con claridad al analizar los bachilleres están concentrados rindiendo la prueba de suficiencia en la región de Villazón.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}
