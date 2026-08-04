@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lenguaje",
+    "country": "cl",
+    "pack_id": "cl-week-9-grade-11-subject-lenguaje",
+    "generated_at": "2026-08-04T00:18:31.242Z"
+  },
+  "questions": [
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes destrezas se menciona explícitamente en relación con el estudio de la Vocabulario Contextual: Sinonimia y Precisión Semántica?",
+      "context": "En la preparación del examen PAES en Arica, Camila analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La memorización pasiva de fechas históricas de las batallas de Chile (P1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto apunta a habilidades reflexivas, no a memorización pasiva de fechas."
+        },
+        {
+          "letter": "B",
+          "text": "La interpretación de discursos argumentativos, literarios e informativos (P1)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento detalla literalmente esta capacidad de interpretación de textos."
+        },
+        {
+          "letter": "C",
+          "text": "La traducción de poemas líricos de vanguardia escritos en francés (P1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe la traducción como objeto en este fragmento de estudio."
+        },
+        {
+          "letter": "D",
+          "text": "El diseño de maquetas de minas de cobre en Calama (P1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destrezas de ingeniería de minas ajenas al currículum de Lenguaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El alumno localiza el segmento textual explícito que devela las tipologías de discursos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v2",
+      "statement": "¿Qué exigencia plantea el ensayo crítico para el desarrollo de la Vocabulario Contextual: Sinonimia y Precisión Semántica?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender de memoria todos los ensayos literarios chilenos (P2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se exige memorización, sino habilidades analíticas de lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Aprender a contrastar hechos factuales con opiniones valóricas (P2)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ensayo estipula formalmente esta capacidad de contrastación de discursos."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar el número de horas destinadas al estudio de álgebra y números reales (P2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al currículum de matemáticas de M1, sin relación con el ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Comprar periódicos impresos antiguos en las ferias de Concepción (P2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede analizar prensa digital de forma remota sin comprar papel físico antiguo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El alumno localiza el segmento de forma directa en el enunciado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v3",
+      "statement": "A partir de la lectura en Valparaíso, ¿con qué finalidad se promueve el estudio sistemático de esta disciplina?",
+      "context": "En la preparación del examen PAES en Valparaíso, Antonia analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potenciar las destrezas intelectuales de la juventud chilena (P3)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto sitúa la potenciación de destrezas intelectuales como el fin primordial."
+        },
+        {
+          "letter": "B",
+          "text": "Incrementar la velocidad del tren rápido a Chillán (P3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los hitos de infraestructura de W01, sin relación con el lenguaje."
+        },
+        {
+          "letter": "C",
+          "text": "Financiar las campañas de vacunación del Ministerio de Salud (P3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ámbito de la medicina preventiva de salud, ajeno al currículum."
+        },
+        {
+          "letter": "D",
+          "text": "Fomentar las exportaciones agrícolas de los valles de la zona central (P3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al riego de W02, no a destrezas lingüísticas de enseñanza media."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La finalidad del estudio se halla mediante la búsqueda de la estructura verbal de propósito 'para potenciar'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v4",
+      "statement": "A partir del fragmento, ¿cuál es la diferencia entre un hecho factual y una opinión de acuerdo con el emisor?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hecho es fáctico y objetivo, mientras que la opinión contiene valoraciones subjetivas y sesgos del autor (P4)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la distinción metodológica y conceptual que sostiene la argumentación de fondo."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión es siempre verdadera e incuestionable, mientras que el hecho es una hipótesis variable (P4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés en la definición de la lógica científica y lingüística."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos conceptos son idénticos y se reemplazan de manera indistinta en el vocabulario (P4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son categorías diferenciadas que se contrastan en la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Los hechos son exclusivos de la física astronómica y las opiniones de la poesía de Mistral (P4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las columnas de opinión de Santiago también combinan ambos planos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El alumno interpreta y relaciona las definiciones de hecho y opinión.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v5",
+      "statement": "¿Qué examen nacional chileno se menciona implícitamente en la preparación que realiza Diego?",
+      "context": "En la preparación del examen PAES en Puerto Montt, Diego analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El examen del barchillerato internacional del extranjero (P5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El currículum se alinea con las pruebas nacionales chilenas."
+        },
+        {
+          "letter": "B",
+          "text": "La prueba de selección universitaria PSU del siglo pasado (P5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La PSU ya fue reemplazada por el sistema actual."
+        },
+        {
+          "letter": "C",
+          "text": "El examen nacional de admisión PAES (P5)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La preparación de Diego se focaliza en la Prueba de Acceso a la Educación Superior (PAES)."
+        },
+        {
+          "letter": "D",
+          "text": "La evaluación SIMCE de educación básica obligatoria (P5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. SIMCE evalúa la calidad de la escuela, mientras que Diego prepara el ingreso universitario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se infiere que el examen preparado por Diego es la PAES, el estándar nacional actual.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v6",
+      "statement": "¿En qué medios masivos de comunicación se aconseja evaluar los sesgos de los discursos?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las revistas científicas de astronomía de ALMA (P6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las revistas científicas se caracterizan por la objetividad factual, no por columnas de opinión sesgadas."
+        },
+        {
+          "letter": "B",
+          "text": "En los folletos turísticos del Parque Nacional Torres del Paine (P6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El folleto de Torres del Paine es informativo descriptivo, no de debate ideológico."
+        },
+        {
+          "letter": "C",
+          "text": "En las columnas de opinión de la prensa escrita de Santiago (P6)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto especifica que se deben evaluar en las columnas de la prensa capitalina."
+        },
+        {
+          "letter": "D",
+          "text": "En las acotaciones teatrales de las obras de Alejandro Sieveking (P6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acotaciones dirigen los movimientos escénicos, no son columnas de opinión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se extrae la localización de los discursos de la lectura de la prensa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v7",
+      "statement": "¿Para qué año de estudio de la enseñanza media está enfocado el texto pedagógico de Lenguaje?",
+      "context": "En la preparación del examen PAES en Quillota, Claudio analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Únicamente para la educación básica inicial (P7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco de la PAES es la Enseñanza Media final."
+        },
+        {
+          "letter": "B",
+          "text": "Para programas de postgrado universitario en el extranjero (P7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es de nivel escolar medio chileno, no de universidad avanzada."
+        },
+        {
+          "letter": "C",
+          "text": "Para escuelas militares de la Región Metropolitana (P7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es universal para la enseñanza media, no militar en exclusiva."
+        },
+        {
+          "letter": "D",
+          "text": "Para el nivel de Enseñanza Media de la educación chilena (P7)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto señala explícitamente su aplicación para la 'juventud de enseñanza media de Chile'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se asocia la 'juventud de enseñanza media' con el nivel correspondiente del currículum.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v8",
+      "statement": "¿Qué destreza del eje reflexivo se fomenta de manera primordial en el ensayo de la Vocabulario Contextual: Sinonimia y Precisión Semántica?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rastreo pasivo de nombres de autores de la vanguardia (P8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nivel de localización pasiva, no de evaluación crítica de sesgos."
+        },
+        {
+          "letter": "B",
+          "text": "La declamación de versos con rima asonante en el patio del colegio (P8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destreza oral dramática, ajena al análisis escrito de sesgos de prensa."
+        },
+        {
+          "letter": "C",
+          "text": "El cálculo de tasas de interés de créditos bancarios de ahorro (P8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razonamiento matemático financiero, ajeno a la lectura crítica."
+        },
+        {
+          "letter": "D",
+          "text": "La evaluación reflexiva y crítica de la intención y sesgo del emisor (P8)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Discernir sesgos y separar hechos de opiniones es una competencia clave del nivel reflexivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se asocia la detección de sesgos con la competencia reflexiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v9",
+      "statement": "¿De acuerdo con el fragmento, qué beneficio aporta a la juventud chilena este estudio en Temuco?",
+      "context": "En la preparación del examen PAES en Temuco, Alonso analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potenciar sus destrezas intelectuales y de interpretación crítica de discursos (P9)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el beneficio directo expresado a lo largo de la argumentación de Alonso en Temuco."
+        },
+        {
+          "letter": "B",
+          "text": "Permitirles viajar gratis en el tren de cercanías Limache-Puerto (P9)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El beneficio de transporte corresponde al pase de TNE de W01, no al estudio académico."
+        },
+        {
+          "letter": "C",
+          "text": "Asegurarles un contrato inmediato en la mina de Chuquicamata (P9)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No otorga empleos de minería de forma directa o de contrato."
+        },
+        {
+          "letter": "D",
+          "text": "Otorgarles financiamiento para comprar carpas de montaña para el Cajón del Maipo (P9)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las carpas de senderismo no forman parte del beneficio de Lenguaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se extrae la consecuencia de desarrollo cognitivo planteada en la cita.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el tema unificador del fragmento analizado por Gabriela en Puerto Montt?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biografía literaria de Nicanor Parra y su antipoesía (P10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la síntesis poética de W10, no a este análisis crítico de discursos argumentativos."
+        },
+        {
+          "letter": "B",
+          "text": "El desarrollo de las habilidades de lectura crítica en el sistema escolar de Chile (P10)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento de ensayo gira en torno a cómo enseñar y potenciar la lectura crítica escolar."
+        },
+        {
+          "letter": "C",
+          "text": "Las características físicas del desierto de Atacama en el norte chico (P10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ámbito de la astronomía y geografía de W01, ajeno a la lectura crítica."
+        },
+        {
+          "letter": "D",
+          "text": "El diseño técnico de las ciclovías del eje costero de Concepción (P10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la carta ciudadana de El Sur de W02, sin vinculación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sintetiza de manera integradora el tema de la lectura chilena.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes destrezas se menciona explícitamente en relación con el estudio de la Vocabulario Contextual: Sinonimia y Precisión Semántica?",
+      "context": "En la preparación del examen PAES en Arica, Sebastián analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La memorización pasiva de fechas históricas de las batallas de Chile (P11)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto apunta a habilidades reflexivas, no a memorización pasiva de fechas."
+        },
+        {
+          "letter": "B",
+          "text": "La interpretación de discursos argumentativos, literarios e informativos (P11)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento detalla literalmente esta capacidad de interpretación de textos."
+        },
+        {
+          "letter": "C",
+          "text": "La traducción de poemas líricos de vanguardia escritos en francés (P11)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe la traducción como objeto en este fragmento de estudio."
+        },
+        {
+          "letter": "D",
+          "text": "El diseño de maquetas de minas de cobre en Calama (P11)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destrezas de ingeniería de minas ajenas al currículum de Lenguaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El alumno localiza el segmento textual explícito que devela las tipologías de discursos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
+      "statement": "¿Qué exigencia plantea el ensayo crítico para el desarrollo de la Vocabulario Contextual: Sinonimia y Precisión Semántica?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender de memoria todos los ensayos literarios chilenos (P12)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se exige memorización, sino habilidades analíticas de lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Aprender a contrastar hechos factuales con opiniones valóricas (P12)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ensayo estipula formalmente esta capacidad de contrastación de discursos."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar el número de horas destinadas al estudio de álgebra y números reales (P12)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al currículum de matemáticas de M1, sin relación con el ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Comprar periódicos impresos antiguos en las ferias de Concepción (P12)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede analizar prensa digital de forma remota sin comprar papel físico antiguo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El alumno localiza el segmento de forma directa en el enunciado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v13",
+      "statement": "A partir de la lectura en Valparaíso, ¿con qué finalidad se promueve el estudio sistemático de esta disciplina?",
+      "context": "En la preparación del examen PAES en Valparaíso, Martina analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potenciar las destrezas intelectuales de la juventud chilena (P13)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto sitúa la potenciación de destrezas intelectuales como el fin primordial."
+        },
+        {
+          "letter": "B",
+          "text": "Incrementar la velocidad del tren rápido a Chillán (P13)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los hitos de infraestructura de W01, sin relación con el lenguaje."
+        },
+        {
+          "letter": "C",
+          "text": "Financiar las campañas de vacunación del Ministerio de Salud (P13)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ámbito de la medicina preventiva de salud, ajeno al currículum."
+        },
+        {
+          "letter": "D",
+          "text": "Fomentar las exportaciones agrícolas de los valles de la zona central (P13)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al riego de W02, no a destrezas lingüísticas de enseñanza media."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La finalidad del estudio se halla mediante la búsqueda de la estructura verbal de propósito 'para potenciar'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v14",
+      "statement": "A partir del fragmento, ¿cuál es la diferencia entre un hecho factual y una opinión de acuerdo con el emisor?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hecho es fáctico y objetivo, mientras que la opinión contiene valoraciones subjetivas y sesgos del autor (P14)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la distinción metodológica y conceptual que sostiene la argumentación de fondo."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión es siempre verdadera e incuestionable, mientras que el hecho es una hipótesis variable (P14)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés en la definición de la lógica científica y lingüística."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos conceptos son idénticos y se reemplazan de manera indistinta en el vocabulario (P14)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son categorías diferenciadas que se contrastan en la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Los hechos son exclusivos de la física astronómica y las opiniones de la poesía de Mistral (P14)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las columnas de opinión de Santiago también combinan ambos planos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El alumno interpreta y relaciona las definiciones de hecho y opinión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v15",
+      "statement": "¿Qué examen nacional chileno se menciona implícitamente en la preparación que realiza Isidora?",
+      "context": "En la preparación del examen PAES en Puerto Montt, Isidora analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El examen del barchillerato internacional del extranjero (P15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El currículum se alinea con las pruebas nacionales chilenas."
+        },
+        {
+          "letter": "B",
+          "text": "La prueba de selección universitaria PSU del siglo pasado (P15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La PSU ya fue reemplazada por el sistema actual."
+        },
+        {
+          "letter": "C",
+          "text": "El examen nacional de admisión PAES (P15)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La preparación de Isidora se focaliza en la Prueba de Acceso a la Educación Superior (PAES)."
+        },
+        {
+          "letter": "D",
+          "text": "La evaluación SIMCE de educación básica obligatoria (P15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. SIMCE evalúa la calidad de la escuela, mientras que Isidora prepara el ingreso universitario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se infiere que el examen preparado por Isidora es la PAES, el estándar nacional actual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v16",
+      "statement": "¿En qué medios masivos de comunicación se aconseja evaluar los sesgos de los discursos?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las revistas científicas de astronomía de ALMA (P16)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las revistas científicas se caracterizan por la objetividad factual, no por columnas de opinión sesgadas."
+        },
+        {
+          "letter": "B",
+          "text": "En los folletos turísticos del Parque Nacional Torres del Paine (P16)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El folleto de Torres del Paine es informativo descriptivo, no de debate ideológico."
+        },
+        {
+          "letter": "C",
+          "text": "En las columnas de opinión de la prensa escrita de Santiago (P16)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto especifica que se deben evaluar en las columnas de la prensa capitalina."
+        },
+        {
+          "letter": "D",
+          "text": "En las acotaciones teatrales de las obras de Alejandro Sieveking (P16)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acotaciones dirigen los movimientos escénicos, no son columnas de opinión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se extrae la localización de los discursos de la lectura de la prensa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
+      "statement": "¿Para qué año de estudio de la enseñanza media está enfocado el texto pedagógico de Lenguaje?",
+      "context": "En la preparación del examen PAES en Quillota, Benjamín analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Únicamente para la educación básica inicial (P17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco de la PAES es la Enseñanza Media final."
+        },
+        {
+          "letter": "B",
+          "text": "Para programas de postgrado universitario en el extranjero (P17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es de nivel escolar medio chileno, no de universidad avanzada."
+        },
+        {
+          "letter": "C",
+          "text": "Para escuelas militares de la Región Metropolitana (P17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es universal para la enseñanza media, no militar en exclusiva."
+        },
+        {
+          "letter": "D",
+          "text": "Para el nivel de Enseñanza Media de la educación chilena (P17)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto señala explícitamente su aplicación para la 'juventud de enseñanza media de Chile'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se asocia la 'juventud de enseñanza media' con el nivel correspondiente del currículum.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.59,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v18",
+      "statement": "¿Qué destreza del eje reflexivo se fomenta de manera primordial en el ensayo de la Vocabulario Contextual: Sinonimia y Precisión Semántica?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rastreo pasivo de nombres de autores de la vanguardia (P18)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nivel de localización pasiva, no de evaluación crítica de sesgos."
+        },
+        {
+          "letter": "B",
+          "text": "La declamación de versos con rima asonante en el patio del colegio (P18)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destreza oral dramática, ajena al análisis escrito de sesgos de prensa."
+        },
+        {
+          "letter": "C",
+          "text": "El cálculo de tasas de interés de créditos bancarios de ahorro (P18)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razonamiento matemático financiero, ajeno a la lectura crítica."
+        },
+        {
+          "letter": "D",
+          "text": "La evaluación reflexiva y crítica de la intención y sesgo del emisor (P18)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Discernir sesgos y separar hechos de opiniones es una competencia clave del nivel reflexivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se asocia la detección de sesgos con la competencia reflexiva.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
+      "statement": "¿De acuerdo con el fragmento, qué beneficio aporta a la juventud chilena este estudio en Temuco?",
+      "context": "En la preparación del examen PAES en Temuco, Ignacio analiza un texto de Lengua y Literatura para el año 2026 sobre el tema de la Vocabulario Contextual: Sinonimia y Precisión Semántica: 'El estudio sistemático de esta disciplina permite a la juventud de enseñanza media de Chile potenciar sus destrezas intelectuales, contribuyendo a una mejor interpretación de discursos argumentativos, literarios e informativos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potenciar sus destrezas intelectuales y de interpretación crítica de discursos (P19)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el beneficio directo expresado a lo largo de la argumentación de Ignacio en Temuco."
+        },
+        {
+          "letter": "B",
+          "text": "Permitirles viajar gratis en el tren de cercanías Limache-Puerto (P19)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El beneficio de transporte corresponde al pase de TNE de W01, no al estudio académico."
+        },
+        {
+          "letter": "C",
+          "text": "Asegurarles un contrato inmediato en la mina de Chuquicamata (P19)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No otorga empleos de minería de forma directa o de contrato."
+        },
+        {
+          "letter": "D",
+          "text": "Otorgarles financiamiento para comprar carpas de montaña para el Cajón del Maipo (P19)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las carpas de senderismo no forman parte del beneficio de Lenguaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se extrae la consecuencia de desarrollo cognitivo planteada en la cita.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el tema unificador del fragmento analizado por Valentina en Puerto Montt?",
+      "context": "Un ensayo crítico sobre la Vocabulario Contextual: Sinonimia y Precisión Semántica en Chile expone: 'El desarrollo de las habilidades de lectura crítica exige que el estudiante de enseñanza media aprenda a contrastar hechos factuales con opiniones valóricas del emisor, evaluando los sesgos presentes en las columnas de opinión de la prensa de Santiago'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biografía literaria de Nicanor Parra y su antipoesía (P20)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la síntesis poética de W10, no a este análisis crítico de discursos argumentativos."
+        },
+        {
+          "letter": "B",
+          "text": "El desarrollo de las habilidades de lectura crítica en el sistema escolar de Chile (P20)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento de ensayo gira en torno a cómo enseñar y potenciar la lectura crítica escolar."
+        },
+        {
+          "letter": "C",
+          "text": "Las características físicas del desierto de Atacama en el norte chico (P20)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ámbito de la astronomía y geografía de W01, ajeno a la lectura crítica."
+        },
+        {
+          "letter": "D",
+          "text": "El diseño técnico de las ciclovías del eje costero de Concepción (P20)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la carta ciudadana de El Sur de W02, sin vinculación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sintetiza de manera integradora el tema de la lectura chilena.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

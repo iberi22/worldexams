@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias",
+    "country": "pr",
+    "pack_id": "pr-week-2-grade-11-subject-ciencias",
+    "generated_at": "2026-07-29T05:00:59.722Z"
+  },
+  "questions": [
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Modelo de Thomson. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Modelo de Thomson en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Modelo de Thomson.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Modelo de Thomson."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Modelo de Thomson.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Modelo de Thomson posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Modelo de Thomson.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modelo de Thomson es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es modelo del pudín de pasas con electrones incrustados en carga positiva, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Modelo de Thomson."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Modelo de Thomson se define formalmente como modelo del pudín de pasas con electrones incrustados en carga positiva. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Modelo de Rutherford. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Modelo de Rutherford en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es modelo nuclear con un núcleo positivo y espacio circundante vacío, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Modelo de Rutherford."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Modelo de Rutherford.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Modelo de Rutherford posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Modelo de Rutherford.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modelo de Rutherford es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Modelo de Rutherford.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Modelo de Rutherford."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Modelo de Rutherford se define formalmente como modelo nuclear con un núcleo positivo y espacio circundante vacío. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Modelo de Bohr. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Modelo de Bohr en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Modelo de Bohr.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Modelo de Bohr posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es órbitas electrónicas cuantizadas con niveles discretos de energía, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Modelo de Bohr."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Modelo de Bohr.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modelo de Bohr es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Modelo de Bohr.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Modelo de Bohr."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Modelo de Bohr se define formalmente como órbitas electrónicas cuantizadas con niveles discretos de energía. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Isótopos. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Isótopos en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Isótopos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Isótopos es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Isótopos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Isótopos posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es átomos con igual número atómico de protones pero diferente número de neutrones, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Isótopos."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Isótopos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Isótopos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Isótopos se define formalmente como átomos con igual número atómico de protones pero diferente número de neutrones. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Principio de Pauli. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Principio de Pauli en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Principio de Pauli.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Principio de Pauli."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Principio de Pauli.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Principio de Pauli posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Principio de Pauli.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Principio de Pauli es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es máximo dos electrones con espines opuestos en un mismo orbital, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Principio de Pauli."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Principio de Pauli se define formalmente como máximo dos electrones con espines opuestos en un mismo orbital. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Regla de Hund. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Regla de Hund en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es los electrones se desaparean en orbitales de igual energía antes de aparearse, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Regla de Hund."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Regla de Hund.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Regla de Hund posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Regla de Hund.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regla de Hund es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Regla de Hund.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Regla de Hund."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Regla de Hund se define formalmente como los electrones se desaparean en orbitales de igual energía antes de aparearse. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Configuración del Sodio. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Configuración del Sodio en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Configuración del Sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Configuración del Sodio posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es distribución electrónica abreviada expresada como [Ne] 3s¹, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Configuración del Sodio."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Configuración del Sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Configuración del Sodio es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Configuración del Sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Configuración del Sodio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Configuración del Sodio se define formalmente como distribución electrónica abreviada expresada como [Ne] 3s¹. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Principio de Heisenberg. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Principio de Heisenberg en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Principio de Heisenberg.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Principio de Heisenberg es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Principio de Heisenberg.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Principio de Heisenberg posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es imposibilidad de conocer con precisión absoluta posición y velocidad, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Principio de Heisenberg."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Principio de Heisenberg.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Principio de Heisenberg."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Principio de Heisenberg se define formalmente como imposibilidad de conocer con precisión absoluta posición y velocidad. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Dualidad de De Broglie. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Dualidad de De Broglie en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Dualidad de De Broglie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Dualidad de De Broglie."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Dualidad de De Broglie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Dualidad de De Broglie posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Dualidad de De Broglie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dualidad de De Broglie es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es comportamiento ondulatorio asociado a toda partícula de materia en movimiento, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Dualidad de De Broglie."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Dualidad de De Broglie se define formalmente como comportamiento ondulatorio asociado a toda partícula de materia en movimiento. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Función de Onda. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Función de Onda en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es ecuación matemática que describe el estado de probabilidad del electrón, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Función de Onda."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Función de Onda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Función de Onda posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Función de Onda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Función de Onda es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Función de Onda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Función de Onda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Función de Onda se define formalmente como ecuación matemática que describe el estado de probabilidad del electrón. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Protón. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Protón en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Protón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Protón posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es partícula nuclear de carga positiva estable, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Protón."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Protón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Protón es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Protón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Protón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Protón se define formalmente como partícula nuclear de carga positiva estable. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Neutrón. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Neutrón en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Neutrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Neutrón es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Neutrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Neutrón posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es partícula nuclear neutra responsable de la estabilidad isotópica, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Neutrón."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Neutrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Neutrón."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Neutrón se define formalmente como partícula nuclear neutra responsable de la estabilidad isotópica. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Electrón. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Electrón en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Electrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Electrón."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Electrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Electrón posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Electrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Electrón es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es partícula subatómica ligera cargada negativamente en la periferia, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Electrón."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Electrón se define formalmente como partícula subatómica ligera cargada negativamente en la periferia. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Número Atómico. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Número Atómico en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es cantidad total de protones que identifica a un elemento en particular, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Número Atómico."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Número Atómico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Número Atómico posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Número Atómico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Número Atómico es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Número Atómico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Número Atómico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Número Atómico se define formalmente como cantidad total de protones que identifica a un elemento en particular. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Número de Masa. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Número de Masa en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Número de Masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Número de Masa posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es suma del número total de protones y neutrones presentes en el núcleo, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Número de Masa."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Número de Masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Número de Masa es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Número de Masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Número de Masa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Número de Masa se define formalmente como suma del número total de protones y neutrones presentes en el núcleo. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Números Cuánticos. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Números Cuánticos en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Números Cuánticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Números Cuánticos es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Números Cuánticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Números Cuánticos posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es conjunto de cuatro parámetros que especifican la órbita de un electrón, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Números Cuánticos."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Números Cuánticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Números Cuánticos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Números Cuánticos se define formalmente como conjunto de cuatro parámetros que especifican la órbita de un electrón. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Configuración del Cromo. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Configuración del Cromo en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Configuración del Cromo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Configuración del Cromo."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Configuración del Cromo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Configuración del Cromo posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Configuración del Cromo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Configuración del Cromo es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es distribución anómala estable del cromo expresada como [Ar] 4s¹ 3d⁵, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Configuración del Cromo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Configuración del Cromo se define formalmente como distribución anómala estable del cromo expresada como [Ar] 4s¹ 3d⁵. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Espectro de Emisión. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Espectro de Emisión en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es patrón de líneas brillantes producidas al emitir fotones a energías discretas, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Espectro de Emisión."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Espectro de Emisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Espectro de Emisión posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Espectro de Emisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Espectro de Emisión es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Espectro de Emisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Espectro de Emisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Espectro de Emisión se define formalmente como patrón de líneas brillantes producidas al emitir fotones a energías discretas. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Salto Cuántico. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Salto Cuántico en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Salto Cuántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Salto Cuántico posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es transición electrónica instantánea entre dos niveles de energía cuantizados, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Salto Cuántico."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Salto Cuántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salto Cuántico es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Salto Cuántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Salto Cuántico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Salto Cuántico se define formalmente como transición electrónica instantánea entre dos niveles de energía cuantizados. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "Al estudiar los aspectos fundamentales de Estructura de la Materia y Modelos Atómicos, se analiza el rol de Orbital Atómico. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Orbital Atómico en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Orbital Atómico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Orbital Atómico es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Orbital Atómico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Orbital Atómico posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es región del espacio tridimensional con alta probabilidad de encontrar el electrón, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Orbital Atómico."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Orbital Atómico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Orbital Atómico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Orbital Atómico se define formalmente como región del espacio tridimensional con alta probabilidad de encontrar el electrón. Su comprensión e identificación en Estructura de la Materia y Modelos Atómicos resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

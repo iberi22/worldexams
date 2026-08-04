@@ -12,14 +12,12 @@
 </script>
 
 <script lang="ts">
-  import { onMount } from 'svelte';
   import katex from 'katex';
   import 'katex/dist/katex.min.css';
 
   export let content: string = '';
   export let className: string = '';
 
-  let container: HTMLElement;
   let renderedHTML: string = '';
 
   /**
@@ -198,7 +196,7 @@
   </style>
 </svelte:head>
 
-<span class={`math-content ${className}`} bind:this={container}>
+<span class={`math-content ${className}`}>
   {@html renderedHTML}
 </span>
 

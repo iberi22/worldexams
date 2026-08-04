@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias",
+    "country": "pr",
+    "pack_id": "pr-week-8-grade-11-subject-ciencias",
+    "generated_at": "2026-07-29T05:00:59.728Z"
+  },
+  "questions": [
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Soluto. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Soluto en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Soluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Soluto posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es componente que se disuelve y se encuentra en menor proporción, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Soluto."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Soluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Soluto es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Soluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Soluto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Soluto se define formalmente como componente que se disuelve y se encuentra en menor proporción. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Solvente. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Solvente en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Solvente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solvente es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Solvente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Solvente posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es componente que disuelve al soluto y está en mayor cantidad, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Solvente."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Solvente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Solvente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Solvente se define formalmente como componente que disuelve al soluto y está en mayor cantidad. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Molaridad. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Molaridad en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Molaridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Molaridad."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Molaridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Molaridad posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Molaridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Molaridad es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es moles de soluto disueltos por cada litro de solución final (M), fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Molaridad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Molaridad se define formalmente como moles de soluto disueltos por cada litro de solución final (M). Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Porcentaje Masa-Masa. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Porcentaje Masa-Masa en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es gramos de soluto por cada 100 gramos de solución total, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Porcentaje Masa-Masa."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Porcentaje Masa-Masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Porcentaje Masa-Masa posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Porcentaje Masa-Masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Porcentaje Masa-Masa es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Porcentaje Masa-Masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Porcentaje Masa-Masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Porcentaje Masa-Masa se define formalmente como gramos de soluto por cada 100 gramos de solución total. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Partes por Millón. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Partes por Millón en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Partes por Millón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Partes por Millón posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es miligramos de soluto disueltos en un kilogramo o litro de disolución (ppm), fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Partes por Millón."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Partes por Millón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Partes por Millón es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Partes por Millón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Partes por Millón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Partes por Millón se define formalmente como miligramos de soluto disueltos en un kilogramo o litro de disolución (ppm). Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Dilución. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Dilución en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Dilución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dilución es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Dilución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Dilución posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es proceso de disminuir la concentración añadiendo más solvente puro, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Dilución."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Dilución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Dilución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Dilución se define formalmente como proceso de disminuir la concentración añadiendo más solvente puro. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Solución Saturada. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Solución Saturada en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Solución Saturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Solución Saturada."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Solución Saturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Solución Saturada posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Solución Saturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solución Saturada es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es solución que contiene la máxima cantidad de soluto soluble a esa temperatura, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Solución Saturada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Solución Saturada se define formalmente como solución que contiene la máxima cantidad de soluto soluble a esa temperatura. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Efecto Tyndall. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Efecto Tyndall en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es dispersión de un haz de luz visible al atravesar una mezcla coloidal, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Efecto Tyndall."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Efecto Tyndall.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Efecto Tyndall posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Efecto Tyndall.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Efecto Tyndall es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Efecto Tyndall.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Efecto Tyndall."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Efecto Tyndall se define formalmente como dispersión de un haz de luz visible al atravesar una mezcla coloidal. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Solubilidad. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Solubilidad en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Solubilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Solubilidad posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es máxima cantidad de soluto que se puede disolver en un solvente a temperatura dada, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Solubilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Solubilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solubilidad es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Solubilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Solubilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Solubilidad se define formalmente como máxima cantidad de soluto que se puede disolver en un solvente a temperatura dada. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Factores de Solubilidad. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Factores de Solubilidad en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Factores de Solubilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factores de Solubilidad es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Factores de Solubilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Factores de Solubilidad posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es la temperatura y estructura química de interacción determinan el grado de solubilidad, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Factores de Solubilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Factores de Solubilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Factores de Solubilidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Factores de Solubilidad se define formalmente como la temperatura y estructura química de interacción determinan el grado de solubilidad. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Solución Insaturada. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Solución Insaturada en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Solución Insaturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Solución Insaturada."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Solución Insaturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Solución Insaturada posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Solución Insaturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solución Insaturada es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es solución que contiene menos cantidad de soluto que la máxima capacidad de disolución, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Solución Insaturada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Solución Insaturada se define formalmente como solución que contiene menos cantidad de soluto que la máxima capacidad de disolución. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Solución Sobresaturada. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Solución Sobresaturada en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es solución inestable que contiene más soluto disuelto que el límite de saturación, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Solución Sobresaturada."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Solución Sobresaturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Solución Sobresaturada posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Solución Sobresaturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solución Sobresaturada es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Solución Sobresaturada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Solución Sobresaturada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Solución Sobresaturada se define formalmente como solución inestable que contiene más soluto disuelto que el límite de saturación. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Porcentaje Volumen-Volumen. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Porcentaje Volumen-Volumen en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Porcentaje Volumen-Volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Porcentaje Volumen-Volumen posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es volumen de soluto en mililitros por cada 100 mililitros de solución final, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Porcentaje Volumen-Volumen."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Porcentaje Volumen-Volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Porcentaje Volumen-Volumen es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Porcentaje Volumen-Volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Porcentaje Volumen-Volumen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Porcentaje Volumen-Volumen se define formalmente como volumen de soluto en mililitros por cada 100 mililitros de solución final. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Normalidad de la Solución. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Normalidad de la Solución en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Normalidad de la Solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Normalidad de la Solución es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Normalidad de la Solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Normalidad de la Solución posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es cantidad de equivalentes químicos de soluto presentes por litro de solución, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Normalidad de la Solución."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Normalidad de la Solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Normalidad de la Solución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Normalidad de la Solución se define formalmente como cantidad de equivalentes químicos de soluto presentes por litro de solución. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Propiedades Coligativas. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Propiedades Coligativas en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Propiedades Coligativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Propiedades Coligativas."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Propiedades Coligativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Propiedades Coligativas posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Propiedades Coligativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Propiedades Coligativas es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es propiedades físicas de las soluciones que dependen únicamente de la concentración de partículas, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Propiedades Coligativas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Propiedades Coligativas se define formalmente como propiedades físicas de las soluciones que dependen únicamente de la concentración de partículas. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Disminución del Punto de Congelación. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Disminución del Punto de Congelación en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es reducción de la temperatura de congelación del solvente al añadir un soluto, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Disminución del Punto de Congelación."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Disminución del Punto de Congelación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Disminución del Punto de Congelación posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Disminución del Punto de Congelación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Disminución del Punto de Congelación es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Disminución del Punto de Congelación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Disminución del Punto de Congelación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Disminución del Punto de Congelación se define formalmente como reducción de la temperatura de congelación del solvente al añadir un soluto. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Elevación del Punto de Ebullición. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Elevación del Punto de Ebullición en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Elevación del Punto de Ebullición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Elevación del Punto de Ebullición posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es incremento del punto de ebullición del solvente por presencia de solutos no volátiles, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Elevación del Punto de Ebullición."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Elevación del Punto de Ebullición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevación del Punto de Ebullición es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Elevación del Punto de Ebullición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Elevación del Punto de Ebullición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Elevación del Punto de Ebullición se define formalmente como incremento del punto de ebullición del solvente por presencia de solutos no volátiles. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Presión Osmótica. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Presión Osmótica en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Presión Osmótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presión Osmótica es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Presión Osmótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Presión Osmótica posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es presión necesaria para detener el flujo neto de solvente a través de una membrana, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Presión Osmótica."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Presión Osmótica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Presión Osmótica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Presión Osmótica se define formalmente como presión necesaria para detener el flujo neto de solvente a través de una membrana. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Electrolito Fuerte. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Electrolito Fuerte en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Electrolito Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Electrolito Fuerte."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Electrolito Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Electrolito Fuerte posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Electrolito Fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Electrolito Fuerte es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es soluto soluble que se disocia completamente en iones conduciendo corriente eléctrica, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Electrolito Fuerte."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Electrolito Fuerte se define formalmente como soluto soluble que se disocia completamente en iones conduciendo corriente eléctrica. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Al estudiar los aspectos fundamentales de Mezclas y Soluciones Químicas, se analiza el rol de Mezcla Coloidal. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Mezcla Coloidal en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es mezcla heterogénea donde las partículas de fase dispersa no sedimentan rápidamente, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Mezcla Coloidal."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Mezcla Coloidal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Mezcla Coloidal posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Mezcla Coloidal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezcla Coloidal es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Mezcla Coloidal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Mezcla Coloidal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Mezcla Coloidal se define formalmente como mezcla heterogénea donde las partículas de fase dispersa no sedimentan rápidamente. Su comprensión e identificación en Mezclas y Soluciones Químicas resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

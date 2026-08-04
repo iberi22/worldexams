@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lenguaje",
+    "country": "cl",
+    "pack_id": "cl-week-2-grade-11-subject-lenguaje",
+    "generated_at": "2026-08-04T00:18:31.238Z"
+  },
+  "questions": [
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el tema central del fragmento analizado en el taller de ecología?",
+      "context": "En un taller de ecología en La Serena, Vicente lee un ensayo sobre el impacto del cambio climático en la Región de Atacama: 'El sostenido retroceso de los glaciares andinos debido al calentamiento global amenaza de forma directa el riego agrícola de los valles de la zona central, precipitando una crisis de biodiversidad y de abastecimiento alimentario en Chile'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad de exportar más frutas desde los puertos de Chile (P1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tema ausente y de orden mercantil en el problema de agua."
+        },
+        {
+          "letter": "B",
+          "text": "El impacto del derretimiento de glaciares andinos en el riego agrícola de la zona central (P1)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto sintetiza la relación entre el derretimiento y la escasez de agua agrícola."
+        },
+        {
+          "letter": "C",
+          "text": "Un análisis geológico de los volcanes inactivos del norte chileno (P1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo trata sobre glaciares andinos y riego en el centro, no volcanes del norte."
+        },
+        {
+          "letter": "D",
+          "text": "La historia de la legislación sobre derechos de agua en La Serena (P1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe la historia de la ley de agua en el texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema central se obtiene relacionando el problema de fondo (derretimiento glacial) con su impacto directo en el riego y agricultura de Chile.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "¿Qué cambio de enfoque temático experimenta la novela de Alberto Fuguet según el fragmento?",
+      "context": "Un fragmento literario sobre la novela chilena contemporánea expone: 'La obra de Alberto Fuguet en la década de 1990 abandona los discursos solemnes rurales de la literatura tradicional para centrarse en los microrrelatos urbanos de Estación Central, retratando el habla de los gurises chilenos con una honestidad descarnada y crítica'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La transición desde la temática campesina solemne hacia los microrrelatos urbanos y coloquiales (P2)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto detalla el abandono de los discursos solemnes rurales en favor de la urbe."
+        },
+        {
+          "letter": "B",
+          "text": "El paso desde la ciencia ficción del norte hacia el drama romántico de la Patagonia (P2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se citan estos géneros en la crítica literaria de la novela."
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio del formato novela hacia la composición de poesía con rima consonante (P2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transición es temática de la narrativa novelesca, no hacia poesía."
+        },
+        {
+          "letter": "D",
+          "text": "La adopción de modelos teatrales de la comedia extranjera en Rancagua (P2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se describe un proceso de novela local, no de teatro importado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se asocia la oposición entre 'literatura tradicional rural' y 'microrrelatos urbanos' para sintetizar la transición de enfoque.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el propósito del requisito de sobriedad y formalidad lingüística exigido a los vecinos según el análisis?",
+      "context": "Un análisis sobre las cartas al director publicadas en El Sur de Concepción indica: 'Este espacio de opinión ciudadana permite a los vecinos levantar problemáticas vecinales urgentes, pero a la vez exige a los redactores argumentar con sobriedad y ceñirse al registro formal culto para resguardar la validez de sus demandas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitar que los vecinos escriban sobre problemas reales de Concepción (P3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio precisamente sirve para levantar problemas vecinales urgentes de la calle."
+        },
+        {
+          "letter": "B",
+          "text": "Resguardar la validez formal de sus demandas públicas (P3)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto de opinión vincula el registro formal con la necesidad de validar demandas."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar las ventas comerciales del diario El Sur (P3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formalidad busca validez argumentativa, no rentabilidad comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Impedir la postulación de jóvenes de enseñanza media a concursos (P3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación con postulaciones escolares en la exigencia de la carta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se asocia la exigencia formal con su consecuencia pragmática descrita al final de la cita (validez de la demanda).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "A partir de la lectura, ¿qué relación causa-consecuencia se establece respecto a los glaciares?",
+      "context": "En un taller de ecología en Calama, Benjamín lee un ensayo sobre el impacto del cambio climático en la Región de Antofagasta: 'El sostenido retroceso de los glaciares andinos debido al calentamiento global amenaza de forma directa el riego agrícola de los valles de la zona central, precipitando una crisis de biodiversidad y de abastecimiento alimentario en Chile'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calentamiento global causa el retroceso glacial, amenazando el riego agrícola (P4)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la relación de causalidad explícita establecida en la argumentación de la región."
+        },
+        {
+          "letter": "B",
+          "text": "La escasez de riego agrícola provoca el retroceso de las cumbres nevadas (P4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Causalidad invertida de forma ilógica con respecto al texto."
+        },
+        {
+          "letter": "C",
+          "text": "La biodiversidad costera de Calama causa el derretimiento de las cumbres de hielo (P4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación geográficamente imposible y no planteada en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Las exportaciones chilenas estabilizan el volumen de los glaciares andinos (P4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay sustento lógico para esta afirmación en el fragmento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El alumno asocia las partes del texto para reconocer la estructura de causa (calentamiento global) y efecto (amenaza de riego de valles).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "¿En qué entorno geográfico o social se focalizan las obras de la novela contemporánea de Pedro Lemebel?",
+      "context": "Un fragmento literario sobre la novela chilena contemporánea expone: 'La obra de Pedro Lemebel en la década de 2000 abandona los discursos solemnes rurales de la literatura tradicional para centrarse en los microrrelatos urbanos de Peñalolén, retratando el habla de los gurises chilenos con una honestidad descarnada y crítica'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las haciendas agrícolas del sur chileno (P5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este entorno corresponde a la literatura campesina tradicional que se abandonó."
+        },
+        {
+          "letter": "B",
+          "text": "En los campamentos mineros de cobre de Calama (P5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería de la zona norte no es el escenario citado en el texto crítico."
+        },
+        {
+          "letter": "C",
+          "text": "En los microrrelatos urbanos del espacio de Peñalolén (P5)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ensayo estipula formalmente el foco en los microrrelatos urbanos de Peñalolén."
+        },
+        {
+          "letter": "D",
+          "text": "En los puertos comerciales internacionales de Valparaíso (P5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se focaliza en puertos en el texto de esta novela de Pedro Lemebel."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El alumno interpreta la localización de la acción novelesca urbana identificando la comuna nombrada (Peñalolén).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "A partir del texto, ¿qué relación se puede establecer entre las demandas ciudadanas y el registro formal culto?",
+      "context": "Un análisis sobre las cartas al director publicadas en El Sur de Concepción indica: 'Este espacio de opinión ciudadana permite a los vecinos levantar problemáticas vecinales urgentes, pero a la vez exige a los redactores argumentar con sobriedad y ceñirse al registro formal culto para resguardar la validez de sus demandas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El registro formal culto actúa como vehículo para otorgar legitimidad y fuerza a las demandas (P6)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto postula que para validar las demandas vecinales es indispensable usar la formalidad argumentativa."
+        },
+        {
+          "letter": "B",
+          "text": "El registro formal anula la urgencia emocional de los problemas vecinales de la comuna (P6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto indica que permite canalizarlos con sobriedad, no los anula."
+        },
+        {
+          "letter": "C",
+          "text": "La ciudadanía de Concepción rechaza escribir cartas para no usar el lenguaje culto (P6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un espacio activo donde sí se levantan problemas comunales."
+        },
+        {
+          "letter": "D",
+          "text": "Las demandas vecinales son ignoradas debido al exceso de formalidad de la redacción (P6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se plantea indiferencia por exceso de formalidad, sino que es una exigencia de validez."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El alumno interpreta la relación de mutua necesidad entre el uso correcto del registro formal y el éxito de la carta de opinión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "¿Con qué propósito comunicativo el emisor presenta el retroceso de los glaciares andinos?",
+      "context": "En un taller de ecología en Rancagua, Valentina lee un ensayo sobre el impacto del cambio climático en la Región de Atacama: 'El sostenido retroceso de los glaciares andinos debido al calentamiento global amenaza de forma directa el riego agrícola de los valles de la zona central, precipitando una crisis de biodiversidad y de abastecimiento alimentario en Chile'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promocionar el turismo de alta montaña durante el verano en la Región de Atacama (P7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca promover turismo de ruta, sino concientizar sobre una crisis hídrica."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar de forma neutral la composición química de los glaciares de roca (P7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fin no es de orden químico escolar, sino de alerta ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Concientizar sobre las graves consecuencias del calentamiento global en la agricultura de Chile (P7)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El propósito implícito es advertir y movilizar ante la crisis de agua de los campos."
+        },
+        {
+          "letter": "D",
+          "text": "Criticar la falta de tecnología de desalinización de agua de mar en los puertos (P7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desalinización no figura como tema en este ensayo de glaciares de roca."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito implícito se infiere evaluando las consecuencias negativas de escasez de agua alertadas por el emisor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede deducir de la caracterización del habla de los gurises según el texto?",
+      "context": "Un fragmento literario sobre la novela chilena contemporánea expone: 'La obra de Alberto Fuguet en la década de 1990 abandona los discursos solemnes rurales de la literatura tradicional para centrarse en los microrrelatos urbanos de Estación Central, retratando el habla de los gurises chilenos con una honestidad descarnada y crítica'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es un dialecto artificial inventado por el novelista (P8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se describe como una honestidad cruda, no como un código artificial."
+        },
+        {
+          "letter": "B",
+          "text": "Que reproduce el lenguaje formal culto de la academia de Valparaíso (P8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un lenguaje coloquial juvenil de la calle, no formal de academia."
+        },
+        {
+          "letter": "C",
+          "text": "Que carece de expresividad de emociones en la obra (P8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El habla de los jóvenes dota de honestidad y vitalidad crítica a la novela."
+        },
+        {
+          "letter": "D",
+          "text": "Que refleja la identidad de la juventud urbana chilena de forma auténtica (P8)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto asocia el habla con una 'honestidad descarnada' para retratar a la juventud urbana de Estación Central."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se deduce que la honestidad descarnada busca representar la identidad lingüística de la juventud urbana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "¿Qué limitación o exigencia deben cumplir las cartas al director de acuerdo con el fragmento?",
+      "context": "Un análisis sobre las cartas al director publicadas en El Sur de Concepción indica: 'Este espacio de opinión ciudadana permite a los vecinos levantar problemáticas vecinales urgentes, pero a la vez exige a los redactores argumentar con sobriedad y ceñirse al registro formal culto para resguardar la validez de sus demandas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir únicamente sobre temas de astronomía y ciencias exactas (P9)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio acoge problemáticas vecinales de la calle, no ciencia exacta en exclusiva."
+        },
+        {
+          "letter": "B",
+          "text": "Acreditar domicilio legal en la oficina municipal de Santiago (P9)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cartas corresponden a Concepción, ajenas a municipalidades capitalinas."
+        },
+        {
+          "letter": "C",
+          "text": "Argumentar con sobriedad y ceñirse al registro formal culto (P9)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la limitación de estilo que estipula literalmente la cita analizada."
+        },
+        {
+          "letter": "D",
+          "text": "Pagar una tarifa comercial por cada palabra publicada en el diario (P9)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio de cartas al director es de opinión ciudadana, no publicitario pagado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se localiza la restricción discursiva impuesta a la redacción ciudadana en el diario regional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "De acuerdo con la síntesis del texto, ¿qué sector productivo chileno se ve directamente amenazado?",
+      "context": "En un taller de ecología en Concepción, Antonia lee un ensayo sobre el impacto del cambio climático en la Región de Antofagasta: 'El sostenido retroceso de los glaciares andinos debido al calentamiento global amenaza de forma directa el riego agrícola de los valles de la zona central, precipitando una crisis de biodiversidad y de abastecimiento alimentario en Chile'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La industria minera del cobre (P10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se hace mención al cobre o la minería en esta cita de valles."
+        },
+        {
+          "letter": "B",
+          "text": "La generación de energía termosolar (P10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a Cerro Dominador de W06, no a los glaciares del centro."
+        },
+        {
+          "letter": "C",
+          "text": "El transporte público subterráneo (P10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sectores ajenos al problema del agua de riego agrícola de valles centrales."
+        },
+        {
+          "letter": "D",
+          "text": "El sector del riego agrícola (P10)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto indica explícitamente que se amenaza 'el riego agrícola de los valles de la zona central'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se debe relacionar el concepto de 'riego' con el sector productivo correspondiente, que es el 'riego agrícola'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "De acuerdo con la relación textual, ¿cuál era la característica de la literatura tradicional que se abandonó?",
+      "context": "Un fragmento literario sobre la novela chilena contemporánea expone: 'La obra de Pedro Lemebel en la década de 2000 abandona los discursos solemnes rurales de la literatura tradicional para centrarse en los microrrelatos urbanos de Peñalolén, retratando el habla de los gurises chilenos con una honestidad descarnada y crítica'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La brevedad y sencillez de sus poemas líricos (P11)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narrativa tradicional rural se describe como solemne y extensa, no breve de poemas."
+        },
+        {
+          "letter": "B",
+          "text": "Los discursos solemnes de carácter rural (P11)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento señala explícitamente el abandono de 'los discursos solemnes rurales'."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de narradores en tercera persona (P11)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan las tipologías de narrador en la crítica del realismo."
+        },
+        {
+          "letter": "D",
+          "text": "La imitación de la literatura de caballerías española (P11)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es realismo rural tradicional chileno, no caballerías de la edad media."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se relaciona directamente el inicio de la oración para extraer la característica tradicional de origen rural.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "¿En qué medio de comunicación regional de Concepción se publica el espacio de opinión estudiado?",
+      "context": "Un análisis sobre las cartas al director publicadas en El Sur de Concepción indica: 'Este espacio de opinión ciudadana permite a los vecinos levantar problemáticas vecinales urgentes, pero a la vez exige a los redactores argumentar con sobriedad y ceñirse al registro formal culto para resguardar la validez de sus demandas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la revista literaria Nord-Sud de París (P12)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nord-Sud es la revista de Huidobro de W01, no el diario de Concepción."
+        },
+        {
+          "letter": "B",
+          "text": "En un folleto del Parque Nacional Torres del Paine (P12)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a un folleto de parque nacional."
+        },
+        {
+          "letter": "C",
+          "text": "En el sitio web institucional del Ministerio de Educación (P12)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un espacio de prensa ciudadana regional, no un sitio ministerial."
+        },
+        {
+          "letter": "D",
+          "text": "En el diario El Sur de Concepción (P12)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto sitúa formalmente las cartas analizadas en El Sur de Concepción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se extrae la localización del medio de prensa regional de Concepción especificado al inicio del párrafo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "¿Qué fenómeno global es sindicado como el motor directo del retroceso glacial según el ensayo?",
+      "context": "En un taller de ecología en Punta Arenas, Javiera lee un ensayo sobre el impacto del cambio climático en la Región de Atacama: 'El sostenido retroceso de los glaciares andinos debido al calentamiento global amenaza de forma directa el riego agrícola de los valles de la zona central, precipitando una crisis de biodiversidad y de abastecimiento alimentario en Chile'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La deforestación urbana en Punta Arenas (P13)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es sindicada como la causa directa de los glaciares en el fragmento costero."
+        },
+        {
+          "letter": "B",
+          "text": "El calentamiento global (P13)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto atribuye de manera directa el retroceso de los glaciares al calentamiento global."
+        },
+        {
+          "letter": "C",
+          "text": "El aumento de la densidad demográfica de la zona central de Chile (P13)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Criterio demográfico de la capital no listado como causa de la deglaciación."
+        },
+        {
+          "letter": "D",
+          "text": "La escasez de mano de obra en los campos agrícolas (P13)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escasez de mano de obra no causa el retroceso glacial geofísico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se deduce la causa física principal leyendo la conexión lingüística 'retroceso de los glaciares andinos debido al calentamiento global'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el tema principal del fragmento crítico literario leído en Calama?",
+      "context": "Un fragmento literario sobre la novela chilena contemporánea expone: 'La obra de Alberto Fuguet en la década de 1990 abandona los discursos solemnes rurales de la literatura tradicional para centrarse en los microrrelatos urbanos de Estación Central, retratando el habla de los gurises chilenos con una honestidad descarnada y crítica'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biografía íntima del escritor Alberto Fuguet en Calama (P14)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es crítico y conceptual de su obra, no una reseña de su vida íntima."
+        },
+        {
+          "letter": "B",
+          "text": "La influencia de la poesía de vanguardia de Huidobro (P14)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se habla de Huidobro o vanguardia lírica en esta crítica de novela."
+        },
+        {
+          "letter": "C",
+          "text": "La evolución estética y de registro de la narrativa chilena contemporánea (P14)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto analiza conceptualmente los cambios de la novela de Alberto Fuguet frente a la tradición."
+        },
+        {
+          "letter": "D",
+          "text": "El auge del teatro social de Isidora Aguirre en los colegios (P14)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento trata de narrativa novelesca, no de teatro social de campamentos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tema principal se infiere integrando la crítica de novela de la década de 1990 en un concepto de cambio estético de Chile.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "¿Qué se infiere de la expresión 'levantar problemáticas vecinales urgentes'?",
+      "context": "Un análisis sobre las cartas al director publicadas en El Sur de Concepción indica: 'Este espacio de opinión ciudadana permite a los vecinos levantar problemáticas vecinales urgentes, pero a la vez exige a los redactores argumentar con sobriedad y ceñirse al registro formal culto para resguardar la validez de sus demandas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las cartas abordan problemas cotidianos locales que requieren pronta resolución (P15)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Levantar problemáticas urgentes alude a denunciar fallas viales o de alumbrado de rápida atención."
+        },
+        {
+          "letter": "B",
+          "text": "Que los vecinos inventan catástrofes ficticias para salir en la prensa escrita (P15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son problemáticas vecinales reales de la comuna, no historias de ficción."
+        },
+        {
+          "letter": "C",
+          "text": "Que los temas son únicamente de carácter académico y universitario (P15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son problemas de la vecindad cotidiana (ciclovías, ruidos, iluminación), no papers de universidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el espacio se restringe a los meses de las Fiestas Patrias (P15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cartas se publican de forma continua durante todo el año, sin límites estacionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Infiere la naturaleza de las problemáticas vecinales cotidianas a partir del concepto de 'urgencia'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el tema central del fragmento analizado en el taller de ecología?",
+      "context": "En un taller de ecología en La Serena, Alonso lee un ensayo sobre el impacto del cambio climático en la Región de Antofagasta: 'El sostenido retroceso de los glaciares andinos debido al calentamiento global amenaza de forma directa el riego agrícola de los valles de la zona central, precipitando una crisis de biodiversidad y de abastecimiento alimentario en Chile'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad de exportar más frutas desde los puertos de Chile (P16)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tema ausente y de orden mercantil en el problema de agua."
+        },
+        {
+          "letter": "B",
+          "text": "El impacto del derretimiento de glaciares andinos en el riego agrícola de la zona central (P16)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto sintetiza la relación entre el derretimiento y la escasez de agua agrícola."
+        },
+        {
+          "letter": "C",
+          "text": "Un análisis geológico de los volcanes inactivos del norte chileno (P16)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo trata sobre glaciares andinos y riego en el centro, no volcanes del norte."
+        },
+        {
+          "letter": "D",
+          "text": "La historia de la legislación sobre derechos de agua en La Serena (P16)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se describe la historia de la ley de agua en el texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema central se obtiene relacionando el problema de fondo (derretimiento glacial) con su impacto directo en el riego y agricultura de Chile.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "¿Qué cambio de enfoque temático experimenta la novela de Pedro Lemebel según el fragmento?",
+      "context": "Un fragmento literario sobre la novela chilena contemporánea expone: 'La obra de Pedro Lemebel en la década de 2000 abandona los discursos solemnes rurales de la literatura tradicional para centrarse en los microrrelatos urbanos de Peñalolén, retratando el habla de los gurises chilenos con una honestidad descarnada y crítica'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La transición desde la temática campesina solemne hacia los microrrelatos urbanos y coloquiales (P17)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto detalla el abandono de los discursos solemnes rurales en favor de la urbe."
+        },
+        {
+          "letter": "B",
+          "text": "El paso desde la ciencia ficción del norte hacia el drama romántico de la Patagonia (P17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se citan estos géneros en la crítica literaria de la novela."
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio del formato novela hacia la composición de poesía con rima consonante (P17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transición es temática de la narrativa novelesca, no hacia poesía."
+        },
+        {
+          "letter": "D",
+          "text": "La adopción de modelos teatrales de la comedia extranjera en Rancagua (P17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se describe un proceso de novela local, no de teatro importado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se asocia la oposición entre 'literatura tradicional rural' y 'microrrelatos urbanos' para sintetizar la transición de enfoque.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.59,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el propósito del requisito de sobriedad y formalidad lingüística exigido a los vecinos según el análisis?",
+      "context": "Un análisis sobre las cartas al director publicadas en El Sur de Concepción indica: 'Este espacio de opinión ciudadana permite a los vecinos levantar problemáticas vecinales urgentes, pero a la vez exige a los redactores argumentar con sobriedad y ceñirse al registro formal culto para resguardar la validez de sus demandas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitar que los vecinos escriban sobre problemas reales de Concepción (P18)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio precisamente sirve para levantar problemas vecinales urgentes de la calle."
+        },
+        {
+          "letter": "B",
+          "text": "Resguardar la validez formal de sus demandas públicas (P18)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto de opinión vincula el registro formal con la necesidad de validar demandas."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar las ventas comerciales del diario El Sur (P18)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formalidad busca validez argumentativa, no rentabilidad comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Impedir la postulación de jóvenes de enseñanza media a concursos (P18)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación con postulaciones escolares en la exigencia de la carta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se asocia la exigencia formal con su consecuencia pragmática descrita al final de la cita (validez de la demanda).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "A partir de la lectura, ¿qué relación causa-consecuencia se establece respecto a los glaciares?",
+      "context": "En un taller de ecología en Calama, Sofía lee un ensayo sobre el impacto del cambio climático en la Región de Atacama: 'El sostenido retroceso de los glaciares andinos debido al calentamiento global amenaza de forma directa el riego agrícola de los valles de la zona central, precipitando una crisis de biodiversidad y de abastecimiento alimentario en Chile'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calentamiento global causa el retroceso glacial, amenazando el riego agrícola (P19)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la relación de causalidad explícita establecida en la argumentación de la región."
+        },
+        {
+          "letter": "B",
+          "text": "La escasez de riego agrícola provoca el retroceso de las cumbres nevadas (P19)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Causalidad invertida de forma ilógica con respecto al texto."
+        },
+        {
+          "letter": "C",
+          "text": "La biodiversidad costera de Calama causa el derretimiento de las cumbres de hielo (P19)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación geográficamente imposible y no planteada en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Las exportaciones chilenas estabilizan el volumen de los glaciares andinos (P19)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay sustento lógico para esta afirmación en el fragmento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El alumno asocia las partes del texto para reconocer la estructura de causa (calentamiento global) y efecto (amenaza de riego de valles).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "¿En qué entorno geográfico o social se focalizan las obras de la novela contemporánea de Alberto Fuguet?",
+      "context": "Un fragmento literario sobre la novela chilena contemporánea expone: 'La obra de Alberto Fuguet en la década de 1990 abandona los discursos solemnes rurales de la literatura tradicional para centrarse en los microrrelatos urbanos de Estación Central, retratando el habla de los gurises chilenos con una honestidad descarnada y crítica'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las haciendas agrícolas del sur chileno (P20)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este entorno corresponde a la literatura campesina tradicional que se abandonó."
+        },
+        {
+          "letter": "B",
+          "text": "En los campamentos mineros de cobre de Calama (P20)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería de la zona norte no es el escenario citado en el texto crítico."
+        },
+        {
+          "letter": "C",
+          "text": "En los microrrelatos urbanos del espacio de Estación Central (P20)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ensayo estipula formalmente el foco en los microrrelatos urbanos de Estación Central."
+        },
+        {
+          "letter": "D",
+          "text": "En los puertos comerciales internacionales de Valparaíso (P20)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se focaliza en puertos en el texto de esta novela de Alberto Fuguet."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El alumno interpreta la localización de la acción novelesca urbana identificando la comuna nombrada (Estación Central).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lenguaje",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

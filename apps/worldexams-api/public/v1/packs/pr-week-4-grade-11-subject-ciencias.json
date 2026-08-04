@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias",
+    "country": "pr",
+    "pack_id": "pr-week-4-grade-11-subject-ciencias",
+    "generated_at": "2026-07-29T05:00:59.724Z"
+  },
+  "questions": [
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Enlace Iónico. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Enlace Iónico en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Enlace Iónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Enlace Iónico posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es atracción electrostática producida por la transferencia completa de electrones, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Enlace Iónico."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Enlace Iónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace Iónico es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Enlace Iónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Enlace Iónico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Enlace Iónico se define formalmente como atracción electrostática producida por la transferencia completa de electrones. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Enlace Covalente Polar. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Enlace Covalente Polar en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Enlace Covalente Polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace Covalente Polar es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Enlace Covalente Polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Enlace Covalente Polar posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es compartición desigual de electrones debido a diferencias de electronegatividad, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Enlace Covalente Polar."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Enlace Covalente Polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Enlace Covalente Polar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Enlace Covalente Polar se define formalmente como compartición desigual de electrones debido a diferencias de electronegatividad. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Enlace Covalente No Polar. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Enlace Covalente No Polar en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Enlace Covalente No Polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Enlace Covalente No Polar."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Enlace Covalente No Polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Enlace Covalente No Polar posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Enlace Covalente No Polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace Covalente No Polar es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es compartición simétrica de electrones entre átomos con electronegatividad similar, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Enlace Covalente No Polar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Enlace Covalente No Polar se define formalmente como compartición simétrica de electrones entre átomos con electronegatividad similar. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Enlace Metálico. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Enlace Metálico en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es red de cationes inmersos en un mar deslocalizado de electrones móviles, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Enlace Metálico."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Enlace Metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Enlace Metálico posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Enlace Metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace Metálico es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Enlace Metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Enlace Metálico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Enlace Metálico se define formalmente como red de cationes inmersos en un mar deslocalizado de electrones móviles. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Geometría Molecular. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Geometría Molecular en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Geometría Molecular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Geometría Molecular posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es disposición tridimensional de los átomos según la repulsión de pares de electrones, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Geometría Molecular."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Geometría Molecular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Geometría Molecular es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Geometría Molecular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Geometría Molecular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Geometría Molecular se define formalmente como disposición tridimensional de los átomos según la repulsión de pares de electrones. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Estructura de Lewis. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Estructura de Lewis en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Estructura de Lewis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructura de Lewis es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Estructura de Lewis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Estructura de Lewis posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es representación gráfica de los electrones de valencia y enlaces moleculares, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Estructura de Lewis."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Estructura de Lewis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Estructura de Lewis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Estructura de Lewis se define formalmente como representación gráfica de los electrones de valencia y enlaces moleculares. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Puente de Hidrógeno. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Puente de Hidrógeno en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Puente de Hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Puente de Hidrógeno."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Puente de Hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Puente de Hidrógeno posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Puente de Hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puente de Hidrógeno es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es atracción intermolecular fuerte entre hidrógeno y átomos muy pequeños como O, N o F, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Puente de Hidrógeno."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Puente de Hidrógeno se define formalmente como atracción intermolecular fuerte entre hidrógeno y átomos muy pequeños como O, N o F. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Fuerzas de London. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Fuerzas de London en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es fuerzas intermoleculares débiles debidas a dipolos inducidos temporales, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Fuerzas de London."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Fuerzas de London.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Fuerzas de London posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Fuerzas de London.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fuerzas de London es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Fuerzas de London.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Fuerzas de London."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Fuerzas de London se define formalmente como fuerzas intermoleculares débiles debidas a dipolos inducidos temporales. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Fuerzas Dipolo-Dipolo. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Fuerzas Dipolo-Dipolo en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Fuerzas Dipolo-Dipolo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Fuerzas Dipolo-Dipolo posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es atracción electrostática entre los extremos polares de moléculas permanentes, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Fuerzas Dipolo-Dipolo."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Fuerzas Dipolo-Dipolo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fuerzas Dipolo-Dipolo es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Fuerzas Dipolo-Dipolo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Fuerzas Dipolo-Dipolo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Fuerzas Dipolo-Dipolo se define formalmente como atracción electrostática entre los extremos polares de moléculas permanentes. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Regla del Octeto. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Regla del Octeto en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Regla del Octeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regla del Octeto es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Regla del Octeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Regla del Octeto posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es tendencia de los átomos a completar ocho electrones en su capa externa, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Regla del Octeto."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Regla del Octeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Regla del Octeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Regla del Octeto se define formalmente como tendencia de los átomos a completar ocho electrones en su capa externa. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Enlace Covalente Coordinado. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en San Juan, Gabriel investiga la aplicación del concepto de Enlace Covalente Coordinado en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Enlace Covalente Coordinado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Enlace Covalente Coordinado."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Enlace Covalente Coordinado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Enlace Covalente Coordinado posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Enlace Covalente Coordinado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace Covalente Coordinado es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es enlace donde uno de los átomos aporta el par completo de electrones, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Enlace Covalente Coordinado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Enlace Covalente Coordinado se define formalmente como enlace donde uno de los átomos aporta el par completo de electrones. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Hibridación de Orbitales. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Ponce, Sofía investiga la aplicación del concepto de Hibridación de Orbitales en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es mezcla de orbitales atómicos puros para formar nuevos orbitales híbridos, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Hibridación de Orbitales."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Hibridación de Orbitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Hibridación de Orbitales posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Hibridación de Orbitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hibridación de Orbitales es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Hibridación de Orbitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Hibridación de Orbitales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Hibridación de Orbitales se define formalmente como mezcla de orbitales atómicos puros para formar nuevos orbitales híbridos. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Resonancia Molecular. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Mayagüez, Alondra investiga la aplicación del concepto de Resonancia Molecular en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Resonancia Molecular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Resonancia Molecular posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es uso de múltiples estructuras válidas de Lewis para representar la molécula real, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Resonancia Molecular."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Resonancia Molecular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resonancia Molecular es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Resonancia Molecular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Resonancia Molecular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Resonancia Molecular se define formalmente como uso de múltiples estructuras válidas de Lewis para representar la molécula real. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Momento Dipolar. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Bayamón, Luis investiga la aplicación del concepto de Momento Dipolar en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Momento Dipolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Momento Dipolar es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Momento Dipolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Momento Dipolar posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es medida cuantitativa de la polaridad global que posee una molécula, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Momento Dipolar."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Momento Dipolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Momento Dipolar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Momento Dipolar se define formalmente como medida cuantitativa de la polaridad global que posee una molécula. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Teoría de Repulsión de Pares (VSEPR). ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Carolina, Carlos investiga la aplicación del concepto de Teoría de Repulsión de Pares (VSEPR) en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Teoría de Repulsión de Pares (VSEPR).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Teoría de Repulsión de Pares (VSEPR)."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Teoría de Repulsión de Pares (VSEPR).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Teoría de Repulsión de Pares (VSEPR) posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Teoría de Repulsión de Pares (VSEPR).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Teoría de Repulsión de Pares (VSEPR) es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es modelo que predice formas tridimensionales minimizando repulsiones de pares, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Teoría de Repulsión de Pares (VSEPR)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Teoría de Repulsión de Pares (VSEPR) se define formalmente como modelo que predice formas tridimensionales minimizando repulsiones de pares. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Enlace Sigma y Pi. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Humacao, Mateo investiga la aplicación del concepto de Enlace Sigma y Pi en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es enlaces formados por solapamiento frontal y lateral de orbitales respectivamente, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Enlace Sigma y Pi."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Enlace Sigma y Pi.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Enlace Sigma y Pi posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Enlace Sigma y Pi.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace Sigma y Pi es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Enlace Sigma y Pi.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Enlace Sigma y Pi."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Enlace Sigma y Pi se define formalmente como enlaces formados por solapamiento frontal y lateral de orbitales respectivamente. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Geometría Tetraédrica. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Cayey, Valentina investiga la aplicación del concepto de Geometría Tetraédrica en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Geometría Tetraédrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Geometría Tetraédrica posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "B",
+          "text": "Es disposición angular con cuatro enlaces simétricos con separación de 109.5 grados, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Geometría Tetraédrica."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Geometría Tetraédrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Geometría Tetraédrica es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Geometría Tetraédrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Geometría Tetraédrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El concepto de Geometría Tetraédrica se define formalmente como disposición angular con cuatro enlaces simétricos con separación de 109.5 grados. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Geometría Trigonal Plana. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Caguas, José investiga la aplicación del concepto de Geometría Trigonal Plana en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Geometría Trigonal Plana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Geometría Trigonal Plana es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Geometría Trigonal Plana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Geometría Trigonal Plana posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es disposición geométrica con tres enlaces coplanares separados a 120 grados, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Geometría Trigonal Plana."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Geometría Trigonal Plana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Geometría Trigonal Plana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de Geometría Trigonal Plana se define formalmente como disposición geométrica con tres enlaces coplanares separados a 120 grados. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Energía de Enlace. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Arecibo, Carmen investiga la aplicación del concepto de Energía de Enlace en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Energía de Enlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Energía de Enlace."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Energía de Enlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Energía de Enlace posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Energía de Enlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Energía de Enlace es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Es energía necesaria para romper un enlace químico gaseoso específico, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Energía de Enlace."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de Energía de Enlace se define formalmente como energía necesaria para romper un enlace químico gaseoso específico. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "Al estudiar los aspectos fundamentales de Enlaces Químicos y Estructura Molecular, se analiza el rol de Red Cristalina. ¿Cuál de las siguientes opciones define o describe de forma más precisa este concepto?",
+      "context": "En un laboratorio escolar en Guaynabo, Yaritza investiga la aplicación del concepto de Red Cristalina en un experimento controlado de ciencias de undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es estructura periódica tridimensional altamente ordenada que forma compuestos sólidos, fundamental para el análisis sistemático de este sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición científica exacta y aceptada para el concepto de Red Cristalina."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad macroscópica secundaria que carece de relevancia cuantitativa o matemática para Red Cristalina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto de Red Cristalina posee una gran relevancia tanto cuantitativa como analítica en las ciencias físicas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un fenómeno colateral que ocurre únicamente bajo el cero absoluto en el vacío para Red Cristalina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Red Cristalina es un concepto general aplicable en una amplia gama de condiciones experimentales ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "Representa la energía cinética residual disipada de forma irreversible hacia el espacio por Red Cristalina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se asocia más con conceptos termodinámicos de disipación de calor, no con Red Cristalina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Red Cristalina se define formalmente como estructura periódica tridimensional altamente ordenada que forma compuestos sólidos. Su comprensión e identificación en Enlaces Químicos y Estructura Molecular resulta indispensable para llevar a cabo mediciones válidas, interpretar fenómenos naturales de forma sistemática y cumplir con los estándares del currículo de ciencias del Departamento de Educación de Puerto Rico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

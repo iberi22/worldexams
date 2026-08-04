@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-08-04T00:18:31.420Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v1",
+      "statement": "Resuelva la ecuación lineal para encontrar el número de insumos médicos en Ambato: $3x - 5 = 16$.",
+      "context": "En la ciudad de Ambato, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sumando 5 a ambos lados: $3x = 21 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.91,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v2",
+      "statement": "Resuelva la ecuación lineal para encontrar el número de insumos médicos en Quito: $3x - 5 = 16$.",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sumando 5 a ambos lados: $3x = 21 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v3",
+      "statement": "Resuelva la ecuación lineal para encontrar el número de insumos médicos en Cuenca: $3x - 5 = 16$.",
+      "context": "En la ciudad de Cuenca, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando 5 a ambos lados: $3x = 21 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v4",
+      "statement": "Resuelva la ecuación lineal para encontrar el número de insumos médicos en Loja: $3x - 5 = 16$.",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sumando 5 a ambos lados: $3x = 21 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v5",
+      "statement": "En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde $x$ es el número de artículos producidos. Si el presupuesto asignado es de $120$ dólares, ¿cuántos artículos se pueden producir?",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Establecemos $2x + 50 = 120 \\Rightarrow 2x = 70 \\Rightarrow x = 35$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v6",
+      "statement": "En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde $x$ es el número de artículos producidos. Si el presupuesto asignado es de $120$ dólares, ¿cuántos artículos se pueden producir?",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Establecemos $2x + 50 = 120 \\Rightarrow 2x = 70 \\Rightarrow x = 35$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v7",
+      "statement": "En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde $x$ es el número de artículos producidos. Si el presupuesto asignado es de $120$ dólares, ¿cuántos artículos se pueden producir?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Establecemos $2x + 50 = 120 \\Rightarrow 2x = 70 \\Rightarrow x = 35$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v8",
+      "statement": "En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde $x$ es el número de artículos producidos. Si el presupuesto asignado es de $120$ dólares, ¿cuántos artículos se pueden producir?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Establecemos $2x + 50 = 120 \\Rightarrow 2x = 70 \\Rightarrow x = 35$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v9",
+      "statement": "En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde $x$ es el número de artículos producidos. Si el presupuesto asignado es de $120$ dólares, ¿cuántos artículos se pueden producir?",
+      "context": "En la ciudad de Ambato, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Establecemos $2x + 50 = 120 \\Rightarrow 2x = 70 \\Rightarrow x = 35$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v10",
+      "statement": "En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde $x$ es el número de artículos producidos. Si el presupuesto asignado es de $120$ dólares, ¿cuántos artículos se pueden producir?",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Establecemos $2x + 50 = 120 \\Rightarrow 2x = 70 \\Rightarrow x = 35$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v11",
+      "statement": "Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud de un cable de fibra óptica en Machala: $\\frac{2x}{3} - 1 = \\frac{x}{2} + 3$.",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \\Rightarrow 4x - 3x = 18 + 6 \\Rightarrow x = 24$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.56,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v12",
+      "statement": "Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud de un cable de fibra óptica en Guayaquil: $\\frac{2x}{3} - 1 = \\frac{x}{2} + 3$.",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \\Rightarrow 4x - 3x = 18 + 6 \\Rightarrow x = 24$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v13",
+      "statement": "Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud de un cable de fibra óptica en Manta: $\\frac{2x}{3} - 1 = \\frac{x}{2} + 3$.",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \\Rightarrow 4x - 3x = 18 + 6 \\Rightarrow x = 24$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v14",
+      "statement": "Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud de un cable de fibra óptica en Quito: $\\frac{2x}{3} - 1 = \\frac{x}{2} + 3$.",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \\Rightarrow 4x - 3x = 18 + 6 \\Rightarrow x = 24$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v15",
+      "statement": "Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud de un cable de fibra óptica en Guayaquil: $\\frac{2x}{3} - 1 = \\frac{x}{2} + 3$.",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \\Rightarrow 4x - 3x = 18 + 6 \\Rightarrow x = 24$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v16",
+      "statement": "Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud de un cable de fibra óptica en Manta: $\\frac{2x}{3} - 1 = \\frac{x}{2} + 3$.",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \\Rightarrow 4x - 3x = 18 + 6 \\Rightarrow x = 24$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v17",
+      "statement": "Lorena y Esteban tienen juntos $150$ dólares. Si Lorena tiene el doble de dinero que Esteban, ¿cuánto dinero tiene Esteban?",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "75 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "60 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "50 dólares",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "100 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si $x$ es el dinero de {name2}, {name1} tiene $2x$. Juntos: $x + 2x = 150 \\Rightarrow 3x = 150 \\Rightarrow x = 50$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v18",
+      "statement": "Fernando y Carlos tienen juntos $150$ dólares. Si Fernando tiene el doble de dinero que Carlos, ¿cuánto dinero tiene Carlos?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "75 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "100 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "60 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "50 dólares",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Si $x$ es el dinero de {name2}, {name1} tiene $2x$. Juntos: $x + 2x = 150 \\Rightarrow 3x = 150 \\Rightarrow x = 50$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v19",
+      "statement": "Lorena y José tienen juntos $150$ dólares. Si Lorena tiene el doble de dinero que José, ¿cuánto dinero tiene José?",
+      "context": "En la ciudad de Cuenca, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "75 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "100 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "50 dólares",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "60 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si $x$ es el dinero de {name2}, {name1} tiene $2x$. Juntos: $x + 2x = 150 \\Rightarrow 3x = 150 \\Rightarrow x = 50$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle-v20",
+      "statement": "Esteban y Carlos tienen juntos $150$ dólares. Si Esteban tiene el doble de dinero que Carlos, ¿cuánto dinero tiene Carlos?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 dólares",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "60 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "100 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "75 dólares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si $x$ es el dinero de {name2}, {name1} tiene $2x$. Juntos: $x + 2x = 150 \\Rightarrow 3x = 150 \\Rightarrow x = 50$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W08-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}
