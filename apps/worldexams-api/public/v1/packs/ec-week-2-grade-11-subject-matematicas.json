@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-08-04T00:18:31.417Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v1",
+      "statement": "¿Qué propiedad de los números reales se aplica en la igualdad $a \\cdot (b + c) = a \\cdot b + a \\cdot c$ al calcular el presupuesto de un evento cultural en Ambato?",
+      "context": "En la ciudad de Ambato, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad distributiva del producto respecto a la suma",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad conmutativa de la suma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad del elemento neutro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad asociativa del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad distributiva permite multiplicar un número por una suma distribuyendo el producto a cada uno de los sumandos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.91,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad de los números reales se aplica en la igualdad $a \\cdot (b + c) = a \\cdot b + a \\cdot c$ al calcular el presupuesto de un evento cultural en Cuenca?",
+      "context": "En la ciudad de Cuenca, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad conmutativa de la suma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad distributiva del producto respecto a la suma",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad asociativa del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad del elemento neutro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad distributiva permite multiplicar un número por una suma distribuyendo el producto a cada uno de los sumandos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v3",
+      "statement": "¿Qué propiedad de los números reales se aplica en la igualdad $a \\cdot (b + c) = a \\cdot b + a \\cdot c$ al calcular el presupuesto de un evento cultural en Riobamba?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad distributiva del producto respecto a la suma",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad del elemento neutro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad asociativa del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad conmutativa de la suma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad distributiva permite multiplicar un número por una suma distribuyendo el producto a cada uno de los sumandos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v4",
+      "statement": "¿Qué propiedad de los números reales se aplica en la igualdad $a \\cdot (b + c) = a \\cdot b + a \\cdot c$ al calcular el presupuesto de un evento cultural en Guayaquil?",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad distributiva del producto respecto a la suma",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad conmutativa de la suma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad del elemento neutro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad asociativa del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad distributiva permite multiplicar un número por una suma distribuyendo el producto a cada uno de los sumandos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v5",
+      "statement": "Al realizar un descuento del 12% del IVA en una tienda de electrodomésticos en Loja, se calcula el valor final multiplicando el precio $P$ por $0.88$. ¿Qué propiedad justifica que multiplicar el precio por $1$ no altere su valor original?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad clausurativa de la multiplicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Existencia del elemento neutro multiplicativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "Existencia del inverso multiplicativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Existencia del elemento opuesto o inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El elemento neutro de la multiplicación es el $1$, ya que cualquier número real multiplicado por $1$ da como resultado el mismo número.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v6",
+      "statement": "Al realizar un descuento del 12% del IVA en una tienda de electrodomésticos en Guayaquil, se calcula el valor final multiplicando el precio $P$ por $0.88$. ¿Qué propiedad justifica que multiplicar el precio por $1$ no altere su valor original?",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existencia del elemento neutro multiplicativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Existencia del elemento opuesto o inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Existencia del inverso multiplicativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad clausurativa de la multiplicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El elemento neutro de la multiplicación es el $1$, ya que cualquier número real multiplicado por $1$ da como resultado el mismo número.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v7",
+      "statement": "Al realizar un descuento del 12% del IVA en una tienda de electrodomésticos en Quito, se calcula el valor final multiplicando el precio $P$ por $0.88$. ¿Qué propiedad justifica que multiplicar el precio por $1$ no altere su valor original?",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existencia del elemento neutro multiplicativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Existencia del elemento opuesto o inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Existencia del inverso multiplicativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad clausurativa de la multiplicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El elemento neutro de la multiplicación es el $1$, ya que cualquier número real multiplicado por $1$ da como resultado el mismo número.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v8",
+      "statement": "Al realizar un descuento del 12% del IVA en una tienda de electrodomésticos en Machala, se calcula el valor final multiplicando el precio $P$ por $0.88$. ¿Qué propiedad justifica que multiplicar el precio por $1$ no altere su valor original?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existencia del elemento opuesto o inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Existencia del elemento neutro multiplicativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad clausurativa de la multiplicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Existencia del inverso multiplicativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El elemento neutro de la multiplicación es el $1$, ya que cualquier número real multiplicado por $1$ da como resultado el mismo número.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v9",
+      "statement": "Al realizar un descuento del 12% del IVA en una tienda de electrodomésticos en Cuenca, se calcula el valor final multiplicando el precio $P$ por $0.88$. ¿Qué propiedad justifica que multiplicar el precio por $1$ no altere su valor original?",
+      "context": "En la ciudad de Cuenca, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existencia del elemento neutro multiplicativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Existencia del elemento opuesto o inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad clausurativa de la multiplicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Existencia del inverso multiplicativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El elemento neutro de la multiplicación es el $1$, ya que cualquier número real multiplicado por $1$ da como resultado el mismo número.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v10",
+      "statement": "Al realizar un descuento del 12% del IVA en una tienda de electrodomésticos en Machala, se calcula el valor final multiplicando el precio $P$ por $0.88$. ¿Qué propiedad justifica que multiplicar el precio por $1$ no altere su valor original?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existencia del inverso multiplicativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Existencia del elemento opuesto o inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad clausurativa de la multiplicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Existencia del elemento neutro multiplicativo",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El elemento neutro de la multiplicación es el $1$, ya que cualquier número real multiplicado por $1$ da como resultado el mismo número.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v11",
+      "statement": "Se define la operación de costos de envío en una cooperativa de transportes en Quito mediante la expresión $C(x) = 5x + 10$. Si se quiere demostrar que para cualquier valor real de $x_1$ y $x_2$ la suma de costos es un número real, ¿qué propiedad de los números reales garantiza esto?",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad del inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad reflexiva de la igualdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad distributiva únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La propiedad clausurativa establece que la suma y el producto de dos números reales siempre dan como resultado otro número real.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.56,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v12",
+      "statement": "Se define la operación de costos de envío en una cooperativa de transportes en Machala mediante la expresión $C(x) = 5x + 10$. Si se quiere demostrar que para cualquier valor real de $x_1$ y $x_2$ la suma de costos es un número real, ¿qué propiedad de los números reales garantiza esto?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad reflexiva de la igualdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad del inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad distributiva únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad clausurativa establece que la suma y el producto de dos números reales siempre dan como resultado otro número real.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v13",
+      "statement": "Se define la operación de costos de envío en una cooperativa de transportes en Cuenca mediante la expresión $C(x) = 5x + 10$. Si se quiere demostrar que para cualquier valor real de $x_1$ y $x_2$ la suma de costos es un número real, ¿qué propiedad de los números reales garantiza esto?",
+      "context": "En la ciudad de Cuenca, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad distributiva únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad del inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad reflexiva de la igualdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad clausurativa establece que la suma y el producto de dos números reales siempre dan como resultado otro número real.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v14",
+      "statement": "Se define la operación de costos de envío en una cooperativa de transportes en Guayaquil mediante la expresión $C(x) = 5x + 10$. Si se quiere demostrar que para cualquier valor real de $x_1$ y $x_2$ la suma de costos es un número real, ¿qué propiedad de los números reales garantiza esto?",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad reflexiva de la igualdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad distributiva únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad del inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad clausurativa establece que la suma y el producto de dos números reales siempre dan como resultado otro número real.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v15",
+      "statement": "Se define la operación de costos de envío en una cooperativa de transportes en Machala mediante la expresión $C(x) = 5x + 10$. Si se quiere demostrar que para cualquier valor real de $x_1$ y $x_2$ la suma de costos es un número real, ¿qué propiedad de los números reales garantiza esto?",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad del inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad distributiva únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad reflexiva de la igualdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad clausurativa establece que la suma y el producto de dos números reales siempre dan como resultado otro número real.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v16",
+      "statement": "Se define la operación de costos de envío en una cooperativa de transportes en Riobamba mediante la expresión $C(x) = 5x + 10$. Si se quiere demostrar que para cualquier valor real de $x_1$ y $x_2$ la suma de costos es un número real, ¿qué propiedad de los números reales garantiza esto?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad distributiva únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad reflexiva de la igualdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad del inverso aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad clausurativa establece que la suma y el producto de dos números reales siempre dan como resultado otro número real.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v17",
+      "statement": "Considere la densidad de los números reales. Si Ana afirma que entre dos números reales cualesquiera siempre existe otro número real, y Patricia afirma que hay un número finito de reales entre 1 y 2, ¿quién está en lo correcto?",
+      "context": "En la ciudad de Ambato, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno está en lo correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Solo Ana tiene la razón, debido a la propiedad de densidad de los números reales.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "Solo Patricia tiene la razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos están en lo correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los números reales son densos; esto significa que entre dos números reales distintos siempre existe una infinidad de otros números reales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v18",
+      "statement": "Considere la densidad de los números reales. Si José afirma que entre dos números reales cualesquiera siempre existe otro número real, y Patricia afirma que hay un número finito de reales entre 1 y 2, ¿quién está en lo correcto?",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos están en lo correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno está en lo correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Solo José tiene la razón, debido a la propiedad de densidad de los números reales.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Solo Patricia tiene la razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los números reales son densos; esto significa que entre dos números reales distintos siempre existe una infinidad de otros números reales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v19",
+      "statement": "Considere la densidad de los números reales. Si Lorena afirma que entre dos números reales cualesquiera siempre existe otro número real, y Fernando afirma que hay un número finito de reales entre 1 y 2, ¿quién está en lo correcto?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo Lorena tiene la razón, debido a la propiedad de densidad de los números reales.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Solo Fernando tiene la razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno está en lo correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos están en lo correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los números reales son densos; esto significa que entre dos números reales distintos siempre existe una infinidad de otros números reales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle-v20",
+      "statement": "Considere la densidad de los números reales. Si Patricia afirma que entre dos números reales cualesquiera siempre existe otro número real, y Luis afirma que hay un número finito de reales entre 1 y 2, ¿quién está en lo correcto?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno está en lo correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Solo Luis tiene la razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Solo Patricia tiene la razón, debido a la propiedad de densidad de los números reales.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "Ambos están en lo correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los números reales son densos; esto significa que entre dos números reales distintos siempre existe una infinidad de otros números reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W02-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-08-04T00:18:31.419Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v1",
+      "statement": "En la Colegio Nacional Manta se modela el área de un terreno en Ambato con la expresión algebraica $3x^2 + 5x - 2$. Si $x = 3$ metros, ¿cuál es el valor numérico de dicha área?",
+      "context": "En la ciudad de Ambato, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "44",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 3(9) + 15 - 2 = 27 + 15 - 2 = 40$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.91,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v2",
+      "statement": "En la Unidad Educativa Santo Domingo se modela el área de un terreno en Ibarra con la expresión algebraica $3x^2 + 5x - 2$. Si $x = 3$ metros, ¿cuál es el valor numérico de dicha área?",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "44",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 3(9) + 15 - 2 = 27 + 15 - 2 = 40$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v3",
+      "statement": "En la Unidad Educativa Bolívar se modela el área de un terreno en Loja con la expresión algebraica $3x^2 + 5x - 2$. Si $x = 3$ metros, ¿cuál es el valor numérico de dicha área?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "40",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "44",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 3(9) + 15 - 2 = 27 + 15 - 2 = 40$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v4",
+      "statement": "En la Colegio Nacional Mejía se modela el área de un terreno en Loja con la expresión algebraica $3x^2 + 5x - 2$. Si $x = 3$ metros, ¿cuál es el valor numérico de dicha área?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "40",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "44",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 3(9) + 15 - 2 = 27 + 15 - 2 = 40$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v5",
+      "statement": "Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 2x^2y + 5xy^2$.",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8x^4y^2 + 2x^2y^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$8x^2y - xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2y + 2xy^2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$6x^2y - 2xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v6",
+      "statement": "Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 2x^2y + 5xy^2$.",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x^2y + 2xy^2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "$6x^2y - 2xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$8x^2y - xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$8x^4y^2 + 2x^2y^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v7",
+      "statement": "Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 2x^2y + 5xy^2$.",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8x^4y^2 + 2x^2y^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$8x^2y - xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2y - 2xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$6x^2y + 2xy^2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v8",
+      "statement": "Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 2x^2y + 5xy^2$.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x^2y + 2xy^2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "$8x^2y - xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2y - 2xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$8x^4y^2 + 2x^2y^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v9",
+      "statement": "Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 2x^2y + 5xy^2$.",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8x^4y^2 + 2x^2y^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^2y + 2xy^2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2y - 2xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$8x^2y - xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v10",
+      "statement": "Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 2x^2y + 5xy^2$.",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8x^2y - xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^2y - 2xy^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2y + 2xy^2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$8x^4y^2 + 2x^2y^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v11",
+      "statement": "Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo de producción de un bien en Manta.",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 + 5x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 11x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 + 5x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 - 5x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.56,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v12",
+      "statement": "Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo de producción de un bien en Manta.",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 + 5x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 11x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 + 5x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 - 5x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v13",
+      "statement": "Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo de producción de un bien en Portoviejo.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 + 5x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 11x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 - 5x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 + 5x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v14",
+      "statement": "Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo de producción de un bien en Portoviejo.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 - 5x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 11x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 + 5x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 + 5x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v15",
+      "statement": "Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo de producción de un bien en Machala.",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 + 11x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 - 5x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 + 5x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 + 5x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v16",
+      "statement": "Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo de producción de un bien en Manta.",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 + 5x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 5x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 + 11x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 - 5x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v17",
+      "statement": "Divida el polinomio $2x^3 - 3x^2 + x - 5$ para el binomio $x - 2$ usando el método de Ruffini. ¿Cuál es el residuo?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluando por teorema del residuo en $x=2$: $2(2)^3 - 3(2)^2 + 2 - 5 = 2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v18",
+      "statement": "Divida el polinomio $2x^3 - 3x^2 + x - 5$ para el binomio $x - 2$ usando el método de Ruffini. ¿Cuál es el residuo?",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluando por teorema del residuo en $x=2$: $2(2)^3 - 3(2)^2 + 2 - 5 = 2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v19",
+      "statement": "Divida el polinomio $2x^3 - 3x^2 + x - 5$ para el binomio $x - 2$ usando el método de Ruffini. ¿Cuál es el residuo?",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluando por teorema del residuo en $x=2$: $2(2)^3 - 3(2)^2 + 2 - 5 = 2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle-v20",
+      "statement": "Divida el polinomio $2x^3 - 3x^2 + x - 5$ para el binomio $x - 2$ usando el método de Ruffini. ¿Cuál es el residuo?",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluando por teorema del residuo en $x=2$: $2(2)^3 - 3(2)^2 + 2 - 5 = 2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W05-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}
