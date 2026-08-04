@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-15-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T05:17:39.282Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v1",
+      "statement": "Si dos ángulos son suplementarios y uno de ellos mide $65^{\\circ}$, ¿cuánto mide el otro ángulo?",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Loaiza Cordero de Yauco, Gabriel resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$115^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. Dos ángulos suplementarios suman $180^{\\circ}$, por lo que $180 - 65 = 115$."
+        },
+        {
+          "letter": "B",
+          "text": "$125^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error aritmético de sustracción."
+        },
+        {
+          "letter": "C",
+          "text": "$25^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la medida si fueran complementarios (sumando $90^{\\circ}$)."
+        },
+        {
+          "letter": "D",
+          "text": "$90^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la diferencia básica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos ángulos son suplementarios si su suma es igual a $180^{\\circ}$. Por lo tanto, si uno mide $65^{\\circ}$, el otro mide $180^{\\circ} - 65^{\\circ} = 115^{\\circ}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v2",
+      "statement": "En un triángulo, las medidas de dos de sus ángulos interiores son $45^{\\circ}$ y $75^{\\circ}$. ¿Cuál es la medida del tercer ángulo interior?",
+      "context": "En Yauco, Sebastián diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Loaiza Cordero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asumió un triángulo isósceles."
+        },
+        {
+          "letter": "B",
+          "text": "$60^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los ángulos es $180^{\\circ}$, por lo que $180 - (45 + 75) = 60$."
+        },
+        {
+          "letter": "C",
+          "text": "$80^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético."
+        },
+        {
+          "letter": "D",
+          "text": "$90^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que asume una suma incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de los ángulos interiores de cualquier triángulo es siempre $180^{\\circ}$. Sumando los ángulos conocidos: $45^{\\circ} + 75^{\\circ} = 120^{\\circ}$. Por lo tanto, el tercer ángulo es $180^{\\circ} - 120^{\\circ} = 60^{\\circ}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v3",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "En Humacao, Ana diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Como parte de las olimpiades científicas en Ponce, Mateo aplica conceptos algebraicos en la Escuela Superior Ponce High.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "En Isabela, Mateo analiza un problema de modelación matemática para un proyecto de la Escuela Superior Francisco Mendoza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Como parte de las olimpiades científicas en Toa Baja, Carmen aplica conceptos algebraicos en la Escuela Superior Adolfina Irizarry de Puig.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Como parte de las olimpiades científicas en Caguas, Gabriel aplica conceptos algebraicos en la Escuela Superior José Gautier Benítez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Un grupo de estudiantes de la Escuela Superior Juan Suárez Pelegrina en Aguadilla realiza una investigación guiada por Sofía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "En San Juan, Valentina estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior de la Universidad de Puerto Rico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Adolfina Irizarry de Puig de Toa Baja, Alondra resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "En Trujillo Alto, Gabriel estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Medardo Carazo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Marín de Arecibo, Gabriel resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Monserrate León de Irizarry de Cabo Rojo, Sebastián resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior José Gautier Benítez de Caguas, Keylor resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Rivera de Utuado, Carmen resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "En Cabo Rojo, Carmen diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Monserrate León de Irizarry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "En Río Piedras, Diego analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "En Aguadilla, Yaritza diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Juan Suárez Pelegrina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Ponce High de Ponce, Valentina resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "context": "En Mayagüez, Valentina diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior de Mayagüez (SILA).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+        },
+        {
+          "letter": "C",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}
