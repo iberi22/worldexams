@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "ec",
+    "pack_id": "ec-week-1-grade-11-subject-lengua",
+    "generated_at": "2026-08-04T00:45:03.456Z"
+  },
+  "questions": [
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v1",
+      "statement": "En la biblioteca de la Unidad Educativa Colegio Nacional Mejía en Quito, Ana lee en silencio un libro de poemas de Medardo Ángel Silva. ¿Quién cumple el rol de emisor en este acto de lectura?",
+      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Quito, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rector de la institución, al ser quien inauguró las instalaciones de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El escritor Medardo Ángel Silva, quien codificó los poemas en el texto impreso.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Ana, porque está interpretando de forma activa cada uno de los versos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El bibliotecario del colegio, ya que facilitó el acceso físico al libro de poemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v2",
+      "statement": "Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Guayaquil, el locutor anuncia un fuerte descenso de temperatura. Luis escucha la noticia en el auto de Mateo.",
+      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Guayaquil, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El emisor, ya que la radio es el sujeto que genera de forma autónoma la información climática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La retroalimentación, puesto que permite al conductor opinar sobre el estado de la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El canal de comunicación, debido a que constituye el medio de transmisión por el que viaja el mensaje por las calles de Guayaquil.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El código, porque es el idioma español andino empleado para estructurar la noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v3",
+      "statement": "En Cuenca, un oficial de tránsito levanta la mano derecha con la palma abierta hacia adelante para indicarle a Patricia que detenga su vehículo en la avenida principal. ¿De qué tipo es el código utilizado por el oficial?",
+      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Cuenca, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un contexto sociocultural andino, que impide la interpretación por parte de conductores de la Costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un código no lingüístico visual, basado en un lenguaje corporal de señas con un significado establecido para los conductores de Cuenca.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Un código lingüístico oral, puesto que involucra la producción de sonidos en el espacio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un canal artificial sonoro, ya que altera la velocidad de los automotores mediante vibración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v4",
+      "statement": "Fernando asiste a una conferencia de prensa en el municipio de Ambato. El ruido ensordecedor de una perforadora de asfalto en el exterior impide escuchar las últimas palabras del alcalde. ¿Qué elemento de la comunicación está sufriendo una anomalía?",
+      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ambato, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La codificación lógica del alcalde, quien olvida los temas principales de la agenda pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El código castellano, que experimenta una fragmentación gramatical irreversible en ese instante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El referente social, que cambia de forma espontánea de la gestión municipal a la obra pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El canal oral-acústico de Ambato, el cual se ve interferido por un ruido externo que degrada la señal física.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v5",
+      "statement": "En Manta, María envía un correo electrónico de reclamo a una empresa proveedora de internet. Camila, el agente de soporte, responde confirmando la recepción e indicando el día de la inspección técnica.",
+      "context": "María, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Manta, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contextualización, porque describe la ubicación geográfica exacta donde se requiere la inspección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La retroalimentación, ya que es la respuesta que el receptor Camila devuelve al emisor.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "El ruido semántico, porque genera demoras en el proceso de solución del problema de internet en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El canal secundario, dado que se trata de una plataforma alternativa de carácter comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v6",
+      "statement": "En la biblioteca de la Unidad Educativa Colegio Nacional Manta en Loja, José lee en silencio un libro de poemas de Medardo Ángel Silva. ¿Quién cumple el rol de emisor en este acto de lectura?",
+      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Loja, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rector de la institución, al ser quien inauguró las instalaciones de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El escritor Medardo Ángel Silva, quien codificó los poemas en el texto impreso.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "José, porque está interpretando de forma activa cada uno de los versos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El bibliotecario del colegio, ya que facilitó el acceso físico al libro de poemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v7",
+      "statement": "Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Riobamba, el locutor anuncia un fuerte descenso de temperatura. Mateo escucha la noticia en el auto de Alejandro.",
+      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Riobamba, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El código, porque es el idioma español andino empleado para estructurar la noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El emisor, ya que la radio es el sujeto que genera de forma autónoma la información climática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La retroalimentación, puesto que permite al conductor opinar sobre el estado de la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El canal de comunicación, debido a que constituye el medio de transmisión por el que viaja el mensaje por las calles de Riobamba.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v8",
+      "statement": "En Ibarra, un oficial de tránsito levanta la mano derecha con la palma abierta hacia adelante para indicarle a Sebastián que detenga su vehículo en la avenida principal. ¿De qué tipo es el código utilizado por el oficial?",
+      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ibarra, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un contexto sociocultural andino, que impide la interpretación por parte de conductores de la Costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un código no lingüístico visual, basado en un lenguaje corporal de señas con un significado establecido para los conductores de Ibarra.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Un código lingüístico oral, puesto que involucra la producción de sonidos en el espacio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un canal artificial sonoro, ya que altera la velocidad de los automotores mediante vibración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v9",
+      "statement": "Valentina asiste a una conferencia de prensa en el municipio de Portoviejo. El ruido ensordecedor de una perforadora de asfalto en el exterior impide escuchar las últimas palabras del alcalde. ¿Qué elemento de la comunicación está sufriendo una anomalía?",
+      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Portoviejo, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La codificación lógica del alcalde, quien olvida los temas principales de la agenda pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El código castellano, que experimenta una fragmentación gramatical irreversible en ese instante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El referente social, que cambia de forma espontánea de la gestión municipal a la obra pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El canal oral-acústico de Portoviejo, el cual se ve interferido por un ruido externo que degrada la señal física.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v10",
+      "statement": "En Machala, Camila envía un correo electrónico de reclamo a una empresa proveedora de internet. Elena, el agente de soporte, responde confirmando la recepción e indicando el día de la inspección técnica.",
+      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Machala, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal secundario, dado que se trata de una plataforma alternativa de carácter comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La contextualización, porque describe la ubicación geográfica exacta donde se requiere la inspección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La retroalimentación, ya que es la respuesta que el receptor Elena devuelve al emisor.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El ruido semántico, porque genera demoras en el proceso de solución del problema de internet en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v11",
+      "statement": "En la biblioteca de la Unidad Educativa Colegio Nacional Mejía en Esmeraldas, Santiago lee en silencio un libro de poemas de Medardo Ángel Silva. ¿Quién cumple el rol de emisor en este acto de lectura?",
+      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Esmeraldas, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rector de la institución, al ser quien inauguró las instalaciones de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El escritor Medardo Ángel Silva, quien codificó los poemas en el texto impreso.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Santiago, porque está interpretando de forma activa cada uno de los versos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El bibliotecario del colegio, ya que facilitó el acceso físico al libro de poemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v12",
+      "statement": "Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Santo Domingo, el locutor anuncia un fuerte descenso de temperatura. Alejandro escucha la noticia en el auto de Carlos.",
+      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Santo Domingo, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El emisor, ya que la radio es el sujeto que genera de forma autónoma la información climática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La retroalimentación, puesto que permite al conductor opinar sobre el estado de la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El canal de comunicación, debido a que constituye el medio de transmisión por el que viaja el mensaje por las calles de Santo Domingo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El código, porque es el idioma español andino empleado para estructurar la noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v13",
+      "statement": "En Quito, un oficial de tránsito levanta la mano derecha con la palma abierta hacia adelante para indicarle a Gabriela que detenga su vehículo en la avenida principal. ¿De qué tipo es el código utilizado por el oficial?",
+      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Quito, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un canal artificial sonoro, ya que altera la velocidad de los automotores mediante vibración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un contexto sociocultural andino, que impide la interpretación por parte de conductores de la Costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un código no lingüístico visual, basado en un lenguaje corporal de señas con un significado establecido para los conductores de Quito.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Un código lingüístico oral, puesto que involucra la producción de sonidos en el espacio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v14",
+      "statement": "David asiste a una conferencia de prensa en el municipio de Guayaquil. El ruido ensordecedor de una perforadora de asfalto en el exterior impide escuchar las últimas palabras del alcalde. ¿Qué elemento de la comunicación está sufriendo una anomalía?",
+      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Guayaquil, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal oral-acústico de Guayaquil, el cual se ve interferido por un ruido externo que degrada la señal física.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "La codificación lógica del alcalde, quien olvida los temas principales de la agenda pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El código castellano, que experimenta una fragmentación gramatical irreversible en ese instante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El referente social, que cambia de forma espontánea de la gestión municipal a la obra pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v15",
+      "statement": "En Cuenca, Elena envía un correo electrónico de reclamo a una empresa proveedora de internet. Estefanía, el agente de soporte, responde confirmando la recepción e indicando el día de la inspección técnica.",
+      "context": "Elena, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Cuenca, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal secundario, dado que se trata de una plataforma alternativa de carácter comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La contextualización, porque describe la ubicación geográfica exacta donde se requiere la inspección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La retroalimentación, ya que es la respuesta que el receptor Estefanía devuelve al emisor.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El ruido semántico, porque genera demoras en el proceso de solución del problema de internet en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v16",
+      "statement": "En la biblioteca de la Unidad Educativa Colegio Nacional Manta en Ambato, Diana lee en silencio un libro de poemas de Medardo Ángel Silva. ¿Quién cumple el rol de emisor en este acto de lectura?",
+      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ambato, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rector de la institución, al ser quien inauguró las instalaciones de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El escritor Medardo Ángel Silva, quien codificó los poemas en el texto impreso.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Diana, porque está interpretando de forma activa cada uno de los versos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El bibliotecario del colegio, ya que facilitó el acceso físico al libro de poemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v17",
+      "statement": "Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Manta, el locutor anuncia un fuerte descenso de temperatura. Carlos escucha la noticia en el auto de Luis.",
+      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Manta, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El emisor, ya que la radio es el sujeto que genera de forma autónoma la información climática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La retroalimentación, puesto que permite al conductor opinar sobre el estado de la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El canal de comunicación, debido a que constituye el medio de transmisión por el que viaja el mensaje por las calles de Manta.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El código, porque es el idioma español andino empleado para estructurar la noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v18",
+      "statement": "En Loja, un oficial de tránsito levanta la mano derecha con la palma abierta hacia adelante para indicarle a Rafael que detenga su vehículo en la avenida principal. ¿De qué tipo es el código utilizado por el oficial?",
+      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Loja, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un código lingüístico oral, puesto que involucra la producción de sonidos en el espacio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un canal artificial sonoro, ya que altera la velocidad de los automotores mediante vibración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un contexto sociocultural andino, que impide la interpretación por parte de conductores de la Costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un código no lingüístico visual, basado en un lenguaje corporal de señas con un significado establecido para los conductores de Loja.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v19",
+      "statement": "Andrés asiste a una conferencia de prensa en el municipio de Riobamba. El ruido ensordecedor de una perforadora de asfalto en el exterior impide escuchar las últimas palabras del alcalde. ¿Qué elemento de la comunicación está sufriendo una anomalía?",
+      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Riobamba, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El referente social, que cambia de forma espontánea de la gestión municipal a la obra pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El canal oral-acústico de Riobamba, el cual se ve interferido por un ruido externo que degrada la señal física.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "La codificación lógica del alcalde, quien olvida los temas principales de la agenda pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El código castellano, que experimenta una fragmentación gramatical irreversible en ese instante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v20",
+      "statement": "En Ibarra, Estefanía envía un correo electrónico de reclamo a una empresa proveedora de internet. María, el agente de soporte, responde confirmando la recepción e indicando el día de la inspección técnica.",
+      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ibarra, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal secundario, dado que se trata de una plataforma alternativa de carácter comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La contextualización, porque describe la ubicación geográfica exacta donde se requiere la inspección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La retroalimentación, ya que es la respuesta que el receptor María devuelve al emisor.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El ruido semántico, porque genera demoras en el proceso de solución del problema de internet en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

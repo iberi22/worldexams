@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "ec",
+    "pack_id": "ec-week-4-grade-11-subject-lengua",
+    "generated_at": "2026-08-04T00:45:03.459Z"
+  },
+  "questions": [
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v1",
+      "statement": "En una cafetería de Ambato, un joven lojano le dice a su amigo de Guayaquil: 'Oye, Mateo, pásame el achachay que hace mucho frío'. El guayaquileño se desconcierta unos segundos. ¿Qué variedad lingüística representa el término 'achachay'?",
+      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ambato, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una jerga profesional de carácter técnico empleada exclusivamente en la medicina de Guayaquil y Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un modismo extranjero proveniente del idioma inglés británico y adaptado al uso juvenil de Colegio Nacional Olmedo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un arcaísmo del español medieval que se conservó sin alteraciones en Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Una variedad dialectal de la Sierra, influenciada por préstamos léxicos del kichwa (quichuismos) para expresar sensaciones físicas en Ambato.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v2",
+      "statement": "Sebastián, oriundo de Esmeraldas, visita a sus parientes en Manta y al conversar utiliza la palabra 'caleta' para referirse a su hogar. Su prima Gabriela se sonríe. ¿Cómo se clasifica el vocablo 'caleta' en el contexto lingüístico nacional?",
+      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Manta, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una palabra de la norma culta formal de Colegio Nacional Mejía utilizada en el discurso literario clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Es un neologismo tecnológico que designa un componente del procesador en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Es un término de la jerga juvenil y coloquial ecuatoriana que denota casa u hogar en entornos informales de Manta.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Es un tecnicismo geográfico que describe la arena de Esmeraldas y Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v3",
+      "statement": "En Loja, el docente de Lengua del Colegio Nacional Vicente Rocafuerte explica que los habitantes de la Sierra suelen aspirar la 's' al final de las palabras y usar un tono cantado, mientras que en la Costa se tiende a elidir la 's' y hablar de manera más veloz. ¿Cómo se denominan estas diferencias de pronunciación?",
+      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Loja, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Variedades diafásicas o de registro, que varían según la formalidad de la entrevista de trabajo en Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Variedades diastráticas, que dependen de manera única del nivel socioeconómico de los estudiantes de Colegio Nacional Vicente Rocafuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Errores patológicos del habla que requieren de asistencia médica en Loja de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Variedades diatópicas o geográficas, generadas por la distribución territorial y el relieve cultural de las regiones de Loja.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v4",
+      "statement": "Durante una conversación informal en un mercado de Riobamba, Camila dice: '¡Ese guambra sí que es avispado!'. ¿Qué significados poseen los términos 'guambra' y 'avispado' en el español ecuatoriano cotidiano?",
+      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Riobamba, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos términos expresan de manera formal términos científicos en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "'Guambra' significa niño o joven (quichuismo), y 'avispado' denota ser astuto, despierto o inteligente en Riobamba.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "'Guambra' significa persona anciana de Riobamba, y 'avispado' se refiere a tener picaduras de insecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "'Guambra' denota un objeto de arcilla en el Colegio Benigno Malo, y 'avispado' describe un color amarillo brillante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v5",
+      "statement": "Al estudiar la identidad nacional en Ibarra, se analiza el habla de la Amazonía ecuatoriana. Se observa que esta variedad posee rasgos de contacto lingüístico tanto del quichua como del dialecto de la Sierra y la Costa. ¿A qué se debe esta particularidad dialectal oriental?",
+      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ibarra, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los flujos migratorios internos y al estrecho contacto cotidiano con diversas nacionalidades indígenas amazónicas cerca de Ibarra.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "A un decreto legal emitido para unificar la pronunciación en el Colegio Nacional Bolívar de Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "A la influencia directa de la televisión y la radio francesas en las zonas rurales cerca de Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "A un proceso de aislamiento geográfico absoluto que impidió todo comercio con Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v6",
+      "statement": "En una cafetería de Portoviejo, un joven lojano le dice a su amigo de Guayaquil: 'Oye, Alejandro, pásame el achachay que hace mucho frío'. El guayaquileño se desconcierta unos segundos. ¿Qué variedad lingüística representa el término 'achachay'?",
+      "context": "Alejandro, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Portoviejo, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una jerga profesional de carácter técnico empleada exclusivamente en la medicina de Guayaquil y Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un modismo extranjero proveniente del idioma inglés británico y adaptado al uso juvenil de Unidad Educativa Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un arcaísmo del español medieval que se conservó sin alteraciones en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Una variedad dialectal de la Sierra, influenciada por préstamos léxicos del kichwa (quichuismos) para expresar sensaciones físicas en Portoviejo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v7",
+      "statement": "Gabriela, oriundo de Esmeraldas, visita a sus parientes en Machala y al conversar utiliza la palabra 'caleta' para referirse a su hogar. Su prima Rafael se sonríe. ¿Cómo se clasifica el vocablo 'caleta' en el contexto lingüístico nacional?",
+      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Machala, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un término de la jerga juvenil y coloquial ecuatoriana que denota casa u hogar en entornos informales de Machala.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Es un tecnicismo geográfico que describe la arena de Esmeraldas y Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Es una palabra de la norma culta formal de Colegio Nacional Manta utilizada en el discurso literario clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Es un neologismo tecnológico que designa un componente del procesador en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v8",
+      "statement": "En Esmeraldas, el docente de Lengua del Colegio Nacional Bernardo Valdivieso explica que los habitantes de la Sierra suelen aspirar la 's' al final de las palabras y usar un tono cantado, mientras que en la Costa se tiende a elidir la 's' y hablar de manera más veloz. ¿Cómo se denominan estas diferencias de pronunciación?",
+      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Esmeraldas, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Errores patológicos del habla que requieren de asistencia médica en Esmeraldas de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Variedades diatópicas o geográficas, generadas por la distribución territorial y el relieve cultural de las regiones de Esmeraldas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Variedades diafásicas o de registro, que varían según la formalidad de la entrevista de trabajo en Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Variedades diastráticas, que dependen de manera única del nivel socioeconómico de los estudiantes de Colegio Nacional Bernardo Valdivieso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v9",
+      "statement": "Durante una conversación informal en un mercado de Santo Domingo, Elena dice: '¡Ese guambra sí que es avispado!'. ¿Qué significados poseen los términos 'guambra' y 'avispado' en el español ecuatoriano cotidiano?",
+      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Santo Domingo, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Guambra' significa niño o joven (quichuismo), y 'avispado' denota ser astuto, despierto o inteligente en Santo Domingo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "'Guambra' significa persona anciana de Santo Domingo, y 'avispado' se refiere a tener picaduras de insecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "'Guambra' denota un objeto de arcilla en el Colegio Nacional Nueve de Octubre, y 'avispado' describe un color amarillo brillante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos términos expresan de manera formal términos científicos en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v10",
+      "statement": "Al estudiar la identidad nacional en Quito, se analiza el habla de la Amazonía ecuatoriana. Se observa que esta variedad posee rasgos de contacto lingüístico tanto del quichua como del dialecto de la Sierra y la Costa. ¿A qué se debe esta particularidad dialectal oriental?",
+      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Quito, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A un proceso de aislamiento geográfico absoluto que impidió todo comercio con Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "A los flujos migratorios internos y al estrecho contacto cotidiano con diversas nacionalidades indígenas amazónicas cerca de Quito.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "A un decreto legal emitido para unificar la pronunciación en el Colegio Nacional Maldonado de Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "A la influencia directa de la televisión y la radio francesas en las zonas rurales cerca de Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v11",
+      "statement": "En una cafetería de Guayaquil, un joven lojano le dice a su amigo de Guayaquil: 'Oye, Carlos, pásame el achachay que hace mucho frío'. El guayaquileño se desconcierta unos segundos. ¿Qué variedad lingüística representa el término 'achachay'?",
+      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Guayaquil, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una variedad dialectal de la Sierra, influenciada por préstamos léxicos del kichwa (quichuismos) para expresar sensaciones físicas en Guayaquil.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Una jerga profesional de carácter técnico empleada exclusivamente en la medicina de Guayaquil y Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un modismo extranjero proveniente del idioma inglés británico y adaptado al uso juvenil de Colegio Nacional Olmedo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un arcaísmo del español medieval que se conservó sin alteraciones en Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v12",
+      "statement": "Rafael, oriundo de Esmeraldas, visita a sus parientes en Cuenca y al conversar utiliza la palabra 'caleta' para referirse a su hogar. Su prima Patricia se sonríe. ¿Cómo se clasifica el vocablo 'caleta' en el contexto lingüístico nacional?",
+      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Cuenca, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un neologismo tecnológico que designa un componente del procesador en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Es un término de la jerga juvenil y coloquial ecuatoriana que denota casa u hogar en entornos informales de Cuenca.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Es un tecnicismo geográfico que describe la arena de Esmeraldas y Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Es una palabra de la norma culta formal de Colegio Nacional Mejía utilizada en el discurso literario clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v13",
+      "statement": "En Ambato, el docente de Lengua del Colegio Nacional Vicente Rocafuerte explica que los habitantes de la Sierra suelen aspirar la 's' al final de las palabras y usar un tono cantado, mientras que en la Costa se tiende a elidir la 's' y hablar de manera más veloz. ¿Cómo se denominan estas diferencias de pronunciación?",
+      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Ambato, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Errores patológicos del habla que requieren de asistencia médica en Ambato de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Variedades diatópicas o geográficas, generadas por la distribución territorial y el relieve cultural de las regiones de Ambato.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Variedades diafásicas o de registro, que varían según la formalidad de la entrevista de trabajo en Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Variedades diastráticas, que dependen de manera única del nivel socioeconómico de los estudiantes de Colegio Nacional Vicente Rocafuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v14",
+      "statement": "Durante una conversación informal en un mercado de Manta, Estefanía dice: '¡Ese guambra sí que es avispado!'. ¿Qué significados poseen los términos 'guambra' y 'avispado' en el español ecuatoriano cotidiano?",
+      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Manta, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Guambra' significa niño o joven (quichuismo), y 'avispado' denota ser astuto, despierto o inteligente en Manta.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "'Guambra' significa persona anciana de Manta, y 'avispado' se refiere a tener picaduras de insecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "'Guambra' denota un objeto de arcilla en el Colegio Benigno Malo, y 'avispado' describe un color amarillo brillante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos términos expresan de manera formal términos científicos en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v15",
+      "statement": "Al estudiar la identidad nacional en Loja, se analiza el habla de la Amazonía ecuatoriana. Se observa que esta variedad posee rasgos de contacto lingüístico tanto del quichua como del dialecto de la Sierra y la Costa. ¿A qué se debe esta particularidad dialectal oriental?",
+      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Loja, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la influencia directa de la televisión y la radio francesas en las zonas rurales cerca de Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "A un proceso de aislamiento geográfico absoluto que impidió todo comercio con Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "A los flujos migratorios internos y al estrecho contacto cotidiano con diversas nacionalidades indígenas amazónicas cerca de Loja.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "A un decreto legal emitido para unificar la pronunciación en el Colegio Nacional Bolívar de Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v16",
+      "statement": "En una cafetería de Riobamba, un joven lojano le dice a su amigo de Guayaquil: 'Oye, Luis, pásame el achachay que hace mucho frío'. El guayaquileño se desconcierta unos segundos. ¿Qué variedad lingüística representa el término 'achachay'?",
+      "context": "Luis, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Riobamba, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un arcaísmo del español medieval que se conservó sin alteraciones en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Una variedad dialectal de la Sierra, influenciada por préstamos léxicos del kichwa (quichuismos) para expresar sensaciones físicas en Riobamba.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Una jerga profesional de carácter técnico empleada exclusivamente en la medicina de Guayaquil y Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un modismo extranjero proveniente del idioma inglés británico y adaptado al uso juvenil de Unidad Educativa Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v17",
+      "statement": "Patricia, oriundo de Esmeraldas, visita a sus parientes en Ibarra y al conversar utiliza la palabra 'caleta' para referirse a su hogar. Su prima Sebastián se sonríe. ¿Cómo se clasifica el vocablo 'caleta' en el contexto lingüístico nacional?",
+      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ibarra, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un neologismo tecnológico que designa un componente del procesador en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Es un término de la jerga juvenil y coloquial ecuatoriana que denota casa u hogar en entornos informales de Ibarra.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Es un tecnicismo geográfico que describe la arena de Esmeraldas y Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Es una palabra de la norma culta formal de Colegio Nacional Manta utilizada en el discurso literario clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v18",
+      "statement": "En Portoviejo, el docente de Lengua del Colegio Nacional Bernardo Valdivieso explica que los habitantes de la Sierra suelen aspirar la 's' al final de las palabras y usar un tono cantado, mientras que en la Costa se tiende a elidir la 's' y hablar de manera más veloz. ¿Cómo se denominan estas diferencias de pronunciación?",
+      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Portoviejo, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Errores patológicos del habla que requieren de asistencia médica en Portoviejo de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Variedades diatópicas o geográficas, generadas por la distribución territorial y el relieve cultural de las regiones de Portoviejo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Variedades diafásicas o de registro, que varían según la formalidad de la entrevista de trabajo en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Variedades diastráticas, que dependen de manera única del nivel socioeconómico de los estudiantes de Colegio Nacional Bernardo Valdivieso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v19",
+      "statement": "Durante una conversación informal en un mercado de Machala, María dice: '¡Ese guambra sí que es avispado!'. ¿Qué significados poseen los términos 'guambra' y 'avispado' en el español ecuatoriano cotidiano?",
+      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Machala, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Guambra' denota un objeto de arcilla en el Colegio Nacional Nueve de Octubre, y 'avispado' describe un color amarillo brillante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos términos expresan de manera formal términos científicos en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "'Guambra' significa niño o joven (quichuismo), y 'avispado' denota ser astuto, despierto o inteligente en Machala.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "'Guambra' significa persona anciana de Machala, y 'avispado' se refiere a tener picaduras de insecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v20",
+      "statement": "Al estudiar la identidad nacional en Esmeraldas, se analiza el habla de la Amazonía ecuatoriana. Se observa que esta variedad posee rasgos de contacto lingüístico tanto del quichua como del dialecto de la Sierra y la Costa. ¿A qué se debe esta particularidad dialectal oriental?",
+      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Esmeraldas, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los flujos migratorios internos y al estrecho contacto cotidiano con diversas nacionalidades indígenas amazónicas cerca de Esmeraldas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "A un decreto legal emitido para unificar la pronunciación en el Colegio Nacional Maldonado de Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "A la influencia directa de la televisión y la radio francesas en las zonas rurales cerca de Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "A un proceso de aislamiento geográfico absoluto que impidió todo comercio con Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}
