@@ -1,0 +1,22 @@
+diff --git a/saberparatodos/src/components/BotPracticeReport.svelte b/saberparatodos/src/components/BotPracticeReport.svelte
+index 3c11d04a6..30568edf3 100644
+--- a/saberparatodos/src/components/BotPracticeReport.svelte
++++ b/saberparatodos/src/components/BotPracticeReport.svelte
+@@ -47,6 +47,8 @@
+   let examScore: any = null;
+   let videoByQuestionId: Record<string, { availability: 'available' | 'pending' | 'missing'; entry?: VideoManifestEntry }> = {};
+ 
++  $: answerMap = new Map((session?.answers || []).map(a => [a.question_id, a]));
++
+   function computeScore() {
+     if (!session) return;
+ 
+@@ -172,7 +174,7 @@
+         <h2 class="text-sm font-bold uppercase tracking-widest text-white/60">Detalle por pregunta</h2>
+ 
+         {#each questions as q, idx}
+-          {@const a = session?.answers?.find((x) => x.question_id === q.id)}
++          {@const a = answerMap.get(q.id)}
+           {@const ok = a?.is_correct}
+           {@const videoMeta = getVideoForQuestion(q.id)}
+           <div class={`p-4 rounded-xl border bg-white/5 ${ok ? 'border-emerald-500/20' : 'border-red-500/20'}`}>
