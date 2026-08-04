@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-7-grade-11-subject-sociales",
+    "generated_at": "2026-08-04T01:24:49.584Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v1",
+      "statement": "¿Qué impuesto dictado por el parlamento boliviano sirvió de argumento para que Chile ocupara militarmente el puerto de Antofagasta sin previa declaración de guerra?",
+      "context": "En Oruro, el estudiante Jhonny del Colegio Bolívar investiga las causas de la agresión militar en las costas del Litoral boliviano en 1879.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El impuesto de los 10 centavos por quintal de salitre exportado por la Compañía de Salitres de Antofagasta.",
+          "is_correct": true,
+          "feedback": "Correcto. El impuesto de los 10 centavos aprobado por Bolivia sobre el quintal de salitre fue calificado por Chile como una violación al Tratado de Límites de 1874, sirviendo de justificación para la ocupación militar armada de Antofagasta."
+        },
+        {
+          "letter": "B",
+          "text": "Un gravamen aduanero sobre el ingreso de teléfonos celulares y computadoras portátiles chilenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían teléfonos celulares ni computadoras portátiles en el año 1879, representando un burdo anacronismo."
+        },
+        {
+          "letter": "C",
+          "text": "El cobro obligatorio de peaje en pesos de plata potosina a los barcos pesqueros que cruzaban el lago Poopó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lago Poopó es interior altiplánico y no tiene conexión marítima con barcos mercantes chilenos."
+        },
+        {
+          "letter": "D",
+          "text": "La nacionalización de las minas de estaño paceñas decretada por el presidente de origen portugués.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estaño no era el recurso en disputa en el Litoral (lo era el salitre) y no gobernaba ningún portugués en Bolivia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El impuesto de los 10 centavos fue considerado por el gobierno boliviano del presidente Hilarión Daza como un acto soberano interno. Sin embargo, la Compañía de Salitres (de capitales chilenos y británicos) presionó al gobierno de Santiago para intervenir militarmente, desatando la conflagración bélica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v2",
+      "statement": "¿Quién fue Eduardo Abaroa y qué papel desempeñó en la Guerra del Pacífico de 1879?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la defensa del Puente del Topáter y el rol de Eduardo Abaroa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un comerciante de Calama que se incorporó voluntariamente a la defensa del Puente del Topáter, convirtiéndose en el máximo héroe civil marítimo de Bolivia.",
+          "is_correct": true,
+          "feedback": "Correcto. Eduardo Abaroa, ante la invasión armada chilena a Calama, se sumó a las milicias de Ladislao Cabrera, ofrendando heroicamente su vida en la defensa del Puente del Topáter el 23 de marzo de 1879."
+        },
+        {
+          "letter": "B",
+          "text": "Un almirante enviado por Simón Bolívar en barcos de guerra nucleares para pacificar la costa del Litoral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar falleció en 1830, décadas antes de la guerra, y no existían buques nucleares en 1879."
+        },
+        {
+          "letter": "C",
+          "text": "El magnate minero que firmó el Tratado de Paz de 1904 y vendió las minas de litio de Uyuni a Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abaroa era un civil patriota de clase media de Calama que murió combatiendo; no era un magnate minero de la plata."
+        },
+        {
+          "letter": "D",
+          "text": "Un diplomático de origen brasileño que propuso anexar el departamento de Potosí de forma voluntaria al Brasil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No era diplomático brasileño ni propuso entregar territorio boliviano de Potosí a Brasil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eduardo Abaroa es el símbolo supremo del heroísmo civil de Bolivia. Su célebre y desafiante respuesta ante la exigencia de rendición realista del ejército chileno ('¿Rendirme yo? ¡Que se rinda su abuela, carajo!') es honrada solemnemente en todo el país cada 23 de marzo (Día del Mar).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v3",
+      "statement": "¿Qué pacto diplomático secreto ligaba de manera obligatoria a Bolivia y Perú en 1879 frente a agresiones extranjeras?",
+      "context": "En Sucre, la estudiante Marisol de la Unidad Educativa Mariscal Sucre investiga los tratados internacionales firmados por Bolivia con el Perú antes de la guerra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Tratado de Alianza Defensiva Secreto de 1873, que obligaba a ambos países a prestar auxilio recíproco en caso de invasión militar.",
+          "is_correct": true,
+          "feedback": "Correcto. Bolivia invocó este tratado secreto firmado en 1873 tras la invasión de Antofagasta por Chile; el Perú intentó mediar de forma diplomática pero fue arrastrado al conflicto armado, declarándole Chile la guerra a ambos en abril de 1879."
+        },
+        {
+          "letter": "B",
+          "text": "La Constitución de 2009 firmada por Simón Bolívar y Andrés de Santa Cruz en Chuquisaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existía la Constitución de 2009 en el siglo XIX y Simón Bolívar no participó de tratados secretos en 1873."
+        },
+        {
+          "letter": "C",
+          "text": "El Tratado de Tordesillas de 1494 que permitía el libre tránsito comercial de camiones en Calama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Tratado de Tordesillas es colonial del siglo XV y los camiones terrestres no existían en esa época."
+        },
+        {
+          "letter": "D",
+          "text": "El Pacto del Chaco que unió las fuerzas aéreas de Bolivia, Paraguay y Brasil para extraer gas natural de Tarija.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chaco fue escenario de guerra con Paraguay en el siglo XX, ajeno a la alianza andina secreta con Perú de 1873."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de Alianza Defensiva de 1873 fue el argumento central de Chile para justificar su ofensiva conjunta contra el Perú y Bolivia. Chile alegaba que la alianza secreta andina rompía el equilibrio bélico y geopolítico del Cono Sur.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v4",
+      "statement": "¿Qué controvertido episodio de la campaña del desierto de Atacama empañó el liderazgo militar de Hilarión Daza en 1879?",
+      "context": "En Cochabamba, el estudiante Walter del Colegio Nacional Junín analiza las controvertidas decisiones del presidente Hilarión Daza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 'Retirada de Camarones', donde Daza ordenó el repliegue del ejército boliviano en lugar de marchar a auxiliar a las tropas aliadas peruanas.",
+          "is_correct": true,
+          "feedback": "Correcto. El repliegue de las fuerzas bolivianas en la quebrada de Camarones (noviembre de 1879) desmoralizó a las tropas aliadas y facilitó la derrota del ejército del sur en la Batalla de San Francisco, provocando la destitución de Daza."
+        },
+        {
+          "letter": "B",
+          "text": "La venta ilegal de la Casa de la Moneda de Potosí a empresarios mineros chilenos a cambio de carbón vegetal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daza no vendió la Casa de la Moneda de Potosí; representó un repliegue militar polémico en el desierto de Atacama."
+        },
+        {
+          "letter": "C",
+          "text": "El asalto de la aduana marítima de Antofagasta por parte de las fuerzas aéreas de la Unión Soviética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Unión Soviética no existía en 1879 y la campaña fue puramente de infantería terrestre y naval decimonónica."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del idioma castellano para declarar la fe budista obligatoria en toda la provincia del Litoral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La religión católica y el castellano administrativo se mantuvieron incólumes durante la contienda armada de 1879."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Retirada de Camarones precipitó la caída del presidente Daza. La burguesía minera de la plata y el ejército de la patria le depusieron, asumiendo el mando el general Narciso Campero. El episodio ha sido objeto de encendidos debates sobre traición o imposibilidad logística.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v5",
+      "statement": "¿Qué postura asumieron los grandes empresarios mineros de la plata (como Aniceto Arce) frente a la continuación de la Guerra del Pacífico tras 1880?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia el papel de las oligarquías mineras de la plata en el fin de la guerra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presionaron activamente por el cese definitivo de las hostilidades con Chile para salvaguardar sus inversiones y reactivar sus exportaciones de plata por puertos chilenos.",
+          "is_correct": true,
+          "feedback": "Correcto. La oligarquía minera de la plata ('los patriarcas de la plata') dependía vitalmente de la tecnología de ferrocarriles y de la exportación por el Pacífico; consideraban inútil prolongar la guerra y propugnaban un pragmatismo comercial pacífico."
+        },
+        {
+          "letter": "B",
+          "text": "Financiaron de forma desinteresada un ejército de millones de guerrilleros aymaras para invadir Santiago de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oligarquía minera de la plata priorizaba sus intereses de ganancia privada y se opuso a continuar armando ejércitos contra Chile."
+        },
+        {
+          "letter": "C",
+          "text": "Exigieron la anexión voluntaria de Bolivia al Imperio del Brasil para nacionalizar las minas de litio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existía el uso del litio en 1880 ni se buscaba entregar la soberanía boliviana al Brasil por razones de la plata potosina."
+        },
+        {
+          "letter": "D",
+          "text": "Abogaron por la abolición absoluta del dinero metálico para retornar al trueque prehispánico de papas secas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arce y los industriales de la plata eran capitalistas modernos insertos en el mercado financiero internacional andino-europeo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tras la Batalla del Alto de la Alianza en 1880, Bolivia retiró de forma oficial sus ejércitos de la guerra, dejando al Perú luchar en solitario. El auge del partido Conservador en Bolivia, integrado por magnates de la plata (Arce, Pacheco), consolidó una política de paz fáctica con Chile que allanó el camino al Tratado de Tregua de 1884.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v6",
+      "statement": "¿Qué limitación a la soberanía fiscal sufrió Bolivia de manera temporal bajo las cláusulas del Tratado de Tregua de 1884 firmado con Chile?",
+      "context": "En El Alto, el estudiante Walter de la Unidad Educativa Juan Pablo II investiga las consecuencias aduaneras del Tratado de Tregua de 1884.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pérdida del control de sus aduanas del norte e imposición de aranceles preferenciales que favorecían de forma unilateral a las manufacturas chilenas.",
+          "is_correct": true,
+          "feedback": "Correcto. El Tratado de Tregua de 1884 consagró la ocupación indefinida del Litoral boliviano por Chile, sometiendo además a Bolivia a duras condiciones fiscales y de libre tránsito que mermaron la soberanía aduanera nacional."
+        },
+        {
+          "letter": "B",
+          "text": "La entrega forzosa de la ciudad de La Paz para que se convirtiera en un puerto militar de la marina chilena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Paz se sitúa en la altura andina a miles de metros sobre el nivel del mar; no se entregó ni posee acceso a puertos militares chilenos marítimos."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición absoluta de hablar castellano en las oficinas públicas de Sucre y Cochabamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El castellano se mantuvo como el idioma oficial administrativo de todo el territorio nacional de Bolivia."
+        },
+        {
+          "letter": "D",
+          "text": "El pago obligatorio de un subsidio en pepitas de oro puro a todos los piratas británicos que cruzaban el Chaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No operaban piratas británicos en el Chaco Boreal y las finanzas del Estado no tenían reservas de oro para pagar tales subsidios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de Tregua de 1884 dejó a Bolivia en una total indefensión diplomática. Consagró el enclaustramiento geográfico de facto y amarró la economía nacional a la infraestructura vial y portuaria de Chile, sirviendo de antecedente directo al definitivo Tratado de 1904.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v7",
+      "statement": "¿Qué estipulaba el polémico y definitivo Tratado de Paz y Amistad de 1904 firmado entre Bolivia y Chile?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza las pérdidas territoriales de Bolivia en el siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cesión absoluta y perpetua del territorio del Litoral a Chile a cambio de una compensación económica y el libre tránsito comercial perpetuo por puertos chilenos.",
+          "is_correct": true,
+          "feedback": "Correcto. Firmado en octubre de 1904 bajo la presidencia del liberal Ismael Montes, este tratado reconoció el dominio definitivo de Chile sobre las costas bolivianas, prometiendo Chile construir el ferrocarril Arica-La Paz y otorgar el libre tránsito de mercancías."
+        },
+        {
+          "letter": "B",
+          "text": "La entrega voluntaria de los salares de litio de Uyuni a favor de las fuerzas aéreas de la Unión Soviética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se entregaron salares de litio a la Unión Soviética, la cual no existía en el año 1904."
+        },
+        {
+          "letter": "C",
+          "text": "La abolición del voto universal de las mujeres indígenas en el departamento de Cochabamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voto de las mujeres indígenas no existía en 1904 (se introdujo en 1952); no guarda relación con el tratado de límites con Chile."
+        },
+        {
+          "letter": "D",
+          "text": "La anexión de la Patagonia chilena a la provincia de Tarija a cambio de yacimientos de gas natural del Chaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se anexó la Patagonia a Tarija ni el gas natural chaqueño formaba parte de las compensaciones aduaneras de 1904."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de 1904 cerró legalmente el enclaustramiento marítimo de Bolivia. Fue defendido por los liberales bolivianos como la única salida realista para obtener fondos de compensación e integrar al país al sistema ferroviario moderno, constituyéndose desde entonces en la mayor herida geopolítica nacional.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v8",
+      "statement": "Si analizamos el potencial económico del Litoral boliviano en el siglo XIX, ¿qué materias primas de inmenso valor estratégico concentraba el desierto de Atacama?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar examina el impacto de los recursos evaporíticos y minerales del Litoral antes de 1879.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enormes depósitos de guano para abono y ricos yacimientos de salitre utilizados para la fabricación de pólvora y fertilizantes agrícolas.",
+          "is_correct": true,
+          "feedback": "Correcto. El guano y el salitre eran recursos codiciados mundialmente por la revolución agraria y armamentística europea; su control desató un auge de codicia internacional que atrajo inversiones chilenas y británicas al despoblado Litoral boliviano."
+        },
+        {
+          "letter": "B",
+          "text": "Grandes bosques nativos de castaña de exportación y yacimientos profundos de estaño metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Litoral es un desierto extremadamente seco (Atacama) desprovisto de bosques de castaña, que crecen en la selva húmeda amazónica."
+        },
+        {
+          "letter": "C",
+          "text": "Reservas gigantescas de litio líquido listas para la fabricación de teléfonos celulares modernos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los teléfonos celulares modernos no existían en el siglo XIX y el litio se sitúa en los salares altiplánicos mediterráneos, no en costas salitreras."
+        },
+        {
+          "letter": "D",
+          "text": "Yacimientos de carbón de piedra explotados de forma manual por comunidades indígenas guaraníes del Chaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los guaraníes habitan el Chaco del sudeste boliviano, muy distantes del árido desierto costero del Litoral en el Pacífico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La riqueza del Litoral residía en el subsuelo del desierto. Bolivia poseía la soberanía sobre estas materias primas estratégicas, pero carecía de la densidad demográfica, del capital de inversión y del poderío militar para resguardar la frontera costera frente a la expansión de empresas chilenas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v9",
+      "statement": "Si aplicamos el análisis de las relaciones diplomáticas bilaterales, ¿qué acuerdo limítrofe previo a la guerra determinó el paralelo de frontera oficial entre Bolivia y Chile?",
+      "context": "En Tarija, el estudiante René del Colegio Nacional San Luis estudia los desacuerdos limítrofes entre Bolivia y Chile a lo largo del siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Tratado de Límites de 1874, que fijó la frontera oficial en el paralelo 24 de latitud sur y prohibió nuevos impuestos a empresas chilenas por 25 años.",
+          "is_correct": true,
+          "feedback": "Correcto. El Tratado de 1874 ratificó la frontera común en el paralelo 24, eximiendo a las personas y capitales chilenos asentados en el Litoral boliviano de nuevos tributos o cargas impositivas por un cuarto de siglo, compromiso violado según Chile por el impuesto de los 10 centavos de Daza."
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Tordesillas colonial de 1494 firmado por Simón Bolívar y el Mariscal Antonio José de Sucre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tordesillas dividió tierras entre imperios en el siglo XV, mucho antes del nacimiento de Bolivia o la firma de tratados con Chile."
+        },
+        {
+          "letter": "C",
+          "text": "El Tratado de Petrópolis de 1903 que entregó la provincia del Chaco Boreal al Imperio de Portugal de forma voluntaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Petrópolis entregó el territorio del Acre al Brasil por causa de la goma elástica, ajeno a los límites con Chile de 1874."
+        },
+        {
+          "letter": "D",
+          "text": "La declaración de guerra de la reina de España a los ejércitos revolucionarios de Pedro Domingo Murillo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La declaración de guerra de España en 1810 no fijó los paralelos de fronteras republicanas entre Bolivia y Chile."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cumplimiento estricto del Tratado de 1874 era vital para la paz regional. Su transgresión real o supuesta por el cobro impositivo de los 10 centavos en 1878 precipitó la invasión armada y la anexión fáctica de Antofagasta, Calama, Cobija y Mejillones por parte de Chile.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v10",
+      "statement": "Si analizamos los desplazamientos tácticos del ejército boliviano en 1879, ¿qué rol desempeñó la Quinta División al mando del general Narciso Campero?",
+      "context": "En Oruro, la estudiante Nancy del Colegio Nacional Florida estudia el controvertido rol de la Quinta División durante la Guerra del Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permaneció replegada en Cotagaita de forma inactiva por sospechas de conspiración y resguardo de las inversiones de los magnates de la plata.",
+          "is_correct": true,
+          "feedback": "Correcto. La inacción de la Quinta División en Potosí desató fuertes sospechas de que el general Campero priorizó resguardar las minas de plata de la rosca minera (Arce) y conspiró para deponer al presidente Hilarión Daza."
+        },
+        {
+          "letter": "B",
+          "text": "Inundó la bahía de Antofagasta de forma pacífica utilizando barcos pesqueros andinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Paz y Oruro no cuentan con puertos marítimos y la Quinta División operaba de forma terrestre andina en Potosí."
+        },
+        {
+          "letter": "C",
+          "text": "Firmó de inmediato la Constitución de 2009 que declaró al Litoral boliviano Estado Plurinacional de forma voluntaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un completo desfase e imposibilidad histórica, ya que la Constitución de 2009 es del siglo XXI."
+        },
+        {
+          "letter": "D",
+          "text": "Entregó la Casa de la Moneda de Potosí de forma obligatoria al Paraguay a cambio de cañones de vapor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Paraguay no participó en la contienda del Pacífico de 1879 y la Casa de la Moneda se mantuvo como patrimonio nacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rol de la Quinta División ilustra el divisionismo interno de la élite de Bolivia. Privó al frente de combate de miles de soldados adiestrados que pudieron alterar el desenlace defensivo de la campaña del desierto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v11",
+      "statement": "Al analizar las consecuencias inmediatas de la pérdida de la costa soberana tras 1880, ¿qué limitación geopolítica estructural condicionó la economía de Bolivia?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza el impacto geopolítico inmediato de la Guerra del Pacífico en el Litoral boliviano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediterraneidad obligada del territorio, supeditando su comercio exterior a los puertos de tránsito soberanos de Chile y Perú.",
+          "is_correct": true,
+          "feedback": "Correcto. La pérdida del Litoral dejó a Bolivia enclaustrada geográficamente, obligándola a depender de la voluntad portuaria e impositiva de sus vecinos para exportar e importar mercancías."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición total de cultivar papa y quinua real decretada por el parlamento de Santiago de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cultivo andino nativo continuó regulado pero libre en el altiplano de Bolivia, sin prohibición de Chile."
+        },
+        {
+          "letter": "C",
+          "text": "La inundación masiva de los socavones mineros del Cerro Rico por las mareas altas del océano Pacífico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Potosí se sitúa a miles de metros sobre el nivel del mar; físicamente es imposible que mareas oceánicas inunden sus socavones."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega total de la Amazonía boliviana de forma obligatoria al Imperio del Brasil por ferrocarriles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los límites con el Brasil en el Acre se acordaron décadas más tarde en 1903, ajenos al Tratado de Tregua de 1884."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enclaustramiento forzado de Bolivia representa un obstáculo estructural histórico. Obliga al país a depender de puertos extranjeros, encareciendo fletes e imposibilitando la consolidación de un polo industrial soberano.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v12",
+      "statement": "¿Qué costo de transacción de carácter permanente restaba competitividad a las exportaciones de estaño y plata de Bolivia tras la pérdida del Litoral?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín estudia los costos macroeconómicos acumulados de la mediterraneidad de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cobro de fletes e impuestos de tránsito portuario terrestre y las demoras aduaneras aplicadas por puertos chilenos bajo el Tratado de 1904.",
+          "is_correct": true,
+          "feedback": "Correcto. A pesar del libre tránsito teórico consagrado en el Tratado de 1904, las demoras burocráticas, trabas aduaneras y de fletes terrestres chilenos encarecieron de forma sustancial las exportaciones bolivianas."
+        },
+        {
+          "letter": "B",
+          "text": "La abolición del idioma castellano para declarar el idioma inglés como único oficial de las aduanas de la patria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se abolió el castellano administrativo en aduanas terrestres o fluviales de Bolivia."
+        },
+        {
+          "letter": "C",
+          "text": "El pago obligatorio de un subsidio en pesos de oro a las fuerzas armadas de la Unión Soviética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Unión Soviética no existía en el periodo de 1904 de la firma del Tratado de Paz con Chile."
+        },
+        {
+          "letter": "D",
+          "text": "La expropiación pacífica de los salares de litio de Uyuni decretada por el presidente de origen brasileño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se expropió el litio para Brasil en 1904, el cual no era estratégico, y no gobernaba ningún brasileño en Bolivia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Estudios económicos confirman que los países mediterráneos sufren un 'impuesto geográfico' por demoras en puertos de terceros países, restándoles competitividad comercial internacional.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v13",
+      "statement": "Al analizar críticamente las fuerzas económicas internacionales en la Guerra del Pacífico, ¿qué papel jugaron los capitales de inversión británicos?",
+      "context": "En Cochabamba, la estudiante Shirley del Colegio San Simón analiza el bando chileno durante la Guerra del Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Financiaron y apoyaron decididamente al bando de Chile debido a que controlaban la mayor parte de las acciones de la Compañía de Salitres.",
+          "is_correct": true,
+          "feedback": "Correcto. Las salitreras del Litoral estaban controladas mayoritariamente por capitalistas británicos asentados en Valparaíso; su influencia en el parlamento chileno determinó la agresión militar defensiva ante los impuestos bolivianos."
+        },
+        {
+          "letter": "B",
+          "text": "Lucharon de forma heroica al lado de Eduardo Abaroa en la defensa del Puente del Topáter.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los británicos apoyaron material y financieramente a las fuerzas invasoras chilenas, no al bando boliviano."
+        },
+        {
+          "letter": "C",
+          "text": "Entregaron la totalidad de las minas del Cerro Rico al Paraguay para devaluar el precio internacional de la plata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Paraguay no participó en la contienda del Pacífico y el Cerro Rico se mantuvo bajo control soberano de Bolivia."
+        },
+        {
+          "letter": "D",
+          "text": "Exigieron que Simón Bolívar fuera nombrado papa de la Iglesia católica andina central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simón Bolívar falleció en 1830 de forma civil, alejado de pretensiones religiosas eclesiásticas de papados británicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Guerra del Pacífico ha sido catalogada por historiadores críticos como la 'Guerra del Salitre y los Capitales Ingleses'. Demostró que el imperialismo económico de época influyó de forma sustancial en el destino geopolítico de los Andes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v14",
+      "statement": "¿Qué contradicción de intereses dividía a las facciones militaristas de Hilarión Daza de los magnates mineros conservadores en 1879?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza las rivalidades políticas de la oligarquía minera de la plata durante el conflicto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Daza promovía una política tributaria nacionalista y hostilidad defensiva armada contra Chile, mientras que los conservadores priorizaban el arreglo pacífico mercantil.",
+          "is_correct": true,
+          "feedback": "Correcto. Los magnates de la plata (Aniceto Arce, Gregorio Pacheco) temían que la guerra de Daza paralizara las exportaciones de sus minas andinas y destruyera sus inversiones ligadas a capitalistas de Valparaíso, abogando por el cese de hostilidades."
+        },
+        {
+          "letter": "B",
+          "text": "La disputa sobre si se debían donar las minas de litio del Salar de Uyuni al bando de los jesuitas del Beni.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se disputaba el litio en 1879 y los jesuitas habían sido expulsados de misiones hacía más de un siglo."
+        },
+        {
+          "letter": "C",
+          "text": "El cobro obligatorio de aranceles cero a todas las importaciones de carbón procedentes de la Unión Soviética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No operaba la Unión Soviética y no existía tal comercio o disputa arancelaria con el Litoral de Bolivia."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del voto universal de las mujeres indígenas andinas de Cochabamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voto universal no existía en 1879, por lo que no guarda relación con las disputas de la élite minera de la plata."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta división de las élites debilitó de forma trágica la cohesión nacional de Bolivia. Los magnates mineros depusieron a Daza para instaurar el periodo de gobiernos conservadores, inaugurando una diplomacia pragmática favorable al Tratado de 1904.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v15",
+      "statement": "Al analizar las dificultades de movilización militar en la Guerra del Pacífico, ¿qué factor geográfico asfixió el desplazamiento del ejército de la patria hacia el Litoral?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia las penurias logísticas del ejército de Bolivia en Atacama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta total de vías férreas y caminos transitables en el cruce andino de la cordillera hacia el desierto árido de Atacama.",
+          "is_correct": true,
+          "feedback": "Correcto. Bolivia carecía de infraestructura de transporte moderna para movilizar a miles de reclutas desde el altiplano de altura y valles hacia la remota costa desértica del Litoral, tardando semanas en traslados peatonales fatigosos."
+        },
+        {
+          "letter": "B",
+          "text": "El ataque constante de tiburones blancos gigantes procedentes del lago navegable de La Paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen tiburones en lagos andinos ni en el desierto costero seco de Atacama; representa una distracción disparatada."
+        },
+        {
+          "letter": "C",
+          "text": "La erupción de volcanes de estaño fundido que cubrían de ceniza ácida las aduanas de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los volcanes andinos no erupcionan estaño fundido por el deshielo glaciar; la minería es un proceso artificial humano."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del idioma castellano decretada de forma obligatoria por los coroneles de origen portugués.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El castellano se mantuvo como el idioma de mando militar y no se prohibió ni operaban coroneles de origen portugués."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La imprevisión y la mediterraneidad física interior de Bolivia determinaron la derrota defensiva. Mientras Chile operaba modernos transportes marítimos a vapor por mar, Bolivia enviaba regimientos peatonales exhaustos a pie.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v16",
+      "statement": "¿Qué rol estratégico y de resistencia civil le correspondió a Ladislao Cabrera en la defensa de Calama de marzo de 1879?",
+      "context": "En El Alto, el estudiante Walter de la Unidad Educativa Juan Pablo II investiga el rol del coronel Ladislao Cabrera en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizó y comandó la defensa civil voluntaria de Calama con apenas un centenar de hombres armados con rifles de caza.",
+          "is_correct": true,
+          "feedback": "Correcto. Ladislao Cabrera, prefecto civil de Calama, asumió la comandancia de las fuerzas defensivas voluntarias de la patria ante el asalto militar de las disciplinadas columnas chilenas, resistiendo con audacia el ataque terrestre chileno en el Puente del Topáter."
+        },
+        {
+          "letter": "B",
+          "text": "La firma de un tratado de paz definitivo con Chile que regalaba de forma voluntaria todas las minas de plata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cabrera luchó tenazmente contra la invasión de Calama y no entregó ni negoció la venta de minas de plata."
+        },
+        {
+          "letter": "C",
+          "text": "La expropiación pacífica de los salares de litio de Uyuni en favor de las fuerzas armadas paraguayas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esa fecha no existía conflicto de fronteras con Paraguay y el litio no era el recurso estratégico costero disputado en 1879."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del catolicismo que pretendían imponer las fuerzas armadas paraguayas de forma militar en Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Paraguay no participó en la contienda del Pacífico de 1879; es un desfase geográfico e histórico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La defensa de Calama del 23 de marzo de 1879 constituyó un acto de valor y heroísmo civil formidable. Cabrera y Abaroa demostraron el patriotismo indómito de la población local, sirviendo de mística para reclamar el retorno al Pacífico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v17",
+      "statement": "Al juzgar integralmente el Tratado de Paz y Amistad de 1904 firmado con Chile, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?",
+      "context": "En Tarija, el estudiante René del Colegio Nacional San Luis evalúa críticamente los términos del Tratado de Paz de 1904.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consagró de manera definitiva el enclaustramiento de Bolivia y amarró la economía nacional a la infraestructura y puertos chilenos a cambio de compensaciones menores.",
+          "is_correct": true,
+          "feedback": "Correcto. El Tratado de 1904 fue duramente juzgado por la historia crítica como una capitulación de las élites liberales, que resignaron la costa soberana a perpetuidad a cambio de indemnizaciones económicas exiguas."
+        },
+        {
+          "letter": "B",
+          "text": "Fue sumamente beneficioso para el erario público porque Chile cedió de forma voluntaria toda la cordillera andina a Bolivia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile no cedió cordilleras andinas ni devolvió territorio Litoral; consolidó su anexión definitiva de Calama y Antofagasta."
+        },
+        {
+          "letter": "C",
+          "text": "La corona de España obligó a los revolucionarios a hablar francés para conmutar las sentencias de muerte de los cabecillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España luchaba ferozmente contra la invasión francesa y aborrecía el idioma francés; las sentencias de muerte se ejecutaron de inmediato."
+        },
+        {
+          "letter": "D",
+          "text": "No tuvo importancia aduanera real debido a que las aduanas de la patria se disolvieron pacíficamente en 1904.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia mantuvo sus aduanas terrestres y la mediterraneidad continuó mermando de forma gravísima su competitividad fiscal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de 1904 devela las contradicciones de las élites de la postguerra. Aunque Ismael Montes lo defendió para reactivar las finanzas y el tendido de líneas de ferrocarril, significó resignar a perpetuidad el acceso marítimo soberano.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.53,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v18",
+      "statement": "Al juzgar críticamente la tesis patriótica del 'enclaustramiento marítimo' como la causa primordial del subdesarrollo industrial de Bolivia, ¿cuál es la valoración historiográfica más equilibrada?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez valora críticamente la tesis del enclaustramiento marítimo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediterraneidad impuso un costo estructural innegable, pero el atraso industrial también obedeció a factores internos de negligencia estatal y persistencia del extractivismo señorial.",
+          "is_correct": true,
+          "feedback": "Correcto. Si bien la falta de puerto soberano restó competitividad, la historia crítica devela que el atraso industrial también se debió a la negligencia de la rosca minera que remitió sus fabulosas ganancias al extranjero sin industrializar la patria."
+        },
+        {
+          "letter": "B",
+          "text": "El enclaustramiento fue un invento de los azogueros de Potosí para justificar el cobro del impuesto de los 10 centavos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pérdida del Litoral y el enclaustramiento son hechos históricos geográficos reales y dolorosos para Bolivia, no inventos de azogueros."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la quinua andina se produce mejor en climas tropicales lluviosos a orillas del río Amazonas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quinua andina se adapta específicamente a suelos áridos y bajas temperaturas del altiplano, no a selvas tropicales húmedas."
+        },
+        {
+          "letter": "D",
+          "text": "El Litoral boliviano era estéril y desprovisto de recursos y su pérdida fue una bendición económica para las aduanas de la patria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Litoral poseía inmensas riquezas estratégicas de salitre, guano, cobre y plata; su pérdida representó un desastre económico real para Bolivia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El debate del subdesarrollo boliviano devela que el factor geográfico y el factor institucional están íntimamente ligados. Culpar de forma exclusiva a la mediterraneidad elude analizar las responsabilidades de las oligarquías extractivas internas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar globalmente los factores de imprevisión de la defensa boliviana en la Guerra del Pacífico de 1879, ¿cuál de las siguientes conclusiones cuenta con mayor respaldo documental?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar valora de forma crítica las responsabilidades de la defensa en 1879.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La total desatención demográfica y de control militar efectivo del Litoral por parte del Estado de Bolivia, sumado a la inestabilidad política caudillista de La Paz.",
+          "is_correct": true,
+          "feedback": "Correcto. Bolivia gobernaba el Litoral de manera remota e ineficaz, con escasa población nacional y sin defensas de fortificaciones o barcos de guerra navales, facilitando la agresión fáctica del disciplinado ejército de Chile."
+        },
+        {
+          "letter": "B",
+          "text": "La decisión pacífica de los habitantes de Antofagasta de independizarse de Bolivia para fundar el Imperio de Portugal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La población de Antofagasta en 1879 era de mayoría chilena y británica bajo soberanía de Bolivia; no deseaban pertenecer a Portugal."
+        },
+        {
+          "letter": "C",
+          "text": "La orden obligatoria de Simón Bolívar de regalar la costa de Calama a Chile a cambio de un tren bioceánico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar falleció en 1830, décadas antes de la guerra, y defendía con fervor la integridad territorial soberana de Bolivia."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición del uso del castellano en las oficinas de las aduanas nacionales decretada por los reyes borbones de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España ya no gobernaba en 1879 de forma civil; el castellano se mantuvo como idioma administrativo oficial de aduanas bolivianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tragedia de 1879 devela las falencias institucionales del Estado boliviano del siglo XIX. La inestabilidad de continuos golpes de Estado en La Paz impidió trazar una política seria de defensa de fronteras soberanas remotas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle-v20",
+      "statement": "Al evaluar críticamente el fallo de la Corte Internacional de Justicia de La Haya de 2018 sobre la demanda marítima de Bolivia contra Chile, ¿cuál de las siguientes afirmaciones posee mayor sustento jurídico e histórico?",
+      "context": "En Sacaba, el estudiante Limbert del Colegio San Simón valora la demanda marítima de Bolivia de 2018 ante La Haya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Corte determinó que Chile no tiene la obligación legal de negociar un acceso soberano al mar para Bolivia, pero recomendó continuar los diálogos diplomáticos de buena vecindad.",
+          "is_correct": true,
+          "feedback": "Correcto. El fallo de octubre de 2018 desestimó los argumentos jurídicos de Bolivia sobre los 'derechos expectaticios' derivados de promesas históricas de Chile, dejando al país enclaustrado legalmente en el Tratado de 1904, instando empero a dialogar por la mediterraneidad."
+        },
+        {
+          "letter": "B",
+          "text": "La Corte ordenó de forma obligatoria a Chile devolver el puerto de Antofagasta a Bolivia en un mes de forma pacífica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CIJ desestimó la demanda boliviana y no obligó a Chile a devolver puertos o territorios costeros del Pacífico."
+        },
+        {
+          "letter": "C",
+          "text": "La Corte dictaminó que Bolivia debía disolver sus aduanas terrestres para integrarse voluntariamente al Paraguay de forma militar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CIJ no tiene jurisdicción para disolver aduanas o fusionar Estados soberanos de forma militar."
+        },
+        {
+          "letter": "D",
+          "text": "La Corte declaró ilegal el Tratado de 1904 y restableció la vigencia del Tratado de Tordesillas del siglo XV.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CIJ ratificó la plena vigencia de tratados bilaterales modernos vigentes, descartando revocar límites territoriales acordados en 1904."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El fallo de 2018 representó un duro golpe diplomático para el discurso oficial plurinacional de Bolivia. Demostró los límites de judicializar controversias limítrofes cerradas por tratados de límites estables vigentes, forzando a replantear la diplomacia bilateral.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "BO-SOC-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

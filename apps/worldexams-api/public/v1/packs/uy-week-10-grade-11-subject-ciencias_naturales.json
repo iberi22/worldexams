@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-10-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T05:18:14.099Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Según la teoría de la evolución por selección natural de Darwin y Wallace, ¿cómo se genera el cambio adaptativo en las poblaciones a lo largo de las generaciones?",
+      "context": "Durante una actividad de laboratorio en el Liceo Piloto de Las Piedras, Nicolás analiza teoría de la selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La variabilidad genética preexistente determina que los individuos con rasgos más aptos sobrevivan y dejen mayor descendencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El éxito reproductivo diferencial basado en rasgos heredables es el motor de la selección natural."
+        },
+        {
+          "letter": "B",
+          "text": "El esfuerzo voluntario e individual de cada organismo modifica sus genes para adaptarse al entorno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los esfuerzos o hábitos de vida individuales no modifican el genoma de las células germinales transmisibles."
+        },
+        {
+          "letter": "C",
+          "text": "Las especies cambian debido a mutaciones programadas de antemano para predecir catástrofes climáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son eventos azarosos y no están orientadas teleológicamente a predecir el futuro ecológico."
+        },
+        {
+          "letter": "D",
+          "text": "Los organismos más débiles mutan de forma intencionada para asemejarse a los depredadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones no ocurren por intención adaptativa del individuo; la variación ocurre al azar y la selección actúa a posteriori."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La selección natural actúa sobre la variación fenotípica existente en una población, filtrando los rasgos menos favorables ante presiones selectivas. En este contexto, Nicolás de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia evolutiva entre caracteres homólogos y caracteres análogos en la anatomía comparada de las especies?",
+      "context": "En la clase práctica del Liceo N° 1 Departamental en Colonia del Sacramento, Belén y sus compañeros debaten sobre evidencias homólogas vs análogas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los homólogos comparten un origen evolutivo común pero cumplen funciones distintas; los análogos cumplen funciones idénticas pero tienen distinto origen.",
+          "is_correct": true,
+          "feedback": "Correcto. Ejemplo: el brazo humano y la aleta de ballena (homología) versus el ala de insecto y el ala de ave (analogía por convergencia)."
+        },
+        {
+          "letter": "B",
+          "text": "Los homólogos resultan de evolución convergente en hábitats secos; los análogos reflejan ancestros inmediatos extintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolución convergente origina analogías al someter linajes distantes a presiones ecológicas similares."
+        },
+        {
+          "letter": "C",
+          "text": "Los caracteres homólogos son de origen artificial; los análogos se desarrollan por manipulación de laboratorios genéticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de caracteres son de origen natural y fundamentales para trazar árboles filogenéticos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Los caracteres análogos comparten exactamente los mismos genes funcionales heredados de un ancestro común unicelular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los análogos se desarrollan a partir de estructuras embrionarias diferentes y con bases genéticas no homólogas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las homologías revelan ancestros comunes compartidos (divergencia), mientras que las analogías ilustran soluciones evolutivas similares frente a nichos semejantes (convergencia). En este contexto, Belén de Colonia del Sacramento determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué las mutaciones se consideran la materia prima de la evolución por selección natural?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 2 de Melo, Felipe investiga acerca de mutación como variabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque constituyen la fuente primaria de alelos nuevos que introducen variación heredable en la población.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin mutaciones no habría nuevos alelos y la variabilidad fenotípica sobre la cual actúa la selección natural sería nula."
+        },
+        {
+          "letter": "B",
+          "text": "Porque garantizan que todas las descendencias sean completamente estériles y estables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones viables se heredan de manera normal y no suelen inducir esterilidad generalizada en la población."
+        },
+        {
+          "letter": "C",
+          "text": "Porque eliminan por completo la necesidad de reproducirse sexualmente para transmitir rasgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción sexual continúa siendo el mecanismo primordial para barajar la variación mediante meiosis."
+        },
+        {
+          "letter": "D",
+          "text": "Porque curan de forma inmediata cualquier enfermedad de origen metabólico en el espécimen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas mutaciones son neutras o perjudiciales; no actúan como mecanismos curativos deliberados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mutación genera variación al azar, y son las presiones ecológicas y la selección natural las que determinan si el nuevo alelo persiste o desaparece. En este contexto, Felipe de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "¿En qué condiciones poblacionales se manifiesta con mayor fuerza la deriva génica, alterando de manera drástica las frecuencias alélicas?",
+      "context": "Mientras repasa para el examen parcial en Paysandú, Juana estudia detenidamente deriva génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En poblaciones de tamaño reducido sometidas a eventos azarosos como cuellos de botella o efecto fundador.",
+          "is_correct": true,
+          "feedback": "Correcto. La deriva génica es un cambio aleatorio en las frecuencias alélicas que afecta drásticamente a poblaciones pequeñas."
+        },
+        {
+          "letter": "B",
+          "text": "En comunidades infinitas con flujo génico constante y ausencia de catástrofes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En poblaciones grandes los efectos azarosos se diluyen y predomina la selección natural o equilibrio Hardy-Weinberg."
+        },
+        {
+          "letter": "C",
+          "text": "En cultivos bacterianos estables criados en biorreactores controlados de alta densidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las altas densidades bacterianas minimizan las desviaciones de muestreo estadísticas azarosas."
+        },
+        {
+          "letter": "D",
+          "text": "En poblaciones agrícolas de polinización artificial intensiva libre de insectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección artificial controlada dirige las frecuencias, no el azar característico de la deriva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deriva génica reduce la diversidad genética de las poblaciones pequeñas, pudiendo fijar alelos deletéreos por puro azar. En este contexto, Juana de Paysandú determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Según la teoría de la evolución por selección natural de Darwin y Wallace, ¿cómo se genera el cambio adaptativo en las poblaciones a lo largo de las generaciones?",
+      "context": "En el taller de Ciencias Naturales en Minas, Ignacio observa un modelo experimental de teoría de la selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La variabilidad genética preexistente determina que los individuos con rasgos más aptos sobrevivan y dejen mayor descendencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El éxito reproductivo diferencial basado en rasgos heredables es el motor de la selección natural."
+        },
+        {
+          "letter": "B",
+          "text": "El esfuerzo voluntario e individual de cada organismo modifica sus genes para adaptarse al entorno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los esfuerzos o hábitos de vida individuales no modifican el genoma de las células germinales transmisibles."
+        },
+        {
+          "letter": "C",
+          "text": "Las especies cambian debido a mutaciones programadas de antemano para predecir catástrofes climáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son eventos azarosos y no están orientadas teleológicamente a predecir el futuro ecológico."
+        },
+        {
+          "letter": "D",
+          "text": "Los organismos más débiles mutan de forma intencionada para asemejarse a los depredadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones no ocurren por intención adaptativa del individuo; la variación ocurre al azar y la selección actúa a posteriori."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La selección natural actúa sobre la variación fenotípica existente en una población, filtrando los rasgos menos favorables ante presiones selectivas. En este contexto, Ignacio de Minas determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia evolutiva entre caracteres homólogos y caracteres análogos en la anatomía comparada de las especies?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 5 de Tacuarembó, Paula analiza evidencias homólogas vs análogas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los homólogos comparten un origen evolutivo común pero cumplen funciones distintas; los análogos cumplen funciones idénticas pero tienen distinto origen.",
+          "is_correct": true,
+          "feedback": "Correcto. Ejemplo: el brazo humano y la aleta de ballena (homología) versus el ala de insecto y el ala de ave (analogía por convergencia)."
+        },
+        {
+          "letter": "B",
+          "text": "Los homólogos resultan de evolución convergente en hábitats secos; los análogos reflejan ancestros inmediatos extintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolución convergente origina analogías al someter linajes distantes a presiones ecológicas similares."
+        },
+        {
+          "letter": "C",
+          "text": "Los caracteres homólogos son de origen artificial; los análogos se desarrollan por manipulación de laboratorios genéticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de caracteres son de origen natural y fundamentales para trazar árboles filogenéticos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Los caracteres análogos comparten exactamente los mismos genes funcionales heredados de un ancestro común unicelular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los análogos se desarrollan a partir de estructuras embrionarias diferentes y con bases genéticas no homólogas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las homologías revelan ancestros comunes compartidos (divergencia), mientras que las analogías ilustran soluciones evolutivas similares frente a nichos semejantes (convergencia). En este contexto, Paula de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué las mutaciones se consideran la materia prima de la evolución por selección natural?",
+      "context": "En la clase práctica del Liceo Piloto en Florida, Diego y sus compañeros debaten sobre mutación como variabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque constituyen la fuente primaria de alelos nuevos que introducen variación heredable en la población.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin mutaciones no habría nuevos alelos y la variabilidad fenotípica sobre la cual actúa la selección natural sería nula."
+        },
+        {
+          "letter": "B",
+          "text": "Porque garantizan que todas las descendencias sean completamente estériles y estables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones viables se heredan de manera normal y no suelen inducir esterilidad generalizada en la población."
+        },
+        {
+          "letter": "C",
+          "text": "Porque eliminan por completo la necesidad de reproducirse sexualmente para transmitir rasgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción sexual continúa siendo el mecanismo primordial para barajar la variación mediante meiosis."
+        },
+        {
+          "letter": "D",
+          "text": "Porque curan de forma inmediata cualquier enfermedad de origen metabólico en el espécimen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas mutaciones son neutras o perjudiciales; no actúan como mecanismos curativos deliberados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mutación genera variación al azar, y son las presiones ecológicas y la selección natural las que determinan si el nuevo alelo persiste o desaparece. En este contexto, Diego de Florida determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "¿En qué condiciones poblacionales se manifiesta con mayor fuerza la deriva génica, alterando de manera drástica las frecuencias alélicas?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 1 Departamental de Fray Bentos, Clara investiga acerca de deriva génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En poblaciones de tamaño reducido sometidas a eventos azarosos como cuellos de botella o efecto fundador.",
+          "is_correct": true,
+          "feedback": "Correcto. La deriva génica es un cambio aleatorio en las frecuencias alélicas que afecta drásticamente a poblaciones pequeñas."
+        },
+        {
+          "letter": "B",
+          "text": "En comunidades infinitas con flujo génico constante y ausencia de catástrofes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En poblaciones grandes los efectos azarosos se diluyen y predomina la selección natural o equilibrio Hardy-Weinberg."
+        },
+        {
+          "letter": "C",
+          "text": "En cultivos bacterianos estables criados en biorreactores controlados de alta densidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las altas densidades bacterianas minimizan las desviaciones de muestreo estadísticas azarosas."
+        },
+        {
+          "letter": "D",
+          "text": "En poblaciones agrícolas de polinización artificial intensiva libre de insectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección artificial controlada dirige las frecuencias, no el azar característico de la deriva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deriva génica reduce la diversidad genética de las poblaciones pequeñas, pudiendo fijar alelos deletéreos por puro azar. En este contexto, Clara de Fray Bentos determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Según la teoría de la evolución por selección natural de Darwin y Wallace, ¿cómo se genera el cambio adaptativo en las poblaciones a lo largo de las generaciones?",
+      "context": "Mientras repasa para el examen parcial en Montevideo, Agustín estudia detenidamente teoría de la selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La variabilidad genética preexistente determina que los individuos con rasgos más aptos sobrevivan y dejen mayor descendencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El éxito reproductivo diferencial basado en rasgos heredables es el motor de la selección natural."
+        },
+        {
+          "letter": "B",
+          "text": "El esfuerzo voluntario e individual de cada organismo modifica sus genes para adaptarse al entorno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los esfuerzos o hábitos de vida individuales no modifican el genoma de las células germinales transmisibles."
+        },
+        {
+          "letter": "C",
+          "text": "Las especies cambian debido a mutaciones programadas de antemano para predecir catástrofes climáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son eventos azarosos y no están orientadas teleológicamente a predecir el futuro ecológico."
+        },
+        {
+          "letter": "D",
+          "text": "Los organismos más débiles mutan de forma intencionada para asemejarse a los depredadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones no ocurren por intención adaptativa del individuo; la variación ocurre al azar y la selección actúa a posteriori."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La selección natural actúa sobre la variación fenotípica existente en una población, filtrando los rasgos menos favorables ante presiones selectivas. En este contexto, Agustín de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la diferencia evolutiva entre caracteres homólogos y caracteres análogos en la anatomía comparada de las especies?",
+      "context": "En el taller de Ciencias Naturales en Las Piedras, Sebastián observa un modelo experimental de evidencias homólogas vs análogas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los homólogos comparten un origen evolutivo común pero cumplen funciones distintas; los análogos cumplen funciones idénticas pero tienen distinto origen.",
+          "is_correct": true,
+          "feedback": "Correcto. Ejemplo: el brazo humano y la aleta de ballena (homología) versus el ala de insecto y el ala de ave (analogía por convergencia)."
+        },
+        {
+          "letter": "B",
+          "text": "Los homólogos resultan de evolución convergente en hábitats secos; los análogos reflejan ancestros inmediatos extintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolución convergente origina analogías al someter linajes distantes a presiones ecológicas similares."
+        },
+        {
+          "letter": "C",
+          "text": "Los caracteres homólogos son de origen artificial; los análogos se desarrollan por manipulación de laboratorios genéticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de caracteres son de origen natural y fundamentales para trazar árboles filogenéticos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Los caracteres análogos comparten exactamente los mismos genes funcionales heredados de un ancestro común unicelular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los análogos se desarrollan a partir de estructuras embrionarias diferentes y con bases genéticas no homólogas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las homologías revelan ancestros comunes compartidos (divergencia), mientras que las analogías ilustran soluciones evolutivas similares frente a nichos semejantes (convergencia). En este contexto, Sebastián de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "¿Por qué las mutaciones se consideran la materia prima de la evolución por selección natural?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 4 de Colonia del Sacramento, Valentina analiza mutación como variabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque constituyen la fuente primaria de alelos nuevos que introducen variación heredable en la población.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin mutaciones no habría nuevos alelos y la variabilidad fenotípica sobre la cual actúa la selección natural sería nula."
+        },
+        {
+          "letter": "B",
+          "text": "Porque garantizan que todas las descendencias sean completamente estériles y estables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones viables se heredan de manera normal y no suelen inducir esterilidad generalizada en la población."
+        },
+        {
+          "letter": "C",
+          "text": "Porque eliminan por completo la necesidad de reproducirse sexualmente para transmitir rasgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción sexual continúa siendo el mecanismo primordial para barajar la variación mediante meiosis."
+        },
+        {
+          "letter": "D",
+          "text": "Porque curan de forma inmediata cualquier enfermedad de origen metabólico en el espécimen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas mutaciones son neutras o perjudiciales; no actúan como mecanismos curativos deliberados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mutación genera variación al azar, y son las presiones ecológicas y la selección natural las que determinan si el nuevo alelo persiste o desaparece. En este contexto, Valentina de Colonia del Sacramento determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "¿En qué condiciones poblacionales se manifiesta con mayor fuerza la deriva génica, alterando de manera drástica las frecuencias alélicas?",
+      "context": "En la clase práctica del Liceo N° 5 en Melo, Santiago y sus compañeros debaten sobre deriva génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En poblaciones de tamaño reducido sometidas a eventos azarosos como cuellos de botella o efecto fundador.",
+          "is_correct": true,
+          "feedback": "Correcto. La deriva génica es un cambio aleatorio en las frecuencias alélicas que afecta drásticamente a poblaciones pequeñas."
+        },
+        {
+          "letter": "B",
+          "text": "En comunidades infinitas con flujo génico constante y ausencia de catástrofes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En poblaciones grandes los efectos azarosos se diluyen y predomina la selección natural o equilibrio Hardy-Weinberg."
+        },
+        {
+          "letter": "C",
+          "text": "En cultivos bacterianos estables criados en biorreactores controlados de alta densidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las altas densidades bacterianas minimizan las desviaciones de muestreo estadísticas azarosas."
+        },
+        {
+          "letter": "D",
+          "text": "En poblaciones agrícolas de polinización artificial intensiva libre de insectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección artificial controlada dirige las frecuencias, no el azar característico de la deriva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deriva génica reduce la diversidad genética de las poblaciones pequeñas, pudiendo fijar alelos deletéreos por puro azar. En este contexto, Santiago de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Según la teoría de la evolución por selección natural de Darwin y Wallace, ¿cómo se genera el cambio adaptativo en las poblaciones a lo largo de las generaciones?",
+      "context": "Para el proyecto final de ciencias en el Liceo Piloto de Paysandú, Florencia investiga acerca de teoría de la selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La variabilidad genética preexistente determina que los individuos con rasgos más aptos sobrevivan y dejen mayor descendencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El éxito reproductivo diferencial basado en rasgos heredables es el motor de la selección natural."
+        },
+        {
+          "letter": "B",
+          "text": "El esfuerzo voluntario e individual de cada organismo modifica sus genes para adaptarse al entorno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los esfuerzos o hábitos de vida individuales no modifican el genoma de las células germinales transmisibles."
+        },
+        {
+          "letter": "C",
+          "text": "Las especies cambian debido a mutaciones programadas de antemano para predecir catástrofes climáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son eventos azarosos y no están orientadas teleológicamente a predecir el futuro ecológico."
+        },
+        {
+          "letter": "D",
+          "text": "Los organismos más débiles mutan de forma intencionada para asemejarse a los depredadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones no ocurren por intención adaptativa del individuo; la variación ocurre al azar y la selección actúa a posteriori."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La selección natural actúa sobre la variación fenotípica existente en una población, filtrando los rasgos menos favorables ante presiones selectivas. En este contexto, Florencia de Paysandú determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la diferencia evolutiva entre caracteres homólogos y caracteres análogos en la anatomía comparada de las especies?",
+      "context": "Mientras repasa para el examen parcial en Minas, Joaquín estudia detenidamente evidencias homólogas vs análogas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los homólogos comparten un origen evolutivo común pero cumplen funciones distintas; los análogos cumplen funciones idénticas pero tienen distinto origen.",
+          "is_correct": true,
+          "feedback": "Correcto. Ejemplo: el brazo humano y la aleta de ballena (homología) versus el ala de insecto y el ala de ave (analogía por convergencia)."
+        },
+        {
+          "letter": "B",
+          "text": "Los homólogos resultan de evolución convergente en hábitats secos; los análogos reflejan ancestros inmediatos extintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolución convergente origina analogías al someter linajes distantes a presiones ecológicas similares."
+        },
+        {
+          "letter": "C",
+          "text": "Los caracteres homólogos son de origen artificial; los análogos se desarrollan por manipulación de laboratorios genéticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de caracteres son de origen natural y fundamentales para trazar árboles filogenéticos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Los caracteres análogos comparten exactamente los mismos genes funcionales heredados de un ancestro común unicelular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los análogos se desarrollan a partir de estructuras embrionarias diferentes y con bases genéticas no homólogas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las homologías revelan ancestros comunes compartidos (divergencia), mientras que las analogías ilustran soluciones evolutivas similares frente a nichos semejantes (convergencia). En este contexto, Joaquín de Minas determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué las mutaciones se consideran la materia prima de la evolución por selección natural?",
+      "context": "En el taller de Ciencias Naturales en Tacuarembó, Camila observa un modelo experimental de mutación como variabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque constituyen la fuente primaria de alelos nuevos que introducen variación heredable en la población.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin mutaciones no habría nuevos alelos y la variabilidad fenotípica sobre la cual actúa la selección natural sería nula."
+        },
+        {
+          "letter": "B",
+          "text": "Porque garantizan que todas las descendencias sean completamente estériles y estables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones viables se heredan de manera normal y no suelen inducir esterilidad generalizada en la población."
+        },
+        {
+          "letter": "C",
+          "text": "Porque eliminan por completo la necesidad de reproducirse sexualmente para transmitir rasgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción sexual continúa siendo el mecanismo primordial para barajar la variación mediante meiosis."
+        },
+        {
+          "letter": "D",
+          "text": "Porque curan de forma inmediata cualquier enfermedad de origen metabólico en el espécimen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas mutaciones son neutras o perjudiciales; no actúan como mecanismos curativos deliberados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mutación genera variación al azar, y son las presiones ecológicas y la selección natural las que determinan si el nuevo alelo persiste o desaparece. En este contexto, Camila de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "¿En qué condiciones poblacionales se manifiesta con mayor fuerza la deriva génica, alterando de manera drástica las frecuencias alélicas?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Florida, Mateo analiza deriva génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En poblaciones de tamaño reducido sometidas a eventos azarosos como cuellos de botella o efecto fundador.",
+          "is_correct": true,
+          "feedback": "Correcto. La deriva génica es un cambio aleatorio en las frecuencias alélicas que afecta drásticamente a poblaciones pequeñas."
+        },
+        {
+          "letter": "B",
+          "text": "En comunidades infinitas con flujo génico constante y ausencia de catástrofes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En poblaciones grandes los efectos azarosos se diluyen y predomina la selección natural o equilibrio Hardy-Weinberg."
+        },
+        {
+          "letter": "C",
+          "text": "En cultivos bacterianos estables criados en biorreactores controlados de alta densidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las altas densidades bacterianas minimizan las desviaciones de muestreo estadísticas azarosas."
+        },
+        {
+          "letter": "D",
+          "text": "En poblaciones agrícolas de polinización artificial intensiva libre de insectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección artificial controlada dirige las frecuencias, no el azar característico de la deriva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deriva génica reduce la diversidad genética de las poblaciones pequeñas, pudiendo fijar alelos deletéreos por puro azar. En este contexto, Mateo de Florida determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.36,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Según la teoría de la evolución por selección natural de Darwin y Wallace, ¿cómo se genera el cambio adaptativo en las poblaciones a lo largo de las generaciones?",
+      "context": "En la clase práctica del Liceo N° 4 en Fray Bentos, Sofía y sus compañeros debaten sobre teoría de la selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La variabilidad genética preexistente determina que los individuos con rasgos más aptos sobrevivan y dejen mayor descendencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El éxito reproductivo diferencial basado en rasgos heredables es el motor de la selección natural."
+        },
+        {
+          "letter": "B",
+          "text": "El esfuerzo voluntario e individual de cada organismo modifica sus genes para adaptarse al entorno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los esfuerzos o hábitos de vida individuales no modifican el genoma de las células germinales transmisibles."
+        },
+        {
+          "letter": "C",
+          "text": "Las especies cambian debido a mutaciones programadas de antemano para predecir catástrofes climáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones son eventos azarosos y no están orientadas teleológicamente a predecir el futuro ecológico."
+        },
+        {
+          "letter": "D",
+          "text": "Los organismos más débiles mutan de forma intencionada para asemejarse a los depredadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones no ocurren por intención adaptativa del individuo; la variación ocurre al azar y la selección actúa a posteriori."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La selección natural actúa sobre la variación fenotípica existente en una población, filtrando los rasgos menos favorables ante presiones selectivas. En este contexto, Sofía de Fray Bentos determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la diferencia evolutiva entre caracteres homólogos y caracteres análogos en la anatomía comparada de las especies?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Montevideo, Martín investiga acerca de evidencias homólogas vs análogas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los homólogos comparten un origen evolutivo común pero cumplen funciones distintas; los análogos cumplen funciones idénticas pero tienen distinto origen.",
+          "is_correct": true,
+          "feedback": "Correcto. Ejemplo: el brazo humano y la aleta de ballena (homología) versus el ala de insecto y el ala de ave (analogía por convergencia)."
+        },
+        {
+          "letter": "B",
+          "text": "Los homólogos resultan de evolución convergente en hábitats secos; los análogos reflejan ancestros inmediatos extintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolución convergente origina analogías al someter linajes distantes a presiones ecológicas similares."
+        },
+        {
+          "letter": "C",
+          "text": "Los caracteres homólogos son de origen artificial; los análogos se desarrollan por manipulación de laboratorios genéticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de caracteres son de origen natural y fundamentales para trazar árboles filogenéticos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Los caracteres análogos comparten exactamente los mismos genes funcionales heredados de un ancestro común unicelular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los análogos se desarrollan a partir de estructuras embrionarias diferentes y con bases genéticas no homólogas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las homologías revelan ancestros comunes compartidos (divergencia), mientras que las analogías ilustran soluciones evolutivas similares frente a nichos semejantes (convergencia). En este contexto, Martín de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "¿Por qué las mutaciones se consideran la materia prima de la evolución por selección natural?",
+      "context": "Mientras repasa para el examen parcial en Las Piedras, Lucía estudia detenidamente mutación como variabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque constituyen la fuente primaria de alelos nuevos que introducen variación heredable en la población.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin mutaciones no habría nuevos alelos y la variabilidad fenotípica sobre la cual actúa la selección natural sería nula."
+        },
+        {
+          "letter": "B",
+          "text": "Porque garantizan que todas las descendencias sean completamente estériles y estables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutaciones viables se heredan de manera normal y no suelen inducir esterilidad generalizada en la población."
+        },
+        {
+          "letter": "C",
+          "text": "Porque eliminan por completo la necesidad de reproducirse sexualmente para transmitir rasgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción sexual continúa siendo el mecanismo primordial para barajar la variación mediante meiosis."
+        },
+        {
+          "letter": "D",
+          "text": "Porque curan de forma inmediata cualquier enfermedad de origen metabólico en el espécimen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas mutaciones son neutras o perjudiciales; no actúan como mecanismos curativos deliberados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mutación genera variación al azar, y son las presiones ecológicas y la selección natural las que determinan si el nuevo alelo persiste o desaparece. En este contexto, Lucía de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "¿En qué condiciones poblacionales se manifiesta con mayor fuerza la deriva génica, alterando de manera drástica las frecuencias alélicas?",
+      "context": "En el taller de Ciencias Naturales en Colonia del Sacramento, Gastón observa un modelo experimental de deriva génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En poblaciones de tamaño reducido sometidas a eventos azarosos como cuellos de botella o efecto fundador.",
+          "is_correct": true,
+          "feedback": "Correcto. La deriva génica es un cambio aleatorio en las frecuencias alélicas que afecta drásticamente a poblaciones pequeñas."
+        },
+        {
+          "letter": "B",
+          "text": "En comunidades infinitas con flujo génico constante y ausencia de catástrofes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En poblaciones grandes los efectos azarosos se diluyen y predomina la selección natural o equilibrio Hardy-Weinberg."
+        },
+        {
+          "letter": "C",
+          "text": "En cultivos bacterianos estables criados en biorreactores controlados de alta densidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las altas densidades bacterianas minimizan las desviaciones de muestreo estadísticas azarosas."
+        },
+        {
+          "letter": "D",
+          "text": "En poblaciones agrícolas de polinización artificial intensiva libre de insectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección artificial controlada dirige las frecuencias, no el azar característico de la deriva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deriva génica reduce la diversidad genética de las poblaciones pequeñas, pudiendo fijar alelos deletéreos por puro azar. En este contexto, Gastón de Colonia del Sacramento determinó correctamente la respuesta correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

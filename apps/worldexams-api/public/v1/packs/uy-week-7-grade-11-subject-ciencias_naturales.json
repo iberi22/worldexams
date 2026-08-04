@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-7-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T05:18:14.098Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Rocha, Martín analiza la estructura de la doble hélice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina."
+        },
+        {
+          "letter": "B",
+          "text": "Enlaces fosfodiéster covalentes de alta energía libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato."
+        },
+        {
+          "letter": "C",
+          "text": "Interacciones iónicas dependientes de iones de magnesio libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La especificidad de los puentes de hidrógeno es el fundamento molecular de la replicación del ADN y transcripción genética. En este contexto, Martín de Rocha determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v2",
+      "statement": "¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?",
+      "context": "En la clase práctica del Liceo N° 4 en Minas, Lucía y sus compañeros debaten sobre replicación semiconservativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.",
+          "is_correct": true,
+          "feedback": "Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos."
+        },
+        {
+          "letter": "D",
+          "text": "La replicación ocurre únicamente en células vegetales sin mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La modelo semiconservativo propuesto por Watson y Crick fue validado físicamente mediante centrifugación en gradiente de densidad. En este contexto, Lucía de Minas determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Maldonado, Gastón investiga acerca de enzimas de la replicación: helicasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.",
+          "is_correct": true,
+          "feedback": "Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer)."
+        },
+        {
+          "letter": "C",
+          "text": "Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores de emparejamiento removiendo bases incorrectas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corrección y síntesis de ADN es función de las polimerasas de replicación y reparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La separación de las hebras por la helicasa genera tensión torsional que es aliviada por las enzimas topoisomerasas. En este contexto, Gastón de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?",
+      "context": "Mientras repasa para el examen parcial en Las Piedras, Nicolás estudia detenidamente la hebra discontinua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre."
+        },
+        {
+          "letter": "B",
+          "text": "La hebra molde rezagada carece de bases púricas de adenina indispensables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales."
+        },
+        {
+          "letter": "C",
+          "text": "Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos."
+        },
+        {
+          "letter": "D",
+          "text": "El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sellan mediante ligasas tras remover los cebadores de ARN. En este contexto, Nicolás de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?",
+      "context": "En el taller de Ciencias Naturales en Artigas, Belén observa un modelo experimental de la estructura de la doble hélice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina."
+        },
+        {
+          "letter": "B",
+          "text": "Enlaces fosfodiéster covalentes de alta energía libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato."
+        },
+        {
+          "letter": "C",
+          "text": "Interacciones iónicas dependientes de iones de magnesio libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La especificidad de los puentes de hidrógeno es el fundamento molecular de la replicación del ADN y transcripción genética. En este contexto, Belén de Artigas determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v6",
+      "statement": "¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Tacuarembó, Felipe analiza replicación semiconservativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.",
+          "is_correct": true,
+          "feedback": "Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos."
+        },
+        {
+          "letter": "D",
+          "text": "La replicación ocurre únicamente en células vegetales sin mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La modelo semiconservativo propuesto por Watson y Crick fue validado físicamente mediante centrifugación en gradiente de densidad. En este contexto, Felipe de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?",
+      "context": "En la clase práctica del Liceo N° 3 en San José de Mayo, Juana y sus compañeros debaten sobre enzimas de la replicación: helicasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.",
+          "is_correct": true,
+          "feedback": "Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer)."
+        },
+        {
+          "letter": "C",
+          "text": "Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores de emparejamiento removiendo bases incorrectas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corrección y síntesis de ADN es función de las polimerasas de replicación y reparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La separación de las hebras por la helicasa genera tensión torsional que es aliviada por las enzimas topoisomerasas. En este contexto, Juana de San José de Mayo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Colonia del Sacramento, Ignacio investiga acerca de la hebra discontinua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre."
+        },
+        {
+          "letter": "B",
+          "text": "La hebra molde rezagada carece de bases púricas de adenina indispensables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales."
+        },
+        {
+          "letter": "C",
+          "text": "Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos."
+        },
+        {
+          "letter": "D",
+          "text": "El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sellan mediante ligasas tras remover los cebadores de ARN. En este contexto, Ignacio de Colonia del Sacramento determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?",
+      "context": "Mientras repasa para el examen parcial en Mercedes, Paula estudia detenidamente la estructura de la doble hélice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina."
+        },
+        {
+          "letter": "B",
+          "text": "Enlaces fosfodiéster covalentes de alta energía libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato."
+        },
+        {
+          "letter": "C",
+          "text": "Interacciones iónicas dependientes de iones de magnesio libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La especificidad de los puentes de hidrógeno es el fundamento molecular de la replicación del ADN y transcripción genética. En este contexto, Paula de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v10",
+      "statement": "¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?",
+      "context": "En el taller de Ciencias Naturales en Florida, Diego observa un modelo experimental de replicación semiconservativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.",
+          "is_correct": true,
+          "feedback": "Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos."
+        },
+        {
+          "letter": "D",
+          "text": "La replicación ocurre únicamente en células vegetales sin mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La modelo semiconservativo propuesto por Watson y Crick fue validado físicamente mediante centrifugación en gradiente de densidad. En este contexto, Diego de Florida determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 1 Departamental de Rivera, Clara analiza enzimas de la replicación: helicasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.",
+          "is_correct": true,
+          "feedback": "Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer)."
+        },
+        {
+          "letter": "C",
+          "text": "Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores de emparejamiento removiendo bases incorrectas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corrección y síntesis de ADN es función de las polimerasas de replicación y reparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La separación de las hebras por la helicasa genera tensión torsional que es aliviada por las enzimas topoisomerasas. En este contexto, Clara de Rivera determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?",
+      "context": "En la clase práctica del Liceo N° 2 en Melo, Agustín y sus compañeros debaten sobre la hebra discontinua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre."
+        },
+        {
+          "letter": "B",
+          "text": "La hebra molde rezagada carece de bases púricas de adenina indispensables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales."
+        },
+        {
+          "letter": "C",
+          "text": "Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos."
+        },
+        {
+          "letter": "D",
+          "text": "El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sellan mediante ligasas tras remover los cebadores de ARN. En este contexto, Agustín de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v13",
+      "statement": "¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 3 de Salto, Sebastián investiga acerca de la estructura de la doble hélice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina."
+        },
+        {
+          "letter": "B",
+          "text": "Enlaces fosfodiéster covalentes de alta energía libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato."
+        },
+        {
+          "letter": "C",
+          "text": "Interacciones iónicas dependientes de iones de magnesio libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La especificidad de los puentes de hidrógeno es el fundamento molecular de la replicación del ADN y transcripción genética. En este contexto, Sebastián de Salto determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v14",
+      "statement": "¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?",
+      "context": "Mientras repasa para el examen parcial en Fray Bentos, Valentina estudia detenidamente replicación semiconservativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.",
+          "is_correct": true,
+          "feedback": "Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos."
+        },
+        {
+          "letter": "D",
+          "text": "La replicación ocurre únicamente en células vegetales sin mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La modelo semiconservativo propuesto por Watson y Crick fue validado físicamente mediante centrifugación en gradiente de densidad. En este contexto, Valentina de Fray Bentos determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?",
+      "context": "En el taller de Ciencias Naturales en Canelones, Santiago observa un modelo experimental de enzimas de la replicación: helicasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.",
+          "is_correct": true,
+          "feedback": "Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer)."
+        },
+        {
+          "letter": "C",
+          "text": "Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores de emparejamiento removiendo bases incorrectas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corrección y síntesis de ADN es función de las polimerasas de replicación y reparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La separación de las hebras por la helicasa genera tensión torsional que es aliviada por las enzimas topoisomerasas. En este contexto, Santiago de Canelones determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?",
+      "context": "Durante una actividad de laboratorio en el Liceo Piloto de Paysandú, Florencia analiza la hebra discontinua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre."
+        },
+        {
+          "letter": "B",
+          "text": "La hebra molde rezagada carece de bases púricas de adenina indispensables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales."
+        },
+        {
+          "letter": "C",
+          "text": "Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos."
+        },
+        {
+          "letter": "D",
+          "text": "El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sellan mediante ligasas tras remover los cebadores de ARN. En este contexto, Florencia de Paysandú determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.36,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v17",
+      "statement": "¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?",
+      "context": "En la clase práctica del Liceo N° 1 Departamental en Punta del Este, Joaquín y sus compañeros debaten sobre la estructura de la doble hélice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina."
+        },
+        {
+          "letter": "B",
+          "text": "Enlaces fosfodiéster covalentes de alta energía libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato."
+        },
+        {
+          "letter": "C",
+          "text": "Interacciones iónicas dependientes de iones de magnesio libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La especificidad de los puentes de hidrógeno es el fundamento molecular de la replicación del ADN y transcripción genética. En este contexto, Joaquín de Punta del Este determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v18",
+      "statement": "¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 2 de Montevideo, Camila investiga acerca de replicación semiconservativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.",
+          "is_correct": true,
+          "feedback": "Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos."
+        },
+        {
+          "letter": "D",
+          "text": "La replicación ocurre únicamente en células vegetales sin mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La modelo semiconservativo propuesto por Watson y Crick fue validado físicamente mediante centrifugación en gradiente de densidad. En este contexto, Camila de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?",
+      "context": "Mientras repasa para el examen parcial en Rocha, Mateo estudia detenidamente enzimas de la replicación: helicasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.",
+          "is_correct": true,
+          "feedback": "Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer)."
+        },
+        {
+          "letter": "C",
+          "text": "Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir los errores de emparejamiento removiendo bases incorrectas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corrección y síntesis de ADN es función de las polimerasas de replicación y reparación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La separación de las hebras por la helicasa genera tensión torsional que es aliviada por las enzimas topoisomerasas. En este contexto, Mateo de Rocha determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?",
+      "context": "En el taller de Ciencias Naturales en Minas, Sofía observa un modelo experimental de la hebra discontinua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre."
+        },
+        {
+          "letter": "B",
+          "text": "La hebra molde rezagada carece de bases púricas de adenina indispensables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales."
+        },
+        {
+          "letter": "C",
+          "text": "Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos."
+        },
+        {
+          "letter": "D",
+          "text": "El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sellan mediante ligasas tras remover los cebadores de ARN. En este contexto, Sofía de Minas determinó correctamente la respuesta correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}
