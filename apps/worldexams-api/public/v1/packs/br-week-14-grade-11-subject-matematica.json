@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-14-grade-11-subject-matematica",
+    "generated_at": "2026-07-29T05:03:55.251Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "Qual é a fórmula matemática exata que calcula o volume V de um cilindro reto de raio da base r e altura h?",
+      "context": "Uma indústria química em Camaçari armazena combustíveis em tanques de formato cilíndrico circular reto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "V = π * r² * h",
+          "is_correct": true,
+          "feedback": "Correto! O volume do cilindro é a área da base circular (π * r²) multiplicada pela altura h."
+        },
+        {
+          "letter": "B",
+          "text": "V = (π * r² * h) / 3",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta é a fórmula do volume de um cone, não de um cilindro."
+        },
+        {
+          "letter": "C",
+          "text": "V = 2 * π * r * h",
+          "is_correct": false,
+          "feedback": "Incorreto. Esta é a fórmula da área lateral do cilindro, não do volume."
+        },
+        {
+          "letter": "D",
+          "text": "V = π * r * h²",
+          "is_correct": false,
+          "feedback": "Incorreto. O raio deve estar ao quadrado na fórmula do volume do cilindro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume de um cilindro circular reto é obtido multiplicando-se a área de sua base circular (Ab = π * r²) pelo comprimento de sua altura vertical (h): V = π * r² * h.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "Qual é o volume de um prisma de base quadrada de lado 4 cm e altura de 10 cm?",
+      "context": "Um fabricante de caixas de papelão em Manaus projeta recipientes no formato de prismas retos de base quadrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Você esqueceu de elevar o lado da base ao quadrado para obter a área da base."
+        },
+        {
+          "letter": "B",
+          "text": "160 cm³",
+          "is_correct": true,
+          "feedback": "Correto! Área da base Ab = 4² = 16 cm². Volume V = Ab * h = 16 * 10 = 160 cm³."
+        },
+        {
+          "letter": "C",
+          "text": "80 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a área da base quadrada: Ab = 4 * 4 = 16 cm²."
+        },
+        {
+          "letter": "D",
+          "text": "320 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do prisma reto de base quadrada não deve ser multiplicado por dois de forma indevida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A área da base de um prisma quadrado é Ab = L² = 4² = 16 cm². O volume é o produto da área da base pela altura: V = Ab * h = 16 * 10 = 160 cm³.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.77,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "25π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "250π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "140π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 5 cm: V = π * 5² * 5 = π * 25 * 5 = 125π cm³.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "12π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "48π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "39π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 6 cm: V = π * 2² * 6 = π * 4 * 6 = 24π cm³.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 3 cm e altura de 7 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "63π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "21π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "126π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "78π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 3 cm e h = 7 cm: V = π * 3² * 7 = π * 9 * 7 = 63π cm³.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 4 cm e altura de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "20π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "160π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "95π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 4 cm e h = 5 cm: V = π * 4² * 5 = π * 16 * 5 = 80π cm³.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "30π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "300π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "165π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 6 cm: V = π * 5² * 6 = π * 25 * 6 = 150π cm³.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.61,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 7 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "14π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "56π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "43π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 7 cm: V = π * 2² * 7 = π * 4 * 7 = 28π cm³.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 3 cm e altura de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "15π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "90π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "60π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 3 cm e h = 5 cm: V = π * 3² * 5 = π * 9 * 5 = 45π cm³.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 4 cm e altura de 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "96π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "24π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "192π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "111π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 4 cm e h = 6 cm: V = π * 4² * 6 = π * 16 * 6 = 96π cm³.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 7 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "175π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "35π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "350π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "190π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 7 cm: V = π * 5² * 7 = π * 25 * 7 = 175π cm³.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.49,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "10π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "40π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "35π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 5 cm: V = π * 2² * 5 = π * 4 * 5 = 20π cm³.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 3 cm e altura de 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "54π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "18π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "108π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "69π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 3 cm e h = 6 cm: V = π * 3² * 6 = π * 9 * 6 = 54π cm³.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.43,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 4 cm e altura de 7 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "112π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "28π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "224π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "127π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 4 cm e h = 7 cm: V = π * 4² * 7 = π * 16 * 7 = 112π cm³.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "25π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "250π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "140π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 5 cm: V = π * 5² * 5 = π * 25 * 5 = 125π cm³.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "12π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "48π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "39π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 6 cm: V = π * 2² * 6 = π * 4 * 6 = 24π cm³.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 3 cm e altura de 7 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "63π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "21π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "126π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "78π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 3 cm e h = 7 cm: V = π * 3² * 7 = π * 9 * 7 = 63π cm³.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 4 cm e altura de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "20π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "160π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "95π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 4 cm e h = 5 cm: V = π * 4² * 5 = π * 16 * 5 = 80π cm³.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.24,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "30π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "300π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "165π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 6 cm: V = π * 5² * 6 = π * 25 * 6 = 150π cm³.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
+      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 7 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28π cm³",
+          "is_correct": true,
+          "feedback": "Correto! Volume = π * r² * h."
+        },
+        {
+          "letter": "B",
+          "text": "14π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+        },
+        {
+          "letter": "C",
+          "text": "56π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+        },
+        {
+          "letter": "D",
+          "text": "43π cm³",
+          "is_correct": false,
+          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 7 cm: V = π * 2² * 7 = π * 4 * 7 = 28π cm³.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.16,
+      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}
