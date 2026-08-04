@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-1-grade-11-subject-sociales",
+    "generated_at": "2026-08-04T01:24:49.577Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "¿Qué material principal y técnica de tallado caracterizan la Puerta del Sol de Tiwanaku?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la Puerta del Sol de Tiwanaku y su monumental arquitectura lítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue tallada en un solo bloque de piedra andesita mediante técnicas avanzadas de litoescultura prehispánica.",
+          "is_correct": true,
+          "feedback": "Correcto. La Puerta del Sol es un magnífico monolito tallado en una sola pieza de andesita, característico del periodo clásico de Tiwanaku."
+        },
+        {
+          "letter": "B",
+          "text": "Fue construida uniendo pequeños bloques de arcilla cocida y madera de algarrobo del Chaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiwanaku se destacó por el uso de piedra monumental, no por construcción principal con madera del Chaco."
+        },
+        {
+          "letter": "C",
+          "text": "Se talló en mármol importado mediante herramientas de hierro traídas de Mesoamérica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se utilizó mármol importado ni herramientas de hierro, ya que la metalurgia local se basaba en cobre y bronce."
+        },
+        {
+          "letter": "D",
+          "text": "Fue fabricada vaciando bronce y estaño en moldes de arena fina a orillas del río Desaguadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque dominaban el bronce, la Puerta del Sol es una estructura de piedra tallada (lítica), no una fundición metálica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Puerta del Sol es uno de los monumentos líticos más representativos de la cultura Tiwanaku, labrada a partir de un único bloque de piedra andesita. Su iconografía incluye al 'Señor de los Cetros', asociado con Wiracocha.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función principal cumplían las estructuras de piedra o barro llamadas 'chullpas' en el periodo de los señoríos aymaras?",
+      "context": "En Oruro, la estudiante Roxana de la Unidad Educativa Don Bosco analiza la ubicación de las chullpas de los señoríos aymaras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Servían como torres funerarias destinadas a albergar los restos de líderes y miembros importantes del ayllu.",
+          "is_correct": true,
+          "feedback": "Correcto. Las chullpas son monumentos funerarios prehispánicos construidos por los señoríos aymaras para rendir culto a sus ancestros dándoles sepultura."
+        },
+        {
+          "letter": "B",
+          "text": "Eran fortificaciones de uso militar para defender las fronteras contra las incursiones de los guaraníes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito de las chullpas era estrictamente ritual y funerario, no militar. Las fortalezas militares se llamaban pucaras."
+        },
+        {
+          "letter": "C",
+          "text": "Funcionaban como silos estatales para almacenar maíz y quinua bajo el control exclusivo de los incas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los silos incas de almacenamiento se denominaban colcas, mientras que las chullpas pertenecían a los rituales fúnebres de los señoríos."
+        },
+        {
+          "letter": "D",
+          "text": "Eran observatorios astronómicos ubicados en las cumbres andinas para predecir los eclipses solares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No eran observatorios astronómicos, sino mausoleos para el descanso de los mallkus (líderes) y sus familiares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las chullpas o torres funerarias son construcciones líticas y de adobe típicas de los señoríos aymaras post-Tiwanaku, reflejo de una compleja cosmovisión en torno a la muerte y el respeto a los ancestros.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo logró la civilización de Moxos dominar las inundaciones periódicas en los llanos del Beni para desarrollar una agricultura a gran escala?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez debate sobre la gran cultura de las tierras bajas de Bolivia: los Moxos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mediante la construcción de extensos sistemas de lomas artificiales, canales y camellones agrícolas elevados.",
+          "is_correct": true,
+          "feedback": "Correcto. Moxos construyó una monumental infraestructura hidráulica con camellones (terraplenes agrícolas) que evitaban que el agua inundara los cultivos."
+        },
+        {
+          "letter": "B",
+          "text": "Desviando el cauce completo del río Mamoré hacia las cuencas secas del altiplano mediante túneles de piedra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desviar un río tan caudaloso al altiplano andino era técnicamente imposible y geográficamente absurdo para la época."
+        },
+        {
+          "letter": "C",
+          "text": "Construyendo muros de piedra andesita traída de los Andes a lo largo de todas las riberas del río Beni.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Moxos se ubica en tierras bajas donde no hay canteras de andesita. Su ingeniería se basó principalmente en el movimiento de tierra y arcilla."
+        },
+        {
+          "letter": "D",
+          "text": "Importando de forma exclusiva sistemas de bombeo de viento diseñados por los incas en la costa del Pacífico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los incas no contaban con sistemas de bombeo de viento ni tampoco existía comercio de tal tecnología en la región de Moxos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cultura hidráulica de Moxos representó una magnífica adaptación al medio de sabana inundable del Beni. El uso de camellones o terraplenes elevados permitía cultivar durante las inundaciones y retener nutrientes en el suelo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "¿En qué consiste el principio del 'control vertical de pisos ecológicos' en el altiplano boliviano?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia cómo los pueblos andinos prehispánicos lidiaban con la escasez de tierras agrícolas cultivables en la altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el establecimiento de colonias estables en diferentes alturas geográficas para acceder a una diversidad de recursos agrícolas sin depender del comercio lejano.",
+          "is_correct": true,
+          "feedback": "Correcto. Este control permitía a un mismo grupo étnico andino poseer parcelas y recursos en la costa, los valles y el altiplano, garantizando su autosuficiencia."
+        },
+        {
+          "letter": "B",
+          "text": "En la monopolización militar de todas las tierras altas mediante murallas defensivas a lo largo de la cordillera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El control vertical no era un sistema principalmente de murallas defensivas, sino un modelo socioeconómico de complementariedad ecológica."
+        },
+        {
+          "letter": "C",
+          "text": "En el cultivo exclusivo de tubérculos en el altiplano y la importación forzosa de frutas de Mesoamérica vía marítima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían redes comerciales marítimas directas con Mesoamérica para el abastecimiento básico de alimentos andinos."
+        },
+        {
+          "letter": "D",
+          "text": "En la prohibición total de cultivar en tierras bajas para proteger los bosques sagrados de los espíritus achachilas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tierras bajas y valles eran activamente cultivados para obtener maíz, coca y frutas, esenciales para la dieta y rituales andinos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El control vertical de pisos ecológicos, teorizado por John Murra, explica cómo las sociedades andinas prehispánicas maximizaban el acceso a recursos en un territorio de relieves extremos, enviando colonos (mitmaq) a producir a diversas altitudes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ventaja térmica fundamental ofrecían los suka kollus en la agricultura del altiplano andino frente a las heladas invernales?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Bolívar examina las características de los suka kollus o camellones altiplánicos utilizados por Tiwanaku.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua de los canales absorbía el calor solar durante el día y lo liberaba lentamente por la noche, protegiendo los cultivos del frío extremo.",
+          "is_correct": true,
+          "feedback": "Correcto. Los canales de agua que rodeaban las plataformas de cultivo actuaban como termorreguladores naturales, evitando que las heladas nocturnas quemaran las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "La inclinación de las pendientes permitía que la nieve se deslizara directamente hacia el lago Titicaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los suka kollus eran planos y elevados; no dependían de pendientes para deslizar nieve, sino de la inercia térmica del agua de los canales."
+        },
+        {
+          "letter": "C",
+          "text": "Estaban techados con hojas de palmera traídas de la Amazonía para bloquear los vientos del sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No estaban techados, ya que la escala de los campos de cultivo hacía inviable techar miles de hectáreas con hojas de palmera."
+        },
+        {
+          "letter": "D",
+          "text": "Utilizaban fogatas subterráneas alimentadas con carbón mineral para calentar las raíces de la quinua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existía la tecnología de fogatas subterráneas ni se utilizaba carbón de esa manera en la agricultura prehispánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los suka kollus son una de las mayores innovaciones tecnológicas de Tiwanaku. Aprovechando el agua estancada en canales circundantes, captaban la radiación solar diurna y mitigaban las bajas temperaturas de las heladas nocturnas altiplánicas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se define el 'Ayllu' como unidad básica de organización social y económica en el mundo andino prehispánico?",
+      "context": "En Sucre, la estudiante Marisol de la Unidad Educativa Mariscal Sucre analiza la organización social basada en el Ayllu.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo de familias unidas por lazos de parentesco consanguíneo, ritual o territorial que compartían la propiedad de la tierra y el trabajo comunitario.",
+          "is_correct": true,
+          "feedback": "Correcto. El Ayllu es la célula social fundamental andina, donde la tierra es comunitaria y se rige por principios de reciprocidad y redistribución."
+        },
+        {
+          "letter": "B",
+          "text": "Un ejército de guerreros seleccionados exclusivamente para resguardar los templos religiosos de Tiwanaku.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Ayllu no era un cuerpo militar o gremio de soldados, sino la estructura comunitaria social y productiva de toda la población."
+        },
+        {
+          "letter": "C",
+          "text": "Una red de mercaderes encargados de comerciar oro y plata a lo largo de las selvas del Chaco boliviano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comercio andino no se basaba en mercaderes independientes tipo gremio comercial o Ayllus de mercaderes, sino en la complementariedad étnica."
+        },
+        {
+          "letter": "D",
+          "text": "Un consejo de ancianos nombrados directamente por el Inca para gobernar las provincias del norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Ayllu preexistía a la dominación incaica y era la base de la comunidad misma, no un órgano burocrático impuesto por el Cuzco."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Ayllu sobrevivió a los periodos Tiwanaku, de señoríos aymaras, incaico e incluso colonial, consolidándose como la estructura comunal de apoyo recíproco y propiedad colectiva de tierras de pastoreo y cultivo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la teoría científica más aceptada para explicar el colapso de la civilización de Tiwanaku alrededor del año 1100 d.C.?",
+      "context": "En El Alto, el estudiante Walter de la Unidad Educativa Juan Pablo II investiga la decadencia de Tiwanaku y las hipótesis científicas al respecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una severa y prolongada sequía provocada por cambios climáticos que colapsó los sistemas agrícolas de suka kollus.",
+          "is_correct": true,
+          "feedback": "Correcto. Estudios geológicos en el lago Titicaca confirman una sequía de varias décadas que desestabilizó la base alimentaria y el poder político de Tiwanaku."
+        },
+        {
+          "letter": "B",
+          "text": "La invasión de flotas navales europeas que destruyeron los puertos del lago Titicaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los europeos llegaron a América en el siglo XV (1492), mucho después de la decadencia de Tiwanaku (siglo XII)."
+        },
+        {
+          "letter": "C",
+          "text": "Un terremoto devastador que sumergió la mitad de la capital en las profundidades del lago Poopó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiwanaku no se encuentra a orillas del lago Poopó, sino del Titicaca, y no hay evidencia arqueológica de hundimiento sísmico masivo de la urbe."
+        },
+        {
+          "letter": "D",
+          "text": "Una epidemia de viruela que extinguió a toda la población debido a la falta de defensas inmunológicas en el altiplano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La viruela fue introducida por los españoles en el siglo XVI, no existía en el periodo prehispánico temprano de Tiwanaku."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La decadencia de Tiwanaku está estrechamente ligada a una crisis medioambiental de gran magnitud. La sequía extrema inutilizó los suka kollus, fragmentando el poder centralizado y dando paso al surgimiento de los señoríos aymaras independientes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "Si aplicamos los conceptos de reciprocidad andina al trabajo agrícola prehispánico, ¿cómo se diferencia la 'Minka' del 'Ayni'?",
+      "context": "En Sacaba, el estudiante Limbert del Colegio San Simón analiza las prácticas de reciprocidad andina que aún perduran en Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Minka es el trabajo colectivo para beneficio de toda la comunidad, mientras que el Ayni es la ayuda mutua recíproca entre familias individuales.",
+          "is_correct": true,
+          "feedback": "Correcto. El Ayni se resume en 'hoy por ti, mañana por mí' (ayuda inter-familiar), mientras que la Minka moviliza al colectivo para obras comunitarias."
+        },
+        {
+          "letter": "B",
+          "text": "La Minka era el tributo en oro pagado a los templos y el Ayni era el castigo físico por desobediencia civil en el ayllu.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos conceptos implica castigo o tributo monetario en metales, sino sistemas de trabajo y cooperación social."
+        },
+        {
+          "letter": "C",
+          "text": "El Ayni se realizaba exclusivamente en tierras bajas y la Minka era un derecho de las cumbres andinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas prácticas eran transversales a todo el ámbito andino y de valles, sin limitación altitudinal o geográfica."
+        },
+        {
+          "letter": "D",
+          "text": "La Minka requería el uso de herramientas metálicas avanzadas y el Ayni se hacía con las manos desnudas en el campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pueblos andinos no usaban hierro. Utilizaban herramientas agrícolas líticas y de madera dura (como la chakitaklla)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Ayni y la Minka son pilares éticos y prácticos de la economía andina. Permitieron realizar monumentales obras de infraestructura sin el uso de dinero, basándose en el compromiso mutuo y el bienestar colectivo del ayllu.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "¿Qué mecanismo aplicaban los pueblos precolombinos para intercambiar maíz, yuca, sal y pescado entre la Amazonía y el Altiplano?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza las relaciones comerciales entre tierras altas y tierras bajas de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trueque directo (chhalaku) a través de caravanas de llamas que recorrían los caminos y valles interandinos.",
+          "is_correct": true,
+          "feedback": "Correcto. El chhalaku o trueque era el sistema de intercambio por excelencia, conectando productos altiplánicos (papa, sal, carne de llama) con los valles y llanos (coca, maíz, yuca)."
+        },
+        {
+          "letter": "B",
+          "text": "Un sistema monetario basado en monedas de estaño acuñadas en los templos ceremoniales de Tiwanaku.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiwanaku y las culturas andinas no tenían moneda metálica acuñada ni de estaño ni de otros metales."
+        },
+        {
+          "letter": "C",
+          "text": "El cobro de impuestos mediante tarjetas de arcilla grabadas con quipus de colores bajo el dominio incaico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los quipus eran sistemas mnemotécnicos de nudos para contabilidad, no se utilizaban como 'tarjetas de cobro de impuestos' o monedas."
+        },
+        {
+          "letter": "D",
+          "text": "La importación de grandes carretas de madera tiradas por bueyes para el transporte masivo de carga pesada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían caballos ni bueyes en América antes de la llegada de los españoles, y los pueblos prehispánicos no utilizaban la rueda para transporte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El chhalaku o trueque posibilitó la complementariedad económica entre regiones geográficamente diversas. Las caravanas de llamas recorrían miles de kilómetros, tejiendo redes culturales y comerciales sólidas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál fue el principal avance metalúrgico de Tiwanaku que mejoró la resistencia de sus herramientas y grapas de sujeción?",
+      "context": "En Tupiza, la estudiante Shirley del Colegio San Calixto estudia la metalurgia prehispánica en el sur de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La invención del bronce arsenical y bronce estannífero mediante la aleación deliberada de cobre y estaño.",
+          "is_correct": true,
+          "feedback": "Correcto. Tiwanaku revolucionó la metalurgia andina al producir bronce de alta calidad, utilizado para herramientas agrícolas, armas y grapas de sujeción lítica."
+        },
+        {
+          "letter": "B",
+          "text": "La fundición masiva de acero templado mediante hornos industriales alimentados por carbón mineral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acero templado y el carbón industrial son invenciones modernas muy posteriores, ajenas a las sociedades prehispánicas."
+        },
+        {
+          "letter": "C",
+          "text": "El uso exclusivo de pepitas de oro puro sin alear para la fabricación de arados de tracción vacuna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oro puro es sumamente blando e inútil para trabajos pesados de arado; además, no existían animales de tiro antes de la colonización."
+        },
+        {
+          "letter": "D",
+          "text": "La aleación de aluminio y plata importada por mar desde los yacimientos del norte de México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aluminio requiere procesos de electrólisis moderna para su obtención, y no existían redes de comercio metalúrgico marítimo con México."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bronce de Tiwanaku devela un alto conocimiento técnico. La fundición en hornos tradicionales (huayrachinas) permitió crear grapas de metal que unían los grandes bloques de piedra de sus templos, impidiendo su separación sismo-resistente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "Al analizar la iconografía de la Estela Bennett o Monolito Bennett, ¿qué aspectos de la cosmovisión y el poder de Tiwanaku quedan en evidencia?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín estudia los mitos de origen y la arqueología en el lago Titicaca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sacralización del agua, la fertilidad de la tierra y la jerarquía de los gobernantes como intermediarios espirituales.",
+          "is_correct": true,
+          "feedback": "Correcto. El Monolito Bennett sostiene vasos ceremoniales (keros) y símbolos de lluvia y plantas, evidenciando el nexo entre fertilidad, agua y soberanía ritual."
+        },
+        {
+          "letter": "B",
+          "text": "La subordinación militar de Tiwanaku ante los emperadores mesoamericanos representados en la base de la escultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existió ninguna vinculación de poder político ni militar entre Tiwanaku y los imperios mesoamericanos; son culturas separadas por miles de kilómetros."
+        },
+        {
+          "letter": "C",
+          "text": "La adopción de la fe cristiana y la sumisión al papa de Roma por parte de los mallkus altiplánicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fe cristiana llegó en el siglo XVI con la conquista española, siglos después del abandono de Tiwanaku."
+        },
+        {
+          "letter": "D",
+          "text": "El desprecio absoluto por la agricultura andina y la promoción exclusiva del pastoreo de vicuñas de altura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agricultura era vital para Tiwanaku; la iconografía exalta los recursos agrícolas y la fertilidad de la tierra, no los desprecia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Monolito Bennett personifica al gobernante-sacerdote andino, portando un kero (vaso sagrado) y un cetro. Representa la integración entre el control de la naturaleza (especialmente del agua del Titicaca) y la legitimidad política.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "¿Qué cambio estructural en la distribución del poder político ocurrió al pasar de Tiwanaku a los Señoríos Aymaras?",
+      "context": "En Cobija, el estudiante Franz de la Unidad Educativa Mariscal Sucre investiga las diferencias sociopolíticas entre Tiwanaku y los señoríos aymaras posteriores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se pasó de un estado teocrático centralizado con grandes urbes abiertas a una confederación de señoríos militarizados con asentamientos fortificados (pucaras).",
+          "is_correct": true,
+          "feedback": "Correcto. La caída de Tiwanaku descentralizó el poder político, dando origen a reinos independientes (Lupacas, Collas) que competían militarmente y construían pucaras."
+        },
+        {
+          "letter": "B",
+          "text": "Se unificaron todos los pueblos bajo una dictadura militar absoluta de influencia feudal de la Europa medieval.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los señoríos aymaras mantuvieron una estructura de jefaturas independientes y confederaciones, no una monarquía absolutista militar europea."
+        },
+        {
+          "letter": "C",
+          "text": "Se abandonaron completamente las lenguas originarias andinas para adoptar el sánscrito antiguo como lengua litúrgica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lenguas andinas, principalmente el aymara y puquina, continuaron hablándose de forma natural; el sánscrito pertenece a la India."
+        },
+        {
+          "letter": "D",
+          "text": "Se prohibió la construcción de chullpas funerarias para adoptar cementerios de tipo romano bajo la cordillera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodo de los señoríos aymaras es precisamente la época de auge de las chullpas funerarias, no de su prohibición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desintegración de Tiwanaku devela una crisis que eliminó el control centralizado de los recursos altiplánicos. El colapso desató rivalidades territoriales, lo que explica por qué los señoríos aymaras construyeron sus aldeas en sitios altos fortificados llamados pucaras.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "¿De qué manera el Imperio Incaico (Tahuantinsuyo) logró anexar a los señoríos aymaras en el siglo XV sin destruir sus liderazgos?",
+      "context": "En El Alto, la estudiante Marisol del Colegio San Simón analiza la expansión incaica sobre los señoríos aymaras del Collasuyo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A través de alianzas matrimoniales, diplomacia y el respeto a la autoridad de los mallkus locales a cambio de tributo en trabajo (mita).",
+          "is_correct": true,
+          "feedback": "Correcto. Los incas integraron el Collasuyo principalmente mediante negociaciones y alianzas con los poderosos jefes aymaras (mallkus), subordinándolos de forma indirecta."
+        },
+        {
+          "letter": "B",
+          "text": "Exterminando militarmente a toda la población que hablara lengua aymara para poblar con colonos cuzqueños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los incas no cometieron exterminios lingüísticos; de hecho, el aymara fue respetado y continuó siendo una lengua de gran prestigio en el Tahuantinsuyo."
+        },
+        {
+          "letter": "C",
+          "text": "Imponiendo la propiedad privada de la tierra de cultivo mediante títulos registrados en Chuquisaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad privada y el catastro escrito de Chuquisaca corresponden a la época republicana y colonial, no al imperio incaico."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibiendo las prácticas agrícolas andinas para forzar el pastoreo exclusivo en la costa chilena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imperio incaico potenció los suka kollus, terrazas y camellones andinos para alimentar a la población, no los prohibió."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Collasuyo (región sur del Tahuantinsuyo) era una de las zonas más ricas por sus rebaños de camélidos y pastizales. Los incas prefirieron la dominación indirecta pactando con los mallkus locales, asimilando sus estructuras organizativas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "¿Qué rol político y de representación desempeñaban las mujeres de la élite de los señoríos aymaras en la sociedad prehispánica?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho estudia el rol de la mujer en los señoríos aymaras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gobernaban conjuntamente con los mallkus en un modelo de dualidad de género, y lideraban ceremonias asociadas a la fertilidad y la Pachamama.",
+          "is_correct": true,
+          "feedback": "Correcto. El mundo andino se rige por el principio de la dualidad (chachawarmi: hombre-mujer), donde la mujer de élite compartía esferas de representación y ritualidad."
+        },
+        {
+          "letter": "B",
+          "text": "Eran recluidas obligatoriamente en conventos de clausura similares a los de la Europa medieval bajo voto de silencio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conventos de clausura no existían en América antes de los españoles; la mujer andina tenía una activa participación productiva y sagrada."
+        },
+        {
+          "letter": "C",
+          "text": "Servían únicamente como mano de obra para la extracción de metales pesados en profundas minas de estaño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería pesada profunda no era la actividad económica primordial de las mujeres, y el estaño no se extraía antes de la era republicana."
+        },
+        {
+          "letter": "D",
+          "text": "Viajaban de forma constante a Europa para educarse en ciencias políticas y comercio mercantil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un completo anacronismo e imposibilidad física dada la falta de conexiones transoceánicas en el periodo prehispánico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dualidad de género o 'chachawarmi' estructuraba el orden social de los señoríos aymaras y del incario. El poder no era monopolio masculino absoluto; la complementariedad hombre-mujer se reflejaba en el gobierno de los ayllus.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Al analizar las monumentales obras hidráulicas de la cultura de Baures o Moxos, ¿qué conclusión sobre las sociedades de las tierras bajas bolivianas es correcta?",
+      "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco debate sobre los aportes de las tierras bajas a la arqueología americana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que poseían sociedades complejas de alta densidad demográfica y una división del trabajo capaz de organizar monumentales obras públicas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las lomas artificiales y canales de Moxos y Baures demuestran que las tierras bajas albergaban grandes civilizaciones organizadas, desmitificando la idea de que solo eran tribus nómadas dispersas."
+        },
+        {
+          "letter": "B",
+          "text": "Que eran colonias agrícolas dependientes que dependían del envío de ingenieros desde el Cuzco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas culturas hidráulicas se desarrollaron de manera independiente y autónoma de la ingeniería incaica, adaptadas a su propio ecosistema tropical."
+        },
+        {
+          "letter": "C",
+          "text": "Que sus obras se debieron al adiestramiento de animales prehistóricos domésticos para excavar grandes canales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación absurda y sin base científica alguna; no existían animales prehistóricos domesticados para este fin en la época precolombina."
+        },
+        {
+          "letter": "D",
+          "text": "Que abandonaron por completo la agricultura de inundación para dedicarse a la exportación de metales finos por el río Madera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su sustento era puramente agrícola y pesquero; no existía la exportación comercial mercantil de metales preciosos al extranjero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La arqueología contemporánea ha reivindicado a las civilizaciones de los Llanos de Moxos y Baures (Beni). Las evidencias de miles de hectáreas modificadas con camellones prueban la existencia de sociedades complejas andinas y de llanos altamente tecnificadas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "¿Qué función de control territorial y ritual cumplían fortalezas fronterizas como el sitio de Samaipata?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza las relaciones pacíficas y bélicas en la frontera inca-guaraní (tierras bajas de Santa Cruz).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eran centros ceremoniales, administrativos y de resguardo defensivo frente a los avances de los chiriguanos (guaraníes) desde el Chaco Boreal.",
+          "is_correct": true,
+          "feedback": "Correcto. El Fuerte de Samaipata cumplía un rol de integración político-cultural andina y defensa militar fronteriza ante las incursiones de los pueblos de tierras bajas."
+        },
+        {
+          "letter": "B",
+          "text": "Funcionaban como aduanas para el cobro de peaje mercantil en monedas de plata a los conquistadores españoles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Samaipata es de origen prehispánico (previó a la conquista española) y no existía el cobro mercantilista en monedas de plata."
+        },
+        {
+          "letter": "C",
+          "text": "Eran puertos fluviales construidos para facilitar el comercio de canoas entre la cuenca del Amazonas y el océano Pacífico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Samaipata es una estructura lítica tallada en una montaña andina elevada, no un puerto fluvial."
+        },
+        {
+          "letter": "D",
+          "text": "Servían como almacenes de artillería de las milicias aymaras bajo la supervisión de los incas en el Collasuyo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pueblos prehispánicos no conocían la pólvora ni la artillería de cañones; estos fueron introducidos por los españoles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sitio arqueológico de Samaipata cuenta con una inmensa roca esculpida, considerada el mayor monumento ceremonial precolombino de la región. Era el punto de encuentro y fricción entre la cultura andina y los pueblos de los llanos occidentales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Al juzgar de manera integral la relación entre el ser humano y la Pachamama en la cosmovisión prehispánica de Bolivia, ¿cuál de las siguientes afirmaciones posee mayor sustento socio-histórico?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín evalúa el impacto de la cosmovisión prehispánica en el manejo de la biodiversidad en Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Pachamama no era una simple proveedora de recursos, sino un ente vivo con el que se debía mantener una relación de reciprocidad activa mediante rituales.",
+          "is_correct": true,
+          "feedback": "Correcto. En la mentalidad prehispánica, la Pachamama requería ofrendas y respeto para mantener el equilibrio productivo, estableciendo una ética de coexistencia."
+        },
+        {
+          "letter": "B",
+          "text": "Los pueblos prehispánicos veían a la naturaleza como un objeto inerte de explotación industrial sin límites para enriquecerse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acumulación ilimitada y la visión mercantil de la naturaleza son propias del capitalismo colonial y moderno, ausentes en la cosmovisión andina tradicional."
+        },
+        {
+          "letter": "C",
+          "text": "La relación era de temor destructivo, prohibiéndose la tala de árboles o la cría de animales bajo pena de sacrificios humanos obligatorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pueblos prehispánicos talaban, cultivaban y criaban camélidos para subsistir, pero bajo normas de equilibrio ritual, no de prohibición total."
+        },
+        {
+          "letter": "D",
+          "text": "No existía ninguna noción sagrada del suelo cultivable, el cual era tratado de la misma forma que el comercio libre europeo de la edad moderna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluye por completo la abrumadora evidencia etnohistórica sobre el carácter animista e integrador de la espiritualidad andino-amazónica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cosmovisión andina y amazónica integra al ser humano como parte de la naturaleza. El concepto de reciprocidad se extiende a la Pachamama (Madre Tierra) y a los Achachilas (espíritus protectores de los cerros), regulando el acceso y uso de los recursos del territorio.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.53,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el valor contemporáneo del modelo prehispánico de control vertical de pisos ecológicos frente a los desafíos productivos actuales de Bolivia?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha reflexiona sobre el legado de la complementariedad ecológica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporciona alternativas de diversificación productiva y resiliencia comunal al no depender de un solo monocultivo vulnerable al cambio climático.",
+          "is_correct": true,
+          "feedback": "Correcto. El manejo integrado de parcelas a distintas altitudes reduce riesgos de pérdida total de cosechas ante eventos climáticos extremos como sequías o heladas altiplánicas."
+        },
+        {
+          "letter": "B",
+          "text": "Propone abandonar la tecnología satelital para comunicarse únicamente por mensajeros de a pie (chasquis) entre departamentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una propuesta absurda que no tiene relación con el concepto económico y productivo del control vertical de pisos ecológicos."
+        },
+        {
+          "letter": "C",
+          "text": "Establece que toda familia boliviana debe trasladarse diariamente de un extremo al otro del país para cultivar la tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El control vertical implicaba colonos permanentes o temporales organizados colectivamente, no traslados masivos diarios individuales."
+        },
+        {
+          "letter": "D",
+          "text": "Recomienda importar fertilizantes sintéticos de alta toxicidad para erradicar las variedades nativas de papa y quinua del altiplano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El control vertical prioriza la complementariedad natural y el uso sostenible de abonos tradicionales (guano de llama) en vez del monocultivo dependiente de químicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Frente al cambio climático global, la sabiduría andina del control vertical destaca por su adaptabilidad. Al poseer parcelas en microclimas diversos, las comunidades garantizan su soberanía alimentaria y minimizan los impactos de la variabilidad climática.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "Considerando las corrientes historiográficas de Bolivia, ¿cómo ha transformado el descubrimiento de la civilización hidráulica de Moxos la comprensión del pasado boliviano?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez valora críticamente los descubrimientos sobre la cultura de Moxos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desafió la visión andino-céntrica al demostrar que las selvas tropicales fueron cunas de civilizaciones complejas y no solo refugios de cazadores nómadas dispersos.",
+          "is_correct": true,
+          "feedback": "Correcto. El hallazgo de Moxos rompió el paradigma de que solo la región andina albergó sociedades altamente desarrolladas en Bolivia, elevando la importancia histórica de la Amazonía."
+        },
+        {
+          "letter": "B",
+          "text": "Confirmó que todos los habitantes prehispánicos emigraron directamente desde las riberas del mar Mediterráneo oriental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de cualquier fundamento científico; las migraciones americanas tempranas ocurrieron por el estrecho de Bering, sin relación con el Mediterráneo."
+        },
+        {
+          "letter": "C",
+          "text": "Demostró que las tierras bajas eran completamente inhabitables antes del establecimiento de las misiones coloniales jesuitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los terraplenes y canales de Moxos datan de miles de años antes de la colonia, probando una ocupación densa y de alta ingeniería prehispánica."
+        },
+        {
+          "letter": "D",
+          "text": "Validó la tesis de que las lomas del Beni fueron formadas por la caída fortuita de meteoritos gigantes durante la prehistoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lomas de Moxos son depósitos y construcciones de origen antrópico (hechas por humanos), no cráteres de meteoritos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estudio arqueológico de los Llanos de Moxos revolucionó la antropología americana. Proporcionó evidencias de que las sociedades amazónicas prehispánicas manipularon masivamente su entorno de forma sostenible, alcanzando altos niveles de organización social autónoma.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "Al evaluar globalmente el legado organizativo precolombino en la Bolivia contemporánea, ¿cuál es su reflejo socio-jurídico más importante en la Constitución Política del Estado de 2009?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Bolívar concluye su exposición sobre las culturas prehispánicas de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reconocimiento constitucional del sistema de la justicia comunitaria y la propiedad de tierras comunitarias de origen (TCO).",
+          "is_correct": true,
+          "feedback": "Correcto. El legado del ayllu y las prácticas de toma de decisiones comunales prehispánicas se plasman directamente en el reconocimiento de la justicia indígena y las TCO en la Constitución actual."
+        },
+        {
+          "letter": "B",
+          "text": "La restauración de la mita prehispánica con carácter obligatorio y gratuito en el palacio de gobierno en beneficio del Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución prohíbe el trabajo forzoso o servil; la mita es parte del pasado colonial abolido, no una norma de la Constitución de 2009."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición absoluta de comerciar utilizando cualquier idioma que no sea el quechua cuzqueño de la antigua nobleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia reconoce 36 idiomas oficiales junto al castellano, promoviendo el plurilingüismo democrático, no el quechua exclusivo cuzqueño."
+        },
+        {
+          "letter": "D",
+          "text": "La supresión del sufragio universal plurinacional para retornar al gobierno teocrático centralizado de Tiwanaku.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen monarcas de Tiwanaku vivos, y la Constitución de 2009 amplía los derechos civiles y el sufragio universal plurinacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La persistencia histórica de la organización social del ayllu y la propiedad comunal indígena fundamentaron las demandas de descolonización en Bolivia. Su reconocimiento constitucional en 2009 refleja el vigor institucional del legado precolombino.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "BO-SOC-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}
