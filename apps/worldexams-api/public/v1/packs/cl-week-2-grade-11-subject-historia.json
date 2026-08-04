@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "historia",
+    "country": "cl",
+    "pack_id": "cl-week-2-grade-11-subject-historia",
+    "generated_at": "2026-08-04T05:18:13.744Z"
+  },
+  "questions": [
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "¿Qué jefe militar lideró de manera oficial el plan de ocupación y avance de la frontera de la Araucanía, fundando ciudades como Temuco a partir de 1881?",
+      "context": "Sebastián viaja con su familia a la ciudad de Temuco, en la Región de la Araucanía, y visita un museo local sobre el siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gregorio Urrutia.",
+          "is_correct": true,
+          "feedback": "Correcto. El coronel Gregorio Urrutia comandó la última etapa de la ocupación y consolidación de la Araucanía, fundando Temuco en 1881 y Carahue en 1882."
+        },
+        {
+          "letter": "B",
+          "text": "Diego Portales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Portales fue un político y ministro de Estado que falleció en 1837, mucho antes de la campaña final de la Araucanía."
+        },
+        {
+          "letter": "C",
+          "text": "José Manuel Balmaceda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Balmaceda era el Presidente de la República durante el fin de las campañas, pero no comandó las tropas militares en el terreno."
+        },
+        {
+          "letter": "D",
+          "text": "Bernardo O'Higgins.",
+          "is_correct": false,
+          "feedback": "Incorrecto. O'Higgins fue el director supremo durante la Independencia y falleció exiliado en el Perú en 1842."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fase de ocupación de la Araucanía iniciada en la década de 1860 por Cornelio Saavedra concluyó oficialmente en 1883 bajo el mando militar de Gregorio Urrutia, estableciendo una red de fuertes y ciudades que sellaron la anexión definitiva del territorio mapuche.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "¿En qué año y bajo qué mandatario presidencial chileno se firmó el Acuerdo de Voluntades que incorporó a Rapa Nui a la soberanía de Chile?",
+      "context": "En Rapa Nui (Isla de Pascua), Sofía investiga el proceso mediante el cual este territorio polinésico pasó a formar parte del territorio nacional soberano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En 1810, bajo la Primera Junta de Gobierno presidida por Mateo de Toro y Zambrano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Primera Junta no tenía conocimiento ni contacto con la Polinesia."
+        },
+        {
+          "letter": "B",
+          "text": "En 1925, bajo el segundo gobierno presidencial de Arturo Alessandri Palma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La isla fue anexada mucho antes de la Constitución de 1925."
+        },
+        {
+          "letter": "C",
+          "text": "En 1888, bajo la presidencia de José Manuel Balmaceda y gestado por Policarpo Toro.",
+          "is_correct": true,
+          "feedback": "Correcto. El Acuerdo de Voluntades fue firmado el 9 de septiembre de 1888 por el capitán de marina Policarpo Toro, bajo el mandato del presidente Balmaceda."
+        },
+        {
+          "letter": "D",
+          "text": "En 1973, bajo el mando de la Junta Militar de Gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acuerdo de soberanía data del siglo XIX."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En 1888, Policarpo Toro negoció con los jefes locales (liderados por el Ariki Atamu Tekena) la cesión de soberanía a favor del Estado de Chile para proteger a la isla de traficantes de esclavos y flotas extranjeras, naciendo el Acuerdo de Voluntades.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "¿Qué provincia del norte de Chile quedó definitivamente anexionada de forma perpetua a la soberanía chilena tras la firma del Tratado de Ancón?",
+      "context": "Revisando documentos del Tratado de Ancón de 1883 en Santiago, Matías analiza el desenlace territorial de la Guerra del Pacífico con Perú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La provincia de Antofagasta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Antofagasta pertenecía a Bolivia y se anexó por el Pacto de Tregua de 1884, no por el Tratado de Ancón de 1883."
+        },
+        {
+          "letter": "B",
+          "text": "La provincia de Tarapacá.",
+          "is_correct": true,
+          "feedback": "Correcto. El Tratado de Ancón cedió de manera definitiva y perpetua a Chile el territorio de la provincia de Tarapacá (rica en salitre) que pertenecía a Perú."
+        },
+        {
+          "letter": "C",
+          "text": "La provincia de Tacna y Arica juntas por siempre sin plebiscito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas quedaron bajo posesión provisoria por diez años, entregándose Tacna de vuelta a Perú en 1929 y quedando Arica en Chile."
+        },
+        {
+          "letter": "D",
+          "text": "La provincia de Mendoza e islas Malvinas orientales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos territorios corresponden históricamente a la República Argentina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Tratado de Ancón de 1883 puso fin al conflicto armado terrestre entre Chile y Perú. La principal cláusula de cesión territorial definitiva entregó a Chile el rico departamento minero de Tarapacá, estableciendo la nueva frontera nacional en la zona.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "¿Qué factor económico detonó la invasión de las tropas chilenas a la ciudad portuaria de Antofagasta en febrero de 1879?",
+      "context": "Durante una mesa redonda sobre soberanía en el desierto de Atacama, Martina analiza los factores de fricción económica preexistentes a la Guerra del Pacífico (1879).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La decisión unilateral de Bolivia de cobrar un impuesto de 10 centavos por quintal de salitre exportado a la Compañía de Salitres chilena.",
+          "is_correct": true,
+          "feedback": "Correcto. Bolivia violó el Tratado de Límites de 1874 (que prohibía alzar impuestos a firmas chilenas por 25 años) al decretar el cobro de los 10 centavos, desatando la ocupación militar de Antofagasta por parte de Chile."
+        },
+        {
+          "letter": "B",
+          "text": "El descubrimiento de inmensas reservas de petróleo en la bahía de Mejillones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esa época el recurso energético codiciado era el salitre y el guano, no el petróleo."
+        },
+        {
+          "letter": "C",
+          "text": "La confiscación de las naves pesqueras de Valparaíso por parte de la armada peruana en 1878.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La marina peruana no confiscó barcos pesqueros en vísperas del estallido del conflicto bélico en Antofagasta."
+        },
+        {
+          "letter": "D",
+          "text": "La anexión directa de la provincia de Atacama chilena por parte de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España ya había reconocido la soberanía chilena y la guerra contra la escuadra española se libró antes, en 1865-1866."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de 1874 estipulaba que las personas y empresas chilenas en el litoral boliviano no pagarían nuevos impuestos. La violación de esta cláusula por el dictador boliviano Hilarión Daza al cobrar los 10 centavos y la posterior orden de remate de las salitreras motivaron la respuesta militar chilena.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál era el principal argumento socioeconómico del Estado chileno para justificar la ocupación militar y desposesión de las tierras al pueblo mapuche en la Araucanía?",
+      "context": "Vicente lee una carta del Coronel Cornelio Saavedra fechada en Angol en 1862, que describe los avances sobre el río Malleco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El deseo de conservar la selva valdiviana virgen sin explotación forestal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo no era de preservación ecológica sino productivo de expansión agraria."
+        },
+        {
+          "letter": "B",
+          "text": "La necesidad de incorporar suelos cultivables trigosos para responder a la alta demanda de trigo de California y Australia, integrando el territorio al mercado nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. La Araucanía poseía suelos de gran valor agrícola. El Estado requería estas tierras para la expansión triguera y la colonización civil, unificando físicamente el país."
+        },
+        {
+          "letter": "C",
+          "text": "La construcción de una red de centrales de energía nuclear en el río Biobío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía nuclear es una tecnología del siglo XX, inexistente en las motivaciones del siglo XIX."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de inmigrantes europeos en la zona sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La colonización sur fue propiciada por leyes especiales que atraían activamente a colonos europeos (alemanes, suizos, franceses)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bajo la retórica del 'progreso' y la 'civilización', el Estado justificó la ocupación militar (eufemísticamente llamada 'Pacificación') para expandir la frontera agrícola, satisfacer la demanda de trigo internacional y fundar colonias agrarias chilenas e internacionales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "¿Qué trascendencia geopolítica de largo plazo tuvo para Chile la fundación del Fuerte Bulnes y la posterior creación de Punta Arenas en la Península de Brunswick?",
+      "context": "En un mapa histórico de la Patagonia en el siglo XIX, Isidora localiza la fundación del Fuerte Bulnes en 1843 por la goleta Ancud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocasionó la ocupación militar directa del canal de Panamá por tropas nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canal de Panamá está ubicado en Centroamérica y no fue controlado por Chile."
+        },
+        {
+          "letter": "B",
+          "text": "Consagró la soberanía efectiva sobre el Estrecho de Magallanes, paso bioceánico estratégico vital antes de la apertura del Canal de Panamá.",
+          "is_correct": true,
+          "feedback": "Correcto. Al fundar Fuerte Bulnes y luego Punta Arenas en el extremo austral, el gobierno de Manuel Bulnes aseguró para Chile el control de la única ruta marítima segura entre el Atlántico y el Pacífico en esa era."
+        },
+        {
+          "letter": "C",
+          "text": "Provocó la partición territorial inmediata de la isla de Chiloé en dos Estados soberanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chiloé estaba unificado y plenamente incorporado a la soberanía nacional chilena desde 1826."
+        },
+        {
+          "letter": "D",
+          "text": "Permitió expulsar a la armada española que sitiaba la bahía de Valparaíso en 1843.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La guerra con España estalló en 1865; no hubo bloqueos navales españoles en 1843."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expedición de la goleta Ancud en 1843, impulsada por Bernardo O'Higgins desde su exilio y ejecutada bajo Manuel Bulnes, se anticipó a flotas francesas o inglesas que merodeaban el Estrecho, asegurando para Chile el control geopolítico soberano del extremo austral.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "¿Qué trágica consecuencia social y humana tuvo la concesión de inmensas estancias ovejeras a empresas privadas en Tierra del Fuego para las comunidades originarias Selk'nam (Onas)?",
+      "context": "Catalina estudia las dinámicas de poblamiento de la Región de Magallanes a finales del siglo XIX y principios del XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Selk'nam se convirtieron en accionistas mayoritarios de las firmas ganaderas de lana de exportación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades sufrieron un proceso de exterminio y despojo total, sin beneficios económicos."
+        },
+        {
+          "letter": "B",
+          "text": "Provocó la migración forzosa masiva de todos los Selk'nam al desierto de Atacama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Selk'nam permanecieron en el extremo austral (isla de Tierra del Fuego) donde fueron perseguidos y masacrados."
+        },
+        {
+          "letter": "C",
+          "text": "Un violento genocidio perpetrado por cazadores de indios contratados por estancieros e instituciones religiosas asimiladoras.",
+          "is_correct": true,
+          "feedback": "Correcto. La introducción de ovejas rompió el hábitat de caza del guanaco de los Selk'nam. Los estancieros contrataron a cazadores profesionales (como Julius Popper) para exterminarlos con el fin de proteger las ovejas, lo que sumado a las misiones forzadas y enfermedades condujo al genocidio de la etnia."
+        },
+        {
+          "letter": "D",
+          "text": "La declaración inmediata de la isla de Tierra del Fuego como parque nacional protegido mapuche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se declaró reserva protegida indígena y el despojo territorial a favor de las ovejas fue completo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El auge de la ganadería ovina en Tierra del Fuego trajo el genocidio Selk'nam. La ocupación de sus tierras ancestrales para pastoreo de ovejas y la persecución de cazadores extranjeros provocaron la muerte sistemática del pueblo originario, un oscuro capítulo de la historia del poblamiento nacional.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál era la principal tarea asignada por el gobierno chileno a los agentes oficiales como Bernardo Philippi y Vicente Pérez Rosales en el extranjero en el marco de dicha ley?",
+      "context": "Al revisar la ley de 1845 que reguló la colonización sur de Chile, Matías observa el papel de Bernardo Philippi como agente de colonización estatal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seleccionar y reclutar activamente a familias de colonos alemanes, facilitándoles tierras, insumos mínimos y herramientas para poblar el sur de Chile.",
+          "is_correct": true,
+          "feedback": "Correcto. El rol de los agentes de colonización era viajar a Europa (especialmente Alemania) para promover la inmigración de artesanos y agricultores laboriosos, dándoles pasajes y hectáreas en las riberas del lago Llanquihue."
+        },
+        {
+          "letter": "B",
+          "text": "Declarar la guerra armada a los países escandinavos en represalia por la cuota de pesca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tenían funciones militares ni diplomáticas beligerantes."
+        },
+        {
+          "letter": "C",
+          "text": "Comprar armamento militar sofisticado en Francia para dotar a las milicias campesinas del norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fin de los agentes era puramente migratorio, económico y habitacional agrícola."
+        },
+        {
+          "letter": "D",
+          "text": "Vender todas las salitreras de Tarapacá a empresarios ingleses en Hamburgo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En 1845 Tarapacá era peruana y el auge del salitre aún no reconfiguraba la geopolítica norteña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley de Colonización de 1845 fijó la institucionalidad para poblar Valdivia y Llanquihue. Los agentes estatales debieron seleccionar inmigrantes europeos calificados para colonizar tierras boscosas, dotándolos de instrumentos de labranza y exenciones impositivas, naciendo ciudades como Puerto Montt en 1853.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efectos de largo plazo provocó el sistema de 'reducciones' impuesto por la Comisión Radicadora de Indígenas (creada en 1883) en la economía y vida social mapuche?",
+      "context": "Durante una discusión grupal en Temuco, Sofía y Benjamín evalúan los conceptos de 'reducciones de tierras' aplicados tras la ocupación militar de la Araucanía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El enriquecimiento masivo del pueblo mapuche por la venta de maquinarias textiles industriales de última generación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema de reducciones precarizó su subsistencia al arrinconarlos en suelos poco fértiles."
+        },
+        {
+          "letter": "B",
+          "text": "La pérdida de su autonomía territorial, la fragmentación de sus linajes familiares y familiares, y una aguda crisis de minifundio agrícola por sobrepoblación interna.",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado confinó al pueblo mapuche a pequeñas extensiones de tierra improductivas (los llamados 'títulos de merced'), perdiendo el 90% de sus tierras ancestrales. Esto generó minifundios sobrepoblados y pobreza estructural duradera."
+        },
+        {
+          "letter": "C",
+          "text": "La asimilación pacífica absoluta de los comuneros al culto protestante luterano de Valdivia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tradiciones cosmológicas mapuches pervivieron con fuerza, y el despojo generó tensiones latentes continuas hasta hoy."
+        },
+        {
+          "letter": "D",
+          "text": "La declaración inmediata de la cordillera del Nahuelbuta como territorio mapuche independiente del Congreso de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda la región quedó sometida a la legislación civil ordinaria chilena, bajo control del Congreso y del Ejército."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El proceso de radicación concentró a las familias mapuches sobrevivientes en reducciones geográficas. El minifundio resultante impidió la rotación de cultivos tradicional, erosionando los suelos y destruyendo su matriz económica ganadera de libre pastoreo, lo que forzó a muchos a migrar a las urbes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "¿Qué principio heredado de la Colonia consagraron formalmente Chile y Argentina en el Tratado de 1856 para resolver sus diferencias territoriales iniciales?",
+      "context": "Benjamín investiga las bases del Tratado de Amistad, Límites y Navegación de 1856 entre Chile y Argentina en el contexto de sus relaciones internacionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de Uti Possidetis de 1810.",
+          "is_correct": true,
+          "feedback": "Correcto. El Tratado de 1856 ratificó que las fronteras de ambos países serían las vigentes al año 1810 bajo el imperio español, difiriendo la resolución de disputas fronterizas al arbitraje pacífico y diplomático."
+        },
+        {
+          "letter": "B",
+          "text": "La repartición igualitaria del puerto del Callao de manera perpetua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El puerto del Callao pertenece al Perú y no formaba parte de las negociaciones de fronteras chileno-argentinas."
+        },
+        {
+          "letter": "C",
+          "text": "La soberanía binacional indivisible sobre las islas Malvinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Malvinas no eran reclamadas soberanamente por Chile en este tratado de navegación."
+        },
+        {
+          "letter": "D",
+          "text": "El veto presidencial absoluto para anular tratados de límites.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las disputas debían zanjarse por comisiones bilaterales y arbitrajes, no por decisiones de veto unilateral de un mandatario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de 1856 sirvió de marco jurídico pacífico inicial. Reconoció el Uti Possidetis de 1810 como regla de derecho, pero al no existir mapas coloniales de precisión milimétrica, la definición de la Patagonia, la cordillera y el Estrecho de Magallanes continuó abierta a intensas negociaciones posteriores.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "¿Qué situación político-social provocó la masiva repatriación espontánea de civiles chilenos desde territorio boliviano y peruano al declararse el estado de guerra en 1879?",
+      "context": "Martina analiza un grabado del siglo XIX que ilustra el éxodo de miles de familias chilenas que residían en las salitreras de Tarapacá y Antofagasta a comienzos de 1879.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prohibición papal de que los católicos trabajaran en minas de plata extracomunitaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Iglesia no intervino prohibiendo el trabajo minero."
+        },
+        {
+          "letter": "B",
+          "text": "Decretos de expulsión sumaria, represalias locales y la confiscación de bienes privados a chilenos por parte de los gobiernos de Perú y Bolivia al romperse las relaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. El conflicto motivó que miles de peones y operarios chilenos instalados en el norte de Bolivia y Perú fueran hostilizados o expulsados, obligándolos a retornar a Chile o incorporarse en masa a las filas del Ejército."
+        },
+        {
+          "letter": "C",
+          "text": "Un acuerdo bilateral secreto para trasladar a toda la mano de obra minera a las haciendas trigueras de Concepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo acuerdo para llevarlos al campo; la guerra requirió la movilización obrera como contingente militar."
+        },
+        {
+          "letter": "D",
+          "text": "El agotamiento total e inmediato de todos los yacimientos de caliche del desierto de Atacama en enero de 1879.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El salitre estaba en su apogeo productivo e industrial y la minería continuó por décadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tensión pre-bélica generó un clima hostil para la población de origen chileno que constituía la amplia mayoría obrera y mercantil en el litoral de Bolivia y en Tarapacá (Perú). Tras declararse la guerra, su forzada expulsión movilizó un enorme flujo de repatriados que alimentó las fuerzas militares del norte.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo incidió la consolidación soberana de Chile sobre el Estrecho de Magallanes en la reactivación financiera del puerto de Valparaíso a partir de mediados del siglo XIX?",
+      "context": "Un historiador de la Universidad de Valparaíso expone sobre las repercusiones de la incorporación del Estrecho de Magallanes en el comercio internacional decimonónico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consolidó a Valparaíso como el primer gran puerto de escala y aprovisionamiento del Pacífico para los navíos internacionales que cruzaban desde el Atlántico.",
+          "is_correct": true,
+          "feedback": "Correcto. Al controlar Chile el Estrecho, se aseguró el tránsito seguro de naves. Valparaíso se transformó en la parada obligada de reparación, carga y servicios mercantiles de barcos de todo el mundo en ruta a California, Australia o el Callao."
+        },
+        {
+          "letter": "B",
+          "text": "Hizo que Valparaíso abandonara las relaciones portuarias con Inglaterra de forma perpetua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valparaíso estrechó aún más su alianza financiera y comercial con los consorcios navieros y de seguros británicos."
+        },
+        {
+          "letter": "C",
+          "text": "Permitió desviar todo el cauce del río Maule hacia los muelles de la marina mercante chilena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Maule está en otra zona de la geografía del país y no tiene relación hidráulica con los diques de Valparaíso."
+        },
+        {
+          "letter": "D",
+          "text": "Determinó la prohibición de toda navegación civil por el canal de Beagle en la zona austral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canal de Beagle continuó bajo libre tránsito y soberanía según tratados limítrofes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Estrecho de Magallanes era la vía de comunicación interoceánica indispensable del globo. La presencia soberana de Chile allí potenció al puerto de Valparaíso, dotándolo de almacenes de depósito franco y atrayendo firmas navieras, bancos y seguros, erigiéndola como capital financiera del Pacífico Sur.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "¿Qué destino tuvieron los millones de hectáreas de tierras fértiles de la Araucanía que el Estado de Chile expropió al pueblo mapuche entre 1860 y 1883?",
+      "context": "Isidora examina las dinámicas de dominación agraria posteriores a la desposesión del pueblo mapuche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fueron devueltas de manera voluntaria a las comunidades indígenas en 1900.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El despojo territorial fue permanente e institucional."
+        },
+        {
+          "letter": "B",
+          "text": "Se convirtieron en parques nacionales inalienables administrados de forma colectiva por el Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría del suelo fue privatizado con propósitos agrícolas y forestales."
+        },
+        {
+          "letter": "C",
+          "text": "Se remataron públicamente a bajo precio a terratenientes nacionales ricos, jefes militares de campaña y colonias de inmigrantes extranjeros.",
+          "is_correct": true,
+          "feedback": "Correcto. La mayoría de los fértiles suelos agrícolas y boscosos fueron adjudicados mediante remates estatales públicos que beneficiaron a la oligarquía de Santiago y el sur, oficiales del ejército e inmigrantes, configurando nuevos latifundios agrícolas."
+        },
+        {
+          "letter": "D",
+          "text": "Se repartieron en su totalidad y de forma gratuita entre los peones rurales sin tierra oriundos de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hubo colonos chilenos de origen popular, la gran mayoría de la propiedad quedó concentrada en latifundistas y colonos extranjeros solventes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pretendida 'pacificación' redistribuyó la propiedad de la Araucanía no con fines sociales igualitarios sino fiscales y terratenientes. El Estado organizó subastas que sirvieron para robustecer el poder de la élite terrateniente nacional y asegurar la implantación de colonias agrícolas de origen europeo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "¿Qué transformación demográfica drástica trajo consigo la anexión de las ricas provincias salitreras de Tarapacá y Antofagasta a la geografía chilena tras 1880?",
+      "context": "Durante una investigación en Antofagasta, Matías estudia el impacto demográfico que experimentaron las provincias mineras del norte de Chile a finales del siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La migración voluntaria masiva de toda la aristocracia terrateniente de Santiago para vivir permanentemente en los puertos mineros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oligarquía terrateniente prefirió seguir viviendo en sus palacios de Santiago o Viña del Mar, administrando la riqueza salitrera de manera indirecta."
+        },
+        {
+          "letter": "B",
+          "text": "La rápida atracción de miles de peones de la zona central de Chile hacia los campamentos salitrerías (oficinas), configurando un proletariado minero con características identitarias propias.",
+          "is_correct": true,
+          "feedback": "Correcto. Las provincias del norte experimentaron un notable crecimiento demográfico, poblado por peones rurales de las provincias centrales de Chile que migraron atraídos por el trabajo salitrero en el desierto, originando la clase obrera pampina de Tarapacá y Antofagasta."
+        },
+        {
+          "letter": "C",
+          "text": "La completa desaparición de toda la población de origen extranjero y comerciantes de origen inglés en el norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El capital británico y los técnicos europeos aumentaron radicalmente su presencia monopólica en la zona."
+        },
+        {
+          "letter": "D",
+          "text": "La erradicación obligatoria de todo habitante de habla hispana en los muelles salitreros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma castellano se consolidó con la chilenización de la mano de obra agraria y minera migrante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La minería del salitre requirió masivas oleadas de mano de obra para las Oficinas Salitreras de Antofagasta y Tarapacá. El flujo continuo de trabajadores generó una comunidad obrera singular (los pampinos) aislada en el desierto, expuesta a duras condiciones que forjarían los inicios del movimiento social obrero chileno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "¿De qué manera el Tratado de Lima de 1929 zanjó de forma definitiva la disputa fronteriza y soberana abierta por la cláusula no cumplida de plebiscito contenida en el Tratado de Ancón?",
+      "context": "Un seminario sobre la chilenización de las provincias norteñas evalúa la aplicación del Tratado de 1929 entre Chile y Perú (Tratado de Lima).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estableció la división territorial de las provincias disputadas: Tacna se reincorporó plenamente a Perú y Arica quedó incorporada a la soberanía de Chile.",
+          "is_correct": true,
+          "feedback": "Correcto. El Tratado de Lima solucionó la histórica disputa de 'Tacna y Arica'. Se abandonó el plebiscito estipulado en Ancón, acordando dividir el territorio: Tacna regresó a Perú y Arica quedó soberana de forma perpetua para Chile."
+        },
+        {
+          "letter": "B",
+          "text": "Declaró que tanto Tacna como Arica se transformarían en una provincia autónoma administrada por la Sociedad de las Naciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La provincia no se internacionalizó, se dividió bilateralmente de forma soberana."
+        },
+        {
+          "letter": "C",
+          "text": "Anuló las concesiones salitreras de Tarapacá para traspasarlas en un cien por ciento a Perú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tarapacá no formó parte del arbitraje del Tratado de 1929, pues su cesión en 1883 ya había sido de carácter perpetuo."
+        },
+        {
+          "letter": "D",
+          "text": "Autorizó una invasión armada conjunta de Bolivia y Chile sobre la provincia de Arequipa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tratado fue un acuerdo diplomático pacífico que consolidó relaciones amistosas bilaterales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plebiscito de Tacna y Arica no se pudo realizar por mutua desconfianza e incidentes políticos locales. En 1929, bajo la presidencia chilena de Carlos Ibáñez del Campo, se firmó el Tratado de Lima que selló de mutuo acuerdo la fórmula 'Tacna para Perú y Arica para Chile', fijando la frontera terrestre actual (Línea de la Concordia).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "¿Qué beneficio aduanero e infraestructura comercial permanente garantizó Chile a Bolivia en el Tratado de Paz y Amistad de 1904 a cambio de la soberanía perpetua de la provincia de Antofagasta?",
+      "context": "Al analizar la política exterior en la era del salitre, Vicente estudia los tratados bilaterales que Chile suscribió con Bolivia tras la Guerra de 1879.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cesión del puerto fluvial de Valdivia de manera gratuita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valdivia está en el sur de Chile y no tiene relevancia de conexión fronteriza con Bolivia."
+        },
+        {
+          "letter": "B",
+          "text": "El libre tránsito ilimitado de tropas militares armadas bolivianas por la cordillera de la Región Metropolitana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se autorizó el libre tránsito de fuerzas militares armadas extranjeras en territorio central chileno."
+        },
+        {
+          "letter": "C",
+          "text": "El libre tránsito comercial boliviano por territorio chileno, el derecho de libre aduana en puertos chilenos del norte y la construcción del ferrocarril de Arica a La Paz.",
+          "is_correct": true,
+          "feedback": "Correcto. El Tratado de 1904 fijó las compensaciones que Chile concedió a Bolivia: el libre tránsito comercial perpetuo, facilidades en puertos norteños y el financiamiento de la línea férrea que uniría Arica con La Paz."
+        },
+        {
+          "letter": "D",
+          "text": "La devolución de todos los barcos de guerra capturados durante los combates de Iquique.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los buques capturados en combate no formaron parte del Tratado de Paz de 1904."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Tratado de 1904 reconoció el dominio absoluto y perpetuo de Chile sobre los territorios comprendidos entre el río Loa y el paralelo 23 (Antofagasta). Chile, en contraprestación, compensó económicamente a Bolivia, asumió deudas y le otorgó privilegios aduaneros comerciales de libre tránsito de por vida en sus puertos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "A partir de la tesis de que 'Chile regaló la Patagonia oriental en 1881', ¿qué argumento historiográfico y geopolítico contemporáneo desmiente técnicamente dicha afirmación nacionalista?",
+      "context": "En la Universidad de Santiago, Sofía evalúa las interpretaciones historiográficas en torno al Tratado de 1881 que fijó los límites entre Chile y Argentina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argentina ya poseía un millón de colonos chilenos habitando el centro de Buenos Aires en 1810.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El flujo demográfico de la época era mínimo y no sustentaba colonizaciones de ese tipo."
+        },
+        {
+          "letter": "B",
+          "text": "Chile se apoderó de las islas Malvinas argentinas ese mismo año gracias a una flota enviada de Valparaíso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Malvinas estaban bajo ocupación británica desde 1833; Chile no intervino militarmente en ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Chile no ejercía soberanía real ni poblamiento efectivo al oriente de la cordillera de los Andes, y el Tratado de 1881 evitó una inminente guerra en dos frentes simultáneos que arriesgaba el triunfo salitrero.",
+          "is_correct": true,
+          "feedback": "Correcto. Historiográficamente se reconoce que Chile no tenía presencia administrativa ni militar efectiva en la Patagonia oriental. El Tratado aseguró legalmente el control total del Estrecho de Magallanes y de los canales australes, neutralizando diplomáticamente la frontera con Argentina durante la ocupación de Lima."
+        },
+        {
+          "letter": "D",
+          "text": "La corona de España obligó a Chile a firmar el acuerdo para defender a los mapuches de la Araucanía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España ya no interfería de ningún modo en la política o tratados limítrofes soberanos sudamericanos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El concepto de 'regalo de la Patagonia' carece de sustento objetivo. Chile poseía títulos históricos coloniales difusos pero ningún poblamiento real al este de la cordillera. Firmar el Tratado de 1881 permitió consolidar la victoria militar en el norte (salitreras de Tarapacá y Antofagasta) y resguardar la soberanía del estratégico Estrecho de Magallanes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "¿Qué acción transformadora de la geografía física del sur de Chile acometió el agente Vicente Pérez Rosales en la década de 1850 para habilitar la colonización agraria germánica?",
+      "context": "Isidora evalúa críticamente el impacto del proceso de colonización europea en la Región de Los Ríos y Los Lagos sobre la ecología originaria y la geografía austral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quema intencionada de miles de hectáreas de milenarios bosques nativos para despejar suelos con fines agrarios, transformando la ecología y el paisaje de la zona.",
+          "is_correct": true,
+          "feedback": "Correcto. Para abrir paso a los colonos en Llanquihue, Pérez Rosales ordenó quemar enormes extensiones de bosque nativo impenetrable (la famosa quema de los bosques del río Negro o del lago Llanquihue), un desastre ambiental del siglo XIX que habilitó la agricultura triguera y ganadera."
+        },
+        {
+          "letter": "B",
+          "text": "La construcción de una represa de concreto armado sobre el lago Todos los Santos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las grandes centrales hidroeléctricas y represas de concreto pertenecen al desarrollo tecnológico del siglo XX."
+        },
+        {
+          "letter": "C",
+          "text": "El desecamiento absoluto e irreversible de todo el río Calle-Calle en Valdivia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río Calle-Calle continuó siendo navegable y fue el motor fluvial de la industrialización valdiviana."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de plantar trigo en todo el Valle Central de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el trigo era el producto estrella de exportación del periodo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bajo la lógica del siglo XIX, la selva austral era vista como un obstáculo para la soberanía y la producción agrícola. La quema descontrolada de miles de hectáreas de bosque templado lluvioso por parte de los colonizadores, coordinada por Pérez Rosales, abrió suelos productivos pero dañó irreparablemente la biodiversidad del ecosistema del sur.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "¿Qué paradoja ideológica y política representó para el Estado chileno su agresiva expansión territorial de finales del siglo XIX (Guerra del Pacífico, ocupación de la Araucanía, colonización austral) frente a su matriz de ideas republicanas?",
+      "context": "Un seminario en Valparaíso debate sobre las contradicciones morales y jurídicas de la 'República Liberal' respecto de los territorios indígenas incorporados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Congreso abolió la propiedad privada agraria nacional para adoptar el comunismo marxista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile consolidó una economía capitalista salitrera y agraria sumamente liberal y desregulada."
+        },
+        {
+          "letter": "B",
+          "text": "Chile se declaró colonia del Imperio Británico en 1890 para evadir responsabilidades en la Araucanía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile se mantuvo celosamente independiente, aunque las inversiones inglesas tuvieran enorme peso en el salitre."
+        },
+        {
+          "letter": "C",
+          "text": "Mientras el Estado defendía en su Constitución los derechos de igualdad civil, libertad individual y propiedad privada, despojó por la fuerza de sus tierras, cultura y autonomía política a los pueblos originarios.",
+          "is_correct": true,
+          "feedback": "Correcto. Existió una contradicción flagrante entre la retórica liberal-republicana de consagración de derechos ciudadanos universales y las políticas estatales de sometimiento militar y exclusión sistemática del pueblo mapuche y el genocidio Selk'nam."
+        },
+        {
+          "letter": "D",
+          "text": "Las FF.AA. entregaron todo el poder legislativo al pueblo mapuche de Temuco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se impuso la autoridad de Santiago y las estructuras del Estado a través de la fuerza de las armas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Estado chileno decimonónico operaba bajo un paradigma eurocéntrico de civilización y progreso. Se justificó la anexión militar de tierras indígenas asumiendo que los mapuches y etnias australes carecían de capacidad soberana legítima, privándolos de los mismos derechos constitucionales civiles que la élite liberal proclamaba defender.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "A partir de la asimetría cultural del Acuerdo de Voluntades de 1888, ¿cuál ha sido el principal foco de tensión histórica y reclamo contemporáneo de la comunidad Rapa Nui respecto de los alcances de dicho tratado con Chile?",
+      "context": "Martina lee un documento oficial rapanui contemporáneo que discute el significado del Acuerdo de Voluntades firmado en 1888.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La demanda de reinstaurar el cultivo forzado de caña de azúcar para barcos mercantes españoles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reclamo no es de índole mercantilista española sino de derechos indígenas soberanos."
+        },
+        {
+          "letter": "B",
+          "text": "El reclamo de que la isla cedió soberanía de protección al Estado pero no la propiedad colectiva de las tierras, las cuales el Estado traspasó a firmas ovejeras y particulares.",
+          "is_correct": true,
+          "feedback": "Correcto. El pueblo rapanui argumenta que el texto en rapanui hablaba de otorgar protección amistosa y soberanía política externa (un pacto de voluntades) pero reteniendo la propiedad de sus tierras colectivas. No obstante, el Estado chileno de la época declaró a la isla propiedad fiscal, alquilándola a la Compañía Explotadora de Isla de Pascua para la ganadería de ovejas, confinando a la población local."
+        },
+        {
+          "letter": "C",
+          "text": "El deseo de que la isla fuera anexada por el departamento de ultramar de Francia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las demandas de Rapa Nui apuntan a la autodeterminación y la restitución territorial dentro de marcos con el Estado de Chile, no a la sumisión a Francia."
+        },
+        {
+          "letter": "D",
+          "text": "La supresión definitiva de los Moáis de las costas de la isla por motivos turísticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Moáis son el pilar del orgullo identitario y el patrimonio histórico y cultural inalienable de la isla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La anexión de Rapa Nui de 1888 encierra una asimetría documental e idiomática profunda. El Estado de Chile interpretó el tratado como una cesión soberana irrestricta de tierras y aguas, lo que propició que durante décadas las tierras nativas fueran privatizadas o arrendadas a empresas salineras y ovejeras, relegando los derechos de los habitantes autóctonos a la marginación interna.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

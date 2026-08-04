@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-10-grade-11-subject-sociales",
+    "generated_at": "2026-08-04T01:24:49.590Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "¿Qué cambio de denominación oficial del país decretó la Constitución Política del Estado promulgada en febrero de 2009?",
+      "context": "En Oruro, la estudiante Nancy del Colegio Nacional Florida analiza la promulgación de la histórica Constitución de 2009.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se pasó oficialmente de República de Bolivia a Estado Plurinacional de Bolivia.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de 2009 consolidó el nacimiento del Estado Plurinacional de Bolivia, reconociendo el carácter pluriétnico, multicultural y soberano de las naciones indígenas de la patria."
+        },
+        {
+          "letter": "B",
+          "text": "Se transformó oficialmente en el Imperio del Collasuyo de la corona española de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia es un Estado soberano republicano plurinacional, opuesto a imperios precolombinos o a monarquías coloniales europeas."
+        },
+        {
+          "letter": "C",
+          "text": "Se integró legalmente de forma voluntaria al Virreinato del Río de la Plata y la corona francesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un absurdo histórico e imposibilidad política; la Constitución consagra la soberanía absoluta de Bolivia frente a cualquier imperio extranjero."
+        },
+        {
+          "letter": "D",
+          "text": "Se privatizaron de forma total las aduanas y fronteras estatales bajo la denominación oficial de Confederación del Pacífico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se reafirmó el control estatal soberano de aduanas y recursos nacionales de Bolivia, sin relación con privatizaciones de Confederaciones chilenas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La promulgación de la Constitución de 2009 representó la transformación civil e institucional más importante de la Bolivia contemporánea. Pusó fin formal a la concepción del Estado-nación unitario de herencia colonial y liberal, dando origen al reconocimiento del pluralismo estatal real.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "¿Qué principio lingüístico constitucional consagra el Estado Plurinacional de Bolivia sobre sus idiomas oficiales?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza las reformas de pluralismo lingüístico de la nueva Constitución boliviana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Declara oficiales al castellano y a los 36 idiomas de las naciones indígenas originario campesinas de Bolivia de forma equitativa.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución consagraba el plurilingüismo equitativo oficial, declarando oficiales al castellano, quechua, aymara, guaraní, moxeño, chiquitano, y otras 31 lenguas originarias de las tierras altas y bajas de Bolivia."
+        },
+        {
+          "letter": "B",
+          "text": "Declara oficiales únicamente al idioma portugués y al latín eclesiástico de las misiones jesuitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El portugués y el latín no son lenguas oficiales indígenas de Bolivia ni tienen ese estatus constitucional en las oficinas del Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Prohíbe de manera absoluta el uso de cualquier idioma que no sea el castellano en los juzgados y aduanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, promueve la obligatoriedad de que los funcionarios públicos estatales conozcan e instrumenten una lengua indígena regional junto al castellano."
+        },
+        {
+          "letter": "D",
+          "text": "Declara de forma única al idioma inglés como único idioma habilitado para las transacciones mineras de Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El inglés no tiene rango oficial de idioma indígena soberano del Estado Plurinacional de Bolivia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El reconocimiento constitucional de las 36 lenguas originarias nativas de la patria es un reflejo de las demandas históricas de descolonización. Busca democratizar la administración de justicia, los juzgados y la educación formal, obligando al Estado a interactuar con los ciudadanos andino-amazónicos en sus propias lenguas maternas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "¿Qué concepto filosófico andino, traducido como 'Suma Qamaña' (en aymara) o 'Suma Kawsay' (en quechua), introdujo la Constitución de 2009 como principio ético del Estado?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho estudia los principios filosóficos que guían las políticas del Estado Plurinacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 'Vivir Bien', que propugna una relación armónica de equilibrio entre el ser humano, la comunidad y la Madre Tierra.",
+          "is_correct": true,
+          "feedback": "Correcto. El 'Vivir Bien' constituye el norte filosófico y ético-moral del Estado Plurinacional, planteando una alternativa civilizatoria que prioriza la complementariedad y armonía con la Pachamama frente al consumismo capitalista salvaje."
+        },
+        {
+          "letter": "B",
+          "text": "La 'Mita Potosina', que exige el trabajo obligatorio forzado gratuito de los campesinos en el Cerro Rico de Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mita fue abolida con la independencia; era una institución colonial de opresión servil destructiva, no un principio ético de Vivir Bien."
+        },
+        {
+          "letter": "C",
+          "text": "El 'Plan Bohan', que propone la siembra exclusiva de caña de azúcar importada en los salares andinos secos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Plan Bohan de 1942 era una estrategia de desarrollo e integración vial agroindustrial cruceña de posguerra del Chaco Boreal, no un principio andino filosófico."
+        },
+        {
+          "letter": "D",
+          "text": "El 'Silogismo Altoperuano', que declaraba la sumisión incondicional de los cabildos andinos al rey francés de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El silogismo de Chuquisaca era una estratagema legal de 1809 de los doctores de Chuquisaca, ajeno a la filosofía andina originaria de 2009."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inclusión del 'Vivir Bien' en el texto constitucional de 2009 representó un avance doctrinal relevante para el constitucionalismo contemporáneo. Subordina los modelos económicos tradicionales del extractivismo y libre mercado a la preservación del equilibrio natural de la Pachamama.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "¿Qué modalidad de autonomía de carácter descolonizador reconoce la Constitución de 2009 para dotar de autogobierno real a los pueblos indígenas?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza la reorganización del territorio bajo el nuevo modelo constitucional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Autonomía Indígena Originaria Campesina (AIOC), que permite a las comunidades autogobernarse según sus propias normas y procedimientos tradicionales.",
+          "is_correct": true,
+          "feedback": "Correcto. La AIOC representa una de las innovaciones territoriales más profundas del Estado Plurinacional, permitiendo a los municipios o territorios indígenas organizarse de forma autónoma, con su propia justicia y autogobierno reconocido en el marco de la Constitución."
+        },
+        {
+          "letter": "B",
+          "text": "La entrega voluntaria de los municipios andinos al control militar de los ejércitos paraguayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cedieron municipios bolivianos al control del Paraguay; las autonomías indígenas resguardan la soberanía del Estado de Bolivia de forma local."
+        },
+        {
+          "letter": "C",
+          "text": "La privatización de la aduana paceña en favor de terratenientes coloniales procedentes de Portugal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un absoluto contrasentido conceptual; se buscaba la descolonización fiscal y agraria de la patria, no el retorno a privilegios de Portugal."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del sufragio universal de las mujeres indígenas en favor de los barones del estaño de Oruro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución de 2009 amplía los derechos civiles y consagra la democracia paritaria plurinacional, opuesta al modelo de privilegios de los barones del estaño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La introducción de las AIOC en Bolivia (como en el caso de Charagua en Santa Cruz o Uru Chipaya en Oruro) simboliza la consagración legal de las formas de autogobierno prehispánicas de los ayllus andinos y capitanías guaraníes, integradas con la estructura republicana general del Estado boliviano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "¿Qué bonos sociales estatales de carácter distributivo financia el Estado de Bolivia para proteger de forma masiva a los sectores más vulnerables?",
+      "context": "En Cochabamba, la estudiante Shirley del Colegio San Simón analiza los programas gubernamentales de inclusión y redistribución de excedentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Bono Juancito Pinto para estudiantes de escuelas públicas, el Bono Juana Azurduy para madres gestantes y la Renta Dignidad para adultos mayores.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos bonos sociales distributivos estatales forman parte del Modelo Económico Social Comunitario Productivo, financiado por la nacionalización de hidrocarburos de 2006 para mitigar la pobreza y mejorar la inclusión social."
+        },
+        {
+          "letter": "B",
+          "text": "El Subsidio de la mita minera de Potosí de la época de la corona del Brasil y los oidores realistas de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mita minera colonial no era un bono distributivo; representaba una institución forzada de explotación agraria andina de la corona de España."
+        },
+        {
+          "letter": "C",
+          "text": "El Pago de pensiones vitalicias en libras esterlinas inglesas a todos los terratenientes de origen portugués.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían tales pensiones ni subsidios para terratenientes de origen portugués en Bolivia, puesto que la riqueza se redistribuye a sectores populares nacionales."
+        },
+        {
+          "letter": "D",
+          "text": "La Beca de libre tránsito comercial para barcos pesqueros que navegan en las playas secas del altiplano potosino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Potosí se ubica en el interior andino montañoso y no posee playas marítimas de libre tránsito para barcos pesqueros marinos de gran calado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La redistribución de la riqueza hidrocarburífera mediante bonos sociales estatales ha sido una de las políticas con mayor impacto del Estado Plurinacional. Permitió reducir sustancialmente los índices de pobreza extrema y el analfabetismo escolar básico andino-amazónico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "¿Qué ley de educación nacional promulgada en 2010 adoptó un enfoque sociocomunitario, descolonizador, plurilingüe y productivo en la escuela?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez investiga las transformaciones educativas contemporáneas de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Ley de la Educación 'Avelino Siñani - Elizardo Pérez'.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 'Avelino Siñani - Elizardo Pérez' (2010) reemplazó al anterior marco educativo liberal, recuperando la histórica experiencia comunal andina de la Escuela Ayllu de Warisata como modelo pedagógico descolonizador."
+        },
+        {
+          "letter": "B",
+          "text": "El Código de Instrucción Pública dictado de forma militar por el general chileno Manuel Baquedano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Baquedano fue un general chileno de la Guerra del Pacífico y no legisló la educación pública soberana contemporánea del Estado de Bolivia."
+        },
+        {
+          "letter": "C",
+          "text": "El Tratado de Petrópolis firmado por Simón Bolívar y Antonio José de Sucre en Chuquisaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Tratado de Petrópolis es de 1903 (sobre límites con Brasil por el Acre); Bolívar y Sucre fallecieron en el siglo XIX, ajenos a la ley de educación de 2010."
+        },
+        {
+          "letter": "D",
+          "text": "El Reglamento de Libre Comercio de 1778 del virrey Francisco de Toledo de Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Reglamento de 1778 es colonial borbónico y el virrey Toledo gobernó en el siglo XVI, siglos antes de la ley de educación de 2010."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley de Educación Avelino Siñani - Elizardo Pérez es pilar de la descolonización institucional de Bolivia. Su nombre rinde homenaje al sabio campesino aymara Avelino Siñani y al profesor Elizardo Pérez, creadores de la primera escuela andina indígena libertaria en la altiplánica localidad de Warisata en 1931.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "¿Qué principio de pluralismo jurídico consagra la Constitución de 2009 respecto de la administración de justicia de los pueblos originarios?",
+      "context": "En El Alto, el estudiante Walter de la Unidad Educativa Juan Pablo II investiga las reformas de justicia en la nueva Constitución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconoce a la jurisdicción indígena originario campesina con igual jerarquía constitucional que la justicia ordinaria común del Estado.",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado Plurinacional consagra el pluralismo jurídico real, otorgando a las autoridades de los ayllus andinos y capitanías la facultad de resolver conflictos locales bajo sus propias costumbres y normas, con igual validez legal."
+        },
+        {
+          "letter": "B",
+          "text": "Establece que los oidores coloniales de la corona española de Madrid deben resolver todas las disputas mineras de Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las autoridades judiciales españolas de la época colonial de Charcas no ejercen jurisdicción en la Bolivia independiente y plurinacional actual."
+        },
+        {
+          "letter": "C",
+          "text": "Declara la ilegalidad absoluta de todo tribunal judicial y autoriza al ejército paraguayo del Chaco a dictar sentencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas armadas paraguayas carecen de soberanía y jurisdicción en Bolivia; la justicia se administra de forma soberana nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe que las mujeres de origen aymara presenten denuncias formales en los tribunales del altiplano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución y la Ley de Deslinde Jurisdiccional consagran el pleno derecho y la igualdad sustantiva de género, protegiendo los derechos de las mujeres indígenas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pluralismo jurídico de Bolivia es un hito de descolonización legal. La Ley de Deslinde Jurisdiccional devela los límites de esta asimilación de sistemas judiciales, buscando articular el respeto a los derechos humanos fundamentales con las prácticas punitivas comunales tradicionales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Si analizamos la nacionalización de los hidrocarburos decretada en mayo de 2006, ¿qué medida de gran impacto fiscal modificó el reparto de utilidades en beneficio de Bolivia?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia las medidas de nacionalización y refundación estatal de YPFB.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Decreto Supremo 'Héroes del Chaco', que obligó a las petroleras transnacionales a transferir la propiedad y el control mayoritario del gas a YPFB, elevando los impuestos al 82%.",
+          "is_correct": true,
+          "feedback": "Correcto. El decreto de nacionalización de mayo de 2006 obligó a las corporaciones extranjeras a ceder sus acciones y control a YPFB de forma soberana, renegociando contratos para elevar de forma drástica la recaudación fiscal de regalías hidrocarburíferas para Bolivia."
+        },
+        {
+          "letter": "B",
+          "text": "La venta legal de los megacampos de gas natural a favor de la corona del Japón por pesos de oro potosino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nacionalización buscaba precisamente centralizar el gas bajo control mayoritario del Estado de Bolivia (YPFB), no entregarlo a Japón."
+        },
+        {
+          "letter": "C",
+          "text": "La expropiación pacífica de la Casa de la Moneda de Potosí para convertirla en refinería de gasolina chilena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Casa de la Moneda se mantuvo como un destacado museo histórico de la patria y no se convirtió en refinería de gasolina chilena."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición del uso del castellano en las oficinas de las aduanas nacionales del Chaco Boreal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El castellano se mantuvo como el idioma legal administrativo oficial de YPFB y las aduanas, junto a idiomas indígenas regionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La nacionalización hidrocarburífera de 2006 sentó las bases materiales y financieras del Estado Plurinacional. El enorme incremento de ingresos fiscales por la venta de gas natural a Brasil y Argentina financió las obras de infraestructura vial, telecomunicaciones, satélites, bonos sociales y teleféricos del país.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Si aplicamos la historia política de Bolivia de inicios del siglo XXI, ¿qué bloque regional de oposición se enfrentó políticamente a la Asamblea Constituyente de Sucre y qué demandaba?",
+      "context": "En Sacaba, el estudiante Limbert del Colegio San Simón analiza los conflictos políticos regionales previos a la Constitución de 2009.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 'Media Luna' de los departamentos orientales y del sur (Santa Cruz, Tarija, Beni, Pando), que demandaban autonomías departamentales de corte liberal frente al centralismo plurinacional.",
+          "is_correct": true,
+          "feedback": "Correcto. Durante la crisis constitucional de 2007-2008, la llamada 'Media Luna' de regiones orientales terratenientes y agroindustriales chocó frontalmente con el proyecto constitucional del gobierno de La Paz, dirimiéndose finalmente las disputas mediante referéndums democráticos nacionales de compromiso."
+        },
+        {
+          "letter": "B",
+          "text": "Los generales de las republiquetas coloniales andinas que exigían el retorno voluntario a la corona española de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las republiquetas de la guerra de independencia luchaban contra España en el siglo XIX, ajenas al conflicto regional de la Media Luna de 2008."
+        },
+        {
+          "letter": "C",
+          "text": "La Alianza de pescadores del lago Titicaca que exigían declarar la guerra inmediata al Paraguay por el control de la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo disputas militares con Paraguay por lagos andinos en 2008 ni existían tales alianzas de pescadores con esos fines bélicos."
+        },
+        {
+          "letter": "D",
+          "text": "La rosca minera de los barones del estaño de Oruro que exigían reimponer el impuesto de la mita en el Cerro Rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los barones del estaño perdieron su poder en la Revolución de 1952 y no participaron del conflicto de autonomías departamentales del siglo XXI."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El conflicto por las autonomías devela las tensiones geográficas e identitarias históricas de Bolivia. La Constitución de 2009 resolvió de manera democrática e institucional esta disputa al consagrar cuatro niveles de autonomías integradas (departamental, municipal, regional e indígena originario campesina).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Si aplicamos el análisis del proceso constituyente, ¿qué papel estratégico desempeñó la Asamblea Constituyente reunida en Sucre en 2006-2007?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza las sesiones de la Asamblea Constituyente de Bolivia de 2006.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue el órgano deliberante plurinacional encargado de redactar el nuevo texto constitucional que refundó el Estado boliviano.",
+          "is_correct": true,
+          "feedback": "Correcto. La Asamblea Constituyente de Sucre reunió a delegados de diversos partidos, movimientos sociales y etnias indígenas andinas, llaneras y de valles, debatiendo de forma encendida el diseño del nuevo Estado Plurinacional."
+        },
+        {
+          "letter": "B",
+          "text": "Funcionaba como un alto tribunal de guerra nuclear encargado de deponer a Simón Bolívar de forma pacífica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolívar falleció en 1830 de forma civil, alejado de pretensiones religiosas eclesiásticas de papados británicos."
+        },
+        {
+          "letter": "C",
+          "text": "Estableció aduanas comerciales exclusivas para cobrar impuestos en pesos de oro a los comerciantes de la Standard Oil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Standard Oil es una compañía petrolera del siglo XX, ajena al periodo de 1810 a 1825 de la guerra de independencia."
+        },
+        {
+          "letter": "D",
+          "text": "Buscaba la anexión voluntaria de la provincia del Litoral al territorio imperial de la corona del Brasil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento era de emancipación altoperuana contra España, sin vinculación diplomática o comercial con Brasil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Asamblea Constituyente representó la máxima instancia de debate y disputa ideológica de la Bolivia contemporánea, canalizando de forma democrática las demandas de inclusión del bloque indígena originario campesino de la patria.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Al analizar críticamente la crisis de gobernabilidad de 2007-2008, ¿qué contradicción de intereses dividía a las regiones de la 'Media Luna' del gobierno de La Paz?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza las tensiones regionales de la 'Media Luna' de 2008.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las regiones orientales defendían el control directo de sus recursos e hidrocarburos (IDH) y el régimen agrario frente a la centralización y descolonización plurinacional.",
+          "is_correct": true,
+          "feedback": "Correcto. La crisis de la Media Luna (Santa Cruz, Tarija, Beni, Pando) enfrentó a las élites terratenientes agroindustriales con la agenda de la Asamblea Constituyente, dirimiéndose finalmente las disputas mediante referéndums democráticos nacionales de compromiso."
+        },
+        {
+          "letter": "B",
+          "text": "La disputa sobre si la moneda de Bolivia debía acuñarse en pesos de oro del Brasil o libras esterlinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían monedas de Brasil o libras esterlinas circulando legalmente y la moneda era el boliviano."
+        },
+        {
+          "letter": "C",
+          "text": "La exigencia de que todos los guerrilleros hablaran de manera obligatoria el idioma portugués bajo el bando patriota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma oficial patriota era el castellano y no se impuso el portugués en ningún regimiento de la Media Luna."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición absoluta de cultivar papa y quinua decretada de forma obligatoria por los incas del Cuzco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quinua y la papa eran los cultivos de subsistencia alimentaria guerrillera andina, apoyados por los incas en épocas pasadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crisis de la Media Luna devela las tensiones geográficas e identitarias históricas de Bolivia. La Constitución de 2009 resolvió de manera democrática esta disputa al consagrar cuatro niveles de autonomías integradas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Al analizar las implicaciones prácticas del saneamiento de tierras ejecutado por el Instituto Nacional de Reforma Agraria (INRA), ¿qué contradicción legal se devela?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia el saneamiento de tierras agrícolas agrarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La disputa por revertir al Estado los grandes latifundios que no cumplan una Función Económico-Social (FES) real en beneficio del pueblo.",
+          "is_correct": true,
+          "feedback": "Correcto. El INRA aplicó el marco constitucional de 2009 para fiscalizar y revertir latifundios improductivos ociosos del oriente de Bolivia, chocando con las élites terratenientes y de valles agroindustriales de la Media Luna."
+        },
+        {
+          "letter": "B",
+          "text": "La restauración de la mita potosina obligatoria en el Cerro Rico de Potosí de forma voluntaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mita fue abolida con la independencia; era una institución colonial de opresión servil destructiva, no una norma del INRA."
+        },
+        {
+          "letter": "C",
+          "text": "El establecimiento de colonias agrícolas de agricultores importados de forma exclusiva del Japón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito era el saneamiento de tierras agrícolas para las comunidades indígenas locales, no importar colonos de Japón."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de cultivar papa y maíz en tierras altas para forzar el pastoreo masivo de focas costeras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se prohibieron cultivos nativos básicos de papa y maíz, y las focas son animales marinos imposibles de criar en altiplanos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El saneamiento de tierras del INRA constituyó una de las políticas agrarias de mayor impacto del Estado Plurinacional. Permitió titular millones de hectáreas a favor de comunidades indígenas de tierras bajas y altas, mermando el latifundio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Al analizar el alcance de la Ley de Educación de 2010, ¿qué asimetría cultural se propone corregir respecto del modelo asimilacionista de 1955?",
+      "context": "En El Alto, el estudiante Walter de la Unidad Educativa Juan Pablo II investiga la Ley de la Educación 'Avelino Siñani - Elizardo Pérez'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corrige el enfoque castellanizador homogeneizante al declarar que la educación escolar debe ser obligatoriamente productiva, descolonizadora y plurilingüe.",
+          "is_correct": true,
+          "feedback": "Correcto. La ley de 2010 superó el paradigma castellanizador hispanista del Código de 1955, obligando a las escuelas a enseñar en lenguas originarias y revalorizar las sabidurías andino-amazónicas de la patria."
+        },
+        {
+          "letter": "B",
+          "text": "La obligación de que todos los españoles peninsulares aprendieran obligatoriamente el idioma aymara en un mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imperio español impuso la castellanización forzada y reprimió las manifestaciones culturales nativas de la patria."
+        },
+        {
+          "letter": "C",
+          "text": "El cierre absoluto de todas las escuelas fiscales para forzar a los niños a trabajar de forma perpetua en el Cerro Rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de educación busca universalizar la escuela fiscal gratuita estatal de Bolivia, no cerrarla para forzar trabajo infantil."
+        },
+        {
+          "letter": "D",
+          "text": "La adopción de la fe musulmana obligatoria en reemplazo de los rituales católicos de Sucre y Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se mantuvo la libertad de culto consagrando una escuela laica del Estado de Bolivia, sin relación alguna con el islam."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley 'Avelino Siñani - Elizardo Pérez' devela el tránsito de la asimilación al plurilingüismo democrático. Recupera los principios de Warisata, integrando la educación formal con el desarrollo de las culturas nativas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "¿Qué contradicción constitucional asoma al armonizar la jurisdicción ordinaria con la justicia indígena originario campesina?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza el pluralismo jurídico ordinario e indígena en la práctica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de deslinde jurisdiccional claro en delitos graves, chocando frecuentemente sobre el respeto a las garantías constitucionales individuales.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque la Constitución consagra la igualdad de jerarquía entre ambas justicias, la aplicación real de la justicia indígena (bajo costumbres locales) devela pleitos de deslinde competencial en delitos penales graves frente al código ordinario."
+        },
+        {
+          "letter": "B",
+          "text": "La exigencia de que todos los jueces de Bolivia hablen portugués de manera obligatoria bajo penas de cárcel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma oficial se mantiene como el castellano y las lenguas indígenas locales, sin relación con el portugués de Brasil."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición absoluta de la fe católica andina para declarar la fe budista obligatoria en Sucre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tanto Sucre como las comunidades indígenas practican de forma libre sus ritos sincréticos y católicos de la patria."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega total de las minas del Cerro Rico de Potosí de forma voluntaria al Paraguay a cambio de barcos de guerra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia defendía la integridad de su territorio y las minas se declararon propiedad pública del Estado de Bolivia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pluralismo jurídico de Bolivia es un hito de descolonización legal. La Ley de Deslinde Jurisdiccional devela los límites de esta asimilación de sistemas judiciales, buscando articular el respeto a los derechos humanos con las prácticas tradicionales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Al analizar la relación de la Iglesia católica con el Estado tras la Constitución de 2009, ¿qué cambio de estatus devela la neutralidad eclesiástica?",
+      "context": "En Tarija, el estudiante René del Colegio Nacional San Luis estudia el carácter laico del Estado Plurinacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se disolvió el catolicismo como religión oficial del Estado de Bolivia, reconociendo la libertad de cultos y el carácter laico de la administración pública.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de 2009 retiró la exclusividad oficial que gozaba la Iglesia católica en las constituciones del siglo XIX y XX, consagrando la laicidad estatal y el respeto equitativo a la diversidad espiritual andino-amazónica."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición absoluta de la fe católica andina para declarar la fe budista obligatoria en Sucre y Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se garantiza la libertad de cultos y la fe católica continúa siendo practicada por las mayorías de forma natural y libre de prohibición."
+        },
+        {
+          "letter": "C",
+          "text": "La devaluación total del dólar estadounidense que obligó al Estado a adoptar de forma obligatoria la moneda del Japón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se adoptó la moneda de Japón en Bolivia; se mantuvo la moneda nacional (el boliviano) bajo un severo control fiscal."
+        },
+        {
+          "letter": "D",
+          "text": "El pago obligatorio de un subsidio en pesos de oro a las cooperativas mineras que extraían estaño en Tarija.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se extraía estaño en Tarija ni se pagaban subsidios de oro de las cooperativas mineras por causa de YPFB."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tránsito de la catolicidad oficial al Estado laico devela la descolonización espiritual de Bolivia. Promueve una arena de coexistencia democrática entre las expresiones de fe cristianas y las prácticas de ritualidad de la Pachamama.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Al analizar las circunscripciones especiales indígenas de la Asamblea Legislativa Plurinacional, ¿qué asimetría de representación parlamentaria se devela?",
+      "context": "En Cobija, el estudiante Franz de la Unidad Educativa Mariscal Sucre estudia el sistema electoral plurinacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reconocimiento de escaños exclusivos para minorías indígenas de tierras bajas de escasa densidad poblacional para asegurar su presencia en el parlamento.",
+          "is_correct": true,
+          "feedback": "Correcto. El sistema electoral plurinacional introdujo circunscripciones especiales indígenas rurales que garantizan que etnias minoritarias selváticas (como los tacanas o chiquitanos) posean representación legislativa directa propia en la Asamblea, al margen de mayorías urbanas."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición de que las mujeres de origen aymara presenten candidaturas formales en las aduanas nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución consagra la paridad de género obligatoria y prohíbe toda discriminación de castas contra las mujeres de origen indígena."
+        },
+        {
+          "letter": "C",
+          "text": "La obligación de que todos los diputados de Bolivia de origen aymara hablen de manera obligatoria el idioma portugués.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los diputados legislan en castellano y en su idioma originario materno de la patria, sin relación con el portugués de Brasil."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega de todo el departamento de Potosí de forma voluntaria al Paraguay a cambio de barcos de guerra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia defendía la integridad de su territorio y Potosí se sitúa en la cordillera andina, lejos del Chaco Boreal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las circunscripciones especiales consagran el carácter plurinacional del parlamento de Bolivia. Es un mecanismo de descolonización representativa indispensable para asegurar que las etnias más postergadas de tierras bajas posean voz soberana en las leyes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Al juzgar integralmente la sostenibilidad económica del Modelo Económico Social Comunitario Productivo del Estado de Bolivia, ¿cuál es la valoración con mayor respaldo historiográfico?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar evalúa la sostenibilidad económica del modelo productivo plurinacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo impulsó un gran crecimiento y redistribución mediante la nacionalización del gas, pero mantuvo la dependencia extractivista y la vulnerabilidad fiscal a los precios internacionales.",
+          "is_correct": true,
+          "feedback": "Correcto. El modelo comunitario y redistributivo de YPFB generó excedentes significativos y sacó a millones de bolivianos de la pobreza; sin embargo, no logró superar de forma estructural la exportación de materias primas crudas extractivas, sufriendo de iliquidez fiscal tras la caída de las exportaciones de gas."
+        },
+        {
+          "letter": "B",
+          "text": "Fue un fracaso absoluto debido a que las reservas de gas de Tarija eran estériles e inexistentes tras la nacionalización.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reservas de gas natural tarijeñas financiaron el mayor auge económico y presupuestario del país en el siglo XXI."
+        },
+        {
+          "letter": "C",
+          "text": "La devaluación total del dólar estadounidense que obligó al Estado a adoptar de forma obligatoria la moneda del Japón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se adoptó la moneda de Japón en Bolivia; se mantuvo la moneda nacional (el boliviano) bajo un severo control fiscal."
+        },
+        {
+          "letter": "D",
+          "text": "La privatización total de las refinerías de YPFB en favor de los ejércitos armados paraguayos del Chaco Boreal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las empresas de hidrocarburos continuaron bajo el control y monopolio del Estado de Bolivia, sin privatizarse a Paraguay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación económica de la Bolivia contemporánea devela la paradoja extractivista. El gas natural financió la inclusión social plurinacional pero no extirpó la dependencia del mercado global, obligando a diversificar las fuentes hacia la industrialización soberana.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.53,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Al evaluar críticamente la contradicción entre el discurso de defensa de los derechos de la Madre Tierra (Ley de la Madre Tierra) y el extractivismo hidrocarburífero y minero real de Bolivia, ¿qué valoración posee mayor solidez documental?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Bolívar evalúa críticamente la contradicción entre discurso ecológico y extractivismo real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existe una profunda brecha de inconsistencia: el Estado legisla la protección sagrada de la Pachamama mientras impulsa y fomenta actividades mineras y petroleras en reservas naturales protegidas para sostener la economía.",
+          "is_correct": true,
+          "feedback": "Correcto. El dilema de la geografía del desarrollo boliviano devela esta paradoja: el discurso oficial exalta el Vivir Bien y de bofedales andinos, pero las finanzas públicas estatales dependen vitalmente de la exportación del gas natural y de la explotación minera informal de oro amazónico, vulnerando las reservas de la biosfera."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de la Madre Tierra devela que los bofedales andinos de Bolivia se formaron por la colisión de meteoritos gigantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bofedales son humedales altoandinos naturales biológicos de inmensa importancia ecológica, no cráteres de meteoritos."
+        },
+        {
+          "letter": "C",
+          "text": "La ley prohíbe de forma obligatoria la cría de camélidos andinos (llamas) por considerarlas nocivas para el ecosistema altiplánico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los camélidos andinos son protegidos y valorados constitucionalmente como patrimonio de la biodiversidad de la patria."
+        },
+        {
+          "letter": "D",
+          "text": "No existe ninguna contradicción conceptual real debido a que las minas de estaño paceñas operan sin agua dulce y producen oxígeno puro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería metálica e informal utiliza inmensas cantidades de agua dulce y genera efluentes ácidos de alta toxicidad ambiental real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tensión entre preservación de la naturaleza y extractivismo es el gran debate contemporáneo de Bolivia. El sustento del erario público con divisas mineras y gasíferas colisiona frecuentemente con los derechos de preservación de bofedales y de la biosfera andino-amazónica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar globalmente los logros en materia de reducción de la pobreza extrema y de analfabetismo escolar mediante los bonos distributivos estatales en Bolivia, ¿cuál de las siguientes conclusiones posee mayor validez?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha valora críticamente la inclusión social mediante bonos condicionados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostraron un enorme impacto de justicia distributiva inmediata que redujo severamente los índices de indigencia de la patria de forma histórica.",
+          "is_correct": true,
+          "feedback": "Correcto. Los bonos distributivos estatales (Renta Dignidad, Bono Juancito Pinto, Juana Azurduy) disminuyeron sustancialmente las asimetrías de ingresos tradicionales y la deserción escolar básica andina de forma real y medible en el marco de la descolonización."
+        },
+        {
+          "letter": "B",
+          "text": "Los bonos fueron perjudiciales porque obligaban a los indígenas andinos a migrar de forma forzosa a vivir en zoológicos de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bonos distributivos estatales son de inclusión social y resguardan la dignidad humana y comunal de la patria, sin forzar migraciones a zoológicos."
+        },
+        {
+          "letter": "C",
+          "text": "Establecía que las 36 naciones indígenas debían pagar de forma obligatoria tributo de mita a los reyes borbones de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se prohíbe constitucionalmente cualquier tributo de servidumbre colonial o mita de Toledo y se redistribuyen riquezas a favor del pueblo."
+        },
+        {
+          "letter": "D",
+          "text": "Provocó la devaluación total de la plata potosina debido al comercio libre sin aduanas terrestres con Japón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El patrón plata es parte de la historia colonial; las transacciones contemporáneas operan en bolivianos estables y soberanos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inclusión social contemporánea de Bolivia constituye el éxito más sólido del Estado Plurinacional. Al transferir de forma directa los excedentes del gas a la población, sepultó la herencia de marginalidad de la república de castas señorial tradicional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Al juzgar de manera integral la transición institucional de la antigua República señorial exclusivista al contemporáneo Estado Plurinacional de Bolivia, ¿cuál de las siguientes afirmaciones posee mayor sustento socio-histórico?",
+      "context": "En Sacaba, el estudiante Limbert del Colegio San Simón valora la transición de la República señorial al Estado Plurinacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representó la culminación de siglos de luchas populares y de descolonización, reconfigurando de manera duradera el orden estatal y otorgando hegemonía a los movimientos indígenas campesinos.",
+          "is_correct": true,
+          "feedback": "Correcto. Una evaluación de largo plazo devela que el Estado Plurinacional sepultó de forma irreversible la herencia institucional liberal excluyente que marginaba del poder político a las mayorías nacionales, dotando de representación soberana directa a las naciones de tierras altas y bajas de la patria."
+        },
+        {
+          "letter": "B",
+          "text": "Fue un completo retroceso debido a que la totalidad de la población andina exigía retornar de forma voluntaria al yugo colonial español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las transformaciones democráticas y republicanas gozan de inmenso arraigo popular; no se desea de modo alguno someterse al yugo colonial real de la corona de España de Madrid."
+        },
+        {
+          "letter": "C",
+          "text": "Establecía que Simón Bolívar debía ser coronado rey absoluto y hereditario de la corona de España de forma obligatoria en Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simón Bolívar falleció en 1830 de forma civil, opuesto de hecho a coronarse monarca absoluto y defendiendo con fervor la república."
+        },
+        {
+          "letter": "D",
+          "text": "Abolió pacíficamente toda la riqueza hidrocarburífera de YPFB para forzar a la población a vivir de donaciones místicas del Paraguay.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nacionalización y refinación de gas de YPFB es el pilar financiero y presupuestario del Estado de Bolivia, ajeno a donaciones del Paraguay."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tránsito plurinacional constituye el hecho histórico contemporáneo más relevante de Bolivia. Reconfiguró la fisonomía del poder político y de castas tradicional de la república, consagrando la hegemonía democrática e inclusiva del bloque indígena originario campesino de la patria.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "BO-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

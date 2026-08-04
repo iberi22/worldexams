@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "ec",
+    "pack_id": "ec-week-5-grade-11-subject-lengua",
+    "generated_at": "2026-08-04T00:45:03.460Z"
+  },
+  "questions": [
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v1",
+      "statement": "Lea el siguiente fragmento: 'El ferrocarril transandino ecuatoriano, obra impulsada por el general Eloy Alfaro, conectó de forma definitiva las ciudades de Guayaquil y Quito en el año 1908, transformando la economía de Manta'. Según el texto, ¿en qué año se conectaron estas dos ciudades?",
+      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Manta, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el año 2008 tras la reconstrucción moderna en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "En el año 1908.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Durante la época colonial del siglo XVIII en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "A mediados del siglo XIX por Gabriel García Moreno en el Colegio Benigno Malo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta se encuentra explícita en el fragmento textual de manera directa: 'en el año 1908'.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v2",
+      "statement": "Considere este texto: 'Camila, estudiante del Colegio Nacional Bolívar en Loja, obtuvo una beca completa de estudios científicos tras desarrollar un filtro purificador de agua que remueve metales pesados utilizando cáscara de coco'. De acuerdo con el fragmento, ¿qué materia prima utilizó Camila para construir su filtro?",
+      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Loja, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cáscara de coco.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Fibras sintéticas de poliéster de Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Carbón mineral activado importado por el Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Arena sílica del río de Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto indica de manera literal e inequívoca el insumo natural empleado: 'utilizando cáscara de coco'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v3",
+      "statement": "Lea el extracto: 'La literatura modernista del Ecuador tuvo como principales referentes a los jóvenes poetas de la Generación Decapitada, quienes se inspiraron en el simbolismo francés y fallecieron a temprana edad en Riobamba'. ¿De qué corriente europea recibieron inspiración directa estos poetas según el texto?",
+      "context": "Santiago, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Riobamba, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del neoclasicismo español tradicional en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Del simbolismo francés.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Del romanticismo inglés medieval en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Del realismo mágico latinoamericano en el Unidad Educativa Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La información está expresada textualmente: 'quienes se inspiraron en el simbolismo francés'.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v4",
+      "statement": "Considere el anuncio: 'La empresa municipal de Ibarra suspenderá el servicio de agua en los sectores de El Vecino y San Sebastián el día martes desde las 14:00 por reparación de tuberías en Colegio Nacional Manta'. ¿En qué sectores de la ciudad ocurrirá la suspensión?",
+      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ibarra, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En toda la provincia de Ibarra de forma indefinida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente en el sector industrial cerca del Colegio Nacional Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "En el centro histórico de Quito y Guayaquil y Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "En El Vecino y San Sebastián.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La respuesta requiere identificar datos explícitos del texto: los sectores nombrados son 'El Vecino y San Sebastián'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v5",
+      "statement": "Lea: 'La mariposa monarca recorre más de 4000 kilómetros desde Canadá hasta México para reproducirse en los bosques de oyamel antes de llegar a Portoviejo'. ¿Qué distancia total recorre la mariposa monarca en su migración según el fragmento?",
+      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Portoviejo, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una distancia insignificante que no requiere esfuerzo en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Más de 4000 kilómetros.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Menos de 1000 metros a lo largo del bosque de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Exactamente 500 millas náuticas sobre el océano cerca de Colegio Nacional Bernardo Valdivieso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia recorrida se menciona de manera directa en el texto literal: 'más de 4000 kilómetros'.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v6",
+      "statement": "Lea el siguiente fragmento: 'El ferrocarril transandino ecuatoriano, obra impulsada por el general Eloy Alfaro, conectó de forma definitiva las ciudades de Guayaquil y Quito en el año 1908, transformando la economía de Machala'. Según el texto, ¿en qué año se conectaron estas dos ciudades?",
+      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Machala, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el año 2008 tras la reconstrucción moderna en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "En el año 1908.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Durante la época colonial del siglo XVIII en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "A mediados del siglo XIX por Gabriel García Moreno en el Colegio Nacional Nueve de Octubre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta se encuentra explícita en el fragmento textual de manera directa: 'en el año 1908'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v7",
+      "statement": "Considere este texto: 'Elena, estudiante del Colegio Nacional Maldonado en Esmeraldas, obtuvo una beca completa de estudios científicos tras desarrollar un filtro purificador de agua que remueve metales pesados utilizando cáscara de coco'. De acuerdo con el fragmento, ¿qué materia prima utilizó Elena para construir su filtro?",
+      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Esmeraldas, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cáscara de coco.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Fibras sintéticas de poliéster de Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Carbón mineral activado importado por el Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Arena sílica del río de Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto indica de manera literal e inequívoca el insumo natural empleado: 'utilizando cáscara de coco'.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v8",
+      "statement": "Lea el extracto: 'La literatura modernista del Ecuador tuvo como principales referentes a los jóvenes poetas de la Generación Decapitada, quienes se inspiraron en el simbolismo francés y fallecieron a temprana edad en Santo Domingo'. ¿De qué corriente europea recibieron inspiración directa estos poetas según el texto?",
+      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Santo Domingo, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del neoclasicismo español tradicional en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Del simbolismo francés.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Del romanticismo inglés medieval en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Del realismo mágico latinoamericano en el Colegio Nacional Olmedo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La información está expresada textualmente: 'quienes se inspiraron en el simbolismo francés'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v9",
+      "statement": "Considere el anuncio: 'La empresa municipal de Quito suspenderá el servicio de agua en los sectores de El Vecino y San Sebastián el día martes desde las 14:00 por reparación de tuberías en Colegio Nacional Mejía'. ¿En qué sectores de la ciudad ocurrirá la suspensión?",
+      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Quito, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En toda la provincia de Quito de forma indefinida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente en el sector industrial cerca del Colegio Nacional Mejía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "En el centro histórico de Quito y Guayaquil y Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "En El Vecino y San Sebastián.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La respuesta requiere identificar datos explícitos del texto: los sectores nombrados son 'El Vecino y San Sebastián'.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v10",
+      "statement": "Lea: 'La mariposa monarca recorre más de 4000 kilómetros desde Canadá hasta México para reproducirse en los bosques de oyamel antes de llegar a Guayaquil'. ¿Qué distancia total recorre la mariposa monarca en su migración según el fragmento?",
+      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Guayaquil, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una distancia insignificante que no requiere esfuerzo en Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Más de 4000 kilómetros.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Menos de 1000 metros a lo largo del bosque de Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Exactamente 500 millas náuticas sobre el océano cerca de Colegio Nacional Vicente Rocafuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia recorrida se menciona de manera directa en el texto literal: 'más de 4000 kilómetros'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v11",
+      "statement": "Lea el siguiente fragmento: 'El ferrocarril transandino ecuatoriano, obra impulsada por el general Eloy Alfaro, conectó de forma definitiva las ciudades de Guayaquil y Quito en el año 1908, transformando la economía de Cuenca'. Según el texto, ¿en qué año se conectaron estas dos ciudades?",
+      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Cuenca, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el año 2008 tras la reconstrucción moderna en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "En el año 1908.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Durante la época colonial del siglo XVIII en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "A mediados del siglo XIX por Gabriel García Moreno en el Colegio Benigno Malo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta se encuentra explícita en el fragmento textual de manera directa: 'en el año 1908'.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v12",
+      "statement": "Considere este texto: 'Estefanía, estudiante del Colegio Nacional Bolívar en Ambato, obtuvo una beca completa de estudios científicos tras desarrollar un filtro purificador de agua que remueve metales pesados utilizando cáscara de coco'. De acuerdo con el fragmento, ¿qué materia prima utilizó Estefanía para construir su filtro?",
+      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ambato, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cáscara de coco.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Fibras sintéticas de poliéster de Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Carbón mineral activado importado por el Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Arena sílica del río de Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto indica de manera literal e inequívoca el insumo natural empleado: 'utilizando cáscara de coco'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v13",
+      "statement": "Lea el extracto: 'La literatura modernista del Ecuador tuvo como principales referentes a los jóvenes poetas de la Generación Decapitada, quienes se inspiraron en el simbolismo francés y fallecieron a temprana edad en Manta'. ¿De qué corriente europea recibieron inspiración directa estos poetas según el texto?",
+      "context": "Ana, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Manta, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del neoclasicismo español tradicional en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Del simbolismo francés.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Del romanticismo inglés medieval en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Del realismo mágico latinoamericano en el Unidad Educativa Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La información está expresada textualmente: 'quienes se inspiraron en el simbolismo francés'.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v14",
+      "statement": "Considere el anuncio: 'La empresa municipal de Loja suspenderá el servicio de agua en los sectores de El Vecino y San Sebastián el día martes desde las 14:00 por reparación de tuberías en Colegio Nacional Manta'. ¿En qué sectores de la ciudad ocurrirá la suspensión?",
+      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Loja, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En toda la provincia de Loja de forma indefinida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente en el sector industrial cerca del Colegio Nacional Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "En el centro histórico de Quito y Guayaquil y Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "En El Vecino y San Sebastián.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La respuesta requiere identificar datos explícitos del texto: los sectores nombrados son 'El Vecino y San Sebastián'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v15",
+      "statement": "Lea: 'La mariposa monarca recorre más de 4000 kilómetros desde Canadá hasta México para reproducirse en los bosques de oyamel antes de llegar a Riobamba'. ¿Qué distancia total recorre la mariposa monarca en su migración según el fragmento?",
+      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Riobamba, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una distancia insignificante que no requiere esfuerzo en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Más de 4000 kilómetros.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Menos de 1000 metros a lo largo del bosque de Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Exactamente 500 millas náuticas sobre el océano cerca de Colegio Nacional Bernardo Valdivieso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia recorrida se menciona de manera directa en el texto literal: 'más de 4000 kilómetros'.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v16",
+      "statement": "Lea el siguiente fragmento: 'El ferrocarril transandino ecuatoriano, obra impulsada por el general Eloy Alfaro, conectó de forma definitiva las ciudades de Guayaquil y Quito en el año 1908, transformando la economía de Ibarra'. Según el texto, ¿en qué año se conectaron estas dos ciudades?",
+      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ibarra, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el año 2008 tras la reconstrucción moderna en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "En el año 1908.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Durante la época colonial del siglo XVIII en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "A mediados del siglo XIX por Gabriel García Moreno en el Colegio Nacional Nueve de Octubre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta se encuentra explícita en el fragmento textual de manera directa: 'en el año 1908'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v17",
+      "statement": "Considere este texto: 'María, estudiante del Colegio Nacional Maldonado en Portoviejo, obtuvo una beca completa de estudios científicos tras desarrollar un filtro purificador de agua que remueve metales pesados utilizando cáscara de coco'. De acuerdo con el fragmento, ¿qué materia prima utilizó María para construir su filtro?",
+      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Portoviejo, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cáscara de coco.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Fibras sintéticas de poliéster de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Carbón mineral activado importado por el Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Arena sílica del río de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto indica de manera literal e inequívoca el insumo natural empleado: 'utilizando cáscara de coco'.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v18",
+      "statement": "Lea el extracto: 'La literatura modernista del Ecuador tuvo como principales referentes a los jóvenes poetas de la Generación Decapitada, quienes se inspiraron en el simbolismo francés y fallecieron a temprana edad en Machala'. ¿De qué corriente europea recibieron inspiración directa estos poetas según el texto?",
+      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Machala, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del neoclasicismo español tradicional en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Del simbolismo francés.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Del romanticismo inglés medieval en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Del realismo mágico latinoamericano en el Colegio Nacional Olmedo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La información está expresada textualmente: 'quienes se inspiraron en el simbolismo francés'.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v19",
+      "statement": "Considere el anuncio: 'La empresa municipal de Esmeraldas suspenderá el servicio de agua en los sectores de El Vecino y San Sebastián el día martes desde las 14:00 por reparación de tuberías en Colegio Nacional Mejía'. ¿En qué sectores de la ciudad ocurrirá la suspensión?",
+      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Esmeraldas, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En toda la provincia de Esmeraldas de forma indefinida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente en el sector industrial cerca del Colegio Nacional Mejía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "En el centro histórico de Quito y Guayaquil y Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "En El Vecino y San Sebastián.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La respuesta requiere identificar datos explícitos del texto: los sectores nombrados son 'El Vecino y San Sebastián'.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle-v20",
+      "statement": "Lea: 'La mariposa monarca recorre más de 4000 kilómetros desde Canadá hasta México para reproducirse en los bosques de oyamel antes de llegar a Santo Domingo'. ¿Qué distancia total recorre la mariposa monarca en su migración según el fragmento?",
+      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Santo Domingo, practica la identificación precisa de datos, fechas y nombres explícitos en lecturas andinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una distancia insignificante que no requiere esfuerzo en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Más de 4000 kilómetros.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Menos de 1000 metros a lo largo del bosque de Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Exactamente 500 millas náuticas sobre el océano cerca de Colegio Nacional Vicente Rocafuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia recorrida se menciona de manera directa en el texto literal: 'más de 4000 kilómetros'.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "EC-LEN-11-2026-W05-comprension-literal-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

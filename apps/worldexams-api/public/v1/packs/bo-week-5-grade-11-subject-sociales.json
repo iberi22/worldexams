@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "bo",
+    "pack_id": "bo-week-5-grade-11-subject-sociales",
+    "generated_at": "2026-08-04T01:24:49.581Z"
+  },
+  "questions": [
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las tres grandes cuencas hidrográficas en las que se divide el territorio de Bolivia?",
+      "context": "En Oruro, el estudiante Jhonny del Colegio Bolívar estudia los sistemas de drenaje fluvial del territorio de Bolivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cuenca Amazónica, la cuenca del Plata y la cuenca Cerrada o Lacustre.",
+          "is_correct": true,
+          "feedback": "Correcto. Bolivia posee tres grandes vertientes hidrográficas: la Amazónica (norte y este), la del Plata (sur) y la cuenca Cerrada o Lacustre (altiplano, que incluye al lago Titicaca y Poopó)."
+        },
+        {
+          "letter": "B",
+          "text": "La cuenca del Pacífico, la cuenca del Caribe y la cuenca del Atlántico norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia no tiene salida directa soberana al océano Pacífico en la actualidad ni cuenta con ríos que drenen al mar Caribe o al Atlántico norte."
+        },
+        {
+          "letter": "C",
+          "text": "La cuenca del Misisipi, la cuenca del Amazonas y la cuenca del Orinoco andino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río Misisipi y el Orinoco se encuentran en América del Norte y Venezuela, fuera del territorio boliviano."
+        },
+        {
+          "letter": "D",
+          "text": "La cuenca del río Loa, la cuenca del río Desaguadero y la cuenca del canal de Panamá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Loa está en Chile, el canal de Panamá es centroamericano; no representan las tres grandes cuencas nacionales de Bolivia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hidrografía de Bolivia es de inmensa importancia para el desarrollo productivo. La cuenca Amazónica es la más extensa, abarcando ríos caudalosos como el Beni, Mamoré e Iténez; la del Plata conecta con el Atlántico vía el río Paraguay, y la Cerrada alberga ecosistemas andinos únicos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se dividen las tres principales macro-regiones geográficas y fisiográficas de Bolivia?",
+      "context": "En Santa Cruz, la estudiante Roxana de la Unidad Educativa Don Bosco analiza la diversidad de relieves geográficos del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La zona Andina o Altiplánica, la zona Subandina o de los Valles, y la zona de los Llanos Orientales o Amazonía.",
+          "is_correct": true,
+          "feedback": "Correcto. El relieve boliviano cuenta con tres zonas diferenciadas: la Andina (puna fría y altiplano), la Subandina (valles y yungas templados) y la de los Llanos (oriente cálido y húmedo)."
+        },
+        {
+          "letter": "B",
+          "text": "La estepa siberiana, el desierto del Sahara boliviano y la selva del Congo andino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una absurda mezcla de nombres geográficos de Asia y África que no guardan relación con la geografía de Bolivia."
+        },
+        {
+          "letter": "C",
+          "text": "La península del Litoral, la cordillera del Himalaya boliviano y la cuenca del Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Himalaya está en Asia, la cuenca del Caribe en Centroamérica; son nombres ajenos al territorio nacional de Bolivia."
+        },
+        {
+          "letter": "D",
+          "text": "La pampa argentina boliviana, el delta del Missisipi y la meseta patagónica del norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa regiones geográficas distantes de Norteamérica y el extremo sur de la Patagonia, fuera de Bolivia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La geografía de Bolivia es una de las más diversas y complejas del continente. Desde las altas cumbres nevadas de la Cordillera Real hasta las sabanas inundables del Beni y Chiquitos, el país posee una asombrosa variedad climática y de recursos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "¿Qué distribución espacial de recursos naturales estratégicos caracteriza la geografía económica tradicional de Bolivia?",
+      "context": "En Sucre, la estudiante Marisol de la Unidad Educativa Mariscal Sucre investiga los recursos minerales tradicionales de la cordillera frente a los recursos de los llanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los recursos minerales tradicionales (plata, estaño, zinc) se concentran en el altiplano y la cordillera occidental, mientras que los hidrocarburos (gas natural y petróleo) se ubican en el subandino y los llanos del sudeste.",
+          "is_correct": true,
+          "feedback": "Correcto. La minería metálica ha sido tradicionalmente andina y cordillerana (Potosí, Oruro, La Paz), mientras que los yacimientos más ricos de gas natural y petróleo se sitúan en Tarija, Santa Cruz y Chuquisaca."
+        },
+        {
+          "letter": "B",
+          "text": "Los yacimientos de litio se ubican en las copas de los árboles de la selva amazónica del norte del Beni.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El litio es un mineral lacaustre salino; se concentra en los salares altiplánicos (Salar de Uyuni y Coipasa), no en selvas."
+        },
+        {
+          "letter": "C",
+          "text": "El gas natural se extrae de las profundidades del lago Titicaca y la plata de los árboles de castaña del Acre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lago Titicaca no es el centro productor de gas, y la castaña es un fruto amazónico silvestre de recolección de las selvas del norte de Bolivia, no de minas de plata."
+        },
+        {
+          "letter": "D",
+          "text": "Toda la riqueza de hidrocarburos de Bolivia se concentra en el Salar de Uyuni y el estaño en las costas de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estaño boliviano se ubica en las minas andinas centrales y el Salar de Uyuni es el epicentro del litio mundial, no de gas natural o estaño chileno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta asimetría geográfica en la distribución de recursos naturales ha moldeado la política y el desarrollo regional en Bolivia. En el siglo XX, el eje económico del país se desplazó gradualmente de la minería altiplánica al auge hidrocarburífero y agroindustrial del oriente (Santa Cruz y Tarija).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se define ecológicamente la región de los 'Yungas' en la geografía de Bolivia?",
+      "context": "En Cochabamba, el estudiante Walter del Colegio Nacional Junín analiza las características biogeográficas de los Yungas paceños y cochabambinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una zona de transición húmeda e hiper-diversa de selva de montaña en las pendientes orientales de los Andes, templada y lluviosa.",
+          "is_correct": true,
+          "feedback": "Correcto. Los Yungas actúan como laderas o fajas de transición que descienden de la cordillera andina hacia las tierras bajas amazónicas, caracterizadas por su alta pluviosidad, neblina constante y aptitud para cultivos tradicionales como la coca y el café."
+        },
+        {
+          "letter": "B",
+          "text": "Un desierto árido y plano desprovisto de agua dulce ubicado en el límite fronterizo con el Paraguay.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chaco Boreal es semiárido, pero los Yungas son selvas de montaña extremadamente húmedas y lluviosas."
+        },
+        {
+          "letter": "C",
+          "text": "Una meseta helada y cubierta de nieve de forma perpetua donde solo se puede criar pingüinos árticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mesetas andinas heladas corresponden a la puna y cumbres nevadas, ajenas a la selva tropical templada de los Yungas y a los pingüinos."
+        },
+        {
+          "letter": "D",
+          "text": "Un delta fluvial marítimo libre de montañas ubicado a orillas del océano Atlántico norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia es un país mediterráneo de la vertiente andina continental central; no posee deltas marítimos propios en el Atlántico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los Yungas desempeñan un papel crucial como reguladores hídricos y térmicos del territorio boliviano. La humedad que asciende de la Amazonía choca contra la Cordillera de los Andes en esta zona, generando lluvias torrenciales y una inmensa biodiversidad de especies de flora y fauna.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "¿Qué consecuencia directa tiene el derretimiento acelerado de los glaciares andinos (como el glaciar Tuni Condoriri) para las ciudades de La Paz y El Alto?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho estudia el retroceso de los glaciares en la Cordillera Real de los Andes bolivianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pone en grave riesgo el abastecimiento futuro de agua potable para el consumo de la población y el riego de cultivos locales.",
+          "is_correct": true,
+          "feedback": "Correcto. Los glaciares de la Cordillera Real funcionan como reservorios naturales que liberan agua de deshielo de manera constante; su retroceso debido al calentamiento global amenaza la seguridad hídrica de la conurbación paceña."
+        },
+        {
+          "letter": "B",
+          "text": "La inundación masiva e inmediata de todo el Salar de Uyuni con agua salada hirviendo procedente del subsuelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El deshielo de glaciares andinos paceños fluye a cuencas locales y a la Amazonía, sin relación geográfica con el lejano Salar de Uyuni."
+        },
+        {
+          "letter": "C",
+          "text": "La erupción de volcanes de estaño fundido a lo largo del altiplano potosino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los volcanes andinos no erupcionan estaño fundido por el deshielo glaciar; la minería es un proceso artificial humano."
+        },
+        {
+          "letter": "D",
+          "text": "El enfriamiento drástico de la selva amazónica del Beni, convirtiéndola en una tundra ártica perpetua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derretimiento no genera inviernos polares en la selva baja tropical amazónica boseña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retroceso glaciar en Bolivia es uno de los indicadores más alarmantes del cambio climático global. Afecta no solo la dotación de agua de las ciudades de La Paz y El Alto, sino también a la generación de energía hidroeléctrica de los valles yungueños.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "¿Qué características geológicas y de recursos estratégicos distinguen al Salar de Uyuni en el contexto de la economía del siglo XXI?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia la geografía del Salar de Uyuni y la cuenca cerrada del altiplano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la mayor planicie de sal del planeta y alberga una de las reservas de litio más grandes del mundo en sus salmueras profundas.",
+          "is_correct": true,
+          "feedback": "Correcto. El Salar de Uyuni es un inmenso desierto de sal de origen evaporítico que concentra inmensas reservas mundiales de litio, magnesio, potasio y boro, esenciales para la transición energética global."
+        },
+        {
+          "letter": "B",
+          "text": "Es un lago de agua dulce navegable que sirve de puerto principal a la flota pesquera nacional de Bolivia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El salar es una costra de sal sólida y desértica, no un lago navegable de agua dulce; el lago navegable andino es el Titicaca."
+        },
+        {
+          "letter": "C",
+          "text": "Es una mina subterránea de carbón de piedra explotada de forma exclusiva por ingenieros de la corona del Brasil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contiene carbón de piedra ni pertenece al Brasil; es una salina superficial de soberanía exclusiva de Bolivia."
+        },
+        {
+          "letter": "D",
+          "text": "Es una selva tropical lluviosa rica en yacimientos de diamantes y castaña silvestre de exportación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Salar de Uyuni se sitúa en la puna semiárida andina, un ecosistema frío y desértico, opuesto a la selva tropical del Beni."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Salar de Uyuni (situado a 3,650 msnm en el departamento de Potosí) representa no solo un atractivo paisajístico mundial, sino el epicentro de la estrategia de industrialización soberana del litio de Bolivia, un insumo clave para las baterías de vehículos eléctricos de la era moderna.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fruto silvestre de recolección de las selvas del norte de Bolivia destaca como un recurso de exportación sostenible y de alto impacto socioeconómico?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza la geografía de la cuenca amazónica boliviana y sus recursos forestales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La castaña de Bolivia o nuez del Brasil, recolectada en los bosques nativos de Pando, Beni y el norte de La Paz.",
+          "is_correct": true,
+          "feedback": "Correcto. Bolivia es el principal exportador mundial de castaña amazónica sin cultivar (Bertholletia excelsa), una actividad silvestre recolectora sostenible que sustenta la economía del norte amazónico del país."
+        },
+        {
+          "letter": "B",
+          "text": "El cacao de altura importado que se siembra en las orillas heladas de la laguna del Titicaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Titicaca es un lago andino helado no apto para cultivar cacao amazónico, que es una especie de clima tropical húmedo."
+        },
+        {
+          "letter": "C",
+          "text": "El cultivo intensivo de aceitunas mediterráneas en los salares secos del altiplano potosino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se siembran aceitunas en salares andinos secos como Uyuni por razones de extrema salinidad e incompatibilidad vegetal."
+        },
+        {
+          "letter": "D",
+          "text": "La recolección masiva de uvas desérticas silvestres en la desembocadura de los ríos del Chaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El norte amazónico boliviano es zona de selva tropical, no de uvas desérticas del Chaco."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A diferencia de otras regiones amazónicas donde impera la deforestación ganadera, la economía de la castaña en Bolivia ha permitido conservar millones de hectáreas de bosque nativo en pie, ya que el árbol de castaña requiere de la selva intacta para dar frutos y ser polinizado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "Si analizamos los valles interandinos y la zona del Chaco en Tarija, ¿qué característica climática y productiva fundamental define el departamento de Tarija?",
+      "context": "En Tarija, el estudiante René del Colegio Nacional San Luis estudia la geografía del Chaco boliviano y sus recursos energéticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un clima templado ideal para la viticultura y el cultivo de la vid en los valles centrales, contrastando con las llanuras chaqueñas secas del este ricas en yacimientos de gas natural.",
+          "is_correct": true,
+          "feedback": "Correcto. Tarija cuenta con valles templados fértiles (famosos por sus viñedos de altura y la producción de vinos y singanis) y una llanura chaqueña cálida en el oriente del departamento que alberga los megacampos de gas natural de Bolivia."
+        },
+        {
+          "letter": "B",
+          "text": "Un clima polar andino que congela la tierra e impide todo cultivo agrícola, subsistiendo del comercio de pieles de foca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El departamento de Tarija tiene valles templados y llanuras chaqueñas calurosas; no posee costas con focas ni clima polar ártico."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de selvas de inundación perpetua donde solo se cultiva caucho silvestre y caña de azúcar por mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen deltas marítimos en Tarija ni selvas de inundación como el norte del Beni; es una región chaqueña y de valles secos andinos."
+        },
+        {
+          "letter": "D",
+          "text": "El cultivo exclusivo de quinua real en las dunas de sal de las playas de Antofagasta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Antofagasta es un puerto de Chile fuera del territorio actual de Bolivia y Tarija se sitúa en los valles del sur boliviano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tarija es una región de marcados contrastes geográficos. Mientras el valle central goza de un microclima benigno que impulsa la agroindustria vitivinícola, la provincia Gran Chaco contiene formaciones geológicas subandinas que contienen las mayores reservas de gas del país (Campos San Alberto, Margarita, Sabalo).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "¿Qué impacto ambiental grave y de salud pública genera el auge de la minería aurífera aluvial mecanizada en los ríos Beni, Madre de Dios y Orthon?",
+      "context": "En Cobija, la estudiante Shirley de la Unidad Educativa Mariscal Sucre analiza la problemática de los ríos de la cuenca amazónica del norte boliviano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contaminación por mercurio de las aguas y los peces, afectando gravemente la salud de las comunidades indígenas nativas y la biodiversidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso descontrolado de mercurio por las barcazas que extraen oro del lecho de los ríos amazónicos contamina las cadenas alimentarias fluviales, acumulándose en los peces consumidos por las comunidades nativas."
+        },
+        {
+          "letter": "B",
+          "text": "La sequía total e inmediata de los cauces debido al bombeo de agua dulce hacia las playas de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ríos amazónicos de Bolivia fluyen hacia el norte del Brasil y el Atlántico; no se bombean hacia Chile a través de la Cordillera de los Andes."
+        },
+        {
+          "letter": "C",
+          "text": "El congelamiento perpetuo de los ríos amazónicos debido a la acumulación de estaño metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estaño no congela el agua de los ríos y la Amazonía posee temperaturas tropicales cálidas constantes durante todo el año."
+        },
+        {
+          "letter": "D",
+          "text": "La proliferación de tiburones blancos gigantes procedentes del lago navegable de La Paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen tiburones en el lago Titicaca andino ni en ríos de la Amazonía boliviana; es una distracción biológica disparatada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La explotación informal de oro aluvial en la Amazonía boliviana representa uno de los mayores desafíos ambientales contemporáneos de Bolivia. El mercurio arrojado al río es transformado por bacterias en metilmercurio, un compuesto altamente neurotóxico que se bioacumula en la cadena trófica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "Si aplicamos el análisis de la geografía lacustre a la cuenca cerrada del altiplano, ¿qué factores geográficos e históricos desencadenaron la desecación crítica del lago Poopó en 2015?",
+      "context": "En Oruro, la estudiante Nancy del Colegio Nacional Florida estudia el desastre ecológico del lago Poopó en el altiplano central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una combinación de sequías severas por el fenómeno de El Niño, el cambio climático, la desviación de aguas tributarias para riego y la sedimentación minera.",
+          "is_correct": true,
+          "feedback": "Correcto. El lago Poopó, de escasa profundidad, sufrió una crisis de desecación extrema por sequías prolongadas, aumento de temperaturas evaporativas, sedimentación y desvíos agrícolas del río Desaguadero."
+        },
+        {
+          "letter": "B",
+          "text": "La explosión nuclear subterránea provocada por ejércitos extranjeros en las profundidades del lago navegable Titicaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo explosiones nucleares ni militares de ningún tipo en los lagos andinos de Bolivia; la causa de la desecación es climática e hidrológica."
+        },
+        {
+          "letter": "C",
+          "text": "El drenaje total de sus aguas por un túnel secreto excavado por la corona española en el siglo XVII para buscar plata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una fantasía novelesca sin ningún fundamento geológico o histórico; no existen túneles coloniales secretos que drenen el lago Poopó."
+        },
+        {
+          "letter": "D",
+          "text": "La invasión masiva de ballenas azules gigantes que bebieron la totalidad de su agua dulce en una semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ballenas azules habitan de manera exclusiva en los océanos marinos; no viven ni beben el agua de lagos altiplánicos andinos salobres."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lago Poopó, el segundo más grande de Bolivia, colapsó ecológicamente en 2015, transformándose en un páramo de sal arcillosa. Este desastre destruyó el ecosistema de pesca, forzando el éxodo de las comunidades indígenas Uru-Murato, los habitantes más antiguos del altiplano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "¿Qué controversia geopolítica e hidrológica enfrentó a Bolivia y Chile ante la Corte Internacional de Justicia (CIJ) sobre el uso de las aguas del Silala?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza las tensiones del uso del agua de las vertientes binacionales del Silala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bolivia sostenía que eran manantiales cuyas aguas fueron canalizadas artificialmente hacia Chile, mientras que Chile argumentaba que era un río de curso internacional con derecho a uso equitativo.",
+          "is_correct": true,
+          "feedback": "Correcto. La disputa por el Silala (vertientes ubicadas en Potosí) se centró en si el flujo hídrico correspondía a un sistema de bofedales canalizado de forma artificial o a un río internacional natural, caso resuelto por el fallo de la CIJ en 2022."
+        },
+        {
+          "letter": "B",
+          "text": "Un conflicto militar marítimo por el cobro de peajes de entrada de submarinos de guerra chilenos al lago Titicaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile no tiene acceso al lago Titicaca andino ni opera submarinos de guerra en aguas lacustres bolivianas."
+        },
+        {
+          "letter": "C",
+          "text": "El intento de Chile de comprar el Salar de Uyuni completo a cambio de carbón vegetal para las minas de estaño paceñas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existió ninguna oferta de compra del Salar de Uyuni por Chile ni el estaño paceño funciona con carbón de ese tipo."
+        },
+        {
+          "letter": "D",
+          "text": "El desacuerdo sobre el cultivo masivo de castaña amazónica en las cumbres nevadas de la Cordillera Real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las castañas son plantas tropicales que crecen en las tierras bajas amazónicas del Beni y Pando, no en las cumbres andinas nevadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La controversia del Silala concluyó con el fallo de la CIJ de 2022, que determinó que ambas naciones concuerdan en que las aguas del Silala fluyen naturalmente a través de la frontera por efecto de la gravedad, teniendo tanto Chile como Bolivia derecho a un uso equitativo y razonable.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "¿Qué proceso geográfico y de intervención humana amenaza de forma constante la sostenibilidad productiva de las tierras agrícolas de los Valles Centrales de Cochabamba?",
+      "context": "En Cochabamba, la estudiante Shirley del Colegio San Simón analiza la vulnerabilidad de los suelos cultivables en el valle cochabambino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rápida expansión de la mancha urbana sobre tierras agrícolas fértiles y la deforestación de laderas que causa erosión severa de suelos.",
+          "is_correct": true,
+          "feedback": "Correcto. Cochabamba, históricamente el granero de Bolivia, sufre de pérdida acelerada de sus mejores tierras cultivables de valle debido al crecimiento inmobiliario descontrolado de las urbes del eje metropolitano (Cochabamba, Quillacollo, Sacaba)."
+        },
+        {
+          "letter": "B",
+          "text": "La acumulación de ceniza volcánica procedente del lago Poopó andino central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lago Poopó es un cuerpo de agua salobre evaporado, no un volcán activo que emita ceniza volcánica."
+        },
+        {
+          "letter": "C",
+          "text": "El cultivo exclusivo de vicuñas de altura que consumen la totalidad del agua de las represas cochabambinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vicuñas son animales silvestres andinos protegidos que no se cultivan en corrales ni agotan las represas de agua del valle central."
+        },
+        {
+          "letter": "D",
+          "text": "La total abolición de la agricultura para forzar a la población a vivir de la exportación de diamantes marinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen yacimientos de diamantes marinos en los valles interandinos terrestres de Bolivia y la economía agropecuaria es vital."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los valles interandinos de Bolivia poseen suelos de gran calidad pero con un relieve accidentado. La presión demográfica urbana reduce la frontera agrícola, mientras que las prácticas de tala en laderas para pastoreo aceleran deslaves y desertificación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "Al analizar la expansión de la frontera agrícola en el norte integrado y este del departamento de Santa Cruz, ¿cuál es el cultivo de monocultivo industrial predominante y cuáles son sus impactos ambientales más cuestionados?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar examina el dinamismo del sector agroindustrial en el oriente del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La soya transgénica de exportación, asociada con la deforestación masiva del bosque seco chiquitano, pérdida de biodiversidad y degradación de suelos.",
+          "is_correct": true,
+          "feedback": "Correcto. Santa Cruz de la Sierra es el motor agroindustrial del país, concentrando grandes plantaciones mecanizadas de soya y girasol que generan enormes divisas por exportación pero a costo de acelerar la deforestación de bosques nativos (Chiquitanía y Amazonía)."
+        },
+        {
+          "letter": "B",
+          "text": "La siembra masiva de quinua real en las dunas inundables de los ríos amazónicos del norte del Beni.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quinua real se produce de manera exclusiva en el ecosistema frío y árido del altiplano andino sur (Oruro y Potosí), no en la Amazonía."
+        },
+        {
+          "letter": "C",
+          "text": "El cultivo de arroz de secano en las cumbres nevadas del Illimani paceño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El arroz requiere climas cálidos y abundante agua en tierras bajas orientales, imposible de cultivar en cumbres andinas cubiertas de nieve."
+        },
+        {
+          "letter": "D",
+          "text": "La reforestación de la selva chiquitana con pinos importados del Ártico canadiense para extraer celulosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agroindustria cruceña expande cultivos comerciales de soya y ganadería, no proyectos de plantaciones forestales canadienses."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo productivo agroindustrial cruceño ha transformado la geografía económica de Bolivia. Sin embargo, los prolongados incendios forestales anuales en la Chiquitanía revelan la aguda contradicción entre la búsqueda de ganancias agrarias inmediatas y la preservación ecológica de los ecosistemas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "¿Qué contradicción conceptual de la geografía andina tradicional corrige la teoría del 'control vertical de pisos ecológicos' al analizar el poblamiento prehispánico?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza la teoría del 'control vertical de pisos ecológicos' de John Murra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corrige el determinismo geográfico que consideraba a la puna andina fría como un espacio de escasez inhabitable, demostrando que fue el centro político y poblacional gracias a la integración ecológica.",
+          "is_correct": true,
+          "feedback": "Correcto. El control vertical probó que las sociedades andinas no estaban aisladas por el relieve andino hostil; al contrario, dominaban el relieve usándolo de forma vertical para integrar la producción del altiplano, valles y costa, logrando un alto grado de desarrollo civilizatorio."
+        },
+        {
+          "letter": "B",
+          "text": "Corrige la creencia de que los incas viajaban diariamente por aire entre los llanos del Beni y la costa del Pacífico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existía el transporte aéreo en la era prehispánica; el control vertical funcionaba mediante desplazamientos peatonales y caravanas de llamas."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la quinua andina se produce mejor en climas tropicales lluviosos a orillas del río Amazonas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quinua andina se adapta específicamente a suelos áridos y bajas temperaturas del altiplano, no a selvas tropicales húmedas."
+        },
+        {
+          "letter": "D",
+          "text": "Prueba que el altiplano de Bolivia nunca albergó poblaciones sedentarias y que toda la historia andina es un mito de origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abundantes restos arqueológicos (como la gran metrópoli de Tiwanaku) confirman asentamientos urbanos masivos y milenarios en el altiplano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "John Murra demostró que el archipiélago vertical andino constituía una magnífica respuesta civilizatoria a las condiciones extremas de la cordillera. Rompió la idea del determinismo geográfico europeo, probando que el relieve montañoso, en vez de un obstáculo insalvable, fue un motor de complementariedad productiva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "¿Qué contradicción socio-ambiental divide a los regantes de los valles agrícolas de Chuquisaca y Potosí de las cooperativas mineras que operan en las alturas del altiplano?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia las repercusiones ambientales de la minería en las cabeceras de cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso intensivo de agua dulce y el vertido de lodos con metales pesados (ácidos de mina y cianuro) que contaminan los ríos que riegan los valles agrícolas de abajo.",
+          "is_correct": true,
+          "feedback": "Correcto. Las cooperativas mineras altiplánicas lavan sus minerales vertiendo efluentes contaminados con metales pesados en los ríos (como el río Pilcomayo), inutilizando el agua para la agricultura y ganadería de los valles templados de abajo."
+        },
+        {
+          "letter": "B",
+          "text": "La disputa por ver cuál de los dos sectores produce más cantidad de castaña amazónica de exportación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las castañas crecen en el norte amazónico del país (Beni y Pando), no en las alturas mineras de Potosí o los valles áridos chuquisaqueños."
+        },
+        {
+          "letter": "C",
+          "text": "La exigencia de los mineros de que los agricultores utilicen de manera obligatoria tractores importados del Japón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal exigencia tecnológica; las tensiones son hidrológicas reales por contaminación y uso crítico del agua dulce."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del catolicismo que pretenden imponer las cooperativas mineras para forzar la fe budista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cooperativistas mineros rinden culto sincrético al Tío de la mina (deidad del subsuelo) y son católicos, sin relación con el budismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El conflicto por el agua y la contaminación minera revela las asimetrías de poder de la geografía productiva boliviana. Las cooperativas mineras gozan de un gran peso político y eluden controles ambientales, perjudicando de forma irreversible la producción y salud alimentaria de los pequeños agricultores de los valles interandinos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "Al analizar la ampliación de la frontera agrícola y ganadera en las llanuras del Beni, ¿cuál es la contradicción ecológica entre el ciclo de inundación natural y el modelo agropecuario intensivo?",
+      "context": "En El Alto, el estudiante Walter de la Unidad Educativa Juan Pablo II analiza el impacto ambiental de la ganadería en las sabanas del Beni.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ciclo de inundación natural de Moxos fertiliza el suelo de forma pasiva, mientras que la ganadería intensiva compacta la tierra, destruye bosques de galería y exige desvíos de agua que alteran el equilibrio ecológico.",
+          "is_correct": true,
+          "feedback": "Correcto. Las llanuras del Beni dependen de las inundaciones estacionales para regenerar nutrientes del suelo; la introducción de ganadería pesada mecanizada destruye la vegetación de galería y compacta el limo, acelerando la erosión y mermando la resiliencia natural del ecosistema tropical."
+        },
+        {
+          "letter": "B",
+          "text": "La introducción forzada de camélidos andinos (llamas) que mueren ahogados por las mareas del océano Pacífico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las llamas habitan el altiplano seco y frío andino, no se introducen en masa en llanuras del Beni; además, Bolivia no tiene costas marítimas actuales con mareas del Pacífico."
+        },
+        {
+          "letter": "C",
+          "text": "La total abolición de la ganadería vacuna para forzar la cría de osos polares importados del polo norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es viable criar osos polares en el clima tropical cálido del Beni, representando un supuesto ecológico absurdo."
+        },
+        {
+          "letter": "D",
+          "text": "La exigencia del Ministerio de Educación de prohibir la pesca de anchoveta en las playas secas de Potosí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El departamento de Potosí se ubica en el altiplano terrestre andino y no posee playas marítimas para la pesca de anchoveta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las tierras bajas bolivianas albergan ecosistemas de gran delicadeza. El manejo prehispánico de Moxos mediante lomas y canales respetaba y potenciaba el ciclo de inundación, en franco contraste con el extractivismo agropecuario contemporáneo que depreda los bosques de galería y agota la biodiversidad del Beni.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "Al juzgar éticamente las responsabilidades e impactos del cambio climático en los recursos naturales de Bolivia, ¿cuál de las siguientes afirmaciones posee mayor sustento geográfico y social?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín evalúa los desafíos ambientales globales de Bolivia frente al calentamiento del planeta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bolivia sufre de manera desproporcionada los efectos del calentamiento global (retroceso glaciar, sequías e incendios) a pesar de ser un país de bajísimas emisiones de carbono a escala mundial.",
+          "is_correct": true,
+          "feedback": "Correcto. Bolivia se encuentra en una situación de alta vulnerabilidad climática: el derretimiento de glaciares andinos y la sequía de bofedales amenazan la supervivencia comunal andina, revelando la injusticia climática global que afecta a países en desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "Bolivia es el principal causante del calentamiento global debido al uso masivo de energía nuclear en las minas de estaño de Oruro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia no tiene plantas de energía nuclear operando en la minería de estaño ni es un gran emisor de carbono internacional."
+        },
+        {
+          "letter": "C",
+          "text": "El cambio climático en Bolivia es puramente artificial y se puede solucionar importando hielo del polo norte en barcazas fluviales por el río Mamoré.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Importar hielo de forma fluvial desde el polo norte es físicamente imposible, absurdo y no soluciona el calentamiento planetario de los Andes."
+        },
+        {
+          "letter": "D",
+          "text": "La desaparición de los glaciares andinos no tiene ninguna importancia productiva, ya que las ciudades andinas se abastecen de agua salada desalinizada de las playas de La Paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lago navegable Titicaca y los bofedales son de agua dulce; La Paz no cuenta con playas marítimas saladas ni plantas de desalinización oceánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación del impacto del cambio climático en Bolivia devela una profunda crisis ética y ambiental. Los bofedales altiplánicos andinos y la fauna de camélidos (llamas, alpacas) sufren severas sequías periódicas, mermando las condiciones básicas de vida de las comunidades tradicionales andinas que han preservado el territorio por siglos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.53,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "Al juzgar de manera integral las consecuencias de la mediterraneidad geográfica de Bolivia sobre su comercio exterior e industrialización, ¿cuál de las siguientes conclusiones posee mayor validez historiográfica y económica?",
+      "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha evalúa la mediterraneidad física de Bolivia desde una perspectiva de desarrollo macroeconómico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de un acceso soberano al mar impone un costo transaccional permanente que resta competitividad a las exportaciones bolivianas y limita su inserción directa en el comercio marítimo global.",
+          "is_correct": true,
+          "feedback": "Correcto. Estudios económicos confirman que los países mediterráneos sufren un 'impuesto geográfico' por fletes, trámites y demoras en puertos de terceros países (como Arica e Iquique en Chile), restándoles competitividad comercial internacional."
+        },
+        {
+          "letter": "B",
+          "text": "La mediterraneidad ha sido sumamente beneficiosa porque impidió que las ballenas oceánicas invadieran el Salar de Uyuni.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ballenas oceánicas no invaden salares andinos secos y altos; la mediterraneidad es una limitación económica grave, no un beneficio ecológico de ese tipo."
+        },
+        {
+          "letter": "C",
+          "text": "Bolivia es un país soberano del mar debido a que posee puertos marítimos gigantes construidos en las riberas del lago Poopó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lago Poopó es una cuenca lacustre andina interior poco profunda y salobre, no un océano con puertos de ultramar marítimos de libre tránsito."
+        },
+        {
+          "letter": "D",
+          "text": "La mediterraneidad obligó a Bolivia a construir la mayor flota de portaaviones nucleares del planeta en el río Pilcomayo del Chaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río Pilcomayo es poco caudaloso e inapto para portaaviones nucleares, y Bolivia no posee portaaviones marítimos debido a su enclaustramiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mediterraneidad forzada de Bolivia tras la Guerra del Pacífico representa un obstáculo estructural histórico. Obliga al país a depender de la voluntad política y aduanera de Chile y Perú para exportar sus recursos, encareciendo insumos e imposibilitando la consolidación de un polo industrial soberano.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar geopolíticamente el proyecto de industrialización soberana del litio en Uyuni, ¿cuál es el principal desafío estratégico que enfrenta el Estado de Bolivia ante el mercado transnacional de baterías?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez valora de forma crítica el dilema del litio en el Salar de Uyuni.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superar las barreras de transferencia tecnológica y de enorme inversión de capital para refinar el litio localmente y fabricar baterías en vez de limitarse a exportar materia prima bruta.",
+          "is_correct": true,
+          "feedback": "Correcto. El dilema de Uyuni radica en superar el modelo puramente primario-exportador extractivista andino colonial. Requiere el desarrollo de tecnología propia y plantas industriales de gran envergadura para fabricar cátodos y baterías terminadas, rompiendo la dependencia histórica."
+        },
+        {
+          "letter": "B",
+          "text": "Evitar que las salmueras de Uyuni se evaporen por completo y se transformen en minas profundas de carbón de piedra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El litio se encuentra en salmueras y no se transforma en carbón de piedra por la evaporación solar; son depósitos minerales distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Asegurar que los camélidos andinos (llamas) aprendan a operar la maquinaria automatizada de extracción de las barcazas del salar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las llamas son camélidos domésticos de pastoreo altiplánico, no operarios mecánicos de plantas industriales de litio."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir la exportación de litio a Europa para comercializar de forma exclusiva con el extinguido imperio azteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imperio azteca desapareció en el siglo XVI; el comercio exterior boliviano opera con potencias mundiales reales contemporáneas (China, Europa, EE.UU.)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El litio de Bolivia representa una inmensa esperanza económica pero también un riesgo geopolítico. Las salmueras de Uyuni poseen altas concentraciones de magnesio, lo que exige procesos químicos complejos de purificación, requiriendo alianzas estratégicas soberanas sin caer en el neocolonialismo corporativo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "Al juzgar la controversia por la construcción de la carretera que pretendía cruzar el corazón del TIPNIS, ¿qué tensión estructural de la geografía del desarrollo en Bolivia se devela?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Bolívar evalúa críticamente el dilema de la carretera a través del TIPNIS (Territorio Indígena y Parque Nacional Isiboro Sécure).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contradicción entre la visión estatal de integración territorial y desarrollo vial frente a los derechos colectivos de autodeterminación de las comunidades indígenas y la preservación ecológica de las reservas naturales.",
+          "is_correct": true,
+          "feedback": "Correcto. El conflicto del TIPNIS (que conecta Cochabamba con el Beni) evidenció la profunda fisura entre el modelo extractivista desarrollista estatal (promovido por colonizadores cocaleros) y los derechos de conservación ambiental e identidad indígena de las tierras bajas."
+        },
+        {
+          "letter": "B",
+          "text": "La disputa entre pescadores de anchoveta de La Paz y mineros de estaño de Potosí por el control de la cuenca del Plata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El TIPNIS es una reserva de selva tropical inundable entre Cochabamba y el Beni, sin relación con anchovetas paceñas o la cuenca del Plata."
+        },
+        {
+          "letter": "C",
+          "text": "El rechazo de los pueblos indígenas del Beni a que el Estado de Bolivia construyera un aeropuerto espacial de la NASA en la cordillera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se planteó un aeropuerto espacial de la NASA en las selvas del Isiboro Sécure; el debate versaba sobre una carretera terrestre vial."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del idioma castellano decretada por los indígenas mojeños de tierras bajas para imponer el latín eclesiástico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mojeños no decretaron tal prohibición lingüística del castellano ni pretendían imponer el latín eclesiástico de las misiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El TIPNIS se constituyó en el gran debate socio-ambiental de la Bolivia contemporánea. Pusó a prueba las contradicciones del discurso plurinacional, enfrentando la agenda desarrollista de infraestructura con la preservación real de los bosques amazónicos y las formas de vida tradicionales indígenas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "BO-SOC-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "historia",
+    "country": "cl",
+    "pack_id": "cl-week-4-grade-11-subject-historia",
+    "generated_at": "2026-08-04T05:18:13.745Z"
+  },
+  "questions": [
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "¿Qué corporación estatal estratégica fundó el gobierno del presidente Pedro Aguirre Cerda en 1839 (readecuado a 1939) con el doble propósito de reconstruir la zona afectada e industrializar el país?",
+      "context": "Diego y su abuelo conversan en Chillán sobre los grandes hitos de reconstrucción nacional tras el desastroso terremoto de Chillán en enero de 1939.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Corporación del Cobre (CODELCO).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Codelco fue creada en la década de 1970 bajo la nacionalización de la gran minería, no en 1939."
+        },
+        {
+          "letter": "B",
+          "text": "La Corporación de Fomento de la Producción (CORFO).",
+          "is_correct": true,
+          "feedback": "Correcto. El gobierno de Pedro Aguirre Cerda creó la CORFO en abril de 1939 para liderar la reconstrucción tras el terremoto y pilotar la industrialización por sustitución de importaciones (modelo ISI)."
+        },
+        {
+          "letter": "C",
+          "text": "La Compañía de Acero del Pacífico (CAP).",
+          "is_correct": false,
+          "feedback": "Incorrecto. CAP es una de las industrias filiales creadas bajo el amparo de la CORFO posteriormente, pero no la corporación matriz fundadora de 1939."
+        },
+        {
+          "letter": "D",
+          "text": "El Ministerio de Salud Pública del Bío Bío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si bien se crearon instituciones sanitarias, la corporación central de desarrollo económico industrial fue la CORFO."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El terremoto de Chillán de 1939 asoló la zona centro-sur del país. Esto motivó al Congreso a aprobar la propuesta del Frente Popular para crear la CORFO, una entidad de planificación estatal clave para industrializar a Chile.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál fue el lema oficial del gobierno de Pedro Aguirre Cerda que resumía su prioridad por expandir la cobertura de la enseñanza pública fiscal chilena?",
+      "context": "Sofía estudia la famosa frase emblemática que caracterizó el programa político y social del gobierno del presidente radical Pedro Aguirre Cerda (1938-1941).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Orden y Patria para las provincias'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este lema corresponde históricamente a Carabineros de Chile y no al gobierno radical de Aguirre Cerda."
+        },
+        {
+          "letter": "B",
+          "text": "'La tierra para el que la trabaja'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este fue el eslogan agrario de los procesos de Reforma Agraria en las décadas de 1960 y 1970."
+        },
+        {
+          "letter": "C",
+          "text": "'Gobernar es educar'.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Gobernar es educar' fue el pilar de Aguirre Cerda, quien concebía a la educación fiscal pública como el principal motor de progreso social e industrialización de la población."
+        },
+        {
+          "letter": "D",
+          "text": "'Industrializar sin límites mercantiles'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el gobierno de Aguirre Cerda impulsó la industrialización, el lema presidencial emblemático de su mandato fue educativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como maestro y abogado, Pedro Aguirre Cerda impulsó el lema 'Gobernar es educar'. Durante su mandato del Frente Popular se abrieron más de mil escuelas públicas primarias, liceos y se fortaleció notablemente el rol de la educación técnica del Estado chileno.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "¿Qué empresa estatal estratégica creada por el impulso de la CORFO descubrió petróleo en Tierra del Fuego en 1945 y asumió el monopolio de refinación de combustibles?",
+      "context": "En la Región de Magallanes, Martina analiza la historia del abastecimiento de hidrocarburos e industrialización energética en Chile a mediados del siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Empresa Nacional de Electricidad (ENDESA).",
+          "is_correct": false,
+          "feedback": "Incorrecto. ENDESA fue la filial encargada del desarrollo de centrales hidroeléctricas, no del petróleo."
+        },
+        {
+          "letter": "B",
+          "text": "La Empresa Nacional del Petróleo (ENAP).",
+          "is_correct": true,
+          "feedback": "Correcto. ENAP se creó tras el descubrimiento de petróleo en el pozo Springhill de Tierra del Fuego en diciembre de 1945, asumiendo la explotación e industrialización de los hidrocarburos chilenos."
+        },
+        {
+          "letter": "C",
+          "text": "La Industria Azucarera Nacional (IANSA).",
+          "is_correct": false,
+          "feedback": "Incorrecto. IANSA fue la filial dedicada a la refinación y producción de azúcar a partir de remolacha."
+        },
+        {
+          "letter": "D",
+          "text": "La Sociedad de Fomento Fabril (SOFOFA).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La SOFOFA es una asociación gremial privada patronal fundada en el siglo XIX, no una empresa pública del petróleo nacida en la pampa austral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El descubrimiento de petróleo en Springhill (Tierra del Fuego) en 1945 motivó al Estado a dotar al país de autonomía energética. Se creó ENAP en 1950 bajo el alero de la CORFO, construyendo refinerías claves en Concón (Refinería Aconcagua) y Biobío.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "De acuerdo con el informe de la Liga de las Naciones de la época, ¿cuál fue la principal razón por la que Chile fue catalogado como el país más afectado del mundo por la crisis de 1929?",
+      "context": "Benjamín repasa las consecuencias económicas globales de la Gran Depresión de 1929 en el modelo exportador chileno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pérdida absoluta de todos los bosques nativos de la Patagonia por erupciones volcánicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crisis del 29 no tuvo un origen de desastre forestal ecológico."
+        },
+        {
+          "letter": "B",
+          "text": "El colapso total de la demanda internacional de salitre y cobre, lo que detuvo las exportaciones e interrumpió de golpe los ingresos del fisco.",
+          "is_correct": true,
+          "feedback": "Correcto. La economía nacional dependía de un monocultivo exportador minero. Al cerrarse los mercados globales, el precio del salitre y cobre se desplomó, paralizando las mineras norteñas y desatando desocupación, hambruna y quiebra fiscal."
+        },
+        {
+          "letter": "C",
+          "text": "La invasión de naves mercantes de origen español en la bahía de Valparaíso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo invasión de España en 1929; la crisis fue puramente macroeconómica, financiera y productiva de los mercados de divisas."
+        },
+        {
+          "letter": "D",
+          "text": "La nacionalización unilateral y sin indemnización de todas las haciendas del Valle Central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El latifundio agrícola agrario no sufrió cambios sustanciales en su estructura de propiedad privada en 1929."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La vulnerabilidad chilena residía en su extrema dependencia de los mercados financieros internacionales y del impuesto aduanero salitrero. El crac de Wall Street de 1929 clausuró el financiamiento foráneo y contrajo el comercio exterior chileno en más de un 80%, forzando al país a repensar su modelo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "¿Qué objetivo de soberanía productiva perseguía el modelo de desarrollo ISI al restringir el ingreso de manufacturas importadas extranjeras al mercado chileno?",
+      "context": "En una biblioteca municipal de Temuco, Vicente analiza el surgimiento del modelo de 'Industrialización por Sustitución de Importaciones' (ISI) implementado a partir de 1939.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformar a Chile en una economía puramente agrícola feudal, importadora de trigo germánico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo ISI buscaba la diversificación fabril e industrial urbana del país, no volver a una economía agraria colonial."
+        },
+        {
+          "letter": "B",
+          "text": "Producir internamente los bienes de consumo e industriales básicos para reducir la extrema dependencia comercial del mercado externo.",
+          "is_correct": true,
+          "feedback": "Correcto. El fin era fabricar localmente hilados, alimentos refinados, energía, acero y electrodomésticos, protegiendo a las industrias chilenas mediante aranceles aduaneros altos a los productos importados."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir el funcionamiento del ferrocarril de la Araucanía de forma definitiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ferrocarril continuó expandiéndose bajo la estatal Empresa de los Ferrocarriles del Estado (EFE)."
+        },
+        {
+          "letter": "D",
+          "text": "Regalar todas las reservas de carbón de Lota al gobierno de Gran Bretaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo ISI buscaba proteger el carbón y la siderurgia nacionales (como la CAP en Talcahuano) de la competencia externa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modelo ISI (o industrialización 'hacia adentro') se basó en el diagnóstico de que depender únicamente de exportar recursos naturales (como salitre y cobre) y comprar manufacturas importadas empobrecía los términos de intercambio de Chile, requiriendo un vigoroso rol regulador e inversor del Estado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "¿Qué hito institucional de salud pública se creó en el año 1952 unificando diversos organismos de beneficencia y previsión obrera para brindar cobertura de salud universal?",
+      "context": "En un simposio sobre el Estado de Bienestar en Santiago, Isidora estudia las leyes de seguridad social dictadas a mediados de siglo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Servicio Nacional de Salud (SNS).",
+          "is_correct": true,
+          "feedback": "Correcto. En 1952 se fundó el SNS, inspirado en el modelo de salud británico, el cual unificó los servicios de beneficencia pública, el seguro obrero y la medicina preventiva, creando la red de salud pública universal chilena."
+        },
+        {
+          "letter": "B",
+          "text": "La Corporación de la Vivienda (CORVI).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CORVI fue una institución destinada al desarrollo inmobiliario y habitacional obrero, no al servicio de salud."
+        },
+        {
+          "letter": "C",
+          "text": "El Fondo Nacional de Salud de la Armada de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La armada cuenta con sistemas de salud de orden castrense particulares, diferentes del SNS universal."
+        },
+        {
+          "letter": "D",
+          "text": "La Asociación Chilena de Seguridad Social Agraria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta mutualidad de accidentes del trabajo pertenece a organismos mutuales privados del siglo XX tardío."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La creación del Servicio Nacional de Salud (SNS) en 1952 bajo el gobierno de Gabriel González Videla constituyó el pilar social más relevante del Estado de Bienestar. Permitió integrar bajo una misma autoridad la medicina preventiva, curativa y de fomento de higiene, bajando ostensiblemente la mortalidad infantil nacional.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué se eligió la bahía de San Vicente en Talcahuano (Región del Biobío) como la ubicación geográfica idónea para instalar la gran usina siderúrgica de Huachipato en 1947?",
+      "context": "Analizando la siderurgia nacional de Chile, Catalina estudia la puesta en marcha de la Compañía de Acero del Pacífico (CAP) y la planta de Huachipato en Talcahuano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por encontrarse a escasos metros del desierto de Atacama para el secado rápido del acero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Talcahuano está en el sur de Chile, muy alejado del desierto nortino de Atacama."
+        },
+        {
+          "letter": "B",
+          "text": "Para evitar que la población obrera de Santiago tuviera acceso a televisores nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guarda relación con la industria televisiva de la época de posguerra."
+        },
+        {
+          "letter": "C",
+          "text": "Por la cercanía a los yacimientos de carbón de Lota y Coronel para el combustible de los altos hornos, y las ventajas portuarias de calado marino para el abastecimiento de hierro.",
+          "is_correct": true,
+          "feedback": "Correcto. Huachipato requería carbón metalúrgico de Lota, caliza del sur e hierro extraído de Coquimbo por vía marítima. La bahía abrigada de Talcahuano ofrecía puertos, agua dulce abundante e infraestructura obrera de primer nivel."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el gobierno pretendía ceder toda la siderurgia a la República Argentina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. CAP era un proyecto de soberanía industrial puramente nacional de Chile coordinado por la CORFO."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La usina de Huachipato fue inaugurada en 1950, constituyendo la cumbre del esfuerzo industrializador del modelo ISI. La geografía de la Región del Biobío conjugó el abastecimiento de energía (carbón de Lota) y conectividad marítima y ferroviaria, transformando a la provincia en el polo industrial de Chile.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "¿Qué sector socio-profesional de la población chilena creció vigorosamente y se transformó en la base electoral de apoyo para los gobiernos del Partido Radical durante esta era?",
+      "context": "Al leer textos de historia política del siglo XX en Valparaíso, Sofía analiza el periodo de los Gobiernos Radicales (1938-1952).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los terratenientes conservadores ausentistas dueños de grandes haciendas trigueras del sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos latifundistas apoyaban a los partidos Liberal y Conservador tradicionales, opuestos al Frente Popular."
+        },
+        {
+          "letter": "B",
+          "text": "Los peones agrícolas de origen indígena analfabetos de la provincia de Arauco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al carecer de educación civil básica y alfabetismo, estaban marginados del voto o sometidos al cohecho patronal."
+        },
+        {
+          "letter": "C",
+          "text": "La clase media urbana, compuesta por profesores del Estado, burócratas fiscales, profesionales y empleados del comercio.",
+          "is_correct": true,
+          "feedback": "Correcto. El Partido Radical propició el crecimiento del aparato administrativo fiscal, del Estado docente y las empresas de la CORFO, promoviendo el ascenso y consolidación de las clases medias urbanas letradas."
+        },
+        {
+          "letter": "D",
+          "text": "Los dueños británicos de las oficinas salitreras del puerto de Iquique.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los empresarios británicos ya estaban en retirada tras el colapso del salitre, y eran ajenos a las clases medias locales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La expansión del aparato fiscal y del Estado docente bajo los radicales redundó en la consolidación de la clase media en Chile. El acceso a la educación secundaria, técnica y universitaria pública proveyó de profesionales idóneos para poblar la administración pública de las empresas filiales de la CORFO.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "¿Qué plan estratégico lideró ENDESA a partir de la década de 1940 para asegurar que el desarrollo fabril del modelo ISI no sufriera cuellos de botella energéticos?",
+      "context": "Un estudiante de la Universidad de Chile analiza la creación de la Empresa Nacional de Electricidad (ENDESA) en 1943.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Plan de Electrificación Nacional, orientado a construir grandes centrales hidroeléctricas aprovechando los caudalosos ríos de la zona centro-sur del país.",
+          "is_correct": true,
+          "feedback": "Correcto. ENDESA diseñó y ejecutó el Plan de Electrificación Nacional, levantando represas y plantas generadoras (como Pilmaiquén, Abanico y la cuenca del Laja) para llevar fluido eléctrico constante a los hogares y fábricas de las ciudades."
+        },
+        {
+          "letter": "B",
+          "text": "La importación de carbón térmico barato de origen peruano de baja calidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. ENDESA buscaba precisamente diversificar la matriz para no depender del carbón local, explotando el agua de la cordillera."
+        },
+        {
+          "letter": "C",
+          "text": "La instalación de miles de generadores eólicos de madera en los cerros de Valparaíso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología eólica de madera no fue un proyecto del plan de electrificación estatal de los años 40."
+        },
+        {
+          "letter": "D",
+          "text": "El traslado forzoso de la sede de la CORFO a la cordillera de la Región Metropolitana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sede se mantuvo en la capital por motivos burocráticos y la electrificación fue de escala nacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El carbón de Lota poseía límites de extracción y altos costos. ENDESA, filial de la CORFO de planificación visionaria, comprendió que el potencial hídrico de la geografía del sur de Chile (alimentado por deshielos cordilleranos y lluvias abundantes) constituía la base para dotar de energía eléctrica limpia e inagotable al progreso nacional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "¿Qué beneficio agrario y de diversificación comercial trajo consigo el fomento de la plantación de la remolacha azucarera por parte de IANSA en las provincias de la zona central?",
+      "context": "En Talca, Matías estudia el surgimiento de la Industria Azucarera Nacional (IANSA) bajo la égida corporativa de la CORFO en 1953.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terminó con las exportaciones de cobre de la mina de El Teniente de forma definitiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gran minería del cobre continuó su curso financiero productivo exportador."
+        },
+        {
+          "letter": "B",
+          "text": "Permitió erradicar por completo el cultivo de viñedos en las provincias de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitivinicultura prosiguió con éxito; la remolacha se introdujo como cultivo de rotación agraria complementaria."
+        },
+        {
+          "letter": "C",
+          "text": "Permitió terminar con la dependencia de la importación de azúcar de caña refinada extranjera y dinamizó la agricultura con cultivos de rotación en el campo.",
+          "is_correct": true,
+          "feedback": "Correcto. IANSA introdujo el cultivo a gran escala de la remolacha en valles de Talca, Ñuble y Linares, entregando contratos estables de compra a agricultores chilenos y permitiendo al país sustituir la importación de azúcar externa."
+        },
+        {
+          "letter": "D",
+          "text": "Hizo que Chile le declarara la guerra comercial a las refinerías de azúcar de remolacha de la Patagonia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la Patagonia no se cultiva remolacha por motivos de clima riguroso gélido austral."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La creación de IANSA ejemplifica la estrategia ISI de sustituir compras al exterior por producción interna para mitigar la fuga de divisas. Al refinar azúcar localmente a partir de la remolacha, se dinamizó la rotación tecnológica agraria nacional y se crearon miles de empleos estables en el campo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "¿Qué prioridad de política urbana abordó la Caja de la Habitación Popular para erradicar las precarias condiciones higiénicas del proletariado?",
+      "context": "Martina analiza un afiche publicitario estatal de 1944 donde se promueve la 'Caja de la Habitación Popular' de los gobiernos de centro-izquierda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La construcción planificada de poblaciones obreras y colectivos habitacionales dotados de agua corriente y luz eléctrica en zonas próximas a las industrias.",
+          "is_correct": true,
+          "feedback": "Correcto. La Caja de la Habitación Popular lideró el tránsito de los conventillos insalubres hacia las primeras 'viviendas sociales dignas' o poblaciones planificadas por el Estado para familias de clase trabajadora, provistas de saneamiento y áreas verdes."
+        },
+        {
+          "letter": "B",
+          "text": "El traslado obligatorio de todas las industrias manufactureras a la cordillera de los Andes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las industrias debían mantenerse próximas a los puertos e infraestructura de transporte de los centros urbanos chilenos."
+        },
+        {
+          "letter": "C",
+          "text": "La privatización de todos los hospitales públicos adscritos al SNS.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El SNS consolidó el sistema público nacional estatal, sin privatizaciones de salud en la época."
+        },
+        {
+          "letter": "D",
+          "text": "La demolición de todas las escuelas públicas del Frente Popular por decreto presidencial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por el contrario, el gobierno radical de Pedro Aguirre Cerda e instituciones de vivienda colaboraban para asegurar liceos cercanos a los conjuntos de viviendas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La urbanización acelerada empujó al Estado a intervenir de forma directa en el mercado de viviendas. La Caja de la Habitación Popular, antecesora del Ministerio de Vivienda, diseñó colectivos habitacionales obreros modernos en Santiago, Valparaíso y Concepción, buscando erradicar la indigencia sanitaria.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.56,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "¿Qué sector de activismo cívico de mujeres, liderado por intelectuales como Elena Caffarena en el Movimiento Pro-Emancipación de las Mujeres de Chile (MEMCH), empujó la aprobación del voto femenino universal?",
+      "context": "Isidora investiga los debates en torno a la promulgación de la Ley de Sufragio Femenino Presidencial en el año 1949 en Chile.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ala ultraconservadora pro-clerical partidaria de mantener los mayorazgos coloniales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sectores más conservadores mostraron resistencias iniciales por temor a la secularización, aunque luego el voto se aprobó transversalmente."
+        },
+        {
+          "letter": "B",
+          "text": "El feminismo ilustrado y progresista de organizaciones sufragistas y del MEMCH, que reclamaba igualdad plena de derechos civiles, políticos y laborales.",
+          "is_correct": true,
+          "feedback": "Correcto. Las agrupaciones feministas (como el MEMCH de Caffarena y la FECHIF de Amanda Labarca) articularon por décadas la lucha que forzó al presidente radical Gabriel González Videla a promulgar el sufragio pleno femenino en 1949."
+        },
+        {
+          "letter": "C",
+          "text": "Las milicias campesinas de la cordillera del Nahuelbuta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue un movimiento intelectual, civil, urbano y político nacional de mujeres articuladas en federaciones sufragistas."
+        },
+        {
+          "letter": "D",
+          "text": "La junta de accionistas ingleses de los ferrocarriles salitreros del norte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían vinculaciones de la directiva minera inglesa con el activismo sufragista laico de Caffarena."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sufragio femenino municipal se aprobó en 1934. La lucha tenaz del MEMCH y la FECHIF logró consagrar el voto pleno para las elecciones presidenciales y parlamentarias en 1949, duplicando el padrón electoral y ensanchando de forma sustantiva la democracia chilena.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "¿Qué drástica proscripción política y civil impuso esta ley, apodada por la opinión crítica como la 'Ley Maldita'?",
+      "context": "Un seminario sobre la Guerra Fría en Chile analiza la controvertida promulgación de la 'Ley de Defensa Permanente de la Democracia' en 1948 por Gabriel González Videla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La disolución definitiva del Partido Radical en el Congreso Nacional de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Partido Radical continuó gobernando; la ley fue promovida por el propio mandatario radical."
+        },
+        {
+          "letter": "B",
+          "text": "La declaración de ilegalidad del Partido Comunista de Chile, borrando a sus militantes de los registros electorales y persiguiendo a dirigentes obreros en campos de confinamiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 8.987 de 1948 borró al Partido Comunista de la vida democrática nacional bajo la presión geopolítica de la Guerra Fría con EE.UU., apresando y confinando a sus militantes (como en el campamento de Pisagua), a pesar de que este partido había integrado el gabinete inicial del presidente."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición constitucional de exportar cobre refinado a los mercados de Europa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No prohibía la exportación de cobre refinado, el cual siguió fluyendo a Occidente."
+        },
+        {
+          "letter": "D",
+          "text": "El retiro definitivo del sufragio de toda la población de hombres letrados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La restricción del voto no afectó a todos los hombres, sino estrictamente a quienes militaban o simpatizaban con el ideario comunista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La 'Ley Maldita' de 1948 reflejó el impacto de la Guerra Fría en la política doméstica de Chile. González Videla, presionado por los flujos financieros de EE.UU., rompió su alianza de izquierda, proscribió a los comunistas y los recluyó en prisiones de alta frontera, generando un profundo quiebre democrático en el país.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "¿Qué limitación macroeconómica o debilidad estructural comenzó a evidenciar el modelo ISI de Chile en la década de 1950 tras agotar su fase fácil de industrialización de bienes de consumo ligeros?",
+      "context": "Sofía examina un gráfico de la balanza comercial de Chile entre 1950 y 1960 en la Biblioteca Nacional de Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La extrema dependencia de la importación de maquinaria industrial sofisticada (bienes de capital) y tecnología pesada, que seguía requiriendo divisas del cobre.",
+          "is_correct": true,
+          "feedback": "Correcto. Chile fabricaba alimentos, azúcar y textiles, pero no producía maquinaria industrial avanzada, motores ni tecnología compleja. Al depender de importar estos bienes de capital, el país requería divisas que solo aportaba la exportación minera del cobre, perpetuando el carácter monoproductor dependiente."
+        },
+        {
+          "letter": "B",
+          "text": "La escasez absoluta de energía hidroeléctrica por falta de cordillera de los Andes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. ENDESA construyó con enorme éxito una robusta red hidroeléctrica, por lo que la geografía de la cordillera no fue el cuello de botella estructural de la balanza de pagos."
+        },
+        {
+          "letter": "C",
+          "text": "La abolición del latifundio en todas las provincias de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El latifundio continuó casi intacto en los años 50, bloqueando irónicamente el despegue agrícola alimentario de la ISI."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición absoluta del comercio minorista privado de legumbres en Concepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comercio privado minorista de víveres operaba libremente en las provincias de Concepción sin interferencias de este cariz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo ISI chileno mostró debilidades hacia fines de los 50. La 'fase fácil' (sustitución de bienes de consumo diario) se estancó por la estrechez del mercado interno nacional debido a la pobreza rural, y la incapacidad nacional de saltar a la 'fase difícil' (industria pesada y de maquinaria) sin divisas abundantes forzó una aguda crisis inflacionaria.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "¿Qué fin formativo y de desarrollo económico pretendía cubrir el Estado al fusionar diversas escuelas de artes y oficios para erigir la UTE en 1947?",
+      "context": "Al analizar la educación pública chilena del siglo XX, Benjamín estudia el rol histórico de la Universidad Técnica del Estado (UTE) fundada en 1947.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituir la formación científica por la enseñanza de teología católica medieval.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Partido Radical impulsaba un Estado eminentemente laico y de mentalidad científica técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Formar diplomáticos de carrera que negociaran la cesión de la Patagonia chilena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo era puramente de capacitación técnico-industrial nacional y no de relaciones exteriores australes."
+        },
+        {
+          "letter": "C",
+          "text": "Proveer de técnicos calificados, ingenieros industriales y especialistas que requería el vigoroso proceso de industrialización impulsado por la CORFO.",
+          "is_correct": true,
+          "feedback": "Correcto. La UTE nació para democratizar el acceso universitario a los hijos de la clase obrera y media, dotando a las empresas estatales de la CORFO (como la CAP o ENDESA) de mano de obra experta en tecnología aplicada y ciencias exactas."
+        },
+        {
+          "letter": "D",
+          "text": "Clausurar todas las carreras de ingeniería de la Universidad de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Universidad de Chile y la UTE convivieron y colaboraron en el desarrollo científico nacional bajo el financiamiento del Estado docente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fundación de la UTE en 1947 bajo Gabriel González Videla constituyó el eslabón educativo superior del modelo ISI. Permitió canalizar la enseñanza técnica e industrial aplicada, facilitando la movilidad social de las clases trabajadoras hacia puestos profesionales intermedios de alta especialización.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "A la luz de los problemas del modelo ISI, ¿cómo repercutía el atraso de la gran propiedad terrateniente del Valle Central en la espiral inflacionaria que afectó a Chile en los años 50?",
+      "context": "Martina analiza un informe agrario chileno de 1950 que alerta sobre la baja productividad de las haciendas del Valle Central de Chile.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El latifundio ineficiente no producía suficientes alimentos para abastecer a la creciente población urbana, obligando al Estado a gastar valiosas divisas en importar comida.",
+          "is_correct": true,
+          "feedback": "Correcto. La hacienda tradicional chilena subexplotaba las tierras fértiles con técnicas tradicionales arcaicas. El desabastecimiento alimentario forzó a importar trigo y carne, encareciendo la vida y vaciando las arcas fiscales de divisas vitales para la ISI."
+        },
+        {
+          "letter": "B",
+          "text": "Los latifundistas regalaban la totalidad de las legumbres producidas a los obreros de Lota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las legumbres y productos del campo se vendían en mercados urbanos a precios cada vez más altos debido a la escasez."
+        },
+        {
+          "letter": "C",
+          "text": "El latifundio nacionalizó de manera voluntaria el agua para dársela a ENDESA.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hacendados defendían tenazmente sus derechos privados sobre el agua y la tierra, impidiendo reformas agrarias."
+        },
+        {
+          "letter": "D",
+          "text": "El Congreso prohibió que las familias campesinas abandonaran los predios de la cordillera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peonaje rural continuaba migrando libremente a las urbes, lo que agravaba la sobredemanda de víveres en Santiago."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desajuste estructural entre una economía industrial urbana moderna (modelo ISI) y una estructura agraria feudal e improductiva (latifundio) fue el gran dilema del periodo. El déficit crónico de producción agrícola local obligó a Chile a desviar divisas del cobre a la importación de alimentos, acelerando la devaluación y la inflación de los años 50.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa con mayor rigor el impacto histórico de la CORFO en la diversificación y modernización de la estructura productiva chilena a mediados del siglo XX?",
+      "context": "Durante un seminario sobre desarrollo económico comparado en Santiago, se evalúa críticamente la labor corporativa de la CORFO entre 1939 y 1955.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La CORFO fue un absoluto fracaso porque destruyó todas las líneas férreas y puertos de Valparaíso en 1940.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por el contrario, la CORFO potenció la infraestructura portuaria, de transporte y energética del país."
+        },
+        {
+          "letter": "B",
+          "text": "Fue un rotundo éxito institucional en la creación de industrias básicas estratégicas (acero, petróleo, electricidad, azúcar) que dotaron al país de autonomía energética e industrial basilar, a pesar de las limitaciones de inflación y balanza de pagos posteriores.",
+          "is_correct": true,
+          "feedback": "Correcto. El rol planificador y empresarial de la CORFO modernizó a Chile de manera drástica. Al levantar ENDESA, CAP, ENAP e IANSA, se sentaron las bases del desarrollo de posguerra, aunque no lograra extinguir la dependencia exportadora final del cobre."
+        },
+        {
+          "letter": "C",
+          "text": "Su impacto fue nulo dado que Chile volvió voluntariamente a someterse al monopolio comercial español en 1950.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile era una república independiente plenamente soberana y el comercio con España era marginal comparado con EE.UU. y Europa."
+        },
+        {
+          "letter": "D",
+          "text": "La CORFO se limitó a financiar cooperativas de pescadores exclusivos en el Estrecho de Magallanes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus inversiones abarcaban siderurgias, petróleos, redes eléctricas, agricultura química, transporte aéreo y forestación a escala nacional de Chile."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El legado de la CORFO es el más contundente ejemplo de 'Estado empresario' en América Latina. La corporación supo canalizar créditos foráneos (como los del Eximbank) y aranceles domésticos para cimentar la base fabril del país, demostrando capacidad de planificación técnica de largo aliento.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "¿Qué compromiso político o transacción de gobernabilidad entre los radicales y la élite terrateniente (derecha) en el Congreso explica la postergación de la Reforma Agraria y la prohibición práctica de sindicalizar al campesinado rural en la década de 1940?",
+      "context": "Isidora evalúa críticamente la marginación de los sindicatos y campesinos agrícolas chilenos durante el ciclo económico ISI y los gobiernos radicales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mantención de la estructura feudal del campo a cambio de que la derecha en el Congreso aprobara los créditos presupuestarios para financiar la CORFO y la industrialización urbana.",
+          "is_correct": true,
+          "feedback": "Correcto. Los partidos Radical y de izquierda transaron tácitamente con los latifundistas conservadores y liberales: se dejó al agro fuera de las regulaciones sociales del trabajo y se restringió severamente la sindicalización campesina (mediante la Ley 8.811 de 1947), a cambio del apoyo de los votos de derecha para la creación de la CORFO y las industrias urbanas."
+        },
+        {
+          "letter": "B",
+          "text": "Un acuerdo secreto auspiciado por la corona británica para regalar todo el trigo de Valdivia a Escocia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo intervención británica ni española en estas transacciones legislativas nacionales."
+        },
+        {
+          "letter": "C",
+          "text": "La decisión voluntaria de todos los peones del Valle Central de renunciar a la propiedad privada de sus viviendas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peones campesinos aspiraban a la tenencia de la tierra, pero carecían de canales de representación legal por el boicot oligárquico agrario."
+        },
+        {
+          "letter": "D",
+          "text": "La nacionalización absoluta de los yacimientos de cobre de El Teniente en 1940.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las multinacionales estadounidenses (Kennecott y Anaconda) siguieron explotando libremente el cobre en los años 40 sin nacionalizaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El 'pacto portaliano moderno' del Frente Popular implicó la postergación social de la clase trabajadora rural para pacificar el descontento terrateniente y asegurar el financiamiento de la industrialización. La Ley 8.811 de 1947 impuso trabas casi insalvables para la sindicalización agrícola campesina, aislando al campo de los beneficios del Estado de Bienestar.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "A la luz de los indicadores sociales de la época, ¿cómo transformó la expansión del Estado de Bienestar la fisonomía social de Chile hacia el año 1955?",
+      "context": "En un debate en el Liceo emblemático de Concepción, Sebastián evalúa los alcances de la cobertura del Servicio Nacional de Salud (SNS) y de la educación fiscal de mediados del siglo XX en comparación con el Chile oligárquico del siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El país eliminó por completo toda desigualdad de clases y erradicó la pobreza absoluta de las barriadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desigualdad de clases continuó patente y surgieron cordones de pobreza urbana periférica (las 'poblaciones callampas') ante el persistente flujo migratorio rural."
+        },
+        {
+          "letter": "B",
+          "text": "Redujo de manera sustantiva las tasas de analfabetismo y de mortalidad infantil, consolidando a la educación pública y la salud estatal como los canales primordiales de ascenso de las clases medias y obreras.",
+          "is_correct": true,
+          "feedback": "Correcto. El SNS bajó radicalmente la mortandad materno-infantil y erradicó epidemias de cólera y tifus. El robustecimiento de escuelas primarias, liceos públicos y universidades facilitó la profesionalización y movilidad de los sectores populares y medios, legitimando el rol promotor del Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Provocó la bancarrota absoluta de todas las industrias manufactureras del Biobío, regresando al trueque colonial de papas y legumbres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al revés, el modelo ISI y la CAP de Talcahuano dinamizaron las manufacturas metalúrgicas del Biobío."
+        },
+        {
+          "letter": "D",
+          "text": "Hizo que Chile renunciara a toda relación soberana y aduanera con los países de América del Sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile continuó forjando acuerdos aduaneros y diplomáticos de mutua colaboración e integración con naciones vecinas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A mediados del siglo XX, el Estado chileno dejó de ser meramente 'gendarme' u ordenador (del estilo del siglo XIX) para asumir una clara función de justicia social, asumiendo que los derechos a la instrucción, el resguardo de la salud y el derecho a la vivienda constituían prerrogativas sociales básicas inseparables de la soberanía nacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "¿Qué paradoja urbana y habitacional desnudó la emergencia de las tomas de terreno espontáneas (como la toma de La Victoria en Santiago en 1957) frente a los programas de vivienda del Estado de Bienestar?",
+      "context": "Un seminario crítico de historia social en Valparaíso evalúa el surgimiento de las 'poblaciones callampas' y las tomas de terreno a fines de la década de 1940 y durante los años 50.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evidenció que los ritmos de autoconstrucción comunitaria populares superaban con creces la limitada capacidad burocrática y financiera del Estado para dotar de viviendas dignas a la masiva inmigración campo-ciudad.",
+          "is_correct": true,
+          "feedback": "Correcto. Las tomas de terrenos autogestionadas reflejaron la brecha de arrastre habitacional. El Estado de Bienestar planificaba viviendas pero no lograba responder al volumen exponencial de migrantes rurales, forzando a los propios pobladores a organizarse al margen de la ley agraria urbana para autoproveerse de suelo y construir hogares."
+        },
+        {
+          "letter": "B",
+          "text": "Demostró que los pobladores preferían vivir en conventillos sin luz para no pagar impuestos aduaneros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pobladores buscaban desesperadamente acceder a servicios sanitarios de agua limpia y electrificación, luchando por la dignidad habitacional urbana."
+        },
+        {
+          "letter": "C",
+          "text": "Provocó que el Congreso aboliera la propiedad minera de la mina de cobre El Teniente de forma forzada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Teniente continuó operando bajo concesión transnacional de EE.UU. sin vinculaciones directas con las tomas de terreno urbanas de Santiago."
+        },
+        {
+          "letter": "D",
+          "text": "Hizo que las Fuerzas Armadas chilenas entregaran la totalidad de las viviendas fiscales a la corona de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo entregas territoriales a España en absoluto en el siglo XX; las tomas de terreno fueron un proceso popular chileno de alta trascendencia social."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El fenómeno de los pobladores y las tomas de terreno (como La Victoria, mítica toma de 1957) constituyó el nacimiento del movimiento de pobladores urbanos en Chile. Se organizaron comités populares autogestionados de autoconstrucción, presionando activamente al Estado a agilizar la expropiación urbana de suelos rústicos improductivos y consagrar el derecho a la vivienda social.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

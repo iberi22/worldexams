@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "ec",
+    "pack_id": "ec-week-6-grade-11-subject-lengua",
+    "generated_at": "2026-08-04T00:45:03.461Z"
+  },
+  "questions": [
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v1",
+      "statement": "Lea el siguiente texto: 'La noche caía sobre Loja y Santiago caminaba de prisa, mirando de reojo las sombras del parque y sujetando fuertemente su mochila contra su pecho'. ¿Qué se puede inferir sobre el estado emocional de Santiago?",
+      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Loja, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sufre de un dolor muscular severo en los brazos debido al peso de la mochila en Colegio Nacional Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Siente temor, desconfianza o nerviosismo por el entorno y la oscuridad de la noche en Loja.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Está sumamente cansado por haber practicado atletismo en el Colegio Nacional Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Se encuentra feliz buscando amigos para organizar una fiesta nocturna en Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v2",
+      "statement": "Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje obligatorio en el Colegio Nacional Bernardo Valdivieso de Riobamba, el camión de basura común ahora pasa solo una vez por semana por el plantel en lugar de tres'. ¿Qué se deduce del impacto del sistema de reciclaje?",
+      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Riobamba, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los estudiantes ahora arrojan toda la basura en los ríos cercanos de Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Que el colegio Colegio Nacional Bernardo Valdivieso decidió contratar una empresa privada de recolección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Que la cantidad de desechos comunes no reciclables generados por la institución en Riobamba se ha reducido significativamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Que el camión de la basura tiene problemas mecánicos que impiden su tránsito regular por Colegio Nacional Bernardo Valdivieso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v3",
+      "statement": "Lea: 'Cuando Gabriela llegó a su local comercial en Ibarra, vio que el candado de la puerta de ingreso estaba roto y la estantería de los equipos electrónicos se encontraba vacía'. ¿Qué conclusión lógica se puede inferir de este hecho?",
+      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ibarra, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los equipos electrónicos sufrieron un proceso de combustión en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El local comercial en Ibarra fue objeto de un robo de mercadería durante la ausencia de su propietario.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "El dueño decidió regalar todos sus productos a los transeúntes de la avenida en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "La policía de Ibarra confiscó los bienes debido a un trámite administrativo del Colegio Nacional Nueve de Octubre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v4",
+      "statement": "Considere: 'En Portoviejo, el aumento de nubes de color gris oscuro en el cielo andino vino acompañado de un descenso brusco en la presión y el viento comenzó a agitar con violencia las ramas de los eucaliptos cerca de Colegio Nacional Maldonado'.",
+      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Portoviejo, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aumento extremo de la temperatura y sequía solar en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La caída de nieve ártica sobre los valles bajos de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un eclipse total de sol visible en Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "La llegada inminente de una fuerte lluvia o tormenta en la zona andina de Portoviejo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v5",
+      "statement": "Lea: 'A pesar de que el docente del Colegio Nacional Olmedo explicó el tema tres veces de formas distintas en Machala, los estudiantes seguían mirándose entre sí en silencio y nadie se atrevía a levantar la mano para responder la pregunta final'.",
+      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Machala, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quieren que el profesor se retire del Colegio Nacional Olmedo de Machala para tener recreo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "No les interesa la asignatura en Machala debido a que prefieren practicar deportes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Aún persisten dudas o confusión sobre la materia en el aula de Colegio Nacional Olmedo de Machala, y tienen vergüenza de manifestarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Están listos para rendir un examen de nivel universitario de Machala sin contratiempos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v6",
+      "statement": "Lea el siguiente texto: 'La noche caía sobre Esmeraldas y Diana caminaba de prisa, mirando de reojo las sombras del parque y sujetando fuertemente su mochila contra su pecho'. ¿Qué se puede inferir sobre el estado emocional de Diana?",
+      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Esmeraldas, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está sumamente cansado por haber practicado atletismo en el Colegio Nacional Mejía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Se encuentra feliz buscando amigos para organizar una fiesta nocturna en Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Sufre de un dolor muscular severo en los brazos debido al peso de la mochila en Colegio Nacional Mejía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Siente temor, desconfianza o nerviosismo por el entorno y la oscuridad de la noche en Esmeraldas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v7",
+      "statement": "Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje obligatorio en el Colegio Nacional Vicente Rocafuerte de Santo Domingo, el camión de basura común ahora pasa solo una vez por semana por el plantel en lugar de tres'. ¿Qué se deduce del impacto del sistema de reciclaje?",
+      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Santo Domingo, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el colegio Colegio Nacional Vicente Rocafuerte decidió contratar una empresa privada de recolección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Que la cantidad de desechos comunes no reciclables generados por la institución en Santo Domingo se ha reducido significativamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Que el camión de la basura tiene problemas mecánicos que impiden su tránsito regular por Colegio Nacional Vicente Rocafuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Que los estudiantes ahora arrojan toda la basura en los ríos cercanos de Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v8",
+      "statement": "Lea: 'Cuando Rafael llegó a su local comercial en Quito, vio que el candado de la puerta de ingreso estaba roto y la estantería de los equipos electrónicos se encontraba vacía'. ¿Qué conclusión lógica se puede inferir de este hecho?",
+      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Quito, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La policía de Quito confiscó los bienes debido a un trámite administrativo del Colegio Benigno Malo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Los equipos electrónicos sufrieron un proceso de combustión en Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El local comercial en Quito fue objeto de un robo de mercadería durante la ausencia de su propietario.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El dueño decidió regalar todos sus productos a los transeúntes de la avenida en Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v9",
+      "statement": "Considere: 'En Guayaquil, el aumento de nubes de color gris oscuro en el cielo andino vino acompañado de un descenso brusco en la presión y el viento comenzó a agitar con violencia las ramas de los eucaliptos cerca de Colegio Nacional Bolívar'.",
+      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Guayaquil, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La llegada inminente de una fuerte lluvia o tormenta en la zona andina de Guayaquil.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Un aumento extremo de la temperatura y sequía solar en Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La caída de nieve ártica sobre los valles bajos de Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un eclipse total de sol visible en Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v10",
+      "statement": "Lea: 'A pesar de que el docente del Unidad Educativa Santo Domingo explicó el tema tres veces de formas distintas en Cuenca, los estudiantes seguían mirándose entre sí en silencio y nadie se atrevía a levantar la mano para responder la pregunta final'.",
+      "context": "Estefanía, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Cuenca, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aún persisten dudas o confusión sobre la materia en el aula de Unidad Educativa Santo Domingo de Cuenca, y tienen vergüenza de manifestarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Están listos para rendir un examen de nivel universitario de Cuenca sin contratiempos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Quieren que el profesor se retire del Unidad Educativa Santo Domingo de Cuenca para tener recreo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "No les interesa la asignatura en Cuenca debido a que prefieren practicar deportes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v11",
+      "statement": "Lea el siguiente texto: 'La noche caía sobre Ambato y Ana caminaba de prisa, mirando de reojo las sombras del parque y sujetando fuertemente su mochila contra su pecho'. ¿Qué se puede inferir sobre el estado emocional de Ana?",
+      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ambato, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está sumamente cansado por haber practicado atletismo en el Colegio Nacional Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Se encuentra feliz buscando amigos para organizar una fiesta nocturna en Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Sufre de un dolor muscular severo en los brazos debido al peso de la mochila en Colegio Nacional Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Siente temor, desconfianza o nerviosismo por el entorno y la oscuridad de la noche en Ambato.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v12",
+      "statement": "Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje obligatorio en el Colegio Nacional Bernardo Valdivieso de Manta, el camión de basura común ahora pasa solo una vez por semana por el plantel en lugar de tres'. ¿Qué se deduce del impacto del sistema de reciclaje?",
+      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Manta, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el colegio Colegio Nacional Bernardo Valdivieso decidió contratar una empresa privada de recolección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Que la cantidad de desechos comunes no reciclables generados por la institución en Manta se ha reducido significativamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Que el camión de la basura tiene problemas mecánicos que impiden su tránsito regular por Colegio Nacional Bernardo Valdivieso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Que los estudiantes ahora arrojan toda la basura en los ríos cercanos de Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v13",
+      "statement": "Lea: 'Cuando Patricia llegó a su local comercial en Loja, vio que el candado de la puerta de ingreso estaba roto y la estantería de los equipos electrónicos se encontraba vacía'. ¿Qué conclusión lógica se puede inferir de este hecho?",
+      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Loja, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dueño decidió regalar todos sus productos a los transeúntes de la avenida en Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La policía de Loja confiscó los bienes debido a un trámite administrativo del Colegio Nacional Nueve de Octubre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Los equipos electrónicos sufrieron un proceso de combustión en Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El local comercial en Loja fue objeto de un robo de mercadería durante la ausencia de su propietario.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v14",
+      "statement": "Considere: 'En Riobamba, el aumento de nubes de color gris oscuro en el cielo andino vino acompañado de un descenso brusco en la presión y el viento comenzó a agitar con violencia las ramas de los eucaliptos cerca de Colegio Nacional Maldonado'.",
+      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Riobamba, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un eclipse total de sol visible en Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "La llegada inminente de una fuerte lluvia o tormenta en la zona andina de Riobamba.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Un aumento extremo de la temperatura y sequía solar en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "La caída de nieve ártica sobre los valles bajos de Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v15",
+      "statement": "Lea: 'A pesar de que el docente del Colegio Nacional Olmedo explicó el tema tres veces de formas distintas en Ibarra, los estudiantes seguían mirándose entre sí en silencio y nadie se atrevía a levantar la mano para responder la pregunta final'.",
+      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ibarra, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Están listos para rendir un examen de nivel universitario de Ibarra sin contratiempos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Quieren que el profesor se retire del Colegio Nacional Olmedo de Ibarra para tener recreo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "No les interesa la asignatura en Ibarra debido a que prefieren practicar deportes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Aún persisten dudas o confusión sobre la materia en el aula de Colegio Nacional Olmedo de Ibarra, y tienen vergüenza de manifestarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v16",
+      "statement": "Lea el siguiente texto: 'La noche caía sobre Portoviejo y José caminaba de prisa, mirando de reojo las sombras del parque y sujetando fuertemente su mochila contra su pecho'. ¿Qué se puede inferir sobre el estado emocional de José?",
+      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Portoviejo, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está sumamente cansado por haber practicado atletismo en el Colegio Nacional Mejía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Se encuentra feliz buscando amigos para organizar una fiesta nocturna en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Sufre de un dolor muscular severo en los brazos debido al peso de la mochila en Colegio Nacional Mejía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Siente temor, desconfianza o nerviosismo por el entorno y la oscuridad de la noche en Portoviejo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v17",
+      "statement": "Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje obligatorio en el Colegio Nacional Vicente Rocafuerte de Machala, el camión de basura común ahora pasa solo una vez por semana por el plantel en lugar de tres'. ¿Qué se deduce del impacto del sistema de reciclaje?",
+      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Machala, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el camión de la basura tiene problemas mecánicos que impiden su tránsito regular por Colegio Nacional Vicente Rocafuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Que los estudiantes ahora arrojan toda la basura en los ríos cercanos de Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Que el colegio Colegio Nacional Vicente Rocafuerte decidió contratar una empresa privada de recolección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Que la cantidad de desechos comunes no reciclables generados por la institución en Machala se ha reducido significativamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v18",
+      "statement": "Lea: 'Cuando Sebastián llegó a su local comercial en Esmeraldas, vio que el candado de la puerta de ingreso estaba roto y la estantería de los equipos electrónicos se encontraba vacía'. ¿Qué conclusión lógica se puede inferir de este hecho?",
+      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Esmeraldas, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los equipos electrónicos sufrieron un proceso de combustión en Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El local comercial en Esmeraldas fue objeto de un robo de mercadería durante la ausencia de su propietario.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "El dueño decidió regalar todos sus productos a los transeúntes de la avenida en Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "La policía de Esmeraldas confiscó los bienes debido a un trámite administrativo del Colegio Benigno Malo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v19",
+      "statement": "Considere: 'En Santo Domingo, el aumento de nubes de color gris oscuro en el cielo andino vino acompañado de un descenso brusco en la presión y el viento comenzó a agitar con violencia las ramas de los eucaliptos cerca de Colegio Nacional Bolívar'.",
+      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Santo Domingo, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La llegada inminente de una fuerte lluvia o tormenta en la zona andina de Santo Domingo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Un aumento extremo de la temperatura y sequía solar en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La caída de nieve ártica sobre los valles bajos de Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un eclipse total de sol visible en Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v20",
+      "statement": "Lea: 'A pesar de que el docente del Unidad Educativa Santo Domingo explicó el tema tres veces de formas distintas en Quito, los estudiantes seguían mirándose entre sí en silencio y nadie se atrevía a levantar la mano para responder la pregunta final'.",
+      "context": "Camila, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Quito, desarrolla habilidades de lectura interpretativa para deducir ideas implícitas en fragmentos literarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No les interesa la asignatura en Quito debido a que prefieren practicar deportes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Aún persisten dudas o confusión sobre la materia en el aula de Unidad Educativa Santo Domingo de Quito, y tienen vergüenza de manifestarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Están listos para rendir un examen de nivel universitario de Quito sin contratiempos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Quieren que el profesor se retire del Unidad Educativa Santo Domingo de Quito para tener recreo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}
