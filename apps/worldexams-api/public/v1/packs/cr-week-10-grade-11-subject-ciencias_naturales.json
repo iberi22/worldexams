@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cr",
+    "pack_id": "cr-week-10-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T00:36:27.710Z"
+  },
+  "questions": [
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Un objeto es analizado en San José durante una clase práctica de física del Liceo de Costa Rica. Daniela recopila datos para modelar cinemática: distancia, desplazamiento, rapidez, velocidad. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan cinemática: distancia, desplazamiento, rapidez, velocidad en San José.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Cinemática: distancia, desplazamiento, rapidez, velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Cinemática: distancia, desplazamiento, rapidez, velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de cinemática: distancia, desplazamiento, rapidez, velocidad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de cinemática: distancia, desplazamiento, rapidez, velocidad. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Cinemática: distancia, desplazamiento, rapidez, velocidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Un objeto es analizado en Pérez Zeledón durante una clase práctica de física del Liceo Unesco. Carlos recopila datos para modelar movimiento rectilíneo uniforme (mru) y su ecuación. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan movimiento rectilíneo uniforme (mru) y su ecuación en Pérez Zeledón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Movimiento Rectilíneo Uniforme (MRU) y su ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "La ecuación matemática o principio físico de conservación de movimiento rectilíneo uniforme (mru) y su ecuación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de movimiento rectilíneo uniforme (mru) y su ecuación. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Pérez Zeledón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Movimiento Rectilíneo Uniforme (MRU) y su ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Movimiento Rectilíneo Uniforme (MRU) y su ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Un objeto es analizado en Maldonado durante una clase práctica de física del Colegio Técnico Profesional de Flores. Carlos recopila datos para modelar movimiento rectilíneo uniformemente variado (mruv). ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan movimiento rectilíneo uniformemente variado (mruv) en Maldonado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Movimiento Rectilíneo Uniformemente Variado (MRUV)."
+        },
+        {
+          "letter": "B",
+          "text": "La ecuación matemática o principio físico de conservación de movimiento rectilíneo uniformemente variado (mruv).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de movimiento rectilíneo uniformemente variado (mruv). es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Movimiento Rectilíneo Uniformemente Variado (MRUV)."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Movimiento Rectilíneo Uniformemente Variado (MRUV)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Un objeto es analizado en San Carlos durante una clase práctica de física del Liceo de Ciudad Quesada. José recopila datos para modelar caída libre y aceleración de la gravedad. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan caída libre y aceleración de la gravedad en San Carlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en San Carlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Caída libre y aceleración de la gravedad."
+        },
+        {
+          "letter": "B",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Caída libre y aceleración de la gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de caída libre y aceleración de la gravedad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de caída libre y aceleración de la gravedad. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Caída libre y aceleración de la gravedad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Un objeto es analizado en Cartago durante una clase práctica de física del Colegio de San Luis Gonzaga. Sofía recopila datos para modelar leyes de newton: primera ley o principio de inercia. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan leyes de newton: primera ley o principio de inercia en Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Leyes de Newton: primera ley o principio de inercia."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Leyes de Newton: primera ley o principio de inercia."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de leyes de newton: primera ley o principio de inercia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de leyes de newton: primera ley o principio de inercia. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Leyes de Newton: primera ley o principio de inercia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Un objeto es analizado en Limón durante una clase práctica de física del Liceo Nuevo de Limón. José recopila datos para modelar segunda ley de newton: relación fuerza, masa, aceleración. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan segunda ley de newton: relación fuerza, masa, aceleración en Limón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ecuación matemática o principio físico de conservación de segunda ley de newton: relación fuerza, masa, aceleración.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de segunda ley de newton: relación fuerza, masa, aceleración. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Segunda ley de Newton: relación fuerza, masa, aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Segunda ley de Newton: relación fuerza, masa, aceleración."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Limón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Segunda ley de Newton: relación fuerza, masa, aceleración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Un objeto es analizado en Maldonado durante una clase práctica de física del Colegio Técnico Profesional de Flores. Sofía recopila datos para modelar tercera ley de newton: principio de acción y reacción. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan tercera ley de newton: principio de acción y reacción en Maldonado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Tercera ley de Newton: principio de acción y reacción."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Tercera ley de Newton: principio de acción y reacción."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de tercera ley de newton: principio de acción y reacción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de tercera ley de newton: principio de acción y reacción. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Tercera ley de Newton: principio de acción y reacción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Un objeto es analizado en Limón durante una clase práctica de física del Liceo Nuevo de Limón. Carlos recopila datos para modelar fuerzas cotidianas: peso, normal, tensión, fricción. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan fuerzas cotidianas: peso, normal, tensión, fricción en Limón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Fuerzas cotidianas: peso, normal, tensión, fricción."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Limón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Fuerzas cotidianas: peso, normal, tensión, fricción."
+        },
+        {
+          "letter": "C",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Fuerzas cotidianas: peso, normal, tensión, fricción."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación matemática o principio físico de conservación de fuerzas cotidianas: peso, normal, tensión, fricción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de fuerzas cotidianas: peso, normal, tensión, fricción. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Un objeto es analizado en Pérez Zeledón durante una clase práctica de física del Liceo Unesco. Gabriela recopila datos para modelar concepto de trabajo mecánico y su unidad (julios). ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan concepto de trabajo mecánico y su unidad (julios) en Pérez Zeledón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Concepto de trabajo mecánico y su unidad (julios)."
+        },
+        {
+          "letter": "B",
+          "text": "La ecuación matemática o principio físico de conservación de concepto de trabajo mecánico y su unidad (julios).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de concepto de trabajo mecánico y su unidad (julios). es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Pérez Zeledón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Concepto de trabajo mecánico y su unidad (julios)."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Concepto de trabajo mecánico y su unidad (julios)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Un objeto es analizado en Puntarenas durante una clase práctica de física del Liceo de Puntarenas. Mariana recopila datos para modelar energía cinética: energía asociada al movimiento. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan energía cinética: energía asociada al movimiento en Puntarenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ecuación matemática o principio físico de conservación de energía cinética: energía asociada al movimiento.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de energía cinética: energía asociada al movimiento. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Puntarenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Energía cinética: energía asociada al movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Energía cinética: energía asociada al movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Energía cinética: energía asociada al movimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Un objeto es analizado en San Carlos durante una clase práctica de física del Liceo de Ciudad Quesada. Camila recopila datos para modelar energía potencial gravitatoria: energía por posición. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan energía potencial gravitatoria: energía por posición en San Carlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Energía potencial gravitatoria: energía por posición."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de fricción estática máxima registrada localmente en San Carlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Energía potencial gravitatoria: energía por posición."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de energía potencial gravitatoria: energía por posición.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de energía potencial gravitatoria: energía por posición. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Energía potencial gravitatoria: energía por posición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Un objeto es analizado en Maldonado durante una clase práctica de física del Colegio Técnico Profesional de Flores. Lucía recopila datos para modelar ley de conservación de la energía mecánica. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan ley de conservación de la energía mecánica en Maldonado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Ley de conservación de la energía mecánica."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Ley de conservación de la energía mecánica."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de ley de conservación de la energía mecánica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de ley de conservación de la energía mecánica. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Ley de conservación de la energía mecánica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Un objeto es analizado en Alajuela durante una clase práctica de física del Instituto de Alajuela. Ana recopila datos para modelar potencia mecánica: rapidez con que se realiza un trabajo. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan potencia mecánica: rapidez con que se realiza un trabajo en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Potencia mecánica: rapidez con que se realiza un trabajo."
+        },
+        {
+          "letter": "B",
+          "text": "La ecuación matemática o principio físico de conservación de potencia mecánica: rapidez con que se realiza un trabajo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de potencia mecánica: rapidez con que se realiza un trabajo. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Potencia mecánica: rapidez con que se realiza un trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Potencia mecánica: rapidez con que se realiza un trabajo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Un objeto es analizado en Puntarenas durante una clase práctica de física del Liceo de Puntarenas. Alonso recopila datos para modelar ondas mecánicas y electromagnéticas: conceptos clave. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan ondas mecánicas y electromagnéticas: conceptos clave en Puntarenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Puntarenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Ondas mecánicas y electromagnéticas: conceptos clave."
+        },
+        {
+          "letter": "B",
+          "text": "La ecuación matemática o principio físico de conservación de ondas mecánicas y electromagnéticas: conceptos clave.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de ondas mecánicas y electromagnéticas: conceptos clave. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Ondas mecánicas y electromagnéticas: conceptos clave."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Ondas mecánicas y electromagnéticas: conceptos clave."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Un objeto es analizado en Maldonado durante una clase práctica de física del Colegio Técnico Profesional de Flores. Ana recopila datos para modelar propiedades de las ondas: longitud, frecuencia, amplitud. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan propiedades de las ondas: longitud, frecuencia, amplitud en Maldonado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Propiedades de las ondas: longitud, frecuencia, amplitud."
+        },
+        {
+          "letter": "B",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Propiedades de las ondas: longitud, frecuencia, amplitud."
+        },
+        {
+          "letter": "C",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Propiedades de las ondas: longitud, frecuencia, amplitud."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación matemática o principio físico de conservación de propiedades de las ondas: longitud, frecuencia, amplitud.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de propiedades de las ondas: longitud, frecuencia, amplitud. es el concepto preciso evaluado en esta pregunta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Un objeto es analizado en Alajuela durante una clase práctica de física del Instituto de Alajuela. Mariana recopila datos para modelar fenómenos ondulatorios: reflexión y refracción. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan fenómenos ondulatorios: reflexión y refracción en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ecuación matemática o principio físico de conservación de fenómenos ondulatorios: reflexión y refracción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de fenómenos ondulatorios: reflexión y refracción. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Fenómenos ondulatorios: reflexión y refracción."
+        },
+        {
+          "letter": "C",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Fenómenos ondulatorios: reflexión y refracción."
+        },
+        {
+          "letter": "D",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Fenómenos ondulatorios: reflexión y refracción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Un objeto es analizado en Cartago durante una clase práctica de física del Colegio de San Luis Gonzaga. Carlos recopila datos para modelar fenómenos ondulatorios: difracción e interferencia. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan fenómenos ondulatorios: difracción e interferencia en Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Fenómenos ondulatorios: difracción e interferencia."
+        },
+        {
+          "letter": "B",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Fenómenos ondulatorios: difracción e interferencia."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de fenómenos ondulatorios: difracción e interferencia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de fenómenos ondulatorios: difracción e interferencia. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Fenómenos ondulatorios: difracción e interferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Un objeto es analizado en Alajuela durante una clase práctica de física del Instituto de Alajuela. Alejandro recopila datos para modelar espectro electromagnético y luz visible. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan espectro electromagnético y luz visible en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Espectro electromagnético y luz visible."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Espectro electromagnético y luz visible."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de espectro electromagnético y luz visible.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de espectro electromagnético y luz visible. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Espectro electromagnético y luz visible."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.54,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Un objeto es analizado en Cartago durante una clase práctica de física del Colegio de San Luis Gonzaga. Esteban recopila datos para modelar fenómeno óptico de la dispersión de la luz. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan fenómeno óptico de la dispersión de la luz en Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Fenómeno óptico de la dispersión de la luz."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Fenómeno óptico de la dispersión de la luz."
+        },
+        {
+          "letter": "C",
+          "text": "La ecuación matemática o principio físico de conservación de fenómeno óptico de la dispersión de la luz.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de fenómeno óptico de la dispersión de la luz. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Fenómeno óptico de la dispersión de la luz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Un objeto es analizado en Liberia durante una clase práctica de física del Liceo de Liberia. Luis recopila datos para modelar leyes de la electrostática: carga eléctrica y ley de coulomb. ¿Cuál de las siguientes relaciones físicas representa con exactitud las leyes de conservación, fuerzas o parámetros ondulatorios del sistema?",
+      "context": "Estudiantes de undécimo año analizan leyes de la electrostática: carga eléctrica y ley de coulomb en Liberia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aceleración centrípeta constante de un cuerpo en reposo absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analice con detalle las condiciones físicas o químicas de Leyes de la electrostática: carga eléctrica y Ley de Coulomb."
+        },
+        {
+          "letter": "B",
+          "text": "La ecuación matemática o principio físico de conservación de leyes de la electrostática: carga eléctrica y ley de coulomb.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ecuación matemática o principio físico de conservación de leyes de la electrostática: carga eléctrica y ley de coulomb. es el concepto preciso evaluado en esta pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "La propagación de la onda a velocidad nula en un medio elástico perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una confusión común sobre los elementos de Leyes de la electrostática: carga eléctrica y Ley de Coulomb."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza de fricción estática máxima registrada localmente en Liberia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Leyes de la electrostática: carga eléctrica y Ley de Coulomb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicación Pedagógica: La física mecánica y el estudio de ondas permiten interpretar las interacciones cotidianas de la materia y la energía, un componente crucial de las pruebas nacionales MEP.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}
