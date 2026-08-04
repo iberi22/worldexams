@@ -13,8 +13,10 @@ export const POST: APIRoute = async ({ request }) => {
     return new Response('Unauthorized', { status: 401 });
   }
 
-  // 2. Generate Code
-  const code = Math.floor(100000 + Math.random() * 900000).toString(); // 6 digit code
+  // 2. Generate Code securely
+  const array = new Uint32Array(1);
+  crypto.getRandomValues(array);
+  const code = (100000 + (array[0] % 900000)).toString(); // 6 digit code
 
   // 3. Store in DB
   const { error: dbError } = await supabase
