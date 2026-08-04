@@ -226,16 +226,20 @@
 
   $: normalizedSearchTerm = normalizeForSearch(debouncedSearchTerm);
 
-  $: filteredQuestions = questions.filter((q, index, self) => {
+  $: filteredQuestions = (() => {
+    // ⚡ Bolt Optimization: Use an external Set for O(1) tracking instead of O(N^2) array.findIndex() in loop
+    // This dramatically improves search/filtering responsiveness on large question banks
+    const seenIds = new Set<string>();
+    return questions.filter((q) => {
     // Skip invalid questions
     if (!q || !q.category) return false;
 
     // Deduplicate by ID
-    const isFirst = self.findIndex(item => item.id === q.id) === index;
-    if (!isFirst) return false;
+    if (seenIds.has(q.id)) return false;
+    seenIds.add(q.id);
 
     // Debug: log first question to see structure
-    if (index === 0) {
+    if (seenIds.size === 1) {
       console.log('📋 First question structure:', q);
     }
 
@@ -257,7 +261,8 @@
     const matchesSearch = !debouncedSearchTerm || searchTarget.includes(normalizedSearchTerm);
 
     return matchesSearch && matchesGrade && matchesDifficulty && matchesPeriod && matchesSubject;
-  });
+    });
+  })();
 
   function clearSearch() {
     searchTerm = "";
