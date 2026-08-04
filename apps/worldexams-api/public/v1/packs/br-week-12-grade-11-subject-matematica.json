@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-12-grade-11-subject-matematica",
+    "generated_at": "2026-07-29T05:03:55.249Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v1",
+      "statement": "Em um triângulo retângulo, a razão entre o cateto oposto a um ângulo agudo θ e a hipotenusa é denominada:",
+      "context": "Um marceneiro em Joinville estuda a inclinação de vigas estruturais de telhados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seno do ângulo θ",
+          "is_correct": true,
+          "feedback": "Correto! Por definição geométrica, o seno é a razão entre o cateto oposto e a hipotenusa."
+        },
+        {
+          "letter": "B",
+          "text": "Cosseno do ângulo θ",
+          "is_correct": false,
+          "feedback": "Incorreto. O cosseno é o cateto adjacente dividido pela hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "Tangente do ângulo θ",
+          "is_correct": false,
+          "feedback": "Incorreto. A tangente é o cateto oposto dividido pelo adjacente."
+        },
+        {
+          "letter": "D",
+          "text": "Secante do ângulo θ",
+          "is_correct": false,
+          "feedback": "Incorreto. A secante é a razão recíproca do cosseno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pelas definições fundamentais das relações trigonométricas em triângulos retângulos, o seno de um ângulo agudo θ é a razão sen(θ) = cateto_oposto / hipotenusa.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v2",
+      "statement": "Qual é o valor numérico exato do cosseno de um ângulo de 60 graus?",
+      "context": "Um carpinteiro em Novo Hamburgo utiliza ângulos notáveis para alinhar as escoras de uma obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "√3/2",
+          "is_correct": false,
+          "feedback": "Incorreto. √3/2 é o seno de 60° ou o cosseno de 30°."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correto! O cosseno de 60° é igual a exatamente 1/2 ou 0,5."
+        },
+        {
+          "letter": "C",
+          "text": "√2/2",
+          "is_correct": false,
+          "feedback": "Incorreto. √2/2 é o cosseno e o seno de 45°."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorreto. 1 é o cosseno de 0°, não de 60°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pela tabela trigonométrica clássica de ângulos notáveis: cos(60°) = 1/2 = 0,5.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.77,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v3",
+      "statement": "Qual é o valor exato da tangente de um ângulo de 45 graus?",
+      "context": "Um mestre de obras em Londrina verifica a inclinação de uma rampa de garagem cuja inclinação é de 45 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correto! A tangente de 45° é a razão entre catetos iguais, resultando em 1."
+        },
+        {
+          "letter": "B",
+          "text": "√3",
+          "is_correct": false,
+          "feedback": "Incorreto. √3 é a tangente de 60°."
+        },
+        {
+          "letter": "C",
+          "text": "√3/3",
+          "is_correct": false,
+          "feedback": "Incorreto. √3/3 é a tangente de 30°."
+        },
+        {
+          "letter": "D",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Incorreto. A tangente de 45° é 1, pois os catetos oposto e adjacente são iguais."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em um triângulo retângulo com ângulo de 45°, os catetos oposto e adjacente são congruentes (triângulo isósceles). Sendo a tangente a razão entre eles: tg(45°) = L / L = 1.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v4",
+      "statement": "Sabendo que a hipotenusa AC mede 5 cm, qual é o seno do ângulo agudo C oposto ao lado AB?",
+      "context": "Um desenhista técnico em São Paulo analisa o triângulo retângulo ABC, retângulo em B, cujo cateto AB mede 3 cm e o cateto BC mede 4 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/5",
+          "is_correct": true,
+          "feedback": "Correto! O seno de C é o cateto oposto AB (3 cm) sobre a hipotenusa AC (5 cm)."
+        },
+        {
+          "letter": "B",
+          "text": "4/5",
+          "is_correct": false,
+          "feedback": "Incorreto. 4/5 é o cosseno de C, que corresponde ao cateto adjacente BC sobre a hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "3/4",
+          "is_correct": false,
+          "feedback": "Incorreto. 3/4 é a tangente de C (oposto sobre adjacente)."
+        },
+        {
+          "letter": "D",
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "Incorreto. 4/3 é a cotangente de C."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O seno do ângulo C é a razão entre o cateto oposto (AB = 3 cm) e a hipotenusa (AC = 5 cm), ou seja, sen(C) = 3/5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v5",
+      "statement": "Se o cabo forma um ângulo de 30 graus com o solo horizontal plano, qual é o comprimento linear do cabo? (Considere sen(30°) = 0,5)",
+      "context": "Um técnico instalador em Salvador fixa uma antena vertical de 12 metros de altura utilizando cabos esticados fixos no solo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. O cabo é a hipotenusa e deve ser maior do que a altura da antena."
+        },
+        {
+          "letter": "B",
+          "text": "24 metros",
+          "is_correct": true,
+          "feedback": "Correto! sen(30°) = oposto / hipotenusa => 0,5 = 12 / L => L = 12 / 0,5 = 24 metros."
+        },
+        {
+          "letter": "C",
+          "text": "18 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a divisão da altura pelo seno de 30°."
+        },
+        {
+          "letter": "D",
+          "text": "20,8 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se você usasse a tangente em vez do seno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No triângulo retângulo formado pela antena (cateto oposto = 12 m) e o cabo (hipotenusa L), temos: sen(30°) = 12 / L => L = 12 / sen(30°) = 12 / 0,5 = 24 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v6",
+      "statement": "Se a base horizontal do trecho medido é de 30 metros, qual é a altura vertical desse trecho? (Considere tg(30°) = 0.58)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 30 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17.4 metros",
+          "is_correct": true,
+          "feedback": "Correto! Altura = base * tg(30°) ≈ val_1 * 0,58."
+        },
+        {
+          "letter": "B",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se o ângulo fosse de 45 graus."
+        },
+        {
+          "letter": "C",
+          "text": "60 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor muito elevado para um ângulo de 30 graus."
+        },
+        {
+          "letter": "D",
+          "text": "25.98 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou pelo cosseno em vez da tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionamos a base horizontal (cateto adjacente = 30 m) e a altura (cateto oposto h) pela tangente: tg(30°) = h / 30 => h = 30 * 0,58 ≈ 17.4 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v7",
+      "statement": "Se a base horizontal do trecho medido é de 35 metros, qual é a altura vertical desse trecho? (Considere tg(45°) = 1.0)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 45 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35 metros",
+          "is_correct": true,
+          "feedback": "Correto! Como o ângulo é de 45 graus, o triângulo retângulo é isósceles, logo os catetos são iguais."
+        },
+        {
+          "letter": "B",
+          "text": "49.49 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o valor aproximado da hipotenusa, não do cateto oposto."
+        },
+        {
+          "letter": "C",
+          "text": "70 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Os catetos de 45° são iguais entre si, não o dobro."
+        },
+        {
+          "letter": "D",
+          "text": "17.5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. O cateto oposto é exatamente igual ao adjacente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para um ângulo de 45°, o triângulo retângulo é isósceles, logo o cateto oposto é idêntico ao adjacente: h = 35 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.61,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v8",
+      "statement": "Se a base horizontal do trecho medido é de 40 metros, qual é a altura vertical desse trecho? (Considere tg(30°) = 0.58)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 30 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23.2 metros",
+          "is_correct": true,
+          "feedback": "Correto! Altura = base * tg(30°) ≈ val_1 * 0,58."
+        },
+        {
+          "letter": "B",
+          "text": "40 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se o ângulo fosse de 45 graus."
+        },
+        {
+          "letter": "C",
+          "text": "80 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor muito elevado para um ângulo de 30 graus."
+        },
+        {
+          "letter": "D",
+          "text": "34.64 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou pelo cosseno em vez da tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionamos a base horizontal (cateto adjacente = 40 m) e a altura (cateto oposto h) pela tangente: tg(30°) = h / 40 => h = 40 * 0,58 ≈ 23.2 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v9",
+      "statement": "Se a base horizontal do trecho medido é de 45 metros, qual é a altura vertical desse trecho? (Considere tg(45°) = 1.0)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 45 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 metros",
+          "is_correct": true,
+          "feedback": "Correto! Como o ângulo é de 45 graus, o triângulo retângulo é isósceles, logo os catetos são iguais."
+        },
+        {
+          "letter": "B",
+          "text": "63.63 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o valor aproximado da hipotenusa, não do cateto oposto."
+        },
+        {
+          "letter": "C",
+          "text": "90 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Os catetos de 45° são iguais entre si, não o dobro."
+        },
+        {
+          "letter": "D",
+          "text": "22.5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. O cateto oposto é exatamente igual ao adjacente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para um ângulo de 45°, o triângulo retângulo é isósceles, logo o cateto oposto é idêntico ao adjacente: h = 45 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v10",
+      "statement": "Se a base horizontal do trecho medido é de 50 metros, qual é a altura vertical desse trecho? (Considere tg(30°) = 0.58)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 30 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "29.0 metros",
+          "is_correct": true,
+          "feedback": "Correto! Altura = base * tg(30°) ≈ val_1 * 0,58."
+        },
+        {
+          "letter": "B",
+          "text": "50 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se o ângulo fosse de 45 graus."
+        },
+        {
+          "letter": "C",
+          "text": "100 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor muito elevado para um ângulo de 30 graus."
+        },
+        {
+          "letter": "D",
+          "text": "43.3 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou pelo cosseno em vez da tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionamos a base horizontal (cateto adjacente = 50 m) e a altura (cateto oposto h) pela tangente: tg(30°) = h / 50 => h = 50 * 0,58 ≈ 29.0 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v11",
+      "statement": "Se a base horizontal do trecho medido é de 55 metros, qual é a altura vertical desse trecho? (Considere tg(45°) = 1.0)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 45 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 metros",
+          "is_correct": true,
+          "feedback": "Correto! Como o ângulo é de 45 graus, o triângulo retângulo é isósceles, logo os catetos são iguais."
+        },
+        {
+          "letter": "B",
+          "text": "77.77 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o valor aproximado da hipotenusa, não do cateto oposto."
+        },
+        {
+          "letter": "C",
+          "text": "110 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Os catetos de 45° são iguais entre si, não o dobro."
+        },
+        {
+          "letter": "D",
+          "text": "27.5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. O cateto oposto é exatamente igual ao adjacente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para um ângulo de 45°, o triângulo retângulo é isósceles, logo o cateto oposto é idêntico ao adjacente: h = 55 metros.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.49,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v12",
+      "statement": "Se a base horizontal do trecho medido é de 60 metros, qual é a altura vertical desse trecho? (Considere tg(30°) = 0.58)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 30 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "34.8 metros",
+          "is_correct": true,
+          "feedback": "Correto! Altura = base * tg(30°) ≈ val_1 * 0,58."
+        },
+        {
+          "letter": "B",
+          "text": "60 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se o ângulo fosse de 45 graus."
+        },
+        {
+          "letter": "C",
+          "text": "120 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor muito elevado para um ângulo de 30 graus."
+        },
+        {
+          "letter": "D",
+          "text": "51.96 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou pelo cosseno em vez da tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionamos a base horizontal (cateto adjacente = 60 m) e a altura (cateto oposto h) pela tangente: tg(30°) = h / 60 => h = 60 * 0,58 ≈ 34.8 metros.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v13",
+      "statement": "Se a base horizontal do trecho medido é de 65 metros, qual é a altura vertical desse trecho? (Considere tg(45°) = 1.0)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 45 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65 metros",
+          "is_correct": true,
+          "feedback": "Correto! Como o ângulo é de 45 graus, o triângulo retângulo é isósceles, logo os catetos são iguais."
+        },
+        {
+          "letter": "B",
+          "text": "91.91 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o valor aproximado da hipotenusa, não do cateto oposto."
+        },
+        {
+          "letter": "C",
+          "text": "130 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Os catetos de 45° são iguais entre si, não o dobro."
+        },
+        {
+          "letter": "D",
+          "text": "32.5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. O cateto oposto é exatamente igual ao adjacente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para um ângulo de 45°, o triângulo retângulo é isósceles, logo o cateto oposto é idêntico ao adjacente: h = 65 metros.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.43,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v14",
+      "statement": "Se a base horizontal do trecho medido é de 70 metros, qual é a altura vertical desse trecho? (Considere tg(30°) = 0.58)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 30 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40.6 metros",
+          "is_correct": true,
+          "feedback": "Correto! Altura = base * tg(30°) ≈ val_1 * 0,58."
+        },
+        {
+          "letter": "B",
+          "text": "70 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se o ângulo fosse de 45 graus."
+        },
+        {
+          "letter": "C",
+          "text": "140 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor muito elevado para um ângulo de 30 graus."
+        },
+        {
+          "letter": "D",
+          "text": "60.62 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou pelo cosseno em vez da tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionamos a base horizontal (cateto adjacente = 70 m) e a altura (cateto oposto h) pela tangente: tg(30°) = h / 70 => h = 70 * 0,58 ≈ 40.6 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v15",
+      "statement": "Se a base horizontal do trecho medido é de 75 metros, qual é a altura vertical desse trecho? (Considere tg(45°) = 1.0)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 45 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "75 metros",
+          "is_correct": true,
+          "feedback": "Correto! Como o ângulo é de 45 graus, o triângulo retângulo é isósceles, logo os catetos são iguais."
+        },
+        {
+          "letter": "B",
+          "text": "106.05 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o valor aproximado da hipotenusa, não do cateto oposto."
+        },
+        {
+          "letter": "C",
+          "text": "150 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Os catetos de 45° são iguais entre si, não o dobro."
+        },
+        {
+          "letter": "D",
+          "text": "37.5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. O cateto oposto é exatamente igual ao adjacente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para um ângulo de 45°, o triângulo retângulo é isósceles, logo o cateto oposto é idêntico ao adjacente: h = 75 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v16",
+      "statement": "Se a base horizontal do trecho medido é de 80 metros, qual é a altura vertical desse trecho? (Considere tg(30°) = 0.58)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 30 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "46.4 metros",
+          "is_correct": true,
+          "feedback": "Correto! Altura = base * tg(30°) ≈ val_1 * 0,58."
+        },
+        {
+          "letter": "B",
+          "text": "80 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se o ângulo fosse de 45 graus."
+        },
+        {
+          "letter": "C",
+          "text": "160 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor muito elevado para um ângulo de 30 graus."
+        },
+        {
+          "letter": "D",
+          "text": "69.28 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou pelo cosseno em vez da tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionamos a base horizontal (cateto adjacente = 80 m) e a altura (cateto oposto h) pela tangente: tg(30°) = h / 80 => h = 80 * 0,58 ≈ 46.4 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v17",
+      "statement": "Se a base horizontal do trecho medido é de 85 metros, qual é a altura vertical desse trecho? (Considere tg(45°) = 1.0)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 45 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "85 metros",
+          "is_correct": true,
+          "feedback": "Correto! Como o ângulo é de 45 graus, o triângulo retângulo é isósceles, logo os catetos são iguais."
+        },
+        {
+          "letter": "B",
+          "text": "120.19 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o valor aproximado da hipotenusa, não do cateto oposto."
+        },
+        {
+          "letter": "C",
+          "text": "170 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Os catetos de 45° são iguais entre si, não o dobro."
+        },
+        {
+          "letter": "D",
+          "text": "42.5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. O cateto oposto é exatamente igual ao adjacente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para um ângulo de 45°, o triângulo retângulo é isósceles, logo o cateto oposto é idêntico ao adjacente: h = 85 metros.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v18",
+      "statement": "Se a base horizontal do trecho medido é de 90 metros, qual é a altura vertical desse trecho? (Considere tg(30°) = 0.58)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 30 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52.2 metros",
+          "is_correct": true,
+          "feedback": "Correto! Altura = base * tg(30°) ≈ val_1 * 0,58."
+        },
+        {
+          "letter": "B",
+          "text": "90 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se o ângulo fosse de 45 graus."
+        },
+        {
+          "letter": "C",
+          "text": "180 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor muito elevado para um ângulo de 30 graus."
+        },
+        {
+          "letter": "D",
+          "text": "77.94 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou pelo cosseno em vez da tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionamos a base horizontal (cateto adjacente = 90 m) e a altura (cateto oposto h) pela tangente: tg(30°) = h / 90 => h = 90 * 0,58 ≈ 52.2 metros.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.24,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v19",
+      "statement": "Se a base horizontal do trecho medido é de 95 metros, qual é a altura vertical desse trecho? (Considere tg(45°) = 1.0)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 45 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "95 metros",
+          "is_correct": true,
+          "feedback": "Correto! Como o ângulo é de 45 graus, o triângulo retângulo é isósceles, logo os catetos são iguais."
+        },
+        {
+          "letter": "B",
+          "text": "134.33 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este é o valor aproximado da hipotenusa, não do cateto oposto."
+        },
+        {
+          "letter": "C",
+          "text": "190 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Os catetos de 45° são iguais entre si, não o dobro."
+        },
+        {
+          "letter": "D",
+          "text": "47.5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. O cateto oposto é exatamente igual ao adjacente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para um ângulo de 45°, o triângulo retângulo é isósceles, logo o cateto oposto é idêntico ao adjacente: h = 95 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle-v20",
+      "statement": "Se a base horizontal do trecho medido é de 100 metros, qual é a altura vertical desse trecho? (Considere tg(30°) = 0.58)",
+      "context": "Um topógrafo em São Paulo analisa o perfil de um morro com inclinação de 30 graus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "58.0 metros",
+          "is_correct": true,
+          "feedback": "Correto! Altura = base * tg(30°) ≈ val_1 * 0,58."
+        },
+        {
+          "letter": "B",
+          "text": "100 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor se o ângulo fosse de 45 graus."
+        },
+        {
+          "letter": "C",
+          "text": "200 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Valor muito elevado para um ângulo de 30 graus."
+        },
+        {
+          "letter": "D",
+          "text": "86.6 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou pelo cosseno em vez da tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionamos a base horizontal (cateto adjacente = 100 m) e a altura (cateto oposto h) pela tangente: tg(30°) = h / 100 => h = 100 * 0,58 ≈ 58.0 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.16,
+      "bundle_id": "BR-MAT-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}
