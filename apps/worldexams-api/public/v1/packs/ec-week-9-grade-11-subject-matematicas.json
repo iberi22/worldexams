@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-08-04T00:18:31.420Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v1",
+      "statement": "Resuelva el sistema de ecuaciones por sustitución o eliminación: $\\begin{cases} x + y = 10 \\\\ x - y = 4 \\end{cases}$ para determinar la cantidad de productos vendidos en Ambato.",
+      "context": "En la ciudad de Ambato, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6, y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8, y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7, y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sumando ambas ecuaciones: $2x = 14 \\Rightarrow x = 7$. Sustituyendo en la primera: $7 + y = 10 \\Rightarrow y = 3$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.91,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v2",
+      "statement": "Resuelva el sistema de ecuaciones por sustitución o eliminación: $\\begin{cases} x + y = 10 \\\\ x - y = 4 \\end{cases}$ para determinar la cantidad de productos vendidos en Manta.",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7, y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 8, y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6, y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando ambas ecuaciones: $2x = 14 \\Rightarrow x = 7$. Sustituyendo en la primera: $7 + y = 10 \\Rightarrow y = 3$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v3",
+      "statement": "Resuelva el sistema de ecuaciones por sustitución o eliminación: $\\begin{cases} x + y = 10 \\\\ x - y = 4 \\end{cases}$ para determinar la cantidad de productos vendidos en Machala.",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6, y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8, y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7, y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sumando ambas ecuaciones: $2x = 14 \\Rightarrow x = 7$. Sustituyendo en la primera: $7 + y = 10 \\Rightarrow y = 3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v4",
+      "statement": "Resuelva el sistema de ecuaciones por sustitución o eliminación: $\\begin{cases} x + y = 10 \\\\ x - y = 4 \\end{cases}$ para determinar la cantidad de productos vendidos en Riobamba.",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7, y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6, y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8, y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando ambas ecuaciones: $2x = 14 \\Rightarrow x = 7$. Sustituyendo en la primera: $7 + y = 10 \\Rightarrow y = 3$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v5",
+      "statement": "Un hotel en Portoviejo ofrece habitaciones dobles y sencillas. En total hay 20 habitaciones y 30 camas. Si las dobles tienen 2 camas y las sencillas 1 cama, ¿cuántas habitaciones dobles hay?",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "12 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "8 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "10 habitaciones dobles",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v6",
+      "statement": "Un hotel en Loja ofrece habitaciones dobles y sencillas. En total hay 20 habitaciones y 30 camas. Si las dobles tienen 2 camas y las sencillas 1 cama, ¿cuántas habitaciones dobles hay?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 habitaciones dobles",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "15 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "12 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "8 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v7",
+      "statement": "Un hotel en Portoviejo ofrece habitaciones dobles y sencillas. En total hay 20 habitaciones y 30 camas. Si las dobles tienen 2 camas y las sencillas 1 cama, ¿cuántas habitaciones dobles hay?",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "15 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "10 habitaciones dobles",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "8 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v8",
+      "statement": "Un hotel en Ibarra ofrece habitaciones dobles y sencillas. En total hay 20 habitaciones y 30 camas. Si las dobles tienen 2 camas y las sencillas 1 cama, ¿cuántas habitaciones dobles hay?",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "10 habitaciones dobles",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "15 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "8 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v9",
+      "statement": "Un hotel en Portoviejo ofrece habitaciones dobles y sencillas. En total hay 20 habitaciones y 30 camas. Si las dobles tienen 2 camas y las sencillas 1 cama, ¿cuántas habitaciones dobles hay?",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "12 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "15 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "10 habitaciones dobles",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v10",
+      "statement": "Un hotel en Loja ofrece habitaciones dobles y sencillas. En total hay 20 habitaciones y 30 camas. Si las dobles tienen 2 camas y las sencillas 1 cama, ¿cuántas habitaciones dobles hay?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "10 habitaciones dobles",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "15 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "12 habitaciones dobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v11",
+      "statement": "Resuelva el sistema lineal para las tarifas de transporte: $\\begin{cases} 2x + 3y = 12 \\\\ 3x - y = 7 \\end{cases}$.",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2, y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4, y = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3, y = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \\Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \\Rightarrow 9 - y = 7 \\Rightarrow y = 2$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.56,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v12",
+      "statement": "Resuelva el sistema lineal para las tarifas de transporte: $\\begin{cases} 2x + 3y = 12 \\\\ 3x - y = 7 \\end{cases}$.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2, y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4, y = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3, y = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \\Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \\Rightarrow 9 - y = 7 \\Rightarrow y = 2$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v13",
+      "statement": "Resuelva el sistema lineal para las tarifas de transporte: $\\begin{cases} 2x + 3y = 12 \\\\ 3x - y = 7 \\end{cases}$.",
+      "context": "En la ciudad de Ambato, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4, y = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3, y = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2, y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \\Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \\Rightarrow 9 - y = 7 \\Rightarrow y = 2$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v14",
+      "statement": "Resuelva el sistema lineal para las tarifas de transporte: $\\begin{cases} 2x + 3y = 12 \\\\ 3x - y = 7 \\end{cases}$.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4, y = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2, y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3, y = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \\Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \\Rightarrow 9 - y = 7 \\Rightarrow y = 2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v15",
+      "statement": "Resuelva el sistema lineal para las tarifas de transporte: $\\begin{cases} 2x + 3y = 12 \\\\ 3x - y = 7 \\end{cases}$.",
+      "context": "En la ciudad de Cuenca, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4, y = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3, y = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2, y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \\Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \\Rightarrow 9 - y = 7 \\Rightarrow y = 2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v16",
+      "statement": "Resuelva el sistema lineal para las tarifas de transporte: $\\begin{cases} 2x + 3y = 12 \\\\ 3x - y = 7 \\end{cases}$.",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4, y = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3, y = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2, y = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \\Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \\Rightarrow 9 - y = 7 \\Rightarrow y = 2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes condiciones describe a un sistema de dos ecuaciones lineales con dos incógnitas que NO tiene solución (sistema incompatible o inconsistente)?",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos rectas coinciden en todos sus puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos rectas se cruzan exactamente en el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos rectas son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos rectas representadas son paralelas y no se intersecan.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un sistema no tiene solución cuando las rectas que representan las ecuaciones son paralelas, lo que significa que no comparten ningún punto en común.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de las siguientes condiciones describe a un sistema de dos ecuaciones lineales con dos incógnitas que NO tiene solución (sistema incompatible o inconsistente)?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos rectas coinciden en todos sus puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos rectas son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos rectas se cruzan exactamente en el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos rectas representadas son paralelas y no se intersecan.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un sistema no tiene solución cuando las rectas que representan las ecuaciones son paralelas, lo que significa que no comparten ningún punto en común.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál de las siguientes condiciones describe a un sistema de dos ecuaciones lineales con dos incógnitas que NO tiene solución (sistema incompatible o inconsistente)?",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos rectas coinciden en todos sus puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos rectas representadas son paralelas y no se intersecan.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "Las dos rectas se cruzan exactamente en el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos rectas son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sistema no tiene solución cuando las rectas que representan las ecuaciones son paralelas, lo que significa que no comparten ningún punto en común.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de las siguientes condiciones describe a un sistema de dos ecuaciones lineales con dos incógnitas que NO tiene solución (sistema incompatible o inconsistente)?",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos rectas representadas son paralelas y no se intersecan.",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "Las dos rectas son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos rectas coinciden en todos sus puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos rectas se cruzan exactamente en el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un sistema no tiene solución cuando las rectas que representan las ecuaciones son paralelas, lo que significa que no comparten ningún punto en común.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W09-sistemas-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}
