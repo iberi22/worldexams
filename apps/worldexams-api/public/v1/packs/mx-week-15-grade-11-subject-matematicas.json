@@ -8,6 +8,906 @@
   },
   "questions": [
     {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v1",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 15 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Oaxaca, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.15 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "8.65 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "27.5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "9.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 15 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 15 * 0.577 ≈ 8.65 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 10.15 m.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v2",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 17 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Puebla, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11.31 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "9.81 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "30.96 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "10.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 17 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 17 * 0.577 ≈ 9.81 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 11.31 m.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v3",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 19 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de CDMX, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12.46 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "10.96 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "34.43 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "11.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 19 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 19 * 0.577 ≈ 10.96 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 12.46 m.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 21 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Morelia, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13.62 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "12.12 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "37.9 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "12.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 21 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 21 * 0.577 ≈ 12.12 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 13.62 m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 23 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Guadalajara, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14.77 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "13.27 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "41.36 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "13.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 23 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 23 * 0.577 ≈ 13.27 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 14.77 m.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 25 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Monterrey, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15.92 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "14.42 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "44.83 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "14.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 25 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 25 * 0.577 ≈ 14.42 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 15.92 m.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 27 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Veracruz, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17.08 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "15.58 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "48.29 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "15.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 27 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 27 * 0.577 ≈ 15.58 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 17.08 m.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 29 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Mérida, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.23 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "16.73 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "51.76 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "16.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 29 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 29 * 0.577 ≈ 16.73 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 18.23 m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 31 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Chihuahua, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "19.39 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "17.89 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "55.23 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "17.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 31 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 31 * 0.577 ≈ 17.89 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 19.39 m.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 33 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Durango, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20.54 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "19.04 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "58.69 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "18.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 33 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 33 * 0.577 ≈ 19.04 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 20.54 m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 35 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Oaxaca, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21.7 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "20.2 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "62.16 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "19.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 35 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 35 * 0.577 ≈ 20.2 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 21.7 m.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 37 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Puebla, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22.85 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "21.35 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "65.62 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "20.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 37 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 37 * 0.577 ≈ 21.35 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 22.85 m.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 39 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de CDMX, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24.0 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "22.5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "69.09 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "21.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 39 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 39 * 0.577 ≈ 22.5 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 24.0 m.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 41 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Morelia, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25.16 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "23.66 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "72.56 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "22.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 41 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 41 * 0.577 ≈ 23.66 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 25.16 m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 43 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Guadalajara, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "26.31 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "24.81 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "76.02 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "23.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 43 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 43 * 0.577 ≈ 24.81 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 26.31 m.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 45 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Monterrey, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27.46 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "25.96 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "79.49 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "24.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 45 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 45 * 0.577 ≈ 25.96 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 27.46 m.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 47 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Veracruz, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28.62 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "27.12 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "82.96 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "25.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 47 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 47 * 0.577 ≈ 27.12 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 28.62 m.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 49 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Mérida, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "29.77 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "28.27 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "86.42 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "26.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 49 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 49 * 0.577 ≈ 28.27 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 29.77 m.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 51 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Chihuahua, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30.93 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "29.43 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "89.89 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "27.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 51 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 51 * 0.577 ≈ 29.43 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 30.93 m.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
+      "statement": "Si el teodolito se ubica a una distancia horizontal de 53 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).",
+      "context": "Para medir la altura de un asta bandera en un zócalo de Durango, se usa un teodolito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32.08 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "30.58 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
+        },
+        {
+          "letter": "C",
+          "text": "93.35 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "28.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 53 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 53 * 0.577 ≈ 30.58 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 32.08 m.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
       "id": "MX-MAT-11-2026-W15-trigonometria-razones-trigonometricas-001-MASTERY-bundle-v1",
       "statement": "En un triángulo rectángulo, ¿cómo se define la razón trigonométrica \"Seno\" de un ángulo agudo $\\theta$?",
       "context": "Un estudiante de bachillerato en Guadalajara está introduciéndose al estudio de la trigonometría plana.",
