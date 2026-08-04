@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "historia",
+    "country": "cl",
+    "pack_id": "cl-week-6-grade-11-subject-historia",
+    "generated_at": "2026-08-04T05:18:13.747Z"
+  },
+  "questions": [
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "¿Qué general militar lideró el Golpe de Estado de 1973 y asumió la jefatura de la Junta Militar de Gobierno de forma dictatorial?",
+      "context": "Diego analiza la historia del 11 de septiembre de 1973 en el Palacio de La Moneda en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carlos Prats.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El general Carlos Prats fue comandante en jefe del Ejército leal a la Constitución, asesinado por la dictadura en su exilio en Buenos Aires en 1974."
+        },
+        {
+          "letter": "B",
+          "text": "Augusto Pinochet Ugarte.",
+          "is_correct": true,
+          "feedback": "Correcto. El comandante en jefe del Ejército Augusto Pinochet encabezó la sublevación militar del 11 de septiembre de 1973 que bombardeó La Moneda e instauró una dictadura de diecisiete años."
+        },
+        {
+          "letter": "C",
+          "text": "Edmundo Pérez Zujovic.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue un ministro del Interior demócrata cristiano del gobierno de Frei Montalva, fallecido en 1971."
+        },
+        {
+          "letter": "D",
+          "text": "Jorge Alessandri Rodríguez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alessandri fue un ex-presidente civil de derecha (1958-1964) y no comandó tropas en el golpe de 1973."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Golpe de Estado del 11 de septiembre de 1973, respaldado por las Fuerzas Armadas y Carabineros de Chile, derrocó al presidente constitucional socialista Salvador Allende, dando inicio a una dictadura militar autoritaria liderada por Pinochet.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "¿Qué destacada organización de la Iglesia Católica chilena, fundada en 1976 por impulso del cardenal Raúl Silva Henríquez, asumió la defensa de los derechos humanos y la asistencia jurídica a las víctimas de la represión?",
+      "context": "Sofía estudia la defensa y el resguardo de los perseguidos políticos de la dictadura militar chilena en los años 70.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Sociedad de Socorros Mutuos de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mutuales eran agrupaciones del siglo XIX de previsión obrera privada, ajenas a la defensa jurídica de derechos humanos bajo Pinochet."
+        },
+        {
+          "letter": "B",
+          "text": "La Vicaría de la Solidaridad.",
+          "is_correct": true,
+          "feedback": "Correcto. La Vicaría de la Solidaridad recopiló testimonios, presentó miles de recursos de amparo judiciales por detenidos desaparecidos y brindó protección material, médica y legal inestimable a los perseguidos por la dictadura."
+        },
+        {
+          "letter": "C",
+          "text": "La Falange Nacional de Talca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Falange Nacional fue un partido de centro de las décadas de 1930 y 1940 que luego originó la Democracia Cristiana."
+        },
+        {
+          "letter": "D",
+          "text": "La Comisión Radicadora de Indígenas de Temuco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta comisión estatal del siglo XIX operó confiscando y reduciendo tierras del pueblo mapuche, sin relación con el cardenal Silva Henríquez."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ante la censura, la clausura del Congreso y la clausura de partidos políticos por la dictadura militar, la Iglesia Católica bajo el cardenal Silva Henríquez asumió un rol valiente e ineludible fundando el Comité Pro Paz y luego la Vicaría de la Solidaridad, registrando minuciosamente las violaciones a los derechos humanos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "¿Qué sistema previsional de capitalización individual obligatoria, administrado por consorcios financieros privados, sustituyó al histórico fondo solidario de reparto del Estado de Bienestar chileno en 1980?",
+      "context": "Martina analiza un informe económico sobre la implantación de la reforma previsional en Chile en el año 1980, ideada por José Piñera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Servicio de Seguro Social Obrero (SSS).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El SSS era el sistema solidario estatal de reparto de mediados de siglo, desmantelado por las reformas neoliberales de la dictadura."
+        },
+        {
+          "letter": "B",
+          "text": "Las Administradoras de Fondos de Pensiones (AFP).",
+          "is_correct": true,
+          "feedback": "Correcto. El Decreto Ley 3.500 de 1980 privatizó los fondos de jubilación, obligando a los trabajadores chilenos a cotizar un porcentaje mensual de su salario en cuentas de capitalización individual administradas por empresas privadas (las AFP)."
+        },
+        {
+          "letter": "C",
+          "text": "El Fondo Nacional de Salud de las Provincias (FONASA).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fonasa es la institución fiscal de cobertura de salud de Chile, no de pensiones o jubilación previsional de capitalización."
+        },
+        {
+          "letter": "D",
+          "text": "La Caja de la Habitación Popular de la CORFO.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una entidad habitacional de mediados del siglo XX y no guardaba relación con la reforma previsional de las AFP de 1980."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La privatización previsional chilena de las AFP constituyó una de las reformas neoliberales más radicales de los 'Chicago Boys'. El fondo solidario de pensiones fue clausurado y los aportes de capitalización individual se transformaron en un motor del mercado de capitales privado chileno, desligando al Estado de la garantía directa de jubilaciones dignas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál era la principal función política de los cerrojos y enclaves autoritarios (como senadores designados o quórums supra-mayoritarios) introducidos en el texto constitucional de 1980?",
+      "context": "Durante una discusión universitaria en Valparaíso sobre la Constitución de 1980, Vicente analiza los 'cerrojos institucionales' redactados por la Comisión Ortúzar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entregar el mando supremo de las Fuerzas Armadas al Partido Radical de forma perpetua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Partido Radical estaba proscrito y perseguido; Pinochet aborrecía los partidos tradicionales civiles."
+        },
+        {
+          "letter": "B",
+          "text": "Garantizar la devolución gratuita de las salitreras norteñas a John Thomas North.",
+          "is_correct": false,
+          "feedback": "Incorrecto. John Thomas North falleció en el siglo XIX, el salitre ya no era relevante frente a la minería del cobre y las reformas neoliberales de la dictadura."
+        },
+        {
+          "letter": "C",
+          "text": "Asegurar que las bases del modelo neoliberal, la tutela de las FF.AA. y el orden de Pinochet continuaran inalterables aun si ganaba la oposición civil democrática en el futuro.",
+          "is_correct": true,
+          "feedback": "Correcto. Los 'cerrojos institucionales' diseñados por Jaime Guzmán buscaban amarrar la transición a la democracia, forzando quórums imposibles para reformar leyes y manteniendo senadores designados afines al pinochetismo para neutralizar las mayorías electorales de centro-izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "Otorgar la nacionalidad chilena automática e incondicional a los diplomáticos argentinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No formaba parte de las motivaciones de cerrojos autoritarios nacionales chilenos diseñados por la dictadura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución de 1980, aprobada en un plebiscito fraudulento y sin registros electorales bajo dictadura, se estructuró para blindar las reformas económicas neoliberales del mercado frente a presiones democráticas reformistas parlamentarias, limitando severamente la soberanía popular del voto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "¿Qué organismo de inteligencia militar concentró el aparato represivo clandestino de Pinochet entre 1974 y 1977, asumiendo la autoría del secuestro, tortura y desaparición forzada de miles de opositores civiles?",
+      "context": "Matías analiza las violaciones sistemáticas a los derechos humanos y el rol de los aparatos represivos estatales de la dictadura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Dirección de Inteligencia Nacional (DINA).",
+          "is_correct": true,
+          "feedback": "Correcto. Dirigida por el coronel Manuel Contreras, la DINA operó de forma clandestina con plenos poderes dictatoriales persiguiendo a militantes de izquierda en centros de detención secretos como Villa Grimaldi, Londres 38 y José Domingo Cañas, antes de ser reestructurada como la CNI en 1977."
+        },
+        {
+          "letter": "B",
+          "text": "La Central Nacional de Informaciones Siderúrgicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CNI existió como Central Nacional de Informaciones substituyendo a la DINA en 1977, pero su objeto era la represión militar interna, no un organismo de siderurgia fabril."
+        },
+        {
+          "letter": "C",
+          "text": "El Cuerpo de Carabineros de la Frontera de Arauco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carabineros es la policía regular nacional civil; la represión selectiva secreta de Pinochet fue coordinada por la DINA y la posterior CNI de forma militarizada clandestina."
+        },
+        {
+          "letter": "D",
+          "text": "La Vicaría de la Solidaridad de la Iglesia Católica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Vicaría de la Solidaridad era una organización humanitaria de defensa y resguardo legal para las víctimas del régimen represivo de Pinochet, y no un aparato del Estado dictatorial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La DINA encarnó el terrorismo de Estado en Chile de forma sistemática. Dependía de Pinochet de forma directa y llevó a cabo crímenes atroces, torturas y asesinatos dentro y fuera de la frontera de Chile (como el atentado con coche bomba a Orlando Letelier en Washington D.C. en 1976).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "¿Qué paradigma económico neoclásico e ideas basilar del libre mercado sustentó el plan de reformas macroeconómicas contenido en el documento conocido como 'El Ladrillo' de 1973?",
+      "context": "Isidora investiga las transformaciones económicas impulsadas por los 'Chicago Boys', un grupo de economistas chilenos egresados de la Universidad Católica formados bajo Milton Friedman en la Universidad de Chicago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La estatización total de la industria y la supresión absoluta de la propiedad privada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondía al programa de la UP de Salvador Allende; los Chicago Boys implementaron lo opuesto."
+        },
+        {
+          "letter": "B",
+          "text": "El neoliberalismo, que postulaba la reducción drástica del gasto fiscal, la privatización de empresas públicas estatales, la desregulación de precios y la apertura arancelaria al comercio internacional.",
+          "is_correct": true,
+          "feedback": "Correcto. Los Chicago Boys aplicaron la 'terapia de choque' neoliberal para corregir la alta inflación heredada de la crisis de la UP, retirando de golpe al Estado del rol interventor de mediados de siglo e imponiendo el libre mercado."
+        },
+        {
+          "letter": "C",
+          "text": "El modelo corporativo cepalino de industrialización dirigida (ISI).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo ISI fue desmantelado radicalmente por los Chicago Boys por considerarlo ineficiente y proteccionista."
+        },
+        {
+          "letter": "D",
+          "text": "La expropiación pacífica de tierras rurales para dárselas a cooperativas alemanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guardaba relación con planes germánicos; las tierras agrarias expropiadas de la reforma agraria fueron privatizadas o devueltas a sus antiguos dueños terratenientes ricos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bajo la dictadura militar de Pinochet se instaló a Chile como el primer laboratorio mundial del neoliberalismo. 'El Ladrillo' fue el manual de reformas que desmanteló el Estado de Bienestar, abriendo las fronteras comerciales nacionales y reduciendo al mínimo la injerencia fiscal.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "¿Qué factores combinados de política cambiaria fija y endeudamiento privado desataron el dramático desplome de la economía chilena en la crisis de 1982?",
+      "context": "En la Región del Biobío, Catalina analiza la crisis económica que azotó a Chile en el año 1982 en plena dictadura militar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La escasez de carbón de Lota por la erupción masiva de volcanes submarinos en Concepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crisis del 82 no fue provocada por erupciones volcánicas ni desastres de minería submarina costera."
+        },
+        {
+          "letter": "B",
+          "text": "La nacionalización unilateral de la banca privada ordenada por el presidente del Parlamento de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La banca era privada bajo Pinochet, y el Congreso chileno continuaba clausurado desde el golpe del 73."
+        },
+        {
+          "letter": "C",
+          "text": "El tipo de cambio fijo del dólar a 39 pesos chilenos que abarataba las importaciones de consumo suntuario, sumado a la recesión global y el retiro de créditos de la banca internacional.",
+          "is_correct": true,
+          "feedback": "Correcto. La obstinación del ministro Sergio de Castro de fijar el dólar a 39 pesos asfixió a la industria nacional frente a productos importados baratos. Al subir las tasas de interés globales en 1982, la banca privada chilena quebró, forzando la intervención fiscal, devaluación de la moneda, desempleo récord y masiva miseria obrera popular."
+        },
+        {
+          "letter": "D",
+          "text": "La firma de tratados comerciales exclusivos de libre exportación con la Unión Soviética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dictadura de Pinochet rompió de forma absoluta y violenta toda relación comercial y diplomática con el bloque comunista soviético."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crisis de 1982 fue el colapso del 'primer milagro económico' neoliberal chileno. El PGB nacional cayó un 14%, el desempleo superó el 30% (incluyendo el empleo precario del PEM y POJH) y el propio Pinochet debió estatizar y rescatar de la quiebra a los grandes bancos privados chilenos que habían promovido la desregulación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "¿Qué proceso administrativo e institucional, conocido como 'municipalización de la enseñanza pública', implementó Pinochet en 1981 desmantelando la red del Estado Docente?",
+      "context": "Sofía examina los cambios en la educación escolar introducidos por la dictadura militar en el año 1981 en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El traspaso de la administración de las escuelas y liceos fiscales desde el Ministerio de Educación del Estado a las respectivas municipalidades de Chile.",
+          "is_correct": true,
+          "feedback": "Correcto. La municipalización segmentó el sistema educativo. El Estado central abandonó el financiamiento directo de las escuelas públicas, delegándolas en los municipios chilenos, lo que consagró brechas profundas de calidad ligadas a los recursos presupuestarios de las comunas ricas o pobres."
+        },
+        {
+          "letter": "B",
+          "text": "La gratuidad obligatoria incondicional de toda la enseñanza universitaria de posgrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, las universidades chilenas comenzaron a autofinanciarse mediante altos aranceles privados y créditos bancarios de endeudamiento familiar."
+        },
+        {
+          "letter": "C",
+          "text": "La abolición del idioma castellano para dictar la enseñanza escolar básica rural en idioma germánico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo sustituciones de idiomas oficiales chilenos bajo la dictadura militar de Pinochet."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega exclusiva de todos los colegios primarios fiscales al arzobispado católico de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si bien el clero tradicional administraba sus colegios particulares de élite, la red fiscal pública no fue privatizada a la Iglesia, sino municipalizada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La municipalización (1981) fragmentó la equidad y calidad formativa nacional. Los profesores fiscales perdieron su estatus de empleados públicos del Estado (génesis de la 'Deuda Histórica') y se incentivó el surgimiento de colegios particulares subvencionados por el Estado (vouchers), mercantilizando la educación de masas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.63,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "¿Qué fin doctrinario de reconfiguración del poder social perseguían los economistas neoliberales de la dictadura militar al vender baratas decenas de valiosas empresas públicas creadas bajo la CORFO?",
+      "context": "Durante un debate histórico en Valparaíso, Vicente analiza los objetivos del plan de 'Privatización de Empresas Estatales' llevado a cabo por los Chicago Boys entre 1975 y 1989.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disolver el derecho a huelga en las minas de carbón del golfo de Arauco para beneficiar a Argentina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las privatizaciones no eran para ceder riqueza a países vecinos, sino para consolidar el capital privado nacional e internacional aliado de la dictadura militar."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar los impuestos aduaneros cobrados en el puerto de Valparaíso para robustecer al Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reformas neoliberales redujeron drásticamente los impuestos aduaneros comerciales para desmantelar la estructura proteccionista del Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Reducir de forma irreversible el poder y tamaño del Estado en la economía de Chile, privatizando la riqueza nacional a favor de consorcios privados y grupos económicos chilenos afines.",
+          "is_correct": true,
+          "feedback": "Correcto. Privatizar firmas estratégicas (como ENDESA, CAP, IANSA, SOQUIMICH, ENTEL) buscaba liquidar de forma definitiva la matriz socialista o estatista de desarrollo, consolidando grupos económicos privados nacionales fieles al orden neoliberal de Pinochet."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar a todo habitante a ser accionista de los ferrocarriles de la Araucanía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ferrocarriles estatales continuaron operando marginados, y las privatizaciones saldaron en favor de grupos económicos concentrados particulares."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oleada de privatizaciones bajo dictadura se ejecutó sin fiscalización parlamentaria o civil alguna. Muchas de las compañías creadas en la época de la CORFO fueron transferidas a precios subvalorados a familiares o colaboradores íntimos de la cúpula de Pinochet (como Julio Ponce Lerou en Soquimich), creando fortunas colosales que mantuvieron amplio poder político.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "¿Qué dualidad sanitaria de clases se consolidó institucionalmente en Chile con la introducción de las Instituciones de Salud Previsional (Isapres) privadas en 1981?",
+      "context": "Analizando la geografía laboral de Chile, Matías estudia el impacto de la privatización de los servicios de salud y la creación de las Isapres en 1981.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fin absoluto de Fonasa y el traspaso obligatorio de todo habitante de Chile a clínicas privadas de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fonasa continuó existiendo para acoger a las masas populares de bajos recursos fiscales y de fonasa solidaria."
+        },
+        {
+          "letter": "B",
+          "text": "Un sistema de salud segmentado: clínicas privadas de alta tecnología (Isapres) para las clases altas solventes y hospitales públicos desfinanciados (Fonasa) para las grandes masas trabajadoras y pobres.",
+          "is_correct": true,
+          "feedback": "Correcto. El Decreto Ley de 1981 permitió derivar las cotizaciones obligatorias de salud de los trabajadores chilenos de mayores ingresos a firmas aseguradoras privadas con fines de lucro (las Isapres), quitando recursos de solidaridad al fondo público sanitario común."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición absoluta de que las mujeres campesinas se atendieran en los consultorios públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sector público sanitario (Fonasa) continuó asumiendo la atención materno-infantil de la población rural chilena."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega gratuita de la totalidad de las Isapres chilenas a consorcios de origen británico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Isapres fueron controladas por capitales privados nacionales y multinacionales de seguros de salud, ajenos a concesiones coloniales inglesas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al mercantilizar la salud chilena, la dictadura militar rompió la matriz solidaria integradora del Servicio Nacional de Salud creado en 1952. La Isapre operó bajo lógica de seguro individual selectivo que discriminaba a mujeres en edad fértil y adultos mayores por costo de riesgo, consagrando la salud como un bien de consumo privado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "A la luz de los antecedentes históricos, ¿por qué la reforma constitucional que nacionalizó la gran minería del cobre en julio de 1971 (bajo Salvador Allende) contó con el voto unánime de todos los sectores políticos del Congreso, incluidos derechistas y demócrata cristianos?",
+      "context": "Martina lee un manifiesto de la Unidad Popular de 1970 sobre la 'Nacionalización del Cobre' en Chile.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las compañías estadounidenses habían regalado voluntariamente sus acciones de Chuquicamata en 1970.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las firmas transnacionales de EE.UU. resistían la expropiación y exigían indemnizaciones de gran envergadura financiera."
+        },
+        {
+          "letter": "B",
+          "text": "Porque existía un profundo consenso nacional y patriótico transversal de que recuperar la propiedad de la principal riqueza nacional (el cobre) era vital para financiar el desarrollo fiscal soberano de Chile.",
+          "is_correct": true,
+          "feedback": "Correcto. La nacionalización de la gran minería del cobre se consideraba históricamente como la 'segunda independencia de Chile'. Los partidos de derecha y la DC se unieron a la UP en el Congreso para votar por unanimidad la reforma constitucional de expropiación, debido al arraigo social de la demanda de soberanía mineral de los yacimientos."
+        },
+        {
+          "letter": "C",
+          "text": "Por exigencia forzada del Imperio Alemán a cambio de la colonización agrícola del sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No operaban influencias germánicas imperiales de tal índole; el proceso fue soberano y parlamentario nacional de Chile."
+        },
+        {
+          "letter": "D",
+          "text": "Para anular toda exportación de cobre refinado a los mercados de los Estados Unidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile continuó exportando cobre a mercados occidentales; la nacionalización buscaba que el excedente fiscal quedara en manos de la estatal Codelco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La nacionalización del cobre de 1971 fue la reforma estructural más profunda de la historia nacional. Codelco asumió la propiedad y administración de Chuquicamata, El Teniente, El Salvador y Andina, permitiendo al Estado contar con divisas que financiaron el presupuesto público bajo diversos regímenes políticos posteriores.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "¿Qué dramático hito de represión sistemática y de violación de derechos humanos de la dictadura militar de Pinochet ilustra históricamente el hallazgo de la fosa común del cementerio de Pisagua en junio de 1990?",
+      "context": "Isidora analiza testimonios de detenidos políticos en el Campamento de Prisioneros de Pisagua, un pueblo portuario desértico en la Región de Tarapacá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La muerte de soldados chilenos que luchaban contra piratas de origen español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo piratas españoles en Iquique ni Pisagua en la época contemporánea de 1990 o de dictadura de Pinochet."
+        },
+        {
+          "letter": "B",
+          "text": "La existencia del ocultamiento de crímenes bajo la figura del arresto de 'Detenidos Desaparecidos' que habían sido fusilados clandestinamente al margen de la ley por agentes militares de la dictadura militar.",
+          "is_correct": true,
+          "feedback": "Correcto. El hallazgo de la fosa común de Pisagua en 1990 desnudó la verdad científica y criminal de los detenidos desaparecidos, revelando cuerpos momificados de militantes y dirigentes de izquierda asesinados y ocultos secretamente en la arena del desierto nortino chilenos."
+        },
+        {
+          "letter": "C",
+          "text": "La tumba colectiva de los colonos alemanes fallecidos por tifus en Valdivia en 1850.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colonos de Valdivia están en los cementerios del sur de Chile de forma legal e histórica, ajenos a la fosa de detenidos desaparecidos de la dictadura en Pisagua de los años 70."
+        },
+        {
+          "letter": "D",
+          "text": "El entierro formal de los combatientes de la Guerra del Pacífico de 1879.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si bien hubo combates en Pisagua en 1879, la fosa común exhumada en 1990 contenía cuerpos de prisioneros políticos contemporáneos amarrados y con balazos ejecutados bajo la dictadura de Pinochet."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El descubrimiento de la fosa de Pisagua en junio de 1990 conmocionó al país al iniciarse la transición democrática. Los restos exhumados en excelente estado de conservación por la aridez del desierto demostraron ante los tribunales civiles la sistematicidad de los asesinatos políticos ordenados por los consejos de guerra del régimen militar.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "¿Qué limitaciones drásticas a la fuerza organizativa de la clase trabajadora impuso el Plan Laboral de 1979 frente a las conquistas sindicales previas de mediados de siglo?",
+      "context": "Analizando la política laboral de la dictadura, Sofía estudia la promulgación del 'Plan Laboral' redactado por José Piñera en 1979.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obligación de que los sindicatos estuvieran dirigidos por sacerdotes jesuitas de Concepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El régimen de Pinochet desconfiaba del clero progresista laico, y el Plan Laboral secularizó y fragmentó la organización gremial."
+        },
+        {
+          "letter": "B",
+          "text": "La desarticulación de la negociación colectiva por ramas de industria (limitándola solo al nivel de empresa individual), la huelga acotada y el fin del sindicato único obligatorio.",
+          "is_correct": true,
+          "feedback": "Correcto. El Plan Laboral desarticuló el poder de los sindicatos nacionales. Al prohibir la negociación interempresa y permitir la contratación de reemplazos durante las huelgas chilenas, se atomizó la fuerza del proletariado frente a los empleadores privados capitalistas."
+        },
+        {
+          "letter": "C",
+          "text": "La estatización total de la Central Única de Trabajadores (CUT) de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La CUT fue proscrita y perseguida con violencia dictatorial militar clandestina, sin nacionalizaciones de sindicatos obreros chilenos."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición absoluta de contratar obreros en las provincias de Arauco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mano de obra agrícola forestal continuó contratándose bajo el nuevo código laboral desregulado de la dictadura militar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Plan Laboral de 1979 adaptó el mercado del trabajo a la matriz neoliberal. Al atomizar la negociación sindical al ámbito exclusivo de cada empresa, se quitó poder a las federaciones sectoriales (como las del carbón o del metal), reduciendo significativamente la huelga como mecanismo eficaz de redistribución de utilidades.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "¿Qué destino institucional dio la dictadura de Pinochet a la empresa estatal CODELCO creada bajo la nacionalización unánime del cobre de 1971?",
+      "context": "En la cordillera de la Región Metropolitana, Benjamín analiza las dinámicas de 'Chilenización de la industria del cobre' y su desenlace posterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Privatizó de inmediato la totalidad de las minas de Chuquicamata vendiéndolas baratas a John Thomas North.",
+          "is_correct": false,
+          "feedback": "Incorrecto. John Thomas North falleció en el siglo XIX; Codelco se mantuvo en manos públicas debido a la importancia estratégica fiscal militar de las divisas."
+        },
+        {
+          "letter": "B",
+          "text": "Regaló CODELCO de forma íntegra e incondicional al gobierno de los Estados Unidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cobre continuó siendo propiedad inalienable del Estado chileno, sin regalarse a corporaciones gubernamentales extranjeras de EE.UU."
+        },
+        {
+          "letter": "C",
+          "text": "Mantuvo a CODELCO como corporación estatal pública para captar sus millonarios excedentes fiscales de exportación, destinando por ley el 10% de sus ventas al financiamiento exclusivo de las FF.AA. (Ley Reservada del Cobre).",
+          "is_correct": true,
+          "feedback": "Correcto. A pesar del credo privatizador neoliberal de los Chicago Boys, Pinochet resguardó el carácter estatal de Codelco para asegurar los presupuestos militares y de defensa del país mediante la Ley Reservada del Cobre de forma corporativa secreta."
+        },
+        {
+          "letter": "D",
+          "text": "Dividió a CODELCO para entregar la totalidad de las minas al pueblo mapuche de Temuco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades originarias continuaron totalmente marginadas de las rentas cupríferas chilenas y del control soberano estatal minero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A pesar de privatizar casi todo el aparato de la CORFO, la Junta Militar mantuvo a CODELCO bajo control público fiscal. El pragmatismo militar de Pinochet comprendió que el cobre representaba el principal sustento de divisas de la nación y de las FF.AA., canalizando el financiamiento militar directo y secreto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "¿Qué repercusión internacional y diplomática de aislamiento de largo plazo tuvo para la dictadura de Pinochet la persistencia de las violaciones sistemáticas a los derechos humanos?",
+      "context": "Un seminario sobre la transición a la democracia analiza la histórica visita de las delegaciones de la Comisión de Derechos Humanos de las Naciones Unidas a Chile en la década de 1980.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La condena moral recurrente de la ONU, restricciones a la venta de armamento (Enmienda Kennedy) y el cuestionamiento ético global de los gobiernos occidentales, que minaron su legitimidad exterior.",
+          "is_correct": true,
+          "feedback": "Correcto. La dictadura de Pinochet enfrentó una agudizada condena internacional. Gobiernos europeos y de EE.UU. impusieron embargos de armas y vetos financieros, transformando al régimen militar chileno en un paria diplomático mundial."
+        },
+        {
+          "letter": "B",
+          "text": "La firma de un tratado de libre comercio exclusivo con el Imperio Británico en 1980.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque Margaret Thatcher simpatizaba con Pinochet, la condena del Parlamento británico y del mundo impidió pactos preferenciales de libre comercio de ese cuño."
+        },
+        {
+          "letter": "C",
+          "text": "La anexión pacífica de la Patagonia argentina por decreto diplomático de las Naciones Unidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo variaciones limítrofes ni de anexión de tierras por parte de la ONU; el litigio fronterizo continuaba cerrado."
+        },
+        {
+          "letter": "D",
+          "text": "La entrega incondicional del puerto de Valparaíso a la armada española para su custodia fiscal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile resguardaba celosamente su control aduanero y militar soberano del puerto sin someterse a España."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La persistencia de las denuncias de tortura, exilio masivo y detenciones clandestinas obstaculizó las relaciones diplomáticas de Chile. El activismo de la Vicaría de la Solidaridad y Amnistía Internacional aislaron al régimen de Pinochet, forzándolo a diseñar plebiscitos institucionales de legitimación civil interna.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.44,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "¿Qué principio doctrinal, acuñado como 'el Rol Subsidiario del Estado', plasmó la Constitución de 1980 respecto de la participación fiscal en las áreas sociales básicas (educación, salud, pensiones)?",
+      "context": "Martina analiza los orígenes estructurales de las desigualdades sociales contemporáneas a partir de la Constitución de 1980.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La nacionalización absoluta de todos los colegios particulares subvencionados del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución de 1980 consagra la libre empresa y la libertad de enseñanza privada lucrativa, contraria a nacionalizar colegios."
+        },
+        {
+          "letter": "B",
+          "text": "La noción de que el Estado solo debe intervenir en aquellas actividades económicas o sociales que los particulares privados no puedan o no quieran asumir, consagrando la privatización de servicios públicos básicos.",
+          "is_correct": true,
+          "feedback": "Correcto. El rol subsidiario restringe la acción del Estado como proveedor directo de derechos. Promueve que la salud, educación y previsión se organicen de forma preferente bajo el mercado privado de libre competencia, quedando el fisco reservado para regular o subsidiar de forma focalizada la extrema miseria popular obrera."
+        },
+        {
+          "letter": "C",
+          "text": "La obligatoriedad de que la Universidad de Chile financiara todas las Isapres privadas chilenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Isapres eran empresas financieras con fines de lucro que captaban las cotizaciones directas particulares chilenas y no de fondos de la Universidad de Chile."
+        },
+        {
+          "letter": "D",
+          "text": "La expropiación pacífica de los puertos de Valparaíso por parte de la corona de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No operaban influencias monárquicas españolas; el control portuario fue privatizado a consorcios multinacionales y nacionales privados de Chile."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El 'Estado Subsidiario' sepultó al 'Estado de Bienestar' chileno del siglo XX. El acceso a la salud, educación e higiene pública dejó de consagrarse bajo un principio de derecho solidario universal garantizado por el fisco, transformando los servicios en mercancías transables en el mercado según capacidad económica individual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.41,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "A la luz de los antecedentes de la Guerra Fría y la polarización interna, ¿cuál de las siguientes afirmaciones evalúa con mayor rigor científico el impacto de la intervención encubierta de EE.UU. (CIA) en el derrocamiento de Salvador Allende?",
+      "context": "En la Universidad de Concepción, un debate académico evalúa las causas socioeconómicas del derrumbe democrático de la Unidad Popular en 1973.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La intervención encubierta de la CIA fue el único y exclusivo factor real de la crisis, ya que en Chile no existía polarización social interna ni problemas económicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta interpretación elude la severa crisis de balanza de pagos, la alta inflación interna del 300% y la profunda pugna civil por el área de propiedad social entre los tercios."
+        },
+        {
+          "letter": "B",
+          "text": "Actuó como un poderoso catalizador desestabilizador de la crisis doméstica, financiando paros patronales de transportes, bloqueos financieros y campañas de prensa, amplificando la polarización social y el desabastecimiento interno.",
+          "is_correct": true,
+          "feedback": "Correcto. Documentos desclasificados demuestran que el gobierno de Richard Nixon ordenó 'hacer chillar la economía chilena'. La CIA financió de forma encubierta paros de camioneros, la prensa opositora (como El Mercurio) y boicoteó créditos del Banco Mundial, lo que sumado a los errores de planificación económica de la UP precipitaron el Golpe de Estado de Pinochet."
+        },
+        {
+          "letter": "C",
+          "text": "La CIA obligó al presidente Salvador Allende a abdicar voluntariamente ante la corona española del Valle Central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salvador Allende defendió con heroísmo su mandato constitucional civil republicano hasta su trágica muerte en La Moneda, y España no tuvo injerencia alguna."
+        },
+        {
+          "letter": "D",
+          "text": "La intervención militar de EE.UU. consistió en una invasión marítima directa con portaviones en las costas de Iquique.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo invasión o desembarco militar directo de portaviones de EE.UU. en Iquique o Valparaíso, sino una desestabilización encubierta y complot con sectores golpistas locales chilenos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El derrocamiento de Salvador Allende conjuga factores geopolíticos foráneos y una profunda fractura institucional civil doméstica. El boicot sistemático estadounidense agudizó el colapso financiero del país, pavimentando el terreno para que las Fuerzas Armadas chilenas asumieran la toma violenta del aparato estatal.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "¿Qué característica metodológica particular diferenció a los crímenes de represión política selectiva cometidos por la dictadura de Pinochet (1973-1990) de las guerras civiles decimonónicas de Chile (1851 o 1859)?",
+      "context": "Isidora evalúa críticamente el alcance de las violaciones de los derechos humanos y el terrorismo de Estado en el Chile contemporáneo bajo la dictadura militar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso sistemático e institucionalizado del aparato estatal clandestino (DINA/CNI) para detener secretamente, torturar, ejecutar y hacer desaparecer físicamente los restos de opositores sin juicios de ley civiles.",
+          "is_correct": true,
+          "feedback": "Correcto. A diferencia de las guerras del siglo XIX (donde los bandos chocaban de forma abierta armada institucional), bajo Pinochet se aplicó una represión selectiva secreta e institucionalizada del Estado que secuestraba ciudadanos, los sometía a tortura bárbara en cuarteles secretos y ocultaba los cadáveres (lanzándolos al mar en 'vuelos de la muerte' o enterrándolos clandestinamente) para evadir la justicia."
+        },
+        {
+          "letter": "B",
+          "text": "El destierro exclusivo de todos los oficiales del Ejército chileno a la pampa de Iquique.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los militares disidentes o leales a la constitución fueron exonerados, encarcelados o asesinados de forma clandestina, no desterrados a trabajar al norte."
+        },
+        {
+          "letter": "C",
+          "text": "La entrega obligatoria de todas las armas al arzobispado católico de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Iglesia denunciaba los crímenes de represión estatal pero no captaba ni custodiaba armamento militar de la dictadura militar."
+        },
+        {
+          "letter": "D",
+          "text": "La declaración inmediata de la cordillera del Nahuelbuta como zona desmilitarizada internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Araucanía y todo Chile estuvieron sometidos bajo un estricto estado de sitio y toque de queda militarizado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El terrorismo de Estado bajo Pinochet operó mediante la denegación sistemática del derecho a la vida y la legalidad. Se profesionalizó el secuestro y desaparición forzada de militantes y simpatizantes de la UP y el MIR, utilizando recursos fiscales de forma secreta para evadir el control de tribunales civiles.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "¿Qué factor social y organizativo de base popular articuló el estallido de las masivas movilizaciones de Protesta Nacional de 1983 tras años de absoluto silencio y amedrentamiento dictatorial?",
+      "context": "Un seminario crítico de historia social en Valparaíso evalúa el significado histórico de las 'Jornadas de Protesta Nacional' que estallaron a partir de mayo de 1983 contra la dictadura militar de Pinochet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La orden directa emitida por el Rey de España para disolver el régimen militar de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. España ya no ejercía de ningún modo influencias gubernamentales coloniales soberanas de arbitraje en Chile contemporáneo."
+        },
+        {
+          "letter": "B",
+          "text": "La grave recesión económica y desempleo masivo del país provocado por la crisis de 1982, liderada de forma valiente por la Confederación de Trabajadores del Cobre dirigida por Rodolfo Seguel.",
+          "is_correct": true,
+          "feedback": "Correcto. El colapso financiero de 1982 eclosionó la tolerancia popular. El sindicato del cobre de Seguel convocó al primer paro de Protesta Nacional en mayo de 1983, aglutinando a pobladores de las tomas de terreno urbanas desocupados, sindicatos de la construcción y juventudes de clase media que salieron a golpear cacerolas y levantar barricadas, exigiendo democracia."
+        },
+        {
+          "letter": "C",
+          "text": "La entrega de la administración de la mina de Chuquicamata a las Isapres privadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chuquicamata continuó bajo la estatal Codelco de forma inamovible por la Ley Reservada del Cobre de Pinochet."
+        },
+        {
+          "letter": "D",
+          "text": "La exigencia militar de privatizar el Estrecho de Magallanes a favor de las AFP privadas de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se privatizaron canales soberanos fluviales o marinos australes claves en favor del mercado previsional de fondos de AFP chilenos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las Protestas Nacionales (1983-1986) sepultaron la sensación de omnipotencia dictatorial de Pinochet. La crisis económica del 82 actuó como catalizador del descontento reprimido de pobladores urbanos desocupados, campesinos y mineros, forzando la paulatina reorganización del movimiento civil opositor democrático.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "A la luz de los debates políticos contemporáneos, ¿cuál de las siguientes afirmaciones evalúa de forma crítica la legitimidad de origen de la Constitución de 1980 de Pinochet frente a las exigencias democráticas del Chile de hoy?",
+      "context": "Martina lee un ensayo del sociólogo Manuel Antonio Garretón sobre los 'enclaves autoritarios' de la transición pactada chilena de fines de los años 80.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Careció de legitimidad democrática de origen al redactarse de forma secreta sin asamblea constituyente pluripartidista, y aprobarse en un plebiscito controlado militarmente sin registros electorales, sin prensa de oposición y en estado de sitio.",
+          "is_correct": true,
+          "feedback": "Correcto. Historiadores de diversos signos políticos coinciden en que la Carta de 1980 carece de bases soberanas de legitimidad democrática de origen por redactarse bajo dictadura repressiva, omitiendo la participación popular libre en las urnas, sirviendo para blindar las desigualdades mercantiles del modelo."
+        },
+        {
+          "letter": "B",
+          "text": "Fue redactada de forma democrática y transparente por los representantes mapuches de Temuco en 1980.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mapuches estuvieron totalmente excluidos de toda redacción constituyente bajo Pinochet, sufriendo la persecución agraria de sus comuneros de base de la Araucanía."
+        },
+        {
+          "letter": "C",
+          "text": "Su legitimidad radica en haber sido aprobada unánimemente por el Congreso Nacional bicameral de Santiago en plena democracia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Congreso chileno estaba clausurado por decreto militar desde septiembre de 1973; no existía debate parlamentario soberano democrático en Chile de 1980."
+        },
+        {
+          "letter": "D",
+          "text": "Fue impuesta directamente por los diplomáticos de la República Argentina tras la crisis de Beagle.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la crisis limítrofe del Beagle casi desató una guerra en 1978, la Constitución de 1980 fue un diseño interno exclusivo del régimen militar chileno liderado por Pinochet."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución de 1980 representó el marco legal de cerrojos autoritarios chilenos de mayor persistencia en el país. Sus elevados quórums de quiebre de consensos amarraron la transición pactada de la Concertación, constituyendo el núcleo de tensiones sociales contemporáneas que eclosionaron con fuerza en la crisis cívica actual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "historia",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}
