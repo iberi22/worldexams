@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "ec",
+    "pack_id": "ec-week-2-grade-11-subject-lengua",
+    "generated_at": "2026-08-04T00:45:03.457Z"
+  },
+  "questions": [
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v1",
+      "statement": "En un debate estudiantil en el Colegio Nacional Bolívar de Guayaquil, Patricia argumenta: 'La reserva ecológica del Yasuní alberga más de 1500 especies de aves registradas oficialmente'. ¿Qué función del lenguaje predomina en su intervención?",
+      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Guayaquil, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emotiva o expresiva, porque busca manifestar sus sentimientos de asombro por la biodiversidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Apelativa o conativa, puesto que ordena directamente a los oyentes que voten a favor de su propuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Referencial o representativa, porque su objetivo central es transmitir información objetiva y de la realidad de Guayaquil.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística, ya que explica el origen etimológico de los nombres científicos de las aves en Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función referencial se enfoca en el referente y el contexto, transmitiendo datos objetivos de la realidad de manera neutral.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v2",
+      "statement": "Fernando expresa con entusiasmo a sus compañeros en la playa de Cuenca: '¡Qué hermoso atardecer! Siento una paz increíble al mirar el océano'.",
+      "context": "Fernando, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Cuenca, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emotiva o expresiva, debido a que se centra en manifestar los sentimientos de Fernando y su estado de ánimo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Apelativa o conativa, ya que busca persuadir a sus amigos de Cuenca para que compren artesanías locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Poética o estética, porque utiliza figuras literarias complejas como el hipérbaton y la metáfora pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Fática o de contacto, puesto que su única finalidad es comprobar que sus amigos lo están escuchando bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función emotiva o expresiva se enfoca en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o juicios de valor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v3",
+      "statement": "Un afiche de la Cruz Roja en Ambato dice textualmente: '¡Donar sangre salva vidas! Acude este sábado al parque central y colabora con Camila'.",
+      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ambato, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fática o de contacto, puesto que se limita a abrir el canal de comunicación en Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Apelativa o conativa, ya que pretende influir directamente en la conducta del receptor para que colabore en Ambato.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Metalingüística, porque explica detalladamente la composición de la sangre a Camila.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Poética o estética, debido al uso de rimas consonantes y un ritmo métrico de carácter clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función apelativa o conativa está orientada al receptor, buscando persuadirlo, convencerlo o exhortarlo a actuar de cierta manera.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v4",
+      "statement": "En una llamada telefónica entre José y Santiago en Manta, se produce un silencio y José dice: '¿Aló? ¿Hola? ¿Me escuchas bien o se cortó la llamada?'.",
+      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Manta, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metalingüística, ya que reflexiona sobre el significado gramatical de la palabra de Santiago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Fática o de contacto, porque se utiliza para verificar, mantener, abrir o cerrar la comunicación entre José y Santiago.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Referencial o representativa, dado que describe de forma científica la señal telefónica en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Poética o estética, porque adorna de manera artística los sonidos cotidianos de la telecomunicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función fática se centra en el canal físico-técnico, sirviendo para comprobar que la línea de comunicación sigue abierta y activa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v5",
+      "statement": "En el pizarrón de la clase de Lengua en Colegio Nacional Nueve de Octubre de Loja, el docente escribe: 'El sujeto gramatical concuerda en número y persona con el núcleo del predicado'.",
+      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Loja, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poética o estética, debido a que resalta la belleza del sujeto y predicado en la poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Metalingüística, ya que se emplea la lengua para analizar o reflexionar sobre el propio código lingüístico en el Colegio Nacional Nueve de Octubre.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Emotiva o expresiva, porque el profesor de Loja transmite su alegría por las reglas de la sintaxis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Apelativa o conativa, puesto que exige a los alumnos de Colegio Nacional Nueve de Octubre de forma perentoria que guarden silencio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función metalingüística ocurre cuando el lenguaje se utiliza para hablar del propio lenguaje, aclarando el funcionamiento del código.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v6",
+      "statement": "En un debate estudiantil en el Colegio Nacional Maldonado de Riobamba, Sebastián argumenta: 'La reserva ecológica del Yasuní alberga más de 1500 especies de aves registradas oficialmente'. ¿Qué función del lenguaje predomina en su intervención?",
+      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Riobamba, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metalingüística, ya que explica el origen etimológico de los nombres científicos de las aves en Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Emotiva o expresiva, porque busca manifestar sus sentimientos de asombro por la biodiversidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Apelativa o conativa, puesto que ordena directamente a los oyentes que voten a favor de su propuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Referencial o representativa, porque su objetivo central es transmitir información objetiva y de la realidad de Riobamba.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función referencial se enfoca en el referente y el contexto, transmitiendo datos objetivos de la realidad de manera neutral.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v7",
+      "statement": "Valentina expresa con entusiasmo a sus compañeros en la playa de Ibarra: '¡Qué hermoso atardecer! Siento una paz increíble al mirar el océano'.",
+      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ibarra, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelativa o conativa, ya que busca persuadir a sus amigos de Ibarra para que compren artesanías locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Poética o estética, porque utiliza figuras literarias complejas como el hipérbaton y la metáfora pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Fática o de contacto, puesto que su única finalidad es comprobar que sus amigos lo están escuchando bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Emotiva o expresiva, debido a que se centra en manifestar los sentimientos de Valentina y su estado de ánimo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función emotiva o expresiva se enfoca en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o juicios de valor.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v8",
+      "statement": "Un afiche de la Cruz Roja en Portoviejo dice textualmente: '¡Donar sangre salva vidas! Acude este sábado al parque central y colabora con Elena'.",
+      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Portoviejo, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fática o de contacto, puesto que se limita a abrir el canal de comunicación en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Apelativa o conativa, ya que pretende influir directamente en la conducta del receptor para que colabore en Portoviejo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Metalingüística, porque explica detalladamente la composición de la sangre a Elena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Poética o estética, debido al uso de rimas consonantes y un ritmo métrico de carácter clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función apelativa o conativa está orientada al receptor, buscando persuadirlo, convencerlo o exhortarlo a actuar de cierta manera.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v9",
+      "statement": "En una llamada telefónica entre Santiago y Diana en Machala, se produce un silencio y Santiago dice: '¿Aló? ¿Hola? ¿Me escuchas bien o se cortó la llamada?'.",
+      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Machala, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fática o de contacto, porque se utiliza para verificar, mantener, abrir o cerrar la comunicación entre Santiago y Diana.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Referencial o representativa, dado que describe de forma científica la señal telefónica en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Poética o estética, porque adorna de manera artística los sonidos cotidianos de la telecomunicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística, ya que reflexiona sobre el significado gramatical de la palabra de Diana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función fática se centra en el canal físico-técnico, sirviendo para comprobar que la línea de comunicación sigue abierta y activa.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v10",
+      "statement": "En el pizarrón de la clase de Lengua en Colegio Benigno Malo de Esmeraldas, el docente escribe: 'El sujeto gramatical concuerda en número y persona con el núcleo del predicado'.",
+      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Esmeraldas, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelativa o conativa, puesto que exige a los alumnos de Colegio Benigno Malo de forma perentoria que guarden silencio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Poética o estética, debido a que resalta la belleza del sujeto y predicado en la poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Metalingüística, ya que se emplea la lengua para analizar o reflexionar sobre el propio código lingüístico en el Colegio Benigno Malo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Emotiva o expresiva, porque el profesor de Esmeraldas transmite su alegría por las reglas de la sintaxis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función metalingüística ocurre cuando el lenguaje se utiliza para hablar del propio lenguaje, aclarando el funcionamiento del código.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v11",
+      "statement": "En un debate estudiantil en el Colegio Nacional Bolívar de Santo Domingo, Gabriela argumenta: 'La reserva ecológica del Yasuní alberga más de 1500 especies de aves registradas oficialmente'. ¿Qué función del lenguaje predomina en su intervención?",
+      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Santo Domingo, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emotiva o expresiva, porque busca manifestar sus sentimientos de asombro por la biodiversidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Apelativa o conativa, puesto que ordena directamente a los oyentes que voten a favor de su propuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Referencial o representativa, porque su objetivo central es transmitir información objetiva y de la realidad de Santo Domingo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística, ya que explica el origen etimológico de los nombres científicos de las aves en Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función referencial se enfoca en el referente y el contexto, transmitiendo datos objetivos de la realidad de manera neutral.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v12",
+      "statement": "David expresa con entusiasmo a sus compañeros en la playa de Quito: '¡Qué hermoso atardecer! Siento una paz increíble al mirar el océano'.",
+      "context": "David, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Quito, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelativa o conativa, ya que busca persuadir a sus amigos de Quito para que compren artesanías locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Poética o estética, porque utiliza figuras literarias complejas como el hipérbaton y la metáfora pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Fática o de contacto, puesto que su única finalidad es comprobar que sus amigos lo están escuchando bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Emotiva o expresiva, debido a que se centra en manifestar los sentimientos de David y su estado de ánimo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función emotiva o expresiva se enfoca en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o juicios de valor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v13",
+      "statement": "Un afiche de la Cruz Roja en Guayaquil dice textualmente: '¡Donar sangre salva vidas! Acude este sábado al parque central y colabora con Estefanía'.",
+      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Guayaquil, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poética o estética, debido al uso de rimas consonantes y un ritmo métrico de carácter clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Fática o de contacto, puesto que se limita a abrir el canal de comunicación en Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Apelativa o conativa, ya que pretende influir directamente en la conducta del receptor para que colabore en Guayaquil.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística, porque explica detalladamente la composición de la sangre a Estefanía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función apelativa o conativa está orientada al receptor, buscando persuadirlo, convencerlo o exhortarlo a actuar de cierta manera.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v14",
+      "statement": "En una llamada telefónica entre Diana y Ana en Cuenca, se produce un silencio y Diana dice: '¿Aló? ¿Hola? ¿Me escuchas bien o se cortó la llamada?'.",
+      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Cuenca, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metalingüística, ya que reflexiona sobre el significado gramatical de la palabra de Ana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Fática o de contacto, porque se utiliza para verificar, mantener, abrir o cerrar la comunicación entre Diana y Ana.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Referencial o representativa, dado que describe de forma científica la señal telefónica en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Poética o estética, porque adorna de manera artística los sonidos cotidianos de la telecomunicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función fática se centra en el canal físico-técnico, sirviendo para comprobar que la línea de comunicación sigue abierta y activa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v15",
+      "statement": "En el pizarrón de la clase de Lengua en Colegio Nacional Nueve de Octubre de Ambato, el docente escribe: 'El sujeto gramatical concuerda en número y persona con el núcleo del predicado'.",
+      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ambato, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poética o estética, debido a que resalta la belleza del sujeto y predicado en la poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Metalingüística, ya que se emplea la lengua para analizar o reflexionar sobre el propio código lingüístico en el Colegio Nacional Nueve de Octubre.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Emotiva o expresiva, porque el profesor de Ambato transmite su alegría por las reglas de la sintaxis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Apelativa o conativa, puesto que exige a los alumnos de Colegio Nacional Nueve de Octubre de forma perentoria que guarden silencio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función metalingüística ocurre cuando el lenguaje se utiliza para hablar del propio lenguaje, aclarando el funcionamiento del código.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v16",
+      "statement": "En un debate estudiantil en el Colegio Nacional Maldonado de Manta, Rafael argumenta: 'La reserva ecológica del Yasuní alberga más de 1500 especies de aves registradas oficialmente'. ¿Qué función del lenguaje predomina en su intervención?",
+      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Manta, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emotiva o expresiva, porque busca manifestar sus sentimientos de asombro por la biodiversidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Apelativa o conativa, puesto que ordena directamente a los oyentes que voten a favor de su propuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Referencial o representativa, porque su objetivo central es transmitir información objetiva y de la realidad de Manta.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Metalingüística, ya que explica el origen etimológico de los nombres científicos de las aves en Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función referencial se enfoca en el referente y el contexto, transmitiendo datos objetivos de la realidad de manera neutral.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v17",
+      "statement": "Andrés expresa con entusiasmo a sus compañeros en la playa de Loja: '¡Qué hermoso atardecer! Siento una paz increíble al mirar el océano'.",
+      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Loja, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poética o estética, porque utiliza figuras literarias complejas como el hipérbaton y la metáfora pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Fática o de contacto, puesto que su única finalidad es comprobar que sus amigos lo están escuchando bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Emotiva o expresiva, debido a que se centra en manifestar los sentimientos de Andrés y su estado de ánimo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Apelativa o conativa, ya que busca persuadir a sus amigos de Loja para que compren artesanías locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función emotiva o expresiva se enfoca en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o juicios de valor.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v18",
+      "statement": "Un afiche de la Cruz Roja en Riobamba dice textualmente: '¡Donar sangre salva vidas! Acude este sábado al parque central y colabora con María'.",
+      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Riobamba, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metalingüística, porque explica detalladamente la composición de la sangre a María.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Poética o estética, debido al uso de rimas consonantes y un ritmo métrico de carácter clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Fática o de contacto, puesto que se limita a abrir el canal de comunicación en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Apelativa o conativa, ya que pretende influir directamente en la conducta del receptor para que colabore en Riobamba.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función apelativa o conativa está orientada al receptor, buscando persuadirlo, convencerlo o exhortarlo a actuar de cierta manera.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v19",
+      "statement": "En una llamada telefónica entre Ana y José en Ibarra, se produce un silencio y Ana dice: '¿Aló? ¿Hola? ¿Me escuchas bien o se cortó la llamada?'.",
+      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Ibarra, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poética o estética, porque adorna de manera artística los sonidos cotidianos de la telecomunicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Metalingüística, ya que reflexiona sobre el significado gramatical de la palabra de José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Fática o de contacto, porque se utiliza para verificar, mantener, abrir o cerrar la comunicación entre Ana y José.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Referencial o representativa, dado que describe de forma científica la señal telefónica en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función fática se centra en el canal físico-técnico, sirviendo para comprobar que la línea de comunicación sigue abierta y activa.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v20",
+      "statement": "En el pizarrón de la clase de Lengua en Colegio Benigno Malo de Portoviejo, el docente escribe: 'El sujeto gramatical concuerda en número y persona con el núcleo del predicado'.",
+      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Portoviejo, examina de qué forma los enunciados y afiches públicos transmiten una intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelativa o conativa, puesto que exige a los alumnos de Colegio Benigno Malo de forma perentoria que guarden silencio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Poética o estética, debido a que resalta la belleza del sujeto y predicado en la poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Metalingüística, ya que se emplea la lengua para analizar o reflexionar sobre el propio código lingüístico en el Colegio Benigno Malo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Emotiva o expresiva, porque el profesor de Portoviejo transmite su alegría por las reglas de la sintaxis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función metalingüística ocurre cuando el lenguaje se utiliza para hablar del propio lenguaje, aclarando el funcionamiento del código.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}
