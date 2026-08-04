@@ -50,6 +50,18 @@ async function getExpectedPacks() {
     'guinea-ecuatorial': 'gq',
     nicaragua: 'ni',
     dominican_republic: 'do',
+    'costa-rica': 'cr',
+    costa_rica: 'cr',
+    costarica: 'cr',
+    honduras: 'hn',
+    uruguay: 'uy',
+    paraguay: 'py',
+    'puerto-rico': 'pr',
+    puerto_rico: 'pr',
+    'el-salvador': 'sv',
+    el_salvador: 'sv',
+    elsalvador: 'sv',
+    bolivia: 'bo',
     global: '',
   };
 
