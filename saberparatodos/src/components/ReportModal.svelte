@@ -110,7 +110,7 @@
             <span>{questionId ? '🚩 Reportar Problema' : '💬 Enviar Feedback'}</span>
           {/if}
         </h3>
-        <button on:click={onClose} class="text-white/40 hover:text-white transition-colors" aria-label="Cerrar modal de reporte">
+        <button on:click={onClose} class="text-white/40 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded" aria-label="Cerrar modal de reporte">
           <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
           </svg>
@@ -143,7 +143,7 @@
               {#each reportTypes as type}
                 {#if questionId || !type.requiresQuestion}
                   <button
-                    class={`px-3 py-2 rounded-lg text-xs font-medium border transition-all text-left truncate
+                    class={`px-3 py-2 rounded-lg text-xs font-medium border transition-all text-left truncate focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 focus-visible:ring-offset-1 focus-visible:ring-offset-[#121212]
                       ${reportType === type.id
                         ? 'bg-emerald-600 border-emerald-500 text-white shadow-lg shadow-emerald-500/20'
                         : 'bg-white/5 border-white/5 text-white/60 hover:bg-white/10 hover:border-white/10'
@@ -194,14 +194,14 @@
           <div class="pt-4 flex justify-between items-center gap-3">
             <button
               on:click={onClose}
-              class="px-4 py-2 rounded-lg text-xs font-bold text-white/40 hover:text-white hover:bg-white/10 transition-colors"
+              class="px-4 py-2 rounded-lg text-xs font-bold text-white/40 hover:text-white hover:bg-white/10 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500"
             >
               Cancelar
             </button>
             <button
               on:click={handleSubmit}
               disabled={loading}
-              class="px-6 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg shadow-lg shadow-emerald-600/20 transition-all transform active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+              class="px-6 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg shadow-lg shadow-emerald-600/20 transition-all transform active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 focus-visible:ring-offset-2 focus-visible:ring-offset-[#121212]"
             >
               {#if loading}
                 <div class="w-3 h-3 border-2 border-white/30 border-t-white rounded-full animate-spin"></div>
