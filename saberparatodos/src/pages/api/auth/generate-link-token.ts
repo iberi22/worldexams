@@ -1,13 +1,16 @@
 import type { APIRoute } from 'astro';
-import { supabase } from '../../../lib/supabase';
+import { createServerSupabaseClient, getServerRuntimeEnv, type RuntimeLocals } from '../../../lib/server-runtime';
 
-export const POST: APIRoute = async ({ request }) => {
+export const POST: APIRoute = async ({ request, locals }) => {
   // 1. Auth Check (Must be logged in)
   const authHeader = request.headers.get('Authorization');
   if (!authHeader) return new Response('Unauthorized', { status: 401 });
 
   const token = authHeader.replace('Bearer ', '');
-  const { data: { user }, error } = await supabase.auth.getUser(token);
+  const env = getServerRuntimeEnv(locals as RuntimeLocals);
+  const supabase = createServerSupabaseClient(env, token);
+
+  const { data: { user }, error } = await supabase.auth.getUser();
 
   if (error || !user) {
     return new Response('Unauthorized', { status: 401 });
