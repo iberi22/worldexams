@@ -12,3 +12,8 @@
 **Vulnerability:** A hardcoded secret ('spt-captcha-2026-worldexams-secret-key') was used as a fallback for the CAPTCHA verification token signing in `verify-captcha.ts`.
 **Learning:** Hardcoded fallback values for secrets undermine security since any attacker with access to the source code can use them to bypass protections (e.g. generating valid verification tokens).
 **Prevention:** Fail securely if a secret is missing from environment configuration instead of falling back to a hardcoded string. Check for configuration at runtime and return an appropriate error code if missing.
+
+## 2026-08-05 - [Fix Supabase SSR Client State Leakage]
+**Vulnerability:** A global singleton Supabase client (`import { supabase } from '../../../lib/supabase'`) was being imported and used to check auth and insert rows within a server-side route (`generate-link-token.ts`).
+**Learning:** In Astro or other SSR environments, global singleton database clients can leak state across concurrent user requests, potentially allowing one request to execute queries using the authenticated session of another request.
+**Prevention:** Always create a request-scoped Supabase client per API invocation (e.g. `createServerSupabaseClient` utilizing the user's specific access token or using an admin client exclusively for server-to-server operations).
