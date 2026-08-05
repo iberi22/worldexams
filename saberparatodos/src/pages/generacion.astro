@@ -1,0 +1,99 @@
+---
+import Layout from '../layouts/Layout.astro';
+import TenantRouteNotice from '../components/TenantRouteNotice.astro';
+import { resolveRuntimeCountryConfig } from '../config';
+import { getTenantRouteAvailability } from '../config/tenant-experience';
+import GenerationMetricsTable from '../components/generation/GenerationMetricsTable.svelte';
+import GenerationPromptViewer from '../components/generation/GenerationPromptViewer.svelte';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+const availability = getTenantRouteAvailability(country, 'novedades');
+
+// Métricas estáticas generadas por scripts/generate-generation-metrics.mjs
+// (se regeneran en cada build; los datos viven en public/generation-metrics.json)
+import metricsJson from '../generated/generation-metrics.json';
+
+const countries = metricsJson.countries || [];
+const totals = metricsJson.totals || { bundles: 0, errors: 0, warnings: 0, contentErrors: 0 };
+const generatedAt = metricsJson.generatedAt || '';
+---
+
+<Layout
+  title={`Laboratorio de Generación Abierta | ${country.product.siteName}`}
+  description="Métricas de generación de preguntas por país, prompts abiertos y mejora colaborativa."
+  noindex={true}
+>
+  <div class="min-h-screen bg-[#121212] py-12 px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Header -->
+      <header class="mb-10 text-center">
+        <span class="inline-block rounded-full border border-emerald-400/20 bg-emerald-400/10 px-3 py-1 text-[11px] font-mono uppercase tracking-[0.28em] text-emerald-300">
+          Laboratorio abierto
+        </span>
+        <h1 class="mt-4 text-3xl md:text-4xl font-black text-[#F5F5DC]">
+          Generación de preguntas — abierta y medible
+        </h1>
+        <p class="mt-3 max-w-2xl mx-auto text-white/60 leading-relaxed">
+          Cada país tiene un prompt de generación público (<code class="text-emerald-300">skills/bundle-creator/rules/</code>).
+          Las métricas muestran qué tan bien está funcionando cada prompt. Cualquier persona puede
+          proponer mejoras en los hilos de discusión por país — las lógicas de generación son libres.
+        </p>
+      </header>
+
+      <!-- KPIs globales -->
+      <section class="mb-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div class="rounded-2xl border border-white/10 bg-white/5 p-4 text-center">
+          <div class="text-3xl font-black text-[#F5F5DC]">{totals.bundles}</div>
+          <div class="mt-1 text-xs uppercase tracking-wider text-white/50">Bundles totales</div>
+        </div>
+        <div class="rounded-2xl border border-white/10 bg-white/5 p-4 text-center">
+          <div class="text-3xl font-black text-emerald-400">{totals.contentErrors === 0 ? '100' : Math.max(0, Math.round(100 - (totals.contentErrors / totals.bundles) * 100))}%</div>
+          <div class="mt-1 text-xs uppercase tracking-wider text-white/50">Tasa de validez</div>
+        </div>
+        <div class="rounded-2xl border border-white/10 bg-white/5 p-4 text-center">
+          <div class="text-3xl font-black text-amber-400">{totals.warnings.toLocaleString()}</div>
+          <div class="mt-1 text-xs uppercase tracking-wider text-white/50">Warnings de calidad</div>
+        </div>
+        <div class="rounded-2xl border border-white/10 bg-white/5 p-4 text-center">
+          <div class="text-3xl font-black text-sky-400">{countries.length}</div>
+          <div class="mt-1 text-xs uppercase tracking-wider text-white/50">Países con prompts</div>
+        </div>
+      </section>
+
+      <!-- Tabla de métricas por país -->
+      <section class="mb-12">
+        <h2 class="mb-4 text-xl font-bold text-[#F5F5DC]">Métricas por país</h2>
+        <p class="mb-6 text-sm text-white/50">
+          <code>contentErrors</code> = errores de contenido reales (excluye el campo <code>bundle_index</code>,
+          que se está migrando). Actualizado: {generatedAt.slice(0, 10)}.
+        </p>
+        <GenerationMetricsTable client:visible countries={countries} />
+      </section>
+
+      <!-- Selector + visor de prompts -->
+      <section class="mb-12">
+        <h2 class="mb-4 text-xl font-bold text-[#F5F5DC]">Prompts de generación (abiertos)</h2>
+        <p class="mb-6 text-sm text-white/50">
+          Elige un país para ver su prompt completo. Los prompts viven en el repositorio público
+          <a href="https://github.com/iberi22/worldexams/tree/main/skills/bundle-creator/rules" target="_blank" rel="noopener" class="text-emerald-300 underline">skills/bundle-creator/rules/</a>.
+          Propón mejoras directamente con un Pull Request o discútelas abajo.
+        </p>
+        <GenerationPromptViewer client:visible countries={countries} />
+      </section>
+
+      <!-- Discusión por país (foro) -->
+      <section class="mb-12">
+        <h2 class="mb-2 text-xl font-bold text-[#F5F5DC]">Mejora colaborativa</h2>
+        <p class="mb-6 text-sm text-white/50">
+          Los hilos de discusión usan GitHub Discussions (Giscus). Cada país tiene su categoría
+          para proponer cambios al prompt, reportar errores de preguntas o compartir mejoras de flujo.
+        </p>
+        <div id="giscus-generation" class="rounded-2xl border border-white/10 bg-white/5 p-4">
+          <p class="text-sm text-white/40">
+            El hilo de discusión aparece al seleccionar un país arriba (requiere JavaScript).
+          </p>
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

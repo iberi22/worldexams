@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-08-05T20:51:42.964Z",
+  "validatorVersion": "5.2",
+  "countries": [
+    {
+      "code": "AR",
+      "name": "argentina",
+      "flag": "🇦🇷",
+      "bundles": 32,
+      "errors": 44,
+      "warnings": 272,
+      "contentErrors": 12,
+      "okPct": 63,
+      "issues": [
+        "bundle_index",
+        "question_count",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/AR.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/AR.md"
+    },
+    {
+      "code": "BO",
+      "name": "bolivia",
+      "flag": "🇧🇴",
+      "bundles": 40,
+      "errors": 40,
+      "warnings": 840,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/BO.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/BO.md"
+    },
+    {
+      "code": "BR",
+      "name": "brasil",
+      "flag": "🇧🇷",
+      "bundles": 41,
+      "errors": 41,
+      "warnings": 846,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/BR.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/BR.md"
+    },
+    {
+      "code": "CL",
+      "name": "chile",
+      "flag": "🇨🇱",
+      "bundles": 90,
+      "errors": 90,
+      "warnings": 1090,
+      "contentErrors": 10,
+      "okPct": 89,
+      "issues": [
+        "bundle_index"
+      ],
+      "promptPath": "skills/bundle-creator/rules/CL.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/CL.md"
+    },
+    {
+      "code": "CO",
+      "name": "colombia",
+      "flag": "🇨🇴",
+      "bundles": 397,
+      "errors": 754,
+      "warnings": 3715,
+      "contentErrors": 714,
+      "okPct": 0,
+      "issues": [
+        "bundle_index",
+        "question_count"
+      ],
+      "promptPath": "skills/bundle-creator/rules/CO.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/CO.md"
+    },
+    {
+      "code": "CR",
+      "name": "costarica",
+      "flag": "🇨🇷",
+      "bundles": 84,
+      "errors": 82,
+      "warnings": 1764,
+      "contentErrors": 2,
+      "okPct": 98,
+      "issues": [
+        "bundle_index"
+      ],
+      "promptPath": "skills/bundle-creator/rules/CR.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/CR.md"
+    },
+    {
+      "code": "DO",
+      "name": "dominican_republic",
+      "flag": "🇩🇴",
+      "bundles": 10,
+      "errors": 10,
+      "warnings": 10,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/DO.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/DO.md"
+    },
+    {
+      "code": "EC",
+      "name": "ecuador",
+      "flag": "🇪🇨",
+      "bundles": 70,
+      "errors": 70,
+      "warnings": 1470,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/EC.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/EC.md"
+    },
+    {
+      "code": "SV",
+      "name": "el-salvador",
+      "flag": "🇸🇻",
+      "bundles": 115,
+      "errors": 115,
+      "warnings": 2415,
+      "contentErrors": 35,
+      "okPct": 70,
+      "issues": [
+        "bundle_index"
+      ],
+      "promptPath": "skills/bundle-creator/rules/SV.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/SV.md"
+    },
+    {
+      "code": "GT",
+      "name": "guatemala",
+      "flag": "🇬🇹",
+      "bundles": 10,
+      "errors": 10,
+      "warnings": 10,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/GT.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/GT.md"
+    },
+    {
+      "code": "GQ",
+      "name": "guinea-ecuatorial",
+      "flag": "🇬🇶",
+      "bundles": 10,
+      "errors": 10,
+      "warnings": 10,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/GQ.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/GQ.md"
+    },
+    {
+      "code": "HN",
+      "name": "honduras",
+      "flag": "🇭🇳",
+      "bundles": 44,
+      "errors": 43,
+      "warnings": 924,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/HN.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/HN.md"
+    },
+    {
+      "code": "MX",
+      "name": "mexico",
+      "flag": "🇲🇽",
+      "bundles": 75,
+      "errors": 75,
+      "warnings": 775,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/MX.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/MX.md"
+    },
+    {
+      "code": "NI",
+      "name": "nicaragua",
+      "flag": "🇳🇮",
+      "bundles": 10,
+      "errors": 10,
+      "warnings": 10,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/NI.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/NI.md"
+    },
+    {
+      "code": "PA",
+      "name": "panama",
+      "flag": "🇵🇦",
+      "bundles": 10,
+      "errors": 10,
+      "warnings": 210,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/PA.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/PA.md"
+    },
+    {
+      "code": "PY",
+      "name": "paraguay",
+      "flag": "🇵🇾",
+      "bundles": 40,
+      "errors": 20,
+      "warnings": 640,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/PY.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/PY.md"
+    },
+    {
+      "code": "PE",
+      "name": "peru",
+      "flag": "🇵🇪",
+      "bundles": 90,
+      "errors": 90,
+      "warnings": 1890,
+      "contentErrors": 10,
+      "okPct": 89,
+      "issues": [
+        "bundle_index"
+      ],
+      "promptPath": "skills/bundle-creator/rules/PE.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/PE.md"
+    },
+    {
+      "code": "PR",
+      "name": "puerto-rico",
+      "flag": "🇵🇷",
+      "bundles": 80,
+      "errors": 80,
+      "warnings": 1680,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index"
+      ],
+      "promptPath": "skills/bundle-creator/rules/PR.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/PR.md"
+    },
+    {
+      "code": "ES",
+      "name": "spain",
+      "flag": "🇪🇸",
+      "bundles": 70,
+      "errors": 60,
+      "warnings": 870,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/ES.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/ES.md"
+    },
+    {
+      "code": "UY",
+      "name": "uruguay",
+      "flag": "🇺🇾",
+      "bundles": 40,
+      "errors": 40,
+      "warnings": 840,
+      "contentErrors": 0,
+      "okPct": 100,
+      "issues": [
+        "bundle_index",
+        "difficulty_marker",
+        "calibration"
+      ],
+      "promptPath": "skills/bundle-creator/rules/UY.md",
+      "promptUrl": "https://github.com/iberi22/worldexams/blob/main/skills/bundle-creator/rules/UY.md"
+    }
+  ],
+  "totals": {
+    "bundles": 1358,
+    "errors": 1694,
+    "warnings": 20281,
+    "contentErrors": 783
+  }
+}
