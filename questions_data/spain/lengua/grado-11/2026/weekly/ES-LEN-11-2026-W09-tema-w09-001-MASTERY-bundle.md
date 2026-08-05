@@ -14,6 +14,7 @@ bundle_size: 20
 alignment: "LOMLOE Espana 2026"
 license: "FREE"
 tier: "legacy"
+bundle_index: 1
 creador: "Jules-Agent"
 ---
 
