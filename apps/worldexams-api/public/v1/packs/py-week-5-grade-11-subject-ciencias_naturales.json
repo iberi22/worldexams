@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-5-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.846Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v1",
+      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Camila y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+        },
+        {
+          "letter": "B",
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v2",
+      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Florencia y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+        },
+        {
+          "letter": "B",
+          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+        },
+        {
+          "letter": "C",
+          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+        },
+        {
+          "letter": "D",
+          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v3",
+      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Santiago y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paquiteno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+        },
+        {
+          "letter": "B",
+          "text": "Leptoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+        },
+        {
+          "letter": "C",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+        },
+        {
+          "letter": "D",
+          "text": "Diploteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v4",
+      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+        },
+        {
+          "letter": "B",
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v5",
+      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Valentina y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+        },
+        {
+          "letter": "B",
+          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+        },
+        {
+          "letter": "C",
+          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+        },
+        {
+          "letter": "D",
+          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v6",
+      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, María y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paquiteno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+        },
+        {
+          "letter": "B",
+          "text": "Leptoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+        },
+        {
+          "letter": "C",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+        },
+        {
+          "letter": "D",
+          "text": "Diploteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v7",
+      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+        },
+        {
+          "letter": "B",
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v8",
+      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+        },
+        {
+          "letter": "B",
+          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+        },
+        {
+          "letter": "C",
+          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+        },
+        {
+          "letter": "D",
+          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v9",
+      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Florencia y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paquiteno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+        },
+        {
+          "letter": "B",
+          "text": "Leptoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+        },
+        {
+          "letter": "C",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+        },
+        {
+          "letter": "D",
+          "text": "Diploteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v10",
+      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+        },
+        {
+          "letter": "B",
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v11",
+      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Sofía y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+        },
+        {
+          "letter": "B",
+          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+        },
+        {
+          "letter": "C",
+          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+        },
+        {
+          "letter": "D",
+          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v12",
+      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paquiteno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+        },
+        {
+          "letter": "B",
+          "text": "Leptoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+        },
+        {
+          "letter": "C",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+        },
+        {
+          "letter": "D",
+          "text": "Diploteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v13",
+      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Santiago y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+        },
+        {
+          "letter": "B",
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v14",
+      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Camila y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+        },
+        {
+          "letter": "B",
+          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+        },
+        {
+          "letter": "C",
+          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+        },
+        {
+          "letter": "D",
+          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v15",
+      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paquiteno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+        },
+        {
+          "letter": "B",
+          "text": "Leptoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+        },
+        {
+          "letter": "C",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+        },
+        {
+          "letter": "D",
+          "text": "Diploteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v16",
+      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Mateo y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+        },
+        {
+          "letter": "B",
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v17",
+      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+        },
+        {
+          "letter": "B",
+          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+        },
+        {
+          "letter": "C",
+          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+        },
+        {
+          "letter": "D",
+          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v18",
+      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, María y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paquiteno",
+          "is_correct": true,
+          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+        },
+        {
+          "letter": "B",
+          "text": "Leptoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+        },
+        {
+          "letter": "C",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+        },
+        {
+          "letter": "D",
+          "text": "Diploteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v19",
+      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Santiago y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafase",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+        },
+        {
+          "letter": "B",
+          "text": "Profase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+        },
+        {
+          "letter": "C",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v20",
+      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Benjamín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+        },
+        {
+          "letter": "B",
+          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+        },
+        {
+          "letter": "C",
+          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+        },
+        {
+          "letter": "D",
+          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}
