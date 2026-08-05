@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-4-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.845Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v1",
+      "statement": "Si se colocan glóbulos rojos (células animales) en una solución salina altamente concentrada al 5% de NaCl (medio hipertónico), ¿qué proceso osmótico y consecuencia morfológica experimentarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Joaquín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La salida neta de agua por ósmosis, ocasionando la deshidratación y encogimiento de la célula (crenación)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un medio hipertónico, el agua difunde desde el interior celular hacia el exterior para equilibrar concentraciones, deshidratando al glóbulo rojo (crenación)."
+        },
+        {
+          "letter": "B",
+          "text": "El ingreso masivo de agua y sales, provocando la hinchazón y ruptura celular (lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando la célula se introduce en un medio hipotónico (baja concentración externa de solutos)."
+        },
+        {
+          "letter": "C",
+          "text": "La plasmólisis progresiva de la membrana plasmática, que se desprende de la pared celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glóbulos rojos son células animales y carecen de pared celular; la plasmólisis es exclusiva de células vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "El mantenimiento óptimo del volumen celular gracias a la bomba de sodio-potasio de forma pasiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte pasivo osmótico supera la capacidad de regulación en condiciones extremas y deforma la célula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ósmosis es el paso pasivo de agua a través de una membrana selectivamente permeable desde una zona de menor concentración de soluto (hipotónica) a una de mayor concentración (hipertónica). En plantas, el medio hipotónico ideal induce turgencia, mientras que en animales causa lisis celular.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes mecanismos de transporte a través de la membrana celular requiere la hidrólisis directa de ATP y mueve solutos en contra de su gradiente electroquímico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Sebastián y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transporte activo primario",
+          "is_correct": true,
+          "feedback": "¡Correcto! El transporte activo primario (como la bomba de sodio-potasio) hidroliza ATP de forma directa para transportar iones en contra de su gradiente natural."
+        },
+        {
+          "letter": "B",
+          "text": "Difusión facilitada por canales de fuga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada es un proceso de transporte pasivo que ocurre a favor del gradiente y no consume ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Difusión simple transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple permite el paso de moléculas lipofílicas directamente por la bicapa sin transportadores ni energía."
+        },
+        {
+          "letter": "D",
+          "text": "Transporte activo secundario coordinado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte activo secundario utiliza la energía del gradiente electroquímico de un ion (sodio o protones) generado previamente por una bomba, no hidroliza ATP de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte celular se clasifica en pasivo (a favor del gradiente, sin gasto energético) y activo (en contra del gradiente, requiere energía). El primario usa ATP directamente, mientras que el secundario aprovecha gradientes iónicos preexistentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v3",
+      "statement": "¿Qué tipo de transporte vesicular o en masa utiliza una célula del sistema inmunitario (como un macrófago) para engullir e internalizar una bacteria sólida completa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Santiago y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fagocitosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fagocitosis es una modalidad de endocitosis mediante la cual la célula emite pseudópodos de actina para englobar partículas sólidas grandes."
+        },
+        {
+          "letter": "B",
+          "text": "Pinocitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pinocitosis consiste en la internalización inespecífica de fluidos extracelulares y pequeñas moléculas solubles en vesículas diminutas."
+        },
+        {
+          "letter": "C",
+          "text": "Exocitosis constitutiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exocitosis es el proceso de secreción y liberación de vesículas hacia el exterior, no de internalización."
+        },
+        {
+          "letter": "D",
+          "text": "Endocitosis mediada por clatrina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un transporte selectivo y específico para macromoléculas solubles (como el colesterol LDL), no para patógenos u organismos grandes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte vesicular o en masa permite mover macromoléculas y partículas grandes mediante la deformación de la membrana plasmática. Incluye la endocitosis (fagocitosis, pinocitosis, mediada por receptor) y la exocitosis.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v4",
+      "statement": "¿Qué componente lipídico anfipático, que se intercala entre los fosfolípidos de la membrana de células animales, actúa como amortiguador de fluidez frente a fluctuaciones de temperatura?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, María y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colesterol",
+          "is_correct": true,
+          "feedback": "¡Correcto! El colesterol regula la fluidez de la membrana celular animal impidiendo la cristalización a bajas temperaturas y restringiendo el movimiento excesivo a altas temperaturas."
+        },
+        {
+          "letter": "B",
+          "text": "La fosfatidilcolina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fosfolípido estructural de la bicapa, pero no posee la función reguladora térmica específica de amortiguación del colesterol."
+        },
+        {
+          "letter": "C",
+          "text": "Los glucolípidos de superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glucolípidos forman el glucocálix externo y participan en el reconocimiento celular, no regulan la fluidez térmica interna."
+        },
+        {
+          "letter": "D",
+          "text": "Los triglicéridos saturados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos son lípidos de almacenamiento energético que se acumulan en adipocitos y no integran las membranas celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo de mosaico fluido describe la membrana plasmática como una estructura dinámica de fosfolípidos, proteínas y carbohidratos. El colesterol mantiene la integridad física de las membranas en células animales bajo diversas condiciones ambientales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v5",
+      "statement": "Si se colocan glóbulos rojos (células animales) en una solución salina altamente concentrada al 5% de NaCl (medio hipertónico), ¿qué proceso osmótico y consecuencia morfológica experimentarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Benjamín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La salida neta de agua por ósmosis, ocasionando la deshidratación y encogimiento de la célula (crenación)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un medio hipertónico, el agua difunde desde el interior celular hacia el exterior para equilibrar concentraciones, deshidratando al glóbulo rojo (crenación)."
+        },
+        {
+          "letter": "B",
+          "text": "El ingreso masivo de agua y sales, provocando la hinchazón y ruptura celular (lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando la célula se introduce en un medio hipotónico (baja concentración externa de solutos)."
+        },
+        {
+          "letter": "C",
+          "text": "La plasmólisis progresiva de la membrana plasmática, que se desprende de la pared celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glóbulos rojos son células animales y carecen de pared celular; la plasmólisis es exclusiva de células vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "El mantenimiento óptimo del volumen celular gracias a la bomba de sodio-potasio de forma pasiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte pasivo osmótico supera la capacidad de regulación en condiciones extremas y deforma la célula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ósmosis es el paso pasivo de agua a través de una membrana selectivamente permeable desde una zona de menor concentración de soluto (hipotónica) a una de mayor concentración (hipertónica). En plantas, el medio hipotónico ideal induce turgencia, mientras que en animales causa lisis celular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v6",
+      "statement": "¿Cuál de los siguientes mecanismos de transporte a través de la membrana celular requiere la hidrólisis directa de ATP y mueve solutos en contra de su gradiente electroquímico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Camila y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transporte activo primario",
+          "is_correct": true,
+          "feedback": "¡Correcto! El transporte activo primario (como la bomba de sodio-potasio) hidroliza ATP de forma directa para transportar iones en contra de su gradiente natural."
+        },
+        {
+          "letter": "B",
+          "text": "Difusión facilitada por canales de fuga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada es un proceso de transporte pasivo que ocurre a favor del gradiente y no consume ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Difusión simple transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple permite el paso de moléculas lipofílicas directamente por la bicapa sin transportadores ni energía."
+        },
+        {
+          "letter": "D",
+          "text": "Transporte activo secundario coordinado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte activo secundario utiliza la energía del gradiente electroquímico de un ion (sodio o protones) generado previamente por una bomba, no hidroliza ATP de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte celular se clasifica en pasivo (a favor del gradiente, sin gasto energético) y activo (en contra del gradiente, requiere energía). El primario usa ATP directamente, mientras que el secundario aprovecha gradientes iónicos preexistentes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v7",
+      "statement": "¿Qué tipo de transporte vesicular o en masa utiliza una célula del sistema inmunitario (como un macrófago) para engullir e internalizar una bacteria sólida completa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Joaquín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fagocitosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fagocitosis es una modalidad de endocitosis mediante la cual la célula emite pseudópodos de actina para englobar partículas sólidas grandes."
+        },
+        {
+          "letter": "B",
+          "text": "Pinocitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pinocitosis consiste en la internalización inespecífica de fluidos extracelulares y pequeñas moléculas solubles en vesículas diminutas."
+        },
+        {
+          "letter": "C",
+          "text": "Exocitosis constitutiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exocitosis es el proceso de secreción y liberación de vesículas hacia el exterior, no de internalización."
+        },
+        {
+          "letter": "D",
+          "text": "Endocitosis mediada por clatrina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un transporte selectivo y específico para macromoléculas solubles (como el colesterol LDL), no para patógenos u organismos grandes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte vesicular o en masa permite mover macromoléculas y partículas grandes mediante la deformación de la membrana plasmática. Incluye la endocitosis (fagocitosis, pinocitosis, mediada por receptor) y la exocitosis.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v8",
+      "statement": "¿Qué componente lipídico anfipático, que se intercala entre los fosfolípidos de la membrana de células animales, actúa como amortiguador de fluidez frente a fluctuaciones de temperatura?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, María y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colesterol",
+          "is_correct": true,
+          "feedback": "¡Correcto! El colesterol regula la fluidez de la membrana celular animal impidiendo la cristalización a bajas temperaturas y restringiendo el movimiento excesivo a altas temperaturas."
+        },
+        {
+          "letter": "B",
+          "text": "La fosfatidilcolina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fosfolípido estructural de la bicapa, pero no posee la función reguladora térmica específica de amortiguación del colesterol."
+        },
+        {
+          "letter": "C",
+          "text": "Los glucolípidos de superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glucolípidos forman el glucocálix externo y participan en el reconocimiento celular, no regulan la fluidez térmica interna."
+        },
+        {
+          "letter": "D",
+          "text": "Los triglicéridos saturados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos son lípidos de almacenamiento energético que se acumulan en adipocitos y no integran las membranas celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo de mosaico fluido describe la membrana plasmática como una estructura dinámica de fosfolípidos, proteínas y carbohidratos. El colesterol mantiene la integridad física de las membranas en células animales bajo diversas condiciones ambientales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v9",
+      "statement": "Si se colocan glóbulos rojos (células animales) en una solución salina altamente concentrada al 5% de NaCl (medio hipertónico), ¿qué proceso osmótico y consecuencia morfológica experimentarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La salida neta de agua por ósmosis, ocasionando la deshidratación y encogimiento de la célula (crenación)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un medio hipertónico, el agua difunde desde el interior celular hacia el exterior para equilibrar concentraciones, deshidratando al glóbulo rojo (crenación)."
+        },
+        {
+          "letter": "B",
+          "text": "El ingreso masivo de agua y sales, provocando la hinchazón y ruptura celular (lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando la célula se introduce en un medio hipotónico (baja concentración externa de solutos)."
+        },
+        {
+          "letter": "C",
+          "text": "La plasmólisis progresiva de la membrana plasmática, que se desprende de la pared celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glóbulos rojos son células animales y carecen de pared celular; la plasmólisis es exclusiva de células vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "El mantenimiento óptimo del volumen celular gracias a la bomba de sodio-potasio de forma pasiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte pasivo osmótico supera la capacidad de regulación en condiciones extremas y deforma la célula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ósmosis es el paso pasivo de agua a través de una membrana selectivamente permeable desde una zona de menor concentración de soluto (hipotónica) a una de mayor concentración (hipertónica). En plantas, el medio hipotónico ideal induce turgencia, mientras que en animales causa lisis celular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v10",
+      "statement": "¿Cuál de los siguientes mecanismos de transporte a través de la membrana celular requiere la hidrólisis directa de ATP y mueve solutos en contra de su gradiente electroquímico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Sofía y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transporte activo primario",
+          "is_correct": true,
+          "feedback": "¡Correcto! El transporte activo primario (como la bomba de sodio-potasio) hidroliza ATP de forma directa para transportar iones en contra de su gradiente natural."
+        },
+        {
+          "letter": "B",
+          "text": "Difusión facilitada por canales de fuga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada es un proceso de transporte pasivo que ocurre a favor del gradiente y no consume ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Difusión simple transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple permite el paso de moléculas lipofílicas directamente por la bicapa sin transportadores ni energía."
+        },
+        {
+          "letter": "D",
+          "text": "Transporte activo secundario coordinado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte activo secundario utiliza la energía del gradiente electroquímico de un ion (sodio o protones) generado previamente por una bomba, no hidroliza ATP de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte celular se clasifica en pasivo (a favor del gradiente, sin gasto energético) y activo (en contra del gradiente, requiere energía). El primario usa ATP directamente, mientras que el secundario aprovecha gradientes iónicos preexistentes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v11",
+      "statement": "¿Qué tipo de transporte vesicular o en masa utiliza una célula del sistema inmunitario (como un macrófago) para engullir e internalizar una bacteria sólida completa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Jorge y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fagocitosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fagocitosis es una modalidad de endocitosis mediante la cual la célula emite pseudópodos de actina para englobar partículas sólidas grandes."
+        },
+        {
+          "letter": "B",
+          "text": "Pinocitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pinocitosis consiste en la internalización inespecífica de fluidos extracelulares y pequeñas moléculas solubles en vesículas diminutas."
+        },
+        {
+          "letter": "C",
+          "text": "Exocitosis constitutiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exocitosis es el proceso de secreción y liberación de vesículas hacia el exterior, no de internalización."
+        },
+        {
+          "letter": "D",
+          "text": "Endocitosis mediada por clatrina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un transporte selectivo y específico para macromoléculas solubles (como el colesterol LDL), no para patógenos u organismos grandes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte vesicular o en masa permite mover macromoléculas y partículas grandes mediante la deformación de la membrana plasmática. Incluye la endocitosis (fagocitosis, pinocitosis, mediada por receptor) y la exocitosis.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v12",
+      "statement": "¿Qué componente lipídico anfipático, que se intercala entre los fosfolípidos de la membrana de células animales, actúa como amortiguador de fluidez frente a fluctuaciones de temperatura?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Martina y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colesterol",
+          "is_correct": true,
+          "feedback": "¡Correcto! El colesterol regula la fluidez de la membrana celular animal impidiendo la cristalización a bajas temperaturas y restringiendo el movimiento excesivo a altas temperaturas."
+        },
+        {
+          "letter": "B",
+          "text": "La fosfatidilcolina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fosfolípido estructural de la bicapa, pero no posee la función reguladora térmica específica de amortiguación del colesterol."
+        },
+        {
+          "letter": "C",
+          "text": "Los glucolípidos de superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glucolípidos forman el glucocálix externo y participan en el reconocimiento celular, no regulan la fluidez térmica interna."
+        },
+        {
+          "letter": "D",
+          "text": "Los triglicéridos saturados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos son lípidos de almacenamiento energético que se acumulan en adipocitos y no integran las membranas celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo de mosaico fluido describe la membrana plasmática como una estructura dinámica de fosfolípidos, proteínas y carbohidratos. El colesterol mantiene la integridad física de las membranas en células animales bajo diversas condiciones ambientales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v13",
+      "statement": "Si se colocan glóbulos rojos (células animales) en una solución salina altamente concentrada al 5% de NaCl (medio hipertónico), ¿qué proceso osmótico y consecuencia morfológica experimentarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Camila y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La salida neta de agua por ósmosis, ocasionando la deshidratación y encogimiento de la célula (crenación)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un medio hipertónico, el agua difunde desde el interior celular hacia el exterior para equilibrar concentraciones, deshidratando al glóbulo rojo (crenación)."
+        },
+        {
+          "letter": "B",
+          "text": "El ingreso masivo de agua y sales, provocando la hinchazón y ruptura celular (lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando la célula se introduce en un medio hipotónico (baja concentración externa de solutos)."
+        },
+        {
+          "letter": "C",
+          "text": "La plasmólisis progresiva de la membrana plasmática, que se desprende de la pared celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glóbulos rojos son células animales y carecen de pared celular; la plasmólisis es exclusiva de células vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "El mantenimiento óptimo del volumen celular gracias a la bomba de sodio-potasio de forma pasiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte pasivo osmótico supera la capacidad de regulación en condiciones extremas y deforma la célula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ósmosis es el paso pasivo de agua a través de una membrana selectivamente permeable desde una zona de menor concentración de soluto (hipotónica) a una de mayor concentración (hipertónica). En plantas, el medio hipotónico ideal induce turgencia, mientras que en animales causa lisis celular.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v14",
+      "statement": "¿Cuál de los siguientes mecanismos de transporte a través de la membrana celular requiere la hidrólisis directa de ATP y mueve solutos en contra de su gradiente electroquímico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transporte activo primario",
+          "is_correct": true,
+          "feedback": "¡Correcto! El transporte activo primario (como la bomba de sodio-potasio) hidroliza ATP de forma directa para transportar iones en contra de su gradiente natural."
+        },
+        {
+          "letter": "B",
+          "text": "Difusión facilitada por canales de fuga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada es un proceso de transporte pasivo que ocurre a favor del gradiente y no consume ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Difusión simple transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple permite el paso de moléculas lipofílicas directamente por la bicapa sin transportadores ni energía."
+        },
+        {
+          "letter": "D",
+          "text": "Transporte activo secundario coordinado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte activo secundario utiliza la energía del gradiente electroquímico de un ion (sodio o protones) generado previamente por una bomba, no hidroliza ATP de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte celular se clasifica en pasivo (a favor del gradiente, sin gasto energético) y activo (en contra del gradiente, requiere energía). El primario usa ATP directamente, mientras que el secundario aprovecha gradientes iónicos preexistentes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v15",
+      "statement": "¿Qué tipo de transporte vesicular o en masa utiliza una célula del sistema inmunitario (como un macrófago) para engullir e internalizar una bacteria sólida completa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, María y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fagocitosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fagocitosis es una modalidad de endocitosis mediante la cual la célula emite pseudópodos de actina para englobar partículas sólidas grandes."
+        },
+        {
+          "letter": "B",
+          "text": "Pinocitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pinocitosis consiste en la internalización inespecífica de fluidos extracelulares y pequeñas moléculas solubles en vesículas diminutas."
+        },
+        {
+          "letter": "C",
+          "text": "Exocitosis constitutiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exocitosis es el proceso de secreción y liberación de vesículas hacia el exterior, no de internalización."
+        },
+        {
+          "letter": "D",
+          "text": "Endocitosis mediada por clatrina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un transporte selectivo y específico para macromoléculas solubles (como el colesterol LDL), no para patógenos u organismos grandes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte vesicular o en masa permite mover macromoléculas y partículas grandes mediante la deformación de la membrana plasmática. Incluye la endocitosis (fagocitosis, pinocitosis, mediada por receptor) y la exocitosis.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v16",
+      "statement": "¿Qué componente lipídico anfipático, que se intercala entre los fosfolípidos de la membrana de células animales, actúa como amortiguador de fluidez frente a fluctuaciones de temperatura?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colesterol",
+          "is_correct": true,
+          "feedback": "¡Correcto! El colesterol regula la fluidez de la membrana celular animal impidiendo la cristalización a bajas temperaturas y restringiendo el movimiento excesivo a altas temperaturas."
+        },
+        {
+          "letter": "B",
+          "text": "La fosfatidilcolina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fosfolípido estructural de la bicapa, pero no posee la función reguladora térmica específica de amortiguación del colesterol."
+        },
+        {
+          "letter": "C",
+          "text": "Los glucolípidos de superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glucolípidos forman el glucocálix externo y participan en el reconocimiento celular, no regulan la fluidez térmica interna."
+        },
+        {
+          "letter": "D",
+          "text": "Los triglicéridos saturados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos son lípidos de almacenamiento energético que se acumulan en adipocitos y no integran las membranas celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo de mosaico fluido describe la membrana plasmática como una estructura dinámica de fosfolípidos, proteínas y carbohidratos. El colesterol mantiene la integridad física de las membranas en células animales bajo diversas condiciones ambientales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v17",
+      "statement": "Si se colocan glóbulos rojos (células animales) en una solución salina altamente concentrada al 5% de NaCl (medio hipertónico), ¿qué proceso osmótico y consecuencia morfológica experimentarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La salida neta de agua por ósmosis, ocasionando la deshidratación y encogimiento de la célula (crenación)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un medio hipertónico, el agua difunde desde el interior celular hacia el exterior para equilibrar concentraciones, deshidratando al glóbulo rojo (crenación)."
+        },
+        {
+          "letter": "B",
+          "text": "El ingreso masivo de agua y sales, provocando la hinchazón y ruptura celular (lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando la célula se introduce en un medio hipotónico (baja concentración externa de solutos)."
+        },
+        {
+          "letter": "C",
+          "text": "La plasmólisis progresiva de la membrana plasmática, que se desprende de la pared celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glóbulos rojos son células animales y carecen de pared celular; la plasmólisis es exclusiva de células vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "El mantenimiento óptimo del volumen celular gracias a la bomba de sodio-potasio de forma pasiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte pasivo osmótico supera la capacidad de regulación en condiciones extremas y deforma la célula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ósmosis es el paso pasivo de agua a través de una membrana selectivamente permeable desde una zona de menor concentración de soluto (hipotónica) a una de mayor concentración (hipertónica). En plantas, el medio hipotónico ideal induce turgencia, mientras que en animales causa lisis celular.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v18",
+      "statement": "¿Cuál de los siguientes mecanismos de transporte a través de la membrana celular requiere la hidrólisis directa de ATP y mueve solutos en contra de su gradiente electroquímico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Ramón y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transporte activo primario",
+          "is_correct": true,
+          "feedback": "¡Correcto! El transporte activo primario (como la bomba de sodio-potasio) hidroliza ATP de forma directa para transportar iones en contra de su gradiente natural."
+        },
+        {
+          "letter": "B",
+          "text": "Difusión facilitada por canales de fuga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada es un proceso de transporte pasivo que ocurre a favor del gradiente y no consume ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Difusión simple transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple permite el paso de moléculas lipofílicas directamente por la bicapa sin transportadores ni energía."
+        },
+        {
+          "letter": "D",
+          "text": "Transporte activo secundario coordinado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte activo secundario utiliza la energía del gradiente electroquímico de un ion (sodio o protones) generado previamente por una bomba, no hidroliza ATP de forma directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte celular se clasifica en pasivo (a favor del gradiente, sin gasto energético) y activo (en contra del gradiente, requiere energía). El primario usa ATP directamente, mientras que el secundario aprovecha gradientes iónicos preexistentes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v19",
+      "statement": "¿Qué tipo de transporte vesicular o en masa utiliza una célula del sistema inmunitario (como un macrófago) para engullir e internalizar una bacteria sólida completa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Valentina y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fagocitosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fagocitosis es una modalidad de endocitosis mediante la cual la célula emite pseudópodos de actina para englobar partículas sólidas grandes."
+        },
+        {
+          "letter": "B",
+          "text": "Pinocitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pinocitosis consiste en la internalización inespecífica de fluidos extracelulares y pequeñas moléculas solubles en vesículas diminutas."
+        },
+        {
+          "letter": "C",
+          "text": "Exocitosis constitutiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exocitosis es el proceso de secreción y liberación de vesículas hacia el exterior, no de internalización."
+        },
+        {
+          "letter": "D",
+          "text": "Endocitosis mediada por clatrina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un transporte selectivo y específico para macromoléculas solubles (como el colesterol LDL), no para patógenos u organismos grandes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte vesicular o en masa permite mover macromoléculas y partículas grandes mediante la deformación de la membrana plasmática. Incluye la endocitosis (fagocitosis, pinocitosis, mediada por receptor) y la exocitosis.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v20",
+      "statement": "¿Qué componente lipídico anfipático, que se intercala entre los fosfolípidos de la membrana de células animales, actúa como amortiguador de fluidez frente a fluctuaciones de temperatura?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Benjamín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colesterol",
+          "is_correct": true,
+          "feedback": "¡Correcto! El colesterol regula la fluidez de la membrana celular animal impidiendo la cristalización a bajas temperaturas y restringiendo el movimiento excesivo a altas temperaturas."
+        },
+        {
+          "letter": "B",
+          "text": "La fosfatidilcolina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fosfolípido estructural de la bicapa, pero no posee la función reguladora térmica específica de amortiguación del colesterol."
+        },
+        {
+          "letter": "C",
+          "text": "Los glucolípidos de superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glucolípidos forman el glucocálix externo y participan en el reconocimiento celular, no regulan la fluidez térmica interna."
+        },
+        {
+          "letter": "D",
+          "text": "Los triglicéridos saturados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos son lípidos de almacenamiento energético que se acumulan en adipocitos y no integran las membranas celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo de mosaico fluido describe la membrana plasmática como una estructura dinámica de fosfolípidos, proteínas y carbohidratos. El colesterol mantiene la integridad física de las membranas en células animales bajo diversas condiciones ambientales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

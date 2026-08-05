@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-7-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.848Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v1",
+      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Liz y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v2",
+      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sofía y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v3",
+      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa dependiente de ARN",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa mitocondrial de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa de transcripción inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v4",
+      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v5",
+      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Ramón y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v6",
+      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Camila y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa dependiente de ARN",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa mitocondrial de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa de transcripción inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v7",
+      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Liz y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v8",
+      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Gladys y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v9",
+      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa dependiente de ARN",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa mitocondrial de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa de transcripción inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v10",
+      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Sebastián y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v11",
+      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Gladys y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v12",
+      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Sebastián y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa dependiente de ARN",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa mitocondrial de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa de transcripción inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v13",
+      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Benjamín y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v14",
+      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, María y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v15",
+      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, María y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa dependiente de ARN",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa mitocondrial de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa de transcripción inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v16",
+      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v17",
+      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Florencia y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v18",
+      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Benjamín y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa dependiente de ARN",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa mitocondrial de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa de transcripción inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v19",
+      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v20",
+      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Ramón y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

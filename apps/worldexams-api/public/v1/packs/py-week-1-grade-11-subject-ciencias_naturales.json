@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-1-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.843Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v1",
+      "statement": "Para analizar la solubilidad de una sal mineral en el laboratorio, se mide el tiempo de disolución a diferentes temperaturas. En este diseño experimental, ¿cuál representa la variable independiente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Camila y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura del agua",
+          "is_correct": true,
+          "feedback": "¡Correcto! La variable independiente es aquella que el investigador manipula deliberadamente (en este caso, la temperatura) para observar sus efectos."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo total de disolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este tiempo es la variable dependiente, ya que cambia como consecuencia de la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad total de sal utilizada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se mantiene constante como variable de control para garantizar la validez del experimento."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de agitador magnético empleado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una variable de control o constante que no se modifica entre pruebas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el método científico, la variable independiente es la causa o factor manipulado por el científico, mientras que la variable dependiente es el efecto observado o medido. Las variables de control se mantienen constantes para evitar sesgos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v2",
+      "statement": "¿Cuál de los siguientes pasos del método científico se caracteriza por formular una respuesta provisional, lógicamente fundamentada y contrastable empíricamente a un problema observado?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Jorge y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La formulación de una hipótesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una hipótesis es una explicación o respuesta provisional que se somete a contrastación mediante la experimentación."
+        },
+        {
+          "letter": "B",
+          "text": "La observación cualitativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La observación es el registro de hechos y fenómenos de la naturaleza sin plantear explicaciones directas."
+        },
+        {
+          "letter": "C",
+          "text": "La recolección sistemática de datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una etapa posterior que se realiza durante la fase de experimentación."
+        },
+        {
+          "letter": "D",
+          "text": "La publicación de conclusiones en una revista científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el paso final de difusión y comunicación de los resultados obtenidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis científica debe ser clara, predictiva y susceptible de ser sometida a prueba (falsabilidad) mediante experimentos controlados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v3",
+      "statement": "Si un grupo de científicos en Encarnación repite un experimento de medición enzimática bajo exactamente las mismas condiciones que el original y obtiene los mismos resultados, ¿qué cualidad clave del método científico se está demostrando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Benjamín y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reproducibilidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! La reproducibilidad es la capacidad de que un experimento o estudio sea replicado por otros investigadores obteniendo resultados consistentes."
+        },
+        {
+          "letter": "B",
+          "text": "La subjetividad analítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia busca la objetividad, reduciendo al mínimo la subjetividad individual."
+        },
+        {
+          "letter": "C",
+          "text": "La refutabilidad absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refutabilidad significa que una teoría puede ser desmentida si se encuentra evidencia en contra, no que deba dar el mismo resultado."
+        },
+        {
+          "letter": "D",
+          "text": "La aleatoriedad estadística",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aleatoriedad se refiere a la selección de muestras, no a la consistencia de los resultados en réplicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reproducibilidad y la repetibilidad son pilares fundamentales del método científico moderno, lo que permite que el conocimiento sea verificado de manera independiente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v4",
+      "statement": "Durante una investigación de campo, se formulan observaciones detalladas sobre la flora local. Si estas observaciones se traducen en descripciones de color, textura y forma sin emplear números, ¿qué tipo de datos se están recolectando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Benjamín y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos cualitativos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los datos cualitativos describen cualidades, características o propiedades que no se miden fácilmente de manera numérica."
+        },
+        {
+          "letter": "B",
+          "text": "Datos cuantitativos discretos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos cuantitativos se expresan mediante números o conteos exactos."
+        },
+        {
+          "letter": "C",
+          "text": "Datos estadísticos multivariados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un tipo de análisis de datos complejos y no a la naturaleza descriptiva elemental."
+        },
+        {
+          "letter": "D",
+          "text": "Datos experimentales sesgados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sesgo es un error sistemático; los datos cualitativos pueden ser perfectamente objetivos y libres de sesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los datos cualitativos capturan propiedades no numéricas, mientras que los datos cuantitativos se basan en mediciones directas (longitud, peso, temperatura, etc.) usando unidades del sistema internacional.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v5",
+      "statement": "Para analizar la solubilidad de una sal mineral en el laboratorio, se mide el tiempo de disolución a diferentes temperaturas. En este diseño experimental, ¿cuál representa la variable independiente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Liz y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura del agua",
+          "is_correct": true,
+          "feedback": "¡Correcto! La variable independiente es aquella que el investigador manipula deliberadamente (en este caso, la temperatura) para observar sus efectos."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo total de disolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este tiempo es la variable dependiente, ya que cambia como consecuencia de la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad total de sal utilizada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se mantiene constante como variable de control para garantizar la validez del experimento."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de agitador magnético empleado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una variable de control o constante que no se modifica entre pruebas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el método científico, la variable independiente es la causa o factor manipulado por el científico, mientras que la variable dependiente es el efecto observado o medido. Las variables de control se mantienen constantes para evitar sesgos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v6",
+      "statement": "¿Cuál de los siguientes pasos del método científico se caracteriza por formular una respuesta provisional, lógicamente fundamentada y contrastable empíricamente a un problema observado?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Ramón y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La formulación de una hipótesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una hipótesis es una explicación o respuesta provisional que se somete a contrastación mediante la experimentación."
+        },
+        {
+          "letter": "B",
+          "text": "La observación cualitativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La observación es el registro de hechos y fenómenos de la naturaleza sin plantear explicaciones directas."
+        },
+        {
+          "letter": "C",
+          "text": "La recolección sistemática de datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una etapa posterior que se realiza durante la fase de experimentación."
+        },
+        {
+          "letter": "D",
+          "text": "La publicación de conclusiones en una revista científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el paso final de difusión y comunicación de los resultados obtenidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis científica debe ser clara, predictiva y susceptible de ser sometida a prueba (falsabilidad) mediante experimentos controlados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v7",
+      "statement": "Si un grupo de científicos en Pilar repite un experimento de medición enzimática bajo exactamente las mismas condiciones que el original y obtiene los mismos resultados, ¿qué cualidad clave del método científico se está demostrando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reproducibilidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! La reproducibilidad es la capacidad de que un experimento o estudio sea replicado por otros investigadores obteniendo resultados consistentes."
+        },
+        {
+          "letter": "B",
+          "text": "La subjetividad analítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia busca la objetividad, reduciendo al mínimo la subjetividad individual."
+        },
+        {
+          "letter": "C",
+          "text": "La refutabilidad absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refutabilidad significa que una teoría puede ser desmentida si se encuentra evidencia en contra, no que deba dar el mismo resultado."
+        },
+        {
+          "letter": "D",
+          "text": "La aleatoriedad estadística",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aleatoriedad se refiere a la selección de muestras, no a la consistencia de los resultados en réplicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reproducibilidad y la repetibilidad son pilares fundamentales del método científico moderno, lo que permite que el conocimiento sea verificado de manera independiente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v8",
+      "statement": "Durante una investigación de campo, se formulan observaciones detalladas sobre la flora local. Si estas observaciones se traducen en descripciones de color, textura y forma sin emplear números, ¿qué tipo de datos se están recolectando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Sofía y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos cualitativos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los datos cualitativos describen cualidades, características o propiedades que no se miden fácilmente de manera numérica."
+        },
+        {
+          "letter": "B",
+          "text": "Datos cuantitativos discretos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos cuantitativos se expresan mediante números o conteos exactos."
+        },
+        {
+          "letter": "C",
+          "text": "Datos estadísticos multivariados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un tipo de análisis de datos complejos y no a la naturaleza descriptiva elemental."
+        },
+        {
+          "letter": "D",
+          "text": "Datos experimentales sesgados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sesgo es un error sistemático; los datos cualitativos pueden ser perfectamente objetivos y libres de sesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los datos cualitativos capturan propiedades no numéricas, mientras que los datos cuantitativos se basan en mediciones directas (longitud, peso, temperatura, etc.) usando unidades del sistema internacional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v9",
+      "statement": "Para analizar la solubilidad de una sal mineral en el laboratorio, se mide el tiempo de disolución a diferentes temperaturas. En este diseño experimental, ¿cuál representa la variable independiente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, María y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura del agua",
+          "is_correct": true,
+          "feedback": "¡Correcto! La variable independiente es aquella que el investigador manipula deliberadamente (en este caso, la temperatura) para observar sus efectos."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo total de disolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este tiempo es la variable dependiente, ya que cambia como consecuencia de la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad total de sal utilizada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se mantiene constante como variable de control para garantizar la validez del experimento."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de agitador magnético empleado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una variable de control o constante que no se modifica entre pruebas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el método científico, la variable independiente es la causa o factor manipulado por el científico, mientras que la variable dependiente es el efecto observado o medido. Las variables de control se mantienen constantes para evitar sesgos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v10",
+      "statement": "¿Cuál de los siguientes pasos del método científico se caracteriza por formular una respuesta provisional, lógicamente fundamentada y contrastable empíricamente a un problema observado?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Sebastián y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La formulación de una hipótesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una hipótesis es una explicación o respuesta provisional que se somete a contrastación mediante la experimentación."
+        },
+        {
+          "letter": "B",
+          "text": "La observación cualitativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La observación es el registro de hechos y fenómenos de la naturaleza sin plantear explicaciones directas."
+        },
+        {
+          "letter": "C",
+          "text": "La recolección sistemática de datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una etapa posterior que se realiza durante la fase de experimentación."
+        },
+        {
+          "letter": "D",
+          "text": "La publicación de conclusiones en una revista científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el paso final de difusión y comunicación de los resultados obtenidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis científica debe ser clara, predictiva y susceptible de ser sometida a prueba (falsabilidad) mediante experimentos controlados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v11",
+      "statement": "Si un grupo de científicos en Pilar repite un experimento de medición enzimática bajo exactamente las mismas condiciones que el original y obtiene los mismos resultados, ¿qué cualidad clave del método científico se está demostrando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Valentina y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reproducibilidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! La reproducibilidad es la capacidad de que un experimento o estudio sea replicado por otros investigadores obteniendo resultados consistentes."
+        },
+        {
+          "letter": "B",
+          "text": "La subjetividad analítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia busca la objetividad, reduciendo al mínimo la subjetividad individual."
+        },
+        {
+          "letter": "C",
+          "text": "La refutabilidad absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refutabilidad significa que una teoría puede ser desmentida si se encuentra evidencia en contra, no que deba dar el mismo resultado."
+        },
+        {
+          "letter": "D",
+          "text": "La aleatoriedad estadística",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aleatoriedad se refiere a la selección de muestras, no a la consistencia de los resultados en réplicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reproducibilidad y la repetibilidad son pilares fundamentales del método científico moderno, lo que permite que el conocimiento sea verificado de manera independiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v12",
+      "statement": "Durante una investigación de campo, se formulan observaciones detalladas sobre la flora local. Si estas observaciones se traducen en descripciones de color, textura y forma sin emplear números, ¿qué tipo de datos se están recolectando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Joaquín y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos cualitativos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los datos cualitativos describen cualidades, características o propiedades que no se miden fácilmente de manera numérica."
+        },
+        {
+          "letter": "B",
+          "text": "Datos cuantitativos discretos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos cuantitativos se expresan mediante números o conteos exactos."
+        },
+        {
+          "letter": "C",
+          "text": "Datos estadísticos multivariados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un tipo de análisis de datos complejos y no a la naturaleza descriptiva elemental."
+        },
+        {
+          "letter": "D",
+          "text": "Datos experimentales sesgados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sesgo es un error sistemático; los datos cualitativos pueden ser perfectamente objetivos y libres de sesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los datos cualitativos capturan propiedades no numéricas, mientras que los datos cuantitativos se basan en mediciones directas (longitud, peso, temperatura, etc.) usando unidades del sistema internacional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v13",
+      "statement": "Para analizar la solubilidad de una sal mineral en el laboratorio, se mide el tiempo de disolución a diferentes temperaturas. En este diseño experimental, ¿cuál representa la variable independiente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, María y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura del agua",
+          "is_correct": true,
+          "feedback": "¡Correcto! La variable independiente es aquella que el investigador manipula deliberadamente (en este caso, la temperatura) para observar sus efectos."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo total de disolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este tiempo es la variable dependiente, ya que cambia como consecuencia de la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad total de sal utilizada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se mantiene constante como variable de control para garantizar la validez del experimento."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de agitador magnético empleado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una variable de control o constante que no se modifica entre pruebas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el método científico, la variable independiente es la causa o factor manipulado por el científico, mientras que la variable dependiente es el efecto observado o medido. Las variables de control se mantienen constantes para evitar sesgos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v14",
+      "statement": "¿Cuál de los siguientes pasos del método científico se caracteriza por formular una respuesta provisional, lógicamente fundamentada y contrastable empíricamente a un problema observado?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Martina y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La formulación de una hipótesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una hipótesis es una explicación o respuesta provisional que se somete a contrastación mediante la experimentación."
+        },
+        {
+          "letter": "B",
+          "text": "La observación cualitativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La observación es el registro de hechos y fenómenos de la naturaleza sin plantear explicaciones directas."
+        },
+        {
+          "letter": "C",
+          "text": "La recolección sistemática de datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una etapa posterior que se realiza durante la fase de experimentación."
+        },
+        {
+          "letter": "D",
+          "text": "La publicación de conclusiones en una revista científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el paso final de difusión y comunicación de los resultados obtenidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis científica debe ser clara, predictiva y susceptible de ser sometida a prueba (falsabilidad) mediante experimentos controlados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v15",
+      "statement": "Si un grupo de científicos en Concepción repite un experimento de medición enzimática bajo exactamente las mismas condiciones que el original y obtiene los mismos resultados, ¿qué cualidad clave del método científico se está demostrando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Gladys y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reproducibilidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! La reproducibilidad es la capacidad de que un experimento o estudio sea replicado por otros investigadores obteniendo resultados consistentes."
+        },
+        {
+          "letter": "B",
+          "text": "La subjetividad analítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia busca la objetividad, reduciendo al mínimo la subjetividad individual."
+        },
+        {
+          "letter": "C",
+          "text": "La refutabilidad absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refutabilidad significa que una teoría puede ser desmentida si se encuentra evidencia en contra, no que deba dar el mismo resultado."
+        },
+        {
+          "letter": "D",
+          "text": "La aleatoriedad estadística",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aleatoriedad se refiere a la selección de muestras, no a la consistencia de los resultados en réplicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reproducibilidad y la repetibilidad son pilares fundamentales del método científico moderno, lo que permite que el conocimiento sea verificado de manera independiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v16",
+      "statement": "Durante una investigación de campo, se formulan observaciones detalladas sobre la flora local. Si estas observaciones se traducen en descripciones de color, textura y forma sin emplear números, ¿qué tipo de datos se están recolectando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Florencia y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos cualitativos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los datos cualitativos describen cualidades, características o propiedades que no se miden fácilmente de manera numérica."
+        },
+        {
+          "letter": "B",
+          "text": "Datos cuantitativos discretos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos cuantitativos se expresan mediante números o conteos exactos."
+        },
+        {
+          "letter": "C",
+          "text": "Datos estadísticos multivariados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un tipo de análisis de datos complejos y no a la naturaleza descriptiva elemental."
+        },
+        {
+          "letter": "D",
+          "text": "Datos experimentales sesgados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sesgo es un error sistemático; los datos cualitativos pueden ser perfectamente objetivos y libres de sesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los datos cualitativos capturan propiedades no numéricas, mientras que los datos cuantitativos se basan en mediciones directas (longitud, peso, temperatura, etc.) usando unidades del sistema internacional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v17",
+      "statement": "Para analizar la solubilidad de una sal mineral en el laboratorio, se mide el tiempo de disolución a diferentes temperaturas. En este diseño experimental, ¿cuál representa la variable independiente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Joaquín y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura del agua",
+          "is_correct": true,
+          "feedback": "¡Correcto! La variable independiente es aquella que el investigador manipula deliberadamente (en este caso, la temperatura) para observar sus efectos."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo total de disolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este tiempo es la variable dependiente, ya que cambia como consecuencia de la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad total de sal utilizada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se mantiene constante como variable de control para garantizar la validez del experimento."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de agitador magnético empleado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una variable de control o constante que no se modifica entre pruebas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el método científico, la variable independiente es la causa o factor manipulado por el científico, mientras que la variable dependiente es el efecto observado o medido. Las variables de control se mantienen constantes para evitar sesgos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v18",
+      "statement": "¿Cuál de los siguientes pasos del método científico se caracteriza por formular una respuesta provisional, lógicamente fundamentada y contrastable empíricamente a un problema observado?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Benjamín y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La formulación de una hipótesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una hipótesis es una explicación o respuesta provisional que se somete a contrastación mediante la experimentación."
+        },
+        {
+          "letter": "B",
+          "text": "La observación cualitativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La observación es el registro de hechos y fenómenos de la naturaleza sin plantear explicaciones directas."
+        },
+        {
+          "letter": "C",
+          "text": "La recolección sistemática de datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una etapa posterior que se realiza durante la fase de experimentación."
+        },
+        {
+          "letter": "D",
+          "text": "La publicación de conclusiones en una revista científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el paso final de difusión y comunicación de los resultados obtenidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis científica debe ser clara, predictiva y susceptible de ser sometida a prueba (falsabilidad) mediante experimentos controlados.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v19",
+      "statement": "Si un grupo de científicos en Caacupé repite un experimento de medición enzimática bajo exactamente las mismas condiciones que el original y obtiene los mismos resultados, ¿qué cualidad clave del método científico se está demostrando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Sofía y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reproducibilidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! La reproducibilidad es la capacidad de que un experimento o estudio sea replicado por otros investigadores obteniendo resultados consistentes."
+        },
+        {
+          "letter": "B",
+          "text": "La subjetividad analítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia busca la objetividad, reduciendo al mínimo la subjetividad individual."
+        },
+        {
+          "letter": "C",
+          "text": "La refutabilidad absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refutabilidad significa que una teoría puede ser desmentida si se encuentra evidencia en contra, no que deba dar el mismo resultado."
+        },
+        {
+          "letter": "D",
+          "text": "La aleatoriedad estadística",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aleatoriedad se refiere a la selección de muestras, no a la consistencia de los resultados en réplicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reproducibilidad y la repetibilidad son pilares fundamentales del método científico moderno, lo que permite que el conocimiento sea verificado de manera independiente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-v20",
+      "statement": "Durante una investigación de campo, se formulan observaciones detalladas sobre la flora local. Si estas observaciones se traducen en descripciones de color, textura y forma sin emplear números, ¿qué tipo de datos se están recolectando?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Mateo y su grupo investigan sobre Método científico e investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos cualitativos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los datos cualitativos describen cualidades, características o propiedades que no se miden fácilmente de manera numérica."
+        },
+        {
+          "letter": "B",
+          "text": "Datos cuantitativos discretos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos cuantitativos se expresan mediante números o conteos exactos."
+        },
+        {
+          "letter": "C",
+          "text": "Datos estadísticos multivariados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a un tipo de análisis de datos complejos y no a la naturaleza descriptiva elemental."
+        },
+        {
+          "letter": "D",
+          "text": "Datos experimentales sesgados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sesgo es un error sistemático; los datos cualitativos pueden ser perfectamente objetivos y libres de sesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los datos cualitativos capturan propiedades no numéricas, mientras que los datos cuantitativos se basan en mediciones directas (longitud, peso, temperatura, etc.) usando unidades del sistema internacional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}
