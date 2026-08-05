@@ -94,19 +94,23 @@
   let safeQuestions = $derived(Array.isArray(questions) ? questions : []);
   let totalQuestions = $derived(safeQuestions.length);
 
-  let correctCount = $derived(safeQuestions.filter(q => {
-    const u = String(userAnswers[q.id] || '').trim().toLowerCase();
-    const c = String(q.correctOptionId || '').trim().toLowerCase();
-    return u === c && u !== '';
-  }).length);
+  // ⚡ Bolt Optimization: Calculate correctCount and wrongQuestions in a single pass instead of multiple .filter() iterations
+  let answerStats = $derived.by(() => {
+    return safeQuestions.reduce((acc, q) => {
+      const u = String(userAnswers[q.id] || '').trim().toLowerCase();
+      const c = String(q.correctOptionId || '').trim().toLowerCase();
+      if (u === c && u !== '') {
+        acc.correctCount++;
+      } else {
+        acc.wrongQuestions.push(q);
+      }
+      return acc;
+    }, { correctCount: 0, wrongQuestions: [] as any[] });
+  });
 
+  let correctCount = $derived(answerStats.correctCount);
   let percentage = $derived(totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0);
-
-  let wrongQuestions = $derived(safeQuestions.filter(q => {
-    const u = String(userAnswers[q.id] || '').trim().toLowerCase();
-    const c = String(q.correctOptionId || '').trim().toLowerCase();
-    return !(u === c && u !== '');
-  }));
+  let wrongQuestions = $derived(answerStats.wrongQuestions);
 
   let canNativeShare = $state(false);
   let shareFeedback = $state<string | null>(null);
