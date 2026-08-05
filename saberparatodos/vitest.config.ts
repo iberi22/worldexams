@@ -22,7 +22,7 @@ export default defineConfig(({ mode }) => {
       coverage: {
         provider: 'v8',
         reporter: ['text', 'json', 'html'],
-        include: ['src/lib/**/*.ts', 'src/utils/**/*.ts'],
+        include: ['src/lib/**/*.ts', 'src/utils/**/*.ts', 'src/modules/**/*.ts', 'src/modules/**/*.svelte.ts'],
         exclude: ['src/env.d.ts', 'src/**/*.d.ts'],
       },
     },
