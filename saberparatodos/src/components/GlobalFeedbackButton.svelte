@@ -44,7 +44,7 @@
   <div class="fixed bottom-6 right-6 z-40 print:hidden" in:fly={{ y: 20, duration: 500 }}>
     <button
       on:click={() => showModal = true}
-      class="group flex items-center gap-2 px-4 py-3 bg-[#121212]/90 backdrop-blur-md border border-white/10 hover:border-emerald-500/50 rounded-full shadow-lg hover:shadow-emerald-500/10 transition-all duration-300 transform hover:-translate-y-1"
+      class="group flex items-center gap-2 px-4 py-3 bg-[#121212]/90 backdrop-blur-md border border-white/10 hover:border-emerald-500/50 rounded-full shadow-lg hover:shadow-emerald-500/10 transition-all duration-300 transform hover:-translate-y-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 focus-visible:ring-offset-2 focus-visible:ring-offset-[#121212]"
       aria-label="Dejanos tu feedback"
     >
       <div class="relative">
