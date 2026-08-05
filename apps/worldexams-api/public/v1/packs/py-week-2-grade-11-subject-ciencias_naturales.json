@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-2-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.844Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes características estructurales distingue de manera inequívoca a una célula procariota (como una bacteria) de una célula eucariota?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Gladys y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de una envoltura nuclear que delimite el material genético",
+          "is_correct": true,
+          "feedback": "¡Correcto! En los procariontes, el ADN se localiza libremente en una región citoplasmática denominada nucleoide, sin membrana nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de ribosomas para la traducción proteica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células poseen ribosomas, aunque difieren en su tamaño y coeficiente de sedimentación (70S vs 80S)."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de una bicapa lipídica como membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática de fosfolípidos y proteínas es una característica universal de todas las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de una pared celular externa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas células vegetales, fúngicas y protistas (eucariotas) también poseen pared celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción evolutiva primaria entre procariontes y eucariontes radica en la compartimentación celular, destacando la presencia de núcleo y organelos membranosos en los eucariontes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v2",
+      "statement": "El material genético de los procariontes difiere del de los eucariontes. ¿Cómo se organiza típicamente el cromosoma principal de una célula bacteriana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Mateo y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una molécula de ADN circular de doble hebra no asociada a histonas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN bacteriano es circular, bicatenario y se encuentra desnudo (sin histonas verdaderas), a diferencia del ADN lineal empaquetado en los eucariontes."
+        },
+        {
+          "letter": "B",
+          "text": "Son múltiples filamentos lineales de ADN monocatenario altamente condensado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN genómico procarionte no es monocatenario ni está dividido en múltiples cromosomas lineales."
+        },
+        {
+          "letter": "C",
+          "text": "Es una estructura de ARN bicatenario disperso por el citosol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético celular principal de todas las células independientes es siempre el ADN, no el ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Se asocia estrechamente a proteínas histonas formando octámeros nucleosomales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de nucleosomas mediante histonas es exclusiva de las células eucariotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El genoma bacteriano consiste generalmente en un único cromosoma circular de doble cadena, complementado en ocasiones por plásmidos extracromosómicos que portan genes de resistencia o adaptación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v3",
+      "statement": "Si se analiza bajo el microscopio electrónico una célula eucariota vegetal y se compara con una célula eucariota animal, ¿cuáles organelos o estructuras exclusivas de la célula vegetal se observarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Valentina y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared celular de celulosa, cloroplastos y una gran vacuola central",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas tres estructuras son distintivas de la célula vegetal, permitiendo el soporte mecánico, la fotosíntesis y la regulación de la turgencia."
+        },
+        {
+          "letter": "B",
+          "text": "Lisosomas activos, centriolos funcionales y mitocondrias densas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los centriolos son propios de las células animales, y las mitocondrias se encuentran en ambos tipos celulares."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de Golgi ramificado, ribosomas libres y microtúbulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas estructuras son comunes a todos los eucariontes y no son exclusivas de vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "Membrana plasmática selectiva, peroxisomas abundantes y citoesqueleto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células eucariotas contienen estos elementos en su organización interna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células vegetales poseen una pared celular de celulosa externa a la membrana, plástidos como los cloroplastos para fotosíntesis y una gran vacuola central vacuolar que desplaza el núcleo hacia la periferia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v4",
+      "statement": "¿Cuál de las siguientes características estructurales distingue de manera inequívoca a una célula procariota (como una bacteria) de una célula eucariota?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Jorge y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de una envoltura nuclear que delimite el material genético",
+          "is_correct": true,
+          "feedback": "¡Correcto! En los procariontes, el ADN se localiza libremente en una región citoplasmática denominada nucleoide, sin membrana nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de ribosomas para la traducción proteica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células poseen ribosomas, aunque difieren en su tamaño y coeficiente de sedimentación (70S vs 80S)."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de una bicapa lipídica como membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática de fosfolípidos y proteínas es una característica universal de todas las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de una pared celular externa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas células vegetales, fúngicas y protistas (eucariotas) también poseen pared celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción evolutiva primaria entre procariontes y eucariontes radica en la compartimentación celular, destacando la presencia de núcleo y organelos membranosos en los eucariontes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v5",
+      "statement": "El material genético de los procariontes difiere del de los eucariontes. ¿Cómo se organiza típicamente el cromosoma principal de una célula bacteriana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Joaquín y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una molécula de ADN circular de doble hebra no asociada a histonas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN bacteriano es circular, bicatenario y se encuentra desnudo (sin histonas verdaderas), a diferencia del ADN lineal empaquetado en los eucariontes."
+        },
+        {
+          "letter": "B",
+          "text": "Son múltiples filamentos lineales de ADN monocatenario altamente condensado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN genómico procarionte no es monocatenario ni está dividido en múltiples cromosomas lineales."
+        },
+        {
+          "letter": "C",
+          "text": "Es una estructura de ARN bicatenario disperso por el citosol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético celular principal de todas las células independientes es siempre el ADN, no el ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Se asocia estrechamente a proteínas histonas formando octámeros nucleosomales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de nucleosomas mediante histonas es exclusiva de las células eucariotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El genoma bacteriano consiste generalmente en un único cromosoma circular de doble cadena, complementado en ocasiones por plásmidos extracromosómicos que portan genes de resistencia o adaptación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v6",
+      "statement": "Si se analiza bajo el microscopio electrónico una célula eucariota vegetal y se compara con una célula eucariota animal, ¿cuáles organelos o estructuras exclusivas de la célula vegetal se observarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Santiago y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared celular de celulosa, cloroplastos y una gran vacuola central",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas tres estructuras son distintivas de la célula vegetal, permitiendo el soporte mecánico, la fotosíntesis y la regulación de la turgencia."
+        },
+        {
+          "letter": "B",
+          "text": "Lisosomas activos, centriolos funcionales y mitocondrias densas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los centriolos son propios de las células animales, y las mitocondrias se encuentran en ambos tipos celulares."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de Golgi ramificado, ribosomas libres y microtúbulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas estructuras son comunes a todos los eucariontes y no son exclusivas de vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "Membrana plasmática selectiva, peroxisomas abundantes y citoesqueleto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células eucariotas contienen estos elementos en su organización interna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células vegetales poseen una pared celular de celulosa externa a la membrana, plástidos como los cloroplastos para fotosíntesis y una gran vacuola central vacuolar que desplaza el núcleo hacia la periferia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v7",
+      "statement": "¿Cuál de las siguientes características estructurales distingue de manera inequívoca a una célula procariota (como una bacteria) de una célula eucariota?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Joaquín y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de una envoltura nuclear que delimite el material genético",
+          "is_correct": true,
+          "feedback": "¡Correcto! En los procariontes, el ADN se localiza libremente en una región citoplasmática denominada nucleoide, sin membrana nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de ribosomas para la traducción proteica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células poseen ribosomas, aunque difieren en su tamaño y coeficiente de sedimentación (70S vs 80S)."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de una bicapa lipídica como membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática de fosfolípidos y proteínas es una característica universal de todas las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de una pared celular externa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas células vegetales, fúngicas y protistas (eucariotas) también poseen pared celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción evolutiva primaria entre procariontes y eucariontes radica en la compartimentación celular, destacando la presencia de núcleo y organelos membranosos en los eucariontes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v8",
+      "statement": "El material genético de los procariontes difiere del de los eucariontes. ¿Cómo se organiza típicamente el cromosoma principal de una célula bacteriana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Martina y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una molécula de ADN circular de doble hebra no asociada a histonas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN bacteriano es circular, bicatenario y se encuentra desnudo (sin histonas verdaderas), a diferencia del ADN lineal empaquetado en los eucariontes."
+        },
+        {
+          "letter": "B",
+          "text": "Son múltiples filamentos lineales de ADN monocatenario altamente condensado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN genómico procarionte no es monocatenario ni está dividido en múltiples cromosomas lineales."
+        },
+        {
+          "letter": "C",
+          "text": "Es una estructura de ARN bicatenario disperso por el citosol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético celular principal de todas las células independientes es siempre el ADN, no el ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Se asocia estrechamente a proteínas histonas formando octámeros nucleosomales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de nucleosomas mediante histonas es exclusiva de las células eucariotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El genoma bacteriano consiste generalmente en un único cromosoma circular de doble cadena, complementado en ocasiones por plásmidos extracromosómicos que portan genes de resistencia o adaptación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v9",
+      "statement": "Si se analiza bajo el microscopio electrónico una célula eucariota vegetal y se compara con una célula eucariota animal, ¿cuáles organelos o estructuras exclusivas de la célula vegetal se observarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Camila y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared celular de celulosa, cloroplastos y una gran vacuola central",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas tres estructuras son distintivas de la célula vegetal, permitiendo el soporte mecánico, la fotosíntesis y la regulación de la turgencia."
+        },
+        {
+          "letter": "B",
+          "text": "Lisosomas activos, centriolos funcionales y mitocondrias densas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los centriolos son propios de las células animales, y las mitocondrias se encuentran en ambos tipos celulares."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de Golgi ramificado, ribosomas libres y microtúbulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas estructuras son comunes a todos los eucariontes y no son exclusivas de vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "Membrana plasmática selectiva, peroxisomas abundantes y citoesqueleto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células eucariotas contienen estos elementos en su organización interna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células vegetales poseen una pared celular de celulosa externa a la membrana, plástidos como los cloroplastos para fotosíntesis y una gran vacuola central vacuolar que desplaza el núcleo hacia la periferia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v10",
+      "statement": "¿Cuál de las siguientes características estructurales distingue de manera inequívoca a una célula procariota (como una bacteria) de una célula eucariota?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Ramón y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de una envoltura nuclear que delimite el material genético",
+          "is_correct": true,
+          "feedback": "¡Correcto! En los procariontes, el ADN se localiza libremente en una región citoplasmática denominada nucleoide, sin membrana nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de ribosomas para la traducción proteica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células poseen ribosomas, aunque difieren en su tamaño y coeficiente de sedimentación (70S vs 80S)."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de una bicapa lipídica como membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática de fosfolípidos y proteínas es una característica universal de todas las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de una pared celular externa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas células vegetales, fúngicas y protistas (eucariotas) también poseen pared celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción evolutiva primaria entre procariontes y eucariontes radica en la compartimentación celular, destacando la presencia de núcleo y organelos membranosos en los eucariontes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v11",
+      "statement": "El material genético de los procariontes difiere del de los eucariontes. ¿Cómo se organiza típicamente el cromosoma principal de una célula bacteriana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Ramón y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una molécula de ADN circular de doble hebra no asociada a histonas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN bacteriano es circular, bicatenario y se encuentra desnudo (sin histonas verdaderas), a diferencia del ADN lineal empaquetado en los eucariontes."
+        },
+        {
+          "letter": "B",
+          "text": "Son múltiples filamentos lineales de ADN monocatenario altamente condensado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN genómico procarionte no es monocatenario ni está dividido en múltiples cromosomas lineales."
+        },
+        {
+          "letter": "C",
+          "text": "Es una estructura de ARN bicatenario disperso por el citosol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético celular principal de todas las células independientes es siempre el ADN, no el ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Se asocia estrechamente a proteínas histonas formando octámeros nucleosomales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de nucleosomas mediante histonas es exclusiva de las células eucariotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El genoma bacteriano consiste generalmente en un único cromosoma circular de doble cadena, complementado en ocasiones por plásmidos extracromosómicos que portan genes de resistencia o adaptación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v12",
+      "statement": "Si se analiza bajo el microscopio electrónico una célula eucariota vegetal y se compara con una célula eucariota animal, ¿cuáles organelos o estructuras exclusivas de la célula vegetal se observarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared celular de celulosa, cloroplastos y una gran vacuola central",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas tres estructuras son distintivas de la célula vegetal, permitiendo el soporte mecánico, la fotosíntesis y la regulación de la turgencia."
+        },
+        {
+          "letter": "B",
+          "text": "Lisosomas activos, centriolos funcionales y mitocondrias densas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los centriolos son propios de las células animales, y las mitocondrias se encuentran en ambos tipos celulares."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de Golgi ramificado, ribosomas libres y microtúbulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas estructuras son comunes a todos los eucariontes y no son exclusivas de vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "Membrana plasmática selectiva, peroxisomas abundantes y citoesqueleto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células eucariotas contienen estos elementos en su organización interna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células vegetales poseen una pared celular de celulosa externa a la membrana, plástidos como los cloroplastos para fotosíntesis y una gran vacuola central vacuolar que desplaza el núcleo hacia la periferia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v13",
+      "statement": "¿Cuál de las siguientes características estructurales distingue de manera inequívoca a una célula procariota (como una bacteria) de una célula eucariota?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Martina y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de una envoltura nuclear que delimite el material genético",
+          "is_correct": true,
+          "feedback": "¡Correcto! En los procariontes, el ADN se localiza libremente en una región citoplasmática denominada nucleoide, sin membrana nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de ribosomas para la traducción proteica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células poseen ribosomas, aunque difieren en su tamaño y coeficiente de sedimentación (70S vs 80S)."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de una bicapa lipídica como membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática de fosfolípidos y proteínas es una característica universal de todas las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de una pared celular externa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas células vegetales, fúngicas y protistas (eucariotas) también poseen pared celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción evolutiva primaria entre procariontes y eucariontes radica en la compartimentación celular, destacando la presencia de núcleo y organelos membranosos en los eucariontes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v14",
+      "statement": "El material genético de los procariontes difiere del de los eucariontes. ¿Cómo se organiza típicamente el cromosoma principal de una célula bacteriana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Ramón y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una molécula de ADN circular de doble hebra no asociada a histonas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN bacteriano es circular, bicatenario y se encuentra desnudo (sin histonas verdaderas), a diferencia del ADN lineal empaquetado en los eucariontes."
+        },
+        {
+          "letter": "B",
+          "text": "Son múltiples filamentos lineales de ADN monocatenario altamente condensado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN genómico procarionte no es monocatenario ni está dividido en múltiples cromosomas lineales."
+        },
+        {
+          "letter": "C",
+          "text": "Es una estructura de ARN bicatenario disperso por el citosol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético celular principal de todas las células independientes es siempre el ADN, no el ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Se asocia estrechamente a proteínas histonas formando octámeros nucleosomales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de nucleosomas mediante histonas es exclusiva de las células eucariotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El genoma bacteriano consiste generalmente en un único cromosoma circular de doble cadena, complementado en ocasiones por plásmidos extracromosómicos que portan genes de resistencia o adaptación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v15",
+      "statement": "Si se analiza bajo el microscopio electrónico una célula eucariota vegetal y se compara con una célula eucariota animal, ¿cuáles organelos o estructuras exclusivas de la célula vegetal se observarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared celular de celulosa, cloroplastos y una gran vacuola central",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas tres estructuras son distintivas de la célula vegetal, permitiendo el soporte mecánico, la fotosíntesis y la regulación de la turgencia."
+        },
+        {
+          "letter": "B",
+          "text": "Lisosomas activos, centriolos funcionales y mitocondrias densas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los centriolos son propios de las células animales, y las mitocondrias se encuentran en ambos tipos celulares."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de Golgi ramificado, ribosomas libres y microtúbulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas estructuras son comunes a todos los eucariontes y no son exclusivas de vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "Membrana plasmática selectiva, peroxisomas abundantes y citoesqueleto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células eucariotas contienen estos elementos en su organización interna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células vegetales poseen una pared celular de celulosa externa a la membrana, plástidos como los cloroplastos para fotosíntesis y una gran vacuola central vacuolar que desplaza el núcleo hacia la periferia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v16",
+      "statement": "¿Cuál de las siguientes características estructurales distingue de manera inequívoca a una célula procariota (como una bacteria) de una célula eucariota?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Benjamín y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de una envoltura nuclear que delimite el material genético",
+          "is_correct": true,
+          "feedback": "¡Correcto! En los procariontes, el ADN se localiza libremente en una región citoplasmática denominada nucleoide, sin membrana nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de ribosomas para la traducción proteica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células poseen ribosomas, aunque difieren en su tamaño y coeficiente de sedimentación (70S vs 80S)."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de una bicapa lipídica como membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática de fosfolípidos y proteínas es una característica universal de todas las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de una pared celular externa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas células vegetales, fúngicas y protistas (eucariotas) también poseen pared celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción evolutiva primaria entre procariontes y eucariontes radica en la compartimentación celular, destacando la presencia de núcleo y organelos membranosos en los eucariontes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v17",
+      "statement": "El material genético de los procariontes difiere del de los eucariontes. ¿Cómo se organiza típicamente el cromosoma principal de una célula bacteriana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Ramón y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una molécula de ADN circular de doble hebra no asociada a histonas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN bacteriano es circular, bicatenario y se encuentra desnudo (sin histonas verdaderas), a diferencia del ADN lineal empaquetado en los eucariontes."
+        },
+        {
+          "letter": "B",
+          "text": "Son múltiples filamentos lineales de ADN monocatenario altamente condensado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN genómico procarionte no es monocatenario ni está dividido en múltiples cromosomas lineales."
+        },
+        {
+          "letter": "C",
+          "text": "Es una estructura de ARN bicatenario disperso por el citosol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético celular principal de todas las células independientes es siempre el ADN, no el ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Se asocia estrechamente a proteínas histonas formando octámeros nucleosomales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de nucleosomas mediante histonas es exclusiva de las células eucariotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El genoma bacteriano consiste generalmente en un único cromosoma circular de doble cadena, complementado en ocasiones por plásmidos extracromosómicos que portan genes de resistencia o adaptación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v18",
+      "statement": "Si se analiza bajo el microscopio electrónico una célula eucariota vegetal y se compara con una célula eucariota animal, ¿cuáles organelos o estructuras exclusivas de la célula vegetal se observarán?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared celular de celulosa, cloroplastos y una gran vacuola central",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas tres estructuras son distintivas de la célula vegetal, permitiendo el soporte mecánico, la fotosíntesis y la regulación de la turgencia."
+        },
+        {
+          "letter": "B",
+          "text": "Lisosomas activos, centriolos funcionales y mitocondrias densas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los centriolos son propios de las células animales, y las mitocondrias se encuentran en ambos tipos celulares."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de Golgi ramificado, ribosomas libres y microtúbulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas estructuras son comunes a todos los eucariontes y no son exclusivas de vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "Membrana plasmática selectiva, peroxisomas abundantes y citoesqueleto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células eucariotas contienen estos elementos en su organización interna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células vegetales poseen una pared celular de celulosa externa a la membrana, plástidos como los cloroplastos para fotosíntesis y una gran vacuola central vacuolar que desplaza el núcleo hacia la periferia.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v19",
+      "statement": "¿Cuál de las siguientes características estructurales distingue de manera inequívoca a una célula procariota (como una bacteria) de una célula eucariota?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Liz y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de una envoltura nuclear que delimite el material genético",
+          "is_correct": true,
+          "feedback": "¡Correcto! En los procariontes, el ADN se localiza libremente en una región citoplasmática denominada nucleoide, sin membrana nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de ribosomas para la traducción proteica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de células poseen ribosomas, aunque difieren en su tamaño y coeficiente de sedimentación (70S vs 80S)."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de una bicapa lipídica como membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática de fosfolípidos y proteínas es una característica universal de todas las células vivas."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de una pared celular externa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas células vegetales, fúngicas y protistas (eucariotas) también poseen pared celular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción evolutiva primaria entre procariontes y eucariontes radica en la compartimentación celular, destacando la presencia de núcleo y organelos membranosos en los eucariontes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-v20",
+      "statement": "El material genético de los procariontes difiere del de los eucariontes. ¿Cómo se organiza típicamente el cromosoma principal de una célula bacteriana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Jorge y su grupo investigan sobre Célula eucariota y procariota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una molécula de ADN circular de doble hebra no asociada a histonas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN bacteriano es circular, bicatenario y se encuentra desnudo (sin histonas verdaderas), a diferencia del ADN lineal empaquetado en los eucariontes."
+        },
+        {
+          "letter": "B",
+          "text": "Son múltiples filamentos lineales de ADN monocatenario altamente condensado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN genómico procarionte no es monocatenario ni está dividido en múltiples cromosomas lineales."
+        },
+        {
+          "letter": "C",
+          "text": "Es una estructura de ARN bicatenario disperso por el citosol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material genético celular principal de todas las células independientes es siempre el ADN, no el ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Se asocia estrechamente a proteínas histonas formando octámeros nucleosomales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de nucleosomas mediante histonas es exclusiva de las células eucariotas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El genoma bacteriano consiste generalmente en un único cromosoma circular de doble cadena, complementado en ocasiones por plásmidos extracromosómicos que portan genes de resistencia o adaptación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}
