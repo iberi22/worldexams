@@ -79,6 +79,9 @@
 
       <button
         disabled
+        aria-label="Acceso de usuario no disponible por el momento"
+        title="Acceso de usuario no disponible por el momento"
+        aria-disabled="true"
         class="w-full py-3 bg-gray-500/10 border border-white/10 rounded-lg text-gray-500 font-bold uppercase tracking-widest cursor-not-allowed"
       >
         Pronto
