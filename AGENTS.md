@@ -78,6 +78,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -85,6 +87,11 @@ creador: "Jules-Agent"
 ```
 
 No usar `semana` como reemplazo de `week`. No usar `Context`, `Options` ni encabezados en ingles salvo `## Question`.
+
+**Campos obligatorios del validador v5.2 (validate_content.js):**
+- `bundle_index`: SIEMPRE presente (el validador emite ERROR si falta — campo obligatorio en v5.2).
+- `calibration`: SIEMPRE presente (el validador emite warning si falta). Formato: `calibration: {difficulty_band: "D3-D4", expected_success: 0.8}`.
+- **Dificultad en RANGO:** cada encabezado `## Question N` DEBE llevar el rango exacto `[D3-D4]`, `[D5-D6]`, `[D7-D8]` o `[D9-D10]` (nunca `[D3]` individual — el validador emite warning con `[D#]` suelto).
 
 ### Question Counts
 

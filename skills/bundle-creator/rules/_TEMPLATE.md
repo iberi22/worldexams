@@ -44,7 +44,9 @@ Basado en la purga 2026-07-28 (`docs/specs/CONTENT_ERRORS.md`). Revisar CADA bun
 2. **Sin placeholders:** ningún literal "Distractor N", "Opcion correcta", "Opcion B/C/D", "Pregunta sobre", "tema-semana-NN".
 3. **Ruta exacta:** `questions_data/{country-folder-nombre-completo}/{subject}/grado-{N}/2026/weekly/` — códigos de país (`uy`, `py`, `es`, `do`...) NO son carpetas válidas; Brasil usa `3o-ano` (no `3o-EM`).
 4. **Frontmatter exacto:** los 15 campos de `AGENTS.md`; `week: "WNN"` (nunca `semana:`); `country` = nombre completo en minúsculas; `id` = nombre de archivo sin `.md`; sin campos extra como `exam:`.
-5. **Formato de pregunta:** `## Question N [D#]` (nunca `## Pregunta`), `### Enunciado`, `### Opciones`, `### Explicacion Pedagogica`, `**Bloom:**`, `**EJE:**`, `**Expected_Success:**`, `**Contexto:**` (nunca `**Context:**`).
+5. **Formato de pregunta:** `## Question N [D#-D#]` con RANGO de dificultad (nunca `## Pregunta`, nunca `[D3]` individual — el validador exige `[D3-D4]`, `[D5-D6]`, `[D7-D8]`, `[D9-D10]` según la banda de AGENTS.md), `### Enunciado`, `### Opciones`, `### Explicacion Pedagogica`, `**Bloom:**`, `**EJE:**`, `**Expected_Success:**`, `**Contexto:**` (nunca `**Context:**`).
+5b. **Bloque `calibration`:** incluir SIEMPRE el bloque YAML `calibration:` al final del frontmatter (el validador emite warning si falta). Formato: `calibration: {difficulty_band: "D3-D4", expected_success: 0.8}` o similar.
+5c. **Frontmatter `bundle_index`:** incluir SIEMPRE el campo `bundle_index: 1` (el validador emite ERROR si falta — es obligatorio en v5.2).
 6. **Opciones únicas:** mismo texto en 2+ opciones = inválido; exactamente 4 opciones A-D, una sola `[x]`.
 7. **Feedback completo:** toda opción tiene `<!-- feedback: ... -->` no vacío.
 8. **Sin opciones prohibidas:** "todas/ninguna de las anteriores", "A y B" → inválido.
