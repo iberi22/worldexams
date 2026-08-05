@@ -57,6 +57,9 @@
   {:else}
     <button
       disabled
+      aria-label="Acceso mediante GitHub no disponible por el momento"
+      title="Acceso mediante GitHub no disponible por el momento"
+      aria-disabled="true"
       class="flex items-center gap-2 px-4 py-2 bg-gray-500/20 text-gray-400 text-xs font-bold uppercase tracking-widest rounded transition-all border border-white/10 cursor-not-allowed"
     >
       <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
