@@ -61,7 +61,8 @@
     "test:unit": "vitest run",
     "test:coverage": "vitest run --coverage",
     "smoke:geo": "node ../scripts/smoke-geo-routing.mjs",
-    "smoke:ai": "node scripts/smoke-ai-core.mjs"
+    "smoke:ai": "node scripts/smoke-ai-core.mjs",
+    "metrics:generation": "node scripts/generate-generation-metrics.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^14.0.1",
