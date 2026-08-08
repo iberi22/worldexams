@@ -82,9 +82,14 @@
       <div class="space-y-6">
         {#each organizations as org}
           <div class="bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-xl p-6 hover:shadow-lg transition-shadow">
-            <div class="flex justify-between items-start cursor-pointer" on:click={() => toggleOrg(org.id)}>
-              <div class="flex items-center gap-4">
-                <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center text-white font-bold text-xl">
+            <button
+              class="w-full flex justify-between items-start cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded-lg"
+              on:click={() => toggleOrg(org.id)}
+              aria-expanded={selectedOrgId === org.id}
+              aria-controls={`org-students-${org.id}`}
+            >
+              <div class="flex items-center gap-4 text-left">
+                <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center text-white font-bold text-xl shrink-0">
                     {org.name.substring(0,2).toUpperCase()}
                 </div>
                 <div>
@@ -92,16 +97,16 @@
                     <p class="text-xs text-zinc-500 font-mono">@{org.slug}</p>
                 </div>
               </div>
-              <div class="flex items-center gap-3">
+              <div class="flex items-center gap-3 shrink-0">
                  <span class="px-2 py-1 bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 text-xs rounded-full font-medium capitalize">
                     {org.plan_tier}
                  </span>
-                 <span class="text-zinc-400 text-sm">{selectedOrgId === org.id ? '▲' : '▼'}</span>
+                 <span class="text-zinc-400 text-sm" aria-hidden="true">{selectedOrgId === org.id ? '▲' : '▼'}</span>
               </div>
-            </div>
+            </button>
 
             {#if selectedOrgId === org.id}
-                <div class="mt-6 border-t border-zinc-100 dark:border-zinc-800 pt-6 animate-fade-in">
+                <div id={`org-students-${org.id}`} class="mt-6 border-t border-zinc-100 dark:border-zinc-800 pt-6 animate-fade-in">
                     <OrgStudents organizationId={org.id} />
                 </div>
             {/if}
