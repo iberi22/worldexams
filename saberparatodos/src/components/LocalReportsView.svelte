@@ -1761,7 +1761,7 @@
           </h4>
           <ol class="text-sm text-white/70 space-y-1 list-decimal list-inside">
             <li>Copia el texto de abajo</li>
-            <li>Abre <a href="https://chat.openai.com" target="_blank" class="text-purple-400 hover:underline">ChatGPT</a>, <a href="https://gemini.google.com" target="_blank" class="text-purple-400 hover:underline">Gemini</a> o <a href="https://claude.ai" target="_blank" class="text-purple-400 hover:underline">Claude</a></li>
+            <li>Abre <a href="https://chat.openai.com" target="_blank" rel="noopener noreferrer" class="text-purple-400 hover:underline">ChatGPT</a>, <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer" class="text-purple-400 hover:underline">Gemini</a> o <a href="https://claude.ai" target="_blank" rel="noopener noreferrer" class="text-purple-400 hover:underline">Claude</a></li>
             <li>Pega el prompt y envía</li>
             <li>¡Obtén tu guía de estudio personalizada!</li>
           </ol>
@@ -1867,7 +1867,7 @@
           {#if notebookLMPromptType === 'setup'}
             <ol class="text-sm text-white/70 space-y-3 list-decimal list-inside mb-4">
               <li>
-                Abre <a href="https://notebooklm.google.com" target="_blank" class="text-amber-400 hover:underline">NotebookLM</a> y crea un cuaderno.
+                Abre <a href="https://notebooklm.google.com" target="_blank" rel="noopener noreferrer" class="text-amber-400 hover:underline">NotebookLM</a> y crea un cuaderno.
               </li>
               <li>
                 Agrega esta fuente (URL):
@@ -1923,7 +1923,7 @@
 
           <a
             href="/notebooklm"
-            target="_blank"
+            target="_blank" rel="noopener noreferrer"
             class="inline-flex mt-4 px-4 py-2 bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/30 rounded-lg text-sm text-amber-400 hover:text-amber-300 transition-colors items-center gap-2"
           >
             <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
@@ -1935,10 +1935,10 @@
       <!-- Modal Footer -->
       <div class="p-4 border-t border-white/5 bg-black/20 flex justify-between items-center">
         <div class="flex gap-2">
-          <a href="https://chat.openai.com" target="_blank" class="px-3 py-2 bg-white/5 hover:bg-white/10 border border-white/10 rounded-lg text-xs text-white/60 hover:text-white transition-colors">
+          <a href="https://chat.openai.com" target="_blank" rel="noopener noreferrer" class="px-3 py-2 bg-white/5 hover:bg-white/10 border border-white/10 rounded-lg text-xs text-white/60 hover:text-white transition-colors">
             ChatGPT →
           </a>
-          <a href="https://gemini.google.com" target="_blank" class="px-3 py-2 bg-white/5 hover:bg-white/10 border border-white/10 rounded-lg text-xs text-white/60 hover:text-white transition-colors">
+          <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer" class="px-3 py-2 bg-white/5 hover:bg-white/10 border border-white/10 rounded-lg text-xs text-white/60 hover:text-white transition-colors">
             Gemini →
           </a>
         </div>
