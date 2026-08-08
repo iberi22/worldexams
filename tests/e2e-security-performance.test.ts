@@ -13,18 +13,21 @@
 
 import { test, expect } from '@playwright/test';
 
+const it = test;
+const describe = test.describe;
+
 const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1';
 const FRONTEND_URL =
   process.env.PLAYWRIGHT_BASE_URL ||
   'https://saberparatodos.space';
 
-test.describe('Security & Performance Improvements', () => {
+describe('Security & Performance Improvements', () => {
 
   // ============================================
   // TEST 1: Guest Access (sin JWT)
   // ============================================
 
-  test('1.1 - Guest access sin JWT debe funcionar', async ({ request }) => {
+  it('1.1 - Guest access sin JWT debe funcionar', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: {
         grade: '11',
@@ -42,7 +45,7 @@ test.describe('Security & Performance Improvements', () => {
     expect(data.questions).toHaveLength(Math.min(5, data.total_questions));
   });
 
-  test('1.2 - Guest debe recibir máximo 10 preguntas', async ({ request }) => {
+  it('1.2 - Guest debe recibir máximo 10 preguntas', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: {
         grade: '11',
@@ -59,7 +62,7 @@ test.describe('Security & Performance Improvements', () => {
     expect(data.total_questions).toBeLessThanOrEqual(10);
   });
 
-  test('1.3 - Respuesta debe incluir campo is_guest', async ({ request }) => {
+  it('1.3 - Respuesta debe incluir campo is_guest', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: {
         grade: '5',
@@ -77,7 +80,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 2: Bulk Endpoint
   // ============================================
 
-  test('2.1 - Bulk endpoint debe retornar múltiples grados', async ({ request }) => {
+  it('2.1 - Bulk endpoint debe retornar múltiples grados', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions-bulk`, {
       params: {
         grades: '3,5,7,9,11',
@@ -98,7 +101,7 @@ test.describe('Security & Performance Improvements', () => {
     expect(grades.length).toBeGreaterThan(1);
   });
 
-  test('2.2 - Bulk endpoint debe respetar límite', async ({ request }) => {
+  it('2.2 - Bulk endpoint debe respetar límite', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions-bulk`, {
       params: {
         grades: '11',
@@ -112,7 +115,7 @@ test.describe('Security & Performance Improvements', () => {
     expect(data.questions.length).toBeLessThanOrEqual(20);
   });
 
-  test('2.3 - Bulk endpoint debe incluir metadata correcta', async ({ request }) => {
+  it('2.3 - Bulk endpoint debe incluir metadata correcta', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions-bulk`, {
       params: {
         grades: '11',
@@ -134,7 +137,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 3: Rate Limiting
   // ============================================
 
-  test('3.1 - Múltiples requests dentro del límite deben funcionar', async ({ request }) => {
+  it('3.1 - Múltiples requests dentro del límite deben funcionar', async ({ request }) => {
     const requests = [];
 
     for (let i = 0; i < 10; i++) {
@@ -153,7 +156,7 @@ test.describe('Security & Performance Improvements', () => {
     });
   });
 
-  test.skip('3.2 - Request 101 debe retornar 429 (Too Many Requests)', async ({ request }) => {
+  it.skip('3.2 - Request 101 debe retornar 429 (Too Many Requests)', async ({ request }) => {
     // NOTA: Este test requiere ejecutarse en aislamiento o con IP única
     // Skip por defecto para evitar contaminar rate limit
 
@@ -177,7 +180,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 4: Caching Headers
   // ============================================
 
-  test('4.1 - Guest requests deben tener cache público', async ({ request }) => {
+  it('4.1 - Guest requests deben tener cache público', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: { grade: '11', subject: 'matematicas', country: 'CO' }
     });
@@ -188,7 +191,7 @@ test.describe('Security & Performance Improvements', () => {
     expect(cacheControl).toMatch(/max-age=\d+/);
   });
 
-  test('4.2 - Headers de seguridad CSP deben estar presentes', async ({ page }) => {
+  it('4.2 - Headers de seguridad CSP deben estar presentes', async ({ page }) => {
     const response = await page.goto(FRONTEND_URL);
 
     const headers = response?.headers() || {};
@@ -209,7 +212,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 5: Input Validation
   // ============================================
 
-  test('5.1 - Parámetros inválidos deben retornar error 400', async ({ request }) => {
+  it('5.1 - Parámetros inválidos deben retornar error 400', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: {
         grade: 'invalid', // No es número
@@ -221,7 +224,7 @@ test.describe('Security & Performance Improvements', () => {
     expect([400, 422]).toContain(response.status());
   });
 
-  test('5.2 - Country code inválido debe retornar error', async ({ request }) => {
+  it('5.2 - Country code inválido debe retornar error', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: {
         grade: '11',
@@ -233,7 +236,7 @@ test.describe('Security & Performance Improvements', () => {
     expect([400, 422]).toContain(response.status());
   });
 
-  test('5.3 - Subject vacío debe retornar error', async ({ request }) => {
+  it('5.3 - Subject vacío debe retornar error', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: {
         grade: '11',
@@ -249,7 +252,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 6: Blog View Optimization
   // ============================================
 
-  test('6.1 - Blog View debe cargar en menos de 3 segundos', async ({ page }) => {
+  it('6.1 - Blog View debe cargar en menos de 3 segundos', async ({ page }) => {
     const startTime = Date.now();
 
     await page.goto(FRONTEND_URL);
@@ -267,7 +270,7 @@ test.describe('Security & Performance Improvements', () => {
     expect(loadTime).toBeLessThan(3000);
   });
 
-  test('6.2 - Blog View debe hacer solo 1 request al backend', async ({ page }) => {
+  it('6.2 - Blog View debe hacer solo 1 request al backend', async ({ page }) => {
     const requests: string[] = [];
 
     page.on('request', request => {
@@ -296,7 +299,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 7: Performance Benchmarks
   // ============================================
 
-  test('7.1 - Edge Function debe responder en menos de 500ms (p95)', async ({ request }) => {
+  it('7.1 - Edge Function debe responder en menos de 500ms (p95)', async ({ request }) => {
     const times: number[] = [];
 
     for (let i = 0; i < 20; i++) {
@@ -313,7 +316,7 @@ test.describe('Security & Performance Improvements', () => {
     expect(p95).toBeLessThan(500);
   });
 
-  test('7.2 - Bulk endpoint debe responder en menos de 1 segundo', async ({ request }) => {
+  it('7.2 - Bulk endpoint debe responder en menos de 1 segundo', async ({ request }) => {
     const start = Date.now();
 
     await request.get(`${EDGE_FUNCTION_URL}/get-questions-bulk`, {
@@ -334,7 +337,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 8: Error Handling
   // ============================================
 
-  test('8.1 - Edge Function debe manejar errores gracefully', async ({ request }) => {
+  it('8.1 - Edge Function debe manejar errores gracefully', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: {
         grade: '999', // Grado inexistente
@@ -347,7 +350,7 @@ test.describe('Security & Performance Improvements', () => {
     expect(response.status()).not.toBe(500);
   });
 
-  test('8.2 - Respuestas de error deben incluir mensaje descriptivo', async ({ request }) => {
+  it('8.2 - Respuestas de error deben incluir mensaje descriptivo', async ({ request }) => {
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: {
         grade: 'abc',
@@ -368,7 +371,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 9: Static API Deprecation (cuando se active)
   // ============================================
 
-  test.skip('9.1 - Static API debe retornar 410 (Gone)', async ({ request }) => {
+  it.skip('9.1 - Static API debe retornar 410 (Gone)', async ({ request }) => {
     // Skip: Solo cuando DISABLE_STATIC_API=true esté habilitado
 
     const response = await request.get(`${FRONTEND_URL}/api/v1/questions.json`);
@@ -383,7 +386,7 @@ test.describe('Security & Performance Improvements', () => {
   // TEST 10: Database Integration
   // ============================================
 
-  test('10.1 - Guest requests deben registrarse en rate_limits table', async ({ request }) => {
+  it('10.1 - Guest requests deben registrarse en rate_limits table', async ({ request }) => {
     // Hacer request de guest
     const response = await request.get(`${EDGE_FUNCTION_URL}/get-questions`, {
       params: { grade: '11', subject: 'matematicas', country: 'CO' }
@@ -401,9 +404,9 @@ test.describe('Security & Performance Improvements', () => {
 // TEST SUITE: Regression Tests
 // ============================================
 
-test.describe('Regression Tests - No Breaking Changes', () => {
+describe('Regression Tests - No Breaking Changes', () => {
 
-  test('REG-1: Exam submission sigue funcionando', async ({ page }) => {
+  it('REG-1: Exam submission sigue funcionando', async ({ page }) => {
     await page.goto(FRONTEND_URL);
 
     // Iniciar examen
@@ -414,7 +417,7 @@ test.describe('Regression Tests - No Breaking Changes', () => {
     await page.waitForSelector('[data-testid="question"], .question-container', { timeout: 5000 });
   });
 
-  test('REG-2: Party Mode sigue funcionando', async ({ page }) => {
+  it('REG-2: Party Mode sigue funcionando', async ({ page }) => {
     await page.goto(FRONTEND_URL);
 
     // Buscar botón de Party Mode
@@ -428,7 +431,7 @@ test.describe('Regression Tests - No Breaking Changes', () => {
     }
   });
 
-  test('REG-3: Leaderboard sigue funcionando', async ({ page }) => {
+  it('REG-3: Leaderboard sigue funcionando', async ({ page }) => {
     await page.goto(FRONTEND_URL);
 
     const leaderboardButton = page.locator('button:has-text("Ranking")').or(page.locator('a:has-text("Ranking")'));

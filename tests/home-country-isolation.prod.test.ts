@@ -1,9 +1,10 @@
 import { expect, test } from "@playwright/test";
 
-const siteBaseUrl = process.env.PLAYWRIGHT_BASE_URL || "https://saberparatodos.space";
+const it = test;
+const describe = test.describe;
 
-test.describe("Home tenant isolation", () => {
-  test("Mexico home does not render Colombia hero labels", async ({ request }) => {
+describe("Home tenant isolation", () => {
+  it("Mexico home does not render Colombia hero labels", async ({ request }) => {
     const response = await request.get(`${siteBaseUrl}/`, { params: { country: "mx" } });
     expect(response.status()).toBe(200);
 
@@ -13,7 +14,7 @@ test.describe("Home tenant isolation", () => {
     expect(html).not.toContain("Colombia");
   });
 
-  test("Generic tenant home stays free from Colombia-first branding", async ({ request }) => {
+  it("Generic tenant home stays free from Colombia-first branding", async ({ request }) => {
     const response = await request.get(`${siteBaseUrl}/`, { params: { country: "ar" } });
     expect(response.status()).toBe(200);
 
@@ -23,3 +24,5 @@ test.describe("Home tenant isolation", () => {
     expect(html).not.toContain("Colombia");
   });
 });
+
+const siteBaseUrl = process.env.PLAYWRIGHT_BASE_URL || "https://saberparatodos.space";
