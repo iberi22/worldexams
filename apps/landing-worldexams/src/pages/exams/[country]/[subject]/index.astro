@@ -113,7 +113,6 @@ const questions = parsedBundles.flat();
       </div>
 
       {questions.length > 0 ? (
-        <!-- Exam Component -->
         <ExamView
           client:load
           questions={questions}
@@ -122,7 +121,6 @@ const questions = parsedBundles.flat();
           countryCode={country}
         />
       ) : (
-        <!-- No Questions -->
         <div class="bg-bg-card rounded-2xl p-8 border border-white/5 text-center">
           <div class="text-6xl mb-4">📚</div>
           <h2 class="text-2xl font-bold mb-2">No hay preguntas disponibles</h2>
