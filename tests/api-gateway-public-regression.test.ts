@@ -1,5 +1,8 @@
 import { expect, test } from "@playwright/test";
 
+const it = test;
+const describe = test.describe;
+
 const apiBaseUrl =
   process.env.API_BASE_URL ||
   (process.env.PLAYWRIGHT_BASE_URL?.includes("saberparatodos.space")
@@ -8,8 +11,8 @@ const apiBaseUrl =
 
 const siteBaseUrl = process.env.PLAYWRIGHT_BASE_URL || "https://saberparatodos.space";
 
-test.describe("API gateway public regression", () => {
-  test("public questions endpoint returns 200 and guest payload", async ({ request }) => {
+describe("API gateway public regression", () => {
+  it("public questions endpoint returns 200 and guest payload", async ({ request }) => {
     const response = await request.get(`${apiBaseUrl}/v1/questions`, {
       params: {
         country: "co",
@@ -30,7 +33,7 @@ test.describe("API gateway public regression", () => {
     expect(body.is_guest).toBe(true);
   });
 
-  test("premium endpoint still rejects missing API key or remains flagged as external incident", async ({ request }) => {
+  it("premium endpoint still rejects missing API key or remains flagged as external incident", async ({ request }) => {
     const response = await request.get(`${apiBaseUrl}/v1/premium/questions`, {
       params: {
         grade: "11",
@@ -48,7 +51,7 @@ test.describe("API gateway public regression", () => {
   ];
 
   for (const tenant of tenantMatrix) {
-    test(`same-origin proxy keeps coherent metadata for ${tenant.country}/${tenant.exam}`, async ({ request }) => {
+    it(`same-origin proxy keeps coherent metadata for ${tenant.country}/${tenant.exam}`, async ({ request }) => {
       const response = await request.get(`${siteBaseUrl}/api/questions`, {
         params: {
           country: tenant.country,

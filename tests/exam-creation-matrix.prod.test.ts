@@ -1,5 +1,8 @@
 import { expect, test } from "@playwright/test";
 
+const it = test;
+const describe = test.describe;
+
 const siteBaseUrl = process.env.PLAYWRIGHT_BASE_URL || "https://saberparatodos.space";
 const apiBaseUrl = process.env.API_BASE_URL || "https://api.saberparatodos.space";
 
@@ -29,10 +32,10 @@ const periodUiMatrix = [
   { grade: 11, subjectLabel: "Ciencias Naturales", periodLabel: /Periodo 1/i },
 ];
 
-test.describe("Production exam creation matrix", () => {
+describe("Production exam creation matrix", () => {
   test.describe.configure({ mode: "serial" });
 
-  test("site root is healthy", async ({ page, browserName }) => {
+  it("site root is healthy", async ({ page, browserName }) => {
     test.skip(browserName !== "chromium", "UI smoke runs only in chromium.");
 
     await page.addInitScript(() => {
@@ -45,7 +48,7 @@ test.describe("Production exam creation matrix", () => {
   });
 
   for (const combo of examMatrix) {
-    test(`API combo G${combo.grade} ${combo.subject} returns guest questions`, async ({ request, browserName }) => {
+    it(`API combo G${combo.grade} ${combo.subject} returns guest questions`, async ({ request, browserName }) => {
       test.skip(browserName !== "chromium", "Matrix runs once in chromium to keep production smoke bounded.");
 
       const response = await request.get(`${apiBaseUrl}/v1/questions`, {
@@ -67,7 +70,7 @@ test.describe("Production exam creation matrix", () => {
       expect(body.questions.length).toBeLessThanOrEqual(10);
     });
 
-    test(`same-origin proxy combo G${combo.grade} ${combo.subject} returns guest questions`, async ({ request, browserName }) => {
+    it(`same-origin proxy combo G${combo.grade} ${combo.subject} returns guest questions`, async ({ request, browserName }) => {
       test.skip(browserName !== "chromium", "Matrix runs once in chromium to keep production smoke bounded.");
 
       const response = await request.get(`${siteBaseUrl}/api/questions`, {
@@ -88,7 +91,7 @@ test.describe("Production exam creation matrix", () => {
     });
   }
 
-  test("same-origin pack proxy supports HEAD for ciencias 11", async ({ request, browserName }) => {
+  it("same-origin pack proxy supports HEAD for ciencias 11", async ({ request, browserName }) => {
     test.skip(browserName !== "chromium", "Matrix runs once in chromium to keep production smoke bounded.");
 
     const response = await request.fetch(`${siteBaseUrl}/api/packs/week-1-grade-11-subject-ciencias_naturales.json`, {
@@ -99,7 +102,7 @@ test.describe("Production exam creation matrix", () => {
   });
 
   for (const combo of periodUiMatrix) {
-    test(`UI can start period exam for grade ${combo.grade} ${combo.subjectLabel}`, async ({ page, browserName }) => {
+    it(`UI can start period exam for grade ${combo.grade} ${combo.subjectLabel}`, async ({ page, browserName }) => {
       test.skip(browserName !== "chromium", "UI smoke runs only in chromium.");
 
       await page.addInitScript(() => {

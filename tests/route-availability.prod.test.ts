@@ -1,9 +1,12 @@
 import { expect, test } from "@playwright/test";
 
+const it = test;
+const describe = test.describe;
+
 const siteBaseUrl = process.env.PLAYWRIGHT_BASE_URL || "https://saberparatodos.space";
 
-test.describe("Route availability by tenant", () => {
-  test("Mexico ranking is degraded instead of leaking Colombia data", async ({ request }) => {
+describe("Route availability by tenant", () => {
+  it("Mexico ranking is degraded instead of leaking Colombia data", async ({ request }) => {
     const response = await request.get(`${siteBaseUrl}/ranking`, { params: { country: "mx" } });
     expect(response.status()).toBe(200);
 
@@ -12,7 +15,7 @@ test.describe("Route availability by tenant", () => {
     expect(html).not.toContain("Ranking Colombia");
   });
 
-  test("Generic tenant MEN route is degraded instead of rendering MEN content", async ({ request }) => {
+  it("Generic tenant MEN route is degraded instead of rendering MEN content", async ({ request }) => {
     const response = await request.get(`${siteBaseUrl}/normas-men`, { params: { country: "pe" } });
     expect(response.status()).toBe(200);
 

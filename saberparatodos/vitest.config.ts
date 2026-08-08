@@ -12,13 +12,14 @@ export default defineConfig(({ mode }) => {
         'edge-mesh': fileURLToPath(new URL('./src/lib/ai/__mocks__/edge-mesh-stub.ts', import.meta.url)),
         '@': fileURLToPath(new URL('./src', import.meta.url)),
         '$lib': fileURLToPath(new URL('./src/lib', import.meta.url)),
+        'astro:middleware': fileURLToPath(new URL('./tests/stubs/astro-middleware.ts', import.meta.url)),
       },
     },
     test: {
       globals: true,
       environment: 'jsdom',
       env: env,
-      include: ['src/**/*.{test,spec}.{js,ts,jsx,tsx}', 'tests/unit/**/*.{test,spec}.{js,ts,jsx,tsx}'],
+      include: ['src/**/*.{test,spec}.{js,ts,jsx,tsx}', 'tests/unit/**/*.{test,spec}.{js,ts,jsx,tsx}', 'tests/integration/**/*.{test,spec}.{js,ts,jsx,tsx}'],
       coverage: {
         provider: 'v8',
         reporter: ['text', 'json', 'html'],

@@ -1,9 +1,12 @@
 import { expect, test } from "@playwright/test";
 
+const it = test;
+const describe = test.describe;
+
 const siteBaseUrl = process.env.PLAYWRIGHT_BASE_URL || "https://saberparatodos.space";
 
-test.describe("Guide tenant isolation", () => {
-  test("Colombia guide keeps ICFES-specific sections", async ({ request }) => {
+describe("Guide tenant isolation", () => {
+  it("Colombia guide keeps ICFES-specific sections", async ({ request }) => {
     const response = await request.get(`${siteBaseUrl}/guia-examen`, {
       params: { country: "co" },
     });
@@ -16,7 +19,7 @@ test.describe("Guide tenant isolation", () => {
     expect(html).toContain("Analisis de datos Saber 11");
   });
 
-  test("Mexico guide does not reuse ICFES result copy", async ({ request }) => {
+  it("Mexico guide does not reuse ICFES result copy", async ({ request }) => {
     const response = await request.get(`${siteBaseUrl}/guia-examen`, {
       params: { country: "mx" },
     });
@@ -33,7 +36,7 @@ test.describe("Guide tenant isolation", () => {
   const genericCountries = ["ar", "cl", "pe", "ec", "br", "pa", "cr", "gt", "do", "sv", "hn", "ni"];
 
   for (const country of genericCountries) {
-    test(`Generic tenant ${country} stays isolated from ICFES blocks`, async ({ request }) => {
+    it(`Generic tenant ${country} stays isolated from ICFES blocks`, async ({ request }) => {
       const response = await request.get(`${siteBaseUrl}/guia-examen`, {
         params: { country },
       });
