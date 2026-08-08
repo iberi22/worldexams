@@ -206,9 +206,11 @@
     }
   });
 
-  // Derived: Filtered questions for current grade
+  // ⚡ Bolt Optimization: Avoid O(N) array recreation and iteration when no grade is selected by returning reference directly
   let filteredLocalQuestions = $derived(
-    loadedQuestions.filter(q => selectedGrade ? q.grade === selectedGrade : true)
+    selectedGrade
+      ? loadedQuestions.filter(q => q.grade === selectedGrade)
+      : loadedQuestions
   );
 
   // Derived: Exam questions based on generatedExamQuestions or filtered
