@@ -9,6 +9,12 @@ const apiBaseUrl =
 const siteBaseUrl = process.env.PLAYWRIGHT_BASE_URL || "https://saberparatodos.space";
 
 test.describe("API gateway public regression", () => {
+  test.beforeEach(({}, testInfo) => {
+    if (process.env.RUN_EXTERNAL_TESTS !== "true") {
+      test.skip(true, "Skipping test requiring external services. Set RUN_EXTERNAL_TESTS=true to enable.");
+    }
+  });
+
   test("public questions endpoint returns 200 and guest payload", async ({ request }) => {
     const response = await request.get(`${apiBaseUrl}/v1/questions`, {
       params: {
