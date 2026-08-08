@@ -52,7 +52,8 @@ export default defineConfig({
     resolve: {
       alias: {
         '@': '/src',
-        '$lib': '/src/lib'
+        '$lib': '/src/lib',
+        'edge-mesh': '/src/lib/ai/__mocks__/edge-mesh-stub.ts'
       }
     },
     define: {

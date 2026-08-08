@@ -6,8 +6,9 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
-      "$lib/*": ["src/lib/*"]
+      "$lib/*": ["src/lib/*"],
+      "edge-mesh": ["src/lib/ai/__mocks__/edge-mesh-stub.ts"]
     }
   },
-  "exclude": ["template-openicfes", "supabase", "functions", "dist", "video-pipeline"]
+  "exclude": ["template-openicfes", "supabase", "functions", "dist", "video-pipeline", "scripts"]
 }
