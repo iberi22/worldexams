@@ -1,0 +1,3 @@
+## 2026-08-06 - [Install Prompt Accessibility Enhancement]
+**Learning:** Fixed overlay components like custom install prompts often lack proper focus rings and aria-disabled states for their buttons because they are built from scratch rather than using native browser dialogues. Users relying on keyboard navigation could easily lose their place or get stuck on buttons without visible focus indicators or screen-reader context for loading states.
+**Action:** Always ensure that custom overlay components include `focus-visible` utility classes on interactive elements, and pair `disabled` state with `aria-disabled` and descriptive `title` attributes to provide full context to all users during async operations.

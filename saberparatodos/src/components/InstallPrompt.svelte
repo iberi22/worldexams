@@ -71,14 +71,17 @@
     </div>
     <button
       type="button"
-      class="px-3 py-2 rounded-lg bg-emerald-500/20 border border-emerald-400/30 text-emerald-100 text-xs font-bold disabled:opacity-50"
+      class="px-3 py-2 rounded-lg bg-emerald-500/20 border border-emerald-400/30 text-emerald-100 text-xs font-bold disabled:opacity-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950"
       disabled={installing}
+      aria-disabled={installing}
+      title={installing ? 'Instalación en curso...' : 'Instalar aplicación'}
       onclick={install}
     >{installing ? 'Instalando…' : 'Instalar'}</button>
     <button
       type="button"
-      class="px-2 py-2 rounded-lg text-white/40 hover:text-white/80 text-sm"
-      aria-label="Cerrar"
+      class="px-2 py-2 rounded-lg text-white/40 hover:text-white/80 text-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950"
+      aria-label="Cerrar prompt de instalación"
+      title="Cerrar prompt de instalación"
       onclick={dismiss}
     >✕</button>
   </div>
