@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { z } from 'zod';
 import {
   createAdminSupabaseClient,
   createServerSupabaseClient,
@@ -38,16 +39,44 @@ function checkRateLimit(ip: string): boolean {
   return true;
 }
 
+// Zod validation schemas
+const CommentsGetSchema = z.object({
+  questionId: z.string().regex(/^[a-zA-Z0-9_-]+$/).optional().nullable(),
+  counts: z.string().regex(/^[a-zA-Z0-9_,-]+$/).optional().nullable(),
+});
+
+const CommentsPostSchema = z.object({
+  questionId: z.string().regex(/^[a-zA-Z0-9_-]+$/),
+  content: z.string().min(1).max(1000),
+  userName: z.string().min(1).max(100).optional().nullable(),
+  userId: z.string().uuid().optional().nullable(),
+});
+
 /**
  * Handle fetching and posting question comments
  * - ?questionId=ID → full approved comments for one question
  * - ?counts=id1,id2 → aggregated approved comment counts (no new tables)
  */
 export const GET: APIRoute = async ({ url, locals }) => {
-  const questionId = url.searchParams.get('questionId');
+  const questionIdParam = url.searchParams.get('questionId');
   const countsParam = url.searchParams.get('counts');
 
-  if (!questionId && !countsParam) {
+  // Input Validation via Zod
+  const validationResult = CommentsGetSchema.safeParse({
+    questionId: questionIdParam,
+    counts: countsParam,
+  });
+
+  if (!validationResult.success) {
+    return new Response(JSON.stringify({ error: 'Parámetros de consulta inválidos.', details: validationResult.error.format() }), {
+      status: 400,
+      headers: { 'Content-Type': 'application/json' }
+    });
+  }
+
+  const { questionId, counts: validatedCounts } = validationResult.data;
+
+  if (!questionId && !validatedCounts) {
     return new Response(JSON.stringify({ error: 'questionId or counts is required' }), {
       status: 400,
       headers: { 'Content-Type': 'application/json' }
@@ -58,8 +87,8 @@ export const GET: APIRoute = async ({ url, locals }) => {
     const env = getServerRuntimeEnv(locals as RuntimeLocals);
     const supabase = createServerSupabaseClient(env);
 
-    if (countsParam) {
-      const ids = countsParam
+    if (validatedCounts) {
+      const ids = validatedCounts
         .split(',')
         .map((id) => id.trim())
         .filter(Boolean)
@@ -135,17 +164,29 @@ export const POST: APIRoute = async ({ request, locals }) => {
   }
 
   try {
-    const env = getServerRuntimeEnv(locals as RuntimeLocals);
-    const supabase = createAdminSupabaseClient(env);
-    const body = await request.json();
-    const { questionId, content, userName, userId } = body;
-
-    if (!questionId || !content) {
-      return new Response(JSON.stringify({ error: 'Missing required fields' }), {
+    let body: any;
+    try {
+      body = await request.json();
+    } catch {
+      return new Response(JSON.stringify({ error: 'Cuerpo de solicitud inválido.' }), {
         status: 400,
         headers: { 'Content-Type': 'application/json' }
       });
     }
+
+    // Input Validation via Zod
+    const validationResult = CommentsPostSchema.safeParse(body);
+    if (!validationResult.success) {
+      return new Response(JSON.stringify({ error: 'Datos de comentario inválidos.', details: validationResult.error.format() }), {
+        status: 400,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+
+    const { questionId, content, userName, userId } = validationResult.data;
+
+    const env = getServerRuntimeEnv(locals as RuntimeLocals);
+    const supabase = createAdminSupabaseClient(env);
 
     // Default is_approved = false (moderation active)
     const { data, error } = await (supabase
