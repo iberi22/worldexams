@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v1",
-      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Liz y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué enlace covalente une el grupo fosfato del carbono 5' de un nucleótido al grupo hidroxilo del carbono 3' del siguiente nucleótido?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "text": "Enlace fosfodiéster",
           "is_correct": true,
-          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+          "feedback": "¡Correcto! Enlace fosfodiéster responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "text": "Puente de hidrógeno",
           "is_correct": false,
-          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+          "feedback": "Incorrecto. Puente de hidrógeno no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "text": "La ADN ligasa",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+          "feedback": "Incorrecto. La ADN ligasa es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "text": "Adenina y Guanina",
           "is_correct": false,
-          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+          "feedback": "Incorrecto. Adenina y Guanina describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de Enlace fosfodiéster constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,37 +54,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v2",
-      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sofía y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué bases nitrogenadas pertenecen a la familia de las purinas, caracterizadas por una estructura química de doble anillo de carbono y nitrógeno?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Gladys y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "text": "Adenina y Guanina",
           "is_correct": true,
-          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+          "feedback": "¡Correcto! Adenina y Guanina responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "text": "Difracción de rayos X",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+          "feedback": "Incorrecto. Difracción de rayos X no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "text": "Tres puentes de hidrógeno",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+          "feedback": "Incorrecto. Tres puentes de hidrógeno es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "text": "El uracilo",
           "is_correct": false,
-          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+          "feedback": "Incorrecto. El uracilo describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de Adenina y Guanina constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -99,37 +99,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v3",
-      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué ley establece que en cualquier molécula de ADN bicatenario la proporción de Adenina es igual a la de Timina y la de Citosina a la de Guanina?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "La ADN polimerasa",
+          "text": "La ley de Chargaff",
           "is_correct": true,
-          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+          "feedback": "¡Correcto! La ley de Chargaff responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La ARN polimerasa dependiente de ARN",
+          "text": "El modelo conservativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+          "feedback": "Incorrecto. El modelo conservativo no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La helicasa mitocondrial de transporte",
+          "text": "Enlace fosfodiéster",
           "is_correct": false,
-          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+          "feedback": "Incorrecto. Enlace fosfodiéster es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La topoisomerasa de transcripción inversa",
+          "text": "La primasa",
           "is_correct": false,
-          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+          "feedback": "Incorrecto. La primasa describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La ley de Chargaff constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -144,37 +144,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v4",
-      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿En qué dirección cardinal la ADN polimerasa cataliza de forma obligatoria la adición de nucleótidos complementarios?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "text": "Dirección 5' a 3'",
           "is_correct": true,
-          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+          "feedback": "¡Correcto! Dirección 5' a 3' responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "text": "Fragmentos de Okazaki",
           "is_correct": false,
-          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+          "feedback": "Incorrecto. Fragmentos de Okazaki no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "text": "La primasa",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+          "feedback": "Incorrecto. La primasa es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "text": "Enlace fosfodiéster",
           "is_correct": false,
-          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+          "feedback": "Incorrecto. Enlace fosfodiéster describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de Dirección 5' a 3' constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,37 +189,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v5",
-      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Ramón y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué enzima se encarga de separar y desenrollar las dos cadenas de la doble hélice de ADN rompiendo los puentes de hidrógeno?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "text": "La helicasa",
           "is_correct": true,
-          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+          "feedback": "¡Correcto! La helicasa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "text": "Enlace fosfodiéster",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+          "feedback": "Incorrecto. Enlace fosfodiéster no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "text": "El uracilo",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+          "feedback": "Incorrecto. El uracilo es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "text": "La ley de Chargaff",
           "is_correct": false,
-          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+          "feedback": "Incorrecto. La ley de Chargaff describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La helicasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -234,37 +234,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v6",
-      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Camila y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Cómo se denominan los fragmentos de ADN que se sintetizan de forma discontinua en la cadena retrasada durante la replicación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Joaquín y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "La ADN polimerasa",
+          "text": "Fragmentos de Okazaki",
           "is_correct": true,
-          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+          "feedback": "¡Correcto! Fragmentos de Okazaki responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La ARN polimerasa dependiente de ARN",
+          "text": "La ADN ligasa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+          "feedback": "Incorrecto. La ADN ligasa no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La helicasa mitocondrial de transporte",
+          "text": "El dATP (desoxiadenosina trifosfato)",
           "is_correct": false,
-          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+          "feedback": "Incorrecto. El dATP (desoxiadenosina trifosfato) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La topoisomerasa de transcripción inversa",
+          "text": "La helicasa",
           "is_correct": false,
-          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+          "feedback": "Incorrecto. La helicasa describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Fragmentos de Okazaki constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v7",
-      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Liz y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué enzima sintetiza un corto cebador de ARN complementario indispensable para que la ADN polimerasa inicie la síntesis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Liz y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "text": "La primasa",
           "is_correct": true,
-          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+          "feedback": "¡Correcto! La primasa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "text": "La topoisomerasa (o girasa)",
           "is_correct": false,
-          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+          "feedback": "Incorrecto. La topoisomerasa (o girasa) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "text": "La helicasa",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+          "feedback": "Incorrecto. La helicasa es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "text": "Dirección 5' a 3'",
           "is_correct": false,
-          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+          "feedback": "Incorrecto. Dirección 5' a 3' describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La primasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v8",
-      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Gladys y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué enzima une covalentemente los extremos de los fragmentos de Okazaki catalizando la formación del enlace fosfodiéster final?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, María y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "text": "La ADN ligasa",
           "is_correct": true,
-          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+          "feedback": "¡Correcto! La ADN ligasa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "text": "Dirección 5' a 3'",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+          "feedback": "Incorrecto. Dirección 5' a 3' no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "text": "La ley de Chargaff",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+          "feedback": "Incorrecto. La ley de Chargaff es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "text": "Puente de hidrógeno",
           "is_correct": false,
-          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+          "feedback": "Incorrecto. Puente de hidrógeno describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La ADN ligasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v9",
-      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué enzima alivia la tensión torsional del ADN por delante de la horquilla de replicación introduciendo cortes transitorios?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Liz y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "La ADN polimerasa",
+          "text": "La topoisomerasa (o girasa)",
           "is_correct": true,
-          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+          "feedback": "¡Correcto! La topoisomerasa (o girasa) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La ARN polimerasa dependiente de ARN",
+          "text": "El telómero",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+          "feedback": "Incorrecto. El telómero no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La helicasa mitocondrial de transporte",
+          "text": "Dirección 5' a 3'",
           "is_correct": false,
-          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+          "feedback": "Incorrecto. Dirección 5' a 3' es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La topoisomerasa de transcripción inversa",
+          "text": "El uracilo",
           "is_correct": false,
-          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+          "feedback": "Incorrecto. El uracilo describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La topoisomerasa (o girasa) constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v10",
-      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Sebastián y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué tipo de proteínas mantienen separadas las hebras de ADN de molde libre impidiendo que se vuelvan a emparejar?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "text": "Proteínas de unión a hebra sencilla (SSB)",
           "is_correct": true,
-          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+          "feedback": "¡Correcto! Proteínas de unión a hebra sencilla (SSB) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "text": "Difracción de rayos X",
           "is_correct": false,
-          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+          "feedback": "Incorrecto. Difracción de rayos X no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "text": "Dirección 5' a 3'",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+          "feedback": "Incorrecto. Dirección 5' a 3' es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "text": "El modelo conservativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+          "feedback": "Incorrecto. El modelo conservativo describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Proteínas de unión a hebra sencilla (SSB) constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v11",
-      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Gladys y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Cómo se denomina la región del cromosoma eucariota rica en secuencias repetitivas que se acorta progresivamente con cada división celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Martina y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "text": "El telómero",
           "is_correct": true,
-          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+          "feedback": "¡Correcto! El telómero responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "text": "El uracilo",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+          "feedback": "Incorrecto. El uracilo no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "text": "Desoxirribosa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+          "feedback": "Incorrecto. Desoxirribosa es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "text": "La ADN polimerasa I",
           "is_correct": false,
-          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+          "feedback": "Incorrecto. La ADN polimerasa I describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El telómero constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v12",
-      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Sebastián y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué enzima con actividad de transcriptasa inversa alarga de manera selectiva los extremos teloméricos en células germinales?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Valentina y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "La ADN polimerasa",
+          "text": "La telomerasa",
           "is_correct": true,
-          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+          "feedback": "¡Correcto! La telomerasa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La ARN polimerasa dependiente de ARN",
+          "text": "La ley de Chargaff",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+          "feedback": "Incorrecto. La ley de Chargaff no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La helicasa mitocondrial de transporte",
+          "text": "Difracción de rayos X",
           "is_correct": false,
-          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+          "feedback": "Incorrecto. Difracción de rayos X es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La topoisomerasa de transcripción inversa",
+          "text": "Proteínas de unión a hebra sencilla (SSB)",
           "is_correct": false,
-          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+          "feedback": "Incorrecto. Proteínas de unión a hebra sencilla (SSB) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de La telomerasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v13",
-      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Benjamín y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué base nitrogenada exclusiva del ARN reemplaza a la timina en la complementariedad de bases con la adenina?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Sofía y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "text": "El uracilo",
           "is_correct": true,
-          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+          "feedback": "¡Correcto! El uracilo responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "text": "La ADN ligasa",
           "is_correct": false,
-          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+          "feedback": "Incorrecto. La ADN ligasa no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "text": "Fragmentos de Okazaki",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+          "feedback": "Incorrecto. Fragmentos de Okazaki es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "text": "El telómero",
           "is_correct": false,
-          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+          "feedback": "Incorrecto. El telómero describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El uracilo constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,37 +594,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v14",
-      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, María y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué tipo de enlace químico mantiene unidas de forma específica las dos hebras antiparalelas del ADN en el centro de la hélice?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "text": "Puente de hidrógeno",
           "is_correct": true,
-          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+          "feedback": "¡Correcto! Puente de hidrógeno responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "text": "El dATP (desoxiadenosina trifosfato)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+          "feedback": "Incorrecto. El dATP (desoxiadenosina trifosfato) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "text": "El telómero",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+          "feedback": "Incorrecto. El telómero es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "text": "La ADN polimerasa I",
           "is_correct": false,
-          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+          "feedback": "Incorrecto. La ADN polimerasa I describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Puente de hidrógeno constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -639,37 +639,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v15",
-      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, María y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Cuántos puentes de hidrógeno se forman de manera complementaria entre un par de base nitrogenada de Citosina y Guanina?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Ramón y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "La ADN polimerasa",
+          "text": "Tres puentes de hidrógeno",
           "is_correct": true,
-          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+          "feedback": "¡Correcto! Tres puentes de hidrógeno responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La ARN polimerasa dependiente de ARN",
+          "text": "El telómero",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+          "feedback": "Incorrecto. El telómero no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La helicasa mitocondrial de transporte",
+          "text": "Fragmentos de Okazaki",
           "is_correct": false,
-          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+          "feedback": "Incorrecto. Fragmentos de Okazaki es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La topoisomerasa de transcripción inversa",
+          "text": "La primasa",
           "is_correct": false,
-          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+          "feedback": "Incorrecto. La primasa describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Tres puentes de hidrógeno constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v16",
-      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué azúcar pentosa posee la estructura química del nucleótido de ADN en comparación con la ribosa del ARN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Florencia y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "text": "Desoxirribosa",
           "is_correct": true,
-          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+          "feedback": "¡Correcto! Desoxirribosa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "text": "La telomerasa",
           "is_correct": false,
-          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+          "feedback": "Incorrecto. La telomerasa no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "text": "La ADN polimerasa I",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+          "feedback": "Incorrecto. La ADN polimerasa I es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "text": "Puente de hidrógeno",
           "is_correct": false,
-          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+          "feedback": "Incorrecto. Puente de hidrógeno describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Desoxirribosa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v17",
-      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Florencia y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué técnica de difracción de rayos X realizada por Rosalind Franklin fue clave para resolver la estructura tridimensional del ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Ramón y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "text": "Difracción de rayos X",
           "is_correct": true,
-          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+          "feedback": "¡Correcto! Difracción de rayos X responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "text": "La primasa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+          "feedback": "Incorrecto. La primasa no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "text": "La helicasa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+          "feedback": "Incorrecto. La helicasa es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "text": "Tres puentes de hidrógeno",
           "is_correct": false,
-          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+          "feedback": "Incorrecto. Tres puentes de hidrógeno describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Difracción de rayos X constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,37 +774,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v18",
-      "statement": "¿Qué enzima específica se encarga de catalizar la síntesis de nuevas hebras de ADN mediante la adición de desoxirribonucleótidos complementarios en dirección 5' a 3' durante la replicación celular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Benjamín y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué modelo de replicación fue descartado experimentalmente al demostrarse que cada hebra hija contiene una hebra original?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Gladys y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "La ADN polimerasa",
+          "text": "El modelo conservativo",
           "is_correct": true,
-          "feedback": "¡Correcto! La ADN polimerasa sintetiza la cadena conductora y de manera discontinua la cadena retrasada (fragmentos de Okazaki) en dirección 5' a 3'."
+          "feedback": "¡Correcto! El modelo conservativo responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La ARN polimerasa dependiente de ARN",
+          "text": "La helicasa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta enzima participa en la transcripción de genes para sintetizar ARN o en la replicación de ciertos virus de ARN."
+          "feedback": "Incorrecto. La helicasa no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La helicasa mitocondrial de transporte",
+          "text": "Puente de hidrógeno",
           "is_correct": false,
-          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice rompiendo los puentes de hidrógeno, pero no cataliza la polimerización del ADN."
+          "feedback": "Incorrecto. Puente de hidrógeno es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La topoisomerasa de transcripción inversa",
+          "text": "La topoisomerasa (o girasa)",
           "is_correct": false,
-          "feedback": "Incorrecto. La topoisomerasa alivia la tensión torsional del ADN, y la transcriptasa inversa sintetiza ADN a partir de moldes de ARN."
+          "feedback": "Incorrecto. La topoisomerasa (o girasa) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El complejo enzimático del replisoma incluye helicasas para abrir la doble hélice, proteínas SSB para mantenerla abierta, primasa para colocar cebadores de ARN, ADN polimerasa para la síntesis y ADN ligasa para unir fragmentos.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de El modelo conservativo constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -819,37 +819,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v19",
-      "statement": "¿Cuáles son los componentes químicos que integran cada nucleótido de la molécula de ADN bicatenaria?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué nucleótido trifosfato aporta tanto la base nitrogenada Adenina como la energía para la polimerización del ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Martina y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Un grupo fosfato, una azúcar desoxirribosa y una base nitrogenada (A, T, C o G)",
+          "text": "El dATP (desoxiadenosina trifosfato)",
           "is_correct": true,
-          "feedback": "¡Correcto! El nucleótido de ADN se compone de desoxirribosa (pentosa), ácido fosfórico y una de las cuatro bases nitrogenadas tradicionales."
+          "feedback": "¡Correcto! El dATP (desoxiadenosina trifosfato) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Un grupo fosfato, una azúcar ribosa y una base nitrogenada uracilo",
+          "text": "Dirección 5' a 3'",
           "is_correct": false,
-          "feedback": "Incorrecto. La ribosa y el uracilo son constituyentes exclusivos de los nucleótidos del ARN."
+          "feedback": "Incorrecto. Dirección 5' a 3' no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Un aminoácido esencial, una azúcar glucosa y una base purina modificada",
+          "text": "El telómero",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nucleótidos no contienen glucosa ni aminoácidos en su composición molecular básica."
+          "feedback": "Incorrecto. El telómero es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Un fosfolípido anfipático, un nucleósido sintético y una proteína histona de enlace",
+          "text": "La topoisomerasa (o girasa)",
           "is_correct": false,
-          "feedback": "Incorrecto. Estos componentes pertenecen a las membranas y al empaquetamiento cromatínico, no al nucleótido elemental."
+          "feedback": "Incorrecto. La topoisomerasa (o girasa) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Watson y Crick propusieron la estructura de doble hélice del ADN, donde los nucleótidos se unen mediante enlaces fosfodiéster en los esqueletos laterales y mediante puentes de hidrógeno entre las bases nitrogenadas complementarias centrales.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de El dATP (desoxiadenosina trifosfato) constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v20",
-      "statement": "¿Por qué se afirma que la replicación del ADN es un proceso semiconservativo?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Ramón y su grupo investigan sobre ADN: estructura y replicación.",
+      "statement": "¿Qué enzima remueve y degrada los cebadores de ARN reemplazándolos con nucleótidos de ADN durante la replicación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Joaquín y su grupo investigan sobre ADN: estructura y replicación.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque cada una de las moléculas hijas conserva una de las hebras originales de la molécula madre y sintetiza una hebra nueva complementaria",
+          "text": "La ADN polimerasa I",
           "is_correct": true,
-          "feedback": "¡Correcto! En la replicación semiconservativa, demostrada por Meselson y Stahl, cada molécula de ADN preexistente sirve como plantilla para crear una nueva hebra."
+          "feedback": "¡Correcto! La ADN polimerasa I responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Porque se conserva íntegramente la doble hélice materna intacta y se sintetiza de la nada una doble hélice totalmente nueva",
+          "text": "La helicasa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describiría una replicación conservativa, hipótesis que fue experimentalmente descartada."
+          "feedback": "Incorrecto. La helicasa no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Porque las hebras resultantes se componen de fragmentos de ADN materno mezclados aleatoriamente con segmentos nuevos",
+          "text": "El modelo conservativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe la replicación dispersiva, la cual tampoco se produce en las células vivas."
+          "feedback": "Incorrecto. El modelo conservativo es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Porque solo se replican de forma selectiva los genes dominantes expresados, degradándose los alelos inactivos",
+          "text": "La topoisomerasa (o girasa)",
           "is_correct": false,
-          "feedback": "Incorrecto. El genoma celular se duplica por completo en cada fase S del ciclo celular, independientemente de la expresión génica."
+          "feedback": "Incorrecto. La topoisomerasa (o girasa) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La replicación semiconservativa asegura la fidelidad de la transmisión hereditaria. La enzima ADN polimerasa utiliza la complementariedad de bases ($A-T$ y $C-G$) para sintetizar la nueva cadena con alta precisión.",
-      "difficulty": "10",
+      "explanation": "El concepto de La ADN polimerasa I constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
