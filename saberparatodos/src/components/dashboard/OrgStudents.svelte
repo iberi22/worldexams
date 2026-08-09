@@ -97,7 +97,14 @@
           />
           <div class="flex justify-end gap-2">
             <button type="button" on:click={() => showInviteModal = false} class="px-3 py-1.5 text-zinc-500">Cancelar</button>
-            <button type="submit" disabled={inviting} class="px-3 py-1.5 bg-blue-600 text-white rounded-lg">
+            <button
+              type="submit"
+              disabled={inviting}
+              aria-disabled={inviting}
+              title={inviting ? 'Enviando invitación, por favor espere' : undefined}
+              aria-label={inviting ? 'Enviando invitación, por favor espere' : undefined}
+              class="px-3 py-1.5 bg-blue-600 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed"
+            >
               {inviting ? 'Enviando...' : 'Enviar Invitación'}
             </button>
           </div>
