@@ -1,5 +1,7 @@
 ---
 id: "CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "chile"
 grado: 11
 asignatura: "historia"
@@ -17,7 +19,8 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+
+## Question 1 [D3-D4]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -41,7 +44,7 @@ El Golpe de Estado del 11 de septiembre de 1973, respaldado por las Fuerzas Arma
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -65,7 +68,7 @@ Ante la censura, la clausura del Congreso y la clausura de partidos políticos p
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -89,7 +92,7 @@ La privatización previsional chilena de las AFP constituyó una de las reformas
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -113,7 +116,7 @@ La Constitución de 1980, aprobada en un plebiscito fraudulento y sin registros 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -137,7 +140,7 @@ La DINA encarnó el terrorismo de Estado en Chile de forma sistemática. Depend�
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -161,7 +164,7 @@ Bajo la dictadura militar de Pinochet se instaló a Chile como el primer laborat
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Temporal y Espacial
@@ -185,7 +188,7 @@ La crisis de 1982 fue el colapso del 'primer milagro económico' neoliberal chil
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -209,7 +212,7 @@ La municipalización (1981) fragmentó la equidad y calidad formativa nacional. 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -233,7 +236,7 @@ La oleada de privatizaciones bajo dictadura se ejecutó sin fiscalización parla
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -257,7 +260,7 @@ Al mercantilizar la salud chilena, la dictadura militar rompió la matriz solida
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -281,7 +284,7 @@ La nacionalización del cobre de 1971 fue la reforma estructural más profunda d
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -305,7 +308,7 @@ El descubrimiento de la fosa de Pisagua en junio de 1990 conmocionó al país al
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -329,7 +332,7 @@ El Plan Laboral de 1979 adaptó el mercado del trabajo a la matriz neoliberal. A
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -353,7 +356,7 @@ A pesar de privatizar casi todo el aparato de la CORFO, la Junta Militar mantuvo
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Crítico
@@ -377,7 +380,7 @@ La persistencia de las denuncias de tortura, exilio masivo y detenciones clandes
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -401,7 +404,7 @@ El 'Estado Subsidiario' sepultó al 'Estado de Bienestar' chileno del siglo XX. 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -425,7 +428,7 @@ El derrocamiento de Salvador Allende conjuga factores geopolíticos foráneos y 
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
@@ -449,7 +452,7 @@ El terrorismo de Estado bajo Pinochet operó mediante la denegación sistemátic
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -473,7 +476,7 @@ Las Protestas Nacionales (1983-1986) sepultaron la sensación de omnipotencia di
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** CL-HIS-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico

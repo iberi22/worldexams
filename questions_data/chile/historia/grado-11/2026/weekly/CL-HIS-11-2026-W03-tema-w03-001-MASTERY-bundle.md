@@ -1,5 +1,7 @@
 ---
 id: "CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "chile"
 grado: 11
 asignatura: "historia"
@@ -17,7 +19,8 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+
+## Question 1 [D3-D4]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -41,7 +44,7 @@ Aprovechando la devaluación de los títulos salitreros y el apoyo de banqueros 
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -65,7 +68,7 @@ La migración masiva del campo a las ciudades en busca de oportunidades industri
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -89,7 +92,7 @@ El modelo salitrerío chileno fue de concesión privada con recaudación fiscal 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -113,7 +116,7 @@ La 'Cuestión Social' surgió debido al veloz crecimiento urbano e industrial si
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -137,7 +140,7 @@ El sistema de fichas constituía un abuso patronal sistemático. Las compañías
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -161,7 +164,7 @@ La Masacre de la Escuela Santa María de Iquique representó el hito más doloro
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Temporal y Espacial
@@ -185,7 +188,7 @@ Las Sociedades de Socorros Mutuos (mutuales) nacieron a mediados del siglo XIX c
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -209,7 +212,7 @@ Luis Emilio Recabarren, el 'padre del movimiento obrero chileno', comprendió qu
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -233,7 +236,7 @@ La oligarquía parlamentaria chilena adhería al liberalismo económico clásico
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -257,7 +260,7 @@ El carbón de piedra de Lota y Coronel poseía galerías submarinas que requerí
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -281,7 +284,7 @@ La encíclica 'Rerum Novarum' remeció las conciencias de intelectuales conserva
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -305,7 +308,7 @@ La Ley de Sillas constituyó uno de los primeros hitos de legislación laboral p
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -329,7 +332,7 @@ Chile lideraba los tristes ránkings mundiales de mortalidad infantil a inicios 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -353,7 +356,7 @@ El anarquismo echó fuertes raíces en el naciente proletariado chileno. Agrupad
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Crítico
@@ -377,7 +380,7 @@ La inflación provocada por las sucesivas devaluaciones de la moneda erosionaba 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -401,7 +404,7 @@ Bajo el régimen parlamentario chileno (1891-1925), el Congreso operaba fuerteme
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -425,7 +428,7 @@ La literatura chilena de principios de siglo XX rompió con el romanticismo crio
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
@@ -449,7 +452,7 @@ La conmemoración del Centenario de 1810 desató una profunda reflexión autocr�
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -473,7 +476,7 @@ La FOCH revolucionó el panorama obrero del siglo XX. Dirigida intelectualmente 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** CL-HIS-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico

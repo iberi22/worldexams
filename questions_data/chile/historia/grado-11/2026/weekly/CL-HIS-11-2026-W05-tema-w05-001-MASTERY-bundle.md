@@ -1,5 +1,7 @@
 ---
 id: "CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "chile"
 grado: 11
 asignatura: "historia"
@@ -17,7 +19,8 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+
+## Question 1 [D3-D4]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -41,7 +44,7 @@ El programa de 'La Revolución en Libertad' (1964-1970) propuso transformaciones
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -65,7 +68,7 @@ La concentración del agro triguero en el latifundio impedía la modernización 
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -89,7 +92,7 @@ La 'Chilenización' fue una estrategia intermedia demócrata cristiana. Se busca
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -113,7 +116,7 @@ La primera ley de Reforma Agraria en Chile de 1962 fue muy tibia. No contempló 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -137,7 +140,7 @@ La sindicalización campesina efectiva desarticuló el secular orden señorial a
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -161,7 +164,7 @@ El sistema de 'Tres Tercios' caracterizó la fase cumbre de la democracia del pa
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Temporal y Espacial
@@ -185,7 +188,7 @@ La Promoción Popular buscaba crear un tejido social comunitario organizado e in
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -209,7 +212,7 @@ La Ley 16.640 de 1967 agilizó radicalmente el proceso expropiatorio. Introdujo 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -233,7 +236,7 @@ La Alianza para el Progreso (1961) canalizó ayuda financiera condicionada a ref
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -257,7 +260,7 @@ El Asentamiento de la Reforma Agraria fue un diseño audaz. Los campesinos co-ad
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -281,7 +284,7 @@ La Democracia Cristiana nació formalmente en 1957. Consiguió canalizar los anh
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -305,7 +308,7 @@ La tragedia de Pampa Irigoin (1969) aceleró el declive de la Revolución en Lib
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -329,7 +332,7 @@ La Reforma Educacional de 1965 democratizó el acceso escolar de Chile. Al estab
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -353,7 +356,7 @@ La expropiación acelerada de fundos por la CORA bajo Frei Montalva fracturó de
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Crítico
@@ -377,7 +380,7 @@ El surgimiento del MIR (1965) y del movimiento Patria y Libertad en el extremo o
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -401,7 +404,7 @@ La liquidación del inquilinaje constituyó una revolución social silenciosa. E
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
@@ -425,7 +428,7 @@ El apoyo del imperialismo norteamericano a reformas agrarias moderadas en el con
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -449,7 +452,7 @@ La Reforma Universitaria chilena de 1967 anticipó la revolución cultural mundi
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -473,7 +476,7 @@ El sistema político chileno tradicional descansaba sobre un principio consensua
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** CL-HIS-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico

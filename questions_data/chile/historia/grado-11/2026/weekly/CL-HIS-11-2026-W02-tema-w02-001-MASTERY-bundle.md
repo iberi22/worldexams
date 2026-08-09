@@ -1,5 +1,7 @@
 ---
 id: "CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "chile"
 grado: 11
 asignatura: "historia"
@@ -17,7 +19,8 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+
+## Question 1 [D3-D4]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -41,7 +44,7 @@ La fase de ocupación de la Araucanía iniciada en la década de 1860 por Cornel
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -65,7 +68,7 @@ En 1888, Policarpo Toro negoció con los jefes locales (liderados por el Ariki A
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -89,7 +92,7 @@ El Tratado de Ancón de 1883 puso fin al conflicto armado terrestre entre Chile 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -113,7 +116,7 @@ El Tratado de 1874 estipulaba que las personas y empresas chilenas en el litoral
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -137,7 +140,7 @@ Bajo la retórica del 'progreso' y la 'civilización', el Estado justificó la o
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Temporal y Espacial
@@ -161,7 +164,7 @@ La expedición de la goleta Ancud en 1843, impulsada por Bernardo O'Higgins desd
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -185,7 +188,7 @@ El auge de la ganadería ovina en Tierra del Fuego trajo el genocidio Selk'nam. 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -209,7 +212,7 @@ La Ley de Colonización de 1845 fijó la institucionalidad para poblar Valdivia 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -233,7 +236,7 @@ El proceso de radicación concentró a las familias mapuches sobrevivientes en r
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -257,7 +260,7 @@ El Tratado de 1856 sirvió de marco jurídico pacífico inicial. Reconoció el U
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -281,7 +284,7 @@ La tensión pre-bélica generó un clima hostil para la población de origen chi
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Temporal y Espacial
@@ -305,7 +308,7 @@ El Estrecho de Magallanes era la vía de comunicación interoceánica indispensa
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Crítico
@@ -329,7 +332,7 @@ La pretendida 'pacificación' redistribuyó la propiedad de la Araucanía no con
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -353,7 +356,7 @@ La minería del salitre requirió masivas oleadas de mano de obra para las Ofici
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Crítico
@@ -377,7 +380,7 @@ El plebiscito de Tacna y Arica no se pudo realizar por mutua desconfianza e inci
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -401,7 +404,7 @@ El Tratado de 1904 reconoció el dominio absoluto y perpetuo de Chile sobre los 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -425,7 +428,7 @@ El concepto de 'regalo de la Patagonia' carece de sustento objetivo. Chile pose�
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
@@ -449,7 +452,7 @@ Bajo la lógica del siglo XIX, la selva austral era vista como un obstáculo par
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -473,7 +476,7 @@ El Estado chileno decimonónico operaba bajo un paradigma eurocéntrico de civil
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** CL-HIS-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
