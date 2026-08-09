@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "es",
+    "pack_id": "es-week-10-grade-11-subject-lengua",
+    "generated_at": "2026-08-09T11:31:06.067Z"
+  },
+  "questions": [
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "¿Qué funciones de la comunicación de Roman Jakobson dominan y configuran prioritariamente el mensaje publicitario?",
+      "context": "Un profesor en un instituto de Madrid analiza las funciones lingüísticas aplicadas en los carteles publicitarios comerciales de la Gran Vía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función apelativa (para influir u ordenar al receptor la compra del producto) y la función poética (para atraer la atención estética sobre el eslogan).",
+          "is_correct": true,
+          "feedback": "Correcto. La publicidad se rige por la función conativa/apelativa (fin de persuasión) y se auxilia de la función poética (embellecer el eslogan para asegurar su memorización acústica y visual)."
+        },
+        {
+          "letter": "B",
+          "text": "La función metalingüística de la RAE coordinada con la elipsis temporal de Valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca impartir lecciones normativas de gramática, busca vender un producto o convencer de una idea."
+        },
+        {
+          "letter": "C",
+          "text": "Predominio exclusivo de la función fática telefónica de bajo nivel de éxito en Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fática solo testea el canal, mientras que el anuncio busca de forma activa convencer al comprador."
+        },
+        {
+          "letter": "D",
+          "text": "Se limita a la función representativa o referencial pura de la física de laboratorios de Zaragoza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La referencial pura o informativa es secundaria en los anuncios comerciales, dominados por la persuasión retórica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto de la publicidad persigue persuadir al destinatario (función apelativa o conativa). Para ello, dota al mensaje de una cuidada elaboración estilística, sonoridad, ritmo y juegos de palabras (función poética o estética) que aseguren el recuerdo de la marca.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se define formalmente este tipo de enunciado sintético dentro de la tipología del anuncio gráfico?",
+      "context": "En una campaña publicitaria en Soria de una marca de turrones se lee la frase: 'El sabor que une a las familias de España en Navidad'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eslogan, una frase breve, ingeniosa, memorable y persuasiva que condensa los valores comerciales o ideológicos de una marca.",
+          "is_correct": true,
+          "feedback": "Correcto. El eslogan es el lema publicitario de la marca, diseñado de forma sintética, rítmica e ingeniosa para facilitar la memorización en el receptor."
+        },
+        {
+          "letter": "B",
+          "text": "El despiece técnico del embalaje de cartón impreso en Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El despiece técnico es una descripción informativa minuciosa, contraria a la síntesis persuasiva del lema de marca."
+        },
+        {
+          "letter": "C",
+          "text": "Tesis implícita en latín clásico del Ministerio de Sanidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se redacta en castellano estándar y es un eslogan comercial explícito, desvinculado del latín clásico o directivas de salud."
+        },
+        {
+          "letter": "D",
+          "text": "Un vulgarismo morfológico rechazado de forma terminante por la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un enunciado correcto y de excelente factura sintáctica y semántica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El eslogan es el núcleo verbal de la campaña publicitaria. Su brevedad y sonoridad facilitan la retención inconsciente en el cerebro del consumidor, operando a nivel de la función poética y apelativa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Identifica los cuatro elementos constitutivos clásicos del anuncio publicitario gráfico descritos en este escenario.",
+      "context": "En una marquesina del metro de Barcelona se exhibe un anuncio que incluye: una fotografía sugerente de un coche rojo, un eslogan breve de tres palabras, el emblema gráfico de la marca y un párrafo técnico que explica la cilindrada del motor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La imagen (fotografía), el eslogan (lema), el logotipo (emblema gráfico de marca) y el cuerpo de texto (explicación de anclaje técnica).",
+          "is_correct": true,
+          "feedback": "Correcto. Un anuncio gráfico modélico combina el canal visual (imagen), el lingüístico persuasivo (eslogan), el identificativo corporativo (logotipo) y el cuerpo explicativo de anclaje técnico."
+        },
+        {
+          "letter": "B",
+          "text": "El guion del diálogo en estilo directo libre, los monemas de la segunda articulación, el laísmo madrileño y el lince de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son conceptos gramaticales, sintácticos o de fauna salvaje ajenos a los componentes clásicos del diseño gráfico publicitario."
+        },
+        {
+          "letter": "C",
+          "text": "El canal de cobertura telefónica, la preposición 'de' del dequeísmo, el emisor aparente y el latín medieval.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son los componentes de la estructura icónico-verbal de un cartel de publicidad impreso o digital."
+        },
+        {
+          "letter": "D",
+          "text": "Se limita únicamente a la rima asonante obligatoria de los sustantivos de Barcelona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se edita en prosa libre integrada con imágenes fijas en un soporte impreso o marquesina digital."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El anuncio publicitario gráfico es un texto multimodal de carácter complejo, integrado por la imagen o canal visual (icono), el eslogan (función poética-apelativa), el logotipo (firma identitaria corporativa) y el cuerpo del texto (que ofrece la información práctica).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "En la teoría de la comunicación multimodal de Roland Barthes, ¿qué función cumple la frase escrita respecto de la enorme polisemia semántica de la imagen del desierto?",
+      "context": "Un anuncio de refrescos en Sevilla muestra una foto gigante de un desierto de arena bajo un sol abrasador e introduce la frase: 'Apaga tu sed con hielo de limón'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función de anclaje, ya que el texto escrito fija o concreta el significado de la imagen, guiando al lector hacia la interpretación deseada por el emisor (comprar el refresco) y evitando divagaciones libres.",
+          "is_correct": true,
+          "feedback": "Correcto. La función de anclaje del texto delimita la polisemia (múltiples significados posibles) de la imagen fija, canalizando la interpretación del lector hacia el producto comercial de limón."
+        },
+        {
+          "letter": "B",
+          "text": "Función de relevo, puesto que el texto escrito contradice de forma total la fotografía obligando al lector a viajar a Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función de relevo complementa de forma paralela la acción como en un cómic; fijar el sentido vago de un paisaje es la función de anclaje clásica de Barthes."
+        },
+        {
+          "letter": "C",
+          "text": "Un loísmo sintáctico de cosa que suspende la acción del refresco de limón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene ninguna relación con errores pronominales de objeto directo masculino átono."
+        },
+        {
+          "letter": "D",
+          "text": "Elipsis estructural de tipo condicional canario aceptado por la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso pragmático-estructural del diseño multimodal y no una elisión temporal verbal de gramática canaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las imágenes son polisémicas por naturaleza (un desierto puede sugerir calor, soledad, belleza geológica o sed). El texto publicitario ejerce una función de anclaje al seleccionar un significado concreto, guiando unívocamente la mente del consumidor hacia el refresco.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "¿Qué recurso semántico y visual organiza la descripción sugerente de la fragancia?",
+      "context": "Un anuncio de perfumes en Madrid combina la fotografía de una flor de loto dorada flotando en un palacio de cristal con el eslogan escrito: 'El perfume que despierta tu luz interior'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora verbal y visual, al identificar el aroma del perfume con un destello luminoso intangible espiritual del interior del alma.",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora ('aroma = luz interior') asocia un elemento sensorial olfativo con una categoría visual y mística poética, potenciando el misterio y el snobismo estético del producto en Madrid."
+        },
+        {
+          "letter": "B",
+          "text": "Definición científica forense avalada por el laboratorio del Ayuntamiento de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es connotativo, vago, poético e hiperbólico, ajeno al rigor de la física o el análisis químico forense real de un perfume."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad hominem, que busca descalificar de forma directa al fabricante competidor de Toledo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ofende ni descalifica a ningún fabricante; embellece el perfume de la marca propia con figuras literarias."
+        },
+        {
+          "letter": "D",
+          "text": "Un arcaísmo del siglo XI que la RAE ha prohibido escribir en papel prensa de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son palabras cultas y vivas del castellano estándar actual contemporáneo de España."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad de perfumes es de base lírica. Ante la imposibilidad física de transmitir el aroma a través del cartel de papel o pantalla digital (limitación del canal), el emisor recurre a metáforas y sinestesias sensoriales de luz y metales preciosos para evocar sensaciones de distinción moral.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "¿Qué recurso retórico de base lógica se está aplicando de forma intencionada en este eslogan de marca?",
+      "context": "El lema publicitario de un nuevo modelo de coche todoterreno en Sevilla reza: 'El coche infinito capaz de doblegar las montañas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole o exageración desmesurada de las cualidades reales del automóvil para asombrar y persuadir al potencial comprador.",
+          "is_correct": true,
+          "feedback": "Correcto. La hipérbole ('coche infinito', 'doblegar montañas') magnifica con fantasía épica la potencia del todoterreno para atraer la atención afectiva del consumidor en Sevilla."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad del Ministerio de Fomento de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aporta el dictamen de ningún ingeniero ministerial; se utiliza una exageración lírica e informal comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de generalización apresurada del lince ibérico de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso estilístico hiperbólico publicitario de persuasión afectiva y no una inducción lógica fallida."
+        },
+        {
+          "letter": "D",
+          "text": "Un queísmo morfológico involuntario de Sevilla que altera el género.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado es sintácticamente impecable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipérbole o exageración es uno de los recursos de persuasión publicitaria más eficaces. Desplaza la descripción desde la fría realidad material (un coche potente) hacia una dimensión mítica desmesurada, aumentando la fuerza apelativa del mensaje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "¿Qué rasgo sintáctico y de modo verbal es el que soporta la función conativa o apelativa de este cartel?",
+      "context": "Un anuncio de una agencia de viajes de Zaragoza presenta el eslogan: 'Rompe con la rutina diaria, vuela libre hoy mismo hacia el paraíso y sueña con tus playas preferidas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso sistemático del modo imperativo en segunda persona de confianza ('rompe', 'vuela', 'sueña') encaminado a guiar directamente la conducta del receptor.",
+          "is_correct": true,
+          "feedback": "Correcto. El modo imperativo ('rompe', 'vuela', 'sueña') es el recurso morfosintáctico por excelencia para emitir órdenes, mandatos o sugerencias persuasivas directas (función apelativa) al receptor."
+        },
+        {
+          "letter": "B",
+          "text": "El uso del pretérito imperfecto de subjuntivo laísta típico de Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto está redactado en presente de imperativo directo de confianza en segunda persona del singular, libre de subjuntivos o laísmos."
+        },
+        {
+          "letter": "C",
+          "text": "Oraciones pasivas reflejas que ocultan de forma total al emisor de Aragón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pasivas reflejas usan 'se' ('Se viaja'); aquí se interpela de forma directa en imperativo al yo del comprador receptor."
+        },
+        {
+          "letter": "D",
+          "text": "Marcadores textuales de ordenación alfabética de la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son formas verbales simples conjugadas de apelación directa del discurso persuasivo comercial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El imperativo de segunda persona del singular de confianza (tuteo peninsular habitual) es el modo idóneo para acortar distancias psicológicas en publicidad de consumo, interpelando directamente a la voluntad del receptor para desencadenar la compra.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.81,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "¿Qué recurso estilístico y descriptivo organiza la fisonomía y el mensaje de este anuncio?",
+      "context": "En una campaña de una compañía de telecomunicaciones de Barcelona se muestra a un teléfono móvil sonriente con sombrero y corbata que dice: '¡Hola! Te estaba esperando para hablar con los tuyos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación, que atribuye rasgos, vestimenta, habla y gestos humanos a un objeto inanimado de consumo técnico.",
+          "is_correct": true,
+          "feedback": "Correcto. Atribuir la sonrisa, el habla o vestimenta humana a cosas o tecnologías inertes constituye una personificación, recurso clásico para humanizar la tecnología y hacerla atractiva."
+        },
+        {
+          "letter": "B",
+          "text": "Caricatura satírica esperpéntica de Valle-Inclán, que busca asustar a los niños de Barcelona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teléfono sonríe con simpatía para ganarse el afecto comercial de la familia, totalmente opuesto al esperpento satírico grotesco de Valle-Inclán."
+        },
+        {
+          "letter": "C",
+          "text": "Un queísmo nominal canario aceptado por la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna omisión de preposición 'de' antes de 'que'; es un recurso de personificación icónico-verbal."
+        },
+        {
+          "letter": "D",
+          "text": "Topografía del espacio arquitectónico de la Puerta del Sol de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trata sobre un teléfono móvil personificado con fines comerciales de venta de telefonía, sin describir paisajes urbanos madrileños."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La personificación o humanización en publicidad busca generar simpatía inmediata en el receptor hacia un producto tecnológico o comercial, asociándolo de forma lúdica con emociones, rostros y voces de la vida cotidiana humana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "¿Qué recurso léxico se está explotando al incorporar términos extranjeros como 'premium', 'cool' y 'outdoor'?",
+      "context": "En un anuncio de calzado de montaña en una marquesina de Valencia se lee: 'La gama premium de botas de montaña cool que conquistan el outdoor'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Extranjerismos de prestigio (o esnobismo léxico del inglés), dirigidos a sugerir distinción social, sofisticación y modernidad internacional en el comprador.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de términos ingleses en publicidad de consumo ('premium', 'cool', 'outdoor') apela a valores de modernidad, estatus y snobismo comercial para potenciar la fuerza de atracción del producto en Valencia."
+        },
+        {
+          "letter": "B",
+          "text": "Cultismos griegos clásicos que la RAE aconseja usar en textos de física cuántica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son palabras provenientes del inglés contemporáneo y no cultismos del griego clásico de Platón."
+        },
+        {
+          "letter": "C",
+          "text": "Vulgarismos gramaticales cometidos por los montañeros de Valencia de forma analfabeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son errores vulgares ortográficos; son extranjerismos de prestigio de uso consciente con fines de atracción e imagen comercial de marca."
+        },
+        {
+          "letter": "D",
+          "text": "Palabras patrimoniales de evolución fonética directa del latín medieval de Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son términos ingleses de reciente adopción comercial global, carentes de evolución latina patrimonial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El esnobismo lingüístico (abuso de extranjerismos del inglés de forma innecesaria en la publicidad) busca rodear al producto de un aura de cosmopolitismo, sofisticación y vanguardia tecnológica o de moda para seducir al consumidor urbano de clase media.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "¿Qué recurso semántico de doble sentido o juego de palabras sostiene la persuasión de esta campaña pública?",
+      "context": "Una campaña cívica del Ayuntamiento de Sevilla para concienciar sobre la limpieza de los excrementos caninos en las aceras presenta el eslogan: 'No dejes que tu perro ensucie tu cariño'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un juego de palabras de doble sentido que asocia el amor subjetivo por la mascota con la suciedad real de las aceras de Sevilla, instando al civismo por afecto.",
+          "is_correct": true,
+          "feedback": "Correcto. El lema vincula de forma lúdica y emotiva un concepto abstracto moral ('amor/cariño') con la acción física y cívica ('no dejes suciedad'), valiéndose de un doble sentido que activa la complicidad cívica del dueño."
+        },
+        {
+          "letter": "B",
+          "text": "Una falacia ad hominem, que busca descalificar moralmente a todos los veterinarios de Sevilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No descalifica a ningún veterinario; apela de forma simpática al civismo y afecto mutuo de los dueños de mascotas."
+        },
+        {
+          "letter": "C",
+          "text": "Un tecnicismo médico-veterinario propio de la LOMLOE para identificar la mitosis de los perros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es sugerente, coloquial y cívico, desprovisto de términos biológicos microscópicos de laboratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Laísmo de cosa que altera la concordancia del género de la plaza de Sevilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna alteración ni confusión pronominal de acusativo o dativo en el eslogan cívico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los juegos de palabras, los dobles sentidos o la polisemia intencionada son de uso habitual en la publicidad cívica y comercial. Exigen del receptor un papel interpretativo ágil que favorece la memorización del lema preventivo por complicidad lúdica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Analiza sintácticamente la estructura de este eslogan y justifícala estilísticamente de acuerdo con la economía lingüística de la publicidad.",
+      "context": "En un anuncio de telefonía en Salamanca se halla el eslogan escrito: 'Móvil X. El futuro en tus manos'. No contiene ningún verbo conjugado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración nominal elíptica (sin verbo expreso), recurso que condensa de forma contundente la información y potencia el dinamismo visual del anuncio gráfico.",
+          "is_correct": true,
+          "feedback": "Correcto. La supresión del verbo (elipsis verbal: 'Móvil X [es] el futuro en tus manos') genera una estructura puramente nominal corta y de gran impacto dinámico, típica de la concisión sintáctica del lenguaje de la publicidad de España."
+        },
+        {
+          "letter": "B",
+          "text": "Un error de concordancia morfológica que anula la validez legal de las marcas de telefonía móvil de Salamanca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elisión verbal es un recurso sintáctico-estilístico maduro y de perfecta validez gramatical descriptiva literaria y publicitaria."
+        },
+        {
+          "letter": "C",
+          "text": "Un dequeísmo de modestia provocado por omitir el pronombre 'de' antes del móvil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna conjunción 'que' ni error preposicional de régimen subordinado substantivo."
+        },
+        {
+          "letter": "D",
+          "text": "Se trata de una perífrasis de infinitivo que obliga al comprador a apagar la pantalla del móvil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un enunciado puramente nominal libre de formas verbales infinitivas de perífrasis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad se rige por el principio de economía del lenguaje. Suprimir los verbos copulativos obvios ('es', 'tiene') mediante oraciones nominales elípticas dota al eslogan de mayor inmediatez, asimilándose a una verdad directa e indiscutible.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Analiza qué recurso fónico e icónico de la función poética se está aplicando para fijar la frase en la mente de los conductores.",
+      "context": "En una campaña de concienciación sobre la velocidad de la DGT en Salamanca se difunde el eslogan acústico en la radio: 'Mucha moderación en tu aceleración'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aliteración y rima consonante interna ('moderación/aceleración'), recursos fónicos que buscan crear sonoridad, ritmo y facilitar el recuerdo subconsciente de la campaña.",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición de fonemas y rimas idénticas finales ('-ación') dota al eslogan de ritmo musical acústico, recurso fónico de la función poética idóneo para asegurar la memorización inconsciente de la advertencia vial de la DGT."
+        },
+        {
+          "letter": "B",
+          "text": "Un laísmo fónico de persona de bajo nivel de éxito de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna vinculación con anomalías de pronombres átonos de objeto directo."
+        },
+        {
+          "letter": "C",
+          "text": "Un dequeísmo fónico que exige la preposición 'de' antes de la aceleración del motor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No incurre en errores preposicionales; es un enunciado sintácticamente impecable con rima de sufijos nominales."
+        },
+        {
+          "letter": "D",
+          "text": "Una metáfora vanguardista que prohíbe de forma terminante usar el pedal de embrague.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso sonoro de aliteración de sufijos, sin prohibiciones mecánicas de coches."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plano fónico en publicidad es estratégico. El uso de rimas, aliteraciones, asonancias y paralelismos rítmicos acústicos (función poética) dota de musicalidad al eslogan, potenciando su fijación involuntaria en la memoria auditiva del receptor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Analiza semántica y estilísticamente el papel que cumple esta adjetivación antepuesta e hiperbólica en la persuasión de los consumidores.",
+      "context": "Un anuncio de bombones finos de Soria incluye las expresiones: 'bombón sublime', 'experiencia exclusiva', 'placer inimaginable' y 'textura inigualable'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adjetivos apreciativos e hiperbólicos (léxico valorativo laudatorio), dirigidos a idealizar el producto comercial y contagiar sutilmente sensaciones de exclusividad y éxtasis sensorial.",
+          "is_correct": true,
+          "feedback": "Correcto. La adjetivación hiperbólica laudatoria (sublime, inimaginable, inigualable) es un pilar semántico de la publicidad para inflar el valor percibido del producto de Soria, orientando el apetito de compra."
+        },
+        {
+          "letter": "B",
+          "text": "Tecnicismos químicos denotativos que describen los niveles de azúcar exactos del chocolate en el laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son adjetivos connotativos cargados de opinión y fantasía estética de repostería, desprovistos de neutralidad química científica."
+        },
+        {
+          "letter": "C",
+          "text": "Arcaísmos medievales de uso exclusivo en la provincia de Toledo para la venta de bombones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son adjetivos de plena vigencia estándar actual y uso prestigioso en la publicidad de consumo de España."
+        },
+        {
+          "letter": "D",
+          "text": "Un queísmo morfológico involuntario de Zaragoza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso retórico semántico de base adjetival, libre de omisión de preposiciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adjetivación en el discurso publicitario comercial rara vez es especificativa u objetiva. Suele ser explicativa, laudatoria e hiperbólica, calificando los objetos con atributos ideales ('exclusivo', 'sublime') dirigidos a halagar la susceptibilidad psicológica del receptor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Analiza sintácticamente la estructura de grado que organiza este eslogan y determina su función pragmática de persuasión comparativa.",
+      "context": "Un cartel publicitario de detergente de Zaragoza reza: 'El nuevo Detergente X lava más blanco que el blanco tradicional'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura sintáctica de grado comparativo de superioridad ('más blanco que'), dirigida a destacar la ventaja competitiva de la marca frente a sus rivales indeterminados.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso del grado comparativo de superioridad ('más... que') es un recurso sintáctico clásico para fijar de forma lógica una ventaja del producto sobre la competencia, forzando la compra por descarte."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura sintáctica de grado superlativo absoluto de tipo loísta peninsular de Zaragoza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El superlativo absoluto usaría el sufijo '-ísimo' ('blanquísimo') o el adverbio 'muy'; este caso es un comparativo de superioridad en correcto español estándar."
+        },
+        {
+          "letter": "C",
+          "text": "Oración pasiva refleja que anula de forma obligatoria el uso de la lavadora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una estructura oracional afirmativa activa de comparación descriptiva, libre de marcas de pasiva o de 'se'."
+        },
+        {
+          "letter": "D",
+          "text": "Un dequeísmo de superioridad que exige la preposición 'de' antes del detergente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es sintácticamente impecable acorde a la norma estándar de la RAE, sin errores preposicionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las estructuras comparativas de superioridad ('más... que') y las de superlatividad ('el más... de') son de uso recurrente en la publicidad de consumo. Sintácticamente, posicionan al producto de marca en la cumbre del segmento, facilitando la descalificación velada del blanco genérico competidor tradicional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Analiza críticamente qué resortes de persuasión psicológica se están aplicando en el anuncio al desviar la atención desde el producto real.",
+      "context": "Un anuncio de una cadena de hamburguesas muestra a un grupo de jóvenes riendo felices y abrazados en una playa de Valencia con la frase: 'Comparte momentos únicos. Comparte nuestra burguer especial de verano'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicidad emocional o de asociación de valores, al eludir describir los ingredientes objetivos de la hamburguesa para apelar a la necesidad social de felicidad, amistad e integración juvenil del receptor.",
+          "is_correct": true,
+          "feedback": "Correcto. La publicidad moderna apela a valores emocionales o psicológicos aspiracionales (amistad, éxito, juventud) en lugar de cualidades materiales del producto (carne, pan), buscando que el consumidor asocie la marca con su propia felicidad."
+        },
+        {
+          "letter": "B",
+          "text": "Un informe técnico forense de la LOMLOE para la venta de carne de ternera en Zaragoza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio carece de datos científicos o de control sanitario forense de la carne; es una pura apelación emocional y afectiva lúdica juvenil."
+        },
+        {
+          "letter": "C",
+          "text": "Un leísmo de persona directo madrileño aceptado en Valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna confusión pronominal de acusativo o dativo; es una estrategia de psicología y retórica comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Estilo directo libre que suprime los signos de puntuación del menú de precios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No reproduce diálogos dramáticos fusionados de personajes; es una exhortación directa al comprador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad comercial ha evolucionado desde la mera descripción utilitaria del objeto (publicidad informativa denotativa) hacia la publicidad de marca afectiva o de valores (connotativa). Asocia el producto con estados emocionales positivos (amistad, libertad, estatus), induciendo psicológicamente al consumidor a comprar felicidad a través del consumo de hamburguesas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "¿Qué función del lenguaje es la que justifica el estilo aséptico de este anuncio frente a los anuncios de perfumes?",
+      "context": "Un anuncio de un fabricante de bombillas de bajo consumo en Soria detalla con rigor: 'Bombilla LED X de 9 vatios. Produce 806 lúmenes de intensidad. Vida útil certificada de 15.000 horas. Garantía oficial de tres años en España'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función representativa o referencial, prioritaria al informar con datos objetivos, medidas físicas denotativas y rigor técnico sobre el rendimiento real del producto.",
+          "is_correct": true,
+          "feedback": "Correcto. Los anuncios de electrodomésticos o tecnología de bajo consumo se apoyan con gran peso en la función representativa o referencial, proporcionando datos objetivos, medibles e informativos reales de rentabilidad económica."
+        },
+        {
+          "letter": "B",
+          "text": "Función expresiva de la Generación del 27 para cantar al alma de las bombillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lírica e intimidad personal subjetiva del emisor quedan excluidas de un folleto de rendimiento técnico de vatios de Soria."
+        },
+        {
+          "letter": "C",
+          "text": "Función metalingüística de la RAE orientada a prohibir el uso de la tilde diacrítica en la palabra 'LED'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra LED es un acrónimo técnico del inglés aceptado en la física, desprovisto de análisis lingüísticos de la RAE."
+        },
+        {
+          "letter": "D",
+          "text": "Función fática pura para asegurar la cobertura telefónica del casquillo de la bombilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No comprueba el canal de telecomunicación acústica; describe datos de iluminación lumínica real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aunque la publicidad comercial persiga persuadir, en determinados productos utilitarios o tecnológicos (bombillas, electrodomésticos, automóviles) el emisor se sirve de la función referencial o representativa (datos fríos, certificaciones de vatios y lúmenes) como una poderosa arma argumentativa de ahorro racional de cara al comprador práctico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Evalúa de manera crítica el sesgo ideológico y el uso de estereotipos sexistas en este anuncio a la luz del marco ético contemporáneo de la LOMLOE en España.",
+      "context": "Un anuncio antiguo de lavado de ropa de los años sesenta en España mostraba a una mujer sonriente de rodillas lavando a mano en el suelo junto a la frase: 'Mantén feliz a tu marido sirviéndole la ropa blanca más impecable del barrio'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta un grave sesgo machista y un estereotipo sexista denigrante, que asocia de forma excluyente la valía social de la mujer a la sumisión doméstica y la servidumbre familiar, uso publicitario inadmisible hoy día en el marco de la descolonización y la inclusión de la LOMLOE.",
+          "is_correct": true,
+          "feedback": "Correcto. El anuncio antiguo de los años 60 reproduce el sesgo de la sumisión de la mujer a roles de servidumbre doméstica exclusiva. Es un estereotipo sexista e injusto que el marco ético y la educación para la igualdad de la LOMLOE actual censuran y enseñan a deconstruir críticamente en bachillerato."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuado, puesto que los esposos de los años sesenta en Madrid eran los únicos que poseían la tilde diacrítica en sus camisas blancas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene ninguna relación con reglas de ortografía de monosílabos; es un problema grave de sesgo de género y dignidad humana de la sociedad civil."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra un excelente uso del estilo directo libre en las novelas policiales medievales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un cartel publicitario machista clásico mercantilista y no un pasaje de ficción dramática literaria de misterio."
+        },
+        {
+          "letter": "D",
+          "text": "Se justifica porque la ley de la LOMLOE obliga a lavar la ropa a mano los fines de semana en Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna directriz educativa legisla sobre el lavado a mano de ropa de los ciudadanos de Soria; promueve la igualdad social real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad histórica refleja las estructuras de poder de su época. La deconstrucción crítica de los estereotipos sexistas, de género y raciales en los medios de comunicación es una competencia transversal clave regulada en los programas de Lengua y Literatura del bachillerato (LOMLOE) para fomentar la igualdad real y el respeto mutuo ciudadano.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Realiza una evaluación crítica de la legalidad y el rigor ético e informativo de esta campaña de cosmética a la luz de los derechos de los consumidores.",
+      "context": "Un anuncio de crema rejuvenecedora en Barcelona afirma en letras diminutas en el pie del cartel: 'El uso de la crema reduce las arrugas en un 2% en un 1% de los voluntarios que siguieron la dieta equilibrada del agua de Doñana'. En el titular principal con letras gigantes se leía: '¡RESULTADOS DE JUVENTUD CIENTÍFICAMENTE PROBADOS! ¡REDUCCIÓN DE ARRUGAS DEL 100%!'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incurre en un caso claro de publicidad engañosa y manipulación informática, al magnificar con hipérboles embusteras en el titular principal ('reducción del 100%') datos estadísticos reales ínfimos y marginales relegados a la letra pequeña ilegible, estafando al comprador.",
+          "is_correct": true,
+          "feedback": "Correcto. La discrepancia entre la afirmación fraudulenta del gran titular publicitario y la ridícula realidad estadística escondida en la letra pequeña del pie de página del cartel constituye un caso flagrante de publicidad engañosa sancionado por las leyes de consumo de España."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, ya que las cremas de Barcelona de rejuvenecimiento facial deben ser milagrosas por mandato del Ayuntamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ayuntamientos velan por la veracidad comercial de las campañas y sancionan las promesas milagrosas imposibles científicamente."
+        },
+        {
+          "letter": "C",
+          "text": "Es un uso brillante de la estructura encuadrada de la Real Academia Española de la Ciencia de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fraude comercial de lógica informal e imprecisión deliberada de datos y no un logro de arquitectura literaria."
+        },
+        {
+          "letter": "D",
+          "text": "Se devalúa la crítica de Barcelona porque la mitosis celular exige de forma indispensable la palabra 'engañosa' en los folletos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis celular es ajena a las directivas de protección comercial y de ética publicitaria del consumidor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad comercial está sometida a la ley de competencia desleal y veracidad publicitaria. Redactar anuncios con reclamos gigantescos falsos ('100% de eficacia') que contradicen la realidad científica oculta en la letra pequeña del pie de página vulnera el derecho ético a una información veraz de los ciudadanos de España.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Evalúa críticamente la eficacia persuasiva y el impacto dramático de asociar la conmoción trágica con el imperativo cívico en esta campaña institucional.",
+      "context": "Una campaña institucional de la DGT para la seguridad vial en las carreteras de España muestra un impactante vídeo de un choque de coches real junto con el eslogan escrito: 'Si bebes alcohol y conduces, la muerte te acompaña en el asiento de al lado'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emplea de manera eficaz y justificada el 'recurso al miedo' (apelación dramática) combinado con la personificación de la muerte, buscando un fuerte sacudida psicológica que conciencie al conductor del peligro letal del alcohol en carretera.",
+          "is_correct": true,
+          "feedback": "Correcto. La publicidad de la DGT recurre de forma habitual a la conmoción trágica ('recurso al miedo') asociada a figuras de gran potencia simbólica (personificar a la muerte) para concienciar al receptor de forma ética de la responsabilidad vial letal del alcohol en coche."
+        },
+        {
+          "letter": "B",
+          "text": "Es un error sintáctico severo de la DGT que la RAE prohíbe de forma terminante bajo pena de anulación del carné de conducir en Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una campaña institucional legítima de concienciación cívica, de excelente corrección morfosintáctica y semántica peninsular."
+        },
+        {
+          "letter": "C",
+          "text": "Es un loísmo de cosa andaluz provocado por la palabra 'asiento' de Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna confusión pronominal de complemento directo en el lema cívico vial de la DGT."
+        },
+        {
+          "letter": "D",
+          "text": "Anula la función del lenguaje apelativa, convirtiendo la personificación en un ruido físico del asfalto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la personificación y el dramatismo del vídeo potencian de forma sobresaliente el fin apelativo moral del lema preventivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad institucional (DGT, ministerios de salud) recurre con frecuencia a la apelación dramática o recurso al miedo (pathos trágico). El impacto visual y la personificación de la muerte asustan al conductor de forma calculada para que desista voluntariamente de conductas incívicas (conducir ebrio), salvando vidas reales en carretera.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Evalúa la adecuación lingüística y la corrección ética e instructiva de este eslogan publicitario infantil en la España contemporánea bajo la LOMLOE.",
+      "context": "Un anuncio de juguetes dirigido a niños de primaria en Soria emplea en mitad del lema escrito abreviaturas tipográficas groseras ('Kieres ganar ya?? xq tú lo vales xaval'), palabras soeces e imágenes agresivas de peleas callejeras del asfalto de Madrid.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente inadecuado, incívico y denigrante, al violar el código de conducta de publicidad infantil al promover el lenguaje vulgar degradado de chat ('xq', 'xaval'), la agresividad física y atentar contra el desarrollo ético e instructivo del menor de Soria.",
+          "is_correct": true,
+          "feedback": "Correcto. La publicidad dirigida a menores está regulada por estrictos códigos deontológicos de protección de la infancia (Autocontrol). El uso de lenguaje vulgar abreviado de chat de forma mimética, insultos u agresividad física atenta contra las directrices de civismo y alfabetización correcta de la LOMLOE en bachillerato."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuado, ya que los niños de Soria deben de hablar con faltas ortográficas para poder aprobar el examen de acceso a la universidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pruebas de acceso a la universidad penalizan severamente las abreviaturas informales de chat de móvil y las faltas de ortografía graves."
+        },
+        {
+          "letter": "C",
+          "text": "Es un uso brillante de la estructura analizante del español de Canarias avalada por la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje degradado de chat de móvil con faltas graves carece de justificación de variedad diatópica canaria respetable u de estructura textual culta."
+        },
+        {
+          "letter": "D",
+          "text": "Se publica así para demostrar que las letras del abecedario se consideran laístas en el asfalto de Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene ninguna relación con anomalías de pronombres átonos de objeto directo masculinos; es un asunto grave de protección ética de la infancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La infancia es un receptor vulnerable de la publicidad. Los anunciantes de juguetes de España están obligados a cumplir con el código de autorregulación publicitaria, desterrando lenguajes ortográficamente degradados de chat de móvil, violencia o sexismo encubierto en sus campañas, respetando las competencias y el civismo del menor promovido en las directivas de la LOMLOE.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "ES-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

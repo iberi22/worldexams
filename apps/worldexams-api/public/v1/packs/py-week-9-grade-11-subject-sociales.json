@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "py",
+    "pack_id": "py-week-9-grade-11-subject-sociales",
+    "generated_at": "2026-08-09T11:31:05.930Z"
+  },
+  "questions": [
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v1",
+      "statement": "¿Qué general del ejército paraguayo asumió el poder mediante un golpe de Estado en 1954 e instauró una dictadura que se prolongó por 35 años hasta 1989?",
+      "context": "El estudiante Santiago del Colegio Nacional de la Capital estudia las dictaduras de la segunda mitad del siglo XX en el Cono Sur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El general Alfredo Stroessner",
+          "is_correct": true,
+          "feedback": "Correcto. El Gral. Alfredo Stroessner gobernó con mano de hierro de forma de facto el Paraguay entre 1954 y 1989, el régimen dictatorial más largo de América del Sur."
+        },
+        {
+          "letter": "B",
+          "text": "El mariscal Francisco Solano López",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solano López fue el conductor nacional paraguayo del siglo XIX durante la Guerra de la Triple Alianza (1864-1870)."
+        },
+        {
+          "letter": "C",
+          "text": "El general Andrés Rodríguez",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Gral. Andrés Rodríguez lideró el golpe de Estado de febrero de 1989 que derrocó a Stroessner, iniciando la transición democrática."
+        },
+        {
+          "letter": "D",
+          "text": "El coronel Rafael Franco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rafael Franco gobernó efímeramente tras la Revolución Febrerista de 1936, décadas antes del ascenso de Stroessner."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El régimen del Gral. Alfredo Stroessner controló al país de forma totalitaria amparado en el Partido Colorado y las Fuerzas Armadas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v2",
+      "statement": "¿Qué gigantesca represa hidroeléctrica binacional, considerada una de las mayores del planeta, fue inaugurada en 1984 bajo el régimen de Alfredo Stroessner en condominio con el Brasil?",
+      "context": "Durante un viaje de estudios a Ciudad del Este, la estudiante Liz contempla la imponente estructura de hormigón sobre el río Paraná.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La represa hidroeléctrica de Itaipú",
+          "is_correct": true,
+          "feedback": "Correcto. La represa de Itaipú fue construida sobre el río Paraná en condominio binacional entre Paraguay y Brasil, constituyendo la mayor obra de infraestructura del régimen."
+        },
+        {
+          "letter": "B",
+          "text": "La represa hidroeléctrica de Yacyretá",
+          "is_correct": false,
+          "feedback": "Incorrecto. Yacyretá es una central binacional construida aguas abajo con la República Argentina, concluida décadas después."
+        },
+        {
+          "letter": "C",
+          "text": "La central siderúrgica de Ybycuí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ybycuí albergó la fundición de hierro pionera del siglo XIX, destruida en la Guerra de la Triple Alianza."
+        },
+        {
+          "letter": "D",
+          "text": "La represa hidroeléctrica de Acaray",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acaray es una represa menor e íntegramente nacional construida sobre el río homónimo en la década de 1960."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Itaipú proveyó abundancia de energía limpia al Paraguay y deparó un colosal auge económico de construcción y especulación inmobiliaria en los años 1970.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v3",
+      "statement": "¿Qué esquema político de dominación, denominado por los sociólogos como 'trilogía' de poder, sostuvo la estabilidad autoritaria del régimen de Stroessner?",
+      "context": "El estudiante Ramón investiga en San Lorenzo el andamiaje institucional que sostuvo a la dictadura stronista de forma ininterrumpida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Gobierno, las Fuerzas Armadas y el Partido Colorado",
+          "is_correct": true,
+          "feedback": "Correcto. Este tríptico institucional fusionó al Estado con el partido oficialista y el control militar represivo, impidiendo de forma totalitaria la alternancia política."
+        },
+        {
+          "letter": "B",
+          "text": "La corona británica, los obispos jesuitas y los sindicatos agrarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sindicatos y las corrientes de base eclesiásticas católicas fueron perseguidas y reprimidas sistemáticamente por el régimen de Stroessner."
+        },
+        {
+          "letter": "C",
+          "text": "El Partido Liberal, el Partido Febrerista y las multinacionales mineras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los partidos de oposición fueron proscritos, perseguidos de forma violenta o cooptados bajo fachada democrática débil."
+        },
+        {
+          "letter": "D",
+          "text": "La alianza militar de Asunción con las coronas reales de Asia oriental",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planteamiento de ficción ajeno al contexto geopolítico de seguridad nacional anticomunista de la Guerra Fría de los años 1950 a 1980."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El control stronista se basó en el sometimiento partidario obligatorio de los empleados públicos al coloradismo y la obediencia estricta de las fuerzas militares.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v4",
+      "statement": "¿Qué reforma y enmienda constitucional clave de 1977 impuso Alfredo Stroessner para legitimar judicialmente la perpetuación de su mandato de forma indefinida?",
+      "context": "Durante una clase sobre historia constitucional en Luque, el estudiante Jorge analiza la Constitución de 1967 enmendada en 1977.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La enmienda constitucional que permitió la reelección presidencial indefinida, eliminando las restricciones de periodos consecutivos anteriores",
+          "is_correct": true,
+          "feedback": "Correcto. La enmienda de 1977 posibilitó al dictador perpetuarse en la presidencia mediante fraudulentas elecciones periódicas sin límites de mandatos constitucionales."
+        },
+        {
+          "letter": "B",
+          "text": "La abolición del Poder Ejecutivo unipersonal para sustituirlo por el gobierno de dos cónsules vitalicios",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Consulado transitorio pertenecía al pasado histórico nacional de la independencia de la era de Francia de 1813."
+        },
+        {
+          "letter": "C",
+          "text": "La anexión pacífica del territorio del Chaco Boreal al control soberano de los Estados Unidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay conservó la soberanía del Chaco, el régimen stronista se subordinaba diplomáticamente a EE. UU. en la Guerra Fría pero sin cesión de suelo patrio."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de toda actividad ganadera en el departamento de Boquerón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el régimen promovió el desarrollo pecuario latifundista y las colonias chaqueñas menonitas de exportación activa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La enmienda del artículo 120 de la Constitución de 1967 legalizó el continuismo indefinido de Stroessner, rompiendo barreras institucionales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v5",
+      "statement": "¿Qué denominación recibía el marco represivo y restrictivo de libertades públicas e individuales decretado periódicamente por el régimen de Stroessner de forma continuada para justificar detenciones arbitrarias?",
+      "context": "En Pilar, la estudiante María analiza las violaciones sistemáticas a los derechos humanos y la represión a opositores bajo el stronismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Estado de Sitio permanente, amparado en el artículo 79 de la Constitución Nacional de 1967",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado de Sitio se renovaba de forma ininterrumpida cada 90 días en la capital y departamentos claves, suspendiendo las garantías de libertad individual ante detenciones policiales."
+        },
+        {
+          "letter": "B",
+          "text": "La Ley de Venta de Tierras Públicas forestales del este",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue el marco mercantilista decimonónico colorado que liquidó las tierras fiscales prebélicas del país en la posguerra inmediata."
+        },
+        {
+          "letter": "C",
+          "text": "La doctrina de equilibrio de poder fluvial del Río de la Plata",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la concepción geopolítica decimonónica paraguaya que dio paso al estallido bélico de la Triple Alianza en 1864."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del idioma guaraní en todo el territorio bajo pena de destierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El guaraní continuó hablándose de forma natural por el pueblo campesino e incluso oficializada en el rango nacional por la constitución stronista de 1967."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Estado de Sitio permanente dotó a la policía stronista (dirigida por jefes represores) de un paraguas de impunidad legal absoluta para asfixiar la disidencia.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v6",
+      "statement": "¿Qué gigantesco archivo documental de la policía de Stroessner, descubierto en Lambaré en 1992, aportó pruebas materiales e irrefutables del terrorismo de Estado y de la coordinación represiva sudamericana denominada 'Plan Cóndor'?",
+      "context": "Analizando la represión transnacional coordinada, la estudiante Liz de Pilar expone sobre los documentos hallados tras la caída del régimen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Archivo del Terror",
+          "is_correct": true,
+          "feedback": "Correcto. El Archivo del Terror, descubierto por Martín Almada en 1992, contiene informes, fichas de detenidos y grabaciones que devalaron la brutal represión policial del Cono Sur."
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado Secreto de la Triple Alianza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Documento diplomático de coalición militar tripartita secreta de 1865, no relacionado con el terrorismo de Estado represivo de finales del siglo XX."
+        },
+        {
+          "letter": "C",
+          "text": "Los quipus contables del Colegio de San Lorenzo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los quipus son sistemas mnemotécnicos contables de origen prehispánico andino incaico, inexistentes en los archivos policiales contemporáneos paraguayos."
+        },
+        {
+          "letter": "D",
+          "text": "Los folletos satíricos impresos en el campamento de Humaitá",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alude a la prensa de trinchera de la contienda del siglo XIX (Cabichuí), sin relación con archivos documentales represivos de seguridad nacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El hallazgo del Archivo del Terror constituyó un hito histórico de derechos humanos de repercusión mundial, exponiendo los alcances criminales del Plan Cóndor.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v7",
+      "statement": "¿Qué organizaciones campesinas colectivas de producción y resistencia pacífica de base eclesiástica católica fueron reprimidas y masacradas de forma sangrienta por las fuerzas militares y civiles stronistas en Misiones y Caaguazú?",
+      "context": "En la ciudad de Caacupé, se analiza la represión violenta ejercida contra las organizaciones de autodefensa campesina de fines de los años 1960 y 1970.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las Ligas Agrarias Cristianas",
+          "is_correct": true,
+          "feedback": "Correcto. Las Ligas Agrarias Cristianas promovían la propiedad comunitaria de la tierra, la educación bilingüe alternativa y fueron calificadas de comunistas por el régimen, sufriendo masacres y desapariciones violentas."
+        },
+        {
+          "letter": "B",
+          "text": "Los obrajes forestales y yerbateros de La Industrial Paraguaya",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Industrial Paraguaya era un latifundio privado agroexportador decimonónico, no una cooperativa campesina eclesiástica de resistencia pacífica."
+        },
+        {
+          "letter": "C",
+          "text": "Las colonias cooperativas menonitas del departamento de Boquerón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las colonias menonitas eran comunidades cooperativas de origen germánico exentas de servicios militares que mantuvieron pactos pacíficos con el régimen de Stroessner."
+        },
+        {
+          "letter": "D",
+          "text": "Los batallones infantiles combatientes de la batalla de Acosta Ñu",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acosta Ñu fue un trágico combate militar terrestre decimonónico de resistencia nacional lopesca de 1869 contra invasores extranjeros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La destrucción violenta de las Ligas Agrarias Cristianas cercenó una de las experiencias organizativas más ricas del campesinado paraguayo contemporáneo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v8",
+      "statement": "¿Qué histórica caminata de protesta cívica pacífica y reclamo de libertades públicas organizó la Iglesia católica paraguaya en Asunción en el año 1988, revelando el aislamiento social definitivo del régimen dictatorial?",
+      "context": "Durante un foro histórico en Villarrica, el profesor Ramón describe el papel de la Iglesia católica paraguaya en los momentos finales del stronismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Procesión del Silencio (o Caminata del Silencio) que convocó a decenas de miles de ciudadanos pacíficos de todos los sectores",
+          "is_correct": true,
+          "feedback": "Correcto. Esta histórica movilización cívica de 1988 canalizó el masivo descontento popular contra la dictadura stronista, amparada bajo el manto moral de la Conferencia Episcopal Paraguaya (CEP)."
+        },
+        {
+          "letter": "B",
+          "text": "La marcha armada de la Triple Alianza sobre las cataratas del Iguazú",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una distorsión militar decimonónica ajena a las protestas civiles eclesiásticas católicas pacíficas de finales del siglo XX paraguayo."
+        },
+        {
+          "letter": "C",
+          "text": "La emigración obligatoria de los obispos asuncenos hacia los desiertos del norte de África",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los obispos nacionales guiaron y sostuvieron de forma activa el reclamo cívico de derechos dentro del propio territorio de la República."
+        },
+        {
+          "letter": "D",
+          "text": "La procesión mariana de Caacupé con carruajes tirados por elefantes asiáticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escenario irreal y satírico desprovisto de veracidad histórica y rigor cívico en el devenir del país de 1988."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Iglesia católica paraguaya se erigió en el baluarte moral de la resistencia civil stronista, proveyendo espacios de libre expresión cívica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v9",
+      "statement": "¿Qué hito militar e histórico deparó la noche del 2 y la madrugada del 3 de febrero de 1989 en Asunción, clausurando la dictadura stronista?",
+      "context": "El estudiante Joaquín de Coronel Oviedo investiga el desenlace armado que puso fin a los 35 años de dictadura stronista en febrero de 1989.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El golpe de Estado militar liderado por el general Andrés Rodríguez, que derrocó y envió al exilio en Brasil a Alfredo Stroessner, iniciando la transición democrática",
+          "is_correct": true,
+          "feedback": "Correcto. El alzamiento militar de la caballería dirigido por el Gral. Andrés Rodríguez deparó el derrocamiento definitivo de Stroessner e inició la apertura democrática paraguaya."
+        },
+        {
+          "letter": "B",
+          "text": "La invasión de una inmensa flota de guerra naviera aliada enviada por la reina Victoria de Gran Bretaña",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caída de la dictadura fue resuelta de manera interna cívico-militar por fuerzas paraguayas de operaciones, sin invasiones inglesas."
+        },
+        {
+          "letter": "C",
+          "text": "La firma de la anexión voluntaria de toda la llanura chaqueña al control territorial de Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fronteras chaqueñas estaban resueltas e intocadas desde la paz de 1938; el golpe fue puramente de reconfiguración política interna de gobierno."
+        },
+        {
+          "letter": "D",
+          "text": "La erupción del volcán de Paraguarí sepultando de forma definitiva el palacio de gobierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planteamiento fantasioso y físicamente imposible; el relevo gubernamental se resolvió por combates urbanos y capitulación del dictador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El golpe del 3 de febrero de 1989 es recordado como el 'gesto libertador', abriendo las compuertas a las postergadas reformas democráticas cívicas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v10",
+      "statement": "¿Qué eran las denominadas 'tierras malhabidas' en el contexto agrario paraguayo de la dictadura stronista y a quiénes beneficiaban?",
+      "context": "En un examen de Historia en San Lorenzo, se discute el concepto de 'tierras malhabidas' adjudicadas de forma ilegal bajo el régimen stronista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eran ricas tierras públicas rurales destinadas por ley de reforma agraria al campesinado pobre, pero que Stroessner adjudicó ilegalmente a militares allegados, políticos oficialistas y terratenientes leales al régimen",
+          "is_correct": true,
+          "feedback": "Correcto. La adjudicación irregular de millones de hectáreas fiscales de la Región Oriental a la clientela del dictador consolidó el latifundismo estanciero improductivo y agudizó el conflicto social agrario campesino contemporáneo."
+        },
+        {
+          "letter": "B",
+          "text": "Eran parcelas forestales que se volvieron desiertos estériles de dunas móviles polares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Refiere al despojo del suelo productivo arable fiscal en favor de la élite stronista, no a catástrofes de desertificación polar glaciar."
+        },
+        {
+          "letter": "C",
+          "text": "Eran colonias pesqueras construidas para la armada de guerra de los Estados Unidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chaco y la Oriental agraria carecían de bases navieras pesqueras militares adjudicadas a EE. UU. en usufructo soberano."
+        },
+        {
+          "letter": "D",
+          "text": "Eran tierras reservadas de forma exclusiva para el adiestramiento de animales prehistóricos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escenario absurdo e imaginario desprovisto de veracidad o rigor analítico sobre la estructura de tenencia de tierras del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El informe oficial de la Comisión de Verdad y Justicia (CVJ) documentó que cerca de 8 millones de hectáreas de tierras públicas fueron usurpadas bajo la denominación de 'tierras malhabidas'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
+      "statement": "La construcción de la represa de Itaipú en los años 1970 introdujo de forma masiva capitales financieros al Paraguay. ¿Qué impacto macroeconómico y de asimetría social deparó este vertiginoso auge monetario?",
+      "context": "En la mesa de debates de la Universidad Nacional de Asunción, un docente de Historia del Paraguay analiza el papel del capital financiero internacional surgido con el auge de las obras públicas stronistas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provocó un acelerado crecimiento económico comercial urbano y especulación inmobiliaria en Asunción, enriqueciendo a una nueva burguesía contratista de la construcción allegada al régimen, mientras que el campo y pequeños campesinos continuaron rezagados",
+          "is_correct": true,
+          "feedback": "Correcto. El auge hidroeléctrico enriqueció a la denominada 'patria contratista' (élite stronista ligada a la construcción) y expandió el sector comercial urbano de la capital, incrementando las brechas de ingresos familiares con las masas campesinas rurales."
+        },
+        {
+          "letter": "B",
+          "text": "Provocó que el Paraguay devaluara de forma absoluta el guaraní para adoptar el idioma inglés como única moneda legal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El guaraní continuó rigiendo las finanzas, y la energía hidroeléctrica no impuso el uso legal obligatorio del idioma inglés comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Obligó a la central binacional de Itaipú a verter la totalidad de sus reservas de agua dulce en las costas de Chile",
+          "is_correct": false,
+          "feedback": "Incorrecto. Itaipú opera sobre el Paraná delimitando fronteras paraguayas-brasileñas continentales, sin conexiones de vertido físico hídrico hacia el Pacífico."
+        },
+        {
+          "letter": "D",
+          "text": "Desmanteló de forma absoluta el sistema ferroviario para obligar a usar transportes tirados por bueyes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el ferrocarril declinó por falta de inversión, las dinámicas de transporte se enfocaron en camiones y flotas viales de asfalto modernas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El auge económico de Itaipú (1973-1981) expandió el sector comercial y financiero del Paraguay, consolidando el poder de la clientela stronista contratista.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
+      "statement": "¿Qué célebre coalición de partidos de oposición paraguayos (compuesta por liberales radicales, febreristas, demócratas cristianos y colorados disidentes) se conformó en la clandestinidad en 1978 para combatir de forma coordinada y pacífica a la dictadura?",
+      "context": "La estudiante Valentina de Caacupé investiga la resistencia cívico-social de opositores al stronismo desde los centros urbanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Acuerdo Nacional",
+          "is_correct": true,
+          "feedback": "Correcto. El Acuerdo Nacional (1978) constituyó la plataforma de coordinación de la oposición civil democrática clandestina paraguaya contra el monopolio autoritario stronista."
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado Secreto de la Triple Alianza de 1865",
+          "is_correct": false,
+          "feedback": "Incorrecto. Documento histórico decimonónico de agresión militar tripartita extranjera contra el país, ajeno a plataformas democráticas opositoras de finales del siglo XX."
+        },
+        {
+          "letter": "C",
+          "text": "La junta militar triunvirato de Manuel Belgrano de 1811",
+          "is_correct": false,
+          "feedback": "Incorrecto. Belgrano fue un general porteño derrotado en Paraguarí por milicias patriotas durante la gesta de la independencia paraguaya colonial."
+        },
+        {
+          "letter": "D",
+          "text": "La federación cooperativa de las colonias de Boquerón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alude a la organización agraria pacífica cooperativa de los menonitas en el Chaco Seco, sin roles de coalición partidaria urbana asuncena clandestina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Acuerdo Nacional articuló las demandas de apertura democrática cívica de los partidos históricos clandestinos proscritos o perseguidos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v13",
+      "statement": "A pesar de la copropiedad del río Paraná, ¿qué controvertida estipulación del Anexo C del Tratado de Itaipú de 1973 limitó la libre comercialización de la energía paraguaya sobrante?",
+      "context": "En Encarnación, los alumnos de bachillerato analizan el histórico Tratado de Itaipú de 1973 y sus cláusulas de soberanía energética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obligación de vender de forma exclusiva la energía paraguaya no consumida al Brasil a precios fijos históricos de compensación, prohibiendo su venta directa a terceros países",
+          "is_correct": true,
+          "feedback": "Correcto. Esta estipulación de 'cesión de energía' (Anexo C) limitó la soberanía hidroenergética paraguaya, vendiéndose el excedente al mercado brasileño a precios cuestionados de compensación fiscal."
+        },
+        {
+          "letter": "B",
+          "text": "La obligación de destruir todas las turbinas de la represa en caso de diferendos partidarios colorados",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen cláusulas de autodestrucción física o militar de la infraestructura de Itaipú por disputas políticas locales de Asunción."
+        },
+        {
+          "letter": "C",
+          "text": "La cesión del control fronterizo a la corona británica como garantía de deudas de guerra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El condominio es puramente binacional entre Paraguay y Brasil; Gran Bretaña carece de roles soberanos o territoriales en el Paraná paraguayo de 1973."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de exportar energía hidroeléctrica en barcos de carga petroleros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía eléctrica se transmite por líneas aéreas de alta tensión y subestaciones, no mediante buques de carga marina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El reclamo de 'libre disponibilidad de energía' y de justa compensación de la tarifa hidroeléctrica de Itaipú constituye una de las mayores banderas de la diplomacia paraguaya contemporánea.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v14",
+      "statement": "¿Qué célebre periódico escrito independiente y combativo (fundado por Aldo Zuccolillo en 1967) fue clausurado de forma arbitraria y clausurado indefinidamente por orden stronista en el año 1984 por denunciar los abusos de poder del régimen?",
+      "context": "Durante una clase sobre historia del periodismo opositor clausurado en Concepción, el estudiante Joaquín analiza la prensa hostigada por la dictadura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diario ABC Color",
+          "is_correct": true,
+          "feedback": "Correcto. El diario ABC Color fue clausurado y prohibido por la dictadura de Stroessner en 1984 por su periodismo de denuncia de violaciones de derechos humanos, reabriendo sus prensas recién tras el derrocamiento de 1989."
+        },
+        {
+          "letter": "B",
+          "text": "El Paraguayo Independiente del siglo XIX",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue el órgano de prensa oficial decimonónico redactado directamente por el primer presidente Carlos Antonio López en 1845, décadas antes de la clausura de ABC Color."
+        },
+        {
+          "letter": "C",
+          "text": "La Gaceta de Buenos Aires de Manuel Belgrano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Periódico revolucionario rioplatense de principios del siglo XIX (1810), ajeno al hostigamiento represivo stronista de la segunda mitad del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "El Eco de Itapúa de los monjes jesuitas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las misiones de Itapúa carecían de prensas periódicas independientes rotativas opuestas al régimen militar en 1984."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La censura y clausura del diario ABC Color y de radio Ñandutí demostraron el desprecio stronista por la libertad de prensa y de pensamiento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v15",
+      "statement": "La insurrección militar que derrocó de forma definitiva a Stroessner en febrero de 1989 estuvo catalizada por la profunda división y fractura surgida en el seno del propio Partido Colorado oficialista entre las facciones denominadas:",
+      "context": "En la biblioteca de Pilar, la estudiante Camila investiga las causas y el desarrollo del derrocamiento de Stroessner a manos de su círculo de confianza militar en 1989.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los 'militantes' (estrictamente leales al círculo stronista) y los 'tradicionalistas' (colorados históricos relegados que apoyaron el golpe militar de Rodríguez)",
+          "is_correct": true,
+          "feedback": "Correcto. La convención colorada de 1987 escindió de forma irreversible al partido oficialista: los 'militantes' asaltaron la conducción partidaria, forzando a los 'tradicionalistas' a aliarse con el general Rodríguez para propiciar el relevo armado militar."
+        },
+        {
+          "letter": "B",
+          "text": "Los partidarios de Manuel Belgrano y los defensores coloniales del gobernador Velasco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Refiere al proceso independentista nacional patriótico e incruento de mayo de 1811, ajeno a fracturas coloradas del siglo XX de posguerra."
+        },
+        {
+          "letter": "C",
+          "text": "Los soldados 'saco mbyky' y jefes 'saco puku' liberales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El faccionalismo de sacos distinguió a la guerra civil interna paraguaya del Partido Liberal de la primera mitad del siglo XX (1922)."
+        },
+        {
+          "letter": "D",
+          "text": "La orden jesuita de misiones y los consorcios forestales británicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían misiones jesuíticas operando como fuerzas partidarias coloradas o madereras de la dictadura en 1989."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La implosión política colorada entre militantes estrionistas del 'cuatrinomio de oro' y tradicionalistas históricos pavimentó la caída armada de la dictadura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v16",
+      "statement": "¿Qué rol humanitario y cívico desempeñó el hospital de Clínicas de Asunción y su gremio de médicos y estudiantes de medicina ante la represión del régimen stronista de los años 1980?",
+      "context": "Un historiador explica en San Lorenzo el papel de las 'Clínicas Clínicas' de Asunción en la atención médica de detenidos y torturados en la dictadura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se erigió en trinchera de resistencia cívica, asistiendo heridos de protestas callejeras y denunciando públicamente los abusos policiales y muertes bajo custodia, sufriendo por ello represión directa",
+          "is_correct": true,
+          "feedback": "Correcto. El movimiento del Hospital de Clínicas ('médicos de Clínicas') organizó históricas huelgas de protesta y reclamo de insumos de salud, convirtiéndose en vanguardia civil opositora de resistencia moral."
+        },
+        {
+          "letter": "B",
+          "text": "Fue convertido en base secreta de adiestramiento de cosmonautas del bloque soviético",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se registraron bases aeroespaciales en el hospital asunceno, que brindaba de forma precaria atención médica de salud civil popular."
+        },
+        {
+          "letter": "C",
+          "text": "Fue expropiado para albergar de forma de por vida las oficinas de aduana seca de Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un anacronismo e inexactitud total; el hospital de Clínicas dependía de la UNA y operaba en el casco histórico de la capital."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición papal de atender a pacientes que hablaran en idioma guaraní nativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hospital atendía mayoritariamente en guaraní y jopará a la población de escasos recursos proveniente del interior agrario paraguayo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las heroicas protestas del Hospital de Clínicas canalizaron el valiente despertar cívico de la sociedad paraguaya en las postrimerías del stronismo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar críticamente la controvertida y prolongada gestión política de Alfredo Stroessner (1954-1989), ¿cuál de las siguientes valoraciones posee mayor rigurosidad analítica?",
+      "context": "En la mesa de debates de la Universidad Nacional de Asunción, se juzga el papel histórico del general Alfredo Stroessner como reconstructor y represor de posguerra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por un lado logró el crecimiento de infraestructura de asfalto y energía (como la represa de Itaipú), pero por el otro sumió al país en un régimen de represión totalitaria violenta, terrorismo de Estado y despojo de tierras fiscales de reforma agraria",
+          "is_correct": true,
+          "feedback": "Correcto. El análisis del stronismo contrapone la indudable expansión material de puentes, carreteras y represas hidroeléctricas con el nefasto costo social de persecución judicial arbitraria, desapariciones forzadas y consolidación de la precarización agraria campesina contemporánea."
+        },
+        {
+          "letter": "B",
+          "text": "Que fue un gobernante demócrata de corte socialista que redistribuyó de forma pacífica y gratuita toda la tierra agraria del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Stroessner persiguió de forma violenta a los movimientos sociales agrarios y opositores de izquierda, concentrando el latifundismo improductivo estanciero militar."
+        },
+        {
+          "letter": "C",
+          "text": "Que logró la industrialización aeroespacial del Chaco paraguayo mediante la importación de reactores nucleares japoneses",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un planteamiento anacrónico e imaginario ajeno al precaria y agraria economía paraguaya del siglo XX de posguerra del Chaco."
+        },
+        {
+          "letter": "D",
+          "text": "Que su gobierno careció por completo de ejércitos armados de defensa e impuso de forma exclusiva el derecho islámico otomano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El régimen de Stroessner basó su estabilidad autoritaria en el control militar de las Fuerzas Armadas y el código de justicia penal de seguridad nacional anticomunista."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El stronismo es objeto de encendidos debates, donde los revisionistas democráticos exponen las graves violaciones y represión sistemática a opositores políticos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v18",
+      "statement": "Al juzgar el impacto del Plan Cóndor represivo transnacional sudamericano en el Paraguay, ¿cuál es el mayor cargo de responsabilidad penal e institucional documentado por los historiadores contemporáneos?",
+      "context": "El estudiante Santiago del Colegio Nacional de Concepción examina las corrientes de seguridad nacional imperantes en la Guerra Fría y reflexiona sobre el Plan Cóndor paraguayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Haber coordinado clandestinamente el secuestro de opositores políticos, la tortura, el intercambio ilegal de prisioneros y las ejecuciones forzadas transfronterizas entre los servicios de seguridad de Paraguay, Argentina, Brasil, Chile y Uruguay",
+          "is_correct": true,
+          "feedback": "Correcto. El Plan Cóndor constituyó una asociación criminal clandestina militar interestatal auspiciada en el marco de la Doctrina de Seguridad Nacional de la Guerra Fría, que violó de forma masiva los derechos humanos soberanos rioplatenses."
+        },
+        {
+          "letter": "B",
+          "text": "Haber promovido de forma directa e ininterrumpida el exterminio voluntario de la población brasileña de habla portuguesa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La represión se focalizaba en disidentes políticos locales, líderes estudiantiles, obreros o campesinos de izquierda, respetando el tratado de Itaipú binacional de gobierno."
+        },
+        {
+          "letter": "C",
+          "text": "Haber forzado al Paraguay a declarar la guerra armada inmediata contra la totalidad del Imperio del Brasil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Stroessner mantuvo estrechas relaciones amistosas y tratados comerciales hidroeléctricos (como Itaipú) con la dictadura militar brasileña gobernante de su época."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición gubernamental de usar monedas nacionales para obligar al trueque exclusivo de mandioca",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema de transacciones monetarias paraguayo guaraní se mantuvo firme, enriqueciéndose los bancos bajo el auge de Itaipú de forma ordinaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Plan Cóndor, respaldado por documentos del Archivo del Terror, constituye una vergonzosa página de terrorismo de Estado multinacional en el Cono Sur.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar críticamente las causas de la persistente exclusión campesina agraria paraguaya, ¿qué vinculación directa de asimetría económica asocia la adjudicación de las denominadas 'tierras malhabidas' stronistas con el permanente conflicto social rural campesino contemporáneo?",
+      "context": "En un debate historiográfico en Pilar, se analiza la adjudicación masiva de tierras públicas y su influencia en el vaciamiento demográfico rural campesino bajo Stroessner.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que privó al campesinado y pequeños agricultores pobres de millones de hectáreas fiscales fértiles, consolidando una injusta estructura agraria latifundista improductiva que obligó al éxodo rural y desencadenó históricas demandas por la reforma agraria",
+          "is_correct": true,
+          "feedback": "Correcto. La apropiación ilegal del suelo fiscal mermó los recursos de colonización de la agricultura familiar campesina, precarizando el estatus del agricultor y estimulando la migración rural forzada desordenada."
+        },
+        {
+          "letter": "B",
+          "text": "Que obligó a los grandes terratenientes militares a aprender el dialecto alemán de forma obligatoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enajenación irregular se destinó a allegados cívico-militares del régimen stronista de habla hispana, sin imposiciones idiomáticas germánicas de ningún tipo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la venta ilegal de tierras convirtió de forma instantánea a todo el Paraguay oriental en desiertos de sal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chaco posee áreas salobres, pero la Región Oriental agraria mantuvo sus exuberantes bosques y fertilidad productiva, siendo privatizados de forma irregular."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición gubernamental de utilizar tractores modernos para forzar el uso de herramientas de la edad de piedra andina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agro de exportación usó maquinaria pesada moderna de punta, el debate se centra en la exclusión distributiva social del campesinado familiar desposeído de tierras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adjudicación de tierras malhabidas stronistas trabó la reforma agraria paraguaya, cimentando una de las estructuras de tenencia de la tierra más desiguales del planeta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle-v20",
+      "statement": "Al evaluar globalmente el proceso de consolidación de la memoria histórica y resarcimiento de derechos de las víctimas de la dictadura stronista en la transición democrática, ¿cuál de las siguientes conclusiones posee mayor sustento empírico e histórico?",
+      "context": "Un seminario científico en Asunción concluye valorando críticamente el papel de la memoria histórica e institucional cívica tras la caída de la dictadura en 1989.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La labor de la Comisión de Verdad y Justicia (CVJ) documentó y reconoció oficialmente de forma pormenorizada miles de testimonios de torturas, ejecuciones forzadas, desapariciones y el despojo irregular de tierras malhabidas, sentando las bases morales para la reparación histórica nacional",
+          "is_correct": true,
+          "feedback": "Correcto. El informe de la CVJ (2008) aportó un valioso legado histórico probatorio de los crímenes de lesa humanidad de la dictadura de Stroessner, promoviendo la memoria, la reparación de daños y la justicia democrática en el país."
+        },
+        {
+          "letter": "B",
+          "text": "El Paraguay acordó de forma voluntaria declarar la reelección indefinida de Alfredo Stroessner de forma póstuma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución democrática de 1992 prohíbe de forma tajante e inflexible cualquier tipo de reelección presidencial para evitar continuismos autoritarios."
+        },
+        {
+          "letter": "C",
+          "text": "La cesión de todos los edificios e iglesias de Itapúa a la corona británica como pago de indemnizaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existieron tales transferencias patrimoniales o comerciales; el resarcimiento de las víctimas de la dictadura es administrado soberanamente por el Estado paraguayo bajo códigos de justicia civil."
+        },
+        {
+          "letter": "D",
+          "text": "La supresión absoluta de la lengua guaraní de la administración escolar para oficializar de por vida el idioma inglés",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la Constitución de 1992 revalorizó la lengua nacional autóctona materna guaraní, elevándola al rango co-oficial de igual a igual junto al castellano paraguayo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La memoria histórica cívica de la dictadura y la defensa activa de los derechos humanos constituyeron los pilares legitimadores de la transición democrática paraguaya del siglo XXI.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PY-SOC-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}
