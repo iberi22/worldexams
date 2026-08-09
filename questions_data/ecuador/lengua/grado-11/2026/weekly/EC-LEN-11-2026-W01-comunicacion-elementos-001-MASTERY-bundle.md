@@ -1,5 +1,7 @@
 ---
 id: "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "ecuador"
 grado: 11
 asignatura: "lengua"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Lengua y Literatura | BGU Ministerio de Educacion Ecuador / SENESCYT**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comunicación oral
@@ -45,7 +47,7 @@ En la biblioteca de la Unidad Educativa Colegio Nacional Mejía en Quito, Ana le
 El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comunicación oral
@@ -69,7 +71,7 @@ Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Guaya
 El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comunicación oral
@@ -93,7 +95,7 @@ En Cuenca, un oficial de tránsito levanta la mano derecha con la palma abierta 
 Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comunicación oral
@@ -117,7 +119,7 @@ Fernando asiste a una conferencia de prensa en el municipio de Ambato. El ruido 
 El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comunicación oral
@@ -141,7 +143,7 @@ En Manta, María envía un correo electrónico de reclamo a una empresa proveedo
 La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.
 
 ---
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comunicación oral
@@ -165,7 +167,7 @@ En la biblioteca de la Unidad Educativa Colegio Nacional Manta en Loja, José le
 El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -189,7 +191,7 @@ Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Rioba
 El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -213,7 +215,7 @@ En Ibarra, un oficial de tránsito levanta la mano derecha con la palma abierta 
 Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -237,7 +239,7 @@ Valentina asiste a una conferencia de prensa en el municipio de Portoviejo. El r
 El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -261,7 +263,7 @@ En Machala, Camila envía un correo electrónico de reclamo a una empresa provee
 La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -285,7 +287,7 @@ En la biblioteca de la Unidad Educativa Colegio Nacional Mejía en Esmeraldas, S
 El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.
 
 ---
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -309,7 +311,7 @@ Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Santo
 El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comunicación oral
@@ -333,7 +335,7 @@ En Quito, un oficial de tránsito levanta la mano derecha con la palma abierta h
 Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comunicación oral
@@ -357,7 +359,7 @@ David asiste a una conferencia de prensa en el municipio de Guayaquil. El ruido 
 El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comunicación oral
@@ -381,7 +383,7 @@ En Cuenca, Elena envía un correo electrónico de reclamo a una empresa proveedo
 La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comunicación oral
@@ -405,7 +407,7 @@ En la biblioteca de la Unidad Educativa Colegio Nacional Manta en Ambato, Diana 
 El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comunicación oral
@@ -429,7 +431,7 @@ Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Manta
 El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.
 
 ---
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comunicación oral
@@ -453,7 +455,7 @@ En Loja, un oficial de tránsito levanta la mano derecha con la palma abierta ha
 Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comunicación oral
@@ -477,7 +479,7 @@ Andrés asiste a una conferencia de prensa en el municipio de Riobamba. El ruido
 El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comunicación oral

@@ -1,5 +1,7 @@
 ---
 id: "EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "ecuador"
 grado: 11
 asignatura: "lengua"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Lengua y Literatura | BGU Ministerio de Educacion Ecuador / SENESCYT**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Escritura
@@ -45,7 +47,7 @@ En un ensayo escrito en el Colegio Nacional Nueve de Octubre de Machala, Andrés
 La tesis es la columna vertebral de un texto argumentativo; es la idea o postura u opinión que el autor defiende o demuestra con argumentos.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Escritura
@@ -69,7 +71,7 @@ Para defender la necesidad de cuidar los manglares en Esmeraldas, Estefanía esc
 El argumento de autoridad recurre a la voz, prestigio o conocimiento de especialistas y entidades académicas acreditadas para robustecer la argumentación propia.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Escritura
@@ -93,7 +95,7 @@ Considere este fragmento de un artículo de opinión en Santo Domingo: 'Si bien 
 La contraargumentación y posterior refutación consisten en presentar la postura opuesta a la tesis propia para desmontar sus argumentos con bases sólidas y lógicas.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Escritura
@@ -117,7 +119,7 @@ En Quito, el docente de Lengua del Colegio Nacional Mejía señala que un argume
 La falacia ad hominem ataca directamente a la persona que emite el argumento en lugar de debatir o refutar la idea o propuesta expuesta.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Escritura
@@ -141,7 +143,7 @@ Al escribir las conclusiones de su ensayo sobre el uso racional del agua en Guay
 La conclusión en un texto argumentativo sirve para sintetizar el razonamiento expuesto y reafirmar la postura u opinión inicial (tesis) a la luz de los argumentos planteados.
 
 ---
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Escritura
@@ -165,7 +167,7 @@ En un ensayo escrito en el Colegio Benigno Malo de Cuenca, Fernando sostiene la 
 La tesis es la columna vertebral de un texto argumentativo; es la idea o postura u opinión que el autor defiende o demuestra con argumentos.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Escritura
@@ -189,7 +191,7 @@ Para defender la necesidad de cuidar los manglares en Ambato, María escribe: 'C
 El argumento de autoridad recurre a la voz, prestigio o conocimiento de especialistas y entidades académicas acreditadas para robustecer la argumentación propia.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Escritura
@@ -213,7 +215,7 @@ Considere este fragmento de un artículo de opinión en Manta: 'Si bien algunos 
 La contraargumentación y posterior refutación consisten en presentar la postura opuesta a la tesis propia para desmontar sus argumentos con bases sólidas y lógicas.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Escritura
@@ -237,7 +239,7 @@ En Loja, el docente de Lengua del Colegio Nacional Manta señala que un argument
 La falacia ad hominem ataca directamente a la persona que emite el argumento en lugar de debatir o refutar la idea o propuesta expuesta.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Escritura
@@ -261,7 +263,7 @@ Al escribir las conclusiones de su ensayo sobre el uso racional del agua en Riob
 La conclusión en un texto argumentativo sirve para sintetizar el razonamiento expuesto y reafirmar la postura u opinión inicial (tesis) a la luz de los argumentos planteados.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Escritura
@@ -285,7 +287,7 @@ En un ensayo escrito en el Colegio Nacional Nueve de Octubre de Ibarra, Valentin
 La tesis es la columna vertebral de un texto argumentativo; es la idea o postura u opinión que el autor defiende o demuestra con argumentos.
 
 ---
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Escritura
@@ -309,7 +311,7 @@ Para defender la necesidad de cuidar los manglares en Portoviejo, Camila escribe
 El argumento de autoridad recurre a la voz, prestigio o conocimiento de especialistas y entidades académicas acreditadas para robustecer la argumentación propia.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Escritura
@@ -333,7 +335,7 @@ Considere este fragmento de un artículo de opinión en Machala: 'Si bien alguno
 La contraargumentación y posterior refutación consisten en presentar la postura opuesta a la tesis propia para desmontar sus argumentos con bases sólidas y lógicas.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Escritura
@@ -357,7 +359,7 @@ En Esmeraldas, el docente de Lengua del Colegio Nacional Mejía señala que un a
 La falacia ad hominem ataca directamente a la persona que emite el argumento en lugar de debatir o refutar la idea o propuesta expuesta.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Escritura
@@ -381,7 +383,7 @@ Al escribir las conclusiones de su ensayo sobre el uso racional del agua en Sant
 La conclusión en un texto argumentativo sirve para sintetizar el razonamiento expuesto y reafirmar la postura u opinión inicial (tesis) a la luz de los argumentos planteados.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Escritura
@@ -405,7 +407,7 @@ En un ensayo escrito en el Colegio Benigno Malo de Quito, David sostiene la sigu
 La tesis es la columna vertebral de un texto argumentativo; es la idea o postura u opinión que el autor defiende o demuestra con argumentos.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Escritura
@@ -429,7 +431,7 @@ Para defender la necesidad de cuidar los manglares en Guayaquil, Elena escribe: 
 El argumento de autoridad recurre a la voz, prestigio o conocimiento de especialistas y entidades académicas acreditadas para robustecer la argumentación propia.
 
 ---
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Escritura
@@ -453,7 +455,7 @@ Considere este fragmento de un artículo de opinión en Cuenca: 'Si bien algunos
 La contraargumentación y posterior refutación consisten en presentar la postura opuesta a la tesis propia para desmontar sus argumentos con bases sólidas y lógicas.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Escritura
@@ -477,7 +479,7 @@ En Ambato, el docente de Lengua del Colegio Nacional Manta señala que un argume
 La falacia ad hominem ataca directamente a la persona que emite el argumento en lugar de debatir o refutar la idea o propuesta expuesta.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** EC-LEN-11-2026-W10-textos-argumentativos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Escritura

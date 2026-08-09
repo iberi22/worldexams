@@ -1,5 +1,7 @@
 ---
 id: "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "ecuador"
 grado: 11
 asignatura: "lengua"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Lengua y Literatura | BGU Ministerio de Educacion Ecuador / SENESCYT**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Lengua y cultura
@@ -45,7 +47,7 @@ En una cafetería de Ambato, un joven lojano le dice a su amigo de Guayaquil: 'O
 'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Lengua y cultura
@@ -69,7 +71,7 @@ Sebastián, oriundo de Esmeraldas, visita a sus parientes en Manta y al conversa
 En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lengua y cultura
@@ -93,7 +95,7 @@ En Loja, el docente de Lengua del Colegio Nacional Vicente Rocafuerte explica qu
 Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Lengua y cultura
@@ -117,7 +119,7 @@ Durante una conversación informal en un mercado de Riobamba, Camila dice: '¡Es
 'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Lengua y cultura
@@ -141,7 +143,7 @@ Al estudiar la identidad nacional en Ibarra, se analiza el habla de la Amazonía
 La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.
 
 ---
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Lengua y cultura
@@ -165,7 +167,7 @@ En una cafetería de Portoviejo, un joven lojano le dice a su amigo de Guayaquil
 'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -189,7 +191,7 @@ Gabriela, oriundo de Esmeraldas, visita a sus parientes en Machala y al conversa
 En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -213,7 +215,7 @@ En Esmeraldas, el docente de Lengua del Colegio Nacional Bernardo Valdivieso exp
 Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -237,7 +239,7 @@ Durante una conversación informal en un mercado de Santo Domingo, Elena dice: '
 'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -261,7 +263,7 @@ Al estudiar la identidad nacional en Quito, se analiza el habla de la Amazonía 
 La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -285,7 +287,7 @@ En una cafetería de Guayaquil, un joven lojano le dice a su amigo de Guayaquil:
 'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.
 
 ---
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -309,7 +311,7 @@ Rafael, oriundo de Esmeraldas, visita a sus parientes en Cuenca y al conversar u
 En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Lengua y cultura
@@ -333,7 +335,7 @@ En Ambato, el docente de Lengua del Colegio Nacional Vicente Rocafuerte explica 
 Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lengua y cultura
@@ -357,7 +359,7 @@ Durante una conversación informal en un mercado de Manta, Estefanía dice: '¡E
 'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Lengua y cultura
@@ -381,7 +383,7 @@ Al estudiar la identidad nacional en Loja, se analiza el habla de la Amazonía e
 La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Lengua y cultura
@@ -405,7 +407,7 @@ En una cafetería de Riobamba, un joven lojano le dice a su amigo de Guayaquil: 
 'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Lengua y cultura
@@ -429,7 +431,7 @@ Patricia, oriundo de Esmeraldas, visita a sus parientes en Ibarra y al conversar
 En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.
 
 ---
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Lengua y cultura
@@ -453,7 +455,7 @@ En Portoviejo, el docente de Lengua del Colegio Nacional Bernardo Valdivieso exp
 Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Lengua y cultura
@@ -477,7 +479,7 @@ Durante una conversación informal en un mercado de Machala, María dice: '¡Ese
 'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Lengua y cultura

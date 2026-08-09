@@ -1,5 +1,7 @@
 ---
 id: "EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "ecuador"
 grado: 11
 asignatura: "lengua"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Lengua y Literatura | BGU Ministerio de Educacion Ecuador / SENESCYT**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Lectura
@@ -45,7 +47,7 @@ Lea el siguiente texto: 'La noche caía sobre Loja y Santiago caminaba de prisa,
 Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Lectura
@@ -69,7 +71,7 @@ Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje 
 La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lectura
@@ -93,7 +95,7 @@ Lea: 'Cuando Gabriela llegó a su local comercial en Ibarra, vio que el candado 
 El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Lectura
@@ -117,7 +119,7 @@ Considere: 'En Portoviejo, el aumento de nubes de color gris oscuro en el cielo 
 Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Lectura
@@ -141,7 +143,7 @@ Lea: 'A pesar de que el docente del Colegio Nacional Olmedo explicó el tema tre
 El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.
 
 ---
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Lectura
@@ -165,7 +167,7 @@ Lea el siguiente texto: 'La noche caía sobre Esmeraldas y Diana caminaba de pri
 Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Lectura
@@ -189,7 +191,7 @@ Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje 
 La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Lectura
@@ -213,7 +215,7 @@ Lea: 'Cuando Rafael llegó a su local comercial en Quito, vio que el candado de 
 El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Lectura
@@ -237,7 +239,7 @@ Considere: 'En Guayaquil, el aumento de nubes de color gris oscuro en el cielo a
 Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Lectura
@@ -261,7 +263,7 @@ Lea: 'A pesar de que el docente del Unidad Educativa Santo Domingo explicó el t
 El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Lectura
@@ -285,7 +287,7 @@ Lea el siguiente texto: 'La noche caía sobre Ambato y Ana caminaba de prisa, mi
 Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.
 
 ---
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Lectura
@@ -309,7 +311,7 @@ Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje 
 La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Lectura
@@ -333,7 +335,7 @@ Lea: 'Cuando Patricia llegó a su local comercial en Loja, vio que el candado de
 El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lectura
@@ -357,7 +359,7 @@ Considere: 'En Riobamba, el aumento de nubes de color gris oscuro en el cielo an
 Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Lectura
@@ -381,7 +383,7 @@ Lea: 'A pesar de que el docente del Colegio Nacional Olmedo explicó el tema tre
 El silencio y la timidez para contestar o preguntar demuestran que las dudas no han sido disipadas, lo que genera inhibición en el alumnado.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Lectura
@@ -405,7 +407,7 @@ Lea el siguiente texto: 'La noche caía sobre Portoviejo y José caminaba de pri
 Aunque el texto no dice la palabra 'miedo' o 'temor', los indicios (caminar de prisa, mirar de reojo las sombras, sujetar la mochila) permiten deducir de forma inferencial su nerviosismo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Lectura
@@ -429,7 +431,7 @@ Considere el fragmento: 'Desde que se implementó el nuevo sistema de reciclaje 
 La reducción de las visitas del camión de desechos comunes implica que la institución separa más materiales reciclables y genera menos basura residual.
 
 ---
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Lectura
@@ -453,7 +455,7 @@ Lea: 'Cuando Sebastián llegó a su local comercial en Esmeraldas, vio que el ca
 El candado roto y la estantería vacía son indicios claros que permiten inferir razonablemente la ocurrencia de un robo en el negocio.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Lectura
@@ -477,7 +479,7 @@ Considere: 'En Santo Domingo, el aumento de nubes de color gris oscuro en el cie
 Las nubes oscuras, la caída de presión y los vientos fuertes son indicios naturales clásicos que anuncian una tormenta inminente.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** EC-LEN-11-2026-W06-comprension-inferencial-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Lectura

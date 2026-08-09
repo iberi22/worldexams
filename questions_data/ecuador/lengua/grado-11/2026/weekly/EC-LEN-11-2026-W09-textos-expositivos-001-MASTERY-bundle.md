@@ -1,5 +1,7 @@
 ---
 id: "EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "ecuador"
 grado: 11
 asignatura: "lengua"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Lengua y Literatura | BGU Ministerio de Educacion Ecuador / SENESCYT**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Escritura
@@ -45,7 +47,7 @@ En el Unidad Educativa Santo Domingo de Portoviejo, Carlos redacta un informe ci
 El texto expositivo destaca por su carácter informativo y objetivo, evitando el uso de juicios de valor personales, figuras poéticas o llamados de atención emocionales.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Escritura
@@ -69,7 +71,7 @@ En Machala, un manual técnico de computadoras explica: 'Un procesador, también
 La definición de términos técnicos es un recurso expositivo esencial que aclara conceptos clave para el destinatario de la información.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Escritura
@@ -93,7 +95,7 @@ Andrés lee un folleto informativo de la salud pública de Esmeraldas sobre la d
 La conclusión en un texto expositivo recopila los puntos primordiales analizados y propone reflexiones, sugerencias o síntesis de utilidad.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Escritura
@@ -117,7 +119,7 @@ Durante una exposición en el Colegio Nacional Nueve de Octubre de Santo Domingo
 La ejemplificación permite aterrizar nociones teóricas generales en casos concretos de la realidad, mejorando la comprensión didáctica del tema.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Escritura
@@ -141,7 +143,7 @@ Analizando la estructura de una monografía académica sobre la dolarización en
 Las fuentes bibliográficas y referencias académicas fundamentan de forma objetiva la información provista, asegurando la honestidad intelectual y confiabilidad del escrito.
 
 ---
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Escritura
@@ -165,7 +167,7 @@ En el Colegio Nacional Olmedo de Guayaquil, Luis redacta un informe científico 
 El texto expositivo destaca por su carácter informativo y objetivo, evitando el uso de juicios de valor personales, figuras poéticas o llamados de atención emocionales.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Escritura
@@ -189,7 +191,7 @@ En Cuenca, un manual técnico de computadoras explica: 'Un procesador, también 
 La definición de términos técnicos es un recurso expositivo esencial que aclara conceptos clave para el destinatario de la información.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Escritura
@@ -213,7 +215,7 @@ Fernando lee un folleto informativo de la salud pública de Ambato sobre la diab
 La conclusión en un texto expositivo recopila los puntos primordiales analizados y propone reflexiones, sugerencias o síntesis de utilidad.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Escritura
@@ -237,7 +239,7 @@ Durante una exposición en el Colegio Benigno Malo de Manta, María utiliza la f
 La ejemplificación permite aterrizar nociones teóricas generales en casos concretos de la realidad, mejorando la comprensión didáctica del tema.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Escritura
@@ -261,7 +263,7 @@ Analizando la estructura de una monografía académica sobre la dolarización en
 Las fuentes bibliográficas y referencias académicas fundamentan de forma objetiva la información provista, asegurando la honestidad intelectual y confiabilidad del escrito.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Escritura
@@ -285,7 +287,7 @@ En el Unidad Educativa Santo Domingo de Riobamba, Mateo redacta un informe cient
 El texto expositivo destaca por su carácter informativo y objetivo, evitando el uso de juicios de valor personales, figuras poéticas o llamados de atención emocionales.
 
 ---
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Escritura
@@ -309,7 +311,7 @@ En Ibarra, un manual técnico de computadoras explica: 'Un procesador, también 
 La definición de términos técnicos es un recurso expositivo esencial que aclara conceptos clave para el destinatario de la información.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Escritura
@@ -333,7 +335,7 @@ Valentina lee un folleto informativo de la salud pública de Portoviejo sobre la
 La conclusión en un texto expositivo recopila los puntos primordiales analizados y propone reflexiones, sugerencias o síntesis de utilidad.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Escritura
@@ -357,7 +359,7 @@ Durante una exposición en el Colegio Nacional Nueve de Octubre de Machala, Cami
 La ejemplificación permite aterrizar nociones teóricas generales en casos concretos de la realidad, mejorando la comprensión didáctica del tema.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Escritura
@@ -381,7 +383,7 @@ Analizando la estructura de una monografía académica sobre la dolarización en
 Las fuentes bibliográficas y referencias académicas fundamentan de forma objetiva la información provista, asegurando la honestidad intelectual y confiabilidad del escrito.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Escritura
@@ -405,7 +407,7 @@ En el Colegio Nacional Olmedo de Santo Domingo, Alejandro redacta un informe cie
 El texto expositivo destaca por su carácter informativo y objetivo, evitando el uso de juicios de valor personales, figuras poéticas o llamados de atención emocionales.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Escritura
@@ -429,7 +431,7 @@ En Quito, un manual técnico de computadoras explica: 'Un procesador, también c
 La definición de términos técnicos es un recurso expositivo esencial que aclara conceptos clave para el destinatario de la información.
 
 ---
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Escritura
@@ -453,7 +455,7 @@ David lee un folleto informativo de la salud pública de Guayaquil sobre la diab
 La conclusión en un texto expositivo recopila los puntos primordiales analizados y propone reflexiones, sugerencias o síntesis de utilidad.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Escritura
@@ -477,7 +479,7 @@ Durante una exposición en el Colegio Benigno Malo de Cuenca, Elena utiliza la f
 La ejemplificación permite aterrizar nociones teóricas generales en casos concretos de la realidad, mejorando la comprensión didáctica del tema.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** EC-LEN-11-2026-W09-textos-expositivos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Escritura

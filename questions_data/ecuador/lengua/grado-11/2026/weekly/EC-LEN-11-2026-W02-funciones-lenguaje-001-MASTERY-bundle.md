@@ -1,5 +1,7 @@
 ---
 id: "EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "ecuador"
 grado: 11
 asignatura: "lengua"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Lengua y Literatura | BGU Ministerio de Educacion Ecuador / SENESCYT**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comunicación oral
@@ -45,7 +47,7 @@ En un debate estudiantil en el Colegio Nacional Bolívar de Guayaquil, Patricia 
 La función referencial se enfoca en el referente y el contexto, transmitiendo datos objetivos de la realidad de manera neutral.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comunicación oral
@@ -69,7 +71,7 @@ Fernando expresa con entusiasmo a sus compañeros en la playa de Cuenca: '¡Qué
 La función emotiva o expresiva se enfoca en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o juicios de valor.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comunicación oral
@@ -93,7 +95,7 @@ Un afiche de la Cruz Roja en Ambato dice textualmente: '¡Donar sangre salva vid
 La función apelativa o conativa está orientada al receptor, buscando persuadirlo, convencerlo o exhortarlo a actuar de cierta manera.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comunicación oral
@@ -117,7 +119,7 @@ En una llamada telefónica entre José y Santiago en Manta, se produce un silenc
 La función fática se centra en el canal físico-técnico, sirviendo para comprobar que la línea de comunicación sigue abierta y activa.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comunicación oral
@@ -141,7 +143,7 @@ En el pizarrón de la clase de Lengua en Colegio Nacional Nueve de Octubre de Lo
 La función metalingüística ocurre cuando el lenguaje se utiliza para hablar del propio lenguaje, aclarando el funcionamiento del código.
 
 ---
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comunicación oral
@@ -165,7 +167,7 @@ En un debate estudiantil en el Colegio Nacional Maldonado de Riobamba, Sebastiá
 La función referencial se enfoca en el referente y el contexto, transmitiendo datos objetivos de la realidad de manera neutral.
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -189,7 +191,7 @@ Valentina expresa con entusiasmo a sus compañeros en la playa de Ibarra: '¡Qu�
 La función emotiva o expresiva se enfoca en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o juicios de valor.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -213,7 +215,7 @@ Un afiche de la Cruz Roja en Portoviejo dice textualmente: '¡Donar sangre salva
 La función apelativa o conativa está orientada al receptor, buscando persuadirlo, convencerlo o exhortarlo a actuar de cierta manera.
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -237,7 +239,7 @@ En una llamada telefónica entre Santiago y Diana en Machala, se produce un sile
 La función fática se centra en el canal físico-técnico, sirviendo para comprobar que la línea de comunicación sigue abierta y activa.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -261,7 +263,7 @@ En el pizarrón de la clase de Lengua en Colegio Benigno Malo de Esmeraldas, el 
 La función metalingüística ocurre cuando el lenguaje se utiliza para hablar del propio lenguaje, aclarando el funcionamiento del código.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -285,7 +287,7 @@ En un debate estudiantil en el Colegio Nacional Bolívar de Santo Domingo, Gabri
 La función referencial se enfoca en el referente y el contexto, transmitiendo datos objetivos de la realidad de manera neutral.
 
 ---
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comunicación oral
@@ -309,7 +311,7 @@ David expresa con entusiasmo a sus compañeros en la playa de Quito: '¡Qué her
 La función emotiva o expresiva se enfoca en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o juicios de valor.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comunicación oral
@@ -333,7 +335,7 @@ Un afiche de la Cruz Roja en Guayaquil dice textualmente: '¡Donar sangre salva 
 La función apelativa o conativa está orientada al receptor, buscando persuadirlo, convencerlo o exhortarlo a actuar de cierta manera.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comunicación oral
@@ -357,7 +359,7 @@ En una llamada telefónica entre Diana y Ana en Cuenca, se produce un silencio y
 La función fática se centra en el canal físico-técnico, sirviendo para comprobar que la línea de comunicación sigue abierta y activa.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comunicación oral
@@ -381,7 +383,7 @@ En el pizarrón de la clase de Lengua en Colegio Nacional Nueve de Octubre de Am
 La función metalingüística ocurre cuando el lenguaje se utiliza para hablar del propio lenguaje, aclarando el funcionamiento del código.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comunicación oral
@@ -405,7 +407,7 @@ En un debate estudiantil en el Colegio Nacional Maldonado de Manta, Rafael argum
 La función referencial se enfoca en el referente y el contexto, transmitiendo datos objetivos de la realidad de manera neutral.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comunicación oral
@@ -429,7 +431,7 @@ Andrés expresa con entusiasmo a sus compañeros en la playa de Loja: '¡Qué he
 La función emotiva o expresiva se enfoca en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o juicios de valor.
 
 ---
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comunicación oral
@@ -453,7 +455,7 @@ Un afiche de la Cruz Roja en Riobamba dice textualmente: '¡Donar sangre salva v
 La función apelativa o conativa está orientada al receptor, buscando persuadirlo, convencerlo o exhortarlo a actuar de cierta manera.
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comunicación oral
@@ -477,7 +479,7 @@ En una llamada telefónica entre Ana y José en Ibarra, se produce un silencio y
 La función fática se centra en el canal físico-técnico, sirviendo para comprobar que la línea de comunicación sigue abierta y activa.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** EC-LEN-11-2026-W02-funciones-lenguaje-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comunicación oral

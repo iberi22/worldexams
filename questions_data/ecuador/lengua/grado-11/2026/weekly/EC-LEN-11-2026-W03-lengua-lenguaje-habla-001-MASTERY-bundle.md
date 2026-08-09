@@ -1,5 +1,7 @@
 ---
 id: "EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "ecuador"
 grado: 11
 asignatura: "lengua"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 **20 preguntas | Lengua y Literatura | BGU Ministerio de Educacion Ecuador / SENESCYT**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Lengua y cultura
@@ -45,7 +47,7 @@ En la clase de Lengua y Literatura del Colegio Nacional Bernardo Valdivieso de C
 La lengua es un sistema de signos lingüísticos, social y abstracto que comparte una comunidad de hablantes, a diferencia del lenguaje (capacidad universal) y el habla (realización individual física).
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Lengua y cultura
@@ -69,7 +71,7 @@ Analizando la evolución humana en Ambato, el profesor de Lengua destaca que la 
 El lenguaje es la capacidad innata y universal de los seres humanos para expresar pensamientos y sentimientos por medio de signos.
 
 ---
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lengua y cultura
@@ -93,7 +95,7 @@ Durante una exposición grupal en Manta, Mateo comete un pequeño tropiezo de pr
 El tropiezo individual de pronunciación es un hecho del habla (uso concreto y mutable del sistema), mientras que la norma gramatical estándar pertenece a la lengua (sistema social estático).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Lengua y cultura
@@ -117,7 +119,7 @@ En una comunidad ancestral cerca de Loja, los habitantes utilizan el kichwa de m
 Tanto el kichwa como el castellano son lenguas plenamente constituidas, es decir, sistemas lingüísticos sociales con sus propios códigos, fonología y gramática.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Lengua y cultura
@@ -141,7 +143,7 @@ Analizando las características del circuito lingüístico en el Colegio Naciona
 El habla es efímera porque consiste en una realización física momentánea; las vibraciones sonoras de la voz se disipan inmediatamente después de ser emitidas.
 
 ---
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Lengua y cultura
@@ -165,7 +167,7 @@ En la clase de Lengua y Literatura del Colegio Nacional Vicente Rocafuerte de Ib
 La lengua es un sistema de signos lingüísticos, social y abstracto que comparte una comunidad de hablantes, a diferencia del lenguaje (capacidad universal) y el habla (realización individual física).
 
 ---
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -189,7 +191,7 @@ Analizando la evolución humana en Portoviejo, el profesor de Lengua destaca que
 El lenguaje es la capacidad innata y universal de los seres humanos para expresar pensamientos y sentimientos por medio de signos.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -213,7 +215,7 @@ Durante una exposición grupal en Machala, Alejandro comete un pequeño tropiezo
 El tropiezo individual de pronunciación es un hecho del habla (uso concreto y mutable del sistema), mientras que la norma gramatical estándar pertenece a la lengua (sistema social estático).
 
 ---
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -237,7 +239,7 @@ En una comunidad ancestral cerca de Esmeraldas, los habitantes utilizan el kichw
 Tanto el kichwa como el castellano son lenguas plenamente constituidas, es decir, sistemas lingüísticos sociales con sus propios códigos, fonología y gramática.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -261,7 +263,7 @@ Analizando las características del circuito lingüístico en el Colegio Naciona
 El habla es efímera porque consiste en una realización física momentánea; las vibraciones sonoras de la voz se disipan inmediatamente después de ser emitidas.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -285,7 +287,7 @@ En la clase de Lengua y Literatura del Colegio Nacional Bernardo Valdivieso de Q
 La lengua es un sistema de signos lingüísticos, social y abstracto que comparte una comunidad de hablantes, a diferencia del lenguaje (capacidad universal) y el habla (realización individual física).
 
 ---
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Lengua y cultura
@@ -309,7 +311,7 @@ Analizando la evolución humana en Guayaquil, el profesor de Lengua destaca que 
 El lenguaje es la capacidad innata y universal de los seres humanos para expresar pensamientos y sentimientos por medio de signos.
 
 ---
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Lengua y cultura
@@ -333,7 +335,7 @@ Durante una exposición grupal en Cuenca, Carlos comete un pequeño tropiezo de 
 El tropiezo individual de pronunciación es un hecho del habla (uso concreto y mutable del sistema), mientras que la norma gramatical estándar pertenece a la lengua (sistema social estático).
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lengua y cultura
@@ -357,7 +359,7 @@ En una comunidad ancestral cerca de Ambato, los habitantes utilizan el kichwa de
 Tanto el kichwa como el castellano son lenguas plenamente constituidas, es decir, sistemas lingüísticos sociales con sus propios códigos, fonología y gramática.
 
 ---
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Lengua y cultura
@@ -381,7 +383,7 @@ Analizando las características del circuito lingüístico en el Colegio Naciona
 El habla es efímera porque consiste en una realización física momentánea; las vibraciones sonoras de la voz se disipan inmediatamente después de ser emitidas.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Lengua y cultura
@@ -405,7 +407,7 @@ En la clase de Lengua y Literatura del Colegio Nacional Vicente Rocafuerte de Lo
 La lengua es un sistema de signos lingüísticos, social y abstracto que comparte una comunidad de hablantes, a diferencia del lenguaje (capacidad universal) y el habla (realización individual física).
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Lengua y cultura
@@ -429,7 +431,7 @@ Analizando la evolución humana en Riobamba, el profesor de Lengua destaca que l
 El lenguaje es la capacidad innata y universal de los seres humanos para expresar pensamientos y sentimientos por medio de signos.
 
 ---
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Lengua y cultura
@@ -453,7 +455,7 @@ Durante una exposición grupal en Ibarra, Luis comete un pequeño tropiezo de pr
 El tropiezo individual de pronunciación es un hecho del habla (uso concreto y mutable del sistema), mientras que la norma gramatical estándar pertenece a la lengua (sistema social estático).
 
 ---
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Lengua y cultura
@@ -477,7 +479,7 @@ En una comunidad ancestral cerca de Portoviejo, los habitantes utilizan el kichw
 Tanto el kichwa como el castellano son lenguas plenamente constituidas, es decir, sistemas lingüísticos sociales con sus propios códigos, fonología y gramática.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** EC-LEN-11-2026-W03-lengua-lenguaje-habla-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Lengua y cultura
