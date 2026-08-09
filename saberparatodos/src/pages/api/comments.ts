@@ -14,10 +14,18 @@ const RATE_LIMIT_MAX = 5;
 const RATE_LIMIT_WINDOW_MS = 60 * 1000; // 1 minute
 
 function getClientIp(request: Request): string {
+  // Trust Cloudflare's connecting IP first to prevent X-Forwarded-For spoofing
+  const cfIp = request.headers.get('cf-connecting-ip');
+  if (cfIp) {
+    return cfIp.trim();
+  }
+
   const forwarded = request.headers.get('x-forwarded-for');
   if (forwarded) {
+    // Note: The first IP in X-Forwarded-For can be spoofed by the client.
     return forwarded.split(',')[0].trim();
   }
+
   const realIp = request.headers.get('x-real-ip');
   if (realIp) {
     return realIp;
