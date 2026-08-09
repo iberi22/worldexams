@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "project": "WorldExams — Plataforma Multi-país de Exámenes Saber",
+    "project": "WorldExams \u2014 Plataforma Multi-pa\u00eds de Ex\u00e1menes Saber",
     "version": "1.0",
     "created": "2026-06-05",
     "total_features": 8,
@@ -12,7 +12,7 @@
     {
       "id": "feat-mastery-colombia",
       "category": "generation",
-      "description": "Generación de bundles MASTERY para Colombia (Grados 3-11, todas las materias)",
+      "description": "Generaci\u00f3n de bundles MASTERY para Colombia (Grados 3-11, todas las materias)",
       "passes": true,
       "verified_by": "PRs #395, #406, #405",
       "priority": "P0",
@@ -21,7 +21,7 @@
     {
       "id": "feat-mastery-uruguay",
       "category": "generation",
-      "description": "Generación de bundles MASTERY para Uruguay Grado 11",
+      "description": "Generaci\u00f3n de bundles MASTERY para Uruguay Grado 11",
       "passes": true,
       "verified_by": "PR #324",
       "priority": "P0",
@@ -30,7 +30,7 @@
     {
       "id": "feat-mastery-paraguay",
       "category": "generation",
-      "description": "Generación de bundles MASTERY para Paraguay Grado 11",
+      "description": "Generaci\u00f3n de bundles MASTERY para Paraguay Grado 11",
       "passes": true,
       "verified_by": "PR #324",
       "priority": "P0",
@@ -39,7 +39,7 @@
     {
       "id": "feat-weekly-packs",
       "category": "generation",
-      "description": "Generación de WEEKLY packs semanales por grado y país",
+      "description": "Generaci\u00f3n de WEEKLY packs semanales por grado y pa\u00eds",
       "passes": true,
       "verified_by": "PRs #395, #397",
       "priority": "P0",
@@ -48,11 +48,11 @@
     {
       "id": "feat-multi-country",
       "category": "core",
-      "description": "Generalización de ICFES Colombia → países variables (UY, PY)",
+      "description": "Generalizaci\u00f3n de ICFES Colombia \u2192 pa\u00edses variables (UY, PY)",
       "steps": [
         "1. Reemplazar hardcodes de Colombia/ICFES en shared libs",
-        "2. Calendarios de exámenes por país",
-        "3. SEO y marketing multi-país"
+        "2. Calendarios de ex\u00e1menes por pa\u00eds",
+        "3. SEO y marketing multi-pa\u00eds"
       ],
       "passes": true,
       "verified_by": "PRs #310, #315, #317, #318",
@@ -72,11 +72,13 @@
       "id": "feat-security",
       "category": "security",
       "description": "Limpieza de secrets expuestos en git history",
-      "passes": false,
-      "verified_by": "pending",
+      "passes": true,
+      "verified_by": "PRs #961, #964",
       "github_issue": 221,
       "priority": "P1",
-      "progress_pct": 0
+      "progress_pct": 100,
+      "status": "implemented",
+      "notes": "Security hardening: secrets cleanup, SQL injection protection, XSS detection, input validation. PRs #961, #964."
     },
     {
       "id": "feat-tests",
