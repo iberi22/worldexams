@@ -11,6 +11,7 @@
     "tests"
   ],
   "scripts": {
+    "test": "bash scripts/validate-secrets.sh",
     "prepare": "git config core.hooksPath .husky",
     "husky:install": "git config core.hooksPath .husky",
     "guard:staged": "node scripts/husky-guard.mjs --staged",
