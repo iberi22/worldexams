@@ -1,9 +1,3 @@
-## 2026-07-28 - Memoization for synchronous KaTeX rendering in Svelte
-**Learning:** KaTeX rendering is a synchronous and CPU-intensive operation that can block the main thread if repeated frequently. In a Svelte app, rendering math equations across multiple instances of a component like `MathRenderer.svelte` can cause severe performance bottlenecks, especially if equations are re-rendered during list updates or navigation.
-**Action:** When performing heavy synchronous work inside a component's render flow (like Markdown/LaTeX parsing), utilize Svelte's `<script context="module">` to create a bounded module-level cache (e.g. Map). This shares the memoized results across all component instances rather than recalculating them per-instance.
-## 2026-08-01 - O(N*M) lookup elimination in Svelte with derived Maps
-**Learning:** Performing a `.find()` on an array inside of a loop (e.g. searching through past exam details for a question) runs on every render/modal open and leads to O(N*M) time complexity. This is especially problematic with large history datasets in Svelte, leading to UI stuttering and unresponsiveness.
-**Action:** Replace nested array `.find()` calls with an O(1) `$derived` Map lookup. Constructing the Map once with Svelte's `$derived` (or `$derived.by`) caches the index and enables instant retrieval on subsequent lookups.
-## 2026-08-02 - Debouncing search inputs in Svelte
-**Learning:** Adding debouncing logic inside Svelte's reactive `$: { ... }` blocks can cause infinite update loops if the block assigns to a variable that it also reads from directly or indirectly (like `searchTimeout`).
-**Action:** Always move debounce `setTimeout` logic into a separate `function` and call that function from the reactive block to cleanly isolate dependencies.
+## 2026-08-09 - Optimize Multiple Derived Sorting Passes
+**Learning:** Svelte 5 `$derived` blocks that map or sort the exact same underlying arrays can lead to duplicate, redundant reactive cycles and N log N execution overhead in performance-critical views.
+**Action:** Use `$derived.by()` to combine multiple interdependent metrics into a single reactive calculation, calculating intermediate arrays and sorting them only once, then slicing out the specific reactive views (like strengths and weaknesses).
