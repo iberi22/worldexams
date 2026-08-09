@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "sociales",
+    "country": "py",
+    "pack_id": "py-week-8-grade-11-subject-sociales",
+    "generated_at": "2026-08-09T11:31:05.929Z"
+  },
+  "questions": [
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "¿Qué cruento conflicto bélico sudamericano libraron el Paraguay y Bolivia entre 1932 y 1935 por la soberanía de una vasta región semiárida?",
+      "context": "El estudiante Santiago del Colegio Nacional de la Capital estudia la contienda bélica que enfrentó a Paraguay con Bolivia en el siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Guerra del Chaco",
+          "is_correct": true,
+          "feedback": "Correcto. La Guerra del Chaco (1932-1935) fue librada por Paraguay y Bolivia para definir los límites soberanos del Chaco Boreal."
+        },
+        {
+          "letter": "B",
+          "text": "La Guerra de la Triple Alianza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sangriento conflicto enfrentó al Paraguay contra Argentina, Brasil y Uruguay en el siglo XIX (1864-1870)."
+        },
+        {
+          "letter": "C",
+          "text": "La Guerra del Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conflicto que enfrentó a Chile contra la alianza de Perú y Bolivia a fines del siglo XIX por las regiones costeras de salitre."
+        },
+        {
+          "letter": "D",
+          "text": "La Guerra del Acre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Combate militar fronterizo librado entre Bolivia y el Brasil por el rico territorio gomero amazónico de la región del Acre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Guerra del Chaco constituyó la mayor contienda armada sudamericana del siglo XX, movilizando a decenas de miles de hombres a un terreno inhóspito.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "¿Qué ilustre conductor militar paraguayo comandó de forma brillante las fuerzas nacionales en el Chaco y fue ascendido póstumamente al rango de Mariscal?",
+      "context": "Durante un viaje cívico-histórico al departamento de Boquerón, la estudiante Liz visita los museos de los antiguos fortines de guerra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El general José Félix Estigarribia",
+          "is_correct": true,
+          "feedback": "Correcto. El Gral. José Félix Estigarribia dirigió con lucidez táctica y operativa la defensa del Chaco, planificando la ofensiva que acorraló al ejército boliviano."
+        },
+        {
+          "letter": "B",
+          "text": "El mariscal Francisco Solano López",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solano López comandó las fuerzas nacionales paraguayas en el siglo XIX durante la Guerra de la Triple Alianza (1864-1870)."
+        },
+        {
+          "letter": "C",
+          "text": "El general Bernardino Caballero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Caballero fue prócer militar de la Triple Alianza y líder reconstructor conservador decimonónico paraguayo de posguerra."
+        },
+        {
+          "letter": "D",
+          "text": "El coronel Rafael Franco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rafael Franco fue un destacado jefe militar del Chaco y líder de la Revolución Febrerista del siglo XX (1936), pero no fue el comandante supremo de guerra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "José Félix Estigarribia plasmó una brillante estrategia de guerra de movimientos adaptada a la geografía chaqueña, asegurando la victoria paraguaya.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "¿Qué causa de orden económico internacional, ampliamente discutida por la prensa de la época, motivó la injerencia de corporaciones extranjeras en la Guerra del Chaco?",
+      "context": "El estudiante Ramón analiza en San Lorenzo el polémico rol de las compañías petroleras extranjeras antes del estallido bélico chaqueño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presunta existencia de ricos yacimientos de petróleo en el subsuelo chaqueño, con el consiguiente enfrentamiento de concesiones de la Standard Oil (apoyando a Bolivia) y la Royal Dutch Shell (asociada al Paraguay)",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque la causa real fue limítrofe y territorial, el conflicto estuvo azuzado por el interés de corporaciones petroleras anglo-estadounidenses de controlar potenciales pozos de hidrocarburos."
+        },
+        {
+          "letter": "B",
+          "text": "La compra de la totalidad de las misiones jesuíticas por la corona británica de Londres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las misiones jesuíticas ya pertenecían al patrimonio histórico nacional paraguayo, sin transacciones madereras inglesas."
+        },
+        {
+          "letter": "C",
+          "text": "La donación gratuita de toda la llanura del Chaco a los reyes de Portugal a cambio de buques a vapor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un completo anacronismo e inexactitud jurídica ajena al contexto geopolítico sudamericano del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de circular empleando tractores en los campos de soja de Itapúa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mecanización agraria de la soja de Itapúa es un fenómeno socioeconómico muy posterior de la segunda mitad del siglo XX."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La especulación en torno a la riqueza petrolera del Chaco atrajo la atención de la opinión pública mundial, catalogándose como la 'Guerra del Petróleo'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tratado diplomático internacional definitivo de paz, límites y arbitraje selló la soberanía paraguaya sobre el Chaco Boreal el 21 de julio de 1938?",
+      "context": "Durante una clase sobre historia diplomática en Luque, el estudiante Jorge analiza la paz formal firmada en Buenos Aires en el año 1938.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Tratado de Paz, Amistad y Límites de 1938 firmado en Buenos Aires",
+          "is_correct": true,
+          "feedback": "Correcto. Este tratado resolvió de forma pacífica y definitiva los límites chaqueños, adjudicando al Paraguay el 75% del territorio en litigio defendido por las armas."
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado Secreto de la Triple Alianza de 1865",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tratado secreto de 1865 dividía al Paraguay entre Argentina y Brasil en el siglo XIX, ajeno a diferendos del Chaco de 1938."
+        },
+        {
+          "letter": "C",
+          "text": "La Ley de Administración Pública de 1844",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el marco constitucional prebélico promulgado bajo Carlos Antonio López, sin relación con litigios fronterizos bolivianos."
+        },
+        {
+          "letter": "D",
+          "text": "La mediación papal de Juan Pablo II de 1978",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resolvió diferendos australes territoriales entre las repúblicas de Argentina y Chile, ajena a la paz del Chaco paraguaya-boliviana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de 1838 reconoció los límites defendidos por las armas paraguayas, garantizando el acceso soberano nacional al río Paraguay.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Aparte del fuego enemigo, ¿cuál fue el factor geográfico y biológico hostil más temido y letal que causó millares de bajas y determinó las tácticas de combate en la llanura del Chaco Seco?",
+      "context": "En Pilar, la estudiante María analiza el hostil escenario geográfico y ambiental donde se batieron los soldados en el Chaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La extrema escasez de agua dulce y las temperaturas sofocantes de calor abrasador, que causaban severa deshidratación colectiva e insolación en las tropas",
+          "is_correct": true,
+          "feedback": "Correcto. El Chaco Seco (denominado 'el infierno verde') carecía de agua potable superficial. Encontrar o defender pozos de agua y tajamares resultó decisivo y costó millares de vidas por sed."
+        },
+        {
+          "letter": "B",
+          "text": "La invasión de icebergs de hielo móviles que congelaban las trincheras de Boquerón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chaco es cálido, semiárido y aluvial, donde jamás ocurren nevadas o congelamientos glaciales árticos."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de volcanes activos que expulsaban ceniza ácida sobre los fortines",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subsuelo chaqueño es estable y llano, carente de manifestaciones volcánicas de ningún tipo."
+        },
+        {
+          "letter": "D",
+          "text": "El desborde destructivo del océano Atlántico sobre el departamento de Presidente Hayes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay es enteramente mediterráneo, incomunicado con el océano Atlántico por vía costera marina directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escasez de agua y el calor del Chaco obligaron a una compleja logística de camiones cisterna de suministro y al dominio de técnicas de supervivencia.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "¿Qué sabio programa de defensa y equipamiento militar y naval diseñó el ministro de Guerra Manuel Gondra y ejecutó el presidente colorado/liberal eligiendo de forma soberana adquirir los cañoneros 'Paraguay' y 'Humaitá'?",
+      "context": "Analizando la preparación bélica nacional de preguerra, la estudiante Liz de Pilar expone sobre el plan de equipamiento defensivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La adquisición de cañoneros italianos modernos de gran calado ('Paraguay' y 'Humaitá') para asegurar el control absoluto del río homónimo contra incursiones bolivianas",
+          "is_correct": true,
+          "feedback": "Correcto. Estos cañoneros blindados modernos italianos, montados con artillería de punta, aseguraron el transporte rápido y seguro de miles de soldados paraguayos al Chaco de forma soberana."
+        },
+        {
+          "letter": "B",
+          "text": "La venta de la totalidad de los puertos del este paraguayo a la corona inglesa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay resguardó firmemente sus aduanas e ingresos fluviales mercantes para financiar de forma autónoma su defensa chaqueña."
+        },
+        {
+          "letter": "C",
+          "text": "La compra secreta de reactores nucleares de fabricación japonesa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un anacronismo delirante e inexistente; la tecnología bélica del Chaco dependía de armas convencionales y de transporte naval de vapor/diésel."
+        },
+        {
+          "letter": "D",
+          "text": "La disolución del ejército para encomendar la defensa a misioneros jesuitas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las misiones históricas jesuitas pertenecían a siglos anteriores; el país movilizó a un disciplined ejército nacional profesional civil bilingüe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cañoneros blindados 'Paraguay' y 'Humaitá' constituyeron el escudo estratégico paraguayo que bloqueó el acceso de Bolivia al río Paraguay.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál fue la trascendencia militar y psicológica del combate y captura victoriosa del fortín boliviano de Boquerón el 29 de septiembre de 1932?",
+      "context": "En la ciudad de Caacupé, se analiza el cerco victorioso de Boquerón librado en septiembre de 1932 como bautismo de fuego de las fuerzas nacionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constituyó la primera gran ofensiva paraguaya victoriosa, infundiendo un inmenso fervor y confianza en la capacidad bélica del ejército nacional para vencer a Bolivia",
+          "is_correct": true,
+          "feedback": "Correcto. El triunfo del asedio de Boquerón (29 de septiembre) demostró la cohesión y valentía paraguaya, quebrando la idea de una supuesta superioridad militar boliviana en el Chaco."
+        },
+        {
+          "letter": "B",
+          "text": "Obligó a la junta de La Paz a ceder pacíficamente la totalidad de las minas de plata andinas bolivianas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La guerra continuó de forma encarnizada por tres años más a través de todo el territorio semiárido de la llanura chaqueña continental."
+        },
+        {
+          "letter": "C",
+          "text": "Culminó con la rendición absoluta del ejército paraguayo y la anexión del Chaco por Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, fue un gran e histórico triunfo defensivo y táctico de las armas de la República del Paraguay dirigidas por el Gral. Estigarribia."
+        },
+        {
+          "letter": "D",
+          "text": "Provocó que el papa decretara de forma obligatoria el fin de la fe católica en el Cono Sur",
+          "is_correct": false,
+          "feedback": "Incorrecto. La espiritualidad católica y capellanes militares desempeñaron un papel de consuelo y asistencia humanitaria primordial a las tropas en campaña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La captura de Boquerón se conmemora como fiesta patriótica nacional, celebrando la destreza y heroísmo de los soldados en la contienda chaqueña.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el idioma guaraní representó una ventaja táctica y de seguridad de comunicaciones insustituible para el ejército paraguayo en el Chaco?",
+      "context": "Durante un foro histórico en Villarrica, el profesor Ramón describe el papel unificador del guaraní en los frentes de combate del Chaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque servía como código de transmisiones telefónicas y de radio que las fuerzas bolivianas eran incapaces de descifrar o comprender, facilitando directivas rápidas y seguras",
+          "is_correct": true,
+          "feedback": "Correcto. El bilingüismo paraguayo actuó como un código criptográfico de comunicaciones naturales espontáneo sumamente eficaz en todo el frente de operaciones de guerra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque era una lengua impuesta de forma violenta a los soldados paraguayos por asesores militares británicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El guaraní era la lengua materna natural de la inmensa mayoría mestiza de campesinos y oficiales paraguayos de campaña."
+        },
+        {
+          "letter": "C",
+          "text": "Porque consistía exclusivamente en caracteres impresos chinos indescifrables",
+          "is_correct": false,
+          "feedback": "Incorrecto. El guaraní paraguayo es un idioma americano originario aglutinante y nasal, no relacionado con escrituras caligráficas chinas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque prohibía de forma tajante el uso oral del idioma castellano dentro de las oficinas del Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas lenguas nacionales coexistieron y se articularon legalmente en los despachos presidenciales y comunicaciones formales escritas del ejército."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso del guaraní en las comunicaciones de radiotelefonía de trinchera paraguaya desbarató el espionaje de transmisiones del ejército de Bolivia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "¿Qué fecha de conmemoración patria cívica celebra anualmente la firma del Protocolo de Paz en Buenos Aires que puso fin a las hostilidades chaqueñas en 1935?",
+      "context": "El estudiante Joaquín de Coronel Oviedo investiga los diferendos limítrofes y la mediación del presidente argentino Justo en la firma de la paz chaqueña en 1935.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 12 de junio (Día de la Paz del Chaco)",
+          "is_correct": true,
+          "feedback": "Correcto. El 12 de junio de 1935 se firmó el Protocolo de Paz que dispuso el cese definitivo del fuego de las armas en el Chaco Boreal, conmemorándose anualmente."
+        },
+        {
+          "letter": "B",
+          "text": "El 15 de mayo (Día de la Independencia de España)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la fecha nacional patria que celebra la emancipación revolucionaria criolla contra la dominación española colonial de 1811."
+        },
+        {
+          "letter": "C",
+          "text": "El 1 de marzo (Día de los Héroes de la Triple Alianza)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recuerda el fallecimiento de Francisco Solano López en Cerro Corá (1870), clausurando la Guerra de la Triple Alianza decimonónica."
+        },
+        {
+          "letter": "D",
+          "text": "El 29 de septiembre (Día de la victoria de Curupayty)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 29 de septiembre celebra la victoria de Boquerón (1932) en el Chaco Seco, mientras que Curupayty se libró el 22 de septiembre de 1866."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cese del fuego del 12 de junio de 1935 fue recibido con inmensas muestras de júbilo y llanto compartido en las calles de Asunción y de La Paz.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "Aparte del tifus, ¿cuál de las siguientes enfermedades infecciosas y parasitarias endémicas, causada por el consumo de aguas contaminadas en tajamares, causó estragos en la salud física de los combatientes?",
+      "context": "En un examen de Historia en San Lorenzo, se discuten los colosales desafíos sanitarios sufridos por los soldados en el Chaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La disentería y afecciones gastrointestinales severas",
+          "is_correct": true,
+          "feedback": "Correcto. Beber aguas estancadas e insalubres de tajamares compartidos desató epidemias de disentería amebiana que mermaron la salud del ejército."
+        },
+        {
+          "letter": "B",
+          "text": "La viruela ártica de los glaciares polares de la Patagonia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La viruela patagónica no existe de forma biológica, y el clima chaqueño es árido aluvial y cálido en extremo."
+        },
+        {
+          "letter": "C",
+          "text": "El congelamiento de la laringe por las corrientes árticas nocturnas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurren descensos de temperatura nocturna en el Chaco, pero no congelamientos glaciales de laringe de tipo ártico."
+        },
+        {
+          "letter": "D",
+          "text": "La intoxicación por polvo radiactivo emanado de reactores nucleares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planteamiento anacrónico e imaginario ajeno a las realidades bélicas de armas convencionales de la contienda de 1932."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deshidratación forzó a los soldados a consumir lodo de tajamares filtrado de forma precaria, provocando brotes epidémicos de disentería.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Desde el punto de vista logístico y operativo, ¿cuál fue el aporte primordial de los cañoneros paraguayos 'Paraguay' y 'Humaitá' diseñados en preguerra?",
+      "context": "En la mesa de debates de la Universidad Nacional de Asunción, un docente analiza críticamente el papel de la marina de guerra fluvial durante el conflicto del Chaco Boreal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sirvieron como transportes fluviales armados blindados de alta velocidad y gran capacidad, movilizando a millares de soldados y pertrechos de Asunción a Puerto Casado en tiempo récord",
+          "is_correct": true,
+          "feedback": "Correcto. Transportaron a la inmensa mayoría de la masa de soldados combatientes al Chaco de forma rápida, segura e inalcanzable para la aviación de Bolivia."
+        },
+        {
+          "letter": "B",
+          "text": "Lanzaron ataques de artillería de largo alcance sobre los puertos marítimos de Bolivia en las costas del océano Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia es enteramente mediterránea de forma geográfica y carecía de puertos en el Pacífico, y los cañoneros operaban en ríos continentales fluviales del Paraguay."
+        },
+        {
+          "letter": "C",
+          "text": "Fueron vendidos a consorcios petroleros de los Estados Unidos a mitad del combate para saldar deudas externas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Permanecieron al servicio exclusivo y soberano de la patria paraguaya durante todo el conflicto y la posguerra posterior."
+        },
+        {
+          "letter": "D",
+          "text": "Provocaron la evaporación física de todo el cauce del río Paraguay por el calor de sus calderas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planteamiento absurdo e insostenible físicamente ajeno a la valiosa y exitosa logística naval fluvial armada paraguaya."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cañoneros blindados aseguraron el puente logístico de transporte de Asunción a Puerto Casado, donde las tropas se internaban en tren al frente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "¿Qué denominación táctica recibe el movimiento militar envolvente, empleado exitosamente por Estigarribia en batallas como Campo Vía, consistente en cercar y asfixiar al ejército de Bolivia?",
+      "context": "La estudiante Valentina de Caacupé investiga la audaz e innovadora estrategia táctica del general José Félix Estigarribia en el Chaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La maniobra de cerco o guerra de movimientos (envolvente) de doble ala",
+          "is_correct": true,
+          "feedback": "Correcto. Estigarribia rehusó la rígida guerra de posiciones estáticas, prefiriendo la movilidad envolvente que cercaba fortines y divisiones bolivianas privándolas de agua."
+        },
+        {
+          "letter": "B",
+          "text": "La guerra de posiciones de trincheras al estilo de la Europa medieval feudal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estigarribia evitó estancarse en trincheras estáticas permanentes debido a la vasta y desierta llanura chaqueña continental dinámica."
+        },
+        {
+          "letter": "C",
+          "text": "La rendición armada voluntaria cediendo de forma pacífica las aduanas fluviales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay defendió con fiereza intransigente y tácticas audaces de primer orden mundial sus aduanas e integridad soberana."
+        },
+        {
+          "letter": "D",
+          "text": "La invasión de naves espaciales para lanzar rayos térmicos sobre el fortín Nanawa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planteamiento fantasioso y anacrónico ajeno al rigor y heroicidad de las milicias terrestres y aviadores paraguayos del Chaco."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La brillante guerra de movimientos paraguaya compensó la superioridad de recursos materiales y numéricos de Bolivia en el Chaco.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "A pesar de que el ejército paraguayo llegó victorioso hasta las estribaciones andinas en el sur de Bolivia, ¿qué factor diplomático y de arbitraje determinó que la paz de 1938 no adjudicara la totalidad de las tierras conquistadas?",
+      "context": "En Encarnación, los alumnos de bachillerato analizan el histórico Tratado de Paz de 1938 y el trazado de límites definitivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediación de las potencias neutrales (lideradas por Argentina y EE. UU.) que impusieron un trazado transaccional para evitar un resentimiento perpetuo de Bolivia y garantizar la estabilidad geopolítica del Cono Sur",
+          "is_correct": true,
+          "feedback": "Correcto. Los mediadores diplomáticos internacionales impusieron límites de transacción de arbitraje para balancear las demandas territoriales y asegurar una paz duradera regional."
+        },
+        {
+          "letter": "B",
+          "text": "La exigencia de la corona británica de anexar la totalidad del Chaco a su imperio de ultramar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gran Bretaña no poseía reclamos territoriales o de soberanía sobre el Chaco paraguayo en 1938 de forma oficial de posguerra."
+        },
+        {
+          "letter": "C",
+          "text": "La disolución pacífica de la República de Bolivia para integrarla de forma voluntaria al Paraguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bolivia preservó su soberanía estatal e integridad territorial, delimitando de común acuerdo y arbitraje diplomático pacífico sus fronteras."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición gubernamental de cultivar mandioca y de exportar carne vacuna paraguaya",
+          "is_correct": false,
+          "feedback": "Incorrecto. La economía paraguaya del agro y ganadería continuó consolidándose y exportando de forma activa a los mercados mundiales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de 1938 consagró un balance geopolítico en el Cono Sur, consolidando de forma definitiva e irreversible el Chaco Boreal como territorio paraguayo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "La movilización civil de la retaguardia paraguaya, con la activa participación de mujeres de todos los estratos que cosían uniformes, organizaban hospitales e integraban la 'Cruz Roja Paraguaya', representó para el país:",
+      "context": "Durante una clase sobre historia de las ideas en Concepción, el estudiante Joaquín analiza la movilización civil de retaguardia durante la contienda de 1932.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un colosal esfuerzo patriótico de cohesión de toda la sociedad civil que sustentó material y moralmente la victoria del ejército bilingüe nacional en campaña",
+          "is_correct": true,
+          "feedback": "Correcto. El Paraguay de la retaguardia se volcó por entero al esfuerzo de guerra en el Chaco Seco, unificando a campesinos y citadinos sin fisuras partidarias."
+        },
+        {
+          "letter": "B",
+          "text": "El desvanecimiento absoluto de toda actividad educativa de escuelas e iglesias del Paraguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación primaria continuó operando de forma regular y prestando servicios cívicos patrióticos de apoyo a los heridos en retaguardia."
+        },
+        {
+          "letter": "C",
+          "text": "La privatización de todas las aduanas fluviales para cederlas de forma definitiva a Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las aduanas fluviales se mantuvieron celosamente protegidas y operando bajo estricto control estatal nacional soberano."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición gubernamental de hablar el idioma castellano en los hogares de la capital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos idiomas oficiales del bilingüismo coexistieron y se fortalecieron de forma patriótica nacionalista en la retaguardia y el frente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Guerra del Chaco movilizó a todo el Paraguay en una asombrosa empresa colectiva de resiliencia nacional que superó históricas rencillas partidarias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "La defensa y victoria paraguaya en las dos feroces batallas del fortín Nanawa de 1933, conocidas como la 'Verdún de América' por los masivos asaltos frontales de infantería, impidieron militarmente a Bolivia:",
+      "context": "En la biblioteca de Pilar, la estudiante Camila investiga las batallas defensivas del fortín de Nanawa libradas en 1933.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forzar el frente defensivo paraguayo y avanzar libremente hacia la desembocadura comercial del río Paraguay y la ciudad de Concepción",
+          "is_correct": true,
+          "feedback": "Correcto. La victoria en Nanawa, resistiendo con valor táctico trincheras, tanques y aviación de Bolivia, frustró la ofensiva boliviana que buscaba el río Paraguay."
+        },
+        {
+          "letter": "B",
+          "text": "La anexión pacífica e inmediata de toda la Región Oriental al territorio de la corona británica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gran Bretaña no poseía intenciones ni participación militar agresora de anexar el Paraguay oriental agrario colonial de 1933."
+        },
+        {
+          "letter": "C",
+          "text": "La disolución absoluta de la totalidad del ejército de tierra de la República del Paraguay",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas paraguayas al mando del teniente coronel Luis Irrazábal resistieron de forma victoriosa, infligiendo severas bajas al atacante."
+        },
+        {
+          "letter": "D",
+          "text": "La evaporación física de todo el sistema ferroviario de la llanura chaqueña",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema ferroviario de trocha angosta de Puerto Casado continuó transportando de forma clave tropas, municiones e insumos de guerra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Nanawa fue el baluarte del frente sur de operaciones del Chaco, consagrando la audacia y heroica resistencia defensiva de los soldados paraguayos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "Durante el conflicto chaqueño, ¿qué rol desempeñaron de forma cívica y humanitaria los miles de prisioneros de guerra bolivianos albergados en el interior del Paraguay?",
+      "context": "Un historiador explica en San Lorenzo el trágico destino y cautiverio de miles de prisioneros de guerra bolivianos trasladados al interior del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fueron empleados bajo convenios humanitarios en obras públicas de infraestructura vial, construcciones civiles (como iglesias y caminos) y respetados en su integridad por la población local",
+          "is_correct": true,
+          "feedback": "Correcto. Los prisioneros de guerra bolivianos colaboraron de forma valorada en caminos y construcciones viales (como el camino a Paraguarí), recibiendo un trato humanitario digno."
+        },
+        {
+          "letter": "B",
+          "text": "Fueron obligados a enrolarse de por vida en la marina de guerra japonesa para atacar puertos americanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay observó de forma civilizada el derecho internacional humanitario y de guerra, protegiendo y custodiando a prisioneros en su territorio."
+        },
+        {
+          "letter": "C",
+          "text": "Fueron empleados en la fabricación masiva de armamento nuclear en la bahía de Asunción",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existía tecnología atómica en América del Sur en el siglo XX, y los prisioneros se abocaban a obras civiles tradicionales."
+        },
+        {
+          "letter": "D",
+          "text": "Fueron obligados a aprender de forma obligatoria el dialecto alemán menonita plautdietsch",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su estadía de internamiento militar se reguló pacíficamente por los oficiales locales sin imposiciones lingüísticas forzadas germánicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trato digno e integración de prisioneros bolivianos en obras civiles testimonió el espíritu humanitario del Paraguay de preguerra y posguerra del Chaco.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar críticamente las causas de la Revolución del 17 de febrero de 1936 liderada por el coronel Rafael Franco, ¿cuál de las siguientes explicaciones posee mayor asidero sociológico?",
+      "context": "En la mesa de debates de la Universidad Nacional de Asunción, se juzga de forma crítica el impacto político de la Revolución Febrerista del 17 de febrero de 1936 surgida de las trincheras chaqueñas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El profundo descontento de la juventud militar y combatientes campesinos (frente de veteranos) contra la desgastada conducción política liberal, exigiendo reformas de justicia social, agraria y de descolonización",
+          "is_correct": true,
+          "feedback": "Correcto. El fin de la guerra desató demandas latentes de justicia social agraria acumuladas, derrocando pacíficamente al partido liberal e inaugurando el 'febrerismo' corporativista nacionalista reformador."
+        },
+        {
+          "letter": "B",
+          "text": "El descontento por la firma del Tratado de límites que cedía de forma voluntaria Asunción al territorio de Bolivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay resguardó de manera inquebrantable su territorio nuclear e independencia; el conflicto febrerista se centró en demandas internas de justicia social agraria campesina."
+        },
+        {
+          "letter": "C",
+          "text": "El anhelo militar de coronar a Rafael Franco como monarca absoluto y hereditario de la corona británica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento febrerista se autodefinía de corte nacionalista, obrero y campesino popular, rechazando monarquías o sumisiones coloniales lejanas."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición gubernamental de usar monedas nacionales para obligar al trueque exclusivo de mandioca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La política febrerista decretó precisamente reformas monetarias progresistas y leyes de salario mínimo obrero, sin prohibir el uso cambiario monetario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Revolución de 1936 clausuró la hegemonía del Partido Liberal clásico, irrumpiendo corrientes sociales nacionalistas que redefinieron el siglo XX paraguayo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "Al juzgar el Tratado de Paz, Amistad y Límites de 1938, ¿cuál es el mayor logro de la diplomacia paraguaya respecto a la salida fluvial al mar del Chaco?",
+      "context": "El estudiante Santiago del Colegio Nacional de Concepción examina el tratado definitivo de límites de 1938 y reflexiona sobre el papel de la diplomacia paraguaya encabezada por Cecilio Báez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consagró de forma soberana el acceso fluvial del Paraguay al río homónimo y la posesión definitiva de Bahía Negra y zonas adyacentes, asegurando el control comercial e hídrico de la hidrovía",
+          "is_correct": true,
+          "feedback": "Correcto. La diplomacia paraguaya impuso el derecho indiscutible de soberanía sobre las costas chaqueñas del río Paraguay, bloqueando los históricos anhelos bolivianos de puertos soberanos fluviales."
+        },
+        {
+          "letter": "B",
+          "text": "Permitió que la escuadra naval paraguaya conquistara militarmente puertos bolivianos en el océano Pacífico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El arbitraje delimitó fronteras terrestres y fluviales chaqueñas locales continentales, sin emprender campañas marítimas lejanas en el Pacífico chileno."
+        },
+        {
+          "letter": "C",
+          "text": "Cedió de forma pacífica la mitad de la Región Oriental a cambio de riquezas mineras de estaño de los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraguay resguardó de forma intransigente e invicta todo su territorio de la Región Oriental agraria, delimitando pacíficamente los confines chaqueños."
+        },
+        {
+          "letter": "D",
+          "text": "Decretó el uso oficial y exclusivo del idioma alemán menonita plautdietsch en todas las aduanas chaqueñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las aduanas chaqueñas soberanas operaban bajo los códigos paraguayos bilingües oficiales de la administración pública de Asunción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tratado de 1938 legitimó el éxito de la defensa militar del Chaco, consagrando para el Paraguay el dominio fluvial soberano estratégico de Bahía Negra.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.49,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar críticamente las causas del rotundo fracaso estratégico y táctico del general alemán Hans Kundt (comandante boliviano) al lanzar masivos asaltos frontales contra el fortín paraguayo Nanawa, ¿cuál de las siguientes conclusiones posee rigor analítico?",
+      "context": "En un debate historiográfico en Pilar, se analiza la defensa heroica de Nanawa en 1933 y el papel del mariscal boliviano Hans Kundt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despreció las capacidades del ejército bilingüe paraguayo al amparo de tácticas rígidas europeas de la Primera Guerra Mundial, tropezando con una red de fortificaciones defensivas con artillería oculta y el heroico contraataque patriota",
+          "is_correct": true,
+          "feedback": "Correcto. Kundt empleó tácticas obsoletas de asalto masivo frontal de infantería desprotegida, chocando con las sólidas posiciones y trincheras fortificadas paraguayas que le infligieron una aplastante derrota táctica militar."
+        },
+        {
+          "letter": "B",
+          "text": "Fue vencido por la sorpresiva e inusitada caída de bombas nucleares paraguayas sobre las divisiones del Chaco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un planteamiento descabellado e históricamente anacrónico; la artillería paraguaya era de cañones convencionales de preguerra."
+        },
+        {
+          "letter": "C",
+          "text": "Sufrió el ataque destructivo de naves espaciales enviadas desde el mar Caribe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escenario fantasioso ajeno a la heroicidad y destreza de las tropas terrestres y aviadores militares paraguayos del Chaco."
+        },
+        {
+          "letter": "D",
+          "text": "Fue traicionado de forma diplomática por la corona de Portugal que ordenó la entrega del fortín",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corona portuguesa carecía de roles diplomáticos u operaciones militares en la contienda chaqueña sudamericana del siglo XX."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La victoria paraguaya de Nanawa consagró la destreza defensiva táctica de los oficiales nacionales y sepultó la mística militar alemana de Hans Kundt.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Al evaluar globalmente el impacto de la Guerra del Chaco en la cohesión nacional y el devenir social del Paraguay del siglo XX, ¿cuál de las siguientes conclusiones posee mayor sustento empírico e histórico?",
+      "context": "Un seminario científico en Asunción concluye valorando críticamente el papel integrador cívico-social legado por la Guerra del Chaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consolidó la definitiva integración cívico-social de la masa campesina mestiza guaraníhablante al seno de la ciudadanía activa y sembró las bases ideológicas de las futuras reformas sociales y agrarias de la segunda mitad del siglo",
+          "is_correct": true,
+          "feedback": "Correcto. El sacrificio compartido en las trincheras del Chaco unificó de forma definitiva al campesino bilingüe con las clases urbanas, gestando una vigorosa mística de derechos sociales patrióticos nacionales."
+        },
+        {
+          "letter": "B",
+          "text": "Provocó la sumisión pacífica y voluntaria del Paraguay al territorio boliviano, extinguiendo la soberanía asuncena de forma definitiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, Paraguay se consolidó de forma invicta como vencedor cívico-militar, ampliando su soberanía e integridad territorial en los confines chaqueños."
+        },
+        {
+          "letter": "C",
+          "text": "La privatización de todos los puertos del río Paraguay para cederlos de forma definitiva al Imperio del Japón",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existieron tales transferencias comerciales; el Paraguay defendió celosamente el control soberano estatal de todos sus puertos fluviales mercantes."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición absoluta del uso social oral del idioma guaraní bajo pena de destierro al norte de África",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la contienda de 1832 revalorizó de forma extraordinaria y patriótica nacionalista el orgullo de hablar y escribir en la lengua materna guaraní de la patria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Guerra del Chaco operó como un formidable crisol de integración social popular, transformando la estructura política clásica del Paraguay contemporáneo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "PY-SOC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

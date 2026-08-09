@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v1",
-      "statement": "¿Cuál es el flujo unidireccional y secuencial de la información genética propuesto por el Dogma Central de la Biología Molecular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Ramón y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué proceso nuclear sintetiza una molécula de ARN mensajero complementaria utilizando como molde una hebra de ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Camila y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "ADN → ARN → Proteína",
+          "text": "La transcripción",
           "is_correct": true,
-          "feedback": "¡Correcto! El dogma central clásico establece que el ADN se transcribe en ARN mensajero, y este se traduce en una secuencia específica de aminoácidos para formar una proteína."
+          "feedback": "¡Correcto! La transcripción responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Proteína → ARN → ADN",
+          "text": "El espliceosoma (o complejo de empalme)",
           "is_correct": false,
-          "feedback": "Incorrecto. La información no fluye de proteínas de vuelta a ácidos nucleicos (los priones modifican proteínas, pero no codifican información de esta manera)."
+          "feedback": "Incorrecto. El espliceosoma (o complejo de empalme) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "ARN → Proteína → ADN nuclear",
+          "text": "Mutación de sentido erróneo (missense)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN eucariota no sintetiza proteínas que posteriormente se conviertan de manera directa en genes."
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Lípido → Carbohidrato → Proteína",
+          "text": "El splicing (o empalme)",
           "is_correct": false,
-          "feedback": "Incorrecto. El dogma se refiere exclusivamente a la transmisión de la información genética molecular."
+          "feedback": "Incorrecto. El splicing (o empalme) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La transcripción ocurre en el núcleo (en eucariontes), donde el ADN rinde un pre-ARNm. Tras el procesamiento (splicing), el ARNm maduro viaja al citoplasma donde los ribosomas traducen el código en proteínas.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La transcripción constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,37 +54,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v2",
-      "statement": "¿Qué es un codón y qué función cumple durante la traducción de las proteínas en el ribosoma?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Ramón y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué enzima eucariota cataliza la transcripción de los genes que codifican para las proteínas celulares (pre-ARNm)?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Joaquín y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un triplete de bases nitrogenadas del ARNm que codifica para un aminoácido específico",
+          "text": "La ARN polimerasa II",
           "is_correct": true,
-          "feedback": "¡Correcto! Cada grupo de tres bases nitrogenadas sucesivas del ARNm constituye un codón que es leído por el ARN de transferencia que porta el aminoácido correspondiente."
+          "feedback": "¡Correcto! La ARN polimerasa II responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una secuencia de nucleótidos de ADN que detiene de forma definitiva la transcripción nuclear",
+          "text": "La caja TATA",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto se denomina secuencia terminadora de la transcripción, no codón."
+          "feedback": "Incorrecto. La caja TATA no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es el fragmento de ARN de transferencia que se une de forma covalente a la subunidad ribosomal menor",
+          "text": "Polirribosoma (o polisoma)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARNt porta un anticodón complementario, no un codón."
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una proteína catalítica que promueve la formación de enlaces peptídicos",
+          "text": "El proteasoma",
           "is_correct": false,
-          "feedback": "Incorrecto. La formación de enlaces peptídicos es catalizada por la propia subunidad ribosomal mayor (ribozima peptidil transferasa)."
+          "feedback": "Incorrecto. El proteasoma describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El código genético se organiza en codones. Existen 64 codones en total: 61 codifican para aminoácidos (incluyendo el codón de inicio AUG que codifica para metionina) y 3 actúan como señales de parada o terminación (UAA, UAG, UGA).\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La ARN polimerasa II constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -99,37 +99,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v3",
-      "statement": "Durante el proceso de transcripción eucariota, la enzima encargada de sintetizar el ARN mensajero a partir del molde de ADN requiere reconocer una secuencia promotora de inicio específica en el gen. ¿Cuál es un ejemplo clásico de secuencia promotora?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Ramón y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué modificación química en el extremo 5' del pre-ARNm protege al transcrito de la degradación y facilita la unión del ribosoma?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Sebastián y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "La caja TATA",
+          "text": "El capuchón 5' (o metilguanosina Cap)",
           "is_correct": true,
-          "feedback": "¡Correcto! La caja TATA es una secuencia rica en timina y adenina ubicada en la región promotora de la transcripción de muchos eucariontes que facilita el anclaje de la ARN polimerasa II."
+          "feedback": "¡Correcto! El capuchón 5' (o metilguanosina Cap) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El codón de terminación UGA",
+          "text": "Mutación de sentido erróneo (missense)",
           "is_correct": false,
-          "feedback": "Incorrecto. El UGA es un codón de parada o STOP que detiene la traducción ribosomal, no la transcripción nuclear de la polimerasa."
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El sitio poli-A del extremo final",
+          "text": "Enlace peptídico",
           "is_correct": false,
-          "feedback": "Incorrecto. La cola de poliadenilación se añade al final de la transcripción en el extremo 3' para estabilizar el ARN mensajero."
+          "feedback": "Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El capuchón de metilguanosina (Cap 5')",
+          "text": "El factor de transcripción",
           "is_correct": false,
-          "feedback": "Incorrecto. El capuchón 5' es una modificación que se coloca al inicio de la transcripción para proteger al transcrito de la degradación exocítica."
+          "feedback": "Incorrecto. El factor de transcripción describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Los promotores son regiones no codificantes del ADN que regulan la frecuencia y el inicio preciso de la transcripción mediante la interacción con factores de transcripción y ARN polimerasas.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de El capuchón 5' (o metilguanosina Cap) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -144,37 +144,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v4",
-      "statement": "¿Cuál es el flujo unidireccional y secuencial de la información genética propuesto por el Dogma Central de la Biología Molecular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Santiago y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué secuencia de nucleótidos añadida al extremo 3' estabiliza al ARN mensajero y regula su vida media en el citoplasma?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Valentina y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "ADN → ARN → Proteína",
+          "text": "La cola de poli-A (poliadenilación)",
           "is_correct": true,
-          "feedback": "¡Correcto! El dogma central clásico establece que el ADN se transcribe en ARN mensajero, y este se traduce en una secuencia específica de aminoácidos para formar una proteína."
+          "feedback": "¡Correcto! La cola de poli-A (poliadenilación) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Proteína → ARN → ADN",
+          "text": "Es degenerado o redundante",
           "is_correct": false,
-          "feedback": "Incorrecto. La información no fluye de proteínas de vuelta a ácidos nucleicos (los priones modifican proteínas, pero no codifican información de esta manera)."
+          "feedback": "Incorrecto. Es degenerado o redundante no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "ARN → Proteína → ADN nuclear",
+          "text": "Mutación de sentido erróneo (missense)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN eucariota no sintetiza proteínas que posteriormente se conviertan de manera directa en genes."
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Lípido → Carbohidrato → Proteína",
+          "text": "Es universal",
           "is_correct": false,
-          "feedback": "Incorrecto. El dogma se refiere exclusivamente a la transmisión de la información genética molecular."
+          "feedback": "Incorrecto. Es universal describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La transcripción ocurre en el núcleo (en eucariontes), donde el ADN rinde un pre-ARNm. Tras el procesamiento (splicing), el ARNm maduro viaja al citoplasma donde los ribosomas traducen el código en proteínas.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La cola de poli-A (poliadenilación) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,37 +189,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v5",
-      "statement": "¿Qué es un codón y qué función cumple durante la traducción de las proteínas en el ribosoma?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Santiago y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué proceso de procesamiento del ARN elimina selectivamente los intrones y empalma los exones para producir un ARNm maduro?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Ramón y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un triplete de bases nitrogenadas del ARNm que codifica para un aminoácido específico",
+          "text": "El splicing (o empalme)",
           "is_correct": true,
-          "feedback": "¡Correcto! Cada grupo de tres bases nitrogenadas sucesivas del ARNm constituye un codón que es leído por el ARN de transferencia que porta el aminoácido correspondiente."
+          "feedback": "¡Correcto! El splicing (o empalme) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una secuencia de nucleótidos de ADN que detiene de forma definitiva la transcripción nuclear",
+          "text": "Codón de terminación o STOP",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto se denomina secuencia terminadora de la transcripción, no codón."
+          "feedback": "Incorrecto. Codón de terminación o STOP no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es el fragmento de ARN de transferencia que se une de forma covalente a la subunidad ribosomal menor",
+          "text": "Enlace peptídico",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARNt porta un anticodón complementario, no un codón."
+          "feedback": "Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una proteína catalítica que promueve la formación de enlaces peptídicos",
+          "text": "La ARN polimerasa II",
           "is_correct": false,
-          "feedback": "Incorrecto. La formación de enlaces peptídicos es catalizada por la propia subunidad ribosomal mayor (ribozima peptidil transferasa)."
+          "feedback": "Incorrecto. La ARN polimerasa II describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El código genético se organiza en codones. Existen 64 codones en total: 61 codifican para aminoácidos (incluyendo el codón de inicio AUG que codifica para metionina) y 3 actúan como señales de parada o terminación (UAA, UAG, UGA).\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de El splicing (o empalme) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -234,37 +234,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v6",
-      "statement": "Durante el proceso de transcripción eucariota, la enzima encargada de sintetizar el ARN mensajero a partir del molde de ADN requiere reconocer una secuencia promotora de inicio específica en el gen. ¿Cuál es un ejemplo clásico de secuencia promotora?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, María y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué estructura macromolecular catalítica compuesta de ARN y proteínas realiza el proceso de splicing o empalme del pre-ARNm?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Mateo y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "La caja TATA",
+          "text": "El espliceosoma (o complejo de empalme)",
           "is_correct": true,
-          "feedback": "¡Correcto! La caja TATA es una secuencia rica en timina y adenina ubicada en la región promotora de la transcripción de muchos eucariontes que facilita el anclaje de la ARN polimerasa II."
+          "feedback": "¡Correcto! El espliceosoma (o complejo de empalme) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El codón de terminación UGA",
+          "text": "El ARN de transferencia (ARNt)",
           "is_correct": false,
-          "feedback": "Incorrecto. El UGA es un codón de parada o STOP que detiene la traducción ribosomal, no la transcripción nuclear de la polimerasa."
+          "feedback": "Incorrecto. El ARN de transferencia (ARNt) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El sitio poli-A del extremo final",
+          "text": "La transcripción",
           "is_correct": false,
-          "feedback": "Incorrecto. La cola de poliadenilación se añade al final de la transcripción en el extremo 3' para estabilizar el ARN mensajero."
+          "feedback": "Incorrecto. La transcripción es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El capuchón de metilguanosina (Cap 5')",
+          "text": "Sitio A (aminoacil)",
           "is_correct": false,
-          "feedback": "Incorrecto. El capuchón 5' es una modificación que se coloca al inicio de la transcripción para proteger al transcrito de la degradación exocítica."
+          "feedback": "Incorrecto. Sitio A (aminoacil) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Los promotores son regiones no codificantes del ADN que regulan la frecuencia y el inicio preciso de la transcripción mediante la interacción con factores de transcripción y ARN polimerasas.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de El espliceosoma (o complejo de empalme) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v7",
-      "statement": "¿Cuál es el flujo unidireccional y secuencial de la información genética propuesto por el Dogma Central de la Biología Molecular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Sofía y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué molécula adaptadora porta un anticodón específico en un extremo y se acopla a un aminoácido determinado en el otro extremo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Mateo y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "ADN → ARN → Proteína",
+          "text": "El ARN de transferencia (ARNt)",
           "is_correct": true,
-          "feedback": "¡Correcto! El dogma central clásico establece que el ADN se transcribe en ARN mensajero, y este se traduce en una secuencia específica de aminoácidos para formar una proteína."
+          "feedback": "¡Correcto! El ARN de transferencia (ARNt) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Proteína → ARN → ADN",
+          "text": "Sitio A (aminoacil)",
           "is_correct": false,
-          "feedback": "Incorrecto. La información no fluye de proteínas de vuelta a ácidos nucleicos (los priones modifican proteínas, pero no codifican información de esta manera)."
+          "feedback": "Incorrecto. Sitio A (aminoacil) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "ARN → Proteína → ADN nuclear",
+          "text": "El splicing (o empalme)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN eucariota no sintetiza proteínas que posteriormente se conviertan de manera directa en genes."
+          "feedback": "Incorrecto. El splicing (o empalme) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Lípido → Carbohidrato → Proteína",
+          "text": "Enlace peptídico",
           "is_correct": false,
-          "feedback": "Incorrecto. El dogma se refiere exclusivamente a la transmisión de la información genética molecular."
+          "feedback": "Incorrecto. Enlace peptídico describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La transcripción ocurre en el núcleo (en eucariontes), donde el ADN rinde un pre-ARNm. Tras el procesamiento (splicing), el ARNm maduro viaja al citoplasma donde los ribosomas traducen el código en proteínas.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de El ARN de transferencia (ARNt) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v8",
-      "statement": "¿Qué es un codón y qué función cumple durante la traducción de las proteínas en el ribosoma?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Joaquín y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué enzima carga covalentemente cada aminoácido correspondiente a su respectivo ARN de transferencia consumiendo ATP?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Gladys y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un triplete de bases nitrogenadas del ARNm que codifica para un aminoácido específico",
+          "text": "La aminoacil-ARNt sintetasa",
           "is_correct": true,
-          "feedback": "¡Correcto! Cada grupo de tres bases nitrogenadas sucesivas del ARNm constituye un codón que es leído por el ARN de transferencia que porta el aminoácido correspondiente."
+          "feedback": "¡Correcto! La aminoacil-ARNt sintetasa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una secuencia de nucleótidos de ADN que detiene de forma definitiva la transcripción nuclear",
+          "text": "El factor de transcripción",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto se denomina secuencia terminadora de la transcripción, no codón."
+          "feedback": "Incorrecto. El factor de transcripción no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es el fragmento de ARN de transferencia que se une de forma covalente a la subunidad ribosomal menor",
+          "text": "Es degenerado o redundante",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARNt porta un anticodón complementario, no un codón."
+          "feedback": "Incorrecto. Es degenerado o redundante es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una proteína catalítica que promueve la formación de enlaces peptídicos",
+          "text": "Mutación de sentido erróneo (missense)",
           "is_correct": false,
-          "feedback": "Incorrecto. La formación de enlaces peptídicos es catalizada por la propia subunidad ribosomal mayor (ribozima peptidil transferasa)."
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El código genético se organiza en codones. Existen 64 codones en total: 61 codifican para aminoácidos (incluyendo el codón de inicio AUG que codifica para metionina) y 3 actúan como señales de parada o terminación (UAA, UAG, UGA).\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La aminoacil-ARNt sintetasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v9",
-      "statement": "Durante el proceso de transcripción eucariota, la enzima encargada de sintetizar el ARN mensajero a partir del molde de ADN requiere reconocer una secuencia promotora de inicio específica en el gen. ¿Cuál es un ejemplo clásico de secuencia promotora?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Santiago y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Cuál es el codón de inicio universal de la traducción proteica y qué aminoácido codifica en los ribosomas eucariotas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Sebastián y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "La caja TATA",
+          "text": "AUG, codifica para Metionina",
           "is_correct": true,
-          "feedback": "¡Correcto! La caja TATA es una secuencia rica en timina y adenina ubicada en la región promotora de la transcripción de muchos eucariontes que facilita el anclaje de la ARN polimerasa II."
+          "feedback": "¡Correcto! AUG, codifica para Metionina responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El codón de terminación UGA",
+          "text": "La ARN polimerasa II",
           "is_correct": false,
-          "feedback": "Incorrecto. El UGA es un codón de parada o STOP que detiene la traducción ribosomal, no la transcripción nuclear de la polimerasa."
+          "feedback": "Incorrecto. La ARN polimerasa II no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El sitio poli-A del extremo final",
+          "text": "La aminoacil-ARNt sintetasa",
           "is_correct": false,
-          "feedback": "Incorrecto. La cola de poliadenilación se añade al final de la transcripción en el extremo 3' para estabilizar el ARN mensajero."
+          "feedback": "Incorrecto. La aminoacil-ARNt sintetasa es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El capuchón de metilguanosina (Cap 5')",
+          "text": "La cola de poli-A (poliadenilación)",
           "is_correct": false,
-          "feedback": "Incorrecto. El capuchón 5' es una modificación que se coloca al inicio de la transcripción para proteger al transcrito de la degradación exocítica."
+          "feedback": "Incorrecto. La cola de poli-A (poliadenilación) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Los promotores son regiones no codificantes del ADN que regulan la frecuencia y el inicio preciso de la transcripción mediante la interacción con factores de transcripción y ARN polimerasas.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de AUG, codifica para Metionina constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v10",
-      "statement": "¿Cuál es el flujo unidireccional y secuencial de la información genética propuesto por el Dogma Central de la Biología Molecular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Jorge y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué sitio del ribosoma (A, P o E) recibe al aminoacil-ARNt entrante portando el siguiente aminoácido a incorporar?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Camila y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "ADN → ARN → Proteína",
+          "text": "Sitio A (aminoacil)",
           "is_correct": true,
-          "feedback": "¡Correcto! El dogma central clásico establece que el ADN se transcribe en ARN mensajero, y este se traduce en una secuencia específica de aminoácidos para formar una proteína."
+          "feedback": "¡Correcto! Sitio A (aminoacil) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Proteína → ARN → ADN",
+          "text": "La transcripción",
           "is_correct": false,
-          "feedback": "Incorrecto. La información no fluye de proteínas de vuelta a ácidos nucleicos (los priones modifican proteínas, pero no codifican información de esta manera)."
+          "feedback": "Incorrecto. La transcripción no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "ARN → Proteína → ADN nuclear",
+          "text": "El ARN de transferencia (ARNt)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN eucariota no sintetiza proteínas que posteriormente se conviertan de manera directa en genes."
+          "feedback": "Incorrecto. El ARN de transferencia (ARNt) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Lípido → Carbohidrato → Proteína",
+          "text": "Polirribosoma (o polisoma)",
           "is_correct": false,
-          "feedback": "Incorrecto. El dogma se refiere exclusivamente a la transmisión de la información genética molecular."
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La transcripción ocurre en el núcleo (en eucariontes), donde el ADN rinde un pre-ARNm. Tras el procesamiento (splicing), el ARNm maduro viaja al citoplasma donde los ribosomas traducen el código en proteínas.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Sitio A (aminoacil) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v11",
-      "statement": "¿Qué es un codón y qué función cumple durante la traducción de las proteínas en el ribosoma?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, María y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué sitio del ribosoma alberga temporalmente al peptidil-ARNt que sostiene la cadena polipeptídica en crecimiento?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un triplete de bases nitrogenadas del ARNm que codifica para un aminoácido específico",
+          "text": "Sitio P (peptidil)",
           "is_correct": true,
-          "feedback": "¡Correcto! Cada grupo de tres bases nitrogenadas sucesivas del ARNm constituye un codón que es leído por el ARN de transferencia que porta el aminoácido correspondiente."
+          "feedback": "¡Correcto! Sitio P (peptidil) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una secuencia de nucleótidos de ADN que detiene de forma definitiva la transcripción nuclear",
+          "text": "Codón de terminación o STOP",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto se denomina secuencia terminadora de la transcripción, no codón."
+          "feedback": "Incorrecto. Codón de terminación o STOP no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es el fragmento de ARN de transferencia que se une de forma covalente a la subunidad ribosomal menor",
+          "text": "El capuchón 5' (o metilguanosina Cap)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARNt porta un anticodón complementario, no un codón."
+          "feedback": "Incorrecto. El capuchón 5' (o metilguanosina Cap) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una proteína catalítica que promueve la formación de enlaces peptídicos",
+          "text": "El ARN de transferencia (ARNt)",
           "is_correct": false,
-          "feedback": "Incorrecto. La formación de enlaces peptídicos es catalizada por la propia subunidad ribosomal mayor (ribozima peptidil transferasa)."
+          "feedback": "Incorrecto. El ARN de transferencia (ARNt) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El código genético se organiza en codones. Existen 64 codones en total: 61 codifican para aminoácidos (incluyendo el codón de inicio AUG que codifica para metionina) y 3 actúan como señales de parada o terminación (UAA, UAG, UGA).\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Sitio P (peptidil) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v12",
-      "statement": "Durante el proceso de transcripción eucariota, la enzima encargada de sintetizar el ARN mensajero a partir del molde de ADN requiere reconocer una secuencia promotora de inicio específica en el gen. ¿Cuál es un ejemplo clásico de secuencia promotora?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué enlace químico une el grupo amino de un nuevo aminoácido al grupo carboxilo de la cadena polipeptídica preexistente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "La caja TATA",
+          "text": "Enlace peptídico",
           "is_correct": true,
-          "feedback": "¡Correcto! La caja TATA es una secuencia rica en timina y adenina ubicada en la región promotora de la transcripción de muchos eucariontes que facilita el anclaje de la ARN polimerasa II."
+          "feedback": "¡Correcto! Enlace peptídico responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El codón de terminación UGA",
+          "text": "La transcripción",
           "is_correct": false,
-          "feedback": "Incorrecto. El UGA es un codón de parada o STOP que detiene la traducción ribosomal, no la transcripción nuclear de la polimerasa."
+          "feedback": "Incorrecto. La transcripción no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El sitio poli-A del extremo final",
+          "text": "La cola de poli-A (poliadenilación)",
           "is_correct": false,
-          "feedback": "Incorrecto. La cola de poliadenilación se añade al final de la transcripción en el extremo 3' para estabilizar el ARN mensajero."
+          "feedback": "Incorrecto. La cola de poli-A (poliadenilación) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El capuchón de metilguanosina (Cap 5')",
+          "text": "El splicing (o empalme)",
           "is_correct": false,
-          "feedback": "Incorrecto. El capuchón 5' es una modificación que se coloca al inicio de la transcripción para proteger al transcrito de la degradación exocítica."
+          "feedback": "Incorrecto. El splicing (o empalme) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Los promotores son regiones no codificantes del ADN que regulan la frecuencia y el inicio preciso de la transcripción mediante la interacción con factores de transcripción y ARN polimerasas.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Enlace peptídico constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v13",
-      "statement": "¿Cuál es el flujo unidireccional y secuencial de la información genética propuesto por el Dogma Central de la Biología Molecular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué codón de parada del ARNm (UAA, UAG, UGA) no codifica para ningún aminoácido y recluta un factor de liberación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Florencia y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "ADN → ARN → Proteína",
+          "text": "Codón de terminación o STOP",
           "is_correct": true,
-          "feedback": "¡Correcto! El dogma central clásico establece que el ADN se transcribe en ARN mensajero, y este se traduce en una secuencia específica de aminoácidos para formar una proteína."
+          "feedback": "¡Correcto! Codón de terminación o STOP responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Proteína → ARN → ADN",
+          "text": "Polirribosoma (o polisoma)",
           "is_correct": false,
-          "feedback": "Incorrecto. La información no fluye de proteínas de vuelta a ácidos nucleicos (los priones modifican proteínas, pero no codifican información de esta manera)."
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "ARN → Proteína → ADN nuclear",
+          "text": "El ARN de transferencia (ARNt)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN eucariota no sintetiza proteínas que posteriormente se conviertan de manera directa en genes."
+          "feedback": "Incorrecto. El ARN de transferencia (ARNt) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Lípido → Carbohidrato → Proteína",
+          "text": "El espliceosoma (o complejo de empalme)",
           "is_correct": false,
-          "feedback": "Incorrecto. El dogma se refiere exclusivamente a la transmisión de la información genética molecular."
+          "feedback": "Incorrecto. El espliceosoma (o complejo de empalme) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La transcripción ocurre en el núcleo (en eucariontes), donde el ADN rinde un pre-ARNm. Tras el procesamiento (splicing), el ARNm maduro viaja al citoplasma donde los ribosomas traducen el código en proteínas.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Codón de terminación o STOP constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,37 +594,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v14",
-      "statement": "¿Qué es un codón y qué función cumple durante la traducción de las proteínas en el ribosoma?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Martina y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué complejo multiproteico celular degrada de manera selectiva las proteínas dañadas marcadas previamente con ubiquitina?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Valentina y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un triplete de bases nitrogenadas del ARNm que codifica para un aminoácido específico",
+          "text": "El proteasoma",
           "is_correct": true,
-          "feedback": "¡Correcto! Cada grupo de tres bases nitrogenadas sucesivas del ARNm constituye un codón que es leído por el ARN de transferencia que porta el aminoácido correspondiente."
+          "feedback": "¡Correcto! El proteasoma responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una secuencia de nucleótidos de ADN que detiene de forma definitiva la transcripción nuclear",
+          "text": "La caja TATA",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto se denomina secuencia terminadora de la transcripción, no codón."
+          "feedback": "Incorrecto. La caja TATA no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es el fragmento de ARN de transferencia que se une de forma covalente a la subunidad ribosomal menor",
+          "text": "El factor de transcripción",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARNt porta un anticodón complementario, no un codón."
+          "feedback": "Incorrecto. El factor de transcripción es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una proteína catalítica que promueve la formación de enlaces peptídicos",
+          "text": "Es universal",
           "is_correct": false,
-          "feedback": "Incorrecto. La formación de enlaces peptídicos es catalizada por la propia subunidad ribosomal mayor (ribozima peptidil transferasa)."
+          "feedback": "Incorrecto. Es universal describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El código genético se organiza en codones. Existen 64 codones en total: 61 codifican para aminoácidos (incluyendo el codón de inicio AUG que codifica para metionina) y 3 actúan como señales de parada o terminación (UAA, UAG, UGA).\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El proteasoma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -639,37 +639,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v15",
-      "statement": "Durante el proceso de transcripción eucariota, la enzima encargada de sintetizar el ARN mensajero a partir del molde de ADN requiere reconocer una secuencia promotora de inicio específica en el gen. ¿Cuál es un ejemplo clásico de secuencia promotora?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Martina y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué factor proteico regula la tasa de transcripción de un gen uniéndose a secuencias promotoras u operadores específicos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "La caja TATA",
+          "text": "El factor de transcripción",
           "is_correct": true,
-          "feedback": "¡Correcto! La caja TATA es una secuencia rica en timina y adenina ubicada en la región promotora de la transcripción de muchos eucariontes que facilita el anclaje de la ARN polimerasa II."
+          "feedback": "¡Correcto! El factor de transcripción responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El codón de terminación UGA",
+          "text": "El splicing (o empalme)",
           "is_correct": false,
-          "feedback": "Incorrecto. El UGA es un codón de parada o STOP que detiene la traducción ribosomal, no la transcripción nuclear de la polimerasa."
+          "feedback": "Incorrecto. El splicing (o empalme) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El sitio poli-A del extremo final",
+          "text": "La cola de poli-A (poliadenilación)",
           "is_correct": false,
-          "feedback": "Incorrecto. La cola de poliadenilación se añade al final de la transcripción en el extremo 3' para estabilizar el ARN mensajero."
+          "feedback": "Incorrecto. La cola de poli-A (poliadenilación) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El capuchón de metilguanosina (Cap 5')",
+          "text": "La transcripción",
           "is_correct": false,
-          "feedback": "Incorrecto. El capuchón 5' es una modificación que se coloca al inicio de la transcripción para proteger al transcrito de la degradación exocítica."
+          "feedback": "Incorrecto. La transcripción describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Los promotores son regiones no codificantes del ADN que regulan la frecuencia y el inicio preciso de la transcripción mediante la interacción con factores de transcripción y ARN polimerasas.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El factor de transcripción constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v16",
-      "statement": "¿Cuál es el flujo unidireccional y secuencial de la información genética propuesto por el Dogma Central de la Biología Molecular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Florencia y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Cómo se denomina al conjunto de ribosomas que traducen de manera simultánea un único filamento de ARN mensajero?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Ramón y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "ADN → ARN → Proteína",
+          "text": "Polirribosoma (o polisoma)",
           "is_correct": true,
-          "feedback": "¡Correcto! El dogma central clásico establece que el ADN se transcribe en ARN mensajero, y este se traduce en una secuencia específica de aminoácidos para formar una proteína."
+          "feedback": "¡Correcto! Polirribosoma (o polisoma) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Proteína → ARN → ADN",
+          "text": "La ARN polimerasa II",
           "is_correct": false,
-          "feedback": "Incorrecto. La información no fluye de proteínas de vuelta a ácidos nucleicos (los priones modifican proteínas, pero no codifican información de esta manera)."
+          "feedback": "Incorrecto. La ARN polimerasa II no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "ARN → Proteína → ADN nuclear",
+          "text": "El espliceosoma (o complejo de empalme)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN eucariota no sintetiza proteínas que posteriormente se conviertan de manera directa en genes."
+          "feedback": "Incorrecto. El espliceosoma (o complejo de empalme) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Lípido → Carbohidrato → Proteína",
+          "text": "Es universal",
           "is_correct": false,
-          "feedback": "Incorrecto. El dogma se refiere exclusivamente a la transmisión de la información genética molecular."
+          "feedback": "Incorrecto. Es universal describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La transcripción ocurre en el núcleo (en eucariontes), donde el ADN rinde un pre-ARNm. Tras el procesamiento (splicing), el ARNm maduro viaja al citoplasma donde los ribosomas traducen el código en proteínas.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Polirribosoma (o polisoma) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v17",
-      "statement": "¿Qué es un codón y qué función cumple durante la traducción de las proteínas en el ribosoma?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Valentina y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué propiedad del código genético indica que varios codones diferentes pueden codificar para el mismo aminoácido específico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Benjamín y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un triplete de bases nitrogenadas del ARNm que codifica para un aminoácido específico",
+          "text": "Es degenerado o redundante",
           "is_correct": true,
-          "feedback": "¡Correcto! Cada grupo de tres bases nitrogenadas sucesivas del ARNm constituye un codón que es leído por el ARN de transferencia que porta el aminoácido correspondiente."
+          "feedback": "¡Correcto! Es degenerado o redundante responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una secuencia de nucleótidos de ADN que detiene de forma definitiva la transcripción nuclear",
+          "text": "Polirribosoma (o polisoma)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto se denomina secuencia terminadora de la transcripción, no codón."
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es el fragmento de ARN de transferencia que se une de forma covalente a la subunidad ribosomal menor",
+          "text": "Sitio P (peptidil)",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARNt porta un anticodón complementario, no un codón."
+          "feedback": "Incorrecto. Sitio P (peptidil) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una proteína catalítica que promueve la formación de enlaces peptídicos",
+          "text": "Mutación de sentido erróneo (missense)",
           "is_correct": false,
-          "feedback": "Incorrecto. La formación de enlaces peptídicos es catalizada por la propia subunidad ribosomal mayor (ribozima peptidil transferasa)."
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El código genético se organiza en codones. Existen 64 codones en total: 61 codifican para aminoácidos (incluyendo el codón de inicio AUG que codifica para metionina) y 3 actúan como señales de parada o terminación (UAA, UAG, UGA).\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Es degenerado o redundante constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,37 +774,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v18",
-      "statement": "Durante el proceso de transcripción eucariota, la enzima encargada de sintetizar el ARN mensajero a partir del molde de ADN requiere reconocer una secuencia promotora de inicio específica en el gen. ¿Cuál es un ejemplo clásico de secuencia promotora?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Gladys y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué característica del código genético indica que se aplica de manera idéntica en casi todos los seres vivos del planeta?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Camila y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "La caja TATA",
+          "text": "Es universal",
           "is_correct": true,
-          "feedback": "¡Correcto! La caja TATA es una secuencia rica en timina y adenina ubicada en la región promotora de la transcripción de muchos eucariontes que facilita el anclaje de la ARN polimerasa II."
+          "feedback": "¡Correcto! Es universal responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El codón de terminación UGA",
+          "text": "Polirribosoma (o polisoma)",
           "is_correct": false,
-          "feedback": "Incorrecto. El UGA es un codón de parada o STOP que detiene la traducción ribosomal, no la transcripción nuclear de la polimerasa."
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El sitio poli-A del extremo final",
+          "text": "AUG, codifica para Metionina",
           "is_correct": false,
-          "feedback": "Incorrecto. La cola de poliadenilación se añade al final de la transcripción en el extremo 3' para estabilizar el ARN mensajero."
+          "feedback": "Incorrecto. AUG, codifica para Metionina es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El capuchón de metilguanosina (Cap 5')",
+          "text": "La caja TATA",
           "is_correct": false,
-          "feedback": "Incorrecto. El capuchón 5' es una modificación que se coloca al inicio de la transcripción para proteger al transcrito de la degradación exocítica."
+          "feedback": "Incorrecto. La caja TATA describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Los promotores son regiones no codificantes del ADN que regulan la frecuencia y el inicio preciso de la transcripción mediante la interacción con factores de transcripción y ARN polimerasas.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Es universal constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -819,37 +819,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v19",
-      "statement": "¿Cuál es el flujo unidireccional y secuencial de la información genética propuesto por el Dogma Central de la Biología Molecular?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Ramón y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué tipo de mutación genética sustituye una sola base nitrogenada provocando el cambio de un aminoácido por otro en la proteína?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Martina y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "ADN → ARN → Proteína",
+          "text": "Mutación de sentido erróneo (missense)",
           "is_correct": true,
-          "feedback": "¡Correcto! El dogma central clásico establece que el ADN se transcribe en ARN mensajero, y este se traduce en una secuencia específica de aminoácidos para formar una proteína."
+          "feedback": "¡Correcto! Mutación de sentido erróneo (missense) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Proteína → ARN → ADN",
+          "text": "AUG, codifica para Metionina",
           "is_correct": false,
-          "feedback": "Incorrecto. La información no fluye de proteínas de vuelta a ácidos nucleicos (los priones modifican proteínas, pero no codifican información de esta manera)."
+          "feedback": "Incorrecto. AUG, codifica para Metionina no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "ARN → Proteína → ADN nuclear",
+          "text": "La ARN polimerasa II",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN eucariota no sintetiza proteínas que posteriormente se conviertan de manera directa en genes."
+          "feedback": "Incorrecto. La ARN polimerasa II es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Lípido → Carbohidrato → Proteína",
+          "text": "Polirribosoma (o polisoma)",
           "is_correct": false,
-          "feedback": "Incorrecto. El dogma se refiere exclusivamente a la transmisión de la información genética molecular."
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La transcripción ocurre en el núcleo (en eucariontes), donde el ADN rinde un pre-ARNm. Tras el procesamiento (splicing), el ARNm maduro viaja al citoplasma donde los ribosomas traducen el código en proteínas.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Mutación de sentido erróneo (missense) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v20",
-      "statement": "¿Qué es un codón y qué función cumple durante la traducción de las proteínas en el ribosoma?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Síntesis de proteínas.",
+      "statement": "¿Qué región promotora clásica del ADN eucariota, localizada aguas arriba del gen, interacciona con los factores de transcripción?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Sebastián y su grupo investigan sobre Síntesis de proteínas.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un triplete de bases nitrogenadas del ARNm que codifica para un aminoácido específico",
+          "text": "La caja TATA",
           "is_correct": true,
-          "feedback": "¡Correcto! Cada grupo de tres bases nitrogenadas sucesivas del ARNm constituye un codón que es leído por el ARN de transferencia que porta el aminoácido correspondiente."
+          "feedback": "¡Correcto! La caja TATA responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una secuencia de nucleótidos de ADN que detiene de forma definitiva la transcripción nuclear",
+          "text": "Polirribosoma (o polisoma)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto se denomina secuencia terminadora de la transcripción, no codón."
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es el fragmento de ARN de transferencia que se une de forma covalente a la subunidad ribosomal menor",
+          "text": "Enlace peptídico",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARNt porta un anticodón complementario, no un codón."
+          "feedback": "Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una proteína catalítica que promueve la formación de enlaces peptídicos",
+          "text": "AUG, codifica para Metionina",
           "is_correct": false,
-          "feedback": "Incorrecto. La formación de enlaces peptídicos es catalizada por la propia subunidad ribosomal mayor (ribozima peptidil transferasa)."
+          "feedback": "Incorrecto. AUG, codifica para Metionina describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El código genético se organiza en codones. Existen 64 codones en total: 61 codifican para aminoácidos (incluyendo el codón de inicio AUG que codifica para metionina) y 3 actúan como señales de parada o terminación (UAA, UAG, UGA).",
-      "difficulty": "10",
+      "explanation": "El concepto de La caja TATA constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",

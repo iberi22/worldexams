@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v1",
-      "statement": "En una célula con alta demanda energética metabólica (como las células del tejido muscular cardíaco de un mamífero), ¿qué organelo se presentará en una densidad sumamente elevada?",
+      "statement": "¿Qué organelo se compone de una serie de sacos aplanados llamados dictiosomas encargados del empaquetamiento proteico?",
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Mitocondria",
+          "text": "El aparato de Golgi",
           "is_correct": true,
-          "feedback": "¡Correcto! Las mitocondrias son los centros de respiración celular aeróbica encargados de sintetizar la gran mayoría del ATP celular."
+          "feedback": "¡Correcto! El aparato de Golgi responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Lisosoma",
+          "text": "La mitocondria",
           "is_correct": false,
-          "feedback": "Incorrecto. Los lisosomas se encargan de la digestión y degradación de desechos intracelulares."
+          "feedback": "Incorrecto. La mitocondria no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Aparato de Golgi",
+          "text": "La subunidad menor 40S",
           "is_correct": false,
-          "feedback": "Incorrecto. El complejo de Golgi se especializa en la maduración, empaquetamiento y distribución de glicoproteínas."
+          "feedback": "Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Retículo endoplasmático liso",
+          "text": "La vacuola central",
           "is_correct": false,
-          "feedback": "Incorrecto. Este organelo participa en la síntesis de lípidos y depuración de toxinas, no en la generación masiva de ATP."
+          "feedback": "Incorrecto. La vacuola central describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las mitocondrias poseen una membrana interna plegada en crestas que optimiza la superficie para la cadena de transporte de electrones y la fosforilación oxidativa.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de El aparato de Golgi constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,37 +54,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v2",
-      "statement": "¿Cuál de las siguientes funciones metabólicas se asocia directamente con la actividad del Retículo Endoplasmático Liso (REL) en las células hepáticas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Liz y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué estructura membranosa de doble membrana plegada en crestas sintetiza la mayor parte del ATP celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Mateo y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "La síntesis de lípidos y la detoxificación de sustancias nocivas",
+          "text": "La mitocondria",
           "is_correct": true,
-          "feedback": "¡Correcto! El REL carece de ribosomas y alberga enzimas clave para la biosíntesis de lípidos de membrana, hormonas esteroideas y la depuración de toxinas."
+          "feedback": "¡Correcto! La mitocondria responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La síntesis y plegamiento de proteínas destinadas a la secreción extracelular",
+          "text": "La membrana plasmática y proteínas de anclaje",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función principal del retículo endoplasmático rugoso (RER) debido a sus ribosomas asociados."
+          "feedback": "Incorrecto. La membrana plasmática y proteínas de anclaje no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La degradación hidrolítica ácida de macromoléculas fagocitadas",
+          "text": "El retículo endoplasmático liso",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta degradación ocurre exclusivamente dentro de los lisosomas."
+          "feedback": "Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fijación química de carbono inorgánico en azúcares utilizables",
+          "text": "Los filamentos intermedios",
           "is_correct": false,
-          "feedback": "Incorrecto. La fijación del carbono es un proceso fotosintético que ocurre en el estroma de los cloroplastos de plantas."
+          "feedback": "Incorrecto. Los filamentos intermedios describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El retículo endoplasmático liso (REL) cumple papeles esenciales en la síntesis de lípidos corporales, metabolismo de carbohidratos, almacenamiento de calcio intracelular y detoxificación de fármacos y compuestos endógenos.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La mitocondria constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -99,37 +99,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v3",
-      "statement": "¿Qué organelo celular contiene enzimas de tipo catalasa encargadas de descomponer el peróxido de hidrógeno ($H_2O_2$) —un subproducto metabólico altamente tóxico— en agua y oxígeno?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Sofía y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué organelo vesicular contiene hidrolasas ácidas activas a pH de 5.0 para la digestión celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Santiago y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "El peroxisoma",
+          "text": "El lisosoma",
           "is_correct": true,
-          "feedback": "¡Correcto! Los peroxisomas son organelos oxidativos que protegen a la célula del daño oxidativo neutralizando el peróxido de hidrógeno."
+          "feedback": "¡Correcto! El lisosoma responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El centrosoma",
+          "text": "Los pseudópodos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. El centrosoma es el centro organizador de microtúbulos y carece de actividad oxidativa enzimática."
+          "feedback": "Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La vacuola contráctil",
+          "text": "La subunidad menor 40S",
           "is_correct": false,
-          "feedback": "Incorrecto. Estas vacuolas regulan el equilibrio osmótico en organismos unicelulares de agua dulce expulsando exceso de agua."
+          "feedback": "Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El nucleolo",
+          "text": "El retículo endoplasmático liso",
           "is_correct": false,
-          "feedback": "Incorrecto. El nucleolo es una subestructura densa nuclear dedicada a la transcripción de ARNr y el ensamblaje ribosomal."
+          "feedback": "Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La enzima catalasa es una de las más eficientes de la célula, catalizando la reacción de desoxigenación catalítica $2H_2O_2 \\rightarrow 2H_2O + O_2$ dentro del peroxisoma para evitar el estrés oxidativo citoplásmico.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de El lisosoma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -144,37 +144,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v4",
-      "statement": "¿Qué filamento dinámico del citoesqueleto eucariota, compuesto por dímeros de tubulina, actúa como vía de transporte para organelos y es el componente principal del huso mitótico?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Martina y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué organelo citoplasmático contiene catalasa para descomponer el peróxido de hidrógeno en agua y oxígeno?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Gladys y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Los microtúbulos",
+          "text": "El peroxisoma",
           "is_correct": true,
-          "feedback": "¡Correcto! Los microtúbulos son estructuras cilíndricas huecas de tubulina esenciales para el transporte vesicular, la división celular y la motilidad (cilios y flagelos)."
+          "feedback": "¡Correcto! El peroxisoma responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los microfilamentos de actina",
+          "text": "Los pseudópodos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. Los filamentos de actina son los más delgados y participan en la contracción muscular, citocinesis y deformación celular."
+          "feedback": "Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Los filamentos intermedios de queratina",
+          "text": "El complejo TIM/TOM",
           "is_correct": false,
-          "feedback": "Incorrecto. Otorgan gran resistencia mecánica y soporte estructural estático a los desmosomas y tejidos epiteliales."
+          "feedback": "Incorrecto. El complejo TIM/TOM es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Las fibras de colágeno extracelulares",
+          "text": "El cloroplasto",
           "is_correct": false,
-          "feedback": "Incorrecto. El colágeno es una glicoproteína estructural de la matriz extracelular, no un componente interno del citoesqueleto."
+          "feedback": "Incorrecto. El cloroplasto describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El citoesqueleto se compone de tres tipos de filamentos proteicos: microtúbulos (los mayores), filamentos intermedios (soporte intermedio) y microfilamentos de actina (los menores). Su dinamismo permite los cambios de forma y locomoción.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de El peroxisoma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,37 +189,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v5",
-      "statement": "En una célula con alta demanda energética metabólica (como las células del tejido muscular cardíaco de un mamífero), ¿qué organelo se presentará en una densidad sumamente elevada?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Mateo y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué organelo celular membranoso carece de ribosomas y se encarga de la síntesis de lípidos y detoxificación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Ramón y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Mitocondria",
+          "text": "El retículo endoplasmático liso",
           "is_correct": true,
-          "feedback": "¡Correcto! Las mitocondrias son los centros de respiración celular aeróbica encargados de sintetizar la gran mayoría del ATP celular."
+          "feedback": "¡Correcto! El retículo endoplasmático liso responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Lisosoma",
+          "text": "Los microfilamentos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. Los lisosomas se encargan de la digestión y degradación de desechos intracelulares."
+          "feedback": "Incorrecto. Los microfilamentos de actina no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Aparato de Golgi",
+          "text": "El complejo TIM/TOM",
           "is_correct": false,
-          "feedback": "Incorrecto. El complejo de Golgi se especializa en la maduración, empaquetamiento y distribución de glicoproteínas."
+          "feedback": "Incorrecto. El complejo TIM/TOM es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Retículo endoplasmático liso",
+          "text": "La membrana plasmática y proteínas de anclaje",
           "is_correct": false,
-          "feedback": "Incorrecto. Este organelo participa en la síntesis de lípidos y depuración de toxinas, no en la generación masiva de ATP."
+          "feedback": "Incorrecto. La membrana plasmática y proteínas de anclaje describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las mitocondrias poseen una membrana interna plegada en crestas que optimiza la superficie para la cadena de transporte de electrones y la fosforilación oxidativa.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de El retículo endoplasmático liso constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -234,37 +234,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v6",
-      "statement": "¿Cuál de las siguientes funciones metabólicas se asocia directamente con la actividad del Retículo Endoplasmático Liso (REL) en las células hepáticas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Benjamín y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué organelo eucariota almacena agua, sales y aminoácidos, regulando la presión de turgencia en plantas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Sofía y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "La síntesis de lípidos y la detoxificación de sustancias nocivas",
+          "text": "La vacuola central",
           "is_correct": true,
-          "feedback": "¡Correcto! El REL carece de ribosomas y alberga enzimas clave para la biosíntesis de lípidos de membrana, hormonas esteroideas y la depuración de toxinas."
+          "feedback": "¡Correcto! La vacuola central responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La síntesis y plegamiento de proteínas destinadas a la secreción extracelular",
+          "text": "El oxígeno molecular",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función principal del retículo endoplasmático rugoso (RER) debido a sus ribosomas asociados."
+          "feedback": "Incorrecto. El oxígeno molecular no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La degradación hidrolítica ácida de macromoléculas fagocitadas",
+          "text": "Los filamentos intermedios",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta degradación ocurre exclusivamente dentro de los lisosomas."
+          "feedback": "Incorrecto. Los filamentos intermedios es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fijación química de carbono inorgánico en azúcares utilizables",
+          "text": "Los centriolos",
           "is_correct": false,
-          "feedback": "Incorrecto. La fijación del carbono es un proceso fotosintético que ocurre en el estroma de los cloroplastos de plantas."
+          "feedback": "Incorrecto. Los centriolos describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El retículo endoplasmático liso (REL) cumple papeles esenciales en la síntesis de lípidos corporales, metabolismo de carbohidratos, almacenamiento de calcio intracelular y detoxificación de fármacos y compuestos endógenos.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La vacuola central constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v7",
-      "statement": "¿Qué organelo celular contiene enzimas de tipo catalasa encargadas de descomponer el peróxido de hidrógeno ($H_2O_2$) —un subproducto metabólico altamente tóxico— en agua y oxígeno?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Mateo y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué filamentos del citoesqueleto compuestos por dímeros de tubulina guían el transporte de vesículas celulares?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Martina y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "El peroxisoma",
+          "text": "Los microtúbulos",
           "is_correct": true,
-          "feedback": "¡Correcto! Los peroxisomas son organelos oxidativos que protegen a la célula del daño oxidativo neutralizando el peróxido de hidrógeno."
+          "feedback": "¡Correcto! Los microtúbulos responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El centrosoma",
+          "text": "El cloroplasto",
           "is_correct": false,
-          "feedback": "Incorrecto. El centrosoma es el centro organizador de microtúbulos y carece de actividad oxidativa enzimática."
+          "feedback": "Incorrecto. El cloroplasto no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La vacuola contráctil",
+          "text": "El aparato de Golgi",
           "is_correct": false,
-          "feedback": "Incorrecto. Estas vacuolas regulan el equilibrio osmótico en organismos unicelulares de agua dulce expulsando exceso de agua."
+          "feedback": "Incorrecto. El aparato de Golgi es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El nucleolo",
+          "text": "La mitocondria",
           "is_correct": false,
-          "feedback": "Incorrecto. El nucleolo es una subestructura densa nuclear dedicada a la transcripción de ARNr y el ensamblaje ribosomal."
+          "feedback": "Incorrecto. La mitocondria describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La enzima catalasa es una de las más eficientes de la célula, catalizando la reacción de desoxigenación catalítica $2H_2O_2 \\rightarrow 2H_2O + O_2$ dentro del peroxisoma para evitar el estrés oxidativo citoplásmico.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Los microtúbulos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v8",
-      "statement": "¿Qué filamento dinámico del citoesqueleto eucariota, compuesto por dímeros de tubulina, actúa como vía de transporte para organelos y es el componente principal del huso mitótico?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Ramón y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué estructura compuesta de microtúbulos en arreglo triple se asocia con el centrosoma animal?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Gladys y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Los microtúbulos",
+          "text": "Los centriolos",
           "is_correct": true,
-          "feedback": "¡Correcto! Los microtúbulos son estructuras cilíndricas huecas de tubulina esenciales para el transporte vesicular, la división celular y la motilidad (cilios y flagelos)."
+          "feedback": "¡Correcto! Los centriolos responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los microfilamentos de actina",
+          "text": "El retículo endoplasmático rugoso",
           "is_correct": false,
-          "feedback": "Incorrecto. Los filamentos de actina son los más delgados y participan en la contracción muscular, citocinesis y deformación celular."
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Los filamentos intermedios de queratina",
+          "text": "La membrana plasmática y proteínas de anclaje",
           "is_correct": false,
-          "feedback": "Incorrecto. Otorgan gran resistencia mecánica y soporte estructural estático a los desmosomas y tejidos epiteliales."
+          "feedback": "Incorrecto. La membrana plasmática y proteínas de anclaje es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Las fibras de colágeno extracelulares",
+          "text": "Los pseudópodos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. El colágeno es una glicoproteína estructural de la matriz extracelular, no un componente interno del citoesqueleto."
+          "feedback": "Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El citoesqueleto se compone de tres tipos de filamentos proteicos: microtúbulos (los mayores), filamentos intermedios (soporte intermedio) y microfilamentos de actina (los menores). Su dinamismo permite los cambios de forma y locomoción.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Los centriolos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v9",
-      "statement": "En una célula con alta demanda energética metabólica (como las células del tejido muscular cardíaco de un mamífero), ¿qué organelo se presentará en una densidad sumamente elevada?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Santiago y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué subunidad del ribosoma eucariota de 80S se encarga de leer el ARN mensajero?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Benjamín y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Mitocondria",
+          "text": "La subunidad menor 40S",
           "is_correct": true,
-          "feedback": "¡Correcto! Las mitocondrias son los centros de respiración celular aeróbica encargados de sintetizar la gran mayoría del ATP celular."
+          "feedback": "¡Correcto! La subunidad menor 40S responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Lisosoma",
+          "text": "Los microtúbulos",
           "is_correct": false,
-          "feedback": "Incorrecto. Los lisosomas se encargan de la digestión y degradación de desechos intracelulares."
+          "feedback": "Incorrecto. Los microtúbulos no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Aparato de Golgi",
+          "text": "El cloroplasto",
           "is_correct": false,
-          "feedback": "Incorrecto. El complejo de Golgi se especializa en la maduración, empaquetamiento y distribución de glicoproteínas."
+          "feedback": "Incorrecto. El cloroplasto es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Retículo endoplasmático liso",
+          "text": "Los pseudópodos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. Este organelo participa en la síntesis de lípidos y depuración de toxinas, no en la generación masiva de ATP."
+          "feedback": "Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las mitocondrias poseen una membrana interna plegada en crestas que optimiza la superficie para la cadena de transporte de electrones y la fosforilación oxidativa.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La subunidad menor 40S constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v10",
-      "statement": "¿Cuál de las siguientes funciones metabólicas se asocia directamente con la actividad del Retículo Endoplasmático Liso (REL) en las células hepáticas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué organelo de doble membrana posee un sistema de tilacoides apilados en grana para realizar la fotosíntesis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Jorge y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "La síntesis de lípidos y la detoxificación de sustancias nocivas",
+          "text": "El cloroplasto",
           "is_correct": true,
-          "feedback": "¡Correcto! El REL carece de ribosomas y alberga enzimas clave para la biosíntesis de lípidos de membrana, hormonas esteroideas y la depuración de toxinas."
+          "feedback": "¡Correcto! El cloroplasto responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La síntesis y plegamiento de proteínas destinadas a la secreción extracelular",
+          "text": "Los pseudópodos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función principal del retículo endoplasmático rugoso (RER) debido a sus ribosomas asociados."
+          "feedback": "Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La degradación hidrolítica ácida de macromoléculas fagocitadas",
+          "text": "Los filamentos intermedios",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta degradación ocurre exclusivamente dentro de los lisosomas."
+          "feedback": "Incorrecto. Los filamentos intermedios es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fijación química de carbono inorgánico en azúcares utilizables",
+          "text": "La mitocondria",
           "is_correct": false,
-          "feedback": "Incorrecto. La fijación del carbono es un proceso fotosintético que ocurre en el estroma de los cloroplastos de plantas."
+          "feedback": "Incorrecto. La mitocondria describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El retículo endoplasmático liso (REL) cumple papeles esenciales en la síntesis de lípidos corporales, metabolismo de carbohidratos, almacenamiento de calcio intracelular y detoxificación de fármacos y compuestos endógenos.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de El cloroplasto constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v11",
-      "statement": "¿Qué organelo celular contiene enzimas de tipo catalasa encargadas de descomponer el peróxido de hidrógeno ($H_2O_2$) —un subproducto metabólico altamente tóxico— en agua y oxígeno?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Martina y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué filamento contráctil de actina participa en la formación del anillo de división celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Camila y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "El peroxisoma",
+          "text": "Los microfilamentos de actina",
           "is_correct": true,
-          "feedback": "¡Correcto! Los peroxisomas son organelos oxidativos que protegen a la célula del daño oxidativo neutralizando el peróxido de hidrógeno."
+          "feedback": "¡Correcto! Los microfilamentos de actina responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El centrosoma",
+          "text": "El retículo endoplasmático rugoso",
           "is_correct": false,
-          "feedback": "Incorrecto. El centrosoma es el centro organizador de microtúbulos y carece de actividad oxidativa enzimática."
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La vacuola contráctil",
+          "text": "El peroxisoma",
           "is_correct": false,
-          "feedback": "Incorrecto. Estas vacuolas regulan el equilibrio osmótico en organismos unicelulares de agua dulce expulsando exceso de agua."
+          "feedback": "Incorrecto. El peroxisoma es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El nucleolo",
+          "text": "La desoxirribonucleasa ácida",
           "is_correct": false,
-          "feedback": "Incorrecto. El nucleolo es una subestructura densa nuclear dedicada a la transcripción de ARNr y el ensamblaje ribosomal."
+          "feedback": "Incorrecto. La desoxirribonucleasa ácida describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La enzima catalasa es una de las más eficientes de la célula, catalizando la reacción de desoxigenación catalítica $2H_2O_2 \\rightarrow 2H_2O + O_2$ dentro del peroxisoma para evitar el estrés oxidativo citoplásmico.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Los microfilamentos de actina constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v12",
-      "statement": "¿Qué filamento dinámico del citoesqueleto eucariota, compuesto por dímeros de tubulina, actúa como vía de transporte para organelos y es el componente principal del huso mitótico?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Gladys y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué orgánulo almacena calcio intracelular y está altamente desarrollado en el tejido muscular estriado?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Los microtúbulos",
+          "text": "El retículo sarcoplásmico",
           "is_correct": true,
-          "feedback": "¡Correcto! Los microtúbulos son estructuras cilíndricas huecas de tubulina esenciales para el transporte vesicular, la división celular y la motilidad (cilios y flagelos)."
+          "feedback": "¡Correcto! El retículo sarcoplásmico responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los microfilamentos de actina",
+          "text": "El retículo endoplasmático rugoso",
           "is_correct": false,
-          "feedback": "Incorrecto. Los filamentos de actina son los más delgados y participan en la contracción muscular, citocinesis y deformación celular."
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Los filamentos intermedios de queratina",
+          "text": "La vacuola central",
           "is_correct": false,
-          "feedback": "Incorrecto. Otorgan gran resistencia mecánica y soporte estructural estático a los desmosomas y tejidos epiteliales."
+          "feedback": "Incorrecto. La vacuola central es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Las fibras de colágeno extracelulares",
+          "text": "Los filamentos intermedios",
           "is_correct": false,
-          "feedback": "Incorrecto. El colágeno es una glicoproteína estructural de la matriz extracelular, no un componente interno del citoesqueleto."
+          "feedback": "Incorrecto. Los filamentos intermedios describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El citoesqueleto se compone de tres tipos de filamentos proteicos: microtúbulos (los mayores), filamentos intermedios (soporte intermedio) y microfilamentos de actina (los menores). Su dinamismo permite los cambios de forma y locomoción.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El retículo sarcoplásmico constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v13",
-      "statement": "En una célula con alta demanda energética metabólica (como las células del tejido muscular cardíaco de un mamífero), ¿qué organelo se presentará en una densidad sumamente elevada?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Gladys y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué región del cloroplasto contiene las enzimas solubles encargadas del ciclo de Calvin?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Valentina y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Mitocondria",
+          "text": "El estroma",
           "is_correct": true,
-          "feedback": "¡Correcto! Las mitocondrias son los centros de respiración celular aeróbica encargados de sintetizar la gran mayoría del ATP celular."
+          "feedback": "¡Correcto! El estroma responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Lisosoma",
+          "text": "La subunidad menor 40S",
           "is_correct": false,
-          "feedback": "Incorrecto. Los lisosomas se encargan de la digestión y degradación de desechos intracelulares."
+          "feedback": "Incorrecto. La subunidad menor 40S no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Aparato de Golgi",
+          "text": "Los pseudópodos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. El complejo de Golgi se especializa en la maduración, empaquetamiento y distribución de glicoproteínas."
+          "feedback": "Incorrecto. Los pseudópodos de actina es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Retículo endoplasmático liso",
+          "text": "El retículo sarcoplásmico",
           "is_correct": false,
-          "feedback": "Incorrecto. Este organelo participa en la síntesis de lípidos y depuración de toxinas, no en la generación masiva de ATP."
+          "feedback": "Incorrecto. El retículo sarcoplásmico describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las mitocondrias poseen una membrana interna plegada en crestas que optimiza la superficie para la cadena de transporte de electrones y la fosforilación oxidativa.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El estroma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,37 +594,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v14",
-      "statement": "¿Cuál de las siguientes funciones metabólicas se asocia directamente con la actividad del Retículo Endoplasmático Liso (REL) en las células hepáticas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Mateo y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué compuesto de la matriz mitocondrial acepta electrones al final de la cadena respiratoria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Florencia y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "La síntesis de lípidos y la detoxificación de sustancias nocivas",
+          "text": "El oxígeno molecular",
           "is_correct": true,
-          "feedback": "¡Correcto! El REL carece de ribosomas y alberga enzimas clave para la biosíntesis de lípidos de membrana, hormonas esteroideas y la depuración de toxinas."
+          "feedback": "¡Correcto! El oxígeno molecular responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La síntesis y plegamiento de proteínas destinadas a la secreción extracelular",
+          "text": "Los filamentos intermedios",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función principal del retículo endoplasmático rugoso (RER) debido a sus ribosomas asociados."
+          "feedback": "Incorrecto. Los filamentos intermedios no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La degradación hidrolítica ácida de macromoléculas fagocitadas",
+          "text": "El retículo endoplasmático liso",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta degradación ocurre exclusivamente dentro de los lisosomas."
+          "feedback": "Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fijación química de carbono inorgánico en azúcares utilizables",
+          "text": "El retículo endoplasmático rugoso",
           "is_correct": false,
-          "feedback": "Incorrecto. La fijación del carbono es un proceso fotosintético que ocurre en el estroma de los cloroplastos de plantas."
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El retículo endoplasmático liso (REL) cumple papeles esenciales en la síntesis de lípidos corporales, metabolismo de carbohidratos, almacenamiento de calcio intracelular y detoxificación de fármacos y compuestos endógenos.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El oxígeno molecular constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -639,37 +639,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v15",
-      "statement": "¿Qué organelo celular contiene enzimas de tipo catalasa encargadas de descomponer el peróxido de hidrógeno ($H_2O_2$) —un subproducto metabólico altamente tóxico— en agua y oxígeno?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué tipo de filamentos del citoesqueleto compuesto por queratina da resistencia contra esfuerzos mecánicos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Valentina y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "El peroxisoma",
+          "text": "Los filamentos intermedios",
           "is_correct": true,
-          "feedback": "¡Correcto! Los peroxisomas son organelos oxidativos que protegen a la célula del daño oxidativo neutralizando el peróxido de hidrógeno."
+          "feedback": "¡Correcto! Los filamentos intermedios responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El centrosoma",
+          "text": "El aparato de Golgi",
           "is_correct": false,
-          "feedback": "Incorrecto. El centrosoma es el centro organizador de microtúbulos y carece de actividad oxidativa enzimática."
+          "feedback": "Incorrecto. El aparato de Golgi no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La vacuola contráctil",
+          "text": "El retículo endoplasmático rugoso",
           "is_correct": false,
-          "feedback": "Incorrecto. Estas vacuolas regulan el equilibrio osmótico en organismos unicelulares de agua dulce expulsando exceso de agua."
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El nucleolo",
+          "text": "El lisosoma",
           "is_correct": false,
-          "feedback": "Incorrecto. El nucleolo es una subestructura densa nuclear dedicada a la transcripción de ARNr y el ensamblaje ribosomal."
+          "feedback": "Incorrecto. El lisosoma describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La enzima catalasa es una de las más eficientes de la célula, catalizando la reacción de desoxigenación catalítica $2H_2O_2 \\rightarrow 2H_2O + O_2$ dentro del peroxisoma para evitar el estrés oxidativo citoplásmico.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Los filamentos intermedios constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v16",
-      "statement": "¿Qué filamento dinámico del citoesqueleto eucariota, compuesto por dímeros de tubulina, actúa como vía de transporte para organelos y es el componente principal del huso mitótico?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Ramón y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué organelo se encarga de la síntesis de proteínas de exportación y tiene ribosomas adheridos en su membrana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sofía y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Los microtúbulos",
+          "text": "El retículo endoplasmático rugoso",
           "is_correct": true,
-          "feedback": "¡Correcto! Los microtúbulos son estructuras cilíndricas huecas de tubulina esenciales para el transporte vesicular, la división celular y la motilidad (cilios y flagelos)."
+          "feedback": "¡Correcto! El retículo endoplasmático rugoso responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los microfilamentos de actina",
+          "text": "Los microtúbulos",
           "is_correct": false,
-          "feedback": "Incorrecto. Los filamentos de actina son los más delgados y participan en la contracción muscular, citocinesis y deformación celular."
+          "feedback": "Incorrecto. Los microtúbulos no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Los filamentos intermedios de queratina",
+          "text": "Los centriolos",
           "is_correct": false,
-          "feedback": "Incorrecto. Otorgan gran resistencia mecánica y soporte estructural estático a los desmosomas y tejidos epiteliales."
+          "feedback": "Incorrecto. Los centriolos es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Las fibras de colágeno extracelulares",
+          "text": "El peroxisoma",
           "is_correct": false,
-          "feedback": "Incorrecto. El colágeno es una glicoproteína estructural de la matriz extracelular, no un componente interno del citoesqueleto."
+          "feedback": "Incorrecto. El peroxisoma describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El citoesqueleto se compone de tres tipos de filamentos proteicos: microtúbulos (los mayores), filamentos intermedios (soporte intermedio) y microfilamentos de actina (los menores). Su dinamismo permite los cambios de forma y locomoción.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El retículo endoplasmático rugoso constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v17",
-      "statement": "En una célula con alta demanda energética metabólica (como las células del tejido muscular cardíaco de un mamífero), ¿qué organelo se presentará en una densidad sumamente elevada?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Jorge y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué estructura microscópica del citoesqueleto se proyecta al exterior de la célula facilitando el movimiento ameboide?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sebastián y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Mitocondria",
+          "text": "Los pseudópodos de actina",
           "is_correct": true,
-          "feedback": "¡Correcto! Las mitocondrias son los centros de respiración celular aeróbica encargados de sintetizar la gran mayoría del ATP celular."
+          "feedback": "¡Correcto! Los pseudópodos de actina responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Lisosoma",
+          "text": "El complejo TIM/TOM",
           "is_correct": false,
-          "feedback": "Incorrecto. Los lisosomas se encargan de la digestión y degradación de desechos intracelulares."
+          "feedback": "Incorrecto. El complejo TIM/TOM no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Aparato de Golgi",
+          "text": "La subunidad menor 40S",
           "is_correct": false,
-          "feedback": "Incorrecto. El complejo de Golgi se especializa en la maduración, empaquetamiento y distribución de glicoproteínas."
+          "feedback": "Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Retículo endoplasmático liso",
+          "text": "El retículo sarcoplásmico",
           "is_correct": false,
-          "feedback": "Incorrecto. Este organelo participa en la síntesis de lípidos y depuración de toxinas, no en la generación masiva de ATP."
+          "feedback": "Incorrecto. El retículo sarcoplásmico describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las mitocondrias poseen una membrana interna plegada en crestas que optimiza la superficie para la cadena de transporte de electrones y la fosforilación oxidativa.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Los pseudópodos de actina constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,37 +774,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v18",
-      "statement": "¿Cuál de las siguientes funciones metabólicas se asocia directamente con la actividad del Retículo Endoplasmático Liso (REL) en las células hepáticas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Mateo y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué componente celular eucariota interactúa directamente con el citoesqueleto para mantener la forma geométrica celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Sebastián y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "La síntesis de lípidos y la detoxificación de sustancias nocivas",
+          "text": "La membrana plasmática y proteínas de anclaje",
           "is_correct": true,
-          "feedback": "¡Correcto! El REL carece de ribosomas y alberga enzimas clave para la biosíntesis de lípidos de membrana, hormonas esteroideas y la depuración de toxinas."
+          "feedback": "¡Correcto! La membrana plasmática y proteínas de anclaje responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La síntesis y plegamiento de proteínas destinadas a la secreción extracelular",
+          "text": "Los microfilamentos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función principal del retículo endoplasmático rugoso (RER) debido a sus ribosomas asociados."
+          "feedback": "Incorrecto. Los microfilamentos de actina no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La degradación hidrolítica ácida de macromoléculas fagocitadas",
+          "text": "El retículo endoplasmático rugoso",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta degradación ocurre exclusivamente dentro de los lisosomas."
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fijación química de carbono inorgánico en azúcares utilizables",
+          "text": "El retículo endoplasmático liso",
           "is_correct": false,
-          "feedback": "Incorrecto. La fijación del carbono es un proceso fotosintético que ocurre en el estroma de los cloroplastos de plantas."
+          "feedback": "Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El retículo endoplasmático liso (REL) cumple papeles esenciales en la síntesis de lípidos corporales, metabolismo de carbohidratos, almacenamiento de calcio intracelular y detoxificación de fármacos y compuestos endógenos.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de La membrana plasmática y proteínas de anclaje constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -819,37 +819,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v19",
-      "statement": "¿Qué organelo celular contiene enzimas de tipo catalasa encargadas de descomponer el peróxido de hidrógeno ($H_2O_2$) —un subproducto metabólico altamente tóxico— en agua y oxígeno?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Sofía y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué complejo macromolecular transfiere proteínas plegadas desde el citoplasma al interior de la mitocondria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Florencia y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "El peroxisoma",
+          "text": "El complejo TIM/TOM",
           "is_correct": true,
-          "feedback": "¡Correcto! Los peroxisomas son organelos oxidativos que protegen a la célula del daño oxidativo neutralizando el peróxido de hidrógeno."
+          "feedback": "¡Correcto! El complejo TIM/TOM responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "El centrosoma",
+          "text": "El retículo endoplasmático rugoso",
           "is_correct": false,
-          "feedback": "Incorrecto. El centrosoma es el centro organizador de microtúbulos y carece de actividad oxidativa enzimática."
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La vacuola contráctil",
+          "text": "El retículo endoplasmático liso",
           "is_correct": false,
-          "feedback": "Incorrecto. Estas vacuolas regulan el equilibrio osmótico en organismos unicelulares de agua dulce expulsando exceso de agua."
+          "feedback": "Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "El nucleolo",
+          "text": "Los pseudópodos de actina",
           "is_correct": false,
-          "feedback": "Incorrecto. El nucleolo es una subestructura densa nuclear dedicada a la transcripción de ARNr y el ensamblaje ribosomal."
+          "feedback": "Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La enzima catalasa es una de las más eficientes de la célula, catalizando la reacción de desoxigenación catalítica $2H_2O_2 \\rightarrow 2H_2O + O_2$ dentro del peroxisoma para evitar el estrés oxidativo citoplásmico.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de El complejo TIM/TOM constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v20",
-      "statement": "¿Qué filamento dinámico del citoesqueleto eucariota, compuesto por dímeros de tubulina, actúa como vía de transporte para organelos y es el componente principal del huso mitótico?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Ramón y su grupo investigan sobre Organelos celulares.",
+      "statement": "¿Qué enzima de los lisosomas cataliza la ruptura hidrolítica de los enlaces fosfodiéster del ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Valentina y su grupo investigan sobre Organelos celulares.",
       "options": [
         {
           "letter": "A",
-          "text": "Los microtúbulos",
+          "text": "La desoxirribonucleasa ácida",
           "is_correct": true,
-          "feedback": "¡Correcto! Los microtúbulos son estructuras cilíndricas huecas de tubulina esenciales para el transporte vesicular, la división celular y la motilidad (cilios y flagelos)."
+          "feedback": "¡Correcto! La desoxirribonucleasa ácida responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los microfilamentos de actina",
+          "text": "El oxígeno molecular",
           "is_correct": false,
-          "feedback": "Incorrecto. Los filamentos de actina son los más delgados y participan en la contracción muscular, citocinesis y deformación celular."
+          "feedback": "Incorrecto. El oxígeno molecular no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Los filamentos intermedios de queratina",
+          "text": "La vacuola central",
           "is_correct": false,
-          "feedback": "Incorrecto. Otorgan gran resistencia mecánica y soporte estructural estático a los desmosomas y tejidos epiteliales."
+          "feedback": "Incorrecto. La vacuola central es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Las fibras de colágeno extracelulares",
+          "text": "El retículo endoplasmático liso",
           "is_correct": false,
-          "feedback": "Incorrecto. El colágeno es una glicoproteína estructural de la matriz extracelular, no un componente interno del citoesqueleto."
+          "feedback": "Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El citoesqueleto se compone de tres tipos de filamentos proteicos: microtúbulos (los mayores), filamentos intermedios (soporte intermedio) y microfilamentos de actina (los menores). Su dinamismo permite los cambios de forma y locomoción.",
-      "difficulty": "10",
+      "explanation": "El concepto de La desoxirribonucleasa ácida constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
