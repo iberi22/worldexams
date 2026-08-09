@@ -100,13 +100,13 @@
       "id": "feat-security",
       "category": "security",
       "description": "Limpieza de secrets expuestos en git history",
-      "passes": false,
-      "verified_by": "pending",
+      "passes": true,
+      "verified_by": "scripts/validate-secrets.sh and git log cleanup check",
       "github_issue": 221,
       "priority": "P1",
-      "status": "deferred-with-coordination",
-      "progress_pct": 0,
-      "note": "ejecución force-push diferida al final (F7)"
+      "status": "active",
+      "progress_pct": 100,
+      "note": "ejecución force-push realizada; envs des-registrados e ignorados"
     },
     {
       "id": "feat-pais-mexico",

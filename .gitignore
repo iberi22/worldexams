@@ -82,3 +82,4 @@ credentials.json
 
 # Exceptions to allow security scripts
 !scripts/pre-commit-secret-scan.sh
+!scripts/validate-secrets.sh
