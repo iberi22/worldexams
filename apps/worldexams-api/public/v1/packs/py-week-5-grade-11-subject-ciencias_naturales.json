@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v1",
-      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Camila y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿En qué etapa de la mitosis las cromátidas hermanas se separan de manera simultánea y migran hacia polos opuestos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafase",
+          "text": "Anafase",
           "is_correct": true,
-          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+          "feedback": "¡Correcto! Anafase responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Profase",
+          "text": "La dineína y la cinesina",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+          "feedback": "Incorrecto. La dineína y la cinesina no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Anafase",
+          "text": "Las histonas nucleares H2A, H2B, H3 y H4",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+          "feedback": "Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Telofase",
+          "text": "Quiasma",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+          "feedback": "Incorrecto. Quiasma describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de Anafase constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,37 +54,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v2",
-      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Florencia y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿En qué subfase del ciclo celular somático eucariota ocurre la duplicación del ADN cromosómico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "text": "Fase S",
           "is_correct": true,
-          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+          "feedback": "¡Correcto! Fase S responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "text": "El complejo promotor de la anafase (APC/C)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+          "feedback": "Incorrecto. El complejo promotor de la anafase (APC/C) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "text": "La dineína y la cinesina",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+          "feedback": "Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "text": "Telofase",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+          "feedback": "Incorrecto. Telofase describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de Fase S constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -99,37 +99,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v3",
-      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Santiago y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué estructura proteica en el centrómero de los cromosomas sirve como punto de anclaje para los microtúbulos del huso?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Sofía y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Paquiteno",
+          "text": "El cinetocoro",
           "is_correct": true,
-          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+          "feedback": "¡Correcto! El cinetocoro responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Leptoteno",
+          "text": "La dineína y la cinesina",
           "is_correct": false,
-          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+          "feedback": "Incorrecto. La dineína y la cinesina no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Zigoteno",
+          "text": "La meiosis",
           "is_correct": false,
-          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+          "feedback": "Incorrecto. La meiosis es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Diploteno",
+          "text": "La fisión binaria",
           "is_correct": false,
-          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+          "feedback": "Incorrecto. La fisión binaria describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de El cinetocoro constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -144,37 +144,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v4",
-      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué proceso de división nuclear mitótica mantiene rigurosamente constante la ploidía genómica en las células hijas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Valentina y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafase",
+          "text": "La mitosis",
           "is_correct": true,
-          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+          "feedback": "¡Correcto! La mitosis responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Profase",
+          "text": "Fase S",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+          "feedback": "Incorrecto. Fase S no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Anafase",
+          "text": "Las neuronas maduras",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+          "feedback": "Incorrecto. Las neuronas maduras es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Telofase",
+          "text": "Zigoteno",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+          "feedback": "Incorrecto. Zigoteno describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La mitosis constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,37 +189,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v5",
-      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Valentina y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué proceso divisional nuclear especializado rinde cuatro células haploides a partir de una célula progenitora diploide?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "text": "La meiosis",
           "is_correct": true,
-          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+          "feedback": "¡Correcto! La meiosis responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "text": "Fase G1",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+          "feedback": "Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "text": "La dineína y la cinesina",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+          "feedback": "Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "text": "El cinetocoro",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+          "feedback": "Incorrecto. El cinetocoro describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La meiosis constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -234,37 +234,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v6",
-      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, María y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Durante qué fase mitótica se vuelve a formar la envoltura nuclear alrededor de los cromosomas descondensados?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Benjamín y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Paquiteno",
+          "text": "Telofase",
           "is_correct": true,
-          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+          "feedback": "¡Correcto! Telofase responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Leptoteno",
+          "text": "Fase G1",
           "is_correct": false,
-          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+          "feedback": "Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
           "text": "Zigoteno",
           "is_correct": false,
-          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+          "feedback": "Incorrecto. Zigoteno es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Diploteno",
+          "text": "La dineína y la cinesina",
           "is_correct": false,
-          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+          "feedback": "Incorrecto. La dineína y la cinesina describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Telofase constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v7",
-      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué subfase de la profase I de la meiosis se caracteriza por el apareamiento y sinapsis de cromosomas homólogos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Valentina y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafase",
+          "text": "Zigoteno",
           "is_correct": true,
-          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+          "feedback": "¡Correcto! Zigoteno responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Profase",
+          "text": "Anafase",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+          "feedback": "Incorrecto. Anafase no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Anafase",
+          "text": "La fisión binaria",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+          "feedback": "Incorrecto. La fisión binaria es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Telofase",
+          "text": "La dineína y la cinesina",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+          "feedback": "Incorrecto. La dineína y la cinesina describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Zigoteno constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v8",
-      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Cómo se denomina la unión visible de cromátidas no hermanas donde se ha producido un entrecruzamiento de ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Sebastián y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "text": "Quiasma",
           "is_correct": true,
-          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+          "feedback": "¡Correcto! Quiasma responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "text": "Fase S",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+          "feedback": "Incorrecto. Fase S no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "text": "La mitosis",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+          "feedback": "Incorrecto. La mitosis es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "text": "Metafase I",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+          "feedback": "Incorrecto. Metafase I describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Quiasma constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v9",
-      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Florencia y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿En qué fase de la meiosis I los pares de cromosomas homólogos se alinean de manera aleatoria en el ecuador celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Paquiteno",
+          "text": "Metafase I",
           "is_correct": true,
-          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+          "feedback": "¡Correcto! Metafase I responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Leptoteno",
+          "text": "La mitosis",
           "is_correct": false,
-          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+          "feedback": "Incorrecto. La mitosis no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Zigoteno",
+          "text": "El complejo promotor de la anafase (APC/C)",
           "is_correct": false,
-          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+          "feedback": "Incorrecto. El complejo promotor de la anafase (APC/C) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Diploteno",
+          "text": "Las neuronas maduras",
           "is_correct": false,
-          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+          "feedback": "Incorrecto. Las neuronas maduras describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Metafase I constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v10",
-      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué proteína motora interactúa con los microtúbulos cinetocóricos para mover los cromosomas durante la anafase?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Sofía y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafase",
+          "text": "La dineína y la cinesina",
           "is_correct": true,
-          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+          "feedback": "¡Correcto! La dineína y la cinesina responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Profase",
+          "text": "Meiosis II",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+          "feedback": "Incorrecto. Meiosis II no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Anafase",
+          "text": "Fase S",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+          "feedback": "Incorrecto. Fase S es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Telofase",
+          "text": "El fragmoplasto",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+          "feedback": "Incorrecto. El fragmoplasto describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La dineína y la cinesina constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v11",
-      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Sofía y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué molécula del ciclo celular, regulada por ciclinas, controla el paso de la fase G2 a la fase M?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "text": "La quinasa dependiente de ciclina (CDK)",
           "is_correct": true,
-          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+          "feedback": "¡Correcto! La quinasa dependiente de ciclina (CDK) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "text": "Zigoteno",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+          "feedback": "Incorrecto. Zigoteno no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "text": "Meiosis II",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+          "feedback": "Incorrecto. Meiosis II es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "text": "La fisión binaria",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+          "feedback": "Incorrecto. La fisión binaria describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de La quinasa dependiente de ciclina (CDK) constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v12",
-      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿En qué etapa de la interfase la célula crece, sintetiza proteínas y acumula organelos sin duplicar su material genético?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Gladys y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Paquiteno",
+          "text": "Fase G1",
           "is_correct": true,
-          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+          "feedback": "¡Correcto! Fase G1 responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Leptoteno",
+          "text": "Las neuronas maduras",
           "is_correct": false,
-          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+          "feedback": "Incorrecto. Las neuronas maduras no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Zigoteno",
+          "text": "Los microtúbulos polares",
           "is_correct": false,
-          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+          "feedback": "Incorrecto. Los microtúbulos polares es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Diploteno",
+          "text": "Metafase I",
           "is_correct": false,
-          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+          "feedback": "Incorrecto. Metafase I describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Fase G1 constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v13",
-      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Santiago y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué tipo de células somáticas humanas entran en una fase de latencia permanente llamada G0 sin dividirse más?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafase",
+          "text": "Las neuronas maduras",
           "is_correct": true,
-          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+          "feedback": "¡Correcto! Las neuronas maduras responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Profase",
+          "text": "Fase G1",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+          "feedback": "Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Anafase",
+          "text": "Fase S",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+          "feedback": "Incorrecto. Fase S es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Telofase",
+          "text": "La fisión binaria",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+          "feedback": "Incorrecto. La fisión binaria describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Las neuronas maduras constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,37 +594,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v14",
-      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Camila y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué estructura citoesquelética se encarga de realizar la citocinesis en las células de las raíces de las plantas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "text": "El fragmoplasto",
           "is_correct": true,
-          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+          "feedback": "¡Correcto! El fragmoplasto responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "text": "La quinasa dependiente de ciclina (CDK)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+          "feedback": "Incorrecto. La quinasa dependiente de ciclina (CDK) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "text": "La dineína y la cinesina",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+          "feedback": "Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "text": "La mitosis",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+          "feedback": "Incorrecto. La mitosis describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El fragmoplasto constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -639,37 +639,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v15",
-      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué tipo de división celular bacteriana asexual duplica el ADN circular y divide la célula en dos de forma equitativa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Sofía y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Paquiteno",
+          "text": "La fisión binaria",
           "is_correct": true,
-          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+          "feedback": "¡Correcto! La fisión binaria responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Leptoteno",
+          "text": "El fragmoplasto",
           "is_correct": false,
-          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+          "feedback": "Incorrecto. El fragmoplasto no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Zigoteno",
+          "text": "La quinasa dependiente de ciclina (CDK)",
           "is_correct": false,
-          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+          "feedback": "Incorrecto. La quinasa dependiente de ciclina (CDK) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Diploteno",
+          "text": "Anafase",
           "is_correct": false,
-          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+          "feedback": "Incorrecto. Anafase describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de La fisión binaria constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v16",
-      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Mateo y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Durante qué división meiótica (I o II) se separan físicamente las cromátidas hermanas sin recombinación previa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Camila y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafase",
+          "text": "Meiosis II",
           "is_correct": true,
-          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+          "feedback": "¡Correcto! Meiosis II responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Profase",
+          "text": "Zigoteno",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+          "feedback": "Incorrecto. Zigoteno no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Anafase",
+          "text": "Las histonas nucleares H2A, H2B, H3 y H4",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+          "feedback": "Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Telofase",
+          "text": "Fase S",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+          "feedback": "Incorrecto. Fase S describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Meiosis II constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v17",
-      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué anomalía en la segregación cromosómica durante la anafase meiótica puede ocasionar una trisomía en el cigoto?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Santiago y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "text": "La no disyunción cromosómica",
           "is_correct": true,
-          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+          "feedback": "¡Correcto! La no disyunción cromosómica responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "text": "La mitosis",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+          "feedback": "Incorrecto. La mitosis no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "text": "El complejo promotor de la anafase (APC/C)",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+          "feedback": "Incorrecto. El complejo promotor de la anafase (APC/C) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "text": "Fase S",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+          "feedback": "Incorrecto. Fase S describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de La no disyunción cromosómica constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,37 +774,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v18",
-      "statement": "¿En cuál fase específica de la profase I de la meiosis tiene lugar el sobrecruzamiento o entrecruzamiento (crossing-over), donde se intercambian segmentos de ADN entre cromátidas no hermanas de cromosomas homólogos?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, María y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué filamento microtubular especial no se ancla a ningún cromosoma pero estabiliza el huso de un polo a otro?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Paquiteno",
+          "text": "Los microtúbulos polares",
           "is_correct": true,
-          "feedback": "¡Correcto! El paquiteno es la subfase de la Profase I donde se consolidan los nódulos de recombinación y ocurre físicamente el crossing-over."
+          "feedback": "¡Correcto! Los microtúbulos polares responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Leptoteno",
+          "text": "Fase G1",
           "is_correct": false,
-          "feedback": "Incorrecto. En el leptoteno los cromosomas homólogos comienzan a condensarse y a buscarse mutuamente."
+          "feedback": "Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Zigoteno",
+          "text": "La dineína y la cinesina",
           "is_correct": false,
-          "feedback": "Incorrecto. En el zigoteno ocurre la sinapsis o apareamiento estrecho mediante el complejo sinaptonémico de los homólogos."
+          "feedback": "Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Diploteno",
+          "text": "Anafase",
           "is_correct": false,
-          "feedback": "Incorrecto. En el diploteno el complejo sinaptonémico se disuelve, y los cromosomas permanecen unidos solo en los puntos de cruce (quiasmas)."
+          "feedback": "Incorrecto. Anafase describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Profase I de la Meiosis es un periodo complejo dividido en cinco etapas: leptoteno, zigoteno, paquiteno, diploteno y diacinesis, esenciales para la recombinación y variabilidad de las especies de reproducción sexual.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Los microtúbulos polares constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -819,37 +819,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v19",
-      "statement": "¿Durante cuál etapa de la mitosis se produce la condensación máxima de la cromatina y la alineación de los cromosomas en la placa ecuatorial de la célula?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Santiago y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué tipo de proteínas histónicas forman el núcleo del nucleosoma alrededor del cual se enrolla el ADN cromosómico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafase",
+          "text": "Las histonas nucleares H2A, H2B, H3 y H4",
           "is_correct": true,
-          "feedback": "¡Correcto! En la metafase, los cromosomas alcanzan su máximo grado de compactación y se alinean perfectamente en el plano central (ecuador) de la célula."
+          "feedback": "¡Correcto! Las histonas nucleares H2A, H2B, H3 y H4 responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Profase",
+          "text": "La meiosis",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina comienza a condensarse y se desintegra la carioteca, pero los cromosomas no se han alineado aún."
+          "feedback": "Incorrecto. La meiosis no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Anafase",
+          "text": "Fase G1",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase se separan las cromátidas hermanas y migran hacia los polos opuestos de la célula."
+          "feedback": "Incorrecto. Fase G1 es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Telofase",
+          "text": "El fragmoplasto",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas se descondensan en los polos y se reorganiza la envoltura nuclear."
+          "feedback": "Incorrecto. El fragmoplasto describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La mitosis consta de cuatro fases secuenciales: profase, metafase, anafase y telofase. Garantiza la segregación equitativa del ADN duplicado hacia las células hijas diploides.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Las histonas nucleares H2A, H2B, H3 y H4 constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v20",
-      "statement": "¿Cuál es el principal significado biológico y la consecuencia de la meiosis que la diferencia sustancialmente de la mitosis?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Benjamín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "statement": "¿Qué complejo multiproteico degrada selectivamente las ciclinas promoviendo la salida de la mitosis celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Ramón y su grupo investigan sobre División celular: mitosis y meiosis.",
       "options": [
         {
           "letter": "A",
-          "text": "La generación de variabilidad genética a través del entrecruzamiento (crossing-over) y la reducción a la mitad del número cromosómico en gametos",
+          "text": "El complejo promotor de la anafase (APC/C)",
           "is_correct": true,
-          "feedback": "¡Correcto! La meiosis produce cuatro células hijas haploides con combinaciones de genes únicas gracias al crossing-over y la segregación al azar de cromosomas homólogos."
+          "feedback": "¡Correcto! El complejo promotor de la anafase (APC/C) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La producción de dos células hijas genéticamente idénticas para la regeneración tisular de tejidos dañados",
+          "text": "Quiasma",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función de la mitosis celular somática."
+          "feedback": "Incorrecto. Quiasma no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La duplicación idéntica del número de cromosomas somáticos para mantener la constancia genética en células epidérmicas",
+          "text": "El fragmoplasto",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis reduce el número cromosómico ($2n \\rightarrow n$) para posibilitar la posterior fecundación sin duplicar la ploidía genómica."
+          "feedback": "Incorrecto. El fragmoplasto es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La fusión citoplasmática directa de células germinales diploides dentro de las gónadas humanas",
+          "text": "Las histonas nucleares H2A, H2B, H3 y H4",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis es un proceso de división nuclear divisional, no una fusión de células."
+          "feedback": "Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La meiosis es una división especializada que comprende dos etapas sucesivas (Meiosis I y II). El fenómeno de crossing-over ocurre durante la Profase I, permitiendo el intercambio físico de segmentos entre cromátidas de cromosomas homólogos.",
-      "difficulty": "10",
+      "explanation": "El concepto de El complejo promotor de la anafase (APC/C) constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",

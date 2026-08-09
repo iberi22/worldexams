@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v1",
-      "statement": "¿Cuál de las siguientes premisas constituye un postulado central de la Teoría de la Evolución por Selección Natural formulada por Charles Darwin?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué mecanismo evolutivo propuesto por Darwin favorece la supervivencia de los rasgos adaptativos heredables?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, María y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Los individuos con rasgos adaptativos favorables tienen una mayor tasa de supervivencia y éxito reproductivo, transmitiendo dichos rasgos a su descendencia",
+          "text": "La selección natural",
           "is_correct": true,
-          "feedback": "¡Correcto! La selección natural favorece la reproducción de los organismos mejor adaptados a su entorno local (eficacia biológica o fitness)."
+          "feedback": "¡Correcto! La selección natural responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los caracteres morfológicos adquiridos por el uso o desuso de un órgano durante la vida del individuo se heredan de manera acumulativa",
+          "text": "Estructuras análogas",
           "is_correct": false,
-          "feedback": "Incorrecto. Este postulado pertenece a la teoría de la herencia de los caracteres adquiridos de Jean-Baptiste Lamarck, no de Darwin."
+          "feedback": "Incorrecto. Estructuras análogas no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El ritmo evolutivo de las especies es impulsado exclusivamente por mutaciones genómicas masivas que originan formas de vida nuevas al azar en una generación",
+          "text": "Evolución convergente",
           "is_correct": false,
-          "feedback": "Incorrecto. Este enfoque pertenece al mutacionismo primitivo; la selección natural darwiniana es un proceso gradual que opera sobre la variación poblacional existente."
+          "feedback": "Incorrecto. Evolución convergente es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Los recursos alimenticios ambientales crecen de forma geométrica para sostener el aumento lineal indefinido de la población",
+          "text": "La ley de Hardy-Weinberg",
           "is_correct": false,
-          "feedback": "Incorrecto. Darwin se apoyó en Malthus, quien afirmaba lo opuesto: la población crece más rápido (geométricamente) que los alimentos (aritméticamente), desatando la lucha por la existencia."
+          "feedback": "Incorrecto. La ley de Hardy-Weinberg describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La selección natural requiere de tres condiciones biológicas indispensables para ocurrir: variabilidad fenotípica intraespecífica, heredabilidad de la variación y diferencias individuales en el éxito reproductivo diferencial.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La selección natural constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,37 +54,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v2",
-      "statement": "¿Cómo se define el concepto evolutivo de 'homología' estructural al comparar las extremidades anteriores de un murciélago, un humano y una ballena?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Joaquín y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Cómo se denominan las estructuras anatómicas que cumplen funciones similares en especies no emparentadas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Liz y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Estructuras que comparten un origen evolutivo y un patrón anatómico común heredado de un ancestro común, aunque cumplan funciones distintas",
+          "text": "Estructuras análogas",
           "is_correct": true,
-          "feedback": "¡Correcto! Las homologías evidencian el origen común y la divergencia evolutiva adaptada a diferentes nichos (vuelo, manipulación, natación)."
+          "feedback": "¡Correcto! Estructuras análogas responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Órganos morfológicamente idénticos que surgieron de manera independiente en taxones no relacionados evolutivamente",
+          "text": "El equilibrio puntuado",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto define a las estructuras análogas debidas a convergencia evolutiva, no homologías."
+          "feedback": "Incorrecto. El equilibrio puntuado no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Estructuras anatómicas atrofiadas y sin función aparente que persisten en una especie silvestre",
+          "text": "Aislamiento etológico (o conductual)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe a los órganos vestigiales, vestigios de una herencia ancestral que ya no cumplen su función original."
+          "feedback": "Incorrecto. Aislamiento etológico (o conductual) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Tejidos embrionarios sintéticos creados mediante técnicas de bioingeniería tisular molecular avanzada",
+          "text": "La selección natural",
           "is_correct": false,
-          "feedback": "Incorrecto. Las homologías son características biológicas naturales resultantes de procesos evolutivos, no artificiales."
+          "feedback": "Incorrecto. La selección natural describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las estructuras homólogas demuestran parentesco evolutivo debido a que se derivan de la misma estructura ancestral común. Las analogías, en contraste, son adaptaciones similares ante presiones ecológicas comunes pero con diferente origen de linaje.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de Estructuras análogas constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -99,37 +99,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v3",
-      "statement": "¿Qué mecanismo evolutivo altera las frecuencias de los alelos en una población de forma completamente aleatoria y fortuita, teniendo un impacto mucho más pronunciado en poblaciones pequeñas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Martina y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué tipo de evolución ocurre cuando especies con ancestros muy distantes desarrollan adaptaciones similares ante presiones?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "La deriva génica",
+          "text": "Evolución convergente",
           "is_correct": true,
-          "feedback": "¡Correcto! La deriva génica (que incluye el efecto fundador y los cuellos de botella) es un cambio fluctuante aleatorio de los alelos debido al azar del muestreo."
+          "feedback": "¡Correcto! Evolución convergente responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La selección disruptiva equilibrada",
+          "text": "Especiación alopátrica",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección natural no es un proceso puramente aleatorio, sino que favorece activamente rasgos adaptativos dirigidos por el entorno."
+          "feedback": "Incorrecto. Especiación alopátrica no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El flujo génico o migración selectiva",
+          "text": "La mutación génica",
           "is_correct": false,
-          "feedback": "Incorrecto. El flujo génico introduce nuevos alelos debido a la migración organizada y el mestizaje de poblaciones, no es meramente fortuito."
+          "feedback": "Incorrecto. La mutación génica es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La hibridación adaptativa por poliploidía artificial",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso reproductivo que duplica la dotación cromosómica, no la deriva de frecuencias por fluctuaciones del azar de muestreo."
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La microevolución está determinada por cuatro fuerzas evolutivas principales: mutación (fuente primaria de variación), selección natural (adaptación), flujo génico (homogeneización) y deriva génica (cambios aleatorios).\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de Evolución convergente constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -144,37 +144,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v4",
-      "statement": "¿Cuál de las siguientes premisas constituye un postulado central de la Teoría de la Evolución por Selección Natural formulada por Charles Darwin?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Joaquín y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué fuerza evolutiva introduce nuevos alelos de forma aleatoria en el acervo génico mediante alteraciones del ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Florencia y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Los individuos con rasgos adaptativos favorables tienen una mayor tasa de supervivencia y éxito reproductivo, transmitiendo dichos rasgos a su descendencia",
+          "text": "La mutación génica",
           "is_correct": true,
-          "feedback": "¡Correcto! La selección natural favorece la reproducción de los organismos mejor adaptados a su entorno local (eficacia biológica o fitness)."
+          "feedback": "¡Correcto! La mutación génica responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los caracteres morfológicos adquiridos por el uso o desuso de un órgano durante la vida del individuo se heredan de manera acumulativa",
+          "text": "Selección disruptiva (o diversificadora)",
           "is_correct": false,
-          "feedback": "Incorrecto. Este postulado pertenece a la teoría de la herencia de los caracteres adquiridos de Jean-Baptiste Lamarck, no de Darwin."
+          "feedback": "Incorrecto. Selección disruptiva (o diversificadora) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El ritmo evolutivo de las especies es impulsado exclusivamente por mutaciones genómicas masivas que originan formas de vida nuevas al azar en una generación",
+          "text": "Órganos vestigiales",
           "is_correct": false,
-          "feedback": "Incorrecto. Este enfoque pertenece al mutacionismo primitivo; la selección natural darwiniana es un proceso gradual que opera sobre la variación poblacional existente."
+          "feedback": "Incorrecto. Órganos vestigiales es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Los recursos alimenticios ambientales crecen de forma geométrica para sostener el aumento lineal indefinido de la población",
+          "text": "Aislamiento temporal (o estacional)",
           "is_correct": false,
-          "feedback": "Incorrecto. Darwin se apoyó en Malthus, quien afirmaba lo opuesto: la población crece más rápido (geométricamente) que los alimentos (aritméticamente), desatando la lucha por la existencia."
+          "feedback": "Incorrecto. Aislamiento temporal (o estacional) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La selección natural requiere de tres condiciones biológicas indispensables para ocurrir: variabilidad fenotípica intraespecífica, heredabilidad de la variación y diferencias individuales en el éxito reproductivo diferencial.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La mutación génica constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,37 +189,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v5",
-      "statement": "¿Cómo se define el concepto evolutivo de 'homología' estructural al comparar las extremidades anteriores de un murciélago, un humano y una ballena?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Santiago y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué principio poblacional matemático describe una población ideal donde las frecuencias alélicas permanecen constantes?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Florencia y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Estructuras que comparten un origen evolutivo y un patrón anatómico común heredado de un ancestro común, aunque cumplan funciones distintas",
+          "text": "La ley de Hardy-Weinberg",
           "is_correct": true,
-          "feedback": "¡Correcto! Las homologías evidencian el origen común y la divergencia evolutiva adaptada a diferentes nichos (vuelo, manipulación, natación)."
+          "feedback": "¡Correcto! La ley de Hardy-Weinberg responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Órganos morfológicamente idénticos que surgieron de manera independiente en taxones no relacionados evolutivamente",
+          "text": "Inviabilidad o esterilidad híbrida",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto define a las estructuras análogas debidas a convergencia evolutiva, no homologías."
+          "feedback": "Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Estructuras anatómicas atrofiadas y sin función aparente que persisten en una especie silvestre",
+          "text": "Selección disruptiva (o diversificadora)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe a los órganos vestigiales, vestigios de una herencia ancestral que ya no cumplen su función original."
+          "feedback": "Incorrecto. Selección disruptiva (o diversificadora) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Tejidos embrionarios sintéticos creados mediante técnicas de bioingeniería tisular molecular avanzada",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
           "is_correct": false,
-          "feedback": "Incorrecto. Las homologías son características biológicas naturales resultantes de procesos evolutivos, no artificiales."
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las estructuras homólogas demuestran parentesco evolutivo debido a que se derivan de la misma estructura ancestral común. Las analogías, en contraste, son adaptaciones similares ante presiones ecológicas comunes pero con diferente origen de linaje.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La ley de Hardy-Weinberg constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -234,37 +234,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v6",
-      "statement": "¿Qué mecanismo evolutivo altera las frecuencias de los alelos en una población de forma completamente aleatoria y fortuita, teniendo un impacto mucho más pronunciado en poblaciones pequeñas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Joaquín y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué efecto de la deriva génica ocurre cuando una población se reduce drásticamente por un desastre natural?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, María y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "La deriva génica",
+          "text": "Efecto de cuello de botella",
           "is_correct": true,
-          "feedback": "¡Correcto! La deriva génica (que incluye el efecto fundador y los cuellos de botella) es un cambio fluctuante aleatorio de los alelos debido al azar del muestreo."
+          "feedback": "¡Correcto! Efecto de cuello de botella responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La selección disruptiva equilibrada",
+          "text": "Inviabilidad o esterilidad híbrida",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección natural no es un proceso puramente aleatorio, sino que favorece activamente rasgos adaptativos dirigidos por el entorno."
+          "feedback": "Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El flujo génico o migración selectiva",
+          "text": "Especiación alopátrica",
           "is_correct": false,
-          "feedback": "Incorrecto. El flujo génico introduce nuevos alelos debido a la migración organizada y el mestizaje de poblaciones, no es meramente fortuito."
+          "feedback": "Incorrecto. Especiación alopátrica es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La hibridación adaptativa por poliploidía artificial",
+          "text": "La eficacia biológica (fitness)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso reproductivo que duplica la dotación cromosómica, no la deriva de frecuencias por fluctuaciones del azar de muestreo."
+          "feedback": "Incorrecto. La eficacia biológica (fitness) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La microevolución está determinada por cuatro fuerzas evolutivas principales: mutación (fuente primaria de variación), selección natural (adaptación), flujo génico (homogeneización) y deriva génica (cambios aleatorios).\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Efecto de cuello de botella constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v7",
-      "statement": "¿Cuál de las siguientes premisas constituye un postulado central de la Teoría de la Evolución por Selección Natural formulada por Charles Darwin?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Sebastián y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué tipo de selección natural favorece a los individuos con rasgos fenotípicos extremos de ambos lados de la media?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Los individuos con rasgos adaptativos favorables tienen una mayor tasa de supervivencia y éxito reproductivo, transmitiendo dichos rasgos a su descendencia",
+          "text": "Selección disruptiva (o diversificadora)",
           "is_correct": true,
-          "feedback": "¡Correcto! La selección natural favorece la reproducción de los organismos mejor adaptados a su entorno local (eficacia biológica o fitness)."
+          "feedback": "¡Correcto! Selección disruptiva (o diversificadora) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los caracteres morfológicos adquiridos por el uso o desuso de un órgano durante la vida del individuo se heredan de manera acumulativa",
+          "text": "Aislamiento temporal (o estacional)",
           "is_correct": false,
-          "feedback": "Incorrecto. Este postulado pertenece a la teoría de la herencia de los caracteres adquiridos de Jean-Baptiste Lamarck, no de Darwin."
+          "feedback": "Incorrecto. Aislamiento temporal (o estacional) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El ritmo evolutivo de las especies es impulsado exclusivamente por mutaciones genómicas masivas que originan formas de vida nuevas al azar en una generación",
+          "text": "La coevolución",
           "is_correct": false,
-          "feedback": "Incorrecto. Este enfoque pertenece al mutacionismo primitivo; la selección natural darwiniana es un proceso gradual que opera sobre la variación poblacional existente."
+          "feedback": "Incorrecto. La coevolución es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Los recursos alimenticios ambientales crecen de forma geométrica para sostener el aumento lineal indefinido de la población",
+          "text": "Evolución convergente",
           "is_correct": false,
-          "feedback": "Incorrecto. Darwin se apoyó en Malthus, quien afirmaba lo opuesto: la población crece más rápido (geométricamente) que los alimentos (aritméticamente), desatando la lucha por la existencia."
+          "feedback": "Incorrecto. Evolución convergente describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La selección natural requiere de tres condiciones biológicas indispensables para ocurrir: variabilidad fenotípica intraespecífica, heredabilidad de la variación y diferencias individuales en el éxito reproductivo diferencial.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Selección disruptiva (o diversificadora) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v8",
-      "statement": "¿Cómo se define el concepto evolutivo de 'homología' estructural al comparar las extremidades anteriores de un murciélago, un humano y una ballena?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Martina y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué tipo de especiación ocurre cuando una barrera geográfica física divide de manera definitiva una población original?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Mateo y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Estructuras que comparten un origen evolutivo y un patrón anatómico común heredado de un ancestro común, aunque cumplan funciones distintas",
+          "text": "Especiación alopátrica",
           "is_correct": true,
-          "feedback": "¡Correcto! Las homologías evidencian el origen común y la divergencia evolutiva adaptada a diferentes nichos (vuelo, manipulación, natación)."
+          "feedback": "¡Correcto! Especiación alopátrica responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Órganos morfológicamente idénticos que surgieron de manera independiente en taxones no relacionados evolutivamente",
+          "text": "Selección disruptiva (o diversificadora)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto define a las estructuras análogas debidas a convergencia evolutiva, no homologías."
+          "feedback": "Incorrecto. Selección disruptiva (o diversificadora) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Estructuras anatómicas atrofiadas y sin función aparente que persisten en una especie silvestre",
+          "text": "La mutación génica",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe a los órganos vestigiales, vestigios de una herencia ancestral que ya no cumplen su función original."
+          "feedback": "Incorrecto. La mutación génica es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Tejidos embrionarios sintéticos creados mediante técnicas de bioingeniería tisular molecular avanzada",
+          "text": "Evolución convergente",
           "is_correct": false,
-          "feedback": "Incorrecto. Las homologías son características biológicas naturales resultantes de procesos evolutivos, no artificiales."
+          "feedback": "Incorrecto. Evolución convergente describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las estructuras homólogas demuestran parentesco evolutivo debido a que se derivan de la misma estructura ancestral común. Las analogías, en contraste, son adaptaciones similares ante presiones ecológicas comunes pero con diferente origen de linaje.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Especiación alopátrica constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v9",
-      "statement": "¿Qué mecanismo evolutivo altera las frecuencias de los alelos en una población de forma completamente aleatoria y fortuita, teniendo un impacto mucho más pronunciado en poblaciones pequeñas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Ramón y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué estructuras homólogas vestigiales persisten en una especie silvestre sin cumplir ninguna función fisiológica?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Mateo y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "La deriva génica",
+          "text": "Órganos vestigiales",
           "is_correct": true,
-          "feedback": "¡Correcto! La deriva génica (que incluye el efecto fundador y los cuellos de botella) es un cambio fluctuante aleatorio de los alelos debido al azar del muestreo."
+          "feedback": "¡Correcto! Órganos vestigiales responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La selección disruptiva equilibrada",
+          "text": "Efecto de cuello de botella",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección natural no es un proceso puramente aleatorio, sino que favorece activamente rasgos adaptativos dirigidos por el entorno."
+          "feedback": "Incorrecto. Efecto de cuello de botella no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El flujo génico o migración selectiva",
+          "text": "La mutación génica",
           "is_correct": false,
-          "feedback": "Incorrecto. El flujo génico introduce nuevos alelos debido a la migración organizada y el mestizaje de poblaciones, no es meramente fortuito."
+          "feedback": "Incorrecto. La mutación génica es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La hibridación adaptativa por poliploidía artificial",
+          "text": "La deriva génica",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso reproductivo que duplica la dotación cromosómica, no la deriva de frecuencias por fluctuaciones del azar de muestreo."
+          "feedback": "Incorrecto. La deriva génica describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La microevolución está determinada por cuatro fuerzas evolutivas principales: mutación (fuente primaria de variación), selección natural (adaptación), flujo génico (homogeneización) y deriva génica (cambios aleatorios).\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Órganos vestigiales constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v10",
-      "statement": "¿Cuál de las siguientes premisas constituye un postulado central de la Teoría de la Evolución por Selección Natural formulada por Charles Darwin?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Sebastián y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué hipótesis propone que la evolución ocurre mediante periodos de estasis interrumpidos por rápidos cambios de especiación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Gladys y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Los individuos con rasgos adaptativos favorables tienen una mayor tasa de supervivencia y éxito reproductivo, transmitiendo dichos rasgos a su descendencia",
+          "text": "El equilibrio puntuado",
           "is_correct": true,
-          "feedback": "¡Correcto! La selección natural favorece la reproducción de los organismos mejor adaptados a su entorno local (eficacia biológica o fitness)."
+          "feedback": "¡Correcto! El equilibrio puntuado responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los caracteres morfológicos adquiridos por el uso o desuso de un órgano durante la vida del individuo se heredan de manera acumulativa",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
           "is_correct": false,
-          "feedback": "Incorrecto. Este postulado pertenece a la teoría de la herencia de los caracteres adquiridos de Jean-Baptiste Lamarck, no de Darwin."
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El ritmo evolutivo de las especies es impulsado exclusivamente por mutaciones genómicas masivas que originan formas de vida nuevas al azar en una generación",
+          "text": "Selección disruptiva (o diversificadora)",
           "is_correct": false,
-          "feedback": "Incorrecto. Este enfoque pertenece al mutacionismo primitivo; la selección natural darwiniana es un proceso gradual que opera sobre la variación poblacional existente."
+          "feedback": "Incorrecto. Selección disruptiva (o diversificadora) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Los recursos alimenticios ambientales crecen de forma geométrica para sostener el aumento lineal indefinido de la población",
+          "text": "La deriva génica",
           "is_correct": false,
-          "feedback": "Incorrecto. Darwin se apoyó en Malthus, quien afirmaba lo opuesto: la población crece más rápido (geométricamente) que los alimentos (aritméticamente), desatando la lucha por la existencia."
+          "feedback": "Incorrecto. La deriva génica describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La selección natural requiere de tres condiciones biológicas indispensables para ocurrir: variabilidad fenotípica intraespecífica, heredabilidad de la variación y diferencias individuales en el éxito reproductivo diferencial.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de El equilibrio puntuado constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v11",
-      "statement": "¿Cómo se define el concepto evolutivo de 'homología' estructural al comparar las extremidades anteriores de un murciélago, un humano y una ballena?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Florencia y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué término ecológico describe el éxito reproductivo diferencial de un genotipo en comparación con otros de la población?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Jorge y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Estructuras que comparten un origen evolutivo y un patrón anatómico común heredado de un ancestro común, aunque cumplan funciones distintas",
+          "text": "La eficacia biológica (fitness)",
           "is_correct": true,
-          "feedback": "¡Correcto! Las homologías evidencian el origen común y la divergencia evolutiva adaptada a diferentes nichos (vuelo, manipulación, natación)."
+          "feedback": "¡Correcto! La eficacia biológica (fitness) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Órganos morfológicamente idénticos que surgieron de manera independiente en taxones no relacionados evolutivamente",
+          "text": "La ley de Hardy-Weinberg",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto define a las estructuras análogas debidas a convergencia evolutiva, no homologías."
+          "feedback": "Incorrecto. La ley de Hardy-Weinberg no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Estructuras anatómicas atrofiadas y sin función aparente que persisten en una especie silvestre",
+          "text": "Órganos vestigiales",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe a los órganos vestigiales, vestigios de una herencia ancestral que ya no cumplen su función original."
+          "feedback": "Incorrecto. Órganos vestigiales es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Tejidos embrionarios sintéticos creados mediante técnicas de bioingeniería tisular molecular avanzada",
+          "text": "El equilibrio puntuado",
           "is_correct": false,
-          "feedback": "Incorrecto. Las homologías son características biológicas naturales resultantes de procesos evolutivos, no artificiales."
+          "feedback": "Incorrecto. El equilibrio puntuado describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las estructuras homólogas demuestran parentesco evolutivo debido a que se derivan de la misma estructura ancestral común. Las analogías, en contraste, son adaptaciones similares ante presiones ecológicas comunes pero con diferente origen de linaje.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de La eficacia biológica (fitness) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v12",
-      "statement": "¿Qué mecanismo evolutivo altera las frecuencias de los alelos en una población de forma completamente aleatoria y fortuita, teniendo un impacto mucho más pronunciado en poblaciones pequeñas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Joaquín y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué tipo de aislamiento reproductivo impide la fecundación del óvulo debido a diferencias en los rituales de cortejo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Ramón y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "La deriva génica",
+          "text": "Aislamiento etológico (o conductual)",
           "is_correct": true,
-          "feedback": "¡Correcto! La deriva génica (que incluye el efecto fundador y los cuellos de botella) es un cambio fluctuante aleatorio de los alelos debido al azar del muestreo."
+          "feedback": "¡Correcto! Aislamiento etológico (o conductual) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La selección disruptiva equilibrada",
+          "text": "La selección natural",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección natural no es un proceso puramente aleatorio, sino que favorece activamente rasgos adaptativos dirigidos por el entorno."
+          "feedback": "Incorrecto. La selección natural no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El flujo génico o migración selectiva",
+          "text": "La coevolución",
           "is_correct": false,
-          "feedback": "Incorrecto. El flujo génico introduce nuevos alelos debido a la migración organizada y el mestizaje de poblaciones, no es meramente fortuito."
+          "feedback": "Incorrecto. La coevolución es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La hibridación adaptativa por poliploidía artificial",
+          "text": "Datación por radiocarbono",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso reproductivo que duplica la dotación cromosómica, no la deriva de frecuencias por fluctuaciones del azar de muestreo."
+          "feedback": "Incorrecto. Datación por radiocarbono describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La microevolución está determinada por cuatro fuerzas evolutivas principales: mutación (fuente primaria de variación), selección natural (adaptación), flujo génico (homogeneización) y deriva génica (cambios aleatorios).\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Aislamiento etológico (o conductual) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v13",
-      "statement": "¿Cuál de las siguientes premisas constituye un postulado central de la Teoría de la Evolución por Selección Natural formulada por Charles Darwin?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Valentina y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué tipo de barrera postcigótica provoca que la descendencia híbrida de dos especies diferentes sea completamente estéril?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Los individuos con rasgos adaptativos favorables tienen una mayor tasa de supervivencia y éxito reproductivo, transmitiendo dichos rasgos a su descendencia",
+          "text": "Inviabilidad o esterilidad híbrida",
           "is_correct": true,
-          "feedback": "¡Correcto! La selección natural favorece la reproducción de los organismos mejor adaptados a su entorno local (eficacia biológica o fitness)."
+          "feedback": "¡Correcto! Inviabilidad o esterilidad híbrida responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los caracteres morfológicos adquiridos por el uso o desuso de un órgano durante la vida del individuo se heredan de manera acumulativa",
+          "text": "Órganos vestigiales",
           "is_correct": false,
-          "feedback": "Incorrecto. Este postulado pertenece a la teoría de la herencia de los caracteres adquiridos de Jean-Baptiste Lamarck, no de Darwin."
+          "feedback": "Incorrecto. Órganos vestigiales no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El ritmo evolutivo de las especies es impulsado exclusivamente por mutaciones genómicas masivas que originan formas de vida nuevas al azar en una generación",
+          "text": "Aislamiento etológico (o conductual)",
           "is_correct": false,
-          "feedback": "Incorrecto. Este enfoque pertenece al mutacionismo primitivo; la selección natural darwiniana es un proceso gradual que opera sobre la variación poblacional existente."
+          "feedback": "Incorrecto. Aislamiento etológico (o conductual) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Los recursos alimenticios ambientales crecen de forma geométrica para sostener el aumento lineal indefinido de la población",
+          "text": "La coevolución",
           "is_correct": false,
-          "feedback": "Incorrecto. Darwin se apoyó en Malthus, quien afirmaba lo opuesto: la población crece más rápido (geométricamente) que los alimentos (aritméticamente), desatando la lucha por la existencia."
+          "feedback": "Incorrecto. La coevolución describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La selección natural requiere de tres condiciones biológicas indispensables para ocurrir: variabilidad fenotípica intraespecífica, heredabilidad de la variación y diferencias individuales en el éxito reproductivo diferencial.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Inviabilidad o esterilidad híbrida constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,37 +594,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v14",
-      "statement": "¿Cómo se define el concepto evolutivo de 'homología' estructural al comparar las extremidades anteriores de un murciélago, un humano y una ballena?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Liz y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué fósiles de transición demuestran caracteres intermedios entre dos grupos taxonómicos principales de la vida?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Valentina y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Estructuras que comparten un origen evolutivo y un patrón anatómico común heredado de un ancestro común, aunque cumplan funciones distintas",
+          "text": "Fósiles transicionales (como Archaeopteryx)",
           "is_correct": true,
-          "feedback": "¡Correcto! Las homologías evidencian el origen común y la divergencia evolutiva adaptada a diferentes nichos (vuelo, manipulación, natación)."
+          "feedback": "¡Correcto! Fósiles transicionales (como Archaeopteryx) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Órganos morfológicamente idénticos que surgieron de manera independiente en taxones no relacionados evolutivamente",
+          "text": "La ley de Hardy-Weinberg",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto define a las estructuras análogas debidas a convergencia evolutiva, no homologías."
+          "feedback": "Incorrecto. La ley de Hardy-Weinberg no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Estructuras anatómicas atrofiadas y sin función aparente que persisten en una especie silvestre",
+          "text": "Aislamiento temporal (o estacional)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe a los órganos vestigiales, vestigios de una herencia ancestral que ya no cumplen su función original."
+          "feedback": "Incorrecto. Aislamiento temporal (o estacional) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Tejidos embrionarios sintéticos creados mediante técnicas de bioingeniería tisular molecular avanzada",
+          "text": "Especiación alopátrica",
           "is_correct": false,
-          "feedback": "Incorrecto. Las homologías son características biológicas naturales resultantes de procesos evolutivos, no artificiales."
+          "feedback": "Incorrecto. Especiación alopátrica describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las estructuras homólogas demuestran parentesco evolutivo debido a que se derivan de la misma estructura ancestral común. Las analogías, en contraste, son adaptaciones similares ante presiones ecológicas comunes pero con diferente origen de linaje.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Fósiles transicionales (como Archaeopteryx) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -639,37 +639,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v15",
-      "statement": "¿Qué mecanismo evolutivo altera las frecuencias de los alelos en una población de forma completamente aleatoria y fortuita, teniendo un impacto mucho más pronunciado en poblaciones pequeñas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Camila y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué teoría moderna integra la selección natural de Darwin con los principios de la genética clásica y poblacional?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, María y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "La deriva génica",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
           "is_correct": true,
-          "feedback": "¡Correcto! La deriva génica (que incluye el efecto fundador y los cuellos de botella) es un cambio fluctuante aleatorio de los alelos debido al azar del muestreo."
+          "feedback": "¡Correcto! La teoría sintética de la evolución (neodarwinismo) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La selección disruptiva equilibrada",
+          "text": "Inviabilidad o esterilidad híbrida",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección natural no es un proceso puramente aleatorio, sino que favorece activamente rasgos adaptativos dirigidos por el entorno."
+          "feedback": "Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El flujo génico o migración selectiva",
+          "text": "Estructuras análogas",
           "is_correct": false,
-          "feedback": "Incorrecto. El flujo génico introduce nuevos alelos debido a la migración organizada y el mestizaje de poblaciones, no es meramente fortuito."
+          "feedback": "Incorrecto. Estructuras análogas es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La hibridación adaptativa por poliploidía artificial",
+          "text": "La eficacia biológica (fitness)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso reproductivo que duplica la dotación cromosómica, no la deriva de frecuencias por fluctuaciones del azar de muestreo."
+          "feedback": "Incorrecto. La eficacia biológica (fitness) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La microevolución está determinada por cuatro fuerzas evolutivas principales: mutación (fuente primaria de variación), selección natural (adaptación), flujo génico (homogeneización) y deriva génica (cambios aleatorios).\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de La teoría sintética de la evolución (neodarwinismo) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v16",
-      "statement": "¿Cuál de las siguientes premisas constituye un postulado central de la Teoría de la Evolución por Selección Natural formulada por Charles Darwin?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Liz y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué tipo de selección natural elimina los rasgos extremos de la población favoreciendo el valor promedio de la media?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Gladys y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Los individuos con rasgos adaptativos favorables tienen una mayor tasa de supervivencia y éxito reproductivo, transmitiendo dichos rasgos a su descendencia",
+          "text": "Selección estabilizadora",
           "is_correct": true,
-          "feedback": "¡Correcto! La selección natural favorece la reproducción de los organismos mejor adaptados a su entorno local (eficacia biológica o fitness)."
+          "feedback": "¡Correcto! Selección estabilizadora responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los caracteres morfológicos adquiridos por el uso o desuso de un órgano durante la vida del individuo se heredan de manera acumulativa",
+          "text": "Evolución convergente",
           "is_correct": false,
-          "feedback": "Incorrecto. Este postulado pertenece a la teoría de la herencia de los caracteres adquiridos de Jean-Baptiste Lamarck, no de Darwin."
+          "feedback": "Incorrecto. Evolución convergente no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El ritmo evolutivo de las especies es impulsado exclusivamente por mutaciones genómicas masivas que originan formas de vida nuevas al azar en una generación",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
           "is_correct": false,
-          "feedback": "Incorrecto. Este enfoque pertenece al mutacionismo primitivo; la selección natural darwiniana es un proceso gradual que opera sobre la variación poblacional existente."
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Los recursos alimenticios ambientales crecen de forma geométrica para sostener el aumento lineal indefinido de la población",
+          "text": "Aislamiento temporal (o estacional)",
           "is_correct": false,
-          "feedback": "Incorrecto. Darwin se apoyó en Malthus, quien afirmaba lo opuesto: la población crece más rápido (geométricamente) que los alimentos (aritméticamente), desatando la lucha por la existencia."
+          "feedback": "Incorrecto. Aislamiento temporal (o estacional) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La selección natural requiere de tres condiciones biológicas indispensables para ocurrir: variabilidad fenotípica intraespecífica, heredabilidad de la variación y diferencias individuales en el éxito reproductivo diferencial.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Selección estabilizadora constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v17",
-      "statement": "¿Cómo se define el concepto evolutivo de 'homología' estructural al comparar las extremidades anteriores de un murciélago, un humano y una ballena?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sebastián y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué proceso coevolutivo asocia el desarrollo de rasgos de una planta con los rasgos específicos de su insecto polinizador?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Jorge y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Estructuras que comparten un origen evolutivo y un patrón anatómico común heredado de un ancestro común, aunque cumplan funciones distintas",
+          "text": "La coevolución",
           "is_correct": true,
-          "feedback": "¡Correcto! Las homologías evidencian el origen común y la divergencia evolutiva adaptada a diferentes nichos (vuelo, manipulación, natación)."
+          "feedback": "¡Correcto! La coevolución responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Órganos morfológicamente idénticos que surgieron de manera independiente en taxones no relacionados evolutivamente",
+          "text": "Datación por radiocarbono",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto define a las estructuras análogas debidas a convergencia evolutiva, no homologías."
+          "feedback": "Incorrecto. Datación por radiocarbono no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Estructuras anatómicas atrofiadas y sin función aparente que persisten en una especie silvestre",
+          "text": "La deriva génica",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe a los órganos vestigiales, vestigios de una herencia ancestral que ya no cumplen su función original."
+          "feedback": "Incorrecto. La deriva génica es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Tejidos embrionarios sintéticos creados mediante técnicas de bioingeniería tisular molecular avanzada",
+          "text": "La mutación génica",
           "is_correct": false,
-          "feedback": "Incorrecto. Las homologías son características biológicas naturales resultantes de procesos evolutivos, no artificiales."
+          "feedback": "Incorrecto. La mutación génica describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las estructuras homólogas demuestran parentesco evolutivo debido a que se derivan de la misma estructura ancestral común. Las analogías, en contraste, son adaptaciones similares ante presiones ecológicas comunes pero con diferente origen de linaje.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de La coevolución constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,37 +774,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v18",
-      "statement": "¿Qué mecanismo evolutivo altera las frecuencias de los alelos en una población de forma completamente aleatoria y fortuita, teniendo un impacto mucho más pronunciado en poblaciones pequeñas?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Camila y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué datación radiométrica calcula la edad absoluta de un fósil midiendo la desintegración del isótopo de carbono-14?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Joaquín y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "La deriva génica",
+          "text": "Datación por radiocarbono",
           "is_correct": true,
-          "feedback": "¡Correcto! La deriva génica (que incluye el efecto fundador y los cuellos de botella) es un cambio fluctuante aleatorio de los alelos debido al azar del muestreo."
+          "feedback": "¡Correcto! Datación por radiocarbono responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La selección disruptiva equilibrada",
+          "text": "Estructuras análogas",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección natural no es un proceso puramente aleatorio, sino que favorece activamente rasgos adaptativos dirigidos por el entorno."
+          "feedback": "Incorrecto. Estructuras análogas no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El flujo génico o migración selectiva",
+          "text": "Evolución convergente",
           "is_correct": false,
-          "feedback": "Incorrecto. El flujo génico introduce nuevos alelos debido a la migración organizada y el mestizaje de poblaciones, no es meramente fortuito."
+          "feedback": "Incorrecto. Evolución convergente es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La hibridación adaptativa por poliploidía artificial",
+          "text": "La deriva génica",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso reproductivo que duplica la dotación cromosómica, no la deriva de frecuencias por fluctuaciones del azar de muestreo."
+          "feedback": "Incorrecto. La deriva génica describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La microevolución está determinada por cuatro fuerzas evolutivas principales: mutación (fuente primaria de variación), selección natural (adaptación), flujo génico (homogeneización) y deriva génica (cambios aleatorios).\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Datación por radiocarbono constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -819,37 +819,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v19",
-      "statement": "¿Cuál de las siguientes premisas constituye un postulado central de la Teoría de la Evolución por Selección Natural formulada por Charles Darwin?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Florencia y su grupo investigan sobre Evolución y selección natural.",
+      "statement": "¿Qué tipo de aislamiento precigótico ocurre cuando dos especies simpátricas se reproducen en estaciones o meses diferentes?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Los individuos con rasgos adaptativos favorables tienen una mayor tasa de supervivencia y éxito reproductivo, transmitiendo dichos rasgos a su descendencia",
+          "text": "Aislamiento temporal (o estacional)",
           "is_correct": true,
-          "feedback": "¡Correcto! La selección natural favorece la reproducción de los organismos mejor adaptados a su entorno local (eficacia biológica o fitness)."
+          "feedback": "¡Correcto! Aislamiento temporal (o estacional) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Los caracteres morfológicos adquiridos por el uso o desuso de un órgano durante la vida del individuo se heredan de manera acumulativa",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
           "is_correct": false,
-          "feedback": "Incorrecto. Este postulado pertenece a la teoría de la herencia de los caracteres adquiridos de Jean-Baptiste Lamarck, no de Darwin."
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "El ritmo evolutivo de las especies es impulsado exclusivamente por mutaciones genómicas masivas que originan formas de vida nuevas al azar en una generación",
+          "text": "La mutación génica",
           "is_correct": false,
-          "feedback": "Incorrecto. Este enfoque pertenece al mutacionismo primitivo; la selección natural darwiniana es un proceso gradual que opera sobre la variación poblacional existente."
+          "feedback": "Incorrecto. La mutación génica es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Los recursos alimenticios ambientales crecen de forma geométrica para sostener el aumento lineal indefinido de la población",
+          "text": "Inviabilidad o esterilidad híbrida",
           "is_correct": false,
-          "feedback": "Incorrecto. Darwin se apoyó en Malthus, quien afirmaba lo opuesto: la población crece más rápido (geométricamente) que los alimentos (aritméticamente), desatando la lucha por la existencia."
+          "feedback": "Incorrecto. Inviabilidad o esterilidad híbrida describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La selección natural requiere de tres condiciones biológicas indispensables para ocurrir: variabilidad fenotípica intraespecífica, heredabilidad de la variación y diferencias individuales en el éxito reproductivo diferencial.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de Aislamiento temporal (o estacional) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v20",
-      "statement": "¿Cómo se define el concepto evolutivo de 'homología' estructural al comparar las extremidades anteriores de un murciélago, un humano y una ballena?",
+      "statement": "¿Qué factor poblacional aleatorio tiene mayor probabilidad de eliminar alelos benéficos raros en poblaciones muy pequeñas?",
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, María y su grupo investigan sobre Evolución y selección natural.",
       "options": [
         {
           "letter": "A",
-          "text": "Estructuras que comparten un origen evolutivo y un patrón anatómico común heredado de un ancestro común, aunque cumplan funciones distintas",
+          "text": "La deriva génica",
           "is_correct": true,
-          "feedback": "¡Correcto! Las homologías evidencian el origen común y la divergencia evolutiva adaptada a diferentes nichos (vuelo, manipulación, natación)."
+          "feedback": "¡Correcto! La deriva génica responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Órganos morfológicamente idénticos que surgieron de manera independiente en taxones no relacionados evolutivamente",
+          "text": "Selección estabilizadora",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto define a las estructuras análogas debidas a convergencia evolutiva, no homologías."
+          "feedback": "Incorrecto. Selección estabilizadora no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Estructuras anatómicas atrofiadas y sin función aparente que persisten en una especie silvestre",
+          "text": "Datación por radiocarbono",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto describe a los órganos vestigiales, vestigios de una herencia ancestral que ya no cumplen su función original."
+          "feedback": "Incorrecto. Datación por radiocarbono es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Tejidos embrionarios sintéticos creados mediante técnicas de bioingeniería tisular molecular avanzada",
+          "text": "La selección natural",
           "is_correct": false,
-          "feedback": "Incorrecto. Las homologías son características biológicas naturales resultantes de procesos evolutivos, no artificiales."
+          "feedback": "Incorrecto. La selección natural describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las estructuras homólogas demuestran parentesco evolutivo debido a que se derivan de la misma estructura ancestral común. Las analogías, en contraste, son adaptaciones similares ante presiones ecológicas comunes pero con diferente origen de linaje.",
-      "difficulty": "10",
+      "explanation": "El concepto de La deriva génica constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",

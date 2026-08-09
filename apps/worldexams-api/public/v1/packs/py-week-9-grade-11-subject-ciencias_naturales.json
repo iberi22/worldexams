@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v1",
-      "statement": "¿Qué tecnología de biología molecular revolucionaria permite editar, corregir o inactivar secuencias de ADN genómico específicas y con precisión quirúrgica en casi cualquier organismo vivo utilizando un ARN guía?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Sebastián y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué enzima bacteriana corta el ADN de doble hebra en secuencias de nucleótidos específicas y palindrómicas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Florencia y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "El sistema CRISPR-Cas9",
+          "text": "La enzima de restricción",
           "is_correct": true,
-          "feedback": "¡Correcto! El sistema CRISPR-Cas9 actúa como unas tijeras moleculares guiadas por ARN que cortan el ADN de forma selectiva para permitir su posterior edición."
+          "feedback": "¡Correcto! La enzima de restricción responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La reacción en cadena de la polimerasa de hibridación inversa",
+          "text": "Cultivos Bt resistentes a insectos",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional copia y amplifica segmentos de ADN in vitro pero no edita el genoma de células vivas."
+          "feedback": "Incorrecto. Cultivos Bt resistentes a insectos no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La electroforesis de ácidos grasos en gel de poliacrilamida",
+          "text": "Las células madre embrionarias",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método puramente analítico de separación física de moléculas según tamaño y carga, no edita genes."
+          "feedback": "Incorrecto. Las células madre embrionarias es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La clonación reproductiva por transferencia de núcleos somáticos",
+          "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
-          "feedback": "Incorrecto. Copia genomas completos para reproducir un organismo genéticamente idéntico (como la oveja Dolly), pero no realiza microedición genética."
+          "feedback": "Incorrecto. El cultivo in vitro de tejidos describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El sistema CRISPR-Cas9 se adaptó a partir de un mecanismo inmunitario de defensa bacteriano contra bacteriófagos. Su versatilidad y bajo costo han transformado la medicina genética, la agricultura y la biotecnología moderna.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La enzima de restricción constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,37 +54,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v2",
-      "statement": "¿Qué es un organismo genéticamente modificado (OGM) o transgénico y cómo se obtiene comúnmente?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Martina y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué técnica molecular separa físicamente fragmentos de ADN según su tamaño cargándolos en un gel bajo un campo eléctrico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Joaquín y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un organismo que contiene genes introducidos artificialmente procedentes de otra especie mediante ingeniería genética",
+          "text": "La electroforesis en gel",
           "is_correct": true,
-          "feedback": "¡Correcto! Los transgénicos incorporan material genético exógeno de forma estable para adquirir características novedosas como resistencia a plagas o tolerancia a herbicidas."
+          "feedback": "¡Correcto! La electroforesis en gel responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una variedad seleccionada artificialmente a través de cruces selectivos convencionales durante múltiples generaciones",
+          "text": "CRISPR-Cas9",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección artificial clásica no introduce genes exógenos de otras especies de forma directa mediante técnicas moleculares."
+          "feedback": "Incorrecto. CRISPR-Cas9 no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es un organismo silvestre sometido a condiciones extremas para acelerar su mutación natural",
+          "text": "El plásmido",
           "is_correct": false,
-          "feedback": "Incorrecto. El fitomejoramiento por mutación inducida usa radiación o mutágenos químicos pero no transfiere de manera precisa genes extraños."
+          "feedback": "Incorrecto. El plásmido es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una copia clónica idéntica obtenida a partir del cultivo in vitro de células meristemáticas vegetales",
+          "text": "Transferencia nuclear de células somáticas",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto constituye propagación vegetativa clónica y no implica alteración de la dotación génica nativa."
+          "feedback": "Incorrecto. Transferencia nuclear de células somáticas describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La tecnología del ADN recombinante permite cortar genes específicos con enzimas de restricción y pegarlos en vectores plasmídicos con ADN ligasa para transformar bacterias, plantas o animales con fines industriales y de investigación.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La electroforesis en gel constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -99,37 +99,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v3",
-      "statement": "¿Qué técnica biotecnológica revolucionaria permite generar miles de millones de copias idénticas de un fragmento de ADN específico a partir de una muestra mínima, utilizando ciclos térmicos repetitivos y una polimerasa resistente al calor (Taq polimerasa)?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Camila y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué molécula de ADN extracromosómica circular se utiliza comúnmente en biotecnología como vector de clonación celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Mateo y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "PCR (Reacción en Cadena de la Polimerasa)",
+          "text": "El plásmido",
           "is_correct": true,
-          "feedback": "¡Correcto! La PCR (desarrollada por Kary Mullis) consta de tres etapas térmicas: desnaturalización (separación de hebras), alineación (unión de cebadores) y extensión (síntesis por Taq polimerasa)."
+          "feedback": "¡Correcto! El plásmido responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Hibridación Southern Blot",
+          "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método de detección de fragmentos específicos de ADN en una membrana, no una técnica de amplificación en masa."
+          "feedback": "Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Secuenciación de Sanger",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método para determinar la secuencia de nucleótidos del ADN mediante dideoxinucleótidos de parada, no sirve para amplificar."
+          "feedback": "Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Cromatografía de exclusión molecular",
+          "text": "La insulina recombinante",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso de purificación física de proteínas o macromoléculas según su tamaño molecular, no copia ácidos nucleicos."
+          "feedback": "Incorrecto. La insulina recombinante describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Taq polimerasa, aislada de la bacteria termófila *Thermus aquaticus*, es indispensable para la PCR debido a su capacidad para soportar las altas temperaturas del paso de desnaturalización (alrededor de 95°C) sin desnaturalizarse.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de El plásmido constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -144,37 +144,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v4",
-      "statement": "¿Qué tecnología de biología molecular revolucionaria permite editar, corregir o inactivar secuencias de ADN genómico específicas y con precisión quirúrgica en casi cualquier organismo vivo utilizando un ARN guía?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Gladys y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué enzima une de forma covalente extremos cohesivos de fragmentos de ADN recombinantes?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Liz y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "El sistema CRISPR-Cas9",
+          "text": "La ADN ligasa",
           "is_correct": true,
-          "feedback": "¡Correcto! El sistema CRISPR-Cas9 actúa como unas tijeras moleculares guiadas por ARN que cortan el ADN de forma selectiva para permitir su posterior edición."
+          "feedback": "¡Correcto! La ADN ligasa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La reacción en cadena de la polimerasa de hibridación inversa",
+          "text": "El plásmido",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional copia y amplifica segmentos de ADN in vitro pero no edita el genoma de células vivas."
+          "feedback": "Incorrecto. El plásmido no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La electroforesis de ácidos grasos en gel de poliacrilamida",
+          "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método puramente analítico de separación física de moléculas según tamaño y carga, no edita genes."
+          "feedback": "Incorrecto. El cultivo in vitro de tejidos es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La clonación reproductiva por transferencia de núcleos somáticos",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
-          "feedback": "Incorrecto. Copia genomas completos para reproducir un organismo genéticamente idéntico (como la oveja Dolly), pero no realiza microedición genética."
+          "feedback": "Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El sistema CRISPR-Cas9 se adaptó a partir de un mecanismo inmunitario de defensa bacteriano contra bacteriófagos. Su versatilidad y bajo costo han transformado la medicina genética, la agricultura y la biotecnología moderna.\n\n---",
-      "difficulty": "4",
+      "explanation": "El concepto de La ADN ligasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,37 +189,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v5",
-      "statement": "¿Qué es un organismo genéticamente modificado (OGM) o transgénico y cómo se obtiene comúnmente?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sofía y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué técnica permite amplificar exponencialmente fragmentos específicos de ADN in vitro mediante ciclos de temperatura?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Camila y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un organismo que contiene genes introducidos artificialmente procedentes de otra especie mediante ingeniería genética",
+          "text": "La reacción en cadena de la polimerasa (PCR)",
           "is_correct": true,
-          "feedback": "¡Correcto! Los transgénicos incorporan material genético exógeno de forma estable para adquirir características novedosas como resistencia a plagas o tolerancia a herbicidas."
+          "feedback": "¡Correcto! La reacción en cadena de la polimerasa (PCR) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una variedad seleccionada artificialmente a través de cruces selectivos convencionales durante múltiples generaciones",
+          "text": "La transcriptasa inversa",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección artificial clásica no introduce genes exógenos de otras especies de forma directa mediante técnicas moleculares."
+          "feedback": "Incorrecto. La transcriptasa inversa no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es un organismo silvestre sometido a condiciones extremas para acelerar su mutación natural",
+          "text": "La terapia génica",
           "is_correct": false,
-          "feedback": "Incorrecto. El fitomejoramiento por mutación inducida usa radiación o mutágenos químicos pero no transfiere de manera precisa genes extraños."
+          "feedback": "Incorrecto. La terapia génica es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una copia clónica idéntica obtenida a partir del cultivo in vitro de células meristemáticas vegetales",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto constituye propagación vegetativa clónica y no implica alteración de la dotación génica nativa."
+          "feedback": "Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La tecnología del ADN recombinante permite cortar genes específicos con enzimas de restricción y pegarlos en vectores plasmídicos con ADN ligasa para transformar bacterias, plantas o animales con fines industriales y de investigación.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La reacción en cadena de la polimerasa (PCR) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -234,37 +234,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v6",
-      "statement": "¿Qué técnica biotecnológica revolucionaria permite generar miles de millones de copias idénticas de un fragmento de ADN específico a partir de una muestra mínima, utilizando ciclos térmicos repetitivos y una polimerasa resistente al calor (Taq polimerasa)?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Florencia y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué ADN polimerasa termoestable es indispensable para resistir las fases de desnaturalización de la PCR?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Santiago y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "PCR (Reacción en Cadena de la Polimerasa)",
+          "text": "La Taq polimerasa",
           "is_correct": true,
-          "feedback": "¡Correcto! La PCR (desarrollada por Kary Mullis) consta de tres etapas térmicas: desnaturalización (separación de hebras), alineación (unión de cebadores) y extensión (síntesis por Taq polimerasa)."
+          "feedback": "¡Correcto! La Taq polimerasa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Hibridación Southern Blot",
+          "text": "El plásmido",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método de detección de fragmentos específicos de ADN en una membrana, no una técnica de amplificación en masa."
+          "feedback": "Incorrecto. El plásmido no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Secuenciación de Sanger",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método para determinar la secuencia de nucleótidos del ADN mediante dideoxinucleótidos de parada, no sirve para amplificar."
+          "feedback": "Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Cromatografía de exclusión molecular",
+          "text": "La secuenciación de Sanger",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso de purificación física de proteínas o macromoléculas según su tamaño molecular, no copia ácidos nucleicos."
+          "feedback": "Incorrecto. La secuenciación de Sanger describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Taq polimerasa, aislada de la bacteria termófila *Thermus aquaticus*, es indispensable para la PCR debido a su capacidad para soportar las altas temperaturas del paso de desnaturalización (alrededor de 95°C) sin desnaturalizarse.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La Taq polimerasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v7",
-      "statement": "¿Qué tecnología de biología molecular revolucionaria permite editar, corregir o inactivar secuencias de ADN genómico específicas y con precisión quirúrgica en casi cualquier organismo vivo utilizando un ARN guía?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Liz y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué método de secuenciación clásica utiliza dideoxinucleótidos marcados con fluoróforos para terminar la síntesis de ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Martina y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "El sistema CRISPR-Cas9",
+          "text": "La secuenciación de Sanger",
           "is_correct": true,
-          "feedback": "¡Correcto! El sistema CRISPR-Cas9 actúa como unas tijeras moleculares guiadas por ARN que cortan el ADN de forma selectiva para permitir su posterior edición."
+          "feedback": "¡Correcto! La secuenciación de Sanger responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La reacción en cadena de la polimerasa de hibridación inversa",
+          "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional copia y amplifica segmentos de ADN in vitro pero no edita el genoma de células vivas."
+          "feedback": "Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La electroforesis de ácidos grasos en gel de poliacrilamida",
+          "text": "La huella genética por PCR de STR",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método puramente analítico de separación física de moléculas según tamaño y carga, no edita genes."
+          "feedback": "Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La clonación reproductiva por transferencia de núcleos somáticos",
+          "text": "Hibridación Southern Blot",
           "is_correct": false,
-          "feedback": "Incorrecto. Copia genomas completos para reproducir un organismo genéticamente idéntico (como la oveja Dolly), pero no realiza microedición genética."
+          "feedback": "Incorrecto. Hibridación Southern Blot describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El sistema CRISPR-Cas9 se adaptó a partir de un mecanismo inmunitario de defensa bacteriano contra bacteriófagos. Su versatilidad y bajo costo han transformado la medicina genética, la agricultura y la biotecnología moderna.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La secuenciación de Sanger constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v8",
-      "statement": "¿Qué es un organismo genéticamente modificado (OGM) o transgénico y cómo se obtiene comúnmente?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Jorge y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué sistema de edición genética utiliza un ARN guía complementario para dirigir la enzima nucleasa Cas9 a cortar el ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Benjamín y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un organismo que contiene genes introducidos artificialmente procedentes de otra especie mediante ingeniería genética",
+          "text": "CRISPR-Cas9",
           "is_correct": true,
-          "feedback": "¡Correcto! Los transgénicos incorporan material genético exógeno de forma estable para adquirir características novedosas como resistencia a plagas o tolerancia a herbicidas."
+          "feedback": "¡Correcto! CRISPR-Cas9 responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una variedad seleccionada artificialmente a través de cruces selectivos convencionales durante múltiples generaciones",
+          "text": "La secuenciación de Sanger",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección artificial clásica no introduce genes exógenos de otras especies de forma directa mediante técnicas moleculares."
+          "feedback": "Incorrecto. La secuenciación de Sanger no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es un organismo silvestre sometido a condiciones extremas para acelerar su mutación natural",
+          "text": "La enzima de restricción",
           "is_correct": false,
-          "feedback": "Incorrecto. El fitomejoramiento por mutación inducida usa radiación o mutágenos químicos pero no transfiere de manera precisa genes extraños."
+          "feedback": "Incorrecto. La enzima de restricción es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una copia clónica idéntica obtenida a partir del cultivo in vitro de células meristemáticas vegetales",
+          "text": "El retrovirus o adenovirus modificado",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto constituye propagación vegetativa clónica y no implica alteración de la dotación génica nativa."
+          "feedback": "Incorrecto. El retrovirus o adenovirus modificado describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La tecnología del ADN recombinante permite cortar genes específicos con enzimas de restricción y pegarlos en vectores plasmídicos con ADN ligasa para transformar bacterias, plantas o animales con fines industriales y de investigación.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de CRISPR-Cas9 constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v9",
-      "statement": "¿Qué técnica biotecnológica revolucionaria permite generar miles de millones de copias idénticas de un fragmento de ADN específico a partir de una muestra mínima, utilizando ciclos térmicos repetitivos y una polimerasa resistente al calor (Taq polimerasa)?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Mateo y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué técnica introduce poros transitorios en la membrana plasmática de células mediante pulsos eléctricos para transfectarlas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Florencia y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "PCR (Reacción en Cadena de la Polimerasa)",
+          "text": "La electroporación",
           "is_correct": true,
-          "feedback": "¡Correcto! La PCR (desarrollada por Kary Mullis) consta de tres etapas térmicas: desnaturalización (separación de hebras), alineación (unión de cebadores) y extensión (síntesis por Taq polimerasa)."
+          "feedback": "¡Correcto! La electroporación responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Hibridación Southern Blot",
+          "text": "Transferencia nuclear de células somáticas",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método de detección de fragmentos específicos de ADN en una membrana, no una técnica de amplificación en masa."
+          "feedback": "Incorrecto. Transferencia nuclear de células somáticas no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Secuenciación de Sanger",
+          "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método para determinar la secuencia de nucleótidos del ADN mediante dideoxinucleótidos de parada, no sirve para amplificar."
+          "feedback": "Incorrecto. El cultivo in vitro de tejidos es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Cromatografía de exclusión molecular",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso de purificación física de proteínas o macromoléculas según su tamaño molecular, no copia ácidos nucleicos."
+          "feedback": "Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Taq polimerasa, aislada de la bacteria termófila *Thermus aquaticus*, es indispensable para la PCR debido a su capacidad para soportar las altas temperaturas del paso de desnaturalización (alrededor de 95°C) sin desnaturalizarse.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de La electroporación constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v10",
-      "statement": "¿Qué tecnología de biología molecular revolucionaria permite editar, corregir o inactivar secuencias de ADN genómico específicas y con precisión quirúrgica en casi cualquier organismo vivo utilizando un ARN guía?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Liz y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué tipo de células madre pluripotenciales tienen la capacidad de diferenciarse en cualquier tipo de tejido del organismo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "El sistema CRISPR-Cas9",
+          "text": "Las células madre embrionarias",
           "is_correct": true,
-          "feedback": "¡Correcto! El sistema CRISPR-Cas9 actúa como unas tijeras moleculares guiadas por ARN que cortan el ADN de forma selectiva para permitir su posterior edición."
+          "feedback": "¡Correcto! Las células madre embrionarias responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La reacción en cadena de la polimerasa de hibridación inversa",
+          "text": "La secuenciación de Sanger",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional copia y amplifica segmentos de ADN in vitro pero no edita el genoma de células vivas."
+          "feedback": "Incorrecto. La secuenciación de Sanger no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La electroforesis de ácidos grasos en gel de poliacrilamida",
+          "text": "La electroporación",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método puramente analítico de separación física de moléculas según tamaño y carga, no edita genes."
+          "feedback": "Incorrecto. La electroporación es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La clonación reproductiva por transferencia de núcleos somáticos",
+          "text": "La transcriptasa inversa",
           "is_correct": false,
-          "feedback": "Incorrecto. Copia genomas completos para reproducir un organismo genéticamente idéntico (como la oveja Dolly), pero no realiza microedición genética."
+          "feedback": "Incorrecto. La transcriptasa inversa describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El sistema CRISPR-Cas9 se adaptó a partir de un mecanismo inmunitario de defensa bacteriano contra bacteriófagos. Su versatilidad y bajo costo han transformado la medicina genética, la agricultura y la biotecnología moderna.\n\n---",
-      "difficulty": "6",
+      "explanation": "El concepto de Las células madre embrionarias constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v11",
-      "statement": "¿Qué es un organismo genéticamente modificado (OGM) o transgénico y cómo se obtiene comúnmente?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Liz y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué compuesto hormonal humano es producido industrialmente por bacterias transgénicas portadoras del gen sintético?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un organismo que contiene genes introducidos artificialmente procedentes de otra especie mediante ingeniería genética",
+          "text": "La insulina recombinante",
           "is_correct": true,
-          "feedback": "¡Correcto! Los transgénicos incorporan material genético exógeno de forma estable para adquirir características novedosas como resistencia a plagas o tolerancia a herbicidas."
+          "feedback": "¡Correcto! La insulina recombinante responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una variedad seleccionada artificialmente a través de cruces selectivos convencionales durante múltiples generaciones",
+          "text": "La terapia génica",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección artificial clásica no introduce genes exógenos de otras especies de forma directa mediante técnicas moleculares."
+          "feedback": "Incorrecto. La terapia génica no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es un organismo silvestre sometido a condiciones extremas para acelerar su mutación natural",
+          "text": "Cultivos Bt resistentes a insectos",
           "is_correct": false,
-          "feedback": "Incorrecto. El fitomejoramiento por mutación inducida usa radiación o mutágenos químicos pero no transfiere de manera precisa genes extraños."
+          "feedback": "Incorrecto. Cultivos Bt resistentes a insectos es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una copia clónica idéntica obtenida a partir del cultivo in vitro de células meristemáticas vegetales",
+          "text": "Hibridación Southern Blot",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto constituye propagación vegetativa clónica y no implica alteración de la dotación génica nativa."
+          "feedback": "Incorrecto. Hibridación Southern Blot describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La tecnología del ADN recombinante permite cortar genes específicos con enzimas de restricción y pegarlos en vectores plasmídicos con ADN ligasa para transformar bacterias, plantas o animales con fines industriales y de investigación.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de La insulina recombinante constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v12",
-      "statement": "¿Qué técnica biotecnológica revolucionaria permite generar miles de millones de copias idénticas de un fragmento de ADN específico a partir de una muestra mínima, utilizando ciclos térmicos repetitivos y una polimerasa resistente al calor (Taq polimerasa)?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Gladys y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué tipo de terapia introduce genes funcionales directamente en las células de un paciente para corregir un defecto genético?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Liz y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "PCR (Reacción en Cadena de la Polimerasa)",
+          "text": "La terapia génica",
           "is_correct": true,
-          "feedback": "¡Correcto! La PCR (desarrollada por Kary Mullis) consta de tres etapas térmicas: desnaturalización (separación de hebras), alineación (unión de cebadores) y extensión (síntesis por Taq polimerasa)."
+          "feedback": "¡Correcto! La terapia génica responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Hibridación Southern Blot",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método de detección de fragmentos específicos de ADN en una membrana, no una técnica de amplificación en masa."
+          "feedback": "Incorrecto. El promotor fuerte (como pCMV) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Secuenciación de Sanger",
+          "text": "La secuenciación de Sanger",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método para determinar la secuencia de nucleótidos del ADN mediante dideoxinucleótidos de parada, no sirve para amplificar."
+          "feedback": "Incorrecto. La secuenciación de Sanger es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Cromatografía de exclusión molecular",
+          "text": "La reacción en cadena de la polimerasa (PCR)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso de purificación física de proteínas o macromoléculas según su tamaño molecular, no copia ácidos nucleicos."
+          "feedback": "Incorrecto. La reacción en cadena de la polimerasa (PCR) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Taq polimerasa, aislada de la bacteria termófila *Thermus aquaticus*, es indispensable para la PCR debido a su capacidad para soportar las altas temperaturas del paso de desnaturalización (alrededor de 95°C) sin desnaturalizarse.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de La terapia génica constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v13",
-      "statement": "¿Qué tecnología de biología molecular revolucionaria permite editar, corregir o inactivar secuencias de ADN genómico específicas y con precisión quirúrgica en casi cualquier organismo vivo utilizando un ARN guía?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Santiago y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué plantas transgénicas contienen genes de la bacteria *Bacillus thuringiensis* para producir toxinas contra insectos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "El sistema CRISPR-Cas9",
+          "text": "Cultivos Bt resistentes a insectos",
           "is_correct": true,
-          "feedback": "¡Correcto! El sistema CRISPR-Cas9 actúa como unas tijeras moleculares guiadas por ARN que cortan el ADN de forma selectiva para permitir su posterior edición."
+          "feedback": "¡Correcto! Cultivos Bt resistentes a insectos responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La reacción en cadena de la polimerasa de hibridación inversa",
+          "text": "La reacción en cadena de la polimerasa (PCR)",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional copia y amplifica segmentos de ADN in vitro pero no edita el genoma de células vivas."
+          "feedback": "Incorrecto. La reacción en cadena de la polimerasa (PCR) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La electroforesis de ácidos grasos en gel de poliacrilamida",
+          "text": "La huella genética por PCR de STR",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método puramente analítico de separación física de moléculas según tamaño y carga, no edita genes."
+          "feedback": "Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La clonación reproductiva por transferencia de núcleos somáticos",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
-          "feedback": "Incorrecto. Copia genomas completos para reproducir un organismo genéticamente idéntico (como la oveja Dolly), pero no realiza microedición genética."
+          "feedback": "Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El sistema CRISPR-Cas9 se adaptó a partir de un mecanismo inmunitario de defensa bacteriano contra bacteriófagos. Su versatilidad y bajo costo han transformado la medicina genética, la agricultura y la biotecnología moderna.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Cultivos Bt resistentes a insectos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,37 +594,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v14",
-      "statement": "¿Qué es un organismo genéticamente modificado (OGM) o transgénico y cómo se obtiene comúnmente?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Sofía y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué técnica utiliza sondas de ADN monocatenario marcadas para detectar la presencia de secuencias complementarias en un filtro?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sebastián y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un organismo que contiene genes introducidos artificialmente procedentes de otra especie mediante ingeniería genética",
+          "text": "Hibridación Southern Blot",
           "is_correct": true,
-          "feedback": "¡Correcto! Los transgénicos incorporan material genético exógeno de forma estable para adquirir características novedosas como resistencia a plagas o tolerancia a herbicidas."
+          "feedback": "¡Correcto! Hibridación Southern Blot responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una variedad seleccionada artificialmente a través de cruces selectivos convencionales durante múltiples generaciones",
+          "text": "La electroforesis en gel",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección artificial clásica no introduce genes exógenos de otras especies de forma directa mediante técnicas moleculares."
+          "feedback": "Incorrecto. La electroforesis en gel no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es un organismo silvestre sometido a condiciones extremas para acelerar su mutación natural",
+          "text": "La electroporación",
           "is_correct": false,
-          "feedback": "Incorrecto. El fitomejoramiento por mutación inducida usa radiación o mutágenos químicos pero no transfiere de manera precisa genes extraños."
+          "feedback": "Incorrecto. La electroporación es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una copia clónica idéntica obtenida a partir del cultivo in vitro de células meristemáticas vegetales",
+          "text": "Las células madre embrionarias",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto constituye propagación vegetativa clónica y no implica alteración de la dotación génica nativa."
+          "feedback": "Incorrecto. Las células madre embrionarias describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La tecnología del ADN recombinante permite cortar genes específicos con enzimas de restricción y pegarlos en vectores plasmídicos con ADN ligasa para transformar bacterias, plantas o animales con fines industriales y de investigación.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Hibridación Southern Blot constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -639,37 +639,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v15",
-      "statement": "¿Qué técnica biotecnológica revolucionaria permite generar miles de millones de copias idénticas de un fragmento de ADN específico a partir de una muestra mínima, utilizando ciclos térmicos repetitivos y una polimerasa resistente al calor (Taq polimerasa)?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Valentina y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué proceso de clonación transfiere el núcleo diploide de una célula somática a un óvulo previamente enucleado?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Santiago y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "PCR (Reacción en Cadena de la Polimerasa)",
+          "text": "Transferencia nuclear de células somáticas",
           "is_correct": true,
-          "feedback": "¡Correcto! La PCR (desarrollada por Kary Mullis) consta de tres etapas térmicas: desnaturalización (separación de hebras), alineación (unión de cebadores) y extensión (síntesis por Taq polimerasa)."
+          "feedback": "¡Correcto! Transferencia nuclear de células somáticas responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Hibridación Southern Blot",
+          "text": "La electroporación",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método de detección de fragmentos específicos de ADN en una membrana, no una técnica de amplificación en masa."
+          "feedback": "Incorrecto. La electroporación no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Secuenciación de Sanger",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método para determinar la secuencia de nucleótidos del ADN mediante dideoxinucleótidos de parada, no sirve para amplificar."
+          "feedback": "Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Cromatografía de exclusión molecular",
+          "text": "La terapia génica",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso de purificación física de proteínas o macromoléculas según su tamaño molecular, no copia ácidos nucleicos."
+          "feedback": "Incorrecto. La terapia génica describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Taq polimerasa, aislada de la bacteria termófila *Thermus aquaticus*, es indispensable para la PCR debido a su capacidad para soportar las altas temperaturas del paso de desnaturalización (alrededor de 95°C) sin desnaturalizarse.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de Transferencia nuclear de células somáticas constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v16",
-      "statement": "¿Qué tecnología de biología molecular revolucionaria permite editar, corregir o inactivar secuencias de ADN genómico específicas y con precisión quirúrgica en casi cualquier organismo vivo utilizando un ARN guía?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Santiago y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué vector vírico modificado se emplea de forma común para transferir ADN exógeno al genoma de células animales?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, María y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "El sistema CRISPR-Cas9",
+          "text": "El retrovirus o adenovirus modificado",
           "is_correct": true,
-          "feedback": "¡Correcto! El sistema CRISPR-Cas9 actúa como unas tijeras moleculares guiadas por ARN que cortan el ADN de forma selectiva para permitir su posterior edición."
+          "feedback": "¡Correcto! El retrovirus o adenovirus modificado responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La reacción en cadena de la polimerasa de hibridación inversa",
+          "text": "La Taq polimerasa",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional copia y amplifica segmentos de ADN in vitro pero no edita el genoma de células vivas."
+          "feedback": "Incorrecto. La Taq polimerasa no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La electroforesis de ácidos grasos en gel de poliacrilamida",
+          "text": "La huella genética por PCR de STR",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método puramente analítico de separación física de moléculas según tamaño y carga, no edita genes."
+          "feedback": "Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La clonación reproductiva por transferencia de núcleos somáticos",
+          "text": "La electroforesis en gel",
           "is_correct": false,
-          "feedback": "Incorrecto. Copia genomas completos para reproducir un organismo genéticamente idéntico (como la oveja Dolly), pero no realiza microedición genética."
+          "feedback": "Incorrecto. La electroforesis en gel describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El sistema CRISPR-Cas9 se adaptó a partir de un mecanismo inmunitario de defensa bacteriano contra bacteriófagos. Su versatilidad y bajo costo han transformado la medicina genética, la agricultura y la biotecnología moderna.\n\n---",
-      "difficulty": "8",
+      "explanation": "El concepto de El retrovirus o adenovirus modificado constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v17",
-      "statement": "¿Qué es un organismo genéticamente modificado (OGM) o transgénico y cómo se obtiene comúnmente?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Gladys y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué enzima permite sintetizar ADN de doble cadena utilizando como molde inicial una molécula de ARN mensajero?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Gladys y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un organismo que contiene genes introducidos artificialmente procedentes de otra especie mediante ingeniería genética",
+          "text": "La transcriptasa inversa",
           "is_correct": true,
-          "feedback": "¡Correcto! Los transgénicos incorporan material genético exógeno de forma estable para adquirir características novedosas como resistencia a plagas o tolerancia a herbicidas."
+          "feedback": "¡Correcto! La transcriptasa inversa responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una variedad seleccionada artificialmente a través de cruces selectivos convencionales durante múltiples generaciones",
+          "text": "La reacción en cadena de la polimerasa (PCR)",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección artificial clásica no introduce genes exógenos de otras especies de forma directa mediante técnicas moleculares."
+          "feedback": "Incorrecto. La reacción en cadena de la polimerasa (PCR) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es un organismo silvestre sometido a condiciones extremas para acelerar su mutación natural",
+          "text": "Hibridación Southern Blot",
           "is_correct": false,
-          "feedback": "Incorrecto. El fitomejoramiento por mutación inducida usa radiación o mutágenos químicos pero no transfiere de manera precisa genes extraños."
+          "feedback": "Incorrecto. Hibridación Southern Blot es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una copia clónica idéntica obtenida a partir del cultivo in vitro de células meristemáticas vegetales",
+          "text": "El retrovirus o adenovirus modificado",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto constituye propagación vegetativa clónica y no implica alteración de la dotación génica nativa."
+          "feedback": "Incorrecto. El retrovirus o adenovirus modificado describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La tecnología del ADN recombinante permite cortar genes específicos con enzimas de restricción y pegarlos en vectores plasmídicos con ADN ligasa para transformar bacterias, plantas o animales con fines industriales y de investigación.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de La transcriptasa inversa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,37 +774,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v18",
-      "statement": "¿Qué técnica biotecnológica revolucionaria permite generar miles de millones de copias idénticas de un fragmento de ADN específico a partir de una muestra mínima, utilizando ciclos térmicos repetitivos y una polimerasa resistente al calor (Taq polimerasa)?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Sofía y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué tipo de cultivo celular vegetal regenera una planta completa a partir de células individuales totipotenciales?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sebastián y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "PCR (Reacción en Cadena de la Polimerasa)",
+          "text": "El cultivo in vitro de tejidos",
           "is_correct": true,
-          "feedback": "¡Correcto! La PCR (desarrollada por Kary Mullis) consta de tres etapas térmicas: desnaturalización (separación de hebras), alineación (unión de cebadores) y extensión (síntesis por Taq polimerasa)."
+          "feedback": "¡Correcto! El cultivo in vitro de tejidos responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Hibridación Southern Blot",
+          "text": "Las células madre embrionarias",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método de detección de fragmentos específicos de ADN en una membrana, no una técnica de amplificación en masa."
+          "feedback": "Incorrecto. Las células madre embrionarias no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Secuenciación de Sanger",
+          "text": "CRISPR-Cas9",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método para determinar la secuencia de nucleótidos del ADN mediante dideoxinucleótidos de parada, no sirve para amplificar."
+          "feedback": "Incorrecto. CRISPR-Cas9 es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Cromatografía de exclusión molecular",
+          "text": "La transcriptasa inversa",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un proceso de purificación física de proteínas o macromoléculas según su tamaño molecular, no copia ácidos nucleicos."
+          "feedback": "Incorrecto. La transcriptasa inversa describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Taq polimerasa, aislada de la bacteria termófila *Thermus aquaticus*, es indispensable para la PCR debido a su capacidad para soportar las altas temperaturas del paso de desnaturalización (alrededor de 95°C) sin desnaturalizarse.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de El cultivo in vitro de tejidos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -819,37 +819,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v19",
-      "statement": "¿Qué tecnología de biología molecular revolucionaria permite editar, corregir o inactivar secuencias de ADN genómico específicas y con precisión quirúrgica en casi cualquier organismo vivo utilizando un ARN guía?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Mateo y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué elemento promotor de transcripción viral se acopla a los vectores de expresión para forzar una alta síntesis de proteínas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Benjamín y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "El sistema CRISPR-Cas9",
+          "text": "El promotor fuerte (como pCMV)",
           "is_correct": true,
-          "feedback": "¡Correcto! El sistema CRISPR-Cas9 actúa como unas tijeras moleculares guiadas por ARN que cortan el ADN de forma selectiva para permitir su posterior edición."
+          "feedback": "¡Correcto! El promotor fuerte (como pCMV) responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "La reacción en cadena de la polimerasa de hibridación inversa",
+          "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional copia y amplifica segmentos de ADN in vitro pero no edita el genoma de células vivas."
+          "feedback": "Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "La electroforesis de ácidos grasos en gel de poliacrilamida",
+          "text": "El plásmido",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un método puramente analítico de separación física de moléculas según tamaño y carga, no edita genes."
+          "feedback": "Incorrecto. El plásmido es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "La clonación reproductiva por transferencia de núcleos somáticos",
+          "text": "Transferencia nuclear de células somáticas",
           "is_correct": false,
-          "feedback": "Incorrecto. Copia genomas completos para reproducir un organismo genéticamente idéntico (como la oveja Dolly), pero no realiza microedición genética."
+          "feedback": "Incorrecto. Transferencia nuclear de células somáticas describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El sistema CRISPR-Cas9 se adaptó a partir de un mecanismo inmunitario de defensa bacteriano contra bacteriófagos. Su versatilidad y bajo costo han transformado la medicina genética, la agricultura y la biotecnología moderna.\n\n---",
-      "difficulty": "10",
+      "explanation": "El concepto de El promotor fuerte (como pCMV) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "PY-CIE-11-2026-W09-tema-w09-001-MASTERY-v20",
-      "statement": "¿Qué es un organismo genéticamente modificado (OGM) o transgénico y cómo se obtiene comúnmente?",
-      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Gladys y su grupo investigan sobre Biotecnología.",
+      "statement": "¿Qué técnica analítica analiza marcadores de repeticiones en tándem (STR) para determinar la paternidad o perfil forense?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Santiago y su grupo investigan sobre Biotecnología.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un organismo que contiene genes introducidos artificialmente procedentes de otra especie mediante ingeniería genética",
+          "text": "La huella genética por PCR de STR",
           "is_correct": true,
-          "feedback": "¡Correcto! Los transgénicos incorporan material genético exógeno de forma estable para adquirir características novedosas como resistencia a plagas o tolerancia a herbicidas."
+          "feedback": "¡Correcto! La huella genética por PCR de STR responde perfectamente a la base teórica correspondiente."
         },
         {
           "letter": "B",
-          "text": "Es una variedad seleccionada artificialmente a través de cruces selectivos convencionales durante múltiples generaciones",
+          "text": "La insulina recombinante",
           "is_correct": false,
-          "feedback": "Incorrecto. La selección artificial clásica no introduce genes exógenos de otras especies de forma directa mediante técnicas moleculares."
+          "feedback": "Incorrecto. La insulina recombinante no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
           "letter": "C",
-          "text": "Es un organismo silvestre sometido a condiciones extremas para acelerar su mutación natural",
+          "text": "La reacción en cadena de la polimerasa (PCR)",
           "is_correct": false,
-          "feedback": "Incorrecto. El fitomejoramiento por mutación inducida usa radiación o mutágenos químicos pero no transfiere de manera precisa genes extraños."
+          "feedback": "Incorrecto. La reacción en cadena de la polimerasa (PCR) es un concepto diferente de la unidad temática."
         },
         {
           "letter": "D",
-          "text": "Es una copia clónica idéntica obtenida a partir del cultivo in vitro de células meristemáticas vegetales",
+          "text": "La transcriptasa inversa",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto constituye propagación vegetativa clónica y no implica alteración de la dotación génica nativa."
+          "feedback": "Incorrecto. La transcriptasa inversa describe un proceso o componente distinto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La tecnología del ADN recombinante permite cortar genes específicos con enzimas de restricción y pegarlos en vectores plasmídicos con ADN ligasa para transformar bacterias, plantas o animales con fines industriales y de investigación.",
-      "difficulty": "10",
+      "explanation": "El concepto de La huella genética por PCR de STR constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
