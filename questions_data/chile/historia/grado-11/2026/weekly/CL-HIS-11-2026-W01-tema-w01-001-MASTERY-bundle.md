@@ -1,5 +1,7 @@
 ---
 id: "CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "chile"
 grado: 11
 asignatura: "historia"
@@ -17,7 +19,8 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+
+## Question 1 [D3-D4]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -41,7 +44,7 @@ El principio del 'Uti possidetis iure' (como poseías, seguirás poseyendo) fue 
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -65,7 +68,7 @@ Tras la independencia, Chile continuó dependiendo de la exportación de materia
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -89,7 +92,7 @@ La Constitución de 1833 consagró el voto censitario, lo que aseguraba que el c
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -113,7 +116,7 @@ En su famosa carta a José M. Cea, Portales describe que la democracia no es via
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -137,7 +140,7 @@ El inquilinaje fue la base social de la hacienda del Valle Central de Chile. Con
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -161,7 +164,7 @@ Bajo la presidencia de Manuel Bulnes y con el sabio Andrés Bello como primer re
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Temporal y Espacial
@@ -185,7 +188,7 @@ El descubrimiento de Chañarcillo en 1832 revolucionó las finanzas nacionales y
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -209,7 +212,7 @@ Los liberales buscaban secularizar el Estado, defender las libertades civiles (c
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -233,7 +236,7 @@ La estructura terrateniente de la hacienda impedía la propiedad de minifundios 
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -257,7 +260,7 @@ La tensión entre las provincias ricas en recursos (como la minería del norte o
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -281,7 +284,7 @@ La Sociedad de la Igualdad representó una experiencia inédita de alianza entre
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -305,7 +308,7 @@ La 'Cuestión del Sacristán' debilitó la coalición gobernante tradicional. Qu
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -329,7 +332,7 @@ La Ley de Instrucción Primaria de 1860 fue un pilar en la democratización del 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Crítico
@@ -353,7 +356,7 @@ Los 'decenios autoritarios' de Prieto, Bulnes, Montt y Pérez terminaron con la 
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -377,7 +380,7 @@ Las Leyes Laicas constituyeron el mayor avance secular de la república liberal 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Crítico
@@ -401,7 +404,7 @@ El Partido Radical nació como un desprendimiento progresista de la élite de At
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -425,7 +428,7 @@ La supresión de los mayorazgos, resistida por los sectores conservadores tradic
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
@@ -449,7 +452,7 @@ La ley de colonización de 1845 reflejó el interés del Estado chileno por cons
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Temporal y Espacial
@@ -473,7 +476,7 @@ El Tratado de 1881 con Argentina fijó la frontera de altas cumbres divisorias d
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** CL-HIS-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
