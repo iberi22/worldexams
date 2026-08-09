@@ -378,37 +378,48 @@
   // 🆕 Reactive lists for UI with Weighted Scoring
   const getWeightedScore = (correct: number, seen: number) => (correct + 1) / (seen + 2);
 
-  let competencyStats = $derived(userProfile?.competencies
-    ? Object.values(userProfile.competencies)
-        .filter(c => c.seen > 0)
-        .map(c => ({
-          ...c,
-          weightedScore: getWeightedScore(c.correct, c.seen)
-        }))
-    : []);
+  // ⚡ Bolt Optimization: Combine derived state calculations using $derived.by() to avoid O(N log N) duplicate sorting passes
+  let { competencyStats, subjectStats, topStrengths, topWeaknesses } = $derived.by(() => {
+    const compStats = userProfile?.competencies
+      ? Object.values(userProfile.competencies)
+          .filter(c => c.seen > 0)
+          .map(c => ({
+            ...c,
+            weightedScore: getWeightedScore(c.correct, c.seen)
+          }))
+      : [];
 
-  let subjectStats = $derived(userProfile?.subjects
-    ? Object.values(userProfile.subjects)
-        .filter(s => s.questionsAnswered > 0)
-        .map(s => ({
-          ...s,
-          correct: Math.round(s.accuracy * s.questionsAnswered),
-          seen: s.questionsAnswered,
-          weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
-        }))
-    : []);
+    const subjStats = userProfile?.subjects
+      ? Object.values(userProfile.subjects)
+          .filter(s => s.questionsAnswered > 0)
+          .map(s => ({
+            ...s,
+            correct: Math.round(s.accuracy * s.questionsAnswered),
+            seen: s.questionsAnswered,
+            weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
+          }))
+      : [];
 
-  // Top Strengths (Highest Weighted Score)
-  let topStrengths = $derived(competencyStats.length > 0
-      ? [...competencyStats].sort((a,b) => b.weightedScore - a.weightedScore).slice(0, 3)
-      : [...subjectStats].sort((a,b) => b.weightedScore - a.weightedScore).slice(0, 3));
+    let strengths: any[] = [];
+    let weaknesses: any[] = [];
 
-  // Top Weaknesses (Lowest Weighted Score) - Only show if seen > MIN_THRESHOLD to avoid noise?
-  // User wanted coherence, so let's stick to strict sorting but maybe filter extremely low samples if needed.
-  // For now, weighted score handles 0/1 vs 0/5 well (0/5 is lower score).
-  let topWeaknesses = $derived(competencyStats.length > 0
-      ? [...competencyStats].sort((a,b) => (a.weightedScore ?? 0) - (b.weightedScore ?? 0)).slice(0, 3)
-      : [...subjectStats].sort((a,b) => (a.weightedScore ?? 0) - (b.weightedScore ?? 0)).slice(0, 3));
+    if (compStats.length > 0) {
+      const sorted = [...compStats].sort((a, b) => b.weightedScore - a.weightedScore);
+      strengths = sorted.slice(0, 3);
+      weaknesses = sorted.slice().reverse().slice(0, 3); // Reverse of desc sort = asc sort
+    } else if (subjStats.length > 0) {
+      const sorted = [...subjStats].sort((a, b) => b.weightedScore - a.weightedScore);
+      strengths = sorted.slice(0, 3);
+      weaknesses = sorted.slice().reverse().slice(0, 3);
+    }
+
+    return {
+      competencyStats: compStats,
+      subjectStats: subjStats,
+      topStrengths: strengths,
+      topWeaknesses: weaknesses
+    };
+  });
 
   let seenCompetencies = $derived(competencyStats); // Keep for compatibility if used elsewhere
   let seenSubjects = $derived(subjectStats);        // Keep for compatibility
