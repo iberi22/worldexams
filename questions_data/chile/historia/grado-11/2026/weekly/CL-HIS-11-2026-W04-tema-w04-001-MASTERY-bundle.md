@@ -1,5 +1,7 @@
 ---
 id: "CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 country: "chile"
 grado: 11
 asignatura: "historia"
@@ -17,7 +19,8 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+
+## Question 1 [D3-D4]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -41,7 +44,7 @@ El terremoto de Chillán de 1939 asoló la zona centro-sur del país. Esto motiv
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Temporal y Espacial
@@ -65,7 +68,7 @@ Como maestro y abogado, Pedro Aguirre Cerda impulsó el lema 'Gobernar es educar
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -89,7 +92,7 @@ El descubrimiento de petróleo en Springhill (Tierra del Fuego) en 1945 motivó 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -113,7 +116,7 @@ La vulnerabilidad chilena residía en su extrema dependencia de los mercados fin
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -137,7 +140,7 @@ El modelo ISI (o industrialización 'hacia adentro') se basó en el diagnóstico
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -161,7 +164,7 @@ La creación del Servicio Nacional de Salud (SNS) en 1952 bajo el gobierno de Ga
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Pensamiento Temporal y Espacial
@@ -185,7 +188,7 @@ La usina de Huachipato fue inaugurada en 1950, constituyendo la cumbre del esfue
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Análisis de Fuentes de Información
@@ -209,7 +212,7 @@ La expansión del aparato fiscal y del Estado docente bajo los radicales redund�
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Pensamiento Crítico
@@ -233,7 +236,7 @@ El carbón de Lota poseía límites de extracción y altos costos. ENDESA, filia
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -257,7 +260,7 @@ La creación de IANSA ejemplifica la estrategia ISI de sustituir compras al exte
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Análisis de Fuentes de Información
@@ -281,7 +284,7 @@ La urbanización acelerada empujó al Estado a intervenir de forma directa en el
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Pensamiento Crítico
@@ -305,7 +308,7 @@ El sufragio femenino municipal se aprobó en 1934. La lucha tenaz del MEMCH y la
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -329,7 +332,7 @@ La 'Ley Maldita' de 1948 reflejó el impacto de la Guerra Fría en la política 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Temporal y Espacial
@@ -353,7 +356,7 @@ El modelo ISI chileno mostró debilidades hacia fines de los 50. La 'fase fácil
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Crítico
@@ -377,7 +380,7 @@ La fundación de la UTE en 1947 bajo Gabriel González Videla constituyó el esl
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Análisis de Fuentes de Información
@@ -401,7 +404,7 @@ El desajuste estructural entre una economía industrial urbana moderna (modelo I
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -425,7 +428,7 @@ El legado de la CORFO es el más contundente ejemplo de 'Estado empresario' en A
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
@@ -449,7 +452,7 @@ El 'pacto portaliano moderno' del Frente Popular implicó la postergación socia
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Análisis de Fuentes de Información
@@ -473,7 +476,7 @@ A mediados del siglo XX, el Estado chileno dejó de ser meramente 'gendarme' u o
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** CL-HIS-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Crítico
