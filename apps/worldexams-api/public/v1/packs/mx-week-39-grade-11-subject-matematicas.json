@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición de la parábola como lugar geométrico?",
-      "context": "Definición de parábola.",
+      "context": "Definición de parábola.\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v2",
       "statement": "Dada la ecuación $x^2 = 8y$, ¿hacia dónde abre la parábola?",
-      "context": "Orientación de la parábola.",
+      "context": "Orientación de la parábola.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la coordenada del foco de la parábola $y^2 = 12x$?",
-      "context": "Foco de la parábola.",
+      "context": "Foco de la parábola.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes constantes define la excentricidad ($e$) de una elipse?",
-      "context": "Definición de elipse.",
+      "context": "Definición de elipse.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v5",
       "statement": "Determina la ecuación de la elipse horizontal con centro en el origen, semieje mayor $a=5$ y semieje menor $b=3$.",
-      "context": "Ecuación de la elipse con centro en el origen.",
+      "context": "Ecuación de la elipse con centro en el origen.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v6",
       "statement": "Dada la ecuación $\\frac{x^2}{16} + \\frac{y^2}{100} = 1$, ¿cuál es la longitud del eje mayor?",
-      "context": "Identificación de elementos de la elipse.",
+      "context": "Identificación de elementos de la elipse.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el vértice de la parábola $(y - 4)^2 = 8(x + 2)$?",
-      "context": "Vértice de una parábola desplazada.",
+      "context": "Vértice de una parábola desplazada.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v8",
       "statement": "Si en una elipse $a=13$ y $b=5$, ¿cuál es la distancia del centro a cada foco ($c$)?",
-      "context": "Relación entre parámetros de la elipse.",
+      "context": "Relación entre parámetros de la elipse.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v9",
       "statement": "Halla la ecuación de la directriz de la parábola $x^2 = -16y$.",
-      "context": "Directriz de la parábola.",
+      "context": "Directriz de la parábola.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la longitud del lado recto ($LLR$) de la parábola $y^2 = 20x$?",
-      "context": "Lado recto de la parábola.",
+      "context": "Lado recto de la parábola.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v11",
       "statement": "Determina el centro de la elipse cuya ecuación es $\\frac{(x + 3)^2}{4} + \\frac{(y - 7)^2}{9} = 1$.",
-      "context": "Elipse con centro fuera del origen.",
+      "context": "Elipse con centro fuera del origen.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v12",
       "statement": "Calcula la excentricidad de la elipse $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$.",
-      "context": "Excentricidad de la elipse.",
+      "context": "Excentricidad de la elipse.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la ecuación general de la parábola con vértice en $(0,0)$ y foco en $(0, 2)$?",
-      "context": "Ecuación general de la parábola.",
+      "context": "Ecuación general de la parábola.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v14",
       "statement": "Dada la ecuación $4x^2 + 9y^2 - 36 = 0$, ¿qué tipo de cónica representa?",
-      "context": "Reconocimiento de cónicas por sus coeficientes.",
+      "context": "Reconocimiento de cónicas por sus coeficientes.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v15",
       "statement": "Encuentra las coordenadas de los focos de la elipse $\\frac{(x-2)^2}{25} + \\frac{(y+1)^2}{9} = 1$.",
-      "context": "Focos de una elipse desplazada.",
+      "context": "Focos de una elipse desplazada.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es la longitud del lado recto ($LR$) de la elipse $\\frac{x^2}{16} + \\frac{y^2}{4} = 1$?",
-      "context": "Lado recto de la elipse.",
+      "context": "Lado recto de la elipse.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v17",
       "statement": "Dada la ecuación $y^2 - 4y - 8x + 28 = 0$, ¿cuál es el vértice de la parábola?",
-      "context": "Conversión de general a ordinaria (Parábola).",
+      "context": "Conversión de general a ordinaria (Parábola).\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v18",
       "statement": "Una antena parabólica tiene 2 metros de ancho en su apertura y 0.5 metros de profundidad. ¿A qué distancia del fondo (vértice) se debe colocar el receptor (foco)?",
-      "context": "Problema de aplicación (Antena parabólica).",
+      "context": "Problema de aplicación (Antena parabólica).\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v19",
       "statement": "El área de una elipse está dada por $A = \\pi \\cdot a \\cdot b$. ¿Cuál es el área de la elipse definida por $9x^2 + 25y^2 = 225$?",
-      "context": "Área de una elipse (teórico/avanzado).",
+      "context": "Área de una elipse (teórico/avanzado).\n**Expected_Success:** 0.32",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W39-geometria-analitica-conicas-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la excentricidad de una circunferencia considerada como un caso especial de elipse?",
-      "context": "Condición de tangencia de cónicas.",
+      "context": "Condición de tangencia de cónicas.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",

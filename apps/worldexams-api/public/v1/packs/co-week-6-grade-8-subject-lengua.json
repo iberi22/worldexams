@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v1",
       "statement": "¿Qué visión del mundo predomina en la literatura barroca, en contraste con el optimismo del Renacimiento?",
-      "context": "El Barroco se desarrolla durante el siglo XVII, en una época de crisis política, económica y social en Europa, especialmente en España.",
+      "context": "El Barroco se desarrolla durante el siglo XVII, en una época de crisis política, económica y social en Europa, especialmente en España.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es una característica estética fundamental de la literatura barroca en cuanto a su forma y estilo?",
-      "context": "Durante el Barroco, se busca impresionar al lector o espectador mediante el contraste y la exageración.",
+      "context": "Durante el Barroco, se busca impresionar al lector o espectador mediante el contraste y la exageración.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v3",
       "statement": "¿Cuáles fueron las dos tendencias poéticas principales que dominaron el Siglo de Oro durante el periodo Barroco?",
-      "context": "El siglo XVII español vio florecer dos grandes corrientes poéticas que a menudo se enfrentaron entre sí.",
+      "context": "El siglo XVII español vio florecer dos grandes corrientes poéticas que a menudo se enfrentaron entre sí.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v4",
       "statement": "¿Qué idea sobre la realidad transmite la obra \"La vida es sueño\" de Calderón de la Barca mediante el tópico de la vida como una ilusión?",
-      "context": "El tópico del \"Teatro del Mundo\" sugiere que la vida humana es una representación donde cada persona tiene un papel asignado.",
+      "context": "El tópico del \"Teatro del Mundo\" sugiere que la vida humana es una representación donde cada persona tiene un papel asignado.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v5",
       "statement": "Si un poeta barroco describe una flor marchitándose para hablar de la juventud, ¿qué mensaje está enviando al lector según la mentalidad de la época?",
-      "context": "El tópico del \"Memento mori\" (\"Recuerda que vas a morir\") se vuelve obsesivo en la literatura barroca.",
+      "context": "El tópico del \"Memento mori\" (\"Recuerda que vas a morir\") se vuelve obsesivo en la literatura barroca.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v6",
       "statement": "En el famoso verso de Quevedo \"Érase un hombre a una nariz pegado\", ¿qué figura retórica utiliza para satirizar de forma exagerada la nariz del personaje?",
-      "context": "Francisco de Quevedo es el máximo representante del Conceptismo, donde importa el \"concepto\" o la agudeza del ingenio.",
+      "context": "Francisco de Quevedo es el máximo representante del Conceptismo, donde importa el \"concepto\" o la agudeza del ingenio.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v7",
       "statement": "¿Cuál fue la principal innovación de Lope de Vega al romper con las reglas del teatro clásico de las tres unidades (acción, tiempo y lugar)?",
-      "context": "Lope de Vega revolucionó el teatro con su \"Arte nuevo de hacer comedias\", adaptando las obras al gusto del público masivo.",
+      "context": "Lope de Vega revolucionó el teatro con su \"Arte nuevo de hacer comedias\", adaptando las obras al gusto del público masivo.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v8",
       "statement": "En su poema \"Hombres necios que acusáis\", ¿qué crítica fundamental lanza Sor Juana hacia la sociedad de su tiempo?",
-      "context": "Sor Juana Inés de la Cruz, máxima exponente del Barroco en América, defendió el derecho de las mujeres al conocimiento y al estudio.",
+      "context": "Sor Juana Inés de la Cruz, máxima exponente del Barroco en América, defendió el derecho de las mujeres al conocimiento y al estudio.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v9",
       "statement": "¿Cuál era el objetivo de Góngora al utilizar estructuras sintácticas tan complejas que obligaban al lector a realizar un gran esfuerzo mental?",
-      "context": "El uso del hipérbaton (alteración del orden lógico de la frase) es muy común en la poesía culterana de Luis de Góngora.",
+      "context": "El uso del hipérbaton (alteración del orden lógico de la frase) es muy común en la poesía culterana de Luis de Góngora.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v10",
       "statement": "¿Cómo se puede interpretar la proliferación de personajes como pícaros, mendigos y ladrones en la literatura del siglo XVII?",
-      "context": "El Barroco coincide con la decadencia del Imperio Español. Muchos autores utilizan la sátira para criticar la corrupción y el desorden social.",
+      "context": "El Barroco coincide con la decadencia del Imperio Español. Muchos autores utilizan la sátira para criticar la corrupción y el desorden social.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v11",
       "statement": "En \"Fuenteovejuna\", el pueblo entero se declara culpable de la muerte del Comendador. ¿Qué cambio social importante sugiere esta resolución colectiva?",
-      "context": "En el teatro barroco, el concepto del \"honor\" o la \"honra\" es el motor de muchas tramas, como en \"Fuenteovejuna\".",
+      "context": "En el teatro barroco, el concepto del \"honor\" o la \"honra\" es el motor de muchas tramas, como en \"Fuenteovejuna\".\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W06-literatura-barroca-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la función filosófica de utilizar constantes contrastes (luz/sombra, espiritual/material, vida/muerte) en un mismo poema barroco?",
-      "context": "El claroscuro es una técnica pictórica (Caravaggio) que también se aplica a la literatura mediante antítesis y paradojas.",
+      "context": "El claroscuro es una técnica pictórica (Caravaggio) que también se aplica a la literatura mediante antítesis y paradojas.\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",

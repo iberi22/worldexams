@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#00e5ff" />
+    </linearGradient>
+    <style>
+      .title { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 800; font-size: 72px; fill: #ffffff; }
+      .subtitle { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 500; font-size: 36px; fill: #94a3b8; }
+      .badge { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 24px; fill: #00e5ff; letter-spacing: 2px; }
+    </style>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)" />
+  <!-- Decorative Background Glow -->
+  <circle cx="1000" cy="150" r="300" fill="#3b82f6" opacity="0.15" filter="blur(60px)" />
+  <circle cx="200" cy="500" r="250" fill="#00e5ff" opacity="0.1" filter="blur(50px)" />
+  
+  <!-- Accent Line -->
+  <rect x="100" y="140" width="120" height="8" rx="4" fill="url(#accentGrad)" />
+  
+  <!-- Badge -->
+  <text x="100" y="115" class="badge">PLATAFORMA EDUCATIVA · COLOMBIA</text>
+  
+  <!-- Main Heading -->
+  <text x="100" y="260" class="title">SaberParaTodos</text>
+  
+  <!-- Subheading -->
+  <text x="100" y="340" class="subtitle">Simulacros y práctica interactiva para el examen ICFES Saber 11</text>
+  <text x="100" y="400" class="subtitle">Entrenamiento por áreas · 100% Gratis</text>
+  
+  <!-- Footer URL -->
+  <rect x="100" y="480" width="360" height="56" rx="28" fill="#1e293b" stroke="#334155" stroke-width="2" />
+  <text x="140" y="517" font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="24" fill="#38bdf8">https://saberparatodos.space</text>
+</svg>

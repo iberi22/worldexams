@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v1",
       "statement": "¿A qué vicio del lenguaje nos referimos cuando usamos palabras innecesarias que ya están implícitas en el significado de otras, como \"subir arriba\"?",
-      "context": "Los vicios del lenguaje son usos o formas incorrectas de hablar o escribir que pueden dificultar la comprensión.",
+      "context": "Los vicios del lenguaje son usos o formas incorrectas de hablar o escribir que pueden dificultar la comprensión.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el nombre del vicio del lenguaje que consiste en utilizar repetidamente las mismas palabras o muletillas, como decir \"ehh\", \"bueno\", \"esteee\" al hablar?",
-      "context": "El uso excesivo o inadecuado de ciertas palabras puede empobrecer el discurso.",
+      "context": "El uso excesivo o inadecuado de ciertas palabras puede empobrecer el discurso.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v3",
       "statement": "¿Cuál de las siguientes frases presenta un **solecismo** de concordancia?",
-      "context": "En Colombia, es común escuchar expresiones que contienen errores de concordancia o de estructura.",
+      "context": "En Colombia, es común escuchar expresiones que contienen errores de concordancia o de estructura.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v4",
       "statement": "Identifica la oración que contiene un **barbarismo** por uso incorrecto de una palabra:",
-      "context": "El barbarismo incluye tanto errores ortográficos como el uso innecesario de términos extranjeros.",
+      "context": "El barbarismo incluye tanto errores ortográficos como el uso innecesario de términos extranjeros.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la interpretación ambigua de la frase: \"Vimos a Juan paseando con su perro\"?",
-      "context": "La anfibología genera confusión en el receptor porque el mensaje tiene más de una interpretación.",
+      "context": "La anfibología genera confusión en el receptor porque el mensaje tiene más de una interpretación.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v6",
       "statement": "¿Cuál de las siguientes expresiones presenta un vicio de **cacofonía**?",
-      "context": "La cacofonía es el encuentro o repetición de sonidos iguales o semejantes que resultan desagradables al oído.",
+      "context": "La cacofonía es el encuentro o repetición de sonidos iguales o semejantes que resultan desagradables al oído.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de estas frases contiene un barbarismo por uso innecesario de un anglicismo, teniendo un término equivalente en español?",
-      "context": "El uso innecesario de anglicismos es un tipo de barbarismo muy común en la era digital.",
+      "context": "El uso innecesario de anglicismos es un tipo de barbarismo muy común en la era digital.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v8",
       "statement": "Identifica la oración que presenta un caso de **dequeísmo**:",
-      "context": "El queísmo y el dequeísmo son vicios relacionados con el uso incorrecto de la preposición \"de\" ante la conjunción \"que\".",
+      "context": "El queísmo y el dequeísmo son vicios relacionados con el uso incorrecto de la preposición \"de\" ante la conjunción \"que\".\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v9",
       "statement": "Lee el siguiente fragmento de una noticia escolar: \"Ayer hubieron muchos inscritos para el club de robótica, por lo que el profesor decidió de que el cupo se ampliaría para todos los que subieran arriba al segundo piso\".\n\n¿Cuáles vicios del lenguaje aparecen en este orden?",
-      "context": "Evitar los vicios del lenguaje mejora la calidad de los textos argumentativos y académicos.",
+      "context": "Evitar los vicios del lenguaje mejora la calidad de los textos argumentativos y académicos.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v10",
       "statement": "En una conversación sobre tecnología moderna, un abuelo le dice a su nieto: \"Hijo, antes de que **vos** te vayas, déjame **mesmo** el aparato ese que me **asimpla** la cabeza\".\n\nAnalizando los términos en negrilla, ¿qué fenómeno lingüístico ocurre aquí respecto a la norma actual?",
-      "context": "Los arcaísmos y neologismos pueden considerarse vicios si se usan de forma inadecuada para el contexto.",
+      "context": "Los arcaísmos y neologismos pueden considerarse vicios si se usan de forma inadecuada para el contexto.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

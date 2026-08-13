@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la característica principal que diferencia a una oración compuesta de una oración simple?",
-      "context": "En la clase de Lengua del Colegio San José en Barranquilla, los estudiantes empiezan a estudiar estructuras gramaticales más complejas para mejorar su escritura.",
+      "context": "En la clase de Lengua del Colegio San José en Barranquilla, los estudiantes empiezan a estudiar estructuras gramaticales más complejas para mejorar su escritura.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v2",
       "statement": "¿Cuántos verbos conjugados y cuántas proposiciones tiene la oración anterior?",
-      "context": "Valentina analiza la frase: \"Santiago estudia en el SENA y su hermana trabaja en una empresa de café\".",
+      "context": "Valentina analiza la frase: \"Santiago estudia en el SENA y su hermana trabaja en una empresa de café\".\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v3",
       "statement": "En la oración: \"Llegué a casa; me bañé; me acosté a dormir\", ¿qué recurso se ha utilizado para unir las proposiciones?",
-      "context": "Existen tres formas principales de unir las proposiciones para formar una oración compuesta: coordinación, subordinación y yuxtaposición.",
+      "context": "Existen tres formas principales de unir las proposiciones para formar una oración compuesta: coordinación, subordinación y yuxtaposición.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes es una oración compuesta por COORDINACIÓN?",
-      "context": "La coordinación une proposiciones que tienen independencia sintáctica, es decir, que podrían funcionar como oraciones simples por separado.",
+      "context": "La coordinación une proposiciones que tienen independencia sintáctica, es decir, que podrían funcionar como oraciones simples por separado.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v5",
       "statement": "\"¿Vienes conmigo al Nevado del Ruiz o prefieres quedarte en Manizales?\". ¿Qué tipo de relación establece el nexo \"o\" en esta oración?",
-      "context": "Los nexos coordinantes se clasifican según el tipo de relación que establecen entre las ideas (suma, opción, oposición, etc.).",
+      "context": "Los nexos coordinantes se clasifican según el tipo de relación que establecen entre las ideas (suma, opción, oposición, etc.).\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v6",
       "statement": "En la oración: \"Deseo **que todos los niños de Colombia tengan acceso a internet**\", ¿por qué la parte resaltada es una proposición subordinada?",
-      "context": "A diferencia de la coordinación, en la subordinación una proposición depende de la otra para tener sentido completo.",
+      "context": "A diferencia de la coordinación, en la subordinación una proposición depende de la otra para tener sentido completo.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v7",
       "statement": "Identifica cuál de las siguientes opciones es una oración COMPUESTA YUXTAPUESTA.",
-      "context": "Camila analiza la estructura de los textos periodísticos colombianos y nota que el uso de oraciones compuestas ayuda a dar más información en menos espacio.",
+      "context": "Camila analiza la estructura de los textos periodísticos colombianos y nota que el uso de oraciones compuestas ayuda a dar más información en menos espacio.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la principal ventaja de utilizar oraciones compuestas en un ensayo sobre la historia de Colombia?",
-      "context": "El uso excesivo de oraciones simples puede hacer que un texto parezca infantil o entrecortado.",
+      "context": "El uso excesivo de oraciones simples puede hacer que un texto parezca infantil o entrecortado.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v9",
       "statement": "Analiza la relación entre las dos proposiciones. ¿Qué tipo de nexo es \"aunque\" y qué efecto produce en el mensaje?",
-      "context": "Un texto dice: \"El café colombiano es el mejor del mundo **aunque otros países produzcan más cantidad**\".",
+      "context": "Un texto dice: \"El café colombiano es el mejor del mundo **aunque otros países produzcan más cantidad**\".\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v10",
       "statement": "Identifica el error de concordancia en la siguiente oración compuesta: \"El grupo de estudiantes ganaron el premio y ellos celebrará en la pizzería\".",
-      "context": "Al escribir una oración compuesta, es fundamental que haya concordancia entre los sujetos y los verbos de todas las proposiciones.",
+      "context": "Al escribir una oración compuesta, es fundamental que haya concordancia entre los sujetos y los verbos de todas las proposiciones.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
