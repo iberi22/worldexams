@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v1",
       "statement": "¿Cuál era el objetivo principal de los cronistas de Indias al enviar sus relatos a los reyes de España durante el siglo XVI?",
-      "context": "Las Crónicas de Indias son los relatos escritos por los conquistadores, clérigos y soldados que llegaron a América, registrando lo que veían y vivían.",
+      "context": "Las Crónicas de Indias son los relatos escritos por los conquistadores, clérigos y soldados que llegaron a América, registrando lo que veían y vivían.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v2",
       "statement": "¿En qué obra denunció Bartolomé de las Casas los maltratos sufridos por los indígenas a manos de los conquistadores españoles?",
-      "context": "Fray Bartolomé de las Casas fue uno de los cronistas más importantes y polémicos debido a su postura crítica frente a la Conquista.",
+      "context": "Fray Bartolomé de las Casas fue uno de los cronistas más importantes y polémicos debido a su postura crítica frente a la Conquista.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v3",
       "statement": "¿Cuál fue la motivación principal de Bernal Díaz del Castillo para escribir su \"Historia verdadera de la conquista de la Nueva España\"?",
-      "context": "Muchos cronistas no eran escritores profesionales, sino soldados que sentían que las historias oficiales de la época no daban crédito a quienes realmente pelearon las batallas.",
+      "context": "Muchos cronistas no eran escritores profesionales, sino soldados que sentían que las historias oficiales de la época no daban crédito a quienes realmente pelearon las batallas.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v4",
       "statement": "Cuando un cronista dice que una ciudad azteca parece \"las cosas de encantamiento que cuentan en el libro de Amadís\", ¿qué recurso literario está utilizando para que sus lectores españoles entiendan la grandeza de lo que ve?",
-      "context": "Los cronistas a menudo comparaban las ciudades y paisajes de América con lugares de España o con ciudades míticas de los libros de caballerías.",
+      "context": "Los cronistas a menudo comparaban las ciudades y paisajes de América con lugares de España o con ciudades míticas de los libros de caballerías.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la diferencia fundamental entre la perspectiva de un cronista soldado español y un cronista mestizo como el Inca Garcilaso de la Vega?",
-      "context": "Existieron cronistas mestizos, como el Inca Garcilaso de la Vega, que intentaron conciliar su herencia indígena con su educación española.",
+      "context": "Existieron cronistas mestizos, como el Inca Garcilaso de la Vega, que intentaron conciliar su herencia indígena con su educación española.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v6",
       "statement": "¿Qué contradicción se observa en la descripción que hace Colón de los habitantes de las islas del Caribe?",
-      "context": "Los Diarios de Colón describen a los indígenas como personas pacíficas, hermosas y generosas, pero también como \"buenos para servir\".",
+      "context": "Los Diarios de Colón describen a los indígenas como personas pacíficas, hermosas y generosas, pero también como \"buenos para servir\".\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v7",
       "statement": "¿Por qué es importante diferenciar entre los cronistas de \"oídas\" y los cronistas de \"vista\" (que estuvieron presentes en los hechos)?",
-      "context": "Algunos cronistas nunca viajaron a América, como Juan Ginés de Sepúlveda, quien defendía el derecho de conquista basándose en teorías aristotélicas sobre la superioridad natural.",
+      "context": "Algunos cronistas nunca viajaron a América, como Juan Ginés de Sepúlveda, quien defendía el derecho de conquista basándose en teorías aristotélicas sobre la superioridad natural.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v8",
       "statement": "¿Cómo debe manejar un lector actual los datos numéricos y las descripciones fantásticas presentes en las Crónicas de Indias?",
-      "context": "Los cronistas solían exagerar el número de enemigos vencidos y el tamaño de las ciudades para que sus hazañas parecieran más gloriosas ante los ojos del Rey.",
+      "context": "Los cronistas solían exagerar el número de enemigos vencidos y el tamaño de las ciudades para que sus hazañas parecieran más gloriosas ante los ojos del Rey.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v9",
       "statement": "¿Qué elemento diferencia a \"El Carnero\" de las crónicas de guerra de los primeros conquistadores?",
-      "context": "\"El Carnero\", escrito por el bogotano Juan Rodríguez Freyle en 1636, es considerado una crónica de transición hacia la literatura de costumbres y la narrativa.",
+      "context": "\"El Carnero\", escrito por el bogotano Juan Rodríguez Freyle en 1636, es considerado una crónica de transición hacia la literatura de costumbres y la narrativa.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v10",
       "statement": "¿En qué sentido las Crónicas de Indias pueden considerarse el origen del \"Realismo Mágico\" latinoamericano?",
-      "context": "Los cronistas de Indias son la base de la literatura hispanoamericana, influyendo en géneros modernos como el Realismo Mágico.",
+      "context": "Los cronistas de Indias son la base de la literatura hispanoamericana, influyendo en géneros modernos como el Realismo Mágico.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es el valor de una crónica que busca la precisión geográfica y etnográfica frente a una que solo busca narrar hazañas militares?",
-      "context": "Pedro Cieza de León, en su \"Crónica del Perú\", realizó descripciones detalladas de la geografía, la flora y las costumbres de los pueblos andinos de forma casi científica para su época.",
+      "context": "Pedro Cieza de León, en su \"Crónica del Perú\", realizó descripciones detalladas de la geografía, la flora y las costumbres de los pueblos andinos de forma casi científica para su época.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W11-cronistas-indias-001-MASTERY-bundle-v12",
       "statement": "¿Cómo influyó la literatura de las crónicas en la creación de las leyes coloniales en América?",
-      "context": "El debate sobre \"la verdadera naturaleza del indio\" en las crónicas definía si los indígenas podían tener derechos legales o debían ser esclavizados.",
+      "context": "El debate sobre \"la verdadera naturaleza del indio\" en las crónicas definía si los indígenas podían tener derechos legales o debían ser esclavizados.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

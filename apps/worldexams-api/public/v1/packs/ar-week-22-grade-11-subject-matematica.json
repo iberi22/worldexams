@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la notación matemática correcta para expresar la probabilidad de que un turista haya visitado el Teatro Colón, SABIENDO que ya probó el asado?",
-      "context": "En una encuesta realizada en la peatonal Florida de Buenos Aires, se les preguntó a 100 turistas si visitaron el Teatro Colón y si probaron el asado.",
+      "context": "En una encuesta realizada en la peatonal Florida de Buenos Aires, se les preguntó a 100 turistas si visitaron el Teatro Colón y si probaron el asado.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Encuesta turística en CABA.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v2",
       "statement": "Si elegimos un alumno que estudia italiano, ¿cuál es la probabilidad de que también estudie francés?",
-      "context": "En un colegio de San Isidro, se sabe que el 30% de los alumnos estudia italiano y el 20% estudia francés. El 5% estudia ambos idiomas.",
+      "context": "En un colegio de San Isidro, se sabe que el 30% de los alumnos estudia italiano y el 20% estudia francés. El 5% estudia ambos idiomas.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v2\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Idiomas en una escuela secundaria.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v3",
       "statement": "Dos eventos A y B son independientes si y solo si se cumple que:",
-      "context": "Un mazo de 40 cartas españolas se utiliza para jugar un desafío de probabilidad en el aula.",
+      "context": "Un mazo de 40 cartas españolas se utiliza para jugar un desafío de probabilidad en el aula.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v3\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Cartas españolas.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la probabilidad de que un neumático tenga falla de presión SABIENDO que tiene falla de dibujo?",
-      "context": "En una gomería de Rosario, se analizan neumáticos. Se sabe que el 10% tiene fallas de presión y el 5% tiene fallas de dibujo. Ambos fallos son independientes.",
+      "context": "En una gomería de Rosario, se analizan neumáticos. Se sabe que el 10% tiene fallas de presión y el 5% tiene fallas de dibujo. Ambos fallos son independientes.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Control de neumáticos en taller mecánico.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v5",
       "statement": "Si elegimos un paciente que fuma, ¿cuál es la probabilidad de que tenga la enfermedad?",
-      "context": "En un hospital de Córdoba, se estudia la relación entre el hábito de fumar y una enfermedad respiratoria.\n- El 40% de los pacientes fuma.\n- De los que fuman, el 20% tiene la enfermedad.\n- De los que no fuman, solo el 5% tiene la enfermedad.",
+      "context": "En un hospital de Córdoba, se estudia la relación entre el hábito de fumar y una enfermedad respiratoria.\n- El 40% de los pacientes fuma.\n- De los que fuman, el 20% tiene la enfermedad.\n- De los que no fuman, solo el 5% tiene la enfermedad.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v5\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Salud pública y tabaquismo.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la probabilidad de que un paciente elegido al azar tenga la enfermedad?",
-      "context": "Usando los mismos datos del hospital de Córdoba:\n- P(Fuma) = 0,40\n- P(Enfermedad | Fuma) = 0,20\n- P(Enfermedad | No Fuma) = 0,05",
+      "context": "Usando los mismos datos del hospital de Córdoba:\n- P(Fuma) = 0,40\n- P(Enfermedad | Fuma) = 0,20\n- P(Enfermedad | No Fuma) = 0,05\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Cálculo de probabilidad total simple.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la probabilidad de que la segunda carta sea un \"Rey\", sabiendo que la primera fue un \"Rey\"?",
-      "context": "Un mazo de 40 cartas españolas. Se extraen dos cartas SIN reposición.",
+      "context": "Un mazo de 40 cartas españolas. Se extraen dos cartas SIN reposición.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Extracción sucesiva sin reposición.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la probabilidad de que un alfajor sea defectuoso Y provenga de la máquina B?",
-      "context": "En una fábrica de alfajores en Mar del Plata, dos máquinas (A y B) producen el 60% y 40% del total respectivamente. El 1% de la máquina A es defectuoso y el 2% de la máquina B es defectuoso.",
+      "context": "En una fábrica de alfajores en Mar del Plata, dos máquinas (A y B) producen el 60% y 40% del total respectivamente. El 1% de la máquina A es defectuoso y el 2% de la máquina B es defectuoso.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Producción industrial de alimentos.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v9",
       "statement": "Si el primer marcador fue azul, ¿cuál es la probabilidad de que el segundo sea rojo?",
-      "context": "Martina tiene una caja con 6 marcadores azules y 4 rojos. Saca uno, observa el color, NO lo devuelve, y saca un segundo marcador.",
+      "context": "Martina tiene una caja con 6 marcadores azules y 4 rojos. Saca uno, observa el color, NO lo devuelve, y saca un segundo marcador.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Extracción de útiles escolares.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la probabilidad de que un socio elegido al azar NO asista al estadio?",
-      "context": "En un club de fútbol de Mendoza, el 70% de los socios son hinchas de equipos locales y el 30% son hinchas de equipos de Buenos Aires. El 80% de los locales asiste al estadio, mientras que el 40% de los de Buenos Aires asiste al estadio del club.",
+      "context": "En un club de fútbol de Mendoza, el 70% de los socios son hinchas de equipos locales y el 30% son hinchas de equipos de Buenos Aires. El 80% de los locales asiste al estadio, mientras que el 40% de los de Buenos Aires asiste al estadio del club.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v10\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Asistencia a estadios de fútbol.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v11",
       "statement": "Si elegimos a una persona que prefiere Jugo, ¿cuál es la probabilidad de que sea mujer?",
-      "context": "En un estudio de mercado en Salta, se clasificó a 200 personas según género y preferencia de bebida (Gaseosa o Jugo).\n- Hombres: 60 prefieren Gaseosa, 40 prefieren Jugo.\n- Mujeres: 30 prefieren Gaseosa, 70 prefieren Jugo.",
+      "context": "En un estudio de mercado en Salta, se clasificó a 200 personas según género y preferencia de bebida (Gaseosa o Jugo).\n- Hombres: 60 prefieren Gaseosa, 40 prefieren Jugo.\n- Mujeres: 30 prefieren Gaseosa, 70 prefieren Jugo.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Tabla de contingencia en estudio de mercado.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v12",
       "statement": "¿Son los eventos A y B independientes?",
-      "context": "Se lanzan dos dados balanceados. Consideramos los eventos A: \"la suma es 7\" y B: \"el primer dado es un 4\".",
+      "context": "Se lanzan dos dados balanceados. Consideramos los eventos A: \"la suma es 7\" y B: \"el primer dado es un 4\".\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Dados y eventos independientes.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la probabilidad de que una persona elegida al azar haya aprobado AMBAS partes?",
-      "context": "Un examen de manejo en La Plata consta de una parte teórica y una práctica. El 70% aprueba la teórica. De los que aprueban la teórica, el 80% aprueba la práctica. De los que fallan la teórica, solo el 20% aprueba la práctica (en un reintento).",
+      "context": "Un examen de manejo en La Plata consta de una parte teórica y una práctica. El 70% aprueba la teórica. De los que aprueban la teórica, el 80% aprueba la práctica. De los que fallan la teórica, solo el 20% aprueba la práctica (en un reintento).\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v13\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Examen de conducir provincial.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la probabilidad de que el alfajor extraído sea de chocolate?",
-      "context": "Se tienen dos cajas con alfajores. La caja 1 tiene 8 de chocolate y 2 de fruta. La caja 2 tiene 5 de chocolate y 5 de fruta. Se elige una caja al azar y se saca un alfajor.",
+      "context": "Se tienen dos cajas con alfajores. La caja 1 tiene 8 de chocolate y 2 de fruta. La caja 2 tiene 5 de chocolate y 5 de fruta. Se elige una caja al azar y se saca un alfajor.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Elección entre dos recipientes.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v15",
       "statement": "Si se selecciona una máquina y esta falló, ¿cuál es la probabilidad de que haya requerido mantenimiento ese mes?",
-      "context": "En una planta industrial de Zárate, se sabe que el 20% de las máquinas requieren mantenimiento mensual. Si una máquina requiere mantenimiento, la probabilidad de que falle es 0,1. Si no requiere, la probabilidad de fallo es 0,01.",
+      "context": "En una planta industrial de Zárate, se sabe que el 20% de las máquinas requieren mantenimiento mensual. Si una máquina requiere mantenimiento, la probabilidad de que falle es 0,1. Si no requiere, la probabilidad de fallo es 0,01.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v15\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Mantenimiento de maquinaria.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v16",
       "statement": "Si el blanco fue alcanzado por EXACTAMENTE un disparo, ¿cuál es la probabilidad de que haya sido el de Facundo?",
-      "context": "Dos tiradores, Facundo y Martín, disparan a un blanco. Facundo acierta con probabilidad 0,7 y Martín con 0,8. Disparan simultáneamente e independientemente.",
+      "context": "Dos tiradores, Facundo y Martín, disparan a un blanco. Facundo acierta con probabilidad 0,7 y Martín con 0,8. Disparan simultáneamente e independientemente.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Competencia de tiro al blanco.\n**Expected_Success:** 0.64",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v17",
       "statement": "Si el test da positivo, ¿cuál es la probabilidad de que el agua esté realmente contaminada?",
-      "context": "Un test para detectar una bacteria en el agua del Río de la Plata tiene una sensibilidad del 99% (detecta el 99% de los casos positivos) y una especificidad del 95% (detecta el 95% de los casos negativos). Se sabe que el 1% del agua está realmente contaminada.",
+      "context": "Un test para detectar una bacteria en el agua del Río de la Plata tiene una sensibilidad del 99% (detecta el 99% de los casos positivos) y una especificidad del 95% (detecta el 95% de los casos negativos). Se sabe que el 1% del agua está realmente contaminada.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Análisis ambiental y falsos positivos.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es la probabilidad de que el número sea múltiplo de 2, dado que NO es múltiplo de 5?",
-      "context": "Consideramos el experimento de elegir un número entero del 1 al 100 al azar. Sean los eventos A: \"el número es múltiplo de 2\", B: \"el número es múltiplo de 3\" y C: \"el número es múltiplo de 5\".",
+      "context": "Consideramos el experimento de elegir un número entero del 1 al 100 al azar. Sean los eventos A: \"el número es múltiplo de 2\", B: \"el número es múltiplo de 3\" y C: \"el número es múltiplo de 5\".\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v18\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Divisibilidad y probabilidad.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v19",
       "statement": "Si la pareja A ganó la partida, ¿cuál es la probabilidad de que hayan empezado siendo \"mano\"?",
-      "context": "En un torneo de truco, la pareja A tiene un 60% de probabilidad de ganar si empieza \"mano\", y un 40% si empieza \"pie\". La probabilidad de ser \"mano\" es 0,5.",
+      "context": "En un torneo de truco, la pareja A tiene un 60% de probabilidad de ganar si empieza \"mano\", y un 40% si empieza \"pie\". La probabilidad de ser \"mano\" es 0,5.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Estrategia en juego de cartas nacional.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v20",
       "statement": "Si el sistema NO funciona, ¿cuál es la probabilidad de que se deba ÚNICAMENTE a que falló el segundo componente (el de 0,8)?",
-      "context": "Un sistema electrónico en una central hidroeléctrica en Neuquén tiene tres componentes en serie. El sistema funciona solo si los tres funcionan. Las probabilidades de funcionamiento son 0,9; 0,8 y 0,95 respectivamente, y son independientes.",
+      "context": "Un sistema electrónico en una central hidroeléctrica en Neuquén tiene tres componentes en serie. El sistema funciona solo si los tres funcionan. Las probabilidades de funcionamiento son 0,9; 0,8 y 0,95 respectivamente, y son independientes.\n\n**ID:** AR-MAT-11-2026-W22-probabilidad-condicional-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Fiabilidad de sistemas complejos.\n**Expected_Success:** 0.42",
       "options": [
         {
           "letter": "A",

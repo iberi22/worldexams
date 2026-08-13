@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes definiciones describe mejor una oración subordinada?",
-      "context": "En el estudio de la sintaxis, las oraciones compuestas se dividen según la relación entre sus proposiciones.",
+      "context": "En el estudio de la sintaxis, las oraciones compuestas se dividen según la relación entre sus proposiciones.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v2",
       "statement": "En la oración \"Es necesario **que estudies con dedicación**\", ¿cuál es la función de la parte resaltada en negrilla?",
-      "context": "Las oraciones subordinadas sustantivas pueden desempeñar funciones similares a las de un sustantivo o un grupo nominal.",
+      "context": "Las oraciones subordinadas sustantivas pueden desempeñar funciones similares a las de un sustantivo o un grupo nominal.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v3",
       "statement": "Identifica cuál de las siguientes oraciones contiene una subordinada adjetiva (o de relativo):",
-      "context": "Los nexos son fundamentales para identificar el tipo de subordinación en una oración compuesta.",
+      "context": "Los nexos son fundamentales para identificar el tipo de subordinación en una oración compuesta.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes oraciones presenta una subordinada adverbial de lugar?",
-      "context": "Existen diversos tipos de subordinadas adverbiales que indican circunstancias de la acción principal.",
+      "context": "Existen diversos tipos de subordinadas adverbiales que indican circunstancias de la acción principal.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v5",
       "statement": "En la frase: \"Caminábamos por las calles de Bogotá **mientras la lluvia caía suavemente**\", la parte en negrilla es una oración:",
-      "context": "En Colombia, el uso de oraciones complejas es común en textos informativos y literarios para detallar situaciones.",
+      "context": "En Colombia, el uso de oraciones complejas es común en textos informativos y literarios para detallar situaciones.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v6",
       "statement": "Lee las siguientes dos oraciones:\n1. \"Los ciclistas que estaban cansados abandonaron la carrera en Boyacá.\"\n2. \"Los ciclistas, que estaban cansados, abandonaron la carrera en Boyacá.\"\n\n¿Cuál es la diferencia de significado entre ambas debido al tipo de subordinación?",
-      "context": "Diferenciar entre subordinadas adjetivas explicativas y especificativas es clave para la interpretación de textos.",
+      "context": "Diferenciar entre subordinadas adjetivas explicativas y especificativas es clave para la interpretación de textos.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v7",
       "statement": "Considera la oración: \"Dime **quién te regaló ese sombrero vueltiao**\". ¿Qué tipo de subordinada es la parte resaltada?",
-      "context": "Las subordinadas sustantivas pueden ser introducidas por diversos elementos dependiendo de si la pregunta es directa o indirecta.",
+      "context": "Las subordinadas sustantivas pueden ser introducidas por diversos elementos dependiendo de si la pregunta es directa o indirecta.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de las siguientes opciones expresa una condición necesaria para que se cumpla la acción principal?",
-      "context": "El uso correcto de las subordinadas adverbiales condicionales permite expresar hipótesis sobre la realidad.",
+      "context": "El uso correcto de las subordinadas adverbiales condicionales permite expresar hipótesis sobre la realidad.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v9",
       "statement": "En la frase: \"**A pesar de que el café ha bajado de precio**, los productores siguen manteniendo la alta calidad del grano\", ¿qué relación lógica establece la subordinada?",
-      "context": "En textos argumentativos colombianos, se emplean subordinadas adverbiales concesivas para matizar las opiniones.",
+      "context": "En textos argumentativos colombianos, se emplean subordinadas adverbiales concesivas para matizar las opiniones.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle-v10",
       "statement": "Identifica la estructura de la siguiente oración: \"Quien mucho abarca, poco aprieta\".",
-      "context": "El análisis sintáctico permite comprender cómo se organizan las ideas complejas en un discurso.",
+      "context": "El análisis sintáctico permite comprender cómo se organizan las ideas complejas en un discurso.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

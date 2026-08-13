@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de los siguientes es considerado el medio de comunicación masiva más tradicional y antiguo de esta lista?",
-      "context": "Los medios de comunicación masiva son canales que permiten enviar mensajes a un gran número de personas de forma simultánea.",
+      "context": "Los medios de comunicación masiva son canales que permiten enviar mensajes a un gran número de personas de forma simultánea.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v2",
       "statement": "¿Cuáles son las cuatro funciones principales de los medios de comunicación masiva?",
-      "context": "Cada medio de comunicación tiene funciones específicas dentro de la sociedad.",
+      "context": "Cada medio de comunicación tiene funciones específicas dentro de la sociedad.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v3",
       "statement": "¿Por qué la **radio** sigue siendo un medio de comunicación vital en muchas regiones de Colombia?",
-      "context": "En Colombia, la radio ha sido fundamental para conectar a las zonas rurales con el resto del país.",
+      "context": "En Colombia, la radio ha sido fundamental para conectar a las zonas rurales con el resto del país.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v4",
       "statement": "En un noticiero de televisión colombiano, mientras el periodista habla sobre una inundación en el Chocó, se muestran imágenes de casas bajo el agua y gente en canoas. ¿Qué efecto busca este uso de imágenes?",
-      "context": "La televisión utiliza el lenguaje audiovisual para captar la atención del espectador.",
+      "context": "La televisión utiliza el lenguaje audiovisual para captar la atención del espectador.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la diferencia principal entre un periódico impreso tradicional y un portal de noticias digital?",
-      "context": "Internet ha revolucionado los medios masivos al permitir la interacción del usuario. Esto se llama comunicación bidireccional.",
+      "context": "Internet ha revolucionado los medios masivos al permitir la interacción del usuario. Esto se llama comunicación bidireccional.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v6",
       "statement": "Si un periódico siempre resalta las noticias positivas del gobierno y otro resalta solo las negativas sobre el mismo tema, ¿qué podemos concluir sobre estos medios?",
-      "context": "La objetividad es un ideal del periodismo, pero a menudo los medios tienen una línea editorial (un punto de vista).",
+      "context": "La objetividad es un ideal del periodismo, pero a menudo los medios tienen una línea editorial (un punto de vista).\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la forma más efectiva de verificar si una noticia impactante que recibiste por WhatsApp es verdadera?",
-      "context": "Las noticias falsas o \"fake news\" son un problema grave en los medios digitales y redes sociales.",
+      "context": "Las noticias falsas o \"fake news\" son un problema grave en los medios digitales y redes sociales.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v8",
       "statement": "¿Cómo influye la publicidad en el contenido de los medios de comunicación gratuitos (como la televisión abierta o portales web gratis)?",
-      "context": "La publicidad es el principal motor económico de la mayoría de los medios de comunicación masiva.",
+      "context": "La publicidad es el principal motor económico de la mayoría de los medios de comunicación masiva.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el riesgo democrático de que las redes sociales (como Facebook o Twitter) solo nos muestren noticias y opiniones que coinciden con nuestros gustos y creencias?",
-      "context": "Los algoritmos de las redes sociales crean \"burbujas de filtro\" que solo nos muestran lo que nos gusta.",
+      "context": "Los algoritmos de las redes sociales crean \"burbujas de filtro\" que solo nos muestran lo que nos gusta.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W26-medios-comunicacion-masiva-001-MASTERY-bundle-v10",
       "statement": "Considera el impacto de la televisión en la identidad cultural de Colombia. ¿Cuál de estas posturas es la más equilibrada desde un análisis crítico?",
-      "context": "Evaluar el impacto de los medios en la cultura implica ver tanto sus luces como sus sombras.",
+      "context": "Evaluar el impacto de los medios en la cultura implica ver tanto sus luces como sus sombras.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

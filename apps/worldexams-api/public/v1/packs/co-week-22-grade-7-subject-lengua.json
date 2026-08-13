@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v1",
       "statement": "¿Qué es la **refutación** en el ámbito de la argumentación?",
-      "context": "En un debate o texto argumentativo, no solo es importante defender la propia idea, sino también saber responder a las ideas contrarias.",
+      "context": "En un debate o texto argumentativo, no solo es importante defender la propia idea, sino también saber responder a las ideas contrarias.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el orden lógico más común para refutar una idea en un texto escrito?",
-      "context": "Un contraargumento es la idea que se opone a nuestra tesis. La refutación es la respuesta que damos a ese contraargumento.",
+      "context": "Un contraargumento es la idea que se opone a nuestra tesis. La refutación es la respuesta que damos a ese contraargumento.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v3",
       "statement": "Si alguien afirma: \"En Colombia casi no se lee porque no hay bibliotecas públicas\", ¿cuál de las siguientes sería una **refutación basada en datos**?",
-      "context": "Refutar con datos consiste en usar cifras objetivas para desmentir una afirmación falsa o imprecisa.",
+      "context": "Refutar con datos consiste en usar cifras objetivas para desmentir una afirmación falsa o imprecisa.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de los siguientes conectores es el más adecuado para iniciar un párrafo de refutación después de haber expuesto la idea del oponente?",
-      "context": "Los conectores de oposición (sin embargo, no obstante, por el contrario) son esenciales para introducir la refutación.",
+      "context": "Los conectores de oposición (sin embargo, no obstante, por el contrario) son esenciales para introducir la refutación.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v5",
       "statement": "Si un compañero dice: \"Deberían prohibir todos los exámenes porque los estudiantes se ponen nerviosos\", ¿qué respuesta aplica la técnica de **reducción al absurdo**?",
-      "context": "La refutación por \"reducción al absurdo\" consiste en llevar el argumento del otro a sus consecuencias extremas para mostrar que no tiene sentido.",
+      "context": "La refutación por \"reducción al absurdo\" consiste en llevar el argumento del otro a sus consecuencias extremas para mostrar que no tiene sentido.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v6",
       "statement": "Un turista dice: \"En este pueblo de Boyacá todas las personas son artesanas\". ¿Cuál es la refutación más lógica basada en un **contraejemplo**?",
-      "context": "Refutar una generalización apresurada consiste en encontrar un \"contraejemplo\" que rompa la regla propuesta.",
+      "context": "Refutar una generalización apresurada consiste en encontrar un \"contraejemplo\" que rompa la regla propuesta.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v7",
       "statement": "Lee este intercambio:\nPersona A: \"Este libro de historia es muy malo porque tiene la portada de un color feo\".\nPersona B: \"El color de la portada no afecta la calidad de la información histórica que contiene el texto\".\n\n¿Qué está refutando la Persona B?",
-      "context": "A veces la refutación no niega el hecho, sino la interpretación o importancia que el otro le da a ese hecho.",
+      "context": "A veces la refutación no niega el hecho, sino la interpretación o importancia que el otro le da a ese hecho.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v8",
       "statement": "Refuta la siguiente falacia ad hominem (ataque a la persona): \"No debemos escuchar las propuestas del alcalde sobre el medio ambiente porque él no terminó su carrera universitaria\".",
-      "context": "Las falacias son argumentos falsos que deben ser identificados y refutados con cuidado.",
+      "context": "Las falacias son argumentos falsos que deben ser identificados y refutados con cuidado.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v9",
       "statement": "¿Cuál de las siguientes refutaciones es la más ética y efectiva para un texto académico?",
-      "context": "En ensayos argumentativos de alto nivel, la refutación debe ser elegante y respetar el principio de caridad (no deformar la idea del otro).",
+      "context": "En ensayos argumentativos de alto nivel, la refutación debe ser elegante y respetar el principio de caridad (no deformar la idea del otro).\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v10",
       "statement": "Analiza este argumento a favor de la comida chatarra: \"Debemos comer hamburguesas todos los días porque son baratas y nos ahorran tiempo de cocina\". ¿Cuál es el punto más débil que debe ser atacado en una refutación de salud?",
-      "context": "Identificar la debilidad de un argumento es el primer paso para una refutación exitosa.",
+      "context": "Identificar la debilidad de un argumento es el primer paso para una refutación exitosa.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

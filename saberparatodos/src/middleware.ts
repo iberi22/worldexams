@@ -129,7 +129,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
       // Generic Spanish UI carrier — CountrySwitcher selects a real content country.
       activeCountryCode = 'ES';
     } else {
-      activeCountryCode = getConfiguredProductCountryCode() || DEFAULT_COUNTRY;
+      activeCountryCode = getConfiguredProductCountryCode() || DEFAULT_COUNTRY || 'CO';
     }
   }
 

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de los siguientes elementos es el responsable de contar la historia y organizar los hechos en el género narrativo?",
-      "context": "En la clase de Lengua del Colegio San Bartolomé en Bogotá, los estudiantes discuten sobre los elementos que componen una historia.",
+      "context": "En la clase de Lengua del Colegio San Bartolomé en Bogotá, los estudiantes discuten sobre los elementos que componen una historia.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la diferencia fundamental en la estructura entre el cuento y la novela?",
-      "context": "Un grupo de estudiantes en Medellín compara el \"Cuento de los tres hermanos\" con la novela \"La Vorágine\".",
+      "context": "Un grupo de estudiantes en Medellín compara el \"Cuento de los tres hermanos\" con la novela \"La Vorágine\".\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de narrador se evidencia en el fragmento leído por Valentina?",
-      "context": "Valentina lee un fragmento: \"Yo no sabía lo que me esperaba al llegar a Cartagena. Caminaba por las murallas sintiendo el aire salino...\".",
+      "context": "Valentina lee un fragmento: \"Yo no sabía lo que me esperaba al llegar a Cartagena. Caminaba por las murallas sintiendo el aire salino...\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se denomina al momento de la narración donde el conflicto se vuelve más intenso y se llega al punto de máxima tensión?",
-      "context": "En el análisis narrativo, se suele dividir la acción en tres momentos principales para entender su evolución.",
+      "context": "En el análisis narrativo, se suele dividir la acción en tres momentos principales para entender su evolución.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es una característica fundamental de los subgéneros narrativos tradicionales como el mito y la leyenda?",
-      "context": "Un grupo de estudiantes en Cali analiza una leyenda sobre \"La Llorona\". Notan que la historia ha pasado de padres a hijos durante generaciones.",
+      "context": "Un grupo de estudiantes en Cali analiza una leyenda sobre \"La Llorona\". Notan que la historia ha pasado de padres a hijos durante generaciones.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v6",
       "statement": "¿Qué característica define al narrador del texto que está leyendo Santiago?",
-      "context": "Santiago lee una novela donde el narrador dice: \"Juan no lo sabía, pero mientras él dormía en Bucaramanga, su hermano planeaba una sorpresa en Cúcuta\".",
+      "context": "Santiago lee una novela donde el narrador dice: \"Juan no lo sabía, pero mientras él dormía en Bucaramanga, su hermano planeaba una sorpresa en Cúcuta\".\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v7",
       "statement": "Si una historia comienza por el final y luego retrocede para explicar cómo se llegó allí, ¿qué técnica temporal se está utilizando?",
-      "context": "En el estudio del tiempo narrativo, se diferencia entre el tiempo en que ocurren los hechos y el orden en que se cuentan.",
+      "context": "En el estudio del tiempo narrativo, se diferencia entre el tiempo en que ocurren los hechos y el orden en que se cuentan.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v8",
       "statement": "¿Cómo se denomina a un personaje que evoluciona, cambia su forma de pensar o aprende una lección importante durante la narración?",
-      "context": "Durante el análisis de personajes, se distingue entre aquellos que cambian a lo largo de la historia y los que permanecen igual.",
+      "context": "Durante el análisis de personajes, se distingue entre aquellos que cambian a lo largo de la historia y los que permanecen igual.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v9",
       "statement": "En una novela ambientada en la selva amazónica colombiana, donde los personajes se sienten atrapados y agobiados, ¿qué función cumple el espacio?",
-      "context": "Un crítico literario afirma que \"el espacio en la narrativa no es solo un decorado, sino que influye en el comportamiento de los personajes\".",
+      "context": "Un crítico literario afirma que \"el espacio en la narrativa no es solo un decorado, sino que influye en el comportamiento de los personajes\".\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v10",
       "statement": "¿Por qué este famosísimo texto de Augusto Monterroso se considera una obra maestra del género narrativo a pesar de tener solo siete palabras?",
-      "context": "Se presenta un microcuento: \"Cuando despertó, el dinosaurio todavía estaba allí\".",
+      "context": "Se presenta un microcuento: \"Cuando despertó, el dinosaurio todavía estaba allí\".\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",

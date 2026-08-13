@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la principal razón por la que la novela fue el género predilecto de los escritores realistas?",
-      "context": "La novela realista se convirtió en el género literario más exitoso del siglo XIX, desplazando a la poesía y al drama.",
+      "context": "La novela realista se convirtió en el género literario más exitoso del siglo XIX, desplazando a la poesía y al drama.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de los siguientes rasgos es típico de los personajes de una novela realista?",
-      "context": "Grandes autores europeos como Balzac, Dickens, Tolstói y Galdós definieron los cánones de la novela realista.",
+      "context": "Grandes autores europeos como Balzac, Dickens, Tolstói y Galdós definieron los cánones de la novela realista.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v3",
       "statement": "¿A qué se refiere el concepto de \"escenario social\" en la novela realista?",
-      "context": "El espacio en la novela realista deja de ser un simple fondo para convertirse en un factor explicativo de la historia.",
+      "context": "El espacio en la novela realista deja de ser un simple fondo para convertirse en un factor explicativo de la historia.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v4",
       "statement": "¿Qué efecto busca el autor al utilizar un narrador que parece saber más que los propios personajes sobre su destino?",
-      "context": "El narrador omnisciente realista a menudo interviene para comentar la conducta de los personajes o explicar leyes sociales.",
+      "context": "El narrador omnisciente realista a menudo interviene para comentar la conducta de los personajes o explicar leyes sociales.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v5",
       "statement": "Si en una novela leemos: \"Juan caminaba por la calle. ¿Acaso no merecía él aquel ascenso más que nadie? Sí, estaba seguro\", ¿qué recurso se está utilizando para mostrar la mente de Juan?",
-      "context": "El Realismo utiliza el estilo indirecto libre, donde la voz del narrador se mezcla con el pensamiento del personaje sin marcas visibles.",
+      "context": "El Realismo utiliza el estilo indirecto libre, donde la voz del narrador se mezcla con el pensamiento del personaje sin marcas visibles.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v6",
       "statement": "¿Por qué el tema del dinero es tan recurrente y central en la mayoría de las novelas realistas del siglo XIX?",
-      "context": "Los temas de la novela realista suelen girar en torno al dinero, el matrimonio por interés y el conflicto entre el individuo y las convenciones sociales.",
+      "context": "Los temas de la novela realista suelen girar en torno al dinero, el matrimonio por interés y el conflicto entre el individuo y las convenciones sociales.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v7",
       "statement": "En \"La Regenta\", la ciudad ficticia de Vetusta representa una sociedad provinciana asfixiante. ¿Qué papel cumple esta ciudad en el destino trágico de la protagonista, Ana Ozores?",
-      "context": "\"La Regenta\" de Leopoldo Alas 'Clarín' es considerada la obra cumbre de la novela realista y naturalista en España.",
+      "context": "\"La Regenta\" de Leopoldo Alas 'Clarín' es considerada la obra cumbre de la novela realista y naturalista en España.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v8",
       "statement": "¿De qué manera el sistema de publicación por entregas afectó la forma en que se escribían las novelas realistas?",
-      "context": "Los novelistas realistas solían publicar sus obras por entregas en los periódicos (folletines), lo que influía en la estructura de la historia.",
+      "context": "Los novelistas realistas solían publicar sus obras por entregas en los periódicos (folletines), lo que influía en la estructura de la historia.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el peligro de confundir la mimesis artística con una simple copia fotográfica de la realidad en la novela?",
-      "context": "El realismo literario busca la mimesis, que es la imitación exacta de la realidad.",
+      "context": "El realismo literario busca la mimesis, que es la imitación exacta de la realidad.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v10",
       "statement": "¿De qué manera la ficción novelesca pudo ser más eficaz que los informes políticos para cambiar las leyes sociales en el siglo XIX?",
-      "context": "Dickens denunció en sus novelas (como \"Oliver Twist\") las terribles condiciones de trabajo infantil en la Inglaterra industrial.",
+      "context": "Dickens denunció en sus novelas (como \"Oliver Twist\") las terribles condiciones de trabajo infantil en la Inglaterra industrial.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v11",
       "statement": "¿Qué diferencia el realismo de Dostoievski del realismo más \"externo\" de autores franceses como Balzac?",
-      "context": "El realismo ruso, con Tolstói (\"Guerra y Paz\") y Dostoievski (\"Crimen y Castigo\"), añadió una dimensión espiritual y existencial profunda a la novela.",
+      "context": "El realismo ruso, con Tolstói (\"Guerra y Paz\") y Dostoievski (\"Crimen y Castigo\"), añadió una dimensión espiritual y existencial profunda a la novela.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W14-novela-realista-001-MASTERY-bundle-v12",
       "statement": "¿Qué pérdida y qué ganancia supuso para la literatura este cambio radical de enfoque hacia la observación de la realidad cotidiana?",
-      "context": "El paso de la novela romántica a la realista supuso la sustitución de la \"imaginación\" por la \"observación\".",
+      "context": "El paso de la novela romántica a la realista supuso la sustitución de la \"imaginación\" por la \"observación\".\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",

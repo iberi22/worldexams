@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el nombre genérico que reciben los poemas épicos medievales que narran las hazañas de héroes legendarios?",
-      "context": "La épica medieval es un género literario en verso que narra las hazañas de héroes que representan los valores de una nación o comunidad.",
+      "context": "La épica medieval es un género literario en verso que narra las hazañas de héroes que representan los valores de una nación o comunidad.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el valor fundamental que el Cid intenta recuperar a lo largo de todo el cantar tras ser desterrado por el rey Alfonso VI?",
-      "context": "El Cantar de Mio Cid es la obra cumbre de la épica castellana y narra las aventuras de Rodrigo Díaz de Vivar.",
+      "context": "El Cantar de Mio Cid es la obra cumbre de la épica castellana y narra las aventuras de Rodrigo Díaz de Vivar.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v3",
       "statement": "¿Qué característica define mejor la relación de un héroe épico como Roldán o el Cid con su señor feudal o rey?",
-      "context": "Los héroes épicos medievales no solo eran guerreros valientes, sino modelos de conducta para la sociedad de su tiempo.",
+      "context": "Los héroes épicos medievales no solo eran guerreros valientes, sino modelos de conducta para la sociedad de su tiempo.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se manifiesta el realismo en el Cantar de Mio Cid en comparación con otras epopeyas europeas?",
-      "context": "A diferencia de la épica francesa, que tiene muchos elementos fantásticos, la épica castellana se caracteriza por su realismo y verosimilitud.",
+      "context": "A diferencia de la épica francesa, que tiene muchos elementos fantásticos, la épica castellana se caracteriza por su realismo y verosimilitud.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v5",
       "statement": "Si en un texto épico leemos constantemente frases como \"El que en buena hora ciñó espada\", ¿cuál es la función técnica de este recurso literario?",
-      "context": "Los cantares de gesta solían utilizar fórmulas fijas para referirse a los héroes, como \"El de la barba vellida\" para el Cid.",
+      "context": "Los cantares de gesta solían utilizar fórmulas fijas para referirse a los héroes, como \"El de la barba vellida\" para el Cid.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v6",
       "statement": "¿Qué simboliza la muerte de Roldán al negarse a tocar el olifante (cuerno) para pedir ayuda hasta que es demasiado tarde?",
-      "context": "La \"Chanson de Roland\" narra la derrota de la retaguardia de Carlomagno en Roncesvalles y la muerte heroica del caballero Roldán.",
+      "context": "La \"Chanson de Roland\" narra la derrota de la retaguardia de Carlomagno en Roncesvalles y la muerte heroica del caballero Roldán.\n**Expected_Success:** 0.67",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la razón principal por la que la épica medieval suele exagerar las fuerzas de los enemigos o la magnitud de las batallas?",
-      "context": "Los cantares de gesta mezclan hechos históricos reales con elementos legendarios creados por la tradición popular.",
+      "context": "Los cantares de gesta mezclan hechos históricos reales con elementos legendarios creados por la tradición popular.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v8",
       "statement": "¿Qué nos indica el hecho de que el Cid pida justicia al Rey mediante un juicio en las cortes en lugar de matar directamente a los Infantes de Carrión?",
-      "context": "El episodio de la \"Afrenta de Corpes\" en el Cid narra cómo los Infantes de Carrión maltratan a las hijas del héroe para vengarse de él.",
+      "context": "El episodio de la \"Afrenta de Corpes\" en el Cid narra cómo los Infantes de Carrión maltratan a las hijas del héroe para vengarse de él.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v9",
       "statement": "Considerando el final trágico de Sigfrido, ¿qué diferencia se observa en la visión del mundo entre la épica nórdica/germánica y la castellana?",
-      "context": "En la épica germánica como el \"Cantar de los Nibelungos\", el destino y la venganza juegan un papel mucho más trágico y sombrío que en la épica española.",
+      "context": "En la épica germánica como el \"Cantar de los Nibelungos\", el destino y la venganza juegan un papel mucho más trágico y sombrío que en la épica española.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v10",
       "statement": "¿De qué manera el Cantar de Mio Cid pudo haber servido como herramienta de cohesión social durante la Reconquista en España?",
-      "context": "Algunos historiadores sugieren que los cantares de gesta eran una forma de propaganda política para incentivar la guerra contra los enemigos del reino.",
+      "context": "Algunos historiadores sugieren que los cantares de gesta eran una forma de propaganda política para incentivar la guerra contra los enemigos del reino.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v11",
       "statement": "¿Cómo desafía o refuerza la figura de Krimilda los estereotipos de género de la literatura medieval épica?",
-      "context": "El héroe épico suele ser una figura masculina. Sin embargo, en el \"Cantar de los Nibelungos\", el personaje de Krimilda desencadena la tragedia final por venganza.",
+      "context": "El héroe épico suele ser una figura masculina. Sin embargo, en el \"Cantar de los Nibelungos\", el personaje de Krimilda desencadena la tragedia final por venganza.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W02-epica-medieval-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el efecto estético y psicológico de usar el presente histórico en los cantares de gesta cuando el juglar recitaba ante su público?",
-      "context": "El lenguaje de la épica utiliza el \"presente histórico\" para narrar hechos del pasado como si estuvieran ocurriendo en el momento.",
+      "context": "El lenguaje de la épica utiliza el \"presente histórico\" para narrar hechos del pasado como si estuvieran ocurriendo en el momento.\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",

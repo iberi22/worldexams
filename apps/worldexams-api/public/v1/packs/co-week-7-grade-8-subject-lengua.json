@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v1",
       "statement": "¿Quién es el máximo representante y creador de la estética culterana en la poesía española del siglo XVII?",
-      "context": "El Culteranismo es una corriente literaria del Barroco que se preocupa especialmente por la belleza formal y el lenguaje brillante.",
+      "context": "El Culteranismo es una corriente literaria del Barroco que se preocupa especialmente por la belleza formal y el lenguaje brillante.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el objetivo principal del lenguaje culterano en la poesía barroca?",
-      "context": "El Culteranismo utiliza abundantes recursos para embellecer el texto, recurriendo a menudo a la cultura clásica.",
+      "context": "El Culteranismo utiliza abundantes recursos para embellecer el texto, recurriendo a menudo a la cultura clásica.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v3",
       "statement": "¿Cómo se denominan las palabras tomadas directamente del latín o del griego que conservan su forma original y se incorporan al castellano para darle mayor elegancia?",
-      "context": "Los poetas culteranos utilizaban palabras de origen latino para elevar el tono de sus poemas.",
+      "context": "Los poetas culteranos utilizaban palabras de origen latino para elevar el tono de sus poemas.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v4",
       "statement": "¿Por qué los poetas culteranos como Góngora utilizaban el hipérbaton de forma tan extrema en sus versos?",
-      "context": "Una de las figuras retóricas más difíciles del Culteranismo es el hipérbaton, que altera el orden lógico de las palabras.",
+      "context": "Una de las figuras retóricas más difíciles del Culteranismo es el hipérbaton, que altera el orden lógico de las palabras.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v5",
       "statement": "Si un poeta culterano escribe \"el cristal de las aguas\" para referirse a un río, y luego dice \"el herido cristal\" para referirse a una piedra que cae al agua, ¿qué está buscando con este recurso?",
-      "context": "La metáfora culterana es a menudo una \"metáfora de metáfora\", alejándose mucho de la realidad inicial.",
+      "context": "La metáfora culterana es a menudo una \"metáfora de metáfora\", alejándose mucho de la realidad inicial.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v6",
       "statement": "En la \"Fábula de Polifemo y Galatea\", Góngora describe al cíclope Polifemo. ¿Qué aspecto del Culteranismo se refleja en el uso de mitos griegos?",
-      "context": "Las obras más famosas de Góngora son \"Las Soledades\" y la \"Fábula de Polifemo y Galatea\".",
+      "context": "Las obras más famosas de Góngora son \"Las Soledades\" y la \"Fábula de Polifemo y Galatea\".\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v7",
       "statement": "¿Cuál era la crítica principal que los defensores de otras corrientes lanzaban contra el estilo de Góngora?",
-      "context": "El Culteranismo fue duramente criticado por los conceptistas, quienes llamaban a los gongorinos \"poetas de la tiniebla\".",
+      "context": "El Culteranismo fue duramente criticado por los conceptistas, quienes llamaban a los gongorinos \"poetas de la tiniebla\".\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v8",
       "statement": "¿Qué relación existe entre la decoración excesiva de una iglesia barroca y un poema de Góngora?",
-      "context": "El Culteranismo no solo afectó a la poesía, sino que también se reflejó en la arquitectura barroca (estilo churrigueresco) y la pintura.",
+      "context": "El Culteranismo no solo afectó a la poesía, sino que también se reflejó en la arquitectura barroca (estilo churrigueresco) y la pintura.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v9",
       "statement": "¿Qué efecto produce en el lector el uso constante de perífrasis y alusiones mitológicas en lugar de términos directos?",
-      "context": "Góngora solía sustituir términos comunes por perífrasis mitológicas. Por ejemplo, en lugar de decir \"el amanecer\", podía decir \"cuando la Aurora de sus dedos de rosa desata el cabello del Sol\".",
+      "context": "Góngora solía sustituir términos comunes por perífrasis mitológicas. Por ejemplo, en lugar de decir \"el amanecer\", podía decir \"cuando la Aurora de sus dedos de rosa desata el cabello del Sol\".\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v10",
       "statement": "¿Por qué poetas modernos como García Lorca admiraban tanto a Góngora a pesar de que su estilo era de tres siglos atrás?",
-      "context": "Durante el siglo XX, la Generación del 27 (Lorca, Alberti, etc.) rescató la figura de Góngora en su tercer centenario, considerándolo un maestro de la metáfora moderna.",
+      "context": "Durante el siglo XX, la Generación del 27 (Lorca, Alberti, etc.) rescató la figura de Góngora en su tercer centenario, considerándolo un maestro de la metáfora moderna.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v11",
       "statement": "Desde un punto de vista democrático actual, ¿cómo se podría valorar la intención de Góngora de escribir solo para \"los entendidos\"?",
-      "context": "El Culteranismo ha sido criticado a veces como un arte \"elitista\" que desprecia la comunicación con la mayoría de la gente.",
+      "context": "El Culteranismo ha sido criticado a veces como un arte \"elitista\" que desprecia la comunicación con la mayoría de la gente.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W07-culteranismo-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el significado estético de unir conceptos opuestos como \"fuego helado\" o \"nieve ardiente\" en la descripción de una dama culterana?",
-      "context": "El Culteranismo utiliza a menudo la antítesis y el oxímoron, figuras de contraste, para resaltar la belleza.",
+      "context": "El Culteranismo utiliza a menudo la antítesis y el oxímoron, figuras de contraste, para resaltar la belleza.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",

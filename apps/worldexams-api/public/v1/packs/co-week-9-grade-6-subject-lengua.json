@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la función principal de un texto expositivo?",
-      "context": "En una feria de ciencia escolar en Valledupar, un grupo de grado sexto explica cómo funcionan los paneles solares.",
+      "context": "En una feria de ciencia escolar en Valledupar, un grupo de grado sexto explica cómo funcionan los paneles solares.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v2",
       "statement": "¿Qué característica de los textos expositivos se observa claramente en este ejemplo?",
-      "context": "Un artículo de una enciclopedia virtual describe la biodiversidad de Colombia: \"Colombia es el segundo país con mayor biodiversidad del mundo. Posee más de 50,000 especies de plantas y el mayor número de aves del planeta\".",
+      "context": "Un artículo de una enciclopedia virtual describe la biodiversidad de Colombia: \"Colombia es el segundo país con mayor biodiversidad del mundo. Posee más de 50,000 especies de plantas y el mayor número de aves del planeta\".\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la estructura lógica que debe seguir una buena exposición?",
-      "context": "Para una exposición en el colegio sobre la historia de los computadores, un estudiante de Cali organiza su texto en tres partes.",
+      "context": "Para una exposición en el colegio sobre la historia de los computadores, un estudiante de Cali organiza su texto en tres partes.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes acciones NO ayuda a que tu exposición sea clara?",
-      "context": "Estás preparando una exposición oral sobre la cultura cafetera para tus compañeros de grado sexto.",
+      "context": "Estás preparando una exposición oral sobre la cultura cafetera para tus compañeros de grado sexto.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v5",
       "statement": "¿Qué tipo de orden expositivo se utiliza en el fragmento anterior?",
-      "context": "En un libro de texto se explica el ciclo del agua: \"Primero, el agua se evapora por el calor del sol; luego, se condensa en las nubes; después, cae en forma de lluvia (precipitación) y, finalmente, regresa a los ríos y mares\".",
+      "context": "En un libro de texto se explica el ciclo del agua: \"Primero, el agua se evapora por el calor del sol; luego, se condensa en las nubes; después, cae en forma de lluvia (precipitación) y, finalmente, regresa a los ríos y mares\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v6",
       "statement": "¿Qué recurso expositivo está utilizando el estudiante al comparar el volcán con una olla a presión?",
-      "context": "En una exposición sobre los volcanes en Colombia, el estudiante dice: \"Un volcán es como una olla a presión gigante bajo la tierra que a veces necesita soltar el vapor acumulado\".",
+      "context": "En una exposición sobre los volcanes en Colombia, el estudiante dice: \"Un volcán es como una olla a presión gigante bajo la tierra que a veces necesita soltar el vapor acumulado\".\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la diferencia principal entre una exposición divulgativa y una especializada?",
-      "context": "Existen dos grandes tipos de exposiciones según el público al que se dirigen: divulgativas y especializadas.",
+      "context": "Existen dos grandes tipos de exposiciones según el público al que se dirigen: divulgativas y especializadas.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v8",
       "statement": "¿Por qué la infografía es un excelente formato expositivo?",
-      "context": "En la era digital, las infografías son una forma muy común de exposición. Una infografía sobre el dengue muestra dibujos del mosquito, síntomas y mapas de calor en Colombia.",
+      "context": "En la era digital, las infografías son una forma muy común de exposición. Una infografía sobre el dengue muestra dibujos del mosquito, síntomas y mapas de calor en Colombia.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v9",
       "statement": "¿Qué ocurre en este acto comunicativo con respecto a la pureza del texto expositivo?",
-      "context": "Imagina que un científico expone sobre el cambio climático pero termina su intervención diciendo: \"Por eso, creo que todos deberíamos dejar de comer carne de res\".",
+      "context": "Imagina que un científico expone sobre el cambio climático pero termina su intervención diciendo: \"Por eso, creo que todos deberíamos dejar de comer carne de res\".\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W09-exposicion-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de estas fuentes debería elegir si busca un texto expositivo confiable y por qué?",
-      "context": "En la biblioteca de un colegio en Neiva, un estudiante investiga sobre la Revolución de los Comuneros en diferentes fuentes: una enciclopedia, un libro de historia y un blog de opinión.",
+      "context": "En la biblioteca de un colegio en Neiva, un estudiante investiga sobre la Revolución de los Comuneros en diferentes fuentes: una enciclopedia, un libro de historia y un blog de opinión.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",

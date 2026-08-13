@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se expresa la suma de los primeros 5 números naturales utilizando la notación de sumatoria ($\\Sigma$)?",
-      "context": "Notación básica de sumas.",
+      "context": "Notación básica de sumas.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v2",
       "statement": "Calcula el valor de la siguiente sumatoria: $\\sum_{k=1}^{4} (2k - 1)$",
-      "context": "Evaluación de una sumatoria simple.",
+      "context": "Evaluación de una sumatoria simple.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v3",
       "statement": "¿Cuál de las siguientes es una propiedad válida de las sumatorias, donde $c$ es una constante?",
-      "context": "Propiedades de las sumatorias.",
+      "context": "Propiedades de las sumatorias.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el resultado de $\\sum_{i=1}^{100} 7$?",
-      "context": "Suma de una progresión constante.",
+      "context": "Suma de una progresión constante.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v5",
       "statement": "Calcula la suma de los primeros 50 números enteros positivos: $1 + 2 + 3 + ... + 50$.",
-      "context": "Suma de números naturales (fórmula de Gauss).",
+      "context": "Suma de números naturales (fórmula de Gauss).\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v6",
       "statement": "Un estudiante en Puebla ahorra $10 pesos el primer día, $12 el segundo, $14 el tercero, y así sucesivamente durante 30 días. ¿Qué expresión representa el total ahorrado?",
-      "context": "Serie aritmética en contexto de ahorro.",
+      "context": "Serie aritmética en contexto de ahorro.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v7",
       "statement": "Calcula el valor de $\\sum_{i=1}^{5} 3^{i-1}$.",
-      "context": "Suma de una serie geométrica finita.",
+      "context": "Suma de una serie geométrica finita.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v8",
       "statement": "Si $\\sum_{i=1}^{n} a_i = 20$ y $\\sum_{i=1}^{n} b_i = 15$, ¿cuál es el valor de $\\sum_{i=1}^{n} (3a_i - 2b_i)$?",
-      "context": "Propiedades de descomposición de sumatorias.",
+      "context": "Propiedades de descomposición de sumatorias.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v9",
       "statement": "Calcula la suma de los cuadrados de los primeros 5 números naturales: $\\sum_{k=1}^{5} k^2$.",
-      "context": "Suma de cuadrados de los primeros números.",
+      "context": "Suma de cuadrados de los primeros números.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el valor de $\\sum_{j=3}^{6} (j + 2)$?",
-      "context": "Sumatoria con índice desplazado.",
+      "context": "Sumatoria con índice desplazado.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v11",
       "statement": "Calcula la suma de todos los números impares entre 1 y 199 (incluyendo ambos).",
-      "context": "Suma de una serie aritmética de gran tamaño.",
+      "context": "Suma de una serie aritmética de gran tamaño.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v12",
       "statement": "Dada la serie $S_n = \\sum_{i=1}^{n} a_i$. Si $S_n = n^2 + n$, ¿cuál es el valor del quinto término $a_5$?",
-      "context": "Identificación del término general desde la sumatoria.",
+      "context": "Identificación del término general desde la sumatoria.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v13",
       "statement": "Calcula el valor de la serie infinita: $\\sum_{n=1}^{\\infty} 4(\\frac{1}{2})^n$.",
-      "context": "Serie geométrica infinita convergente.",
+      "context": "Serie geométrica infinita convergente.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es el valor de la sumatoria $\\sum_{k=1}^{10} (\\frac{1}{k} - \\frac{1}{k+1})$?",
-      "context": "Propiedad de telescópica en sumatorias.",
+      "context": "Propiedad de telescópica en sumatorias.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el resultado de la sumatoria $\\sum_{i=0}^{10} 2^i$?",
-      "context": "Suma de potencias de 2.",
+      "context": "Suma de potencias de 2.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v16",
       "statement": "Determina el valor de $\\sum_{i=1}^{20} (3i + 1)$.",
-      "context": "Sumatoria de una función lineal.",
+      "context": "Sumatoria de una función lineal.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v17",
       "statement": "Considera la sumatoria $S = \\sum_{k=1}^{\\infty} \\frac{3}{10^k}$. ¿A qué número decimal equivale exactamente esta serie?",
-      "context": "Límites de sumatorias infinitas.",
+      "context": "Límites de sumatorias infinitas.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v18",
       "statement": "Si se sabe que $\\sum_{i=1}^{n} i = \\frac{n(n+1)}{2}$, ¿cuál es la expresión para la suma de los primeros $n$ números pares: $2 + 4 + 6 + ... + 2n$?",
-      "context": "Deducción de fórmulas de sumatoria.",
+      "context": "Deducción de fórmulas de sumatoria.\n**Expected_Success:** 0.32",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v19",
       "statement": "Calcula el valor de la sumatoria doble: $\\sum_{i=1}^{3} \\sum_{j=1}^{2} (i + j)$.",
-      "context": "Sumatorias anidadas.",
+      "context": "Sumatorias anidadas.\n**Expected_Success:** 0.28",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W33-series-sumatorias-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el valor de la suma infinita $\\sum_{n=0}^{\\infty} \\frac{2}{3^n}$?",
-      "context": "Convergencia de series complejas.",
+      "context": "Convergencia de series complejas.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",

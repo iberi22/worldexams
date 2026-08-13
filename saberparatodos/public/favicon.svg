@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#00e5ff" />
+    </linearGradient>
+    <style>
+      .bg { fill: #1a1a2e; }
+      .text { fill: #ffffff; font-family: 'Inter', system-ui, -apple-system, sans-serif; font-weight: 800; font-size: 260px; }
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #0f172a; }
+      }
+    </style>
+  </defs>
+  <rect width="512" height="512" rx="128" class="bg" />
+  <path d="M128 176 L256 112 L384 176 L256 240 Z" fill="url(#grad)" />
+  <path d="M176 256 L176 352 C176 384 336 384 336 352 L336 256" stroke="url(#grad)" stroke-width="32" stroke-linecap="round" fill="none" />
+  <circle cx="384" cy="272" r="20" fill="#00e5ff" />
+  <path d="M384 272 L384 340" stroke="#00e5ff" stroke-width="12" stroke-linecap="round" />
+</svg>

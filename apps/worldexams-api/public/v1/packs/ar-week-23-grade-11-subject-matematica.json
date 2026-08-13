@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes fórmulas representa correctamente el Teorema de Bayes para dos eventos A y B?",
-      "context": "En una fábrica de sombreros de tango en Buenos Aires, se usan dos máquinas. La Máquina A produce el 70% y la Máquina B el 30%. El Teorema de Bayes ayuda a identificar el origen de un defecto.",
+      "context": "En una fábrica de sombreros de tango en Buenos Aires, se usan dos máquinas. La Máquina A produce el 70% y la Máquina B el 30%. El Teorema de Bayes ayuda a identificar el origen de un defecto.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Producción artesanal/industrial.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v2",
       "statement": "En el Teorema de Bayes, ¿qué representa el término P(A)?",
-      "context": "Un laboratorio en Tucumán analiza la probabilidad de que una fruta tenga una plaga específica basándose en resultados de tests previos.",
+      "context": "Un laboratorio en Tucumán analiza la probabilidad de que una fruta tenga una plaga específica basándose en resultados de tests previos.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v2\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Sanidad vegetal en citricultura.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el nombre del teorema que permite calcular la probabilidad total P(B) necesaria para el denominador del Teorema de Bayes?",
-      "context": "Se está analizando la efectividad de un filtro de spam en una empresa de software de Córdoba.",
+      "context": "Se está analizando la efectividad de un filtro de spam en una empresa de software de Córdoba.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v3\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Filtros de correo electrónico.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v4",
       "statement": "Si P(Voto | Jóvenes) = 0,6 y P(Voto | Adultos) = 0,8, ¿es posible que la probabilidad total de voto P(Voto) sea 0,9?",
-      "context": "En una consultora de Buenos Aires, se analiza el comportamiento de los votantes según su rango etario.",
+      "context": "En una consultora de Buenos Aires, se analiza el comportamiento de los votantes según su rango etario.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Sociología electoral.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la probabilidad de que una botella elegida al azar tenga una falla en el corcho?",
-      "context": "Una bodega en Mendoza tiene dos líneas de embotellado: L1 y L2.\n- L1 produce el 60% de las botellas y tiene un 2% de fallas en el corcho.\n- L2 produce el 40% y tiene un 5% de fallas en el corcho.",
+      "context": "Una bodega en Mendoza tiene dos líneas de embotellado: L1 y L2.\n- L1 produce el 60% de las botellas y tiene un 2% de fallas en el corcho.\n- L2 produce el 40% y tiene un 5% de fallas en el corcho.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v5\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Industria vitivinícola.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la probabilidad de que esa botella fallada provenga de la Línea 2?",
-      "context": "Usando los datos de la bodega en Mendoza (P(Falla) = 0,032), se encuentra una botella con el corcho fallado.",
+      "context": "Usando los datos de la bodega en Mendoza (P(Falla) = 0,032), se encuentra una botella con el corcho fallado.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Análisis de causa raíz en producción.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la probabilidad total de que el test dé positivo en un paciente elegido al azar?",
-      "context": "En una clínica de Mar del Plata, se realiza un test para una alergia que afecta al 10% de la población.\n- Si una persona tiene alergia, el test da positivo el 90% de las veces.\n- Si no tiene alergia, el test da positivo el 10% de las veces (falso positivo).",
+      "context": "En una clínica de Mar del Plata, se realiza un test para una alergia que afecta al 10% de la población.\n- Si una persona tiene alergia, el test da positivo el 90% de las veces.\n- Si no tiene alergia, el test da positivo el 10% de las veces (falso positivo).\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Diagnóstico médico.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la probabilidad de que el paciente realmente TENGA la alergia?",
-      "context": "Siguiendo con el caso de la alergia en Mar del Plata (P(+) = 0,18), un paciente recibe un resultado POSITIVO.",
+      "context": "Siguiendo con el caso de la alergia en Mar del Plata (P(+) = 0,18), un paciente recibe un resultado POSITIVO.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Interpretación de resultados clínicos.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la probabilidad de que un barco elegido al azar sea extranjero Y transporte carga peligrosa?",
-      "context": "En un puerto de Rosario, el 80% de los barcos que llegan son nacionales y el 20% son extranjeros. El 5% de los nacionales transporta carga peligrosa, frente al 15% de los extranjeros.",
+      "context": "En un puerto de Rosario, el 80% de los barcos que llegan son nacionales y el 20% son extranjeros. El 5% de los nacionales transporta carga peligrosa, frente al 15% de los extranjeros.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Operaciones portuarias y logística.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la probabilidad de que un graduado haya realizado una pasantía?",
-      "context": "En una universidad de La Plata, se sabe que el 60% de los graduados en ingeniería consiguen empleo en menos de 6 meses. De los que consiguen empleo rápido, el 80% realizó una pasantía. De los que no consiguen empleo rápido, solo el 20% realizó una pasantía.",
+      "context": "En una universidad de La Plata, se sabe que el 60% de los graduados en ingeniería consiguen empleo en menos de 6 meses. De los que consiguen empleo rápido, el 80% realizó una pasantía. De los que no consiguen empleo rápido, solo el 20% realizó una pasantía.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v10\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Empleabilidad universitaria.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v11",
       "statement": "Si una queja NO se resolvió en la primera llamada, ¿cuál es la probabilidad de que haya sido atendida por un agente nuevo?",
-      "context": "En un call center de Buenos Aires, el 40% de las quejas son atendidas por agentes con experiencia y el 60% por agentes nuevos. El 95% de las quejas atendidas por expertos se resuelven en la primera llamada, comparado con el 70% de los nuevos.",
+      "context": "En un call center de Buenos Aires, el 40% de las quejas son atendidas por agentes con experiencia y el 60% por agentes nuevos. El 95% de las quejas atendidas por expertos se resuelven en la primera llamada, comparado con el 70% de los nuevos.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Atención al cliente.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v12",
       "statement": "Si un cliente tuvo un accidente este año, ¿cuál es la probabilidad de que sea un conductor de bajo riesgo?",
-      "context": "Una empresa de seguros en Santa Fe determinó que el 20% de los conductores son \"de alto riesgo\". La probabilidad de que un conductor de alto riesgo tenga un accidente en un año es 0,4. Para uno de bajo riesgo, es 0,1.",
+      "context": "Una empresa de seguros en Santa Fe determinó que el 20% de los conductores son \"de alto riesgo\". La probabilidad de que un conductor de alto riesgo tenga un accidente en un año es 0,4. Para uno de bajo riesgo, es 0,1.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Seguros de automotor.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la probabilidad de que una pieza elegida al azar NO sea defectuosa?",
-      "context": "Tres máquinas (A, B, C) producen piezas.\n- A: 50% de la producción, 1% defectuoso.\n- B: 30% de la producción, 2% defectuoso.\n- C: 20% de la producción, 3% defectuoso.",
+      "context": "Tres máquinas (A, B, C) producen piezas.\n- A: 50% de la producción, 1% defectuoso.\n- B: 30% de la producción, 2% defectuoso.\n- C: 20% de la producción, 3% defectuoso.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v13\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Control de calidad industrial multicapa.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v14",
       "statement": "¿Cuál máquina es la que tiene mayor probabilidad de haber producido esa pieza defectuosa?",
-      "context": "Usando los datos de las tres máquinas (P(Def) = 0,017), se encuentra una pieza defectuosa.",
+      "context": "Usando los datos de las tres máquinas (P(Def) = 0,017), se encuentra una pieza defectuosa.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Identificación de origen de fallas.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v15",
       "statement": "Si la alarma suena, ¿cuál es la probabilidad de que realmente haya un incendio?",
-      "context": "Un sensor de humo en un edificio de Salta tiene una probabilidad del 99% de sonar si hay fuego. Si no hay fuego, tiene una probabilidad del 1% de sonar accidentalmente. El riesgo de fuego en un día cualquiera es de 0,001.",
+      "context": "Un sensor de humo en un edificio de Salta tiene una probabilidad del 99% de sonar si hay fuego. Si no hay fuego, tiene una probabilidad del 1% de sonar accidentalmente. El riesgo de fuego en un día cualquiera es de 0,001.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v15\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Sistemas de alarma y seguridad.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v16",
       "statement": "Si un empleado llegó temprano, ¿cuál es la probabilidad de que NO use bicicleta?",
-      "context": "En un estudio sobre transporte en Neuquén, se vio que el 30% usa bicicleta. De los que usan bicicleta, el 60% llega temprano al trabajo. De los que no usan bicicleta, solo el 40% llega temprano.",
+      "context": "En un estudio sobre transporte en Neuquén, se vio que el 30% usa bicicleta. De los que usan bicicleta, el 60% llega temprano al trabajo. De los que no usan bicicleta, solo el 40% llega temprano.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Movilidad urbana y puntualidad.\n**Expected_Success:** 0.64",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la probabilidad de que la segunda bola sea blanca?",
-      "context": "Dos urnas en un experimento de la UBA. La Urna 1 tiene 5 bolas blancas y 2 negras. La Urna 2 tiene 3 blancas y 4 negras. Se elige una urna al azar, se saca una bola y resulta ser blanca. Se devuelve la bola a la MISMA urna y se saca una segunda bola de esa urna.",
+      "context": "Dos urnas en un experimento de la UBA. La Urna 1 tiene 5 bolas blancas y 2 negras. La Urna 2 tiene 3 blancas y 4 negras. Se elige una urna al azar, se saca una bola y resulta ser blanca. Se devuelve la bola a la MISMA urna y se saca una segunda bola de esa urna.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Experimento de urnas con actualización de información.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v18",
       "statement": "Si el sistema ACEPTA un acceso, ¿cuál es la probabilidad de que se trate de un impostor?",
-      "context": "Un sistema de reconocimiento facial en una entidad financiera de CABA tiene una tasa de falsa aceptación del 0,01% y una tasa de falso rechazo del 1%. Se asume que el 99,9% de los intentos de acceso son de clientes legítimos.",
+      "context": "Un sistema de reconocimiento facial en una entidad financiera de CABA tiene una tasa de falsa aceptación del 0,01% y una tasa de falso rechazo del 1%. Se asume que el 99,9% de los intentos de acceso son de clientes legítimos.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Biometría y seguridad bancaria.\n**Expected_Success:** 0.42",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la probabilidad de ganar si decidís CAMBIAR tu elección a la Caja C?",
-      "context": "En una competencia de matemáticas, se plantea el \"Problema de Monty Hall\" en versión argentina: tres cajas de alfajores, una tiene un premio en efectivo y las otras dos están vacías. Elegís la Caja A. El conductor (que sabe qué hay) abre la Caja B y muestra que está vacía.",
+      "context": "En una competencia de matemáticas, se plantea el \"Problema de Monty Hall\" en versión argentina: tres cajas de alfajores, una tiene un premio en efectivo y las otras dos están vacías. Elegís la Caja A. El conductor (que sabe qué hay) abre la Caja B y muestra que está vacía.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Probabilidad contraintuitiva (Monty Hall).\n**Expected_Success:** 0.48",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v20",
       "statement": "Si tiró el dado y salió un 6, ¿cuál es la probabilidad de que haya sacado una figura del mazo? (Mazo de 52 cartas francesas).",
-      "context": "Un matemático analiza un mazo de cartas y decide que si sale una figura (J, Q, K), usará un dado cargado donde el 6 sale el 50% de las veces. Si no sale figura, usará un dado normal.",
+      "context": "Un matemático analiza un mazo de cartas y decide que si sale una figura (J, Q, K), usará un dado cargado donde el 6 sale el 50% de las veces. Si no sale figura, usará un dado normal.\n\n**ID:** AR-MAT-11-2026-W23-probabilidad-teorema-bayes-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Experimento compuesto con dados cargados.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

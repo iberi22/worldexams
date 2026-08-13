@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la función principal de los conectores lógicos en la escritura?",
-      "context": "Los conectores lógicos son palabras o expresiones que sirven para entrelazar las ideas en un texto.",
+      "context": "Los conectores lógicos son palabras o expresiones que sirven para entrelazar las ideas en un texto.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v2",
       "statement": "En la frase: \"La feria del libro en Bogotá fue un éxito; **asimismo**, se reportó un incremento en la venta de autores nacionales\", el conector resaltado es de tipo:",
-      "context": "Los conectores aditivos permiten añadir información nueva que sigue la misma línea de lo que se venía diciendo.",
+      "context": "Los conectores aditivos permiten añadir información nueva que sigue la misma línea de lo que se venía diciendo.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v3",
       "statement": "Completa la siguiente oración con el conector causal más adecuado: \"Los campesinos tuvieron que adelantar la cosecha ________ se anunciaron heladas para la próxima semana\".",
-      "context": "Los conectores causales introducen la razón o el motivo de un hecho mencionado anteriormente.",
+      "context": "Los conectores causales introducen la razón o el motivo de un hecho mencionado anteriormente.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes oraciones utiliza correctamente un conector consecutivo?",
-      "context": "Los conectores consecutivos indican el resultado o efecto de una situación planteada.",
+      "context": "Los conectores consecutivos indican el resultado o efecto de una situación planteada.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v5",
       "statement": "¿Qué conector elegirías para unir estas dos ideas si quieres resaltar que la segunda contradice lo que se esperaba de la primera?\n\"El equipo nacional entrenó muy fuerte.\" / \"No logró clasificar al mundial.\"",
-      "context": "Los conectores de oposición o adversativos señalan un contraste o una dificultad entre dos ideas.",
+      "context": "Los conectores de oposición o adversativos señalan un contraste o una dificultad entre dos ideas.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v6",
       "statement": "Analiza el error de coherencia en la siguiente frase: \"Estudió toda la noche con mucho juicio, **por eso** no aprobó el examen de matemáticas\". ¿Por qué el conector está mal empleado?",
-      "context": "La precisión en el uso de conectores evita ambigüedades en la comunicación escrita.",
+      "context": "La precisión en el uso de conectores evita ambigüedades en la comunicación escrita.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v7",
       "statement": "En un texto sobre la economía colombiana aparece la frase: \"La inflación ha cedido en el último trimestre; **en otras palabras**, el costo de vida está subiendo más lentamente\". ¿Qué función cumple el conector resaltado?",
-      "context": "Los conectores reformuladores permiten explicar de manera más sencilla lo dicho anteriormente.",
+      "context": "Los conectores reformuladores permiten explicar de manera más sencilla lo dicho anteriormente.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v8",
       "statement": "Si estás escribiendo una receta para preparar una bandeja paisa, ¿en qué orden lógico usarías estos conectores?\n1. Por último\n2. En primer lugar\n3. A continuación",
-      "context": "Los conectores de orden o secuenciadores organizan la estructura temporal de un relato o proceso.",
+      "context": "Los conectores de orden o secuenciadores organizan la estructura temporal de un relato o proceso.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v9",
       "statement": "Lee el siguiente fragmento: \"Es cierto que el turismo genera empleo en la región; **no obstante**, si no se regula adecuadamente, puede destruir los ecosistemas locales\". ¿Cuál es el propósito del conector \"no obstante\"?",
-      "context": "El uso de conectores en textos argumentativos complejos permite sostener una tesis frente a posibles objeciones.",
+      "context": "El uso de conectores en textos argumentativos complejos permite sostener una tesis frente a posibles objeciones.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W16-conectores-logicos-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes opciones muestra el uso correcto de los signos de puntuación con el conector \"por lo tanto\" en una oración larga?",
-      "context": "La puntuación asociada a los conectores es vital para la correcta interpretación de la jerarquía de las ideas.",
+      "context": "La puntuación asociada a los conectores es vital para la correcta interpretación de la jerarquía de las ideas.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

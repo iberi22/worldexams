@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se denomina al conjunto total de todos los ciudadanos habilitados para votar en la Ciudad de Buenos Aires?",
-      "context": "Un consultor político en la Ciudad de Buenos Aires desea conocer la intención de voto para las próximas elecciones legislativas.",
+      "context": "Un consultor político en la Ciudad de Buenos Aires desea conocer la intención de voto para las próximas elecciones legislativas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Consultoría política y opinión pública.\n**Expected_Success:** 0.92",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el término correcto para designar a este subgrupo de 1.000 personas extraído de la población total?",
-      "context": "Para un estudio sobre hábitos de consumo de yerba mate, se eligen 1.000 personas de distintas provincias argentinas.",
+      "context": "Para un estudio sobre hábitos de consumo de yerba mate, se eligen 1.000 personas de distintas provincias argentinas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Estudio de mercado nacional.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v3",
       "statement": "¿Cómo se clasifica este tipo de muestreo?",
-      "context": "Un investigador del CONICET decide realizar un muestreo donde cada individuo de la población tiene exactamente la misma probabilidad de ser elegido.",
+      "context": "Un investigador del CONICET decide realizar un muestreo donde cada individuo de la población tiene exactamente la misma probabilidad de ser elegido.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v3\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Investigación científica oficial.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v4",
       "statement": "¿Por qué este tipo de muestreo se considera \"no probabilístico\"?",
-      "context": "Un periodista deportivo en una radio de Córdoba hace una encuesta a los oyentes que llaman por teléfono para saber quién ganará el clásico Talleres-Belgrano.",
+      "context": "Un periodista deportivo en una radio de Córdoba hace una encuesta a los oyentes que llaman por teléfono para saber quién ganará el clásico Talleres-Belgrano.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Medios de comunicación y encuestas rápidas.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v5",
       "statement": "¿Cómo se denomina técnicamente este método de muestreo?",
-      "context": "En una fábrica de alfajores de Mar del Plata, se desea controlar la calidad de la producción diaria (10.000 unidades). Se decide elegir un alfajor cada 100 producidos.",
+      "context": "En una fábrica de alfajores de Mar del Plata, se desea controlar la calidad de la producción diaria (10.000 unidades). Se decide elegir un alfajor cada 100 producidos.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v5\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Control de calidad industrial.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v6",
       "statement": "¿Qué tipo de muestreo se está aplicando?",
-      "context": "El Ministerio de Educación quiere evaluar el nivel de lectura en escuelas secundarias. Divide al país en 24 jurisdicciones (provincias + CABA) y asegura que la muestra tenga una proporción de alumnos de cada provincia igual a la de la población total.",
+      "context": "El Ministerio de Educación quiere evaluar el nivel de lectura en escuelas secundarias. Divide al país en 24 jurisdicciones (provincias + CABA) y asegura que la muestra tenga una proporción de alumnos de cada provincia igual a la de la población total.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Evaluación educativa nacional (Aprender).\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v7",
       "statement": "¿A qué tipo de muestreo corresponde este procedimiento?",
-      "context": "Una empresa de logística quiere encuestar a sus empleados. Decide seleccionar al azar 5 sucursales completas de las 50 que tiene en todo el país y encuestar a todos los trabajadores de esas 5 sedes.",
+      "context": "Una empresa de logística quiere encuestar a sus empleados. Decide seleccionar al azar 5 sucursales completas de las 50 que tiene en todo el país y encuestar a todos los trabajadores de esas 5 sedes.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Clima organizacional en empresas federales.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el nombre de este método de muestreo no probabilístico?",
-      "context": "Un sociólogo en Rosario quiere estudiar a personas con una enfermedad muy rara. Como no tiene una lista de pacientes, contacta a uno, y le pide que le recomiende a otros conocidos que tengan la misma condición.",
+      "context": "Un sociólogo en Rosario quiere estudiar a personas con una enfermedad muy rara. Como no tiene una lista de pacientes, contacta a uno, y le pide que le recomiende a otros conocidos que tengan la misma condición.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v8\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Investigación social de poblaciones ocultas.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el principal problema de este diseño muestral?",
-      "context": "En una encuesta telefónica sobre el uso de billeteras virtuales en Argentina, se decide llamar solo a teléfonos fijos entre las 10 y las 14 horas.",
+      "context": "En una encuesta telefónica sobre el uso de billeteras virtuales en Argentina, se decide llamar solo a teléfonos fijos entre las 10 y las 14 horas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v9\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Error metodológico en encuestas.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes es una descripción correcta de un \"parámetro\"?",
-      "context": "Un estadístico explica la diferencia entre un \"parámetro\" y un \"estadístico\" o \"estimador\".",
+      "context": "Un estadístico explica la diferencia entre un \"parámetro\" y un \"estadístico\" o \"estimador\".\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v10\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Conceptos teóricos fundamentales.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v11",
       "statement": "¿Cuál debe ser el intervalo de selección (k) y cuál es el procedimiento correcto?",
-      "context": "Se quiere realizar un muestreo sistemático en una lista de 5.000 facturas de una empresa en Mendoza. Se necesita una muestra de 200 facturas.",
+      "context": "Se quiere realizar un muestreo sistemático en una lista de 5.000 facturas de una empresa en Mendoza. Se necesita una muestra de 200 facturas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v11\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Auditoría contable mediante muestreo.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v12",
       "statement": "¿Cuántas personas deben seleccionarse del estrato B?",
-      "context": "En un muestreo estratificado proporcional, una población de 10.000 personas tiene dos estratos: A (8.000 personas) y B (2.000 personas). Se decide tomar una muestra total de 500 personas.",
+      "context": "En un muestreo estratificado proporcional, una población de 10.000 personas tiene dos estratos: A (8.000 personas) y B (2.000 personas). Se decide tomar una muestra total de 500 personas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v12\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Diseño de muestra proporcional.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v13",
       "statement": "¿Cómo se denomina este método de muestreo?",
-      "context": "Un encuestador en San Miguel de Tucumán recibe la instrucción de entrevistar a 50 hombres y 50 mujeres, de los cuales 20 deben ser menores de 30 años en cada grupo. Se le permite elegir a quién entrevistar siempre que cumpla con esas cantidades.",
+      "context": "Un encuestador en San Miguel de Tucumán recibe la instrucción de entrevistar a 50 hombres y 50 mujeres, de los cuales 20 deben ser menores de 30 años en cada grupo. Se le permite elegir a quién entrevistar siempre que cumpla con esas cantidades.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v13\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Trabajo de campo en encuestas de mercado.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v14",
       "statement": "¿Cómo se denomina técnicamente este fenómeno que afecta la validez de la muestra?",
-      "context": "Al realizar una encuesta nacional sobre el censo 2022, se observa que las personas con mayor nivel educativo tienden a responder más que las de menor nivel educativo.",
+      "context": "Al realizar una encuesta nacional sobre el censo 2022, se observa que las personas con mayor nivel educativo tienden a responder más que las de menor nivel educativo.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Problemas de respuesta en encuestas.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v15",
       "statement": "¿A qué se debe esta diferencia inevitable?",
-      "context": "Un analista explica que, incluso si el muestreo es perfecto y aleatorio, el estadístico de la muestra casi nunca coincide exactamente con el parámetro de la población.",
+      "context": "Un analista explica que, incluso si el muestreo es perfecto y aleatorio, el estadístico de la muestra casi nunca coincide exactamente con el parámetro de la población.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v15\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Error inherente al muestreo.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es la clasificación de este procedimiento de muestreo?",
-      "context": "Se desea estudiar el uso de agroquímicos en campos de la provincia de Buenos Aires. Se eligen al azar 10 partidos (municipios) y dentro de cada partido se eligen al azar 20 campos.",
+      "context": "Se desea estudiar el uso de agroquímicos en campos de la provincia de Buenos Aires. Se eligen al azar 10 partidos (municipios) y dentro de cada partido se eligen al azar 20 campos.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Muestreo en etapas.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el valor del promedio de todas las medias muestrales posibles (μ_x)?",
-      "context": "Consideramos una población de N = 4 elementos {2, 4, 6, 8}. Se extraen todas las muestras posibles de tamaño n = 2 CON reposición.",
+      "context": "Consideramos una población de N = 4 elementos {2, 4, 6, 8}. Se extraen todas las muestras posibles de tamaño n = 2 CON reposición.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Distribución muestral de la media.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v18",
       "statement": "¿Es correcta la afirmación del estadístico?",
-      "context": "Un estadístico afirma que al duplicar el tamaño de una muestra (de n a 2n), el error de muestreo se reduce a la mitad.",
+      "context": "Un estadístico afirma que al duplicar el tamaño de una muestra (de n a 2n), el error de muestreo se reduce a la mitad.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Relación entre error y tamaño de muestra.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v19",
       "statement": "¿Cuál de los siguientes es el error más grave presente en este diseño?",
-      "context": "Se realiza un estudio de mercado en CABA sobre una nueva marca de alfajores. El marco muestral utilizado es la guía telefónica de líneas fijas del año 2015.",
+      "context": "Se realiza un estudio de mercado en CABA sobre una nueva marca de alfajores. El marco muestral utilizado es la guía telefónica de líneas fijas del año 2015.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Error en el marco muestral.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v20",
       "statement": "¿Cuál de los dos métodos es más probable que proporcione una estimación más precisa (menor varianza)?",
-      "context": "Un investigador de Bariloche quiere comparar dos métodos de muestreo para estimar la cantidad de nieve promedio en una montaña: (1) Elegir 10 puntos al azar en toda la montaña, (2) Dividir la montaña en 5 zonas de altura y elegir 2 puntos al azar en cada zona.",
+      "context": "Un investigador de Bariloche quiere comparar dos métodos de muestreo para estimar la cantidad de nieve promedio en una montaña: (1) Elegir 10 puntos al azar en toda la montaña, (2) Dividir la montaña en 5 zonas de altura y elegir 2 puntos al azar en cada zona.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Eficiencia de diseños muestrales.\n**Expected_Success:** 0.42",
       "options": [
         {
           "letter": "A",

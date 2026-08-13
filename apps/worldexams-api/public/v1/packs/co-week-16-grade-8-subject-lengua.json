@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v1",
       "statement": "¿Quién es el poeta nicaragüense considerado el máximo exponente y \"padre\" del Modernismo con la publicación de su obra \"Azul...\" en 1888?",
-      "context": "El Modernismo es el primer movimiento literario nacido en América Latina que influyó profundamente en España a finales del siglo XIX.",
+      "context": "El Modernismo es el primer movimiento literario nacido en América Latina que influyó profundamente en España a finales del siglo XIX.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el símbolo animal por excelencia del Modernismo, que representa la elegancia, la pureza y la aristocracia del arte?",
-      "context": "El Modernismo busca la belleza absoluta, alejándose de la realidad cotidiana y vulgar mediante el uso de mundos exóticos y elegantes.",
+      "context": "El Modernismo busca la belleza absoluta, alejándose de la realidad cotidiana y vulgar mediante el uso de mundos exóticos y elegantes.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de verso de 14 sílabas, que había caído en desuso desde la Edad Media, fue rescatado y perfeccionado por los poetas modernistas?",
-      "context": "Los poetas modernistas estaban obsesionados con la musicalidad del verso y renovaron por completo la métrica castellana.",
+      "context": "Los poetas modernistas estaban obsesionados con la musicalidad del verso y renovaron por completo la métrica castellana.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v4",
       "statement": "¿Qué objetivo perseguía el poeta modernista al describir princesas orientales, jardines franceses y palacios de mármol?",
-      "context": "El Modernismo se caracteriza por el \"exotismo\", que consiste en ambientar las obras en lugares lejanos o tiempos remotos.",
+      "context": "El Modernismo se caracteriza por el \"exotismo\", que consiste en ambientar las obras en lugares lejanos o tiempos remotos.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v5",
       "statement": "Si en un poema modernista leemos frases como \"el sonido azul de la trompeta\" o \"un perfume amargo\", ¿qué recurso se está utilizando?",
-      "context": "La sinestesia es una figura retórica muy común en el Modernismo que consiste en mezclar sensaciones de sentidos distintos.",
+      "context": "La sinestesia es una figura retórica muy común en el Modernismo que consiste en mezclar sensaciones de sentidos distintos.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v6",
       "statement": "¿Qué innovación rítmica introdujo Silva en su \"Nocturno III\" para expresar el dolor y el misterio de la muerte y el recuerdo?",
-      "context": "José Asunción Silva es el gran representante del Modernismo en Colombia, conocido por su famoso \"Nocturno III\".",
+      "context": "José Asunción Silva es el gran representante del Modernismo en Colombia, conocido por su famoso \"Nocturno III\".\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v7",
       "statement": "En el poema \"A Roosevelt\", Rubén Darío critica al presidente de Estados Unidos. ¿Qué valores defiende Darío frente al poder material del norte?",
-      "context": "El Modernismo también tuvo una etapa de compromiso político y defensa de la identidad hispana frente al imperialismo anglosajón.",
+      "context": "El Modernismo también tuvo una etapa de compromiso político y defensa de la identidad hispana frente al imperialismo anglosajón.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v8",
       "statement": "¿Qué consecuencia tuvo para la figura del escritor esta defensa de la autonomía absoluta del arte frente a la utilidad social?",
-      "context": "El Modernismo se vincula con el concepto de \"el arte por el arte\", defendiendo que la belleza es la única función de la literatura.",
+      "context": "El Modernismo se vincula con el concepto de \"el arte por el arte\", defendiendo que la belleza es la única función de la literatura.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v9",
       "statement": "Si en una estrofa modernista predominan los colores blanco, marfil, plata y oro, ¿qué atmósfera está intentando crear el autor?",
-      "context": "El cromatismo (uso del color) es fundamental en la estética modernista.",
+      "context": "El cromatismo (uso del color) es fundamental en la estética modernista.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v10",
       "statement": "¿Cuál fue la diferencia principal entre el Modernismo hispanoamericano (Darío) y la adaptación que hicieron autores españoles como Antonio Machado?",
-      "context": "El Modernismo influyó en España a través de la Generación del 98, aunque estos autores buscaron una sobriedad mayor.",
+      "context": "El Modernismo influyó en España a través de la Generación del 98, aunque estos autores buscaron una sobriedad mayor.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v11",
       "statement": "¿De qué manera el Modernismo logró ser un movimiento original a pesar de tener tantas influencias de la literatura francesa?",
-      "context": "Algunos críticos contemporáneos del Modernismo lo acusaron de ser un \"arte de imitación\" de lo francés.",
+      "context": "Algunos críticos contemporáneos del Modernismo lo acusaron de ser un \"arte de imitación\" de lo francés.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v12",
       "statement": "¿Cuál fue el legado más importante que dejó el Modernismo a la literatura hispanoamericana del siglo XX?",
-      "context": "El Modernismo terminó alrededor de la Primera Guerra Mundial, dando paso a las Vanguardias.",
+      "context": "El Modernismo terminó alrededor de la Primera Guerra Mundial, dando paso a las Vanguardias.\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",

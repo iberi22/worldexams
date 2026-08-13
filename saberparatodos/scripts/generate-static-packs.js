@@ -183,7 +183,7 @@ function parseQuestions(body) {
       /###\s*(?:Contexto|Context|Texto)([\s\S]*?)(?:###|##|$)/i,
     );
     const contextInlineMatch = section.match(
-      /\*\*(?:Contexto|Context):\*\*\s*([^\n]+(?:\n(?!\*\*|###|-\s*\[)[^\n]+)*)/i,
+      /\*\*(?:Contexto|Context):\*\*\s*([\s\S]*?)(?=\r?\n###\s+(?:Enunciado|Statement|Question|Opciones)|\r?\n\s*(?:-\s*)?\[|$)/i,
     );
     const context = contextHeadingMatch
       ? contextHeadingMatch[1].trim()
@@ -209,7 +209,7 @@ function parseQuestions(body) {
         cleanedRaw = cleanedRaw.replace(contextHeadingMatch[0], "");
       }
       // Strip inline **Context:**/**Contexto:** from statement
-      cleanedRaw = cleanedRaw.replace(/\*\*(?:Context|Contexto):\*\*\s*[^\n]*/gi, "");
+      cleanedRaw = cleanedRaw.replace(/\*\*(?:Context|Contexto):\*\*\s*([\s\S]*?)(?=\r?\n###\s+(?:Enunciado|Statement|Question|Opciones)|\r?\n\s*(?:-\s*)?\[|$)/gi, "");
       statement = cleanedRaw
         .replace(
           /(?:\*\*ID:\*\*|ID:)\s*(?:`[^`]+`|"[^"]+"|[A-Za-z0-9._:-]+)/g,

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se llama cada una de las líneas que componen un poema?",
-      "context": "En la clase de Lengua del Colegio San José en Barranquilla, la profesora explica los elementos formales que dan musicalidad a un poema.",
+      "context": "En la clase de Lengua del Colegio San José en Barranquilla, la profesora explica los elementos formales que dan musicalidad a un poema.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina la repetición de sonidos a partir de la última vocal acentuada en dos o más versos?",
-      "context": "Un estudiante de Pasto analiza la coincidencia de sonidos al final de dos versos: \"Camino\" y \"Destino\".",
+      "context": "Un estudiante de Pasto analiza la coincidencia de sonidos al final de dos versos: \"Camino\" y \"Destino\".\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v3",
       "statement": "¿Qué figura literaria se utiliza en la expresión \"Tus ojos son dos luceros\"?",
-      "context": "Valentina lee un poema de Rafael Pombo: \"Tus ojos son dos luceros que iluminan mi existir\".",
+      "context": "Valentina lee un poema de Rafael Pombo: \"Tus ojos son dos luceros que iluminan mi existir\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v4",
       "statement": "¿A quién nos referimos cuando hablamos del \"yo poético\" o \"hablante lírico\"?",
-      "context": "En el estudio del género lírico, es fundamental distinguir quién es la voz que habla dentro del poema.",
+      "context": "En el estudio del género lírico, es fundamental distinguir quién es la voz que habla dentro del poema.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v5",
       "statement": "¿Qué figura literaria se evidencia cuando se dice que la luna \"sonreía\"?",
-      "context": "Santiago lee el siguiente verso: \"La luna sonreía entre las nubes de plata\".",
+      "context": "Santiago lee el siguiente verso: \"La luna sonreía entre las nubes de plata\".\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v6",
       "statement": "Si un verso termina en una palabra AGUDA (como \"corazón\" o \"Bogotá\"), ¿qué debe hacerse al contar las sílabas métricas?",
-      "context": "En el análisis métrico, se utiliza la \"Ley del acento final\" para contar correctamente las sílabas de un verso.",
+      "context": "En el análisis métrico, se utiliza la \"Ley del acento final\" para contar correctamente las sílabas de un verso.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v7",
       "statement": "¿Cómo se denomina al estado de ánimo o sentimiento que el hablante lírico transmite a través del poema?",
-      "context": "Camila analiza el sentimiento que predomina en un poema donde el autor lamenta la pérdida de un ser querido.",
+      "context": "Camila analiza el sentimiento que predomina en un poema donde el autor lamenta la pérdida de un ser querido.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v8",
       "statement": "¿Cómo se denomina a la poesía que prescinde de la rima y de la medida fija de sílabas, basándose solo en el ritmo interno?",
-      "context": "Algunos estudiantes creen que la poesía moderna es \"más fácil\" porque a veces no tiene rima ni métrica fija.",
+      "context": "Algunos estudiantes creen que la poesía moderna es \"más fácil\" porque a veces no tiene rima ni métrica fija.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v9",
       "statement": "Analiza la expresión \"desierto de hielo\". ¿Por qué es una imagen poética potente y qué figura literaria utiliza?",
-      "context": "Un fragmento de un poema dice: \"Vivir es caminar por un desierto de hielo\".",
+      "context": "Un fragmento de un poema dice: \"Vivir es caminar por un desierto de hielo\".\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W03-genero-lirico-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la función principal de las figuras retóricas en el género lírico?",
-      "context": "El lenguaje literario se diferencia del cotidiano por su capacidad de sugerir múltiples significados.",
+      "context": "El lenguaje literario se diferencia del cotidiano por su capacidad de sugerir múltiples significados.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
