@@ -1,3 +1,10 @@
+
+## 2026-08-09 - Ensure cf-connecting-ip is used before x-forwarded-for
+**Vulnerability:** Found IP extraction logic that trusted `x-forwarded-for` (which can be spoofed by clients) before the trusted Cloudflare `cf-connecting-ip` header.
+**Learning:** Rate limiting and security middleware can be bypassed via IP spoofing if client-provided headers are evaluated before reverse-proxy verified headers.
+**Prevention:** Always extract the client IP using `cf-connecting-ip` before falling back to `x-forwarded-for`.
+
+
 ## 2026-03-10 - MathRenderer.svelte XSS Vulnerability
 **Vulnerability:** The MathRenderer component injected raw `content` directly into the DOM using `{@html renderedHTML}`. While KaTeX handled math blocks, regular text containing `<script>` or `<img src=x onerror=...>` was not escaped, allowing stored XSS from user comments and generated questions.
 **Learning:** Svelte's `{@html}` bypasses all sanitization. Memory dictated NOT to use `DOMPurify` as it can break KaTeX/SVG rendering. We must be very careful when rendering rich text with custom parsers.
@@ -29,3 +36,4 @@
 **Vulnerability:** The application was vulnerable to PostgREST filter injection in `src/components/CollegeSelect.svelte`. Unsanitized user input from the college search bar was directly concatenated into an `.or()` query filter: `.or(\`name.ilike.%${query}%,cod_dane.ilike.%${query}%\`)`. Because PostgREST uses commas (`,`) to separate conditions within `.or()` clauses, an attacker could input a comma to alter the query logic and bypass intended filtering.
 **Learning:** When using the Supabase JS client's string-based `.or()` filters, standard string concatenation is highly dangerous if the input contains PostgREST reserved characters like commas (`,`) or unescaped wildcard percent signs (`%`). It effectively leads to NoSQL/Filter injection.
 **Prevention:** Always explicitly sanitize or strip commas and other filter control characters when building string-based PostgREST filter clauses. Alternatively, use safer, parameterized matching methods if supported by the client library, but if concatenation is necessary, use `query.replace(/[,%]/g, ' ')` or similar robust stripping.
+
