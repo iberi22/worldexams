@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v1",
       "statement": "¿Cuál fue el idioma predominante en el que se escribieron los textos cultos y religiosos durante gran parte de la Edad Media en Europa?",
-      "context": "El periodo medieval abarcó aproximadamente diez siglos, desde la caída del Imperio Romano hasta el descubrimiento de América.",
+      "context": "El periodo medieval abarcó aproximadamente diez siglos, desde la caída del Imperio Romano hasta el descubrimiento de América.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina a la visión del mundo que sitúa a Dios como el centro de todo el universo y explica todos los fenómenos a través de la religión?",
-      "context": "La sociedad medieval estaba rígidamente estratificada, y la religión católica permeaba todos los aspectos de la vida cotidiana y el pensamiento.",
+      "context": "La sociedad medieval estaba rígidamente estratificada, y la religión católica permeaba todos los aspectos de la vida cotidiana y el pensamiento.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v3",
       "statement": "¿Qué nombre recibían los artistas medievales que recorrían pueblos y castillos recitando poemas y cantares de gesta para entretener al público?",
-      "context": "En las plazas de los pueblos medievales, artistas ambulantes entretenían al pueblo con relatos, música y acrobacias.",
+      "context": "En las plazas de los pueblos medievales, artistas ambulantes entretenían al pueblo con relatos, música y acrobacias.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v4",
       "statement": "¿Cuál era la función primordial de la literatura producida por los clérigos (mester de clerecía) en comparación con la de los juglares?",
-      "context": "Los monasterios fueron los principales centros de conservación de la cultura escrita durante la alta Edad Media.",
+      "context": "Los monasterios fueron los principales centros de conservación de la cultura escrita durante la alta Edad Media.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v5",
       "statement": "Si un autor medieval escribe una serie de cuentos donde un consejero ayuda a un joven noble dándole ejemplos morales, ¿a qué corriente literaria pertenece más probablemente?",
-      "context": "\"El Conde Lucanor\" de Don Juan Manuel es una de las obras más importantes de la prosa didáctica del siglo XIV en España.",
+      "context": "\"El Conde Lucanor\" de Don Juan Manuel es una de las obras más importantes de la prosa didáctica del siglo XIV en España.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v6",
       "statement": "¿Qué característica de los cantares de gesta sugiere que estaban diseñados para ser recitados ante un público y no para ser leídos individualmente?",
-      "context": "Los cantares de gesta solían ser anónimos y se transmitían oralmente, lo que permitía variaciones en el relato según el juglar que los recitara.",
+      "context": "Los cantares de gesta solían ser anónimos y se transmitían oralmente, lo que permitía variaciones en el relato según el juglar que los recitara.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v7",
       "statement": "Considerando el origen de las jarchas, ¿qué se puede inferir sobre la cultura en la Península Ibérica durante la Edad Media?",
-      "context": "La lírica primitiva peninsular cuenta con las \"jarchas\", breves composiciones en mozárabe que aparecían al final de poemas árabes o hebreos.",
+      "context": "La lírica primitiva peninsular cuenta con las \"jarchas\", breves composiciones en mozárabe que aparecían al final de poemas árabes o hebreos.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v8",
       "statement": "¿Qué elemento de \"La Celestina\" marca un alejamiento de la moralidad medieval rígida y un acercamiento al pensamiento renacentista?",
-      "context": "En el siglo XV, la literatura comienza a mostrar un cambio hacia el humanismo, con obras como \"La Celestina\" que exploran pasiones humanas de forma más realista.",
+      "context": "En el siglo XV, la literatura comienza a mostrar un cambio hacia el humanismo, con obras como \"La Celestina\" que exploran pasiones humanas de forma más realista.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v9",
       "statement": "¿Qué efecto buscaba el autor al presentar a la Virgen María de forma cercana y maternal en sus relatos?",
-      "context": "Los \"Milagros de Nuestra Señora\" de Gonzalo de Berceo presentan a la Virgen María interviniendo en la vida de pecadores devotos.",
+      "context": "Los \"Milagros de Nuestra Señora\" de Gonzalo de Berceo presentan a la Virgen María interviniendo en la vida de pecadores devotos.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el mensaje socio-político implícito en el tema medieval de la \"omnipotencia de la muerte\"?",
-      "context": "Las danzas de la muerte eran textos y representaciones donde la Muerte llamaba a personas de todos los estratos sociales a bailar con ella.",
+      "context": "Las danzas de la muerte eran textos y representaciones donde la Muerte llamaba a personas de todos los estratos sociales a bailar con ella.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v11",
       "statement": "Desde una perspectiva crítica actual, ¿cómo se podría interpretar la relación entre el sistema feudal y la estructura del \"amor cortés\" en la literatura medieval?",
-      "context": "El amor cortés fue un código de conducta literario donde el poeta se declaraba vasallo de una dama inalcanzable, a menudo casada.",
+      "context": "El amor cortés fue un código de conducta literario donde el poeta se declaraba vasallo de una dama inalcanzable, a menudo casada.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W01-literatura-medieval-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la función pedagógica de la ambigüedad en el \"Libro de Buen Amor\", donde se advierte contra el amor \"loco\" (terrenal) pero se describe detalladamente?",
-      "context": "Durante el siglo XIV, autores como el Arcipreste de Hita en el \"Libro de Buen Amor\" mezclan lo sagrado con lo profano de una manera ambigua.",
+      "context": "Durante el siglo XIV, autores como el Arcipreste de Hita en el \"Libro de Buen Amor\" mezclan lo sagrado con lo profano de una manera ambigua.\n**Expected_Success:** 0.42",
       "options": [
         {
           "letter": "A",

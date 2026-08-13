@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición fundamental de la unidad imaginaria $i$?",
-      "context": "Definición de la unidad imaginaria.",
+      "context": "Definición de la unidad imaginaria.\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v2",
       "statement": "En el número complejo $z = 4 - 7i$, ¿cuáles son la parte real ($Re$) y la parte imaginaria ($Im$)?",
-      "context": "Partes de un número complejo.",
+      "context": "Partes de un número complejo.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el valor resultante de elevar $i$ a la potencia 4 ($i^4$)?",
-      "context": "Potencias de i.",
+      "context": "Potencias de i.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v4",
       "statement": "Realiza la siguiente suma: $(3 + 5i) + (2 - 8i)$.",
-      "context": "Suma de números complejos.",
+      "context": "Suma de números complejos.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v5",
       "statement": "Calcula el producto: $(2 + i)(3 - 2i)$.",
-      "context": "Multiplicación de números complejos.",
+      "context": "Multiplicación de números complejos.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v6",
       "statement": "Si $z = -5 + 2i$, ¿cuál es el producto de $z$ por su conjugado $\\bar{z}$?",
-      "context": "El conjugado de un número complejo.",
+      "context": "El conjugado de un número complejo.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v7",
       "statement": "Simplifica la expresión: $\\frac{10}{1 + 3i}$.",
-      "context": "División de números complejos.",
+      "context": "División de números complejos.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la distancia al origen (módulo) del número complejo $z = -3 + 4i$ en el plano de Argand?",
-      "context": "Módulo de un número complejo.",
+      "context": "Módulo de un número complejo.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v9",
       "statement": "Expresa $\\sqrt{-36} + \\sqrt{-64}$ en términos de $i$.",
-      "context": "Simplificación de raíces negativas.",
+      "context": "Simplificación de raíces negativas.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v10",
       "statement": "Calcula el valor de $i^{25}$.",
-      "context": "Potencias elevadas de i.",
+      "context": "Potencias elevadas de i.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v11",
       "statement": "¿Cuáles son las soluciones de la ecuación $x^2 + 9 = 0$?",
-      "context": "Ecuaciones cuadráticas con soluciones complejas.",
+      "context": "Ecuaciones cuadráticas con soluciones complejas.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el argumento (ángulo) en el plano de Argand del número complejo $z = 1 + i$?",
-      "context": "Forma trigonométrica/polar (conceptual).",
+      "context": "Forma trigonométrica/polar (conceptual).\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v13",
       "statement": "Calcula $(1 + i)^2$.",
-      "context": "Potencia de un binomio complejo.",
+      "context": "Potencia de un binomio complejo.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v14",
       "statement": "Si $z = a + bi$, ¿qué representa la expresión $\\frac{z + \\bar{z}}{2}$?",
-      "context": "Identidades con números complejos.",
+      "context": "Identidades con números complejos.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v15",
       "statement": "Simplifica la expresión $i^2 + i^4 + i^6 + i^8$.",
-      "context": "Resolución de sistemas con i.",
+      "context": "Resolución de sistemas con i.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v16",
       "statement": "Calcula el inverso multiplicativo de $i$.",
-      "context": "Inverso de un número complejo.",
+      "context": "Inverso de un número complejo.\n**Expected_Success:** 0.48",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v17",
       "statement": "Halla los valores de $x$ y $y$ (reales) que satisfacen la ecuación: $(x + yi)(2 - i) = 5 + 5i$.",
-      "context": "Ecuaciones complejas avanzadas.",
+      "context": "Ecuaciones complejas avanzadas.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el valor de $(1 + i)^{10}$?",
-      "context": "Raíces de la unidad.",
+      "context": "Raíces de la unidad.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v19",
       "statement": "Si el módulo de $z$ es 1 ($|z|=1$), ¿qué se puede afirmar sobre el número $\\frac{1}{z}$?",
-      "context": "Geometría de los complejos.",
+      "context": "Geometría de los complejos.\n**Expected_Success:** 0.32",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v20",
       "statement": "Calcula la suma de las potencias de $i$ desde $i^1$ hasta $i^{100}$: $\\sum_{n=1}^{100} i^n$.",
-      "context": "Aplicación teórica.",
+      "context": "Aplicación teórica.\n**Expected_Success:** 0.28",
       "options": [
         {
           "letter": "A",

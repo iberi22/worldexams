@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la función principal de los conectores textuales en la escritura?",
-      "context": "Los conectores son palabras o frases que sirven para unir ideas dentro de un párrafo o entre párrafos, dándole sentido global al texto.",
+      "context": "Los conectores son palabras o frases que sirven para unir ideas dentro de un párrafo o entre párrafos, dándole sentido global al texto.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v2",
       "statement": "¿Qué tipo de conectores ha utilizado Valentina para organizar sus actividades?",
-      "context": "Valentina quiere organizar su día: \"Primero desayunaré, luego iré a clase y finalmente haré la tarea\".",
+      "context": "Valentina quiere organizar su día: \"Primero desayunaré, luego iré a clase y finalmente haré la tarea\".\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v3",
       "statement": "¿Qué relación lógica establece el conector \"por lo tanto\" en la frase anterior?",
-      "context": "En un debate sobre el cuidado del agua en Colombia, un estudiante dice: \"Los páramos son vitales; **por lo tanto**, debemos protegerlos de la minería\".",
+      "context": "En un debate sobre el cuidado del agua en Colombia, un estudiante dice: \"Los páramos son vitales; **por lo tanto**, debemos protegerlos de la minería\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes opciones utiliza correctamente un conector de OPOSICIÓN?",
-      "context": "Los conectores de oposición sirven para contrastar dos ideas que parecen contrarias.",
+      "context": "Los conectores de oposición sirven para contrastar dos ideas que parecen contrarias.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v5",
       "statement": "¿Cuál de los siguientes conectores de ADICIÓN sería el más adecuado para que Santiago sume información nueva a su relato?",
-      "context": "Santiago está escribiendo un cuento sobre un viaje al Amazonas. Quiere añadir una idea más sobre los animales que vio.",
+      "context": "Santiago está escribiendo un cuento sobre un viaje al Amazonas. Quiere añadir una idea más sobre los animales que vio.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v6",
       "statement": "Identifica el error en el uso del conector en la siguiente frase: \"Me saqué una excelente nota en el examen, **porque** mis padres se pusieron muy felices\".",
-      "context": "Un texto sin conectores o con conectores mal usados pierde su coherencia y confunde al lector.",
+      "context": "Un texto sin conectores o con conectores mal usados pierde su coherencia y confunde al lector.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de las siguientes oraciones utiliza un conector EXPLICATIVO de manera correcta?",
-      "context": "Camila analiza el uso de conectores explicativos para aclarar una idea que puede ser difícil de entender.",
+      "context": "Camila analiza el uso de conectores explicativos para aclarar una idea que puede ser difícil de entender.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de estos conectores es el más apropiado para iniciar el párrafo de CIERRE de un texto argumentativo?",
-      "context": "Al escribir la conclusión de un ensayo sobre la paz en Colombia, es importante usar conectores que sinteticen lo dicho.",
+      "context": "Al escribir la conclusión de un ensayo sobre la paz en Colombia, es importante usar conectores que sinteticen lo dicho.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v9",
       "statement": "¿Qué efecto produciría en el sentido del texto si cambiamos \"No obstante\" por el conector \"Además\"?",
-      "context": "Un texto dice: \"La región de la Orinoquía tiene una gran riqueza hídrica. **No obstante**, la deforestación está amenazando sus ríos\".",
+      "context": "Un texto dice: \"La región de la Orinoquía tiene una gran riqueza hídrica. **No obstante**, la deforestación está amenazando sus ríos\".\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W13-conectores-textuales-001-MASTERY-bundle-v10",
       "statement": "Identifica el conector que falta para que la siguiente relación de CAUSA sea lógica: \"El joven no pudo terminar la carrera __________ se lesionó un tobillo durante el ascenso\".",
-      "context": "En Colombia, el uso de conectores como \"entonces\", \"así las cosas\" o \"dado que\" es muy frecuente en el lenguaje formal y en los medios de comunicación.",
+      "context": "En Colombia, el uso de conectores como \"entonces\", \"así las cosas\" o \"dado que\" es muy frecuente en el lenguaje formal y en los medios de comunicación.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",

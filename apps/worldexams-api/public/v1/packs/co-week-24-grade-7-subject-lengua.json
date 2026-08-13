@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la principal diferencia entre la **publicidad** y la **propaganda**?",
-      "context": "Aunque a menudo se usan como sinónimos, la publicidad y la propaganda tienen objetivos diferentes.",
+      "context": "Aunque a menudo se usan como sinónimos, la publicidad y la propaganda tienen objetivos diferentes.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la característica principal de un buen **eslogan**?",
-      "context": "El eslogan es una frase corta y memorable que identifica a una marca o campaña.",
+      "context": "El eslogan es una frase corta y memorable que identifica a una marca o campaña.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v3",
       "statement": "Un comercial de una bebida achocolatada muestra a un niño colombiano que, después de tomar el producto, se convierte en un gran deportista y abraza a su mamá. ¿Qué recurso persuasivo está usando?",
-      "context": "La publicidad utiliza diversos recursos persuasivos, entre ellos la apelación a las emociones.",
+      "context": "La publicidad utiliza diversos recursos persuasivos, entre ellos la apelación a las emociones.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de los siguientes es un ejemplo de **propaganda**?",
-      "context": "La propaganda institucional busca mejorar los comportamientos de la ciudadanía en beneficio de todos.",
+      "context": "La propaganda institucional busca mejorar los comportamientos de la ciudadanía en beneficio de todos.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v5",
       "statement": "Si ves una publicidad llena de colores neón, música urbana de moda y lenguaje juvenil, ¿quién es probablemente el **público objetivo**?",
-      "context": "El público objetivo o \"target\" es el grupo específico de personas al que se dirige un mensaje.",
+      "context": "El público objetivo o \"target\" es el grupo específico de personas al que se dirige un mensaje.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v6",
       "statement": "Analiza el siguiente anuncio: \"Detergente 'Limpiecito': para que mamá descanse mientras la ropa queda blanca\". ¿Qué **estereotipo de género** refuerza esta publicidad?",
-      "context": "Los estereotipos son imágenes simplificadas y generalizadas sobre grupos de personas que la publicidad suele repetir.",
+      "context": "Los estereotipos son imágenes simplificadas y generalizadas sobre grupos de personas que la publicidad suele repetir.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de las siguientes situaciones representa un caso de **publicidad engañosa**?",
-      "context": "La publicidad engañosa ocurre cuando se ocultan datos negativos o se exageran las cualidades de un producto de forma falsa.",
+      "context": "La publicidad engañosa ocurre cuando se ocultan datos negativos o se exageran las cualidades de un producto de forma falsa.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v8",
       "statement": "En una propaganda de salud pública, aparece la imagen de un pulmón gris y marchito junto al eslogan: \"El tabaco te consume\". ¿Cómo interactúan la imagen y el texto aquí?",
-      "context": "En la publicidad y propaganda, la imagen suele ser más importante que el texto. Esto se llama lenguaje visual.",
+      "context": "En la publicidad y propaganda, la imagen suele ser más importante que el texto. Esto se llama lenguaje visual.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v9",
       "statement": "Un famoso futbolista colombiano aparece en un comercial recomendando un banco nacional. Desde un punto de vista crítico, ¿qué relación real existe entre el futbolista y el banco?",
-      "context": "El uso de celebridades en la publicidad busca transferir el prestigio de la persona al producto.",
+      "context": "El uso de celebridades en la publicidad busca transferir el prestigio de la persona al producto.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v10",
       "statement": "Un afiche de propaganda muestra a un candidato sonriendo con niños de diferentes razas y el texto: \"La unión que necesitamos\". ¿Qué recurso de manipulación emocional podría estar presente aquí?",
-      "context": "El análisis crítico de la propaganda política es fundamental para una democracia saludable.",
+      "context": "El análisis crítico de la propaganda política es fundamental para una democracia saludable.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

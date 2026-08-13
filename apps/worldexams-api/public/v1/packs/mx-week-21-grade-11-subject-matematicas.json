@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v1",
       "statement": "Dada la función $f(x) = 3x - 5$, determine el valor del límite $\\lim_{x \\to 2} (3x - 5)$.",
-      "context": "Un estudiante de la UNAM analiza el comportamiento de una función lineal mientras la variable independiente se aproxima a un valor específico.",
+      "context": "Un estudiante de la UNAM analiza el comportamiento de una función lineal mientras la variable independiente se aproxima a un valor específico.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el valor del límite de una constante $k$ cuando $x$ tiende a cualquier valor $a$? $\\lim_{x \\to a} k$.",
-      "context": "En un laboratorio de física en Monterrey, se observa que la velocidad de una partícula se estabiliza según una función constante.",
+      "context": "En un laboratorio de física en Monterrey, se observa que la velocidad de una partícula se estabiliza según una función constante.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v3",
       "statement": "Calcule el valor del siguiente límite: $\\lim_{x \\to -1} (x^2 + 2x + 1)$.",
-      "context": "Un arquitecto en Guadalajara utiliza una función cuadrática para modelar la curvatura de un arco decorativo.",
+      "context": "Un arquitecto en Guadalajara utiliza una función cuadrática para modelar la curvatura de un arco decorativo.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v4",
       "statement": "Si $\\lim_{x \\to a} f(x) = 5$ y $\\lim_{x \\to a} g(x) = -2$, determine el valor de $\\lim_{x \\to a} [f(x) + g(x)]$.",
-      "context": "En una clase de matemáticas avanzadas, se discute la propiedad de la suma de límites.",
+      "context": "En una clase de matemáticas avanzadas, se discute la propiedad de la suma de límites.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v5",
       "statement": "Calcule el límite: $\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$.",
-      "context": "Un ingeniero civil analiza el esfuerzo en un material mediante una función racional que presenta una indeterminación inicial.",
+      "context": "Un ingeniero civil analiza el esfuerzo en un material mediante una función racional que presenta una indeterminación inicial.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v6",
       "statement": "Determine el valor del límite: $\\lim_{x \\to -2} \\frac{x^2 + 5x + 6}{x + 2}$.",
-      "context": "En un estudio de mercado, se analiza la tendencia de precios mediante una función que requiere simplificación algebraica.",
+      "context": "En un estudio de mercado, se analiza la tendencia de precios mediante una función que requiere simplificación algebraica.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el valor del límite al infinito de la función $f(x) = \\frac{4x + 1}{2x - 5}$? $\\lim_{x \\to \\infty} \\frac{4x + 1}{2x - 5}$.",
-      "context": "Un biólogo en Chiapas modela el crecimiento de una población de bacterias que se ve frenado por la capacidad de carga del entorno.",
+      "context": "Un biólogo en Chiapas modela el crecimiento de una población de bacterias que se ve frenado por la capacidad de carga del entorno.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v8",
       "statement": "Identifique el valor del límite especial: $\\lim_{x \\to \\infty} (1 + \\frac{1}{x})^x$.",
-      "context": "Un financiero calcula el interés compuesto continuo y se encuentra con el número de Euler expresado como un límite.",
+      "context": "Un financiero calcula el interés compuesto continuo y se encuentra con el número de Euler expresado como un límite.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v9",
       "statement": "Dada la función $f(x) = \\begin{cases} x + 2 & \\text{si } x < 1 \\\\ 4 - x & \\text{si } x \\geq 1 \\end{cases}$, calcule $\\lim_{x \\to 1^-} f(x)$.",
-      "context": "Un estudiante de ingeniería en el IPN analiza la continuidad de una función definida a trozos.",
+      "context": "Un estudiante de ingeniería en el IPN analiza la continuidad de una función definida a trozos.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v10",
       "statement": "Determine $\\lim_{x \\to 0} \\frac{\\sin(x)}{x}$.",
-      "context": "Un técnico evalúa la estabilidad de un sistema electrónico cuya señal se comporta como una función racional.",
+      "context": "Un técnico evalúa la estabilidad de un sistema electrónico cuya señal se comporta como una función racional.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v11",
       "statement": "Calcule el siguiente límite utilizando racionalización: $\\lim_{x \\to 0} \\frac{\\sqrt{x+1} - 1}{x}$.",
-      "context": "Un analista de sistemas estudia la latencia de una red mediante una función que incluye raíces cuadradas.",
+      "context": "Un analista de sistemas estudia la latencia de una red mediante una función que incluye raíces cuadradas.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v12",
       "statement": "Determine el valor de $\\lim_{x \\to \\infty} \\frac{3x^2 - 5x + 2}{x^3 + 4x}$.",
-      "context": "Un físico en la Ciudad de México estudia el comportamiento asintótico de un campo gravitacional teórico.",
+      "context": "Un físico en la Ciudad de México estudia el comportamiento asintótico de un campo gravitacional teórico.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el valor de $\\lim_{x \\to 2} \\frac{|x - 2|}{x - 2}$?",
-      "context": "Un matemático investiga la existencia del límite en un punto donde la función cambia su comportamiento abruptamente.",
+      "context": "Un matemático investiga la existencia del límite en un punto donde la función cambia su comportamiento abruptamente.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v14",
       "statement": "Evalúe $\\lim_{x \\to 0^+} \\frac{1}{x}$.",
-      "context": "En un curso de cálculo integral, se analiza el comportamiento de una función cerca de su asíntota vertical.",
+      "context": "En un curso de cálculo integral, se analiza el comportamiento de una función cerca de su asíntota vertical.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v15",
       "statement": "Determine $\\lim_{x \\to 1} \\frac{x^3 - 1}{x^2 - 1}$.",
-      "context": "Un estudiante de economía revisa un modelo de costos que incluye una función racional compleja.",
+      "context": "Un estudiante de economía revisa un modelo de costos que incluye una función racional compleja.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v16",
       "statement": "Calcule $\\lim_{x \\to \\infty} \\frac{\\sqrt{4x^2 + 3}}{3x - 1}$.",
-      "context": "En un laboratorio químico, se mide la concentración de un reactivo que sigue una función con una asíntota horizontal.",
+      "context": "En un laboratorio químico, se mide la concentración de un reactivo que sigue una función con una asíntota horizontal.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v17",
       "statement": "Utilice el Teorema del Emparedado (o del Sandwich) para calcular $\\lim_{x \\to 0} x^2 \\sin(\\frac{1}{x})$.",
-      "context": "Un investigador de la BUAP estudia una función de distribución de probabilidad que requiere el uso del Teorema del Emparedado.",
+      "context": "Un investigador de la BUAP estudia una función de distribución de probabilidad que requiere el uso del Teorema del Emparedado.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v18",
       "statement": "Determine el valor de $\\lim_{x \\to \\infty} \\frac{\\sin(x)}{x}$.",
-      "context": "Un experto en óptica analiza la difracción de la luz mediante el comportamiento de funciones trigonométricas en el infinito.",
+      "context": "Un experto en óptica analiza la difracción de la luz mediante el comportamiento de funciones trigonométricas en el infinito.\n**Expected_Success:** 0.25",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v19",
       "statement": "Calcule el valor del límite: $\\lim_{x \\to 0} (1 + 2x)^{1/x}$.",
-      "context": "Un estudiante de posgrado en el CINVESTAV analiza una indeterminación del tipo $1^\\infty$ en un proceso termodinámico.",
+      "context": "Un estudiante de posgrado en el CINVESTAV analiza una indeterminación del tipo $1^\\infty$ en un proceso termodinámico.\n**Expected_Success:** 0.20",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W21-calculo-limites-001-MASTERY-bundle-v20",
       "statement": "Determine $\\lim_{x \\to \\infty} (\\frac{x + 3}{x - 1})^x$.",
-      "context": "Un ingeniero de software optimiza un algoritmo cuya complejidad sigue una función con parámetros exponenciales.",
+      "context": "Un ingeniero de software optimiza un algoritmo cuya complejidad sigue una función con parámetros exponenciales.\n**Expected_Success:** 0.15",
       "options": [
         {
           "letter": "A",

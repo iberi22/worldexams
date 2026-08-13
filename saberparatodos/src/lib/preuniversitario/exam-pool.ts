@@ -96,8 +96,21 @@ export function parsePreuBundleQuestions(frontmatter: BundleFrontmatter, body: s
   const questions: AppQuestion[] = [];
   const sectionRegex = /##\s+Pregunta\s+(\d+(?:-\d+)?)\s*\(([^)]+)\)\s*([\s\S]*?)(?=\r?\n---|\r?\n##\s+Pregunta|\s*$)/gi;
 
+  const textoBaseMatches = [...body.matchAll(/##\s*Texto\s*base[^\n]*\n([\s\S]*?)(?=\n##\s*Pregunta|\n##\s*Question|$)/gi)];
+  const tbHeaders = textoBaseMatches.map(m => ({ index: m.index, text: m[1].trim() }));
+
   let match: RegExpExecArray | null;
   while ((match = sectionRegex.exec(body)) !== null) {
+    const qPos = match.index;
+    let bestTb = null;
+    for (const tb of tbHeaders) {
+      if (tb.index < qPos) {
+        if (!bestTb || tb.index > bestTb.index) {
+          bestTb = tb;
+        }
+      }
+    }
+
     const sectionHeader = match[2];
     const sectionBody = match[3];
     const difficultyMatch = sectionHeader.match(/Nivel:\s*(\d+)/i);
@@ -105,7 +118,15 @@ export function parsePreuBundleQuestions(frontmatter: BundleFrontmatter, body: s
 
     const idMatch = sectionBody.match(/\*\*ID:\*\*\s*["`]?([^"`\r\n]+)["`]?/i);
     const questionId = idMatch?.[1]?.trim();
+
+    const contextHeadingMatch = sectionBody.match(/###\s*(?:Contexto|Context|Texto)\s*([\s\S]*?)(?=\r?\n###\s+(?:Enunciado|Opciones)|\r?\n---|$)/i);
+    const contextInlineMatch = sectionBody.match(/\*\*(?:Contexto|Context):\*\*\s*([\s\S]*?)(?=\r?\n###\s+(?:Enunciado|Opciones)|\r?\n\s*(?:-\s*)?\[|$)/i);
+    const context = contextHeadingMatch ? contextHeadingMatch[1].trim() : (contextInlineMatch ? contextInlineMatch[1].trim() : (bestTb ? bestTb.text : undefined));
+
     const textMatch = sectionBody.match(/###\s+Enunciado\s+([\s\S]*?)(?=\r?\n###\s+Opciones|\r?\n###\s+Explicación|\r?\n---|$)/i);
+    let text = textMatch ? textMatch[1].trim() : '';
+    text = text.replace(/\*\*(?:Context|Contexto):\*\*\s*([\s\S]*?)(?=\r?\n###\s+(?:Enunciado|Opciones)|\r?\n\s*(?:-\s*)?\[|$)/gi, "").trim();
+
     const optionsMatch = sectionBody.match(/###\s+Opciones\s+([\s\S]*?)(?=\r?\n###\s+Explicación|\r?\n---|$)/i);
     const explanationMatch = sectionBody.match(/###\s+Explicación(?:\s+Pedagógica)?\s+([\s\S]*?)(?=\r?\n---|$)/i);
 
@@ -116,7 +137,7 @@ export function parsePreuBundleQuestions(frontmatter: BundleFrontmatter, body: s
 
     questions.push({
       id: questionId,
-      text: textMatch[1].trim(),
+      text,
       options,
       correctOptionId,
       category: `${frontmatter.asignatura.toUpperCase()} :: ${frontmatter.tema.toUpperCase()}`,
@@ -124,6 +145,7 @@ export function parsePreuBundleQuestions(frontmatter: BundleFrontmatter, body: s
       grade: frontmatter.grado,
       difficulty,
       bundleId: frontmatter.id,
+      context,
       topics: [frontmatter.tema],
       protocol_version: frontmatter.protocol_version,
     });

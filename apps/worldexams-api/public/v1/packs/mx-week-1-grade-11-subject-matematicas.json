@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v1",
       "statement": "¿A qué conjunto numérico pertenece el número √25?",
-      "context": "Un estudiante de la Escuela Nacional Preparatoria en la CDMX clasifica diferentes tipos de números encontrados en su libro de texto.",
+      "context": "Un estudiante de la Escuela Nacional Preparatoria en la CDMX clasifica diferentes tipos de números encontrados en su libro de texto.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v2",
       "statement": "Si un producto pesa 0.75 kg, ¿cuál es su representación en forma de fracción simplificada?",
-      "context": "En una tienda de abarrotes en Guadalajara, se utilizan diferentes unidades para medir el peso de los productos.",
+      "context": "En una tienda de abarrotes en Guadalajara, se utilizan diferentes unidades para medir el peso de los productos.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v3",
       "statement": "¿Cuál de los siguientes números es un ejemplo de un número irracional?",
-      "context": "Durante una clase de matemáticas en Monterrey, el profesor explica las propiedades de los números reales.",
+      "context": "Durante una clase de matemáticas en Monterrey, el profesor explica las propiedades de los números reales.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v4",
       "statement": "¿Qué fracción representa exactamente el número decimal periódico 0.333...?",
-      "context": "Un carpintero en Puebla necesita cortar una tabla de madera y realiza marcas cada 0.333... metros.",
+      "context": "Un carpintero en Puebla necesita cortar una tabla de madera y realiza marcas cada 0.333... metros.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v5",
       "statement": "Si la temperatura inicial es de -5°C y desciende 8°C más, ¿cuál es la temperatura final resultante?",
-      "context": "Un meteorólogo en Toluca registra temperaturas bajo cero durante el invierno.",
+      "context": "Un meteorólogo en Toluca registra temperaturas bajo cero durante el invierno.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v6",
       "statement": "Si el valor de la acción aumenta un 10% y luego disminuye un 10%, ¿cuál es el valor final de la acción?",
-      "context": "Un inversionista en la Bolsa Mexicana de Valores analiza las variaciones de una acción que cerró en $45.50 pesos.",
+      "context": "Un inversionista en la Bolsa Mexicana de Valores analiza las variaciones de una acción que cerró en $45.50 pesos.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v7",
       "statement": "¿Cuánta harina se necesita para preparar 2.5 porciones de la misma receta?",
-      "context": "En una receta de cocina típica de Oaxaca, se requieren 3/4 de taza de harina para una porción.",
+      "context": "En una receta de cocina típica de Oaxaca, se requieren 3/4 de taza de harina para una porción.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la distancia total recorrida por el ciclista en ambas etapas?",
-      "context": "Un ciclista en una competencia en Querétaro recorre 15.4 km en la primera etapa y 12 3/5 km en la segunda.",
+      "context": "Un ciclista en una competencia en Querétaro recorre 15.4 km en la primera etapa y 12 3/5 km en la segunda.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v9",
       "statement": "El arquitecto determina que la diagonal mide √2 metros. ¿Cuál es la propiedad principal de este número?",
-      "context": "Un arquitecto en Cancún mide la diagonal de una base cuadrada de 1 metro por lado.",
+      "context": "Un arquitecto en Cancún mide la diagonal de una base cuadrada de 1 metro por lado.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v10",
       "statement": "¿Qué cantidad de dinero recibirá el tercer ganador?",
-      "context": "Se desea repartir un premio de $10,000 pesos entre tres ganadores de forma que el primero reciba 2/5, el segundo 1/4 y el tercero el resto.",
+      "context": "Se desea repartir un premio de $10,000 pesos entre tres ganadores de forma que el primero reciba 2/5, el segundo 1/4 y el tercero el resto.\n**Expected_Success:** 0.63",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v11",
       "statement": "Si a = -3.5 y b = 2.8, ¿cuál es el valor de la posición x?",
-      "context": "Un científico en un laboratorio de la UNAM analiza el comportamiento de una partícula cuya posición x se define por x = |a - b|.",
+      "context": "Un científico en un laboratorio de la UNAM analiza el comportamiento de una partícula cuya posición x se define por x = |a - b|.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v12",
       "statement": "¿A cuánto equivale la expresión (2³ * 2⁴) / 2⁵?",
-      "context": "Un examen de admisión requiere simplificar expresiones con potencias y raíces.",
+      "context": "Un examen de admisión requiere simplificar expresiones con potencias y raíces.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v13",
       "statement": "Si un número es -4/5, ¿cuál es su inverso aditivo y cuál su recíproco (inverso multiplicativo)?",
-      "context": "En un problema de física, se requiere calcular el inverso aditivo y el recíproco de un número dado.",
+      "context": "En un problema de física, se requiere calcular el inverso aditivo y el recíproco de un número dado.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v14",
       "statement": "Si a = 3 y b = 4, ¿cuál es el valor de R simplificado a fracción?",
-      "context": "Un ingeniero civil en Monterrey calcula la resistencia de una viga usando la fórmula R = √(a² + b²) / (a + b).",
+      "context": "Un ingeniero civil en Monterrey calcula la resistencia de una viga usando la fórmula R = √(a² + b²) / (a + b).\n**Expected_Success:** 0.53",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v15",
       "statement": "¿Cuál de los siguientes números se encuentra exactamente a la mitad de la distancia entre 1/4 y 1/2?",
-      "context": "Un estudiante analiza la densidad de los números racionales en la recta numérica.",
+      "context": "Un estudiante analiza la densidad de los números racionales en la recta numérica.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v16",
       "statement": "¿Bajo qué operación el conjunto de los números enteros (Z) NO cumple con la propiedad de cierre?",
-      "context": "Se plantea una situación de lógica numérica sobre las propiedades de cierre en los conjuntos numéricos.",
+      "context": "Se plantea una situación de lógica numérica sobre las propiedades de cierre en los conjuntos numéricos.\n**Expected_Success:** 0.48",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el valor simplificado de (1/3)⁻² + (1/2)⁻³?",
-      "context": "Un programador en una startup de tecnología en la CDMX necesita optimizar un cálculo que involucra potencias negativas.",
+      "context": "Un programador en una startup de tecnología en la CDMX necesita optimizar un cálculo que involucra potencias negativas.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v18",
       "statement": "Calcula el resultado de: [ 2 * (3 - 5)² - √16 ] / ( -2 )",
-      "context": "Se presenta una expresión compleja que combina varias operaciones fundamentales con números reales.",
+      "context": "Se presenta una expresión compleja que combina varias operaciones fundamentales con números reales.\n**Expected_Success:** 0.42",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v19",
       "statement": "Si x = 0.999..., ¿cuál es el valor exacto de x según las reglas de conversión de decimales periódicos a fracciones?",
-      "context": "Un estudiante de ingeniería analiza la relación entre decimales periódicos y fracciones para resolver un problema de precisión.",
+      "context": "Un estudiante de ingeniería analiza la relación entre decimales periódicos y fracciones para resolver un problema de precisión.\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W01-algebra-numeros-reales-001-MASTERY-bundle-v20",
       "statement": "¿Cuál de las siguientes afirmaciones es CORRECTA sobre el conjunto de los números reales?",
-      "context": "Un problema desafiante sobre la propiedad de densidad de los números reales.",
+      "context": "Un problema desafiante sobre la propiedad de densidad de los números reales.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",

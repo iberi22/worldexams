@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v1",
       "statement": "¿Cuáles son los tres géneros literarios clásicos?",
-      "context": "En la clase de Lengua Castellana del Colegio San Bartolomé de Bogotá, la profesora Carolina pregunta sobre los géneros literarios tradicionales.",
+      "context": "En la clase de Lengua Castellana del Colegio San Bartolomé de Bogotá, la profesora Carolina pregunta sobre los géneros literarios tradicionales.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v2",
       "statement": "¿A qué género literario pertenece el texto que está leyendo María?",
-      "context": "María lee un texto que comienza: \"En un pueblo de la costa Caribe colombiana, cerca de Cartagena, vivía un pescador llamado Pedro...\" y se pregunta a qué género pertenece.",
+      "context": "María lee un texto que comienza: \"En un pueblo de la costa Caribe colombiana, cerca de Cartagena, vivía un pescador llamado Pedro...\" y se pregunta a qué género pertenece.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v3",
       "statement": "¿Cuál de las siguientes es una característica principal del género lírico?",
-      "context": "En el colegio de Medellín, Andrés debe identificar las características del género lírico para su exposición.",
+      "context": "En el colegio de Medellín, Andrés debe identificar las características del género lírico para su exposición.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v4",
       "statement": "¿A qué género literario pertenece la obra que Laura está viendo?",
-      "context": "Laura asiste a una obra de teatro en el Teatro Colón de Bogotá. La obra tiene personajes que dialogan entre sí, acotaciones escénicas y está dividida en actos.",
+      "context": "Laura asiste a una obra de teatro en el Teatro Colón de Bogotá. La obra tiene personajes que dialogan entre sí, acotaciones escénicas y está dividida en actos.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v5",
       "statement": "¿Qué diferencia fundamental hay entre el cuento de García Márquez (narrativo) y el poema de Silva (lírico)?",
-      "context": "En clase, el profesor de Lengua del colegio de Cali muestra dos textos: un cuento de Gabriel García Márquez y un poema de José Asunción Silva.",
+      "context": "En clase, el profesor de Lengua del colegio de Cali muestra dos textos: un cuento de Gabriel García Márquez y un poema de José Asunción Silva.\n**Expected_Success:** 0.76",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v6",
       "statement": "¿Qué elementos del género dramático identifica Valentina en este fragmento?",
-      "context": "Valentina encuentra un texto en la biblioteca de su colegio en Barranquilla que tiene esta estructura: \"Acto I, Escena 1. (Salón de una casa campesina. Sentada frente a una ventana, JULIA cose una camisa.)\".",
+      "context": "Valentina encuentra un texto en la biblioteca de su colegio en Barranquilla que tiene esta estructura: \"Acto I, Escena 1. (Salón de una casa campesina. Sentada frente a una ventana, JULIA cose una camisa.)\".\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v7",
       "statement": "\"¡Oh selva, esposa del dolor, madre de la penumbra! En tus dominios la vida se estremece y la muerte acecha...\" ¿Qué género literario predomina en este fragmento?",
-      "context": "Santiago lee un fragmento de \"La Vorágine\" de José Eustasio Rivera en su clase de Lengua en el colegio de Bucaramanga y debe clasificarlo por género.",
+      "context": "Santiago lee un fragmento de \"La Vorágine\" de José Eustasio Rivera en su clase de Lengua en el colegio de Bucaramanga y debe clasificarlo por género.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v8",
       "statement": "¿Puede un texto con solo diálogos pertenecer al género narrativo en lugar del dramático?",
-      "context": "En el colegio de Pereira, el profesor pide a los estudiantes analizar un fragmento que contiene diálogos de personajes, pero no hay acotaciones ni indicaciones de representación. Es solo la conversación escrita.",
+      "context": "En el colegio de Pereira, el profesor pide a los estudiantes analizar un fragmento que contiene diálogos de personajes, pero no hay acotaciones ni indicaciones de representación. Es solo la conversación escrita.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la clasificación correcta de \"Cien Años de Soledad\" dentro de los géneros literarios?",
-      "context": "Camila debe clasificar \"Cien Años de Soledad\" de Gabriel García Márquez según los géneros literarios. Algunos dicen que es realismo mágico, otros que es narrativa.",
+      "context": "Camila debe clasificar \"Cien Años de Soledad\" de Gabriel García Márquez según los géneros literarios. Algunos dicen que es realismo mágico, otros que es narrativa.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v10",
       "statement": "Este texto en verso que narra hazañas heroicas, ¿a qué género o subgénero pertenece?",
-      "context": "Isabella encuentra un texto anónimo del siglo XIX que narra las hazañas de un héroe popular colombiano durante la independencia, escrito en versos octosílabos.",
+      "context": "Isabella encuentra un texto anónimo del siglo XIX que narra las hazañas de un héroe popular colombiano durante la independencia, escrito en versos octosílabos.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",

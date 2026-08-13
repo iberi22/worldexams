@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes condiciones es indispensable para que un texto tenga coherencia global?",
-      "context": "La coherencia es la propiedad del texto que permite que este sea percibido como una unidad con sentido global.",
+      "context": "La coherencia es la propiedad del texto que permite que este sea percibido como una unidad con sentido global.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v2",
       "statement": "En la frase: \"Fuimos a visitar el Castillo de San Felipe en Cartagena. **Allí** conocimos la historia de las fortificaciones\", ¿a qué palabra se refiere el término resaltado?",
-      "context": "Los mecanismos de cohesión, como la referencia anafórica, ayudan a mantener la coherencia sin repetir palabras.",
+      "context": "Los mecanismos de cohesión, como la referencia anafórica, ayudan a mantener la coherencia sin repetir palabras.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v3",
       "statement": "¿En qué oración se ha aplicado correctamente la **elipsis** del sujeto para evitar la repetición innecesaria?",
-      "context": "La elipsis es un mecanismo de coherencia que consiste en omitir elementos que se sobreentienden por el contexto.",
+      "context": "La elipsis es un mecanismo de coherencia que consiste en omitir elementos que se sobreentienden por el contexto.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v4",
       "statement": "Identifica el par de palabras que permite una sustitución léxica adecuada en un texto sobre la fauna colombiana:",
-      "context": "La sustitución léxica por sinonimia evita la monotonía y enriquece el vocabulario de un texto.",
+      "context": "La sustitución léxica por sinonimia evita la monotonía y enriquece el vocabulario de un texto.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v5",
       "statement": "¿Cuál de las siguientes secuencias de oraciones **carece** de coherencia lineal?",
-      "context": "La coherencia lineal o local se encarga de la conexión lógica entre oraciones consecutivas.",
+      "context": "La coherencia lineal o local se encarga de la conexión lógica entre oraciones consecutivas.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v6",
       "statement": "Lee el siguiente fragmento: \"Para mejorar la convivencia escolar, debemos tomar varias medidas. **En primer lugar**, fomentar el diálogo. **Por otra parte**, establecer normas claras. **Finalmente**, involucrar a los padres de familia\".\n\n¿Qué tipo de progresión temática se observa gracias a estos marcadores?",
-      "context": "Los marcadores discursivos de ordenación ayudan a estructurar el texto y guiar al lector en su progresión.",
+      "context": "Los marcadores discursivos de ordenación ayudan a estructurar el texto y guiar al lector en su progresión.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v7",
       "statement": "En la oración: \"En la huerta sembramos lechugas, zanahorias y tomates; todas estas **hortalizas** crecieron sanas\", ¿qué función cumple la palabra resaltada?",
-      "context": "El uso de hiperónimos es un mecanismo de sustitución que permite generalizar para mantener la cohesión.",
+      "context": "El uso de hiperónimos es un mecanismo de sustitución que permite generalizar para mantener la cohesión.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de las siguientes oraciones contiene una **catáfora**?",
-      "context": "La referencia catafórica es un mecanismo que anticipa información que aparecerá más adelante en el texto.",
+      "context": "La referencia catafórica es un mecanismo que anticipa información que aparecerá más adelante en el texto.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v9",
       "statement": "Analiza el siguiente texto: \"Aunque no tenía dinero, decidió comprarse un carro de lujo. Por lo tanto, se quedó sin ahorros para pagar el arriendo de su casa en Bogotá\".\n\n¿Cómo evaluarías este texto desde la coherencia y la cohesión?",
-      "context": "Un texto puede ser cohesivo (tener conectores y referencias) pero carecer de coherencia si las ideas son absurdas o contradictorias.",
+      "context": "Un texto puede ser cohesivo (tener conectores y referencias) pero carecer de coherencia si las ideas son absurdas o contradictorias.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W18-mecanismos-coherencia-001-MASTERY-bundle-v10",
       "statement": "¿En qué punto se rompe la coherencia del siguiente argumento sobre la educación?\n\"Es fundamental invertir más presupuesto en las escuelas públicas del país para mejorar la calidad educativa. No obstante, el gobierno debería reducir los impuestos que financian la educación para no afectar a los empresarios, pues de todas formas el dinero no se necesita tanto si los profesores trabajan por vocación\".",
-      "context": "En la redacción de ensayos, la contradicción es el mayor enemigo de la coherencia.",
+      "context": "En la redacción de ensayos, la contradicción es el mayor enemigo de la coherencia.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

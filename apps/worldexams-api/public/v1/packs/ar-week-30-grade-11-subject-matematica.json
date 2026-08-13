@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes es una condición necesaria para que una función f(x) sea continua en x = a?",
-      "context": "Un estudiante de la Escuela Técnica N°1 de San Martín está analizando la gráfica de una función sin levantar el lápiz del papel.",
+      "context": "Un estudiante de la Escuela Técnica N°1 de San Martín está analizando la gráfica de una función sin levantar el lápiz del papel.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Contexto:** Concepto intuitivo de continuidad.\n**Expected_Success:** 0.92",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la condición final que asegura la continuidad tras verificar que existen f(c) y el límite de f(x) cuando x → c?",
-      "context": "En un examen de matemáticas, se pide verificar la continuidad de una función en un punto x = c.",
+      "context": "En un examen de matemáticas, se pide verificar la continuidad de una función en un punto x = c.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Contexto:** Definición formal de continuidad.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v3",
       "statement": "¿Cómo se clasifica la discontinuidad en x = 2 si el límite de f(x) cuando x → 2 existe y es finito?",
-      "context": "Se observa una función f(x) = (x² - 4) / (x - 2). La función no está definida en x = 2.",
+      "context": "Se observa una función f(x) = (x² - 4) / (x - 2). La función no está definida en x = 2.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Contexto:** Tipos de discontinuidad.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v4",
       "statement": "¿Qué tipo de discontinuidad presenta f(x) = 1/x en x = 0?",
-      "context": "Se analiza la función f(x) = 1/x en el punto x = 0.",
+      "context": "Se analiza la función f(x) = 1/x en el punto x = 0.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Contexto:** Discontinuidades infinitas.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v5",
       "statement": "¿Cuál debe ser el valor de k para que f(x) sea continua en x = 1?",
-      "context": "Una función f(x) está definida por:\n- f(x) = x² + 2 si x ≤ 1\n- f(x) = kx si x > 1",
+      "context": "Una función f(x) está definida por:\n- f(x) = x² + 2 si x ≤ 1\n- f(x) = kx si x > 1\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v5\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Contexto:** Determinación de parámetros para asegurar continuidad.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v6",
       "statement": "¿Cuáles son los puntos de discontinuidad de f(x)?",
-      "context": "Se estudia la función f(x) = (x + 3) / (x² - 9).",
+      "context": "Se estudia la función f(x) = (x + 3) / (x² - 9).\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v6\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Contexto:** Análisis de puntos de discontinuidad.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v7",
       "statement": "¿Qué tipo de discontinuidad hay en x = -3 y en x = 3 respectivamente?",
-      "context": "Usando la función anterior f(x) = (x + 3) / (x² - 9), se analizan los tipos de discontinuidad.",
+      "context": "Usando la función anterior f(x) = (x + 3) / (x² - 9), se analizan los tipos de discontinuidad.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v7\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Contexto:** Clasificación de discontinuidades en una misma función.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v8",
       "statement": "¿Qué tipo de discontinuidad representa este cambio brusco de precio en x = 5 kg?",
-      "context": "Una empresa de transporte en Córdoba cobra un cargo fijo por km recorrido, pero el precio cambia bruscamente si el paquete pesa más de 5 kg.",
+      "context": "Una empresa de transporte en Córdoba cobra un cargo fijo por km recorrido, pero el precio cambia bruscamente si el paquete pesa más de 5 kg.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v8\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Contexto:** Aplicación real de funciones discontinuas.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la hipótesis principal del Teorema de Bolzano para una función f(x) en el intervalo [a, b]?",
-      "context": "El Teorema de Bolzano se utiliza para asegurar la existencia de raíces en funciones continuas.",
+      "context": "El Teorema de Bolzano se utiliza para asegurar la existencia de raíces en funciones continuas.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v9\n**Bloom:** Remember\n**EJE:** Álgebra y Funciones\n**Contexto:** Teoremas de funciones continuas.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v10",
       "statement": "¿Podemos asegurar que existe una raíz de f(x) entre 0 y 1?",
-      "context": "Se analiza la función f(x) = x³ + x - 1 en el intervalo [0, 1].",
+      "context": "Se analiza la función f(x) = x³ + x - 1 en el intervalo [0, 1].\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Contexto:** Aplicación práctica del Teorema de Bolzano.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v11",
       "statement": "¿Es f(x) continua en x = 1? Si no lo es, ¿cómo se podría redefinir para que lo sea?",
-      "context": "Se evalúa la continuidad de f(x) = (x² - x) / (x - 1).",
+      "context": "Se evalúa la continuidad de f(x) = (x² - x) / (x - 1).\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Contexto:** Análisis de funciones con huecos.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v12",
       "statement": "¿En qué puntos es discontinua la función parte entera?",
-      "context": "Consideramos la función f(x) = E(x) (Parte entera o Función Piso, que devuelve el mayor entero menor o igual a x).",
+      "context": "Consideramos la función f(x) = E(x) (Parte entera o Función Piso, que devuelve el mayor entero menor o igual a x).\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Contexto:** Funciones especiales y continuidad.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v13",
       "statement": "¿Qué tipo de discontinuidad presenta esta función en x = 0?",
-      "context": "Analizamos la continuidad de f(x) = sen(1/x) para x ≠ 0 y f(0) = 0.",
+      "context": "Analizamos la continuidad de f(x) = sen(1/x) para x ≠ 0 y f(0) = 0.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Contexto:** Discontinuidades por oscilación.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v14",
       "statement": "Según el Teorema de Weierstrass, ¿qué podemos asegurar sobre f(x)?",
-      "context": "Se sabe que f(x) es continua en el intervalo cerrado [2, 5].",
+      "context": "Se sabe que f(x) es continua en el intervalo cerrado [2, 5].\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v14\n**Bloom:** Understand\n**EJE:** Álgebra y Funciones\n**Contexto:** Propiedades de funciones continuas en compactos.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v15",
       "statement": "¿Cuál debe ser el valor de 'a'?",
-      "context": "Se busca el valor de 'a' para que la función f(x) sea continua en todo R:\n- f(x) = (x² - a²) / (x - a) si x ≠ a\n- f(x) = 8 si x = a",
+      "context": "Se busca el valor de 'a' para que la función f(x) sea continua en todo R:\n- f(x) = (x² - a²) / (x - a) si x ≠ a\n- f(x) = 8 si x = a\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Álgebra y Funciones\n**Contexto:** Parámetros en funciones con discontinuidades salvables.\n**Expected_Success:** 0.64",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v16",
       "statement": "¿Qué podemos afirmar sobre el signo de f(x) en todo el intervalo (1, 10)?",
-      "context": "Una función f(x) es continua y no tiene raíces en el intervalo [1, 10]. Se sabe que f(5) = 4.",
+      "context": "Una función f(x) es continua y no tiene raíces en el intervalo [1, 10]. Se sabe que f(5) = 4.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Álgebra y Funciones\n**Contexto:** Consecuencias de la continuidad y Bolzano.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v17",
       "statement": "¿Es posible redefinir f(1) para que la función sea continua en x = 1?",
-      "context": "Consideramos la función f(x) = (x - 1) / |x - 1|.",
+      "context": "Consideramos la función f(x) = (x - 1) / |x - 1|.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Contexto:** Análisis exhaustivo de discontinuidades de salto.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el argumento más sólido utilizando los contenidos vistos?",
-      "context": "Se busca demostrar que la ecuación x³ + x² + x - 1 = 0 tiene al menos una raíz real.",
+      "context": "Se busca demostrar que la ecuación x³ + x² + x - 1 = 0 tiene al menos una raíz real.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Contexto:** Resolución de ecuaciones mediante teoremas de continuidad.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v19",
       "statement": "¿Es f(x) continua en x = 0?",
-      "context": "Analizamos la función f(x) = x * E(x) en el punto x = 0. Recordar que E(x) es la parte entera.",
+      "context": "Analizamos la función f(x) = x * E(x) en el punto x = 0. Recordar que E(x) es la parte entera.\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Contexto:** Continuidad en funciones producto.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v20",
       "statement": "¿Qué asegura el Teorema del Valor Intermedio?",
-      "context": "Se plantea el Teorema del Valor Intermedio (Darboux): si f es continua en [a, b] y k es un valor entre f(a) y f(b)...",
+      "context": "Se plantea el Teorema del Valor Intermedio (Darboux): si f es continua en [a, b] y k es un valor entre f(a) y f(b)...\n\n**ID:** AR-MAT-11-2026-W30-continuidad-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Álgebra y Funciones\n**Contexto:** Generalización del Teorema de Bolzano.\n**Expected_Success:** 0.48",
       "options": [
         {
           "letter": "A",

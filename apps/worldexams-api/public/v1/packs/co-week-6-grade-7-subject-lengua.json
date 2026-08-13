@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se denomina al movimiento literario que busca capturar y describir de manera detallada las costumbres, tradiciones y el lenguaje popular de un pueblo o región?",
-      "context": "A mediados del siglo XIX en Colombia, surgió un movimiento interesado en retratar las tradiciones, el habla y los tipos sociales de las regiones.",
+      "context": "A mediados del siglo XIX en Colombia, surgió un movimiento interesado en retratar las tradiciones, el habla y los tipos sociales de las regiones.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el objetivo principal de un \"cuadro de costumbres\"?",
-      "context": "Un estudiante lee un cuadro de costumbres donde se describe una plaza de mercado en un pueblo de Cundinamarca.",
+      "context": "Un estudiante lee un cuadro de costumbres donde se describe una plaza de mercado en un pueblo de Cundinamarca.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v3",
       "statement": "¿Qué recurso lingüístico, esencial en el costumbrismo, está utilizando el autor al escribir exactamente como hablan las personas de la región?",
-      "context": "Valentina lee un fragmento de Tomás Carrasquilla donde un arriero antioqueño habla usando palabras como \"¡Ave María, pues!\", \"trasteo\" y \"echando rulo\".",
+      "context": "Valentina lee un fragmento de Tomás Carrasquilla donde un arriero antioqueño habla usando palabras como \"¡Ave María, pues!\", \"trasteo\" y \"echando rulo\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v4",
       "statement": "¿Qué aspecto de la realidad colombiana del siglo XIX se resalta principalmente en la novela \"Manuela\"?",
-      "context": "Eugenio Díaz Castro es uno de los máximos exponentes del costumbrismo en Colombia, autor de la novela \"Manuela\".",
+      "context": "Eugenio Díaz Castro es uno de los máximos exponentes del costumbrismo en Colombia, autor de la novela \"Manuela\".\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v5",
       "statement": "¿A qué se refiere el concepto de \"color local\" en la literatura costumbrista?",
-      "context": "Santiago nota que en los textos costumbristas siempre hay una descripción muy detallada de la comida, la ropa (como la ruana o el carriel) y las casas.",
+      "context": "Santiago nota que en los textos costumbristas siempre hay una descripción muy detallada de la comida, la ropa (como la ruana o el carriel) y las casas.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la función de la sátira en la literatura costumbrista?",
-      "context": "Muchos cuadros de costumbres utilizan la ironía y la burla fina para señalar comportamientos sociales que el autor considera ridículos o equivocados.",
+      "context": "Muchos cuadros de costumbres utilizan la ironía y la burla fina para señalar comportamientos sociales que el autor considera ridículos o equivocados.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la diferencia fundamental entre cómo ve un romántico el campo y cómo lo ve un costumbrista?",
-      "context": "Camila compara el Romanticismo con el Costumbrismo. Nota que el Romanticismo idealiza todo, mientras que el Costumbrismo es más \"aterrizado\".",
+      "context": "Camila compara el Romanticismo con el Costumbrismo. Nota que el Romanticismo idealiza todo, mientras que el Costumbrismo es más \"aterrizado\".\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v8",
       "statement": "¿Por qué estas publicaciones fueron importantes para la formación de la nación colombiana?",
-      "context": "En el siglo XIX se publicaron muchas colecciones de cuadros de costumbres, como \"El Mosaico\".",
+      "context": "En el siglo XIX se publicaron muchas colecciones de cuadros de costumbres, como \"El Mosaico\".\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v9",
       "statement": "Analiza el fragmento anterior. ¿Qué técnica costumbrista se utiliza para dar profundidad al personaje de Ño Remigio?",
-      "context": "Un fragmento de un autor costumbrista dice: \"Allí estaba Ño Remigio, con su carriel de nutria y su sombrero de paja, discutiendo el precio de la sal como si le fuera la vida en ello\".",
+      "context": "Un fragmento de un autor costumbrista dice: \"Allí estaba Ño Remigio, con su carriel de nutria y su sombrero de paja, discutiendo el precio de la sal como si le fuera la vida en ello\".\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W06-costumbrismo-colombiano-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el legado más importante del costumbrismo para la literatura colombiana del siglo XX?",
-      "context": "A finales del siglo XIX, el costumbrismo empezó a transformarse en un realismo más profundo con autores como Tomás Carrasquilla.",
+      "context": "A finales del siglo XIX, el costumbrismo empezó a transformarse en un realismo más profundo con autores como Tomás Carrasquilla.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",

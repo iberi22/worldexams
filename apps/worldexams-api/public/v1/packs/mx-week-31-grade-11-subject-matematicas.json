@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v1",
       "statement": "En una alcancía, Juan decide ahorrar cada semana una cantidad que sigue una progresión aritmética: $15, $20, $25, $30... ¿Cuál es el valor de la diferencia común ($d$) de esta sucesión?",
-      "context": "Un ahorro semanal donde se incrementa una cantidad fija.",
+      "context": "Un ahorro semanal donde se incrementa una cantidad fija.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v2",
       "statement": "Una fábrica produce 120 piezas el primer día y aumenta su producción en 8 piezas cada día consecuente. ¿Cuál es el término general ($a_n$) que describe la producción diaria?",
-      "context": "Producción industrial con incremento constante.",
+      "context": "Producción industrial con incremento constante.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v3",
       "statement": "En un auditorio de la CDMX, la primera fila tiene 24 asientos y cada fila posterior tiene 3 asientos más que la anterior. ¿Cuántos asientos hay en la fila número 15?",
-      "context": "Organización de asientos en un auditorio.",
+      "context": "Organización de asientos en un auditorio.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes sucesiones NO es aritmética?",
-      "context": "Identificación de patrones numéricos.",
+      "context": "Identificación de patrones numéricos.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v5",
       "statement": "Un atleta en Guadalajara aumenta su tiempo de entrenamiento 4 minutos cada día. Si el décimo día entrenó durante 75 minutos, ¿cuántos minutos entrenó el primer día?",
-      "context": "Entrenamiento deportivo con incremento de tiempo.",
+      "context": "Entrenamiento deportivo con incremento de tiempo.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v6",
       "statement": "Calcula la suma de los primeros 10 términos de la sucesión aritmética: 8, 11, 14, 17...",
-      "context": "Suma de términos en una progresión de ahorro.",
+      "context": "Suma de términos en una progresión de ahorro.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v7",
       "statement": "Si en una sucesión aritmética el tercer término es 13 y el octavo término es 38, ¿cuál es el valor de la diferencia común ($d$)?",
-      "context": "Interpolar términos en una secuencia de construcción.",
+      "context": "Interpolar términos en una secuencia de construcción.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v8",
       "statement": "Una computadora de $18,000 pesos se deprecia linealmente $1,200 pesos cada año. ¿En qué año su valor será de $6,000 pesos? (Considera el año 1 como el valor inicial después de la primera depreciación).",
-      "context": "Depreciación lineal de equipo.",
+      "context": "Depreciación lineal de equipo.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v9",
       "statement": "En una campaña de salud, se entregan 50 folletos el primer día, 62 el segundo, 74 el tercero, y así sucesivamente. ¿Cuántos folletos se entregarán en total durante los primeros 12 días?",
-      "context": "Distribución de folletos informativos.",
+      "context": "Distribución de folletos informativos.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el término número 21 de la sucesión: -15, -11, -7, -3, ...?",
-      "context": "Secuencia de números negativos.",
+      "context": "Secuencia de números negativos.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v11",
       "statement": "Calcula la suma de todos los números múltiplos de 7 comprendidos entre el 1 y el 100.",
-      "context": "Suma de múltiplos de un número.",
+      "context": "Suma de múltiplos de un número.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v12",
       "statement": "En una sucesión aritmética finita de 15 términos, la suma del tercer término y el decimotercer término es 50. ¿Cuál es el valor de la suma del primer término y el decimoquinto término ($a_1 + a_{15}$)?",
-      "context": "Propiedades de la suma de términos simétricos.",
+      "context": "Propiedades de la suma de términos simétricos.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v13",
       "statement": "El cuarto término de una sucesión aritmética es 10 y el sexto término es 16. ¿Cuál es el vigésimo término de esta sucesión?",
-      "context": "Resolución de sistemas lineales mediante sucesiones.",
+      "context": "Resolución de sistemas lineales mediante sucesiones.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v14",
       "statement": "Dada la sucesión $100, 93, 86, 79, ...$ ¿Cuál es el primer término que resulta ser negativo?",
-      "context": "Análisis de sucesiones decrecientes.",
+      "context": "Análisis de sucesiones decrecientes.\n**Expected_Success:** 0.48",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v15",
       "statement": "¿Cuántos términos de la sucesión aritmética $5, 7, 9, ...$ deben sumarse para que el resultado sea 480?",
-      "context": "Suma de una serie con límites definidos.",
+      "context": "Suma de una serie con límites definidos.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v16",
       "statement": "Las medidas de los tres ángulos internos de un triángulo están en progresión aritmética. Si el ángulo más pequeño mide 40°, ¿cuánto mide el ángulo más grande?",
-      "context": "Geometría plana relacionada con sucesiones.",
+      "context": "Geometría plana relacionada con sucesiones.\n**Expected_Success:** 0.53",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v17",
       "statement": "Una inversión de $10,000 pesos genera un interés simple mensual constante. Si al cabo de 6 meses el capital total es de $11,500 y al cabo de 12 meses es de $13,000, ¿cuál es la expresión para el capital total $C$ después de $n$ meses?",
-      "context": "Aplicación avanzada en finanzas (interés simple).",
+      "context": "Aplicación avanzada en finanzas (interés simple).\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v18",
       "statement": "Se desean interpolar 4 medios aritméticos entre los números 5 y 25. ¿Cuál es el valor del tercer medio aritmético interpolado?",
-      "context": "Interpolación de múltiples medios aritméticos.",
+      "context": "Interpolación de múltiples medios aritméticos.\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v19",
       "statement": "Si la suma de los primeros $n$ términos de una sucesión está dada por $S_n = 3n^2 + 2n$, ¿cuál es el valor del término $a_{10}$?",
-      "context": "Desafío teórico sobre sumatorias.",
+      "context": "Desafío teórico sobre sumatorias.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v20",
       "statement": "En una sucesión aritmética, se sabe que $a_1 + a_2 + a_3 = 15$ y $a_4 + a_5 + a_6 = 42$. ¿Cuál es el valor del primer término $a_1$?",
-      "context": "Generalización de patrones aritméticos complejos.",
+      "context": "Generalización de patrones aritméticos complejos.\n**Expected_Success:** 0.28",
       "options": [
         {
           "letter": "A",

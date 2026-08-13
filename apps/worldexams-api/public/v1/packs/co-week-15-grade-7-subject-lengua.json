@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes definiciones caracteriza mejor a las oraciones coordinadas?",
-      "context": "En el estudio de la gramática, la coordinación es una forma de unir oraciones o elementos del mismo nivel sintáctico.",
+      "context": "En el estudio de la gramática, la coordinación es una forma de unir oraciones o elementos del mismo nivel sintáctico.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de las siguientes oraciones es un ejemplo de coordinación copulativa?",
-      "context": "Las oraciones coordinadas copulativas expresan una relación de suma o acumulación.",
+      "context": "Las oraciones coordinadas copulativas expresan una relación de suma o acumulación.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v3",
       "statement": "Identifica la oración coordinada adversativa entre las siguientes opciones:",
-      "context": "La coordinación adversativa se utiliza para contraponer dos ideas de manera que una corrija o matice a la otra.",
+      "context": "La coordinación adversativa se utiliza para contraponer dos ideas de manera que una corrija o matice a la otra.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v4",
       "statement": "¿En qué situación de la vida cotidiana colombiana usarías una oración coordinada disyuntiva?",
-      "context": "Las oraciones coordinadas disyuntivas plantean una elección entre dos o más opciones que suelen excluirse.",
+      "context": "Las oraciones coordinadas disyuntivas plantean una elección entre dos o más opciones que suelen excluirse.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la estructura característica de una oración coordinada distributiva?",
-      "context": "Las oraciones coordinadas distributivas presentan acciones alternas que no se excluyen necesariamente.",
+      "context": "Las oraciones coordinadas distributivas presentan acciones alternas que no se excluyen necesariamente.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v6",
       "statement": "En la frase \"El español es una lengua romance, es decir, deriva del latín vulgar\", ¿cuál es la función de la segunda proposición?",
-      "context": "Las oraciones coordinadas explicativas sirven para que una proposición aclare o amplíe el sentido de la anterior.",
+      "context": "Las oraciones coordinadas explicativas sirven para que una proposición aclare o amplíe el sentido de la anterior.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la diferencia de intención comunicativa entre estas dos oraciones?\n1. \"Llovió fuerte en el Chocó y el río subió de nivel.\"\n2. \"Llovió fuerte en el Chocó, pero el río no subió de nivel.\"",
-      "context": "La elección entre nexos coordinantes cambia la intención comunicativa de quien escribe.",
+      "context": "La elección entre nexos coordinantes cambia la intención comunicativa de quien escribe.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v8",
       "statement": "En la oración \"Llegué, vi, vencí\", ¿qué tipo de relación de coordinación se sobreentiende aunque no haya nexos?",
-      "context": "A veces, las oraciones yuxtapuestas pueden tener un sentido de coordinación implícito.",
+      "context": "A veces, las oraciones yuxtapuestas pueden tener un sentido de coordinación implícito.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v9",
       "statement": "Analiza la frase: \"Unos prefieren el tinto, otros el chocolate\". ¿Qué elemento se ha omitido (elipsis) en la segunda proposición y qué tipo de coordinación representa?",
-      "context": "En el habla coloquial colombiana, se utilizan formas de coordinación que a veces omiten elementos para dar rapidez al discurso.",
+      "context": "En el habla coloquial colombiana, se utilizan formas de coordinación que a veces omiten elementos para dar rapidez al discurso.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes oraciones está correctamente puntuada siguiendo las normas de la coordinación adversativa con locuciones largas?",
-      "context": "La puntuación en las oraciones coordinadas adversativas largas es fundamental para la claridad del texto.",
+      "context": "La puntuación en las oraciones coordinadas adversativas largas es fundamental para la claridad del texto.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
