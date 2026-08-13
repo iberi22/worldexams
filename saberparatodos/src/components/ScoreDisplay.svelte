@@ -211,13 +211,15 @@
   {#if showBreakdown}
     <button
       on:click={() => showDetails = !showDetails}
+      aria-expanded={showDetails}
+      aria-controls="score-details-panel"
       class="w-full py-3 text-xs uppercase tracking-widest text-white/40 hover:text-white/80 transition-colors flex items-center justify-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded"
     >
       {showDetails ? 'Ocultar' : 'Ver'} detalle por pregunta
     </button>
 
     {#if showDetails}
-      <div class="space-y-2 max-h-64 overflow-y-auto">
+      <div id="score-details-panel" class="space-y-2 max-h-64 overflow-y-auto">
         {#each examScore.questionScores as qs, index}
           <div
             class={`p-3 rounded-lg border text-sm ${qs.totalScore > 0

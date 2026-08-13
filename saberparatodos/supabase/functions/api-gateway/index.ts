@@ -95,6 +95,15 @@ async function fetchPack(grade: string, subject: string) {
   return null
 }
 
+function getClientIp(req: Request | globalThis.Request): string {
+  const cfIp = req.headers.get("cf-connecting-ip")
+  if (cfIp) {
+    return cfIp.trim()
+  }
+
+  return "unknown"
+}
+
 async function sha256(value: string) {
   const encoder = new TextEncoder()
   const data = encoder.encode(value)
@@ -116,10 +125,7 @@ async function logRequest(
     api_key_id: apiKeyId,
     endpoint,
     status_code: statusCode,
-    ip_address:
-      request.headers.get("cf-connecting-ip") ||
-      request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
-      "unknown",
+    ip_address: getClientIp(request),
     user_agent: request.headers.get("user-agent") || "unknown",
     response_time_ms: responseTimeMs,
   })
@@ -173,7 +179,7 @@ serve(async (req: Request) => {
       .maybeSingle()
 
     if (keyError || !apiKey) {
-      console.log(`[api-gateway] Invalid API key from ${req.headers.get("cf-connecting-ip") || "unknown"}`)
+      console.log(`[api-gateway] Invalid API key from ${getClientIp(req)}`)
       return json({
         error: "Unauthorized",
         message: "Invalid API key",

@@ -12,29 +12,40 @@ import { notifyModeratorOfNewComment } from '../../lib/telegram';
 const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
 const RATE_LIMIT_MAX = 5;
 const RATE_LIMIT_WINDOW_MS = 60 * 1000; // 1 minute
+const CLEANUP_PROBABILITY = 0.05; // 5% chance to run cleanup on request to prevent memory leaks
 
-function getClientIp(request: Request): string {
-  // Trust Cloudflare's connecting IP first to prevent X-Forwarded-For spoofing
+function cleanupRateLimitMap(now: number) {
+  for (const [key, value] of rateLimitMap.entries()) {
+    if (value.resetAt < now) {
+      rateLimitMap.delete(key);
+    }
+  }
+}
+
+function getClientIp(request: Request | globalThis.Request): string {
+  // Trust Cloudflare's connecting IP first to prevent spoofing
   const cfIp = request.headers.get('cf-connecting-ip');
   if (cfIp) {
     return cfIp.trim();
   }
 
-  const forwarded = request.headers.get('x-forwarded-for');
-  if (forwarded) {
-    // Note: The first IP in X-Forwarded-For can be spoofed by the client.
-    return forwarded.split(',')[0].trim();
-  }
+  // PR #977 specifically dictates NOT trusting x-forwarded-for as the primary source,
+  // or at all, because it can be spoofed, unless we can validate the proxy. Since we
+  // deploy on CF, if CF is bypassed, x-forwarded-for should not be trusted.
+  // We remove x-forwarded-for and x-real-ip extraction entirely, returning unknown
+  // if no trusted cf-connecting-ip is provided.
 
-  const realIp = request.headers.get('x-real-ip');
-  if (realIp) {
-    return realIp;
-  }
   return 'unknown';
 }
 
 function checkRateLimit(ip: string): boolean {
   const now = Date.now();
+
+  // Sweep expired entries occasionally to prevent memory leaks
+  if (Math.random() < CLEANUP_PROBABILITY) {
+    cleanupRateLimitMap(now);
+  }
+
   const entry = rateLimitMap.get(ip);
   if (!entry || now > entry.resetAt) {
     rateLimitMap.set(ip, { count: 1, resetAt: now + RATE_LIMIT_WINDOW_MS });
