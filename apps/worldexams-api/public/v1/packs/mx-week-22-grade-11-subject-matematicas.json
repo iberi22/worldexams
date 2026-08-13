@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v1",
       "statement": "Dada la función constante $f(x) = 15$, determine su derivada $f'(x)$.",
-      "context": "Un estudiante de preparatoria en la CDMX repasa las reglas básicas de derivación para funciones constantes.",
+      "context": "Un estudiante de preparatoria en la CDMX repasa las reglas básicas de derivación para funciones constantes.\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v2",
       "statement": "Calcule la derivada de la función $f(x) = 7x$.",
-      "context": "Un joven en Guadalajara analiza el movimiento de un objeto con velocidad constante mediante una función lineal.",
+      "context": "Un joven en Guadalajara analiza el movimiento de un objeto con velocidad constante mediante una función lineal.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v3",
       "statement": "Aplique la regla de la potencia para encontrar la derivada de $f(x) = x^2$.",
-      "context": "Se requiere encontrar la pendiente de una parábola sencilla en un punto cualquiera.",
+      "context": "Se requiere encontrar la pendiente de una parábola sencilla en un punto cualquiera.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v4",
       "statement": "Determine la derivada de $f(x) = 4x^3$.",
-      "context": "Un arquitecto diseña una rampa cuya altura sigue una función de tercer grado y necesita conocer su inclinación.",
+      "context": "Un arquitecto diseña una rampa cuya altura sigue una función de tercer grado y necesita conocer su inclinación.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la derivada de la función polinómica $f(x) = 2x^4 - 5x^2 + 3x - 10$?",
-      "context": "Un ingeniero en el IPN calcula la aceleración instantánea de un prototipo a partir de su función de velocidad.",
+      "context": "Un ingeniero en el IPN calcula la aceleración instantánea de un prototipo a partir de su función de velocidad.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v6",
       "statement": "Utilice la regla del producto para encontrar la derivada de $f(x) = (x^2)(x + 1)$.",
-      "context": "Un analista financiero en la Bolsa Mexicana de Valores estudia la razón de cambio del valor de una acción modelada por un producto de funciones.",
+      "context": "Un analista financiero en la Bolsa Mexicana de Valores estudia la razón de cambio del valor de una acción modelada por un producto de funciones.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v7",
       "statement": "Determine la derivada de $f(x) = \\frac{x}{x + 1}$ usando la regla del cociente.",
-      "context": "Un estudiante de medicina analiza la tasa de eliminación de un fármaco mediante una función racional.",
+      "context": "Un estudiante de medicina analiza la tasa de eliminación de un fármaco mediante una función racional.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v8",
       "statement": "Determine la derivada de la función trigonométrica $f(x) = 3\\sin(x) + 2\\cos(x)$.",
-      "context": "Un técnico en electrónica necesita conocer la rapidez con la que cambia el voltaje en un circuito oscilatorio.",
+      "context": "Un técnico en electrónica necesita conocer la rapidez con la que cambia el voltaje en un circuito oscilatorio.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la derivada de la función $f(x) = e^{5x}$?",
-      "context": "En un estudio demográfico, se utiliza una función exponencial para modelar el crecimiento de una zona urbana en el Estado de México.",
+      "context": "En un estudio demográfico, se utiliza una función exponencial para modelar el crecimiento de una zona urbana en el Estado de México.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v10",
       "statement": "Calcule la derivada de $f(x) = \\ln(x^2)$.",
-      "context": "Un programador utiliza logaritmos para medir la eficiencia de un algoritmo y necesita su razón de cambio.",
+      "context": "Un programador utiliza logaritmos para medir la eficiencia de un algoritmo y necesita su razón de cambio.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v11",
       "statement": "Determine la derivada de $f(x) = \\sqrt{x}$.",
-      "context": "Un químico analiza la velocidad de una reacción que depende de una concentración elevada a una potencia fraccionaria.",
+      "context": "Un químico analiza la velocidad de una reacción que depende de una concentración elevada a una potencia fraccionaria.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v12",
       "statement": "Calcule la derivada de $f(x) = (3x^2 + 1)^4$.",
-      "context": "Un diseñador industrial utiliza funciones compuestas para modelar la ergonomía de una silla de oficina.",
+      "context": "Un diseñador industrial utiliza funciones compuestas para modelar la ergonomía de una silla de oficina.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la derivada de $f(x) = \\sin(x^3)$?",
-      "context": "Un ingeniero mecánico en Toluca estudia la oscilación de un resorte cuya posición está dada por una función compuesta trigonométrica.",
+      "context": "Un ingeniero mecánico en Toluca estudia la oscilación de un resorte cuya posición está dada por una función compuesta trigonométrica.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v14",
       "statement": "Determine la derivada de $f(x) = \\frac{1}{x^3}$.",
-      "context": "Un analista de datos investiga la tasa de crecimiento de una variable que sigue una función de potencia negativa.",
+      "context": "Un analista de datos investiga la tasa de crecimiento de una variable que sigue una función de potencia negativa.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v15",
       "statement": "Dada $f(x) = x^4 - 2x^2 + 5$, determine su segunda derivada $f''(x)$.",
-      "context": "Un estudiante de física necesita calcular la derivada de segundo orden para encontrar la aceleración de una partícula.",
+      "context": "Un estudiante de física necesita calcular la derivada de segundo orden para encontrar la aceleración de una partícula.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v16",
       "statement": "Determine la derivada de $f(x) = \\ln(4x + 7)$.",
-      "context": "Un economista en la UNAM analiza la elasticidad de una demanda modelada por un logaritmo con argumento compuesto.",
+      "context": "Un economista en la UNAM analiza la elasticidad de una demanda modelada por un logaritmo con argumento compuesto.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v17",
       "statement": "Utilice derivación implícita para encontrar $\\frac{dy}{dx}$ en la ecuación $x^2 + y^2 = 25$.",
-      "context": "Un investigador del Cinvestav analiza una función implícita para modelar una superficie de energía.",
+      "context": "Un investigador del Cinvestav analiza una función implícita para modelar una superficie de energía.\n**Expected_Success:** 0.25",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v18",
       "statement": "Dada la función $f(x) = x^x$, determine su derivada $f'(x)$ mediante derivación logarítmica.",
-      "context": "Un matemático aplica la regla de L'Hôpital para resolver un límite indeterminado utilizando el concepto de derivada.",
+      "context": "Un matemático aplica la regla de L'Hôpital para resolver un límite indeterminado utilizando el concepto de derivada.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v19",
       "statement": "Si $f(x) = \\arctan(x)$, determine $f'(x)$.",
-      "context": "En un curso de cálculo multivariado, se introduce la derivada de la función inversa.",
+      "context": "En un curso de cálculo multivariado, se introduce la derivada de la función inversa.\n**Expected_Success:** 0.20",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W22-calculo-derivadas-001-MASTERY-bundle-v20",
       "statement": "Calcule la derivada de $f(x) = \\cos^2(e^{2x})$.",
-      "context": "Un ingeniero optimiza un sistema de navegación calculando la razón de cambio de una función compuesta de funciones trascendentales.",
+      "context": "Un ingeniero optimiza un sistema de navegación calculando la razón de cambio de una función compuesta de funciones trascendentales.\n**Expected_Success:** 0.15",
       "options": [
         {
           "letter": "A",

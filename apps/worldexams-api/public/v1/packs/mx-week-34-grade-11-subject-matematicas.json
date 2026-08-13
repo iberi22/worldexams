@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v1",
       "statement": "Si una persona tiene 3 pantalones diferentes y 4 camisas distintas, ¿de cuántas maneras diferentes se puede vestir utilizando una prenda de cada tipo?",
-      "context": "Principio multiplicativo en la elección de vestimenta.",
+      "context": "Principio multiplicativo en la elección de vestimenta.\n**Expected_Success:** 0.92",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el valor resultante de la operación $5!$ (5 factorial)?",
-      "context": "Concepto de factorial.",
+      "context": "Concepto de factorial.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v3",
       "statement": "En análisis combinatorio, ¿cuál es la diferencia fundamental entre una permutación y una combinación?",
-      "context": "Diferencia entre permutación y combinación.",
+      "context": "Diferencia entre permutación y combinación.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v4",
       "statement": "¿De cuántas maneras diferentes se pueden organizar 4 libros distintos en un estante?",
-      "context": "Ordenamiento de objetos en una fila.",
+      "context": "Ordenamiento de objetos en una fila.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v5",
       "statement": "En un grupo de 10 alumnos, se desea elegir un presidente, un secretario y un tesorero. ¿De cuántas formas se pueden ocupar estos cargos si nadie puede tener más de uno?",
-      "context": "Elección de una directiva escolar.",
+      "context": "Elección de una directiva escolar.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v6",
       "statement": "Una empresa en CDMX requiere formar un comité de 3 personas a partir de un grupo de 8 empleados. ¿Cuántos comités diferentes se pueden formar?",
-      "context": "Formación de equipos de trabajo.",
+      "context": "Formación de equipos de trabajo.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v7",
       "statement": "¿Cuántos números de tres cifras se pueden formar con los dígitos $\\{1, 2, 3, 4, 5\\}$ si se permite la repetición de los mismos?",
-      "context": "Formación de números con dígitos específicos.",
+      "context": "Formación de números con dígitos específicos.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v8",
       "statement": "Simplifica la siguiente expresión: $\\frac{8!}{6!}$",
-      "context": "Operaciones con factoriales.",
+      "context": "Operaciones con factoriales.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v9",
       "statement": "¿Cuántas palabras diferentes (tengan o no sentido) se pueden formar reordenando las letras de la palabra \"CASA\"?",
-      "context": "Permutaciones con repetición (Anagramas).",
+      "context": "Permutaciones con repetición (Anagramas).\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v10",
       "statement": "Un restaurante ofrece un paquete que incluye una entrada (de 4 opciones), un plato fuerte (de 6 opciones) y un postre (de 3 opciones). ¿Cuántas combinaciones de comidas completas existen?",
-      "context": "Elección de platillos en un menú.",
+      "context": "Elección de platillos en un menú.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v11",
       "statement": "¿Cuántos números de tres cifras distintas se pueden formar con los dígitos $\\{0, 1, 2, 3, 4, 5\\}$? (Nota: Un número de tres cifras no puede empezar con cero).",
-      "context": "Formación de números con restricciones.",
+      "context": "Formación de números con restricciones.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v12",
       "statement": "Para ir del punto A al punto B en una cuadrícula de 3x3 calles, moviéndose solo a la derecha (D) o hacia arriba (A), ¿cuántos caminos posibles existen?",
-      "context": "Caminos en una cuadrícula.",
+      "context": "Caminos en una cuadrícula.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v13",
       "statement": "¿De cuántas maneras se pueden sentar 6 personas alrededor de una mesa circular?",
-      "context": "Personas sentadas en una mesa circular.",
+      "context": "Personas sentadas en una mesa circular.\n**Expected_Success:** 0.48",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v14",
       "statement": "Un estudiante debe responder 7 de 10 preguntas en un examen. Si las primeras 3 preguntas son obligatorias, ¿de cuántas maneras puede elegir las preguntas restantes?",
-      "context": "Combinaciones con selección obligatoria.",
+      "context": "Combinaciones con selección obligatoria.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v15",
       "statement": "¿De cuántas formas se pueden organizar 5 personas en una fila si dos de ellas (Ana y Beto) deben estar siempre juntas?",
-      "context": "Permutación con elementos adyacentes.",
+      "context": "Permutación con elementos adyacentes.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v16",
       "statement": "¿Cuántos subconjuntos de 2 o más elementos se pueden formar a partir de un conjunto de 4 elementos?",
-      "context": "Selección de subconjuntos.",
+      "context": "Selección de subconjuntos.\n**Expected_Success:** 0.53",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v17",
       "statement": "¿De cuántas maneras se pueden repartir 6 juguetes diferentes entre 3 niños de modo que cada uno reciba exactamente 2 juguetes?",
-      "context": "Distribución de objetos en grupos (Particiones).",
+      "context": "Distribución de objetos en grupos (Particiones).\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v18",
       "statement": "En una reunión en Guadalajara, todos los asistentes se saludan con un apretón de manos. Si se contabilizaron 66 apretones de manos en total, ¿cuántas personas asistieron a la reunión?",
-      "context": "Problema de apretones de manos (Grafos completos).",
+      "context": "Problema de apretones de manos (Grafos completos).\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v19",
       "statement": "¿Cuántas palabras de 5 letras se pueden formar con las letras $\\{A, B, C, D, E\\}$ si no se permite la repetición y la palabra debe empezar con una vocal?",
-      "context": "Permutaciones con restricciones complejas.",
+      "context": "Permutaciones con restricciones complejas.\n**Expected_Success:** 0.32",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W34-analisis-combinatorio-001-MASTERY-bundle-v20",
       "statement": "De un grupo de 5 hombres y 4 mujeres, se eligen 3 personas para un proyecto. ¿De cuántas maneras se puede elegir el grupo si debe haber al menos una mujer?",
-      "context": "Combinaciones con complementos.",
+      "context": "Combinaciones con complementos.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",

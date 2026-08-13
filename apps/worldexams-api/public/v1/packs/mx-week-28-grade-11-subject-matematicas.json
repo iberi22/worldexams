@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v1",
       "statement": "¿A qué tipo de matrices se les puede calcular un determinante?",
-      "context": "Un estudiante de preparatoria en la CDMX identifica las condiciones para calcular el determinante de una matriz.",
+      "context": "Un estudiante de preparatoria en la CDMX identifica las condiciones para calcular el determinante de una matriz.\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v2",
       "statement": "Si $A$ es una matriz, ¿cuál es la notación común para representar su determinante?",
-      "context": "Se presenta el símbolo estándar para representar la operación de determinante en un libro de texto.",
+      "context": "Se presenta el símbolo estándar para representar la operación de determinante en un libro de texto.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v3",
       "statement": "Dada la matriz $A = \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$, ¿cuál es la fórmula para calcular su determinante?",
-      "context": "Un joven en Guadalajara aprende la fórmula básica para una matriz de segundo orden.",
+      "context": "Un joven en Guadalajara aprende la fórmula básica para una matriz de segundo orden.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v4",
       "statement": "Si el determinante de una matriz cuadrada es igual a cero ($\\det(A) = 0$), ¿qué se puede afirmar sobre la matriz?",
-      "context": "Un profesor en Monterrey explica qué sucede cuando el determinante de una matriz es igual a cero.",
+      "context": "Un profesor en Monterrey explica qué sucede cuando el determinante de una matriz es igual a cero.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v5",
       "statement": "Calcule el determinante de la matriz $M = \\begin{pmatrix} 3 & 4 \\\\ 2 & 5 \\end{pmatrix}$.",
-      "context": "Un estudiante resuelve un problema rápido de una matriz $2 \\times 2$ en un examen parcial.",
+      "context": "Un estudiante resuelve un problema rápido de una matriz $2 \\times 2$ en un examen parcial.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v6",
       "statement": "Determine el valor de $\\begin{vmatrix} -2 & 6 \\\\ 1 & -4 \\end{vmatrix}$.",
-      "context": "Se solicita calcular el determinante de una matriz que contiene números negativos.",
+      "context": "Se solicita calcular el determinante de una matriz que contiene números negativos.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el primer paso recomendado para aplicar la Regla de Sarrus en una matriz $3 \\times 3$?",
-      "context": "Un ingeniero industrial en Puebla aplica la Regla de Sarrus para una matriz de tercer orden.",
+      "context": "Un ingeniero industrial en Puebla aplica la Regla de Sarrus para una matriz de tercer orden.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v8",
       "statement": "Sin realizar cálculos extensos, determine el determinante de $A = \\begin{pmatrix} 1 & 2 & 3 \\\\ 0 & 0 & 0 \\\\ 4 & 5 & 6 \\end{pmatrix}$.",
-      "context": "Se presenta una matriz $3 \\times 3$ con una fila de ceros y se pide su determinante.",
+      "context": "Se presenta una matriz $3 \\times 3$ con una fila de ceros y se pide su determinante.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el determinante de la matriz identidad de orden $3 \\times 3$?",
-      "context": "Un estudiante de economía en el Estado de México calcula el determinante de una matriz diagonal.",
+      "context": "Un estudiante de economía en el Estado de México calcula el determinante de una matriz diagonal.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v10",
       "statement": "Encuentre el valor de $x$ para que el determinante de $\\begin{pmatrix} x & 6 \\\\ 2 & 4 \\end{pmatrix}$ sea igual a 0.",
-      "context": "Se busca un valor desconocido $x$ que haga que la matriz sea singular.",
+      "context": "Se busca un valor desconocido $x$ que haga que la matriz sea singular.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v11",
       "statement": "Si el determinante de la matriz $A$ es 15, ¿cuál será el determinante de la matriz que resulta de intercambiar sus dos únicas filas?",
-      "context": "Un programador en Querétaro analiza la propiedad del determinante tras intercambiar filas.",
+      "context": "Un programador en Querétaro analiza la propiedad del determinante tras intercambiar filas.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v12",
       "statement": "Si $\\det(A) = 4$ y $\\det(B) = -2$, ¿cuál es el valor de $\\det(A \\cdot B)$?",
-      "context": "Un físico en la UNAM utiliza la propiedad del determinante del producto de dos matrices.",
+      "context": "Un físico en la UNAM utiliza la propiedad del determinante del producto de dos matrices.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es el valor del determinante de $A = \\begin{pmatrix} 1 & 0 & 2 \\\\ 3 & -1 & 1 \\\\ 0 & 2 & 1 \\end{pmatrix}$?",
-      "context": "Un estudiante aplica el método de cofactores (expansión por menores) para una matriz $3 \\times 3$.",
+      "context": "Un estudiante aplica el método de cofactores (expansión por menores) para una matriz $3 \\times 3$.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v14",
       "statement": "Si $A$ es una matriz de $2 \\times 2$ con $\\det(A) = 5$, ¿cuál es el valor de $\\det(3A)$?",
-      "context": "Se analiza el efecto de multiplicar toda una matriz por una constante escalar.",
+      "context": "Se analiza el efecto de multiplicar toda una matriz por una constante escalar.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es la relación entre el determinante de una matriz $A$ y el determinante de su transpuesta $A^T$?",
-      "context": "Un investigador utiliza la propiedad de la matriz transpuesta.",
+      "context": "Un investigador utiliza la propiedad de la matriz transpuesta.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v16",
       "statement": "Determine el determinante de $\\begin{pmatrix} 2 & 5 & 7 \\\\ 0 & 4 & 1 \\\\ 0 & 0 & 3 \\end{pmatrix}$.",
-      "context": "Se analiza una matriz triangular superior en un problema de sistemas de ecuaciones lineales.",
+      "context": "Se analiza una matriz triangular superior en un problema de sistemas de ecuaciones lineales.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v17",
       "statement": "Si el determinante de $A$ es 0.25, ¿cuál es el determinante de su matriz inversa $A^{-1}$?",
-      "context": "Un experto en álgebra matricial en el IPN analiza la relación entre el determinante y la matriz inversa.",
+      "context": "Un experto en álgebra matricial en el IPN analiza la relación entre el determinante y la matriz inversa.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v18",
       "statement": "En un sistema de ecuaciones $Ax = B$, para hallar el valor de la incógnita $x_1$ mediante la Regla de Cramer, ¿qué determinante se debe dividir entre $\\det(A)$?",
-      "context": "Un matemático utiliza la Regla de Cramer para resolver un sistema de ecuaciones $2 \\times 2$.",
+      "context": "Un matemático utiliza la Regla de Cramer para resolver un sistema de ecuaciones $2 \\times 2$.\n**Expected_Success:** 0.25",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v19",
       "statement": "Si dos filas de una matriz cuadrada son idénticas, ¿cuál es el valor de su determinante?",
-      "context": "Un analista estudia una matriz de Vandermonde y sus propiedades de dependencia lineal.",
+      "context": "Un analista estudia una matriz de Vandermonde y sus propiedades de dependencia lineal.\n**Expected_Success:** 0.20",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W28-determinantes-001-MASTERY-bundle-v20",
       "statement": "Si a la primera fila de una matriz $A$ se le suma el triple de la segunda fila para obtener una nueva matriz $B$, ¿cuál es la relación entre sus determinantes?",
-      "context": "Un estudiante avanzado utiliza operaciones elementales de fila para simplificar un determinante complejo.",
+      "context": "Un estudiante avanzado utiliza operaciones elementales de fila para simplificar un determinante complejo.\n**Expected_Success:** 0.15",
       "options": [
         {
           "letter": "A",

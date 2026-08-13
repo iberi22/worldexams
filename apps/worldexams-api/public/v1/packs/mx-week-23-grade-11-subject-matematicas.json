@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el valor de la integral indefinida de una constante $k$? $\\int k \\, dx$.",
-      "context": "Un estudiante de la Prepa Nacional repasa el concepto de antiderivada como la operación inversa de la derivación.",
+      "context": "Un estudiante de la Prepa Nacional repasa el concepto de antiderivada como la operación inversa de la derivación.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v2",
       "statement": "Aplique la regla de la potencia para integrar la función $f(x) = x$. $\\int x \\, dx$.",
-      "context": "Se requiere calcular el área bajo una recta que pasa por el origen.",
+      "context": "Se requiere calcular el área bajo una recta que pasa por el origen.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v3",
       "statement": "Determine la integral indefinida de $f(x) = x^2$.",
-      "context": "Un estudiante de ingeniería en Querétaro integra una función cuadrática básica.",
+      "context": "Un estudiante de ingeniería en Querétaro integra una función cuadrática básica.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el resultado de $\\int [f(x) + g(x)] \\, dx$?",
-      "context": "Un profesor en el IPN explica la propiedad de linealidad de la integral indefinida.",
+      "context": "Un profesor en el IPN explica la propiedad de linealidad de la integral indefinida.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v5",
       "statement": "Calcule la integral: $\\int (3x^2 - 4x + 5) \\, dx$.",
-      "context": "Se desea encontrar la función de posición de un objeto en caída libre en la Ciudad de México dada su función de velocidad.",
+      "context": "Se desea encontrar la función de posición de un objeto en caída libre en la Ciudad de México dada su función de velocidad.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v6",
       "statement": "Determine el valor de $\\int \\frac{1}{x^2} \\, dx$.",
-      "context": "Un estudiante de arquitectura calcula el volumen de una columna modelada por una función de potencia negativa.",
+      "context": "Un estudiante de arquitectura calcula el volumen de una columna modelada por una función de potencia negativa.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v7",
       "statement": "Calcule la integral especial: $\\int \\frac{1}{x} \\, dx$ para $x > 0$.",
-      "context": "Un físico en Monterrey estudia la energía potencial asociada a una fuerza que varía inversamente con la distancia.",
+      "context": "Un físico en Monterrey estudia la energía potencial asociada a una fuerza que varía inversamente con la distancia.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v8",
       "statement": "Determine $\\int e^x \\, dx$.",
-      "context": "Se requiere encontrar la función original de un crecimiento poblacional cuya tasa es exponencial.",
+      "context": "Se requiere encontrar la función original de un crecimiento poblacional cuya tasa es exponencial.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v9",
       "statement": "Calcule $\\int \\sin(x) \\, dx$.",
-      "context": "Un ingeniero hidráulico integra una función senoidal para determinar el flujo de agua en un ciclo periódico.",
+      "context": "Un ingeniero hidráulico integra una función senoidal para determinar el flujo de agua en un ciclo periódico.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v10",
       "statement": "Determine la integral de $\\int \\cos(x) \\, dx$.",
-      "context": "Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza que sigue una función coseno.",
+      "context": "Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza que sigue una función coseno.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v11",
       "statement": "Determine el resultado de $\\int e^{2x} \\, dx$.",
-      "context": "Un analista de datos en Guadalajara integra una función que requiere un ajuste de constante para aplicar la regla de la cadena inversa.",
+      "context": "Un analista de datos en Guadalajara integra una función que requiere un ajuste de constante para aplicar la regla de la cadena inversa.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v12",
       "statement": "Calcule la integral indefinida de $f(x) = \\sqrt{x}$.",
-      "context": "Un geólogo calcula el área de una sección transversal de un terreno modelado por una raíz cuadrada.",
+      "context": "Un geólogo calcula el área de una sección transversal de un terreno modelado por una raíz cuadrada.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v13",
       "statement": "Evalúe $\\int \\frac{3}{x^4} \\, dx$.",
-      "context": "Un técnico industrial utiliza la integración para hallar la velocidad a partir de una aceleración que depende de una potencia negativa.",
+      "context": "Un técnico industrial utiliza la integración para hallar la velocidad a partir de una aceleración que depende de una potencia negativa.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v14",
       "statement": "Determine la integral de $\\int (2x + 1)^3 \\, dx$.",
-      "context": "Un estudiante de economía en el Estado de México integra una función de costo marginal para obtener el costo total.",
+      "context": "Un estudiante de economía en el Estado de México integra una función de costo marginal para obtener el costo total.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v15",
       "statement": "Calcule $\\int \\cos(4x) \\, dx$.",
-      "context": "Un ingeniero civil en Puebla calcula la deflexión de una viga usando integrales de funciones trigonométricas con argumentos compuestos.",
+      "context": "Un ingeniero civil en Puebla calcula la deflexión de una viga usando integrales de funciones trigonométricas con argumentos compuestos.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v16",
       "statement": "Identifique el resultado de la integral: $\\int \\frac{1}{1 + x^2} \\, dx$.",
-      "context": "Se requiere resolver una integral que resulta en una función trigonométrica inversa, común en problemas de física de partículas.",
+      "context": "Se requiere resolver una integral que resulta en una función trigonométrica inversa, común en problemas de física de partículas.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v17",
       "statement": "Calcule $\\int x e^{x^2} \\, dx$.",
-      "context": "Un estudiante de física avanzada en el Cinvestav resuelve una integral mediante el método de sustitución (cambio de variable).",
+      "context": "Un estudiante de física avanzada en el Cinvestav resuelve una integral mediante el método de sustitución (cambio de variable).\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v18",
       "statement": "Determine $\\int \\ln(x) \\, dx$ mediante el método de integración por partes.",
-      "context": "Un matemático aplica la integración para hallar el área entre una función logarítmica y el eje de las abscisas.",
+      "context": "Un matemático aplica la integración para hallar el área entre una función logarítmica y el eje de las abscisas.\n**Expected_Success:** 0.25",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v19",
       "statement": "Calcule $\\int \\sin^2(x) \\cos(x) \\, dx$.",
-      "context": "Un investigador utiliza la regla de sustitución para integrar una función trigonométrica elevada a una potencia.",
+      "context": "Un investigador utiliza la regla de sustitución para integrar una función trigonométrica elevada a una potencia.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el valor de $\\int \\frac{x}{x^2 + 1} \\, dx$?",
-      "context": "Un ingeniero de procesos en una refinería de Tabasco resuelve una integral que involucra una función racional con denominador compuesto.",
+      "context": "Un ingeniero de procesos en una refinería de Tabasco resuelve una integral que involucra una función racional con denominador compuesto.\n**Expected_Success:** 0.20",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la característica principal que define a un **debate**?",
-      "context": "El debate y la mesa redonda son formas de comunicación grupal donde se intercambian ideas y opiniones.",
+      "context": "El debate y la mesa redonda son formas de comunicación grupal donde se intercambian ideas y opiniones.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v2",
       "statement": "¿Por qué se llama **mesa redonda** a esta técnica de comunicación?",
-      "context": "La mesa redonda es una técnica de discusión donde expertos conversan sobre un tema desde diferentes puntos de vista.",
+      "context": "La mesa redonda es una técnica de discusión donde expertos conversan sobre un tema desde diferentes puntos de vista.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la función principal del **moderador** en un debate o mesa redonda?",
-      "context": "En estas dinámicas de grupo, la figura del moderador es fundamental para el orden.",
+      "context": "En estas dinámicas de grupo, la figura del moderador es fundamental para el orden.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v4",
       "statement": "Si vas a participar en un debate sobre el uso de uniformes en el colegio, ¿cuál de las siguientes acciones es una **preparación adecuada**?",
-      "context": "Prepararse para un debate requiere investigar y organizar los argumentos con antelación.",
+      "context": "Prepararse para un debate requiere investigar y organizar los argumentos con antelación.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v5",
       "statement": "¿Para qué sirve la **escucha activa** durante una mesa redonda?",
-      "context": "Durante el desarrollo de la discusión, es vital mantener la escucha activa.",
+      "context": "Durante el desarrollo de la discusión, es vital mantener la escucha activa.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v6",
       "statement": "En un debate sobre el cambio climático, el Participante A dice: \"No debemos preocuparnos porque el clima siempre ha cambiado naturalmente\". El Participante B responde: \"Es cierto que ha habido cambios naturales, pero la velocidad del calentamiento actual por la industria es 100 veces superior a cualquier cambio histórico\".\n\n¿Qué técnica usó el Participante B?",
-      "context": "Los turnos de réplica en un debate sirven para responder directamente a lo dicho por el oponente.",
+      "context": "Los turnos de réplica en un debate sirven para responder directamente a lo dicho por el oponente.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v7",
       "statement": "Al finalizar una mesa redonda sobre el uso de redes sociales en jóvenes colombianos, ¿cuál de estos cierres es el más apropiado?",
-      "context": "Las mesas redondas suelen concluir con un resumen de los puntos tratados y las divergencias encontradas.",
+      "context": "Las mesas redondas suelen concluir con un resumen de los puntos tratados y las divergencias encontradas.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v8",
       "statement": "Si un participante en un debate habla con un tono de voz calmado, mirando a los ojos a los demás y manteniendo una postura erguida, ¿qué proyecta sobre sus argumentos?",
-      "context": "El lenguaje no verbal (gestos, postura, tono de voz) también comunica durante estas dinámicas.",
+      "context": "El lenguaje no verbal (gestos, postura, tono de voz) también comunica durante estas dinámicas.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v9",
       "statement": "Un equipo de debate basa toda su defensa en un solo video que vieron en TikTok, sin citar ninguna otra fuente. ¿Cómo evaluarías la solidez de su argumentación?",
-      "context": "Evaluar la calidad de un debate implica analizar la solidez de los argumentos y el respeto a las reglas del juego.",
+      "context": "Evaluar la calidad de un debate implica analizar la solidez de los argumentos y el respeto a las reglas del juego.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v10",
       "statement": "Imagina una mesa redonda sobre la construcción de una carretera que atravesará una reserva natural en la Amazonía colombiana. ¿Qué combinación de participantes garantizaría la mayor riqueza y equilibrio de perspectivas?",
-      "context": "Los dilemas éticos a menudo se resuelven o analizan mejor mediante mesas redondas con diferentes especialistas.",
+      "context": "Los dilemas éticos a menudo se resuelven o analizan mejor mediante mesas redondas con diferentes especialistas.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

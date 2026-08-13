@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v1",
       "statement": "¿Qué característica comparten la coordinación y la yuxtaposición en la formación de oraciones compuestas?",
-      "context": "En la clase de Lengua en un colegio de Manizales, los estudiantes estudian cómo las oraciones pueden tener independencia o dependencia entre sí.",
+      "context": "En la clase de Lengua en un colegio de Manizales, los estudiantes estudian cómo las oraciones pueden tener independencia o dependencia entre sí.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v2",
       "statement": "¿Qué tipo de oración compuesta ha escrito Valentina y cuál es el signo de puntuación que permite identificarlo?",
-      "context": "Valentina escribe en su diario: \"Fui al centro de Medellín, compré unas flores, regresé temprano\".",
+      "context": "Valentina escribe en su diario: \"Fui al centro de Medellín, compré unas flores, regresé temprano\".\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v3",
       "statement": "Identifica cuál de las siguientes es una oración COORDINADA COPULATIVA.",
-      "context": "Los nexos coordinantes copulativos sirven para sumar ideas o acciones.",
+      "context": "Los nexos coordinantes copulativos sirven para sumar ideas o acciones.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v4",
       "statement": "\"Quería comprar el libro de Rafael Pombo, **pero la librería estaba cerrada**\". ¿Qué tipo de relación establece el nexo en negrilla?",
-      "context": "En la coordinación adversativa, una proposición corrige o limita el significado de la otra.",
+      "context": "En la coordinación adversativa, una proposición corrige o limita el significado de la otra.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v5",
       "statement": "En la oración: \"Los campesinos no sembraron este año: la sequía fue muy larga\", ¿qué relación lógica se establece a través de la yuxtaposición con dos puntos?",
-      "context": "Santiago nota que en los textos de historia a veces se usan dos puntos (:) para explicar algo sin usar palabras como \"porque\" o \"entonces\".",
+      "context": "Santiago nota que en los textos de historia a veces se usan dos puntos (:) para explicar algo sin usar palabras como \"porque\" o \"entonces\".\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v6",
       "statement": "¿Cómo se puede transformar la oración: \"Juan estudia y Pedro trabaja y María descansa\" en una oración YUXTAPUESTA para que sea más fluida?",
-      "context": "Al escribir, es importante evitar la repetición excesiva de nexos (\"y\", \"y\", \"y\"), lo que se conoce como polisíndeton innecesario.",
+      "context": "Al escribir, es importante evitar la repetición excesiva de nexos (\"y\", \"y\", \"y\"), lo que se conoce como polisíndeton innecesario.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v7",
       "statement": "\"**Ya** sale el sol por los cerros, **ya** se oculta tras las nubes\". ¿Qué tipo de coordinación se utiliza aquí?",
-      "context": "Camila analiza las oraciones coordinadas distributivas, que presentan acciones que se alternan.",
+      "context": "Camila analiza las oraciones coordinadas distributivas, que presentan acciones que se alternan.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v8",
       "statement": "¿En qué situación es preferible usar la YUXTAPOSICIÓN con punto y coma en lugar de la COORDINACIÓN con \"y\"?",
-      "context": "En un texto argumentativo, la elección entre usar un nexo coordinante o un signo de puntuación (yuxtaposición) cambia el ritmo de la lectura.",
+      "context": "En un texto argumentativo, la elección entre usar un nexo coordinante o un signo de puntuación (yuxtaposición) cambia el ritmo de la lectura.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v9",
       "statement": "Analiza la relación semántica en esta oración yuxtapuesta. ¿Por qué el autor eligió el punto y coma en lugar de un nexo como \"porque\"?",
-      "context": "Un texto dice: \"El río Magdalena es la arteria de Colombia; su historia es la nuestra\".",
+      "context": "Un texto dice: \"El río Magdalena es la arteria de Colombia; su historia es la nuestra\".\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes oraciones COORDINADAS COPULATIVAS NEGATIVAS está escrita correctamente?",
-      "context": "El uso correcto de la conjunción \"ni\" requiere que la oración tenga un sentido negativo previo o que se repita el nexo.",
+      "context": "El uso correcto de la conjunción \"ni\" requiere que la oración tenga un sentido negativo previo o que se repita el nexo.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la condición básica para que exista un diálogo entre dos personas?",
-      "context": "En la biblioteca de un colegio en Ibagué, dos amigos conversan sobre los libros que han leído este mes.",
+      "context": "En la biblioteca de un colegio en Ibagué, dos amigos conversan sobre los libros que han leído este mes.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v2",
       "statement": "¿Qué tipo de diálogo es este según su nivel de preparación?",
-      "context": "Lee el siguiente fragmento:\n—¿A qué hora empieza la clase de Educación Física, Andrés?\n—A las diez de la mañana en las canchas múltiples.\n—Gracias, allá nos vemos.",
+      "context": "Lee el siguiente fragmento:\n—¿A qué hora empieza la clase de Educación Física, Andrés?\n—A las diez de la mañana en las canchas múltiples.\n—Gracias, allá nos vemos.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la función principal de un moderador en un diálogo dirigido o formal?",
-      "context": "Un grupo de estudiantes en Sincelejo está realizando un diálogo dirigido para decidir el tema de su proyecto de grado.",
+      "context": "Un grupo de estudiantes en Sincelejo está realizando un diálogo dirigido para decidir el tema de su proyecto de grado.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v4",
       "statement": "¿Qué regla de la conversación se está rompiendo en esta situación digital?",
-      "context": "En un chat familiar de Barranquilla, varias personas escriben al mismo tiempo sobre temas diferentes: el partido de fútbol, la receta de la abuela y el clima.",
+      "context": "En un chat familiar de Barranquilla, varias personas escriben al mismo tiempo sobre temas diferentes: el partido de fútbol, la receta de la abuela y el clima.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la estructura que sigue este diálogo?",
-      "context": "Analiza este breve diálogo en un mercado de Medellín:\nVendedor: —¡A la orden, patrón! ¿Qué buscaba?\nCliente: —Buenas tardes. ¿A cómo tiene el kilo de mora?\nVendedor: —A seis mil pesitos, bien madura y dulce.",
+      "context": "Analiza este breve diálogo en un mercado de Medellín:\nVendedor: —¡A la orden, patrón! ¿Qué buscaba?\nCliente: —Buenas tardes. ¿A cómo tiene el kilo de mora?\nVendedor: —A seis mil pesitos, bien madura y dulce.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v6",
       "statement": "En los textos escritos, ¿cuál es el signo de puntuación que se utiliza para indicar que un personaje empieza a hablar en un diálogo?",
-      "context": "En una obra de teatro escolar en Popayán, un personaje dice: \"—¡Oh, qué bella tarde! —exclamó Juan mientras miraba el horizonte\".",
+      "context": "En una obra de teatro escolar en Popayán, un personaje dice: \"—¡Oh, qué bella tarde! —exclamó Juan mientras miraba el horizonte\".\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la falla ética y comunicativa que impide que esta discusión sea un verdadero diálogo?",
-      "context": "Dos personas discuten en una fila de un banco en Bogotá. Una de ellas no para de hablar y no deja que la otra explique por qué se coló.",
+      "context": "Dos personas discuten en una fila de un banco en Bogotá. Una de ellas no para de hablar y no deja que la otra explique por qué se coló.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v8",
       "statement": "¿Qué tipo de diálogo es la entrevista y por qué se diferencia de una charla de amigos?",
-      "context": "Un periodista de una revista en Colombia prepara una entrevista con un deportista famoso. El periodista lleva una lista de preguntas listas.",
+      "context": "Un periodista de una revista en Colombia prepara una entrevista con un deportista famoso. El periodista lleva una lista de preguntas listas.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v9",
       "statement": "Lee:\n—Oye, pelado, pásame esa vaina rápido que tenemos que irnos pal río antes de que llueva.\n¿Qué información nos da este diálogo sobre el personaje que habla?",
-      "context": "En la literatura, los autores usan el diálogo para mostrar la personalidad de los personajes sin tener que describirlos físicamente.",
+      "context": "En la literatura, los autores usan el diálogo para mostrar la personalidad de los personajes sin tener que describirlos físicamente.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W05-dialogo-conversacion-001-MASTERY-bundle-v10",
       "statement": "¿Por qué esta situación, aunque parece un diálogo, en realidad no cumple con la esencia de una conversación efectiva?",
-      "context": "Analiza la situación: Un padre y un hijo están \"dialogando\" sobre las notas del colegio. El padre habla durante 20 minutos seguidos sobre la importancia del estudio, y el hijo solo dice \"sí, señor\" al final.",
+      "context": "Analiza la situación: Un padre y un hijo están \"dialogando\" sobre las notas del colegio. El padre habla durante 20 minutos seguidos sobre la importancia del estudio, y el hijo solo dice \"sí, señor\" al final.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
