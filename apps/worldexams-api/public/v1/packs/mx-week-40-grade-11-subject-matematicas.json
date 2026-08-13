@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la diferencia común ($d$) de la sucesión aritmética $12, 7, 2, -3...$?",
-      "context": "Identificación de sucesiones aritméticas.",
+      "context": "Identificación de sucesiones aritméticas.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v2",
       "statement": "Dada la sucesión geométrica $4, 12, 36, 108...$ ¿cuál es el siguiente término?",
-      "context": "Sucesiones geométricas básicas.",
+      "context": "Sucesiones geométricas básicas.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v3",
       "statement": "Evalúa la sumatoria $\\sum_{i=1}^{3} (i^2 + 1)$.",
-      "context": "Notación de sumatoria.",
+      "context": "Notación de sumatoria.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v4",
       "statement": "¿De cuántas maneras se pueden elegir 2 frutas de un canasto con 5 frutas diferentes si NO importa el orden?",
-      "context": "Combinatoria básica.",
+      "context": "Combinatoria básica.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es el tercer término del desarrollo de $(x + 2)^4$?",
-      "context": "Binomio de Newton.",
+      "context": "Binomio de Newton.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v6",
       "statement": "Simplifica la expresión imaginaria $i^{14} + i^{16}$.",
-      "context": "Números complejos.",
+      "context": "Números complejos.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la pendiente de la recta perpendicular a $y = -2x + 8$?",
-      "context": "Geometría analítica de la recta.",
+      "context": "Geometría analítica de la recta.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es el radio de la circunferencia $x^2 + y^2 - 6x = 0$?",
-      "context": "Elementos de la circunferencia.",
+      "context": "Elementos de la circunferencia.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v9",
       "statement": "En una elipse con centro en el origen, el eje mayor está sobre el eje X y mide 10 unidades, mientras el eje menor mide 6. ¿Cuál es su ecuación?",
-      "context": "Propiedades de la elipse.",
+      "context": "Propiedades de la elipse.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v10",
       "statement": "Halla la coordenada del foco de la parábola $x^2 = 12y$.",
-      "context": "Foco de la parábola.",
+      "context": "Foco de la parábola.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v11",
       "statement": "Calcula la suma de los primeros 20 términos de la sucesión $5, 8, 11...$",
-      "context": "Suma de serie aritmética.",
+      "context": "Suma de serie aritmética.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es la suma infinita de la progresión $9, 3, 1, 1/3...$?",
-      "context": "Serie geométrica infinita.",
+      "context": "Serie geométrica infinita.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v13",
       "statement": "¿Cuántas palabras de 5 letras se pueden formar con las letras de la palabra \"LEVEL\"?",
-      "context": "Permutaciones con repetición.",
+      "context": "Permutaciones con repetición.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v14",
       "statement": "Simplifica el resultado de $\\frac{5 + 5i}{1 + 2i}$.",
-      "context": "División de complejos.",
+      "context": "División de complejos.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v15",
       "statement": "Halla la distancia del origen $(0,0)$ a la recta $5x - 12y + 26 = 0$.",
-      "context": "Distancia de punto a recta.",
+      "context": "Distancia de punto a recta.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v16",
       "statement": "Halla el punto donde se cruzan las rectas $y = 3x - 5$ y $y = x + 1$.",
-      "context": "Intersección de rectas.",
+      "context": "Intersección de rectas.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v17",
       "statement": "Si en una sucesión el término general es $a_n = 2^n + 3n$, ¿cuál es el valor del término $a_4$?",
-      "context": "Sucesiones mixtas.",
+      "context": "Sucesiones mixtas.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v18",
       "statement": "¿Cuántos equipos de 3 personas se pueden formar de un grupo de 6 personas si 2 de ellas se niegan a trabajar juntas?",
-      "context": "Combinaciones con restricciones.",
+      "context": "Combinaciones con restricciones.\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la ecuación de la circunferencia con centro en $(3, 4)$ que es tangente al eje X?",
-      "context": "Circunferencia y tangencia.",
+      "context": "Circunferencia y tangencia.\n**Expected_Success:** 0.32",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W40-repaso-integral-001-MASTERY-bundle-v20",
       "statement": "Halla la excentricidad de la elipse $16x^2 + 25y^2 = 400$.",
-      "context": "Excentricidad de la elipse.",
+      "context": "Excentricidad de la elipse.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el valor del área total bajo la curva de una distribución normal?",
-      "context": "Un profesor de estadística de la Universidad de Buenos Aires explica las propiedades de la campana de Gauss.",
+      "context": "Un profesor de estadística de la Universidad de Buenos Aires explica las propiedades de la campana de Gauss.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Clase universitaria teórica.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v2",
       "statement": "¿Qué porcentaje aproximado de los datos se encuentra en el intervalo [μ - σ, μ + σ]?",
-      "context": "Se analiza la distribución de las estaturas de los hombres adultos en Argentina, que sigue una distribución normal con media μ y desviación estándar σ.",
+      "context": "Se analiza la distribución de las estaturas de los hombres adultos en Argentina, que sigue una distribución normal con media μ y desviación estándar σ.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Datos biométricos poblacionales.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la fórmula correcta para calcular el puntaje Z (o tipificación)?",
-      "context": "Para poder usar las tablas de probabilidad, es necesario transformar una variable X ~ N(μ, σ) en una variable Z ~ N(0, 1).",
+      "context": "Para poder usar las tablas de probabilidad, es necesario transformar una variable X ~ N(μ, σ) en una variable Z ~ N(0, 1).\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v3\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Estandarización de variables.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el valor de la probabilidad P(Z < 0)?",
-      "context": "Se observa una distribución normal estándar Z ~ N(0, 1).",
+      "context": "Se observa una distribución normal estándar Z ~ N(0, 1).\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Propiedades de la normal estándar.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es el puntaje Z de un perno que mide 10,4 cm?",
-      "context": "En una fábrica de piezas automotrices de Córdoba, la longitud de un perno sigue una distribución normal con media 10 cm y desviación estándar 0,2 cm.",
+      "context": "En una fábrica de piezas automotrices de Córdoba, la longitud de un perno sigue una distribución normal con media 10 cm y desviación estándar 0,2 cm.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v5\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Control de calidad industrial.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v6",
       "statement": "¿Qué puntaje Z le corresponde a un alumno que sacó 50?",
-      "context": "Las notas de un examen de ingreso en una facultad de Rosario se distribuyen normalmente con media 65 y desviación 10.",
+      "context": "Las notas de un examen de ingreso en una facultad de Rosario se distribuyen normalmente con media 65 y desviación 10.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Evaluación académica masiva.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la probabilidad P(Z > 1)?",
-      "context": "Usando una tabla de distribución normal estándar, sabemos que P(Z < 1) ≈ 0,8413.",
+      "context": "Usando una tabla de distribución normal estándar, sabemos que P(Z < 1) ≈ 0,8413.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Uso de tablas de probabilidad.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v8",
       "statement": "Si una lámpara tiene un puntaje Z = 0, ¿cuántas horas duró?",
-      "context": "La duración de las lámparas LED producidas en Santa Fe sigue una distribución normal con media 1000 horas y desviación estándar 100 horas.",
+      "context": "La duración de las lámparas LED producidas en Santa Fe sigue una distribución normal con media 1000 horas y desviación estándar 100 horas.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Vida útil de productos tecnológicos.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v9",
       "statement": "Debido a la simetría de la campana, ¿a qué es igual la probabilidad P(Z > -1,64)?",
-      "context": "En un estudio sobre el peso de las manzanas de exportación en Río Negro, se sabe que P(Z < 1,64) = 0,95.",
+      "context": "En un estudio sobre el peso de las manzanas de exportación en Río Negro, se sabe que P(Z < 1,64) = 0,95.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v9\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Comercialización frutihortícola.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v10",
       "statement": "Visualmente, ¿cómo se diferencia la campana de la máquina A respecto a la de la máquina B?",
-      "context": "Se comparan dos máquinas que envasan yerba mate. Ambas tienen media 500 g, pero la máquina A tiene σ = 5 g y la máquina B tiene σ = 10 g.",
+      "context": "Se comparan dos máquinas que envasan yerba mate. Ambas tienen media 500 g, pero la máquina A tiene σ = 5 g y la máquina B tiene σ = 10 g.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v10\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Envasado de productos de consumo masivo.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v11",
       "statement": "Sabiendo que P(Z < 2) = 0,9772, ¿qué porcentaje de los aspirantes es \"sobresaliente\"?",
-      "context": "En un psicotécnico realizado en Mendoza, los puntajes siguen una N(100, 15). Se considera \"sobresaliente\" a quien esté por encima del puntaje 130.",
+      "context": "En un psicotécnico realizado en Mendoza, los puntajes siguen una N(100, 15). Se considera \"sobresaliente\" a quien esté por encima del puntaje 130.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v11\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Selección de personal.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el valor de P(-1 < Z < 1)?",
-      "context": "Se quiere calcular la probabilidad de que una variable normal estándar Z esté entre -1 y 1. Datos: P(Z < 1) = 0,8413.",
+      "context": "Se quiere calcular la probabilidad de que una variable normal estándar Z esté entre -1 y 1. Datos: P(Z < 1) = 0,8413.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Cálculo de probabilidad en intervalos centrales.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la desviación estándar de los tiempos de descarga?",
-      "context": "El tiempo de descarga de una app en Buenos Aires se distribuye normalmente. Se sabe que el 95% de las veces la descarga tarda menos de 10 segundos (Z ≈ 1,64) y la media es de 8 segundos.",
+      "context": "El tiempo de descarga de una app en Buenos Aires se distribuye normalmente. Se sabe que el 95% de las veces la descarga tarda menos de 10 segundos (Z ≈ 1,64) y la media es de 8 segundos.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Telecomunicaciones y experiencia de usuario.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la probabilidad de que el error sea mayor a 0,02 en valor absoluto (es decir, error > 0,02 o error < -0,02)? Dato: P(Z < 2) = 0,9772.",
-      "context": "Se analizan los errores de medición de una balanza de precisión en un laboratorio de San Luis. Los errores siguen una N(0; 0,01).",
+      "context": "Se analizan los errores de medición de una balanza de precisión en un laboratorio de San Luis. Los errores siguen una N(0; 0,01).\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v14\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Metrología y precisión de instrumentos.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es la probabilidad de que en un mes determinado el inversor pierda dinero (retorno menor a 0%)? Dato: P(Z < 0,5) = 0,6915.",
-      "context": "Un inversor en el Mercado de Valores de Buenos Aires sabe que el retorno mensual de una acción sigue una N(2%, 4%).",
+      "context": "Un inversor en el Mercado de Valores de Buenos Aires sabe que el retorno mensual de una acción sigue una N(2%, 4%).\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v15\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Inversiones financieras y riesgo.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v16",
       "statement": "¿A qué puntaje Z corresponde el percentil 10?",
-      "context": "En una distribución normal, el percentil 90 se encuentra a 1,28 desviaciones estándar de la media (Z = 1,28).",
+      "context": "En una distribución normal, el percentil 90 se encuentra a 1,28 desviaciones estándar de la media (Z = 1,28).\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v16\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Relación entre percentiles y puntajes Z.\n**Expected_Success:** 0.64",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es el valor de la media (μ) y la desviación estándar (σ)? Dato: Z para el 10% superior es 1,28.",
-      "context": "El consumo diario de agua por hogar en una ciudad patagónica sigue una distribución normal. Se sabe que el 10% de los hogares consume más de 600 litros y el 10% consume menos de 400 litros.",
+      "context": "El consumo diario de agua por hogar en una ciudad patagónica sigue una distribución normal. Se sabe que el 10% de los hogares consume más de 600 litros y el 10% consume menos de 400 litros.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Gestión de servicios públicos.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v18",
       "statement": "Si la empresa quiere que solo se rechace el 1% de las botellas (Z para 1% es -2,33), ¿a qué valor debe ajustar la media (μ) manteniendo la desviación en 10 ml?",
-      "context": "Un proceso de llenado de botellas de gaseosa en una planta de Buenos Aires está configurado para μ = 2000 ml y σ = 10 ml. El control de calidad rechaza botellas con menos de 1985 ml.",
+      "context": "Un proceso de llenado de botellas de gaseosa en una planta de Buenos Aires está configurado para μ = 2000 ml y σ = 10 ml. El control de calidad rechaza botellas con menos de 1985 ml.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Optimización de procesos productivos.\n**Expected_Success:** 0.48",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v19",
       "statement": "¿Cuál es la probabilidad aproximada de obtener más de 210 caras? Dato: P(Z < 1) = 0,8413.",
-      "context": "Se lanza una moneda equilibrada 400 veces. Queremos usar la aproximación de la Normal a la Binomial (μ = np, σ = √npq).",
+      "context": "Se lanza una moneda equilibrada 400 veces. Queremos usar la aproximación de la Normal a la Binomial (μ = np, σ = √npq).\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v19\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Teorema de De Moivre-Laplace.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la nota mínima para estar en el 15,87% de los mejores alumnos? Dato: Z para 2,28% superior es 2. Z para 15,87% superior es 1.",
-      "context": "Un examen de admisión muy difícil tiene una distribución normal. Se sabe que la nota media es 40 y que solo el 2,28% de los alumnos supera los 70 puntos.",
+      "context": "Un examen de admisión muy difícil tiene una distribución normal. Se sabe que la nota media es 40 y que solo el 2,28% de los alumnos supera los 70 puntos.\n\n**ID:** AR-MAT-11-2026-W26-distribucion-normal-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Distribuciones de alto rendimiento.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",

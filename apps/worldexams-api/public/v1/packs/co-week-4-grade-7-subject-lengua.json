@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la característica principal que define al género dramático frente al narrativo o al lírico?",
-      "context": "Un grupo de estudiantes de Bogotá asiste a una función en el Teatro Colón. Al leer el libreto, notan que la historia se cuenta de forma directa.",
+      "context": "Un grupo de estudiantes de Bogotá asiste a una función en el Teatro Colón. Al leer el libreto, notan que la historia se cuenta de forma directa.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denominan las indicaciones que el autor da sobre el vestuario, los movimientos o la escenografía en una obra dramática?",
-      "context": "Valentina lee una obra de teatro y encuentra textos escritos en cursiva y entre paréntesis como *(Sale lentamente por la izquierda)*.",
+      "context": "Valentina lee una obra de teatro y encuentra textos escritos en cursiva y entre paréntesis como *(Sale lentamente por la izquierda)*.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v3",
       "statement": "¿Qué recurso dramático se está utilizando cuando un personaje habla solo para revelar su mundo interior?",
-      "context": "En una obra, un personaje se queda solo en el escenario y expresa sus pensamientos en voz alta para que el público sepa lo que siente.",
+      "context": "En una obra, un personaje se queda solo en el escenario y expresa sus pensamientos en voz alta para que el público sepa lo que siente.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v4",
       "statement": "¿Cómo se llaman las partes principales en las que se divide una obra de teatro, que suelen ser tres (inicio, nudo y desenlace)?",
-      "context": "Las obras dramáticas suelen dividirse en grandes unidades que se marcan con la caída del telón o el apagado de luces.",
+      "context": "Las obras dramáticas suelen dividirse en grandes unidades que se marcan con la caída del telón o el apagado de luces.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v5",
       "statement": "¿Qué subgénero dramático se caracteriza por presentar conflictos de la vida cotidiana de manera humorística y con personajes comunes?",
-      "context": "Santiago estudia los subgéneros dramáticos. Aprende que uno de ellos busca provocar la risa y suele tener un final feliz.",
+      "context": "Santiago estudia los subgéneros dramáticos. Aprende que uno de ellos busca provocar la risa y suele tener un final feliz.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la finalidad principal (la \"catarsis\") que buscaba la tragedia griega en los espectadores?",
-      "context": "En el teatro clásico, la \"tragedia\" presentaba a héroes luchando contra un destino inevitable y terminaba siempre de forma funesta.",
+      "context": "En el teatro clásico, la \"tragedia\" presentaba a héroes luchando contra un destino inevitable y terminaba siempre de forma funesta.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v7",
       "statement": "¿Cómo se llama esta técnica donde un personaje comparte un secreto o pensamiento con el público rompiendo la \"cuarta pared\"?",
-      "context": "Camila analiza una escena donde dos personajes hablan, pero de repente uno mira al público y dice algo que el otro personaje \"no escucha\".",
+      "context": "Camila analiza una escena donde dos personajes hablan, pero de repente uno mira al público y dice algo que el otro personaje \"no escucha\".\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v8",
       "statement": "¿Qué función cumplió principalmente el teatro de \"Creación Colectiva\" en la historia reciente de Colombia?",
-      "context": "Durante el siglo XX en Colombia, el teatro se convirtió en una herramienta de denuncia social muy importante, alejándose de los temas clásicos.",
+      "context": "Durante el siglo XX en Colombia, el teatro se convirtió en una herramienta de denuncia social muy importante, alejándose de los temas clásicos.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v9",
       "statement": "¿Por qué se afirma que la obra dramática solo se completa en la representación?",
-      "context": "Algunos teóricos dicen que \"el texto dramático es solo la mitad de la obra\".",
+      "context": "Algunos teóricos dicen que \"el texto dramático es solo la mitad de la obra\".\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W04-genero-dramatico-001-MASTERY-bundle-v10",
       "statement": "¿Qué elemento del género dramático se está resaltando en este tipo de teatro contemporáneo (Teatro del Absurdo o experimental)?",
-      "context": "En una obra moderna, los personajes no hablan entre sí, sino que realizan acciones repetitivas mientras se oye un ruido extraño de fondo.",
+      "context": "En una obra moderna, los personajes no hablan entre sí, sino que realizan acciones repetitivas mientras se oye un ruido extraño de fondo.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",

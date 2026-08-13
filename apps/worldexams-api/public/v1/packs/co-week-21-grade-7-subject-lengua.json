@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se llama el tipo de argumento que utiliza números, porcentajes o datos comprobables para sustentar una idea?",
-      "context": "Existen diversas formas de apoyar una tesis según el tipo de información que se utilice.",
+      "context": "Existen diversas formas de apoyar una tesis según el tipo de información que se utilice.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de las siguientes frases es un ejemplo de **analogía**?",
-      "context": "Los argumentos por analogía establecen una comparación entre dos situaciones similares para extraer una conclusión.",
+      "context": "Los argumentos por analogía establecen una comparación entre dos situaciones similares para extraer una conclusión.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de argumento se utiliza en la siguiente frase?\n\"Si no protegemos los nacederos de agua, en el futuro sufriremos graves sequías que afectarán la agricultura nacional\".",
-      "context": "El argumento de causa-efecto establece una conexión lógica donde un hecho es consecuencia directa de otro.",
+      "context": "El argumento de causa-efecto establece una conexión lógica donde un hecho es consecuencia directa de otro.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v4",
       "statement": "¿En qué situación es más probable encontrar un predominio de **argumentos afectivos**?",
-      "context": "Los argumentos afectivos o emotivos buscan conmover al receptor para que acepte una idea por empatía.",
+      "context": "Los argumentos afectivos o emotivos buscan conmover al receptor para que acepte una idea por empatía.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v5",
       "statement": "¿Cuál de las siguientes es una idea basada en el **sentido común** o conocimiento general que sirve como argumento?",
-      "context": "Los argumentos de conocimiento general se basan en verdades aceptadas por la mayoría de la sociedad.",
+      "context": "Los argumentos de conocimiento general se basan en verdades aceptadas por la mayoría de la sociedad.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v6",
       "statement": "Analiza la siguiente frase: \"Todos los municipios que han invertido en turismo sostenible en Boyacá han mejorado su economía; por lo tanto, el turismo es la clave del desarrollo regional\". ¿Qué tipo de argumento se aplica?",
-      "context": "Un argumento por generalización observa varios casos similares y extrae una regla general de ellos.",
+      "context": "Un argumento por generalización observa varios casos similares y extrae una regla general de ellos.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v7",
       "statement": "¿En cuál de los siguientes casos el **argumento de autoridad** es **inapropiado**?",
-      "context": "Los argumentos de autoridad pueden perder validez si la persona citada no es experta en el tema que se discute.",
+      "context": "Los argumentos de autoridad pueden perder validez si la persona citada no es experta en el tema que se discute.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v8",
       "statement": "En un foro sobre transporte público, un ciudadano dice: \"Yo uso el Transmilenio todos los días desde hace diez años y puedo asegurar que el servicio ha empeorado en puntualidad\". ¿Qué valor tiene este argumento?",
-      "context": "Los argumentos de experiencia personal se basan en lo vivido por el propio autor del texto.",
+      "context": "Los argumentos de experiencia personal se basan en lo vivido por el propio autor del texto.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v9",
       "statement": "Lee el siguiente fragmento: \"El 80% de los jóvenes prefiere las redes sociales para informarse. Como dice el experto en medios Manuel Castells, vivimos en una sociedad de red. Por eso, si las escuelas no integran la tecnología, se quedarán aisladas del mundo real, tal como ocurrió con las bibliotecas que no se digitalizaron\".\n\n¿En qué orden aparecen los argumentos en este texto?",
-      "context": "Identificar el tipo de argumento dominante ayuda a entender la intención del autor y la calidad del texto.",
+      "context": "Identificar el tipo de argumento dominante ayuda a entender la intención del autor y la calidad del texto.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W21-tipos-de-argumentos-001-MASTERY-bundle-v10",
       "statement": "Analiza el siguiente argumento: \"Debes comprar esta marca de celular porque es la que más se vende en toda Colombia; si todos lo compran, es porque es el mejor\". ¿A qué tipo de razonamiento (posiblemente falaz) corresponde?",
-      "context": "Las falacias son argumentos que parecen válidos pero tienen un error lógico en su construcción.",
+      "context": "Las falacias son argumentos que parecen válidos pero tienen un error lógico en su construcción.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

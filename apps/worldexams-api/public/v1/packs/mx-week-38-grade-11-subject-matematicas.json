@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la ecuación de una circunferencia con centro en el origen $(0,0)$ y radio $r$?",
-      "context": "Ecuación canónica (con centro en el origen).",
+      "context": "Ecuación canónica (con centro en el origen).\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v2",
       "statement": "Dada la ecuación $(x - 3)^2 + (y + 4)^2 = 25$, ¿cuáles son las coordenadas del centro ($C$) y el valor del radio ($r$)?",
-      "context": "Identificación de centro y radio.",
+      "context": "Identificación de centro y radio.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la ecuación de la circunferencia con centro en $(2, 1)$ y radio 3?",
-      "context": "Ecuación a partir del radio y centro.",
+      "context": "Ecuación a partir del radio y centro.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la forma general de la ecuación de una circunferencia?",
-      "context": "Forma general de la circunferencia.",
+      "context": "Forma general de la circunferencia.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v5",
       "statement": "Desarrolla la ecuación $(x + 1)^2 + (y - 2)^2 = 4$ a su forma general.",
-      "context": "Conversión de forma ordinaria a general.",
+      "context": "Conversión de forma ordinaria a general.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v6",
       "statement": "Dada la ecuación $x^2 + y^2 - 6x + 8y - 11 = 0$, ¿cuál es el centro de la circunferencia?",
-      "context": "Centro desde la forma general.",
+      "context": "Centro desde la forma general.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v7",
       "statement": "Calcula el radio de la circunferencia cuya ecuación es $x^2 + y^2 - 10x - 2y + 10 = 0$.",
-      "context": "Radio desde la forma general.",
+      "context": "Radio desde la forma general.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v8",
       "statement": "Si una circunferencia con centro en $(5, -3)$ es tangente al eje Y, ¿cuál es el valor de su radio?",
-      "context": "Circunferencia tangente a un eje.",
+      "context": "Circunferencia tangente a un eje.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v9",
       "statement": "Encuentra el centro de una circunferencia si los extremos de uno de sus diámetros son $A(2, 5)$ y $B(6, 1)$.",
-      "context": "Puntos extremos del diámetro.",
+      "context": "Puntos extremos del diámetro.\n**Expected_Success:** 0.74",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes ecuaciones NO representa una circunferencia real?",
-      "context": "Reconocimiento de ecuaciones imposibles.",
+      "context": "Reconocimiento de ecuaciones imposibles.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v11",
       "statement": "Encuentra la ecuación de la circunferencia con centro en $C(1, 2)$ que pasa por el punto $P(4, 6)$.",
-      "context": "Ecuación con centro y un punto de paso.",
+      "context": "Ecuación con centro y un punto de paso.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v12",
       "statement": "¿Qué valores deben sumarse a ambos lados para completar cuadrados en $x^2 + y^2 - 4x + 6y = 3$?",
-      "context": "Completar el trinomio cuadrado perfecto.",
+      "context": "Completar el trinomio cuadrado perfecto.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v13",
       "statement": "Determina la ecuación de la circunferencia con centro en $(0, 0)$ que es tangente a la recta $3x + 4y - 10 = 0$.",
-      "context": "Circunferencia tangente a una recta.",
+      "context": "Circunferencia tangente a una recta.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la posición del punto $P(3, 4)$ respecto a la circunferencia $x^2 + y^2 = 16$?",
-      "context": "Posición relativa de un punto.",
+      "context": "Posición relativa de un punto.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v15",
       "statement": "¿En qué puntos corta al eje X la circunferencia $(x - 5)^2 + (y - 3)^2 = 25$?",
-      "context": "Intersección con los ejes.",
+      "context": "Intersección con los ejes.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v16",
       "statement": "Halla la ecuación de la circunferencia concéntrica a $x^2 + y^2 - 4x + 6y - 1 = 0$ y que tiene un radio de 5.",
-      "context": "Circunferencias concéntricas.",
+      "context": "Circunferencias concéntricas.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v17",
       "statement": "¿Cuál es la condición necesaria para que tres puntos en el plano determinen una única circunferencia?",
-      "context": "Circunferencia que pasa por tres puntos (teórico).",
+      "context": "Circunferencia que pasa por tres puntos (teórico).\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v18",
       "statement": "Encuentra la ecuación de la recta tangente a la circunferencia $x^2 + y^2 = 25$ en el punto $(3, 4)$.",
-      "context": "Recta tangente en un punto dado.",
+      "context": "Recta tangente en un punto dado.\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v19",
       "statement": "¿Cuántos puntos de intersección existen entre la recta $y = x + 10$ y la circunferencia $x^2 + y^2 = 25$?",
-      "context": "Intersección de recta y circunferencia.",
+      "context": "Intersección de recta y circunferencia.\n**Expected_Success:** 0.32",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W38-geometria-analitica-circunferencia-001-MASTERY-bundle-v20",
       "statement": "Una circunferencia está inscrita en un cuadrado cuyos lados están sobre las rectas $x=2, x=10, y=1, y=9$. ¿Cuál es su ecuación?",
-      "context": "Circunferencia inscrita en un cuadrado.",
+      "context": "Circunferencia inscrita en un cuadrado.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de las siguientes definiciones describe mejor qué es la **tesis** en un texto argumentativo?",
-      "context": "Un texto argumentativo tiene como objetivo principal convencer o persuadir al lector sobre un punto de vista determinado.",
+      "context": "Un texto argumentativo tiene como objetivo principal convencer o persuadir al lector sobre un punto de vista determinado.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la función principal de los **argumentos** en un ensayo?",
-      "context": "Los argumentos son las razones, datos o pruebas que se utilizan para sustentar la tesis.",
+      "context": "Los argumentos son las razones, datos o pruebas que se utilizan para sustentar la tesis.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v3",
       "statement": "Lee el siguiente fragmento: \"El uso excesivo de plásticos está destruyendo nuestros océanos y afectando a miles de especies marinas. Es urgente que el gobierno colombiano implemente leyes más estrictas para prohibir los plásticos de un solo uso\".\n\n¿Cuál es la tesis de este fragmento?",
-      "context": "Identificar la tesis en un texto breve es una habilidad clave para la comprensión crítica.",
+      "context": "Identificar la tesis en un texto breve es una habilidad clave para la comprensión crítica.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes frases representa un **argumento de autoridad** para defender la importancia de las vacunas?",
-      "context": "Un argumento de autoridad se basa en el prestigio de una persona o institución experta en el tema.",
+      "context": "Un argumento de autoridad se basa en el prestigio de una persona o institución experta en el tema.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v5",
       "statement": "¿En qué parte de un ensayo argumentativo se suele presentar la **tesis** por primera vez?",
-      "context": "Los textos argumentativos suelen tener una estructura clara: introducción, desarrollo y conclusión.",
+      "context": "Los textos argumentativos suelen tener una estructura clara: introducción, desarrollo y conclusión.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v6",
       "statement": "¿Cuál de las siguientes afirmaciones es una **opinión** que podría funcionar como base para una tesis?",
-      "context": "Diferenciar entre un hecho (objetivo) y una opinión (subjetiva) es vital para analizar argumentos.",
+      "context": "Diferenciar entre un hecho (objetivo) y una opinión (subjetiva) es vital para analizar argumentos.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v7",
       "statement": "Si la tesis es \"La música colombiana es diversa y reconocida mundialmente\", ¿qué argumento de **ejemplificación** sería más efectivo?",
-      "context": "Los argumentos de ejemplificación utilizan casos concretos para ilustrar y validar una idea general.",
+      "context": "Los argumentos de ejemplificación utilizan casos concretos para ilustrar y validar una idea general.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v8",
       "statement": "Identifica la falla lógica en este razonamiento:\nTesis: \"Debemos comer más frutas\".\nArgumento: \"Porque las frutas son de colores muy bonitos y alegran la decoración de la mesa\".\n\n¿Por qué este argumento es débil para defender la tesis?",
-      "context": "La relación entre tesis y argumentos debe ser lógica y coherente.",
+      "context": "La relación entre tesis y argumentos debe ser lógica y coherente.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v9",
       "statement": "En un debate sobre el uniforme escolar, un estudiante dice: \"Sé que muchos piensan que el uniforme limita la libertad de expresión (punto de vista contrario), pero en realidad ayuda a reducir las diferencias económicas entre compañeros\".\n\n¿Qué técnica argumentativa está usando el estudiante?",
-      "context": "Los contraargumentos son ideas que se oponen a la tesis y que el autor debe mencionar para luego refutarlas.",
+      "context": "Los contraargumentos son ideas que se oponen a la tesis y que el autor debe mencionar para luego refutarlas.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W20-tesis-y-argumentos-001-MASTERY-bundle-v10",
       "statement": "¿Cuál de las siguientes tesis es la mejor formulada para un ensayo académico de nivel secundaria?",
-      "context": "Evaluar la solidez de una tesis implica considerar si es debatible, clara y sustentable.",
+      "context": "Evaluar la solidez de una tesis implica considerar si es debatible, clara y sustentable.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",

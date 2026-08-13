@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la finalidad principal de un texto argumentativo?",
-      "context": "En un debate estudiantil en el Colegio Inem de Bucaramanga, los alumnos discuten sobre si se debe permitir el uso de celulares en el recreo.",
+      "context": "En un debate estudiantil en el Colegio Inem de Bucaramanga, los alumnos discuten sobre si se debe permitir el uso de celulares en el recreo.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v2",
       "statement": "En la frase anterior, ¿cuál es la tesis que defiende la estudiante?",
-      "context": "Una estudiante dice: \"Yo creo que el colegio debería tener más zonas verdes porque el contacto con la naturaleza ayuda a reducir el estrés y mejora nuestra concentración\".",
+      "context": "Una estudiante dice: \"Yo creo que el colegio debería tener más zonas verdes porque el contacto con la naturaleza ayuda a reducir el estrés y mejora nuestra concentración\".\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de argumento se está utilizando al citar a la Organización Mundial de la Salud (OMS)?",
-      "context": "Un artículo de opinión en un periódico de Cali argumenta que se debe hacer más deporte. Como prueba, menciona: \"Según la Organización Mundial de la Salud, la actividad física reduce el riesgo de enfermedades del corazón en un 30%\".",
+      "context": "Un artículo de opinión en un periódico de Cali argumenta que se debe hacer más deporte. Como prueba, menciona: \"Según la Organización Mundial de la Salud, la actividad física reduce el riesgo de enfermedades del corazón en un 30%\".\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de los siguientes sería un argumento basado en DATOS U OBJETIVOS para convencer a sus padres?",
-      "context": "Juan quiere convencer a sus padres en Manizales para que le dejen adoptar un perro.",
+      "context": "Juan quiere convencer a sus padres en Manizales para que le dejen adoptar un perro.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la intención de usar la cifra \"9 de cada 10\" en este mensaje publicitario?",
-      "context": "En un comercial de televisión colombiana se dice: \"9 de cada 10 odontólogos recomiendan esta crema dental para proteger tu sonrisa\".",
+      "context": "En un comercial de televisión colombiana se dice: \"9 de cada 10 odontólogos recomiendan esta crema dental para proteger tu sonrisa\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v6",
       "statement": "¿Qué se debe hacer normalmente en la parte de la CONCLUSIÓN?",
-      "context": "Un texto argumentativo suele tener tres partes: Introducción, Cuerpo argumentativo y Conclusión.",
+      "context": "Un texto argumentativo suele tener tres partes: Introducción, Cuerpo argumentativo y Conclusión.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v7",
       "statement": "¿Qué tipo de argumento es este?",
-      "context": "En una discusión sobre la comida chatarra en el colegio, alguien dice: \"Comer hamburguesas todos los días es malo porque el exceso de grasas saturadas tapa las arterias y produce obesidad\".",
+      "context": "En una discusión sobre la comida chatarra en el colegio, alguien dice: \"Comer hamburguesas todos los días es malo porque el exceso de grasas saturadas tapa las arterias y produce obesidad\".\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de estos conectores usarías para introducir un argumento que va en contra de la opinión mayoritaria?",
-      "context": "Al escribir un texto argumentativo, los conectores lógicos son esenciales. Por ejemplo: \"en primer lugar\", \"sin embargo\", \"por lo tanto\".",
+      "context": "Al escribir un texto argumentativo, los conectores lógicos son esenciales. Por ejemplo: \"en primer lugar\", \"sin embargo\", \"por lo tanto\".\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v9",
       "statement": "¿Por qué la frase anterior NO se considera un buen argumento?",
-      "context": "Analiza la diferencia entre \"opinión\" y \"argumento\". En una red social colombiana, alguien escribe: \"Esa película es malísima porque no me gustó\".",
+      "context": "Analiza la diferencia entre \"opinión\" y \"argumento\". En una red social colombiana, alguien escribe: \"Esa película es malísima porque no me gustó\".\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W11-argumentacion-001-MASTERY-bundle-v10",
       "statement": "Si la tesis de alguien es: \"Los videojuegos deben prohibirse porque vuelven violentos a los niños\", ¿cuál sería un CONTRAARGUMENTO válido?",
-      "context": "Un \"contraargumento\" es una idea que se usa para rebatir o discutir la tesis de otra persona.",
+      "context": "Un \"contraargumento\" es una idea que se usa para rebatir o discutir la tesis de otra persona.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",

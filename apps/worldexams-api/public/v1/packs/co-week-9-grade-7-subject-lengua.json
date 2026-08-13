@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se denomina a las palabras o expresiones que han caído en desuso o que pertenecen a una época pasada, muy comunes en la literatura del siglo XIX?",
-      "context": "Al leer textos literarios del siglo XIX, es común encontrar palabras que ya no se usan frecuentemente en el habla cotidiana.",
+      "context": "Al leer textos literarios del siglo XIX, es común encontrar palabras que ya no se usan frecuentemente en el habla cotidiana.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v2",
       "statement": "En la literatura del siglo XIX, ¿qué función cumple predominantemente la descripción detallada del paisaje?",
-      "context": "Un estudiante lee un fragmento descriptivo de una hacienda vallecaucana donde el narrador detalla la luz, los olores y el sonido del río.",
+      "context": "Un estudiante lee un fragmento descriptivo de una hacienda vallecaucana donde el narrador detalla la luz, los olores y el sonido del río.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v3",
       "statement": "¿Qué información fundamental sobre el narrador y el tiempo de la historia nos da este inicio?",
-      "context": "Valentina analiza el inicio de \"María\": \"Era yo niño cuando me alejaron de mi casa para que fuera a estudiar a Bogotá...\".",
+      "context": "Valentina analiza el inicio de \"María\": \"Era yo niño cuando me alejaron de mi casa para que fuera a estudiar a Bogotá...\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v4",
       "statement": "Lee la frase: \"Don Prudencio se vestía con sedas de Francia en medio del calor de la plaza, creyendo que así su linaje brillaba más\". ¿Qué actitud del autor se percibe aquí?",
-      "context": "En los cuadros de costumbres, los autores suelen usar la ironía para criticar a los personajes que se comportan de manera ridícula.",
+      "context": "En los cuadros de costumbres, los autores suelen usar la ironía para criticar a los personajes que se comportan de manera ridícula.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la diferencia en la \"función del lenguaje\" que predomina en cada uno?",
-      "context": "Santiago compara dos textos: un poema de amor de Julio Flórez y una arenga política de un prócer de la independencia.",
+      "context": "Santiago compara dos textos: un poema de amor de Julio Flórez y una arenga política de un prócer de la independencia.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v6",
       "statement": "\"Las montañas de los Andes son los gigantes dormidos que custodian nuestra libertad\". ¿Qué figura literaria y qué significado patriótico se encuentran en esta frase?",
-      "context": "En el análisis literario, se estudia cómo el autor utiliza figuras retóricas para enriquecer el texto.",
+      "context": "En el análisis literario, se estudia cómo el autor utiliza figuras retóricas para enriquecer el texto.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v7",
       "statement": "¿Qué visión de la vida se desprende del análisis de estas tragedias románticas del siglo XIX?",
-      "context": "Camila analiza el final trágico de una obra romántica. Nota que el destino parece estar en contra de los amantes y que la fatalidad es inevitable.",
+      "context": "Camila analiza el final trágico de una obra romántica. Nota que el destino parece estar en contra de los amantes y que la fatalidad es inevitable.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la mejor estrategia de análisis para superar la barrera del lenguaje regional antiguo en estos textos?",
-      "context": "Al leer un texto costumbrista de Carrasquilla, un estudiante moderno dice: \"No entiendo nada porque hablan muy raro\".",
+      "context": "Al leer un texto costumbrista de Carrasquilla, un estudiante moderno dice: \"No entiendo nada porque hablan muy raro\".\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v9",
       "statement": "¿Qué diferencia de profundidad se señala en esta afirmación entre el costumbrismo \"superficial\" y el realismo \"profundo\"?",
-      "context": "Un análisis literario afirma que \"el realismo de Carrasquilla es superior al costumbrismo anterior porque no se queda en la superficie de la ropa, sino que entra en el alma del personaje\".",
+      "context": "Un análisis literario afirma que \"el realismo de Carrasquilla es superior al costumbrismo anterior porque no se queda en la superficie de la ropa, sino que entra en el alma del personaje\".\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el valor de seguir analizando textos del siglo XIX en el siglo XXI?",
-      "context": "Al comparar un texto del siglo XIX con uno actual sobre el mismo tema (por ejemplo, el amor), se notan grandes diferencias de estilo.",
+      "context": "Al comparar un texto del siglo XIX con uno actual sobre el mismo tema (por ejemplo, el amor), se notan grandes diferencias de estilo.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v1",
       "statement": "¿Quién es el escritor francés considerado el fundador y máximo teórico del Naturalismo con su obra \"La novela experimental\"?",
-      "context": "El Naturalismo es una corriente literaria que surgió en la segunda mitad del siglo XIX, llevando al extremo los principios del Realismo.",
+      "context": "El Naturalismo es una corriente literaria que surgió en la segunda mitad del siglo XIX, llevando al extremo los principios del Realismo.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el concepto fundamental del Naturalismo que sostiene que el destino de las personas está determinado por su herencia biológica y su entorno social?",
-      "context": "El Naturalismo se basa en la idea de que el ser humano está condicionado por factores que no puede controlar.",
+      "context": "El Naturalismo se basa en la idea de que el ser humano está condicionado por factores que no puede controlar.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de ambientes y realidades prefiere mostrar la literatura naturalista para demostrar sus teorías sobre la conducta humana?",
-      "context": "Los temas del Naturalismo suelen ser más crudos y desagradables que los del Realismo convencional.",
+      "context": "Los temas del Naturalismo suelen ser más crudos y desagradables que los del Realismo convencional.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la función del autor dentro de una novela naturalista según la teoría de Émile Zola?",
-      "context": "El Naturalismo aplica el método científico a la literatura. El autor es como un médico que realiza una autopsia social.",
+      "context": "El Naturalismo aplica el método científico a la literatura. El autor es como un médico que realiza una autopsia social.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v5",
       "statement": "Si en una novela naturalista se describe que un joven es alcohólico porque su padre y su abuelo lo fueron, ¿qué ley se está intentando demostrar?",
-      "context": "La herencia genética es un factor clave en el desarrollo de los personajes naturalistas.",
+      "context": "La herencia genética es un factor clave en el desarrollo de los personajes naturalistas.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v6",
       "statement": "¿Cuál fue la principal adaptación que hizo Emilia Pardo Bazán del Naturalismo francés para que fuera aceptado en la sociedad católica española?",
-      "context": "Emilia Pardo Bazán fue la introductora del Naturalismo en España con sus artículos \"La cuestión palpitante\" y su novela \"Los pazos de Ulloa\".",
+      "context": "Emilia Pardo Bazán fue la introductora del Naturalismo en España con sus artículos \"La cuestión palpitante\" y su novela \"Los pazos de Ulloa\".\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v7",
       "statement": "¿Por qué los críticos de la época acusaron al Naturalismo de ser una literatura \"asquerosa\" o \"de alcantarilla\"?",
-      "context": "El Naturalismo presta mucha atención a la fisiología humana y a las funciones básicas del cuerpo.",
+      "context": "El Naturalismo presta mucha atención a la fisiología humana y a las funciones básicas del cuerpo.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v8",
       "statement": "¿Qué objetivo político y social perseguía el Naturalismo al mostrar las terribles condiciones de vida del proletariado industrial?",
-      "context": "En la novela naturalista \"Germinal\" de Zola, se describe la vida de los mineros y sus luchas sociales.",
+      "context": "En la novela naturalista \"Germinal\" de Zola, se describe la vida de los mineros y sus luchas sociales.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v9",
       "statement": "Si en una novela naturalista se describe a un hombre peleando por comida \"como un lobo hambriento, con los instintos dominando su razón\", ¿qué visión del ser humano se está transmitiendo?",
-      "context": "El Naturalismo utiliza a menudo la técnica de la \"animalización\" de los personajes.",
+      "context": "El Naturalismo utiliza a menudo la técnica de la \"animalización\" de los personajes.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la diferencia entre el campo idealizado del Renacimiento y el campo naturalista de Blasco Ibáñez?",
-      "context": "Blasco Ibáñez, en sus novelas valencianas como \"La barraca\", aplicó el Naturalismo a la realidad del campo español.",
+      "context": "Blasco Ibáñez, en sus novelas valencianas como \"La barraca\", aplicó el Naturalismo a la realidad del campo español.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v11",
       "statement": "¿De qué manera las descripciones hiperrealistas del Naturalismo anticiparon el lenguaje del cine que nacería pocos años después?",
-      "context": "Algunos críticos modernos sostienen que el Naturalismo fue la \"primera literatura multimedia\" por su obsesión con el detalle sensorial y visual.",
+      "context": "Algunos críticos modernos sostienen que el Naturalismo fue la \"primera literatura multimedia\" por su obsesión con el detalle sensorial y visual.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v12",
       "statement": "Si el determinismo es total, ¿qué valor tiene la lucha de los personajes naturalistas por mejorar su vida?",
-      "context": "El Naturalismo ha sido criticado por ser excesivamente pesimista, eliminando la esperanza de cambio personal.",
+      "context": "El Naturalismo ha sido criticado por ser excesivamente pesimista, eliminando la esperanza de cambio personal.\n**Expected_Success:** 0.42",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v1",
       "statement": "Resuelva la siguiente ecuación para $x$: $\\log_2(x) = 4$.",
-      "context": "Un estudiante de preparatoria en la CDMX resuelve una ecuación logarítmica básica aplicando la definición.",
+      "context": "Un estudiante de preparatoria en la CDMX resuelve una ecuación logarítmica básica aplicando la definición.\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v2",
       "statement": "Determine el valor de $x$ en la ecuación exponencial $10^x = 1000$.",
-      "context": "Se busca encontrar el exponente desconocido en una base común en un taller de matemáticas.",
+      "context": "Se busca encontrar el exponente desconocido en una base común en un taller de matemáticas.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la solución para $x$ en la ecuación $\\ln(x + 1) = 0$?",
-      "context": "Un joven en Guadalajara despeja una incógnita dentro del argumento de un logaritmo natural.",
+      "context": "Un joven en Guadalajara despeja una incógnita dentro del argumento de un logaritmo natural.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el primer paso recomendado para resolver la ecuación $5^x = 20$?",
-      "context": "Un estudiante de ingeniería en Monterrey utiliza logaritmos para resolver una ecuación donde las bases no son iguales.",
+      "context": "Un estudiante de ingeniería en Monterrey utiliza logaritmos para resolver una ecuación donde las bases no son iguales.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v5",
       "statement": "Resuelva la ecuación: $2^{x+3} = 32$.",
-      "context": "Un técnico industrial resuelve una ecuación exponencial igualando bases.",
+      "context": "Un técnico industrial resuelve una ecuación exponencial igualando bases.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v6",
       "statement": "Dada la ecuación $3^x = 15$, ¿cuál es el valor aproximado de $x$? (Considere $\\log(3) \\approx 0.477$ y $\\log(15) \\approx 1.176$).",
-      "context": "Un analista financiero en Puebla utiliza logaritmos para encontrar el tiempo de una inversión.",
+      "context": "Un analista financiero en Puebla utiliza logaritmos para encontrar el tiempo de una inversión.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v7",
       "statement": "Resuelva la ecuación: $\\log(x) + \\log(2) = 1$.",
-      "context": "Se resuelve una ecuación logarítmica que requiere simplificación previa.",
+      "context": "Se resuelve una ecuación logarítmica que requiere simplificación previa.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v8",
       "statement": "Determine el valor de $x$ en la ecuación $e^{2x} = 7$.",
-      "context": "Un estudiante de la UNAM resuelve una ecuación exponencial con base $e$.",
+      "context": "Un estudiante de la UNAM resuelve una ecuación exponencial con base $e$.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v9",
       "statement": "Dada la ecuación $3^x = 9^{x-1}$, resuelva para $x$.",
-      "context": "En un estudio de población, se busca el momento en que una población se triplica.",
+      "context": "En un estudio de población, se busca el momento en que una población se triplica.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v10",
       "statement": "Resuelva para $x$: $\\log_2(x) - \\log_2(3) = 2$.",
-      "context": "Un estudiante de ingeniería simplifica una resta de logaritmos igualada a un valor constante.",
+      "context": "Un estudiante de ingeniería simplifica una resta de logaritmos igualada a un valor constante.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v11",
       "statement": "Resuelva la ecuación: $4^x = (\\frac{1}{2})^{x-3}$.",
-      "context": "Un científico del IPN analiza una ecuación exponencial donde las bases son recíprocas.",
+      "context": "Un científico del IPN analiza una ecuación exponencial donde las bases son recíprocas.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v12",
       "statement": "Determine el valor de $x$ en la ecuación: $\\log_x(16) = 2$.",
-      "context": "Se resuelve una ecuación logarítmica con una base cuadrática.",
+      "context": "Se resuelve una ecuación logarítmica con una base cuadrática.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la solución para $x$ en $\\log(x^2) = 2$?",
-      "context": "Un estudiante de economía resuelve una ecuación donde debe aplicar el logaritmo de una potencia.",
+      "context": "Un estudiante de economía resuelve una ecuación donde debe aplicar el logaritmo de una potencia.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v14",
       "statement": "Resuelva para $x$: $2^{3x-1} = 5$.",
-      "context": "Un investigador utiliza la propiedad de la potencia para despejar una variable en un exponente compuesto.",
+      "context": "Un investigador utiliza la propiedad de la potencia para despejar una variable en un exponente compuesto.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v15",
       "statement": "¿Para qué valor de $x$ se cumple que $3 \\cdot 2^x = 12$?",
-      "context": "Se analiza el punto de intersección de dos funciones exponenciales.",
+      "context": "Se analiza el punto de intersección de dos funciones exponenciales.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v16",
       "statement": "Resuelva la ecuación: $\\log_2(x) + \\log_2(x - 2) = 3$.",
-      "context": "Un estudiante de preparatoria en Monterrey resuelve una ecuación logarítmica con una base fraccionaria en el argumento.",
+      "context": "Un estudiante de preparatoria en Monterrey resuelve una ecuación logarítmica con una base fraccionaria en el argumento.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v17",
       "statement": "Resuelva para $x$ la ecuación: $4^x - 6 \\cdot 2^x + 8 = 0$.",
-      "context": "Un experto en matemáticas avanzadas resuelve una ecuación exponencial mediante un cambio de variable (sustitución).",
+      "context": "Un experto en matemáticas avanzadas resuelve una ecuación exponencial mediante un cambio de variable (sustitución).\n**Expected_Success:** 0.25",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es el valor de $x$ que satisface $x^x = 4$ para $x > 0$?",
-      "context": "Se busca resolver una ecuación donde la base y el exponente contienen a la incógnita.",
+      "context": "Se busca resolver una ecuación donde la base y el exponente contienen a la incógnita.\n**Expected_Success:** 0.20",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v19",
       "statement": "Resuelva el sistema para $x$ e $y$:\n$\\log(x) + \\log(y) = 2$\n$x - y = 15$",
-      "context": "Un estudiante avanzado resuelve un sistema de ecuaciones logarítmicas.",
+      "context": "Un estudiante avanzado resuelve un sistema de ecuaciones logarítmicas.\n**Expected_Success:** 0.20",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W30-logaritmos-ecuaciones-exponenciales-001-MASTERY-bundle-v20",
       "statement": "Determine la solución exacta para $x$ en la ecuación $2^x = 3^{x+1}$.",
-      "context": "Un matemático del Cinvestav analiza una ecuación exponencial con bases que no comparten factores primos.",
+      "context": "Un matemático del Cinvestav analiza una ecuación exponencial con bases que no comparten factores primos.\n**Expected_Success:** 0.15",
       "options": [
         {
           "letter": "A",

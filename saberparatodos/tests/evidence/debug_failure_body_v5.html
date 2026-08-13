@@ -1,0 +1,514 @@
+<!DOCTYPE html><html lang="es-CO" class="fonts-loaded"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><script type="application/json" id="api-config">{"apiBaseUrl":"https://api.saberparatodos.space/v1","countryCode":"CO","exam":"icfes"}</script><!-- 🛡️ Global Error Guard & JS Detection --><script>
+      // 1. Mark JS as available immediately
+      document.documentElement.classList.remove('no-js');
+
+      // 2. Global Error Guard: If app crashes, force show content
+      window.onerror = function(msg, _url, _line, _col, error) {
+        console.error('🚨 Global Error:', msg, error);
+        // Force remove loading states
+        document.documentElement.classList.remove('fonts-loading');
+        // Force show all scroll-reveal elements
+        const hiddenElements = document.querySelectorAll('[data-sr]');
+        hiddenElements.forEach(el => el.classList.add('sr-visible'));
+        return false; // Let default handler run too
+      };
+
+      // 3. Safety Timeout for Fonts (3s max)
+      setTimeout(function() {
+        if (document.documentElement.classList.contains('fonts-loading')) {
+          console.warn('⚠️ Fonts loading timed out - forcing visible');
+          document.documentElement.classList.remove('fonts-loading');
+        }
+      }, 3000);
+    </script><!-- 🔇 Production Log Silencer - Must be FIRST script --><script>(function(){const isProd = true;
+
+      if (isProd) {
+        // Silence console in production
+        console.log = function() {};
+        console.info = function() {};
+        console.debug = function() {};
+        // Keep warn and error for critical issues
+      }
+    })();</script><!-- Favicons & App Icons --><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><meta name="generator" content="Astro v7.1.4"><meta name="version" content="0.15.2"><link rel="sitemap" href="/sitemap-index.xml"><!-- PWA Manifest --><link rel="manifest" href="/manifest.json"><meta name="theme-color" content="#1a1a2e"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="SaberParaTodos"><!-- Critical CSS (inline para evitar render-blocking) --><style>/**
+ * critical.css
+ *
+ * CSS crítico para renderizado above-the-fold
+ * Se incluye inline en el <head> para evitar render-blocking
+ *
+ * Solo incluye estilos esenciales para:
+ * - Layout base
+ * - Navbar
+ * - Tipografía inicial
+ * - Variables CSS críticas
+ */
+
+/* ========================================
+   CRITICAL CSS VARIABLES
+   ======================================== */
+:root {
+  /* Colors - runtime theme defaults */
+  --color-primary: #FCD116;
+  --color-secondary: #003893;
+  --color-accent: #CE1126;
+
+  /* Dark mode colors */
+  --bg-dark: #1a1a2e;
+  --bg-card: #16213e;
+  --bg-gradient-start: #0f0f1a;
+  --bg-gradient-end: #1a1a2e;
+
+  /* Text colors */
+  --text-primary: #ffffff;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+
+  /* Sizing */
+  --header-height: 4rem;
+  --container-max: 1280px;
+
+  /* Font stacks with fallbacks */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  --font-mono: 'Fira Code', ui-monospace, SFMono-Regular, 'SF Mono', Consolas, monospace;
+}
+
+/* ========================================
+   CRITICAL RESET & BASE
+   ======================================== */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+  background-attachment: fixed;
+  color: var(--text-primary);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Prevent CLS from images */
+img, video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ========================================
+   CRITICAL LAYOUT
+   ======================================== */
+.min-h-screen {
+  min-height: 100vh;
+  min-height: 100dvh; /* iOS safe */
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-1 {
+  flex: 1 1 0%;
+}
+
+/* ========================================
+   CRITICAL NAVBAR STYLES
+   ======================================== */
+header, nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: rgba(15, 15, 26, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Reserve space for navbar to prevent CLS */
+header {
+  height: var(--header-height);
+}
+
+/* ========================================
+   CRITICAL TYPOGRAPHY
+   ======================================== */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 3.5rem);
+}
+
+h2 {
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ========================================
+   CRITICAL HERO SECTION
+   ======================================== */
+.hero-section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+/* ========================================
+   CRITICAL BUTTON SKELETON
+   ======================================== */
+button, .btn {
+  font-family: inherit;
+  cursor: pointer;
+  border: 0;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+/* ========================================
+   CRITICAL LOADING STATES
+   ======================================== */
+/* Prevent layout shift from scroll reveal */
+[data-sr] {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.sr-visible[data-sr],
+.no-js [data-sr] {
+  opacity: 1;
+  transform: none;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  [data-sr] {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ========================================
+   CRITICAL CONTAINER
+   ======================================== */
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+/* ========================================
+   FONT LOADING OPTIMIZATION
+   ======================================== */
+/* Fallback font metrics to reduce CLS during font swap */
+@font-face {
+  font-family: 'Inter-fallback';
+  src: local('Arial');
+  ascent-override: 90%;
+  descent-override: 22%;
+  line-gap-override: 0%;
+  size-adjust: 107%;
+}
+
+/* Use fallback while Inter loads */
+.fonts-loading body {
+  font-family: 'Inter-fallback', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+</style><!-- Theme CSS Variables --><style>
+      :root {
+        --color-primary: var(--colorPrimary);
+        --color-secondary: var(--colorSecondary);
+        --color-accent: var(--colorAccent);
+        --color-background: var(--colorBackground);
+        --color-text: var(--colorText);
+      }
+    </style><!-- SEO --><title>Zona de Practica ICFES | SaberParaTodos</title><meta name="description" content="Accede a la app de practica de SaberParaTodos para crear simulacros, entrenar por areas y revisar resultados para Saber 11."><meta name="keywords" content="simulacro saber 11, preguntas icfes, icfes, colombia"><meta name="author" content="World Exams Product Team"><meta name="publisher" content="World Exams"><link rel="canonical" href="https://saberparatodos.space/"><link rel="alternate" hreflang="es-CO" href="https://saberparatodos.space/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><!-- Open Graph / Facebook --><meta property="og:type" content="website"><meta property="og:url" content="https://saberparatodos.space/"><meta property="og:title" content="Zona de Practica ICFES | SaberParaTodos"><meta property="og:description" content="Accede a la app de practica de SaberParaTodos para crear simulacros, entrenar por areas y revisar resultados para Saber 11."><meta property="og:image" content="https://saberparatodos.space/og-image.svg"><meta property="og:image:secure_url" content="https://saberparatodos.space/og-image.svg"><meta property="og:image:type" content="image/svg+xml"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Zona de Practica ICFES | SaberParaTodos"><meta property="og:site_name" content="SaberParaTodos"><meta property="og:locale" content="es_CO"><!-- Twitter --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@worldexams_org"><meta name="twitter:creator" content="@worldexams_org"><meta name="twitter:url" content="https://saberparatodos.space/"><meta name="twitter:title" content="Zona de Practica ICFES | SaberParaTodos"><meta name="twitter:description" content="Accede a la app de practica de SaberParaTodos para crear simulacros, entrenar por areas y revisar resultados para Saber 11."><meta name="twitter:image" content="https://saberparatodos.space/og-image.svg"><meta name="twitter:image:alt" content="Zona de Practica ICFES | SaberParaTodos"><!-- DNS Prefetch para recursos externos --><link rel="dns-prefetch" href="https://fonts.googleapis.com"><link rel="dns-prefetch" href="https://fonts.gstatic.com"><!-- Preconnect para fuentes (crítico para LCP) --><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><!-- Cargar fuentes con display=swap para evitar FOIT --><link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet" media="all" onload="this.setAttribute('media', 'all')"><noscript><link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript><script>
+      // Detectar cuando las fuentes están listas (reduce CLS)
+      if ('fonts' in document) {
+        document.fonts.ready.then(function() {
+          document.documentElement.classList.remove('fonts-loading');
+          document.documentElement.classList.add('fonts-loaded');
+        });
+      } else {
+        // Fallback para navegadores sin Font Loading API
+        document.documentElement.classList.remove('fonts-loading');
+      }
+    </script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"SaberParaTodos","url":"https://saberparatodos.space","logo":"https://saberparatodos.space/logo.png","email":"mailto:contacto@saberparatodos.space","contactPoint":{"@type":"ContactPoint","contactType":"customer support","email":"contacto@saberparatodos.space","availableLanguage":["es-CO"]},"sameAs":["https://github.com/world-exams"]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"SaberParaTodos","url":"https://saberparatodos.space","inLanguage":"es-CO","publisher":{"@type":"Organization","name":"SaberParaTodos","url":"https://saberparatodos.space"},"potentialAction":{"@type":"SearchAction","target":"https://saberparatodos.space/?q={search_term_string}","query-input":"required name=search_term_string"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"SaberParaTodos","url":"https://saberparatodos.space","applicationCategory":"EducationalApplication","operatingSystem":"All","inLanguage":"es-CO","offers":{"@type":"Offer","price":"0","priceCurrency":"COP"}}</script><!-- 2026 SEO: INP (Interaction to Next Paint) Optimization --><script>
+      // Lightweight yield pattern for high-priority interactions
+      window.yieldToMain = async () => {
+        return new Promise(resolve => {
+          if (window.requestIdleCallback) {
+            window.requestIdleCallback(() => resolve());
+          } else {
+            setTimeout(resolve, 0);
+          }
+        });
+      };
+
+      // Faster tap response (INP)
+      document.addEventListener('touchstart', function() {}, {passive: true});
+    </script><link rel="stylesheet" href="/_astro/Layout.DymPuS0t.css"><style>@keyframes fade-in-up {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+  @keyframes svelte-d7zxm8-pulse-slow {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+
+  .animate-pulse-slow.svelte-d7zxm8 {
+    animation: svelte-d7zxm8-pulse-slow 2s ease-in-out infinite;
+  }
+</style><link rel="stylesheet" href="/_astro/config.CQKWHiya.css"><style>
+  @keyframes svelte-c6muwl-slide-up {
+    from {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  @keyframes svelte-c6muwl-fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .animate-slide-up.svelte-c6muwl {
+    animation: svelte-c6muwl-slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .animate-fade-in.svelte-c6muwl {
+    animation: svelte-c6muwl-fade-in 0.2s ease-out forwards;
+  }
+
+  /* 🔥 CRITICAL: Disable flashlight effect on touch devices to prevent sticky hover */
+  @media (hover: none) {
+    .flashlight-effect.svelte-99envo {
+      display: none !important;
+      opacity: 0 !important;
+    }
+  }
+
+  /* Optional animations for mobile view */
+  @keyframes svelte-vpsm6q-fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .animate-fade-in.svelte-vpsm6q {
+    animation: svelte-vpsm6q-fadeIn 0.25s ease-out forwards;
+  }
+
+  .ad-container.svelte-1yw38aq {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px dashed rgba(255, 255, 255, 0.1);
+    border-radius: 0.5rem;
+    overflow: hidden;
+    min-height: 250px; /* Match card height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .custom-scrollbar.svelte-idwt8k::-webkit-scrollbar {
+    width: 4px;
+  }
+  .custom-scrollbar.svelte-idwt8k::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar.svelte-idwt8k::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+  }
+  .custom-scrollbar.svelte-idwt8k::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.2);
+  }
+
+  @keyframes svelte-1f7gmzp-scan {
+    0%, 100% { transform: translateY(-100%); opacity: 0; }
+    50% { transform: translateY(100%); opacity: 1; }
+  }
+
+  @keyframes svelte-1f7gmzp-progress {
+    0% { transform: scaleX(0); }
+    50% { transform: scaleX(0.7); }
+    100% { transform: scaleX(1); }
+  }
+
+  /* Subtle glass shimmer effect */
+  div.svelte-86jtp0::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.05),
+      transparent
+    );
+    animation: svelte-86jtp0-shimmer 10s infinite;
+  }
+
+  @keyframes svelte-86jtp0-shimmer {
+    0% { left: -100%; }
+    20% { left: 200%; }
+    100% { left: 200%; }
+  }
+
+    .scrollbar-hide.svelte-1504bq4::-webkit-scrollbar {
+        display: none;
+    }
+    .scrollbar-hide.svelte-1504bq4 {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+
+  @keyframes svelte-10ejrjs-shrink {
+    from {
+      width: 100%;
+    }
+    to {
+      width: 0%;
+    }
+  }
+
+  .animate-shrink.svelte-10ejrjs {
+    animation: svelte-10ejrjs-shrink linear forwards;
+  }
+/*$vite$:1*/
+  /* Custom select arrow */
+  select.svelte-1a43a71 {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+    background-position: right 0.5rem center;
+    background-repeat: no-repeat;
+    background-size: 1.5em 1.5em;
+    padding-right: 2.5rem;
+  }
+/*$vite$:1*/</style></head><body class="min-h-screen flex flex-col"><!-- Noise Filter SVG Definition --><svg style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="true"><filter id="noiseFilter"><feTurbulence type="fractalNoise" baseFrequency="0.80" numOctaves="3" stitchTiles="stitch"></feTurbulence><feColorMatrix type="saturate" values="0"></feColorMatrix></filter></svg><script type="module">globalThis.process??={},globalThis.process.env??={},document.querySelectorAll(`.country-btn[data-country]`).forEach(e=>{e.addEventListener(`click`,t=>{t.preventDefault();let n=e.dataset.country||`CO`;typeof window.setCountryOverride==`function`?window.setCountryOverride(n):(localStorage.setItem(`worldexams_country`,JSON.stringify({code:n,timestamp:Date.now()})),window.location.reload())})}),document.addEventListener(`DOMContentLoaded`,()=>{let e=document.getElementById(`close-country-banner`),t=document.getElementById(`country-banner`);if(e&&t&&e.addEventListener(`click`,()=>{t.style.display=`none`,localStorage.setItem(`country_banner_dismissed`,`true`)}),localStorage.getItem(`country_banner_dismissed`)){let e=document.getElementById(`country-banner`);e&&(e.style.display=`none`)}});</script><main class="flex-1"><div id="mobile-hero" class="static-content group/hero fixed inset-0 z-[100] bg-[#0A0A0B]/95 backdrop-blur-md flex flex-col justify-center items-center transition-opacity duration-1000" data-astro-cid-lcdefpme="" style="opacity: 0; pointer-events: none; display: none;"><button id="hero-close-btn" class="absolute top-6 right-6 w-10 h-10 flex items-center justify-center bg-white/10 rounded-full text-white/70 hover:text-white transition-colors border border-white/20 shadow-lg z-50" data-astro-cid-lcdefpme=""><svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" data-astro-cid-lcdefpme=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" data-astro-cid-lcdefpme=""></path></svg></button><section class="min-h-[70vh] flex flex-col items-center justify-center px-4 relative overflow-hidden w-full" data-astro-cid-lcdefpme=""><div class="absolute inset-0 bg-[#0A0A0B] -z-10 md:hidden" data-astro-cid-lcdefpme=""></div><div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-6xl h-full bg-emerald-500/5 blur-[120px] rounded-full -z-10" data-astro-cid-lcdefpme=""></div><div class="w-full max-w-4xl mx-auto flex flex-col items-center text-center mt-0 md:mt-0 relative z-10 transition-transform duration-700 translate-y-4 opacity-0 animate-[fade-in-up_0.8s_ease-out_forwards]" data-astro-cid-lcdefpme=""><div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-8 uppercase tracking-widest" data-astro-cid-lcdefpme="">ICFES 2026 • 100% gratis</div><h1 class="text-4xl md:text-7xl font-black text-[#F5F5DC] mb-6 tracking-tight drop-shadow-md text-center w-full" data-astro-cid-lcdefpme="">Domina el ICFES con <br class="md:hidden" data-astro-cid-lcdefpme=""><span class="text-emerald-500" data-astro-cid-lcdefpme="">Inteligencia</span></h1><p class="text-lg md:text-xl text-white/60 mb-12 max-w-2xl text-center leading-relaxed px-4 md:px-0" data-astro-cid-lcdefpme="">Entorno minimalista optimizado para enfoque y eficiencia. Crea simulacros personalizados, entrena por areas y preparate para Pruebas Saber del Instituto Colombiano para la Evaluación de la Educación.</p><div class="flex flex-col items-center justify-center gap-4 mt-8" data-astro-cid-lcdefpme=""><div class="flex items-center justify-center gap-2 text-xs font-mono text-emerald-500/50 uppercase tracking-widest animate-pulse" data-astro-cid-lcdefpme=""><span data-astro-cid-lcdefpme="">Iniciando plataforma</span><span id="countdown-timer" class="text-white font-bold ml-1" data-astro-cid-lcdefpme="">0s</span><span class="flex space-x-1 ml-1" data-astro-cid-lcdefpme=""><span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 0ms" data-astro-cid-lcdefpme=""></span><span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 150ms" data-astro-cid-lcdefpme=""></span><span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 300ms" data-astro-cid-lcdefpme=""></span></span></div><label class="flex items-center gap-2 text-xs text-white/40 hover:text-white/80 cursor-pointer transition-colors mt-2 bg-white/5 px-3 py-1.5 rounded-full border border-white/10" data-astro-cid-lcdefpme=""><input type="checkbox" id="dont-show-hero" class="rounded bg-black/50 border-white/20 text-emerald-500 focus:ring-emerald-500/30" data-astro-cid-lcdefpme="" style=""><span data-astro-cid-lcdefpme="">No volver a mostrar</span></label></div></div></section><noscript><div class="p-8 text-center bg-red-500/10 border border-red-500/20 rounded-xl my-4 mx-auto max-w-xl text-red-400" data-astro-cid-lcdefpme>Esta aplicacion requiere JavaScript para funcionar. Por favor, activalo en tu navegador para realizar tus simulacros.</div></noscript></div><script type="module">globalThis.process??={},globalThis.process.env??={},document.addEventListener(`DOMContentLoaded`,()=>{let e=document.getElementById(`mobile-hero`),t=document.getElementById(`countdown-timer`),n=document.getElementById(`dont-show-hero`);if(!e)return;if(localStorage.getItem(`spt_hide_hero`)===`true`){e.style.display=`none`;return}let r=4,i,a=()=>{n&&n.checked&&localStorage.setItem(`spt_hide_hero`,`true`),i&&clearInterval(i),e.style.opacity=`0`,e.style.pointerEvents=`none`,setTimeout(()=>{e.style.display=`none`},1e3)},o=document.getElementById(`hero-close-btn`);o&&o.addEventListener(`click`,a),i=setInterval(()=>{--r,t&&(t.textContent=r+`s`),r<=0&&a()},1e3)});</script><style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).only=e;window.dispatchEvent(new Event("astro:only"));})();</script><script>(()=>{var g=Object.defineProperty;var w=(a,s,c)=>s in a?g(a,s,{enumerable:!0,configurable:!0,writable:!0,value:c}):a[s]=c;var l=(a,s,c)=>w(a,typeof s!="symbol"?s+"":s,c);var E=new Set(["__proto__","constructor","prototype"]);{let a={0:t=>y(t),1:t=>c(t),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(c(t)),5:t=>new Set(c(t)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(t),9:t=>new Uint16Array(t),10:t=>new Uint32Array(t),11:t=>Number.POSITIVE_INFINITY*t},s=t=>{let[p,e]=t;return p in a?a[p](e):void 0},c=t=>t.map(s),y=t=>typeof t!="object"||t===null?t:Object.fromEntries(Object.entries(t).map(([p,e])=>[p,s(e)]));class f extends HTMLElement{constructor(){super(...arguments);l(this,"Component");l(this,"hydrator");l(this,"hydrate",async()=>{var b;if(!this.hydrator||!this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest("astro-island[ssr]");if(e){e.addEventListener("astro:hydrate",this.hydrate,{once:!0});return}let r=this.querySelectorAll("astro-slot"),n={},d=this.querySelectorAll("template[data-astro-template]");for(let o of d){let i=o.closest(this.tagName);i!=null&&i.isSameNode(this)&&(n[o.getAttribute("data-astro-template")||"default"]=o.innerHTML,o.remove())}for(let o of r){let i=o.closest(this.tagName);i!=null&&i.isSameNode(this)&&(n[o.getAttribute("name")||"default"]=o.innerHTML)}let u;try{u=this.hasAttribute("props")?y(JSON.parse(this.getAttribute("props"))):{}}catch(o){let i=this.getAttribute("component-url")||"<unknown>",v=this.getAttribute("component-export");throw v&&(i+=` (export ${v})`),console.error(`[hydrate] Error parsing props for component ${i}`,this.getAttribute("props"),o),o}let h;await this.hydrator(this)(this.Component,u,n,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),this.dispatchEvent(new CustomEvent("astro:hydrate"))});l(this,"unmount",()=>{this.isConnected||this.dispatchEvent(new CustomEvent("astro:unmount"))})}disconnectedCallback(){document.removeEventListener("astro:after-swap",this.unmount),document.addEventListener("astro:after-swap",this.unmount,{once:!0})}connectedCallback(){if(!this.hasAttribute("await-children")||document.readyState==="interactive"||document.readyState==="complete")this.childrenConnectedCallback();else{let e=()=>{document.removeEventListener("DOMContentLoaded",e),r.disconnect(),this.childrenConnectedCallback()},r=new MutationObserver(()=>{var n;((n=this.lastChild)==null?void 0:n.nodeType)===Node.COMMENT_NODE&&this.lastChild.nodeValue==="astro:end"&&(this.lastChild.remove(),e())});r.observe(this,{childList:!0}),document.addEventListener("DOMContentLoaded",e)}}async childrenConnectedCallback(){let e=this.getAttribute("before-hydration-url");e&&await import(e),this.start()}getRetryImportUrl(e){let r=new URL(e,document.baseURI);return r.searchParams.set("astro-retry",Date.now().toString()),r.toString()}async importWithRetry(e){try{return await import(e)}catch(r){return await new Promise(n=>setTimeout(n,1e3)),import(this.getRetryImportUrl(e))}}handleHydrationError(e){let r=this.getAttribute("component-url"),n=new CustomEvent("astro:hydration-error",{cancelable:!0,bubbles:!0,composed:!0,detail:{error:e,componentUrl:r}});this.dispatchEvent(n)&&console.error(`[astro-island] Error hydrating ${r}`,e)}async start(){let e=JSON.parse(this.getAttribute("opts")),r=this.getAttribute("client");if(Astro[r]===void 0){window.addEventListener(`astro:${r}`,()=>this.start(),{once:!0});return}try{await Astro[r](async()=>{let n=this.getAttribute("renderer-url");try{let[d,{default:u}]=await Promise.all([this.importWithRetry(this.getAttribute("component-url")),n?this.importWithRetry(n):Promise.resolve({default:()=>()=>{}})]),h=this.getAttribute("component-export")||"default";if(h.includes(".")){this.Component=d;for(let m of h.split(".")){if(E.has(m)||!this.Component||typeof this.Component!="object"&&typeof this.Component!="function"||!Object.hasOwn(this.Component,m))throw new Error(`Invalid component export path: ${h}`);this.Component=this.Component[m]}}else{if(E.has(h))throw new Error(`Invalid component export path: ${h}`);this.Component=d[h]}return this.hydrator=u,this.hydrate}catch(d){return this.handleHydrationError(d),()=>{}}},e,this)}catch(n){this.handleHydrationError(n)}}attributeChangedCallback(){this.hydrate()}}l(f,"observedAttributes",["props"]),customElements.get("astro-island")||customElements.define("astro-island",f)}})();</script><astro-island uid="BbUi7" component-url="/_astro/App.BMpEHLYb.js" component-export="default" renderer-url="/_astro/client.svelte.BDSb_1EG.js" props="{&quot;questions&quot;:[1,[]],&quot;universalPool&quot;:[0,null],&quot;countryCode&quot;:[0,&quot;CO&quot;],&quot;runtimeCountry&quot;:[0,{&quot;code&quot;:[0,&quot;CO&quot;],&quot;name&quot;:[0,&quot;Colombia&quot;],&quot;nameEnglish&quot;:[0,&quot;Colombia&quot;],&quot;flag&quot;:[0,&quot;🇨🇴&quot;],&quot;examName&quot;:[0,&quot;ICFES Saber&quot;],&quot;examFullName&quot;:[0,&quot;Pruebas Saber del Instituto Colombiano para la Evaluación de la Educación&quot;],&quot;examAuthority&quot;:[0,&quot;ICFES&quot;],&quot;locale&quot;:[0,&quot;es-CO&quot;],&quot;timezone&quot;:[0,&quot;America/Bogota&quot;],&quot;grades&quot;:[1,[[0,{&quot;id&quot;:[0,3],&quot;name&quot;:[0,&quot;3° Primaria&quot;],&quot;description&quot;:[0,&quot;Tercer grado de primaria&quot;]}],[0,{&quot;id&quot;:[0,5],&quot;name&quot;:[0,&quot;5° Primaria&quot;],&quot;description&quot;:[0,&quot;Quinto grado de primaria&quot;]}],[0,{&quot;id&quot;:[0,7],&quot;name&quot;:[0,&quot;7° Secundaria&quot;],&quot;description&quot;:[0,&quot;Séptimo grado&quot;]}],[0,{&quot;id&quot;:[0,9],&quot;name&quot;:[0,&quot;9° Secundaria&quot;],&quot;description&quot;:[0,&quot;Noveno grado&quot;]}],[0,{&quot;id&quot;:[0,11],&quot;name&quot;:[0,&quot;11° Media&quot;],&quot;description&quot;:[0,&quot;Undécimo grado (Saber 11)&quot;]}]]],&quot;subjects&quot;:[1,[[0,{&quot;id&quot;:[0,&quot;matematicas&quot;],&quot;name&quot;:[0,&quot;Matemáticas&quot;],&quot;icon&quot;:[0,&quot;🔢&quot;],&quot;globalId&quot;:[0,&quot;math&quot;]}],[0,{&quot;id&quot;:[0,&quot;lenguaje&quot;],&quot;name&quot;:[0,&quot;Lenguaje&quot;],&quot;icon&quot;:[0,&quot;📖&quot;],&quot;globalId&quot;:[0,&quot;language&quot;]}],[0,{&quot;id&quot;:[0,&quot;ciencias&quot;],&quot;name&quot;:[0,&quot;Ciencias Naturales&quot;],&quot;icon&quot;:[0,&quot;🔬&quot;],&quot;globalId&quot;:[0,&quot;science&quot;]}],[0,{&quot;id&quot;:[0,&quot;sociales&quot;],&quot;name&quot;:[0,&quot;Ciencias Sociales&quot;],&quot;icon&quot;:[0,&quot;🌍&quot;],&quot;globalId&quot;:[0,&quot;social&quot;]}],[0,{&quot;id&quot;:[0,&quot;ingles&quot;],&quot;name&quot;:[0,&quot;Inglés&quot;],&quot;icon&quot;:[0,&quot;🇬🇧&quot;],&quot;globalId&quot;:[0,&quot;english&quot;]}],[0,{&quot;id&quot;:[0,&quot;lectura-critica&quot;],&quot;name&quot;:[0,&quot;Lectura Crítica&quot;],&quot;icon&quot;:[0,&quot;📚&quot;],&quot;globalId&quot;:[0,&quot;reading&quot;]}]]],&quot;theme&quot;:[0,{&quot;primary&quot;:[0,&quot;#FCD116&quot;],&quot;secondary&quot;:[0,&quot;#003893&quot;],&quot;accent&quot;:[0,&quot;#CE1126&quot;],&quot;bgDark&quot;:[0,&quot;#1a1a2e&quot;],&quot;bgCard&quot;:[0,&quot;#16213e&quot;],&quot;textPrimary&quot;:[0,&quot;#ffffff&quot;],&quot;textSecondary&quot;:[0,&quot;#a0a0a0&quot;]}],&quot;culture&quot;:[0,{&quot;currency&quot;:[0,{&quot;code&quot;:[0,&quot;COP&quot;],&quot;symbol&quot;:[0,&quot;$&quot;],&quot;name&quot;:[0,&quot;Pesos colombianos&quot;]}],&quot;cities&quot;:[1,[[0,&quot;Bogotá&quot;],[0,&quot;Medellín&quot;],[0,&quot;Cali&quot;],[0,&quot;Barranquilla&quot;],[0,&quot;Cartagena&quot;],[0,&quot;Bucaramanga&quot;]]],&quot;commonNames&quot;:[0,{&quot;male&quot;:[1,[[0,&quot;Juan&quot;],[0,&quot;Carlos&quot;],[0,&quot;Andrés&quot;],[0,&quot;Santiago&quot;],[0,&quot;Sebastián&quot;],[0,&quot;Daniel&quot;]]],&quot;female&quot;:[1,[[0,&quot;María&quot;],[0,&quot;Valentina&quot;],[0,&quot;Sofía&quot;],[0,&quot;Isabella&quot;],[0,&quot;Camila&quot;],[0,&quot;Laura&quot;]]]}],&quot;culturalReferences&quot;:[1,[[0,&quot;café&quot;],[0,&quot;vallenato&quot;],[0,&quot;cumbia&quot;],[0,&quot;orquídeas&quot;],[0,&quot;esmeraldas&quot;],[0,&quot;sombrero vueltiao&quot;]]]}],&quot;githubRepo&quot;:[0,&quot;worldexams/saber-co&quot;],&quot;schedules&quot;:[0,{&quot;calendarType&quot;:[0,&quot;A&quot;],&quot;periods&quot;:[1,[[0,{&quot;id&quot;:[0,1],&quot;name&quot;:[0,&quot;1er Periodo&quot;],&quot;startMonth&quot;:[0,2],&quot;startDay&quot;:[0,3],&quot;endMonth&quot;:[0,4],&quot;endDay&quot;:[0,11]}],[0,{&quot;id&quot;:[0,2],&quot;name&quot;:[0,&quot;2do Periodo&quot;],&quot;startMonth&quot;:[0,4],&quot;startDay&quot;:[0,14],&quot;endMonth&quot;:[0,6],&quot;endDay&quot;:[0,13]}],[0,{&quot;id&quot;:[0,3],&quot;name&quot;:[0,&quot;3er Periodo&quot;],&quot;startMonth&quot;:[0,7],&quot;startDay&quot;:[0,7],&quot;endMonth&quot;:[0,9],&quot;endDay&quot;:[0,12]}],[0,{&quot;id&quot;:[0,4],&quot;name&quot;:[0,&quot;4to Periodo&quot;],&quot;startMonth&quot;:[0,9],&quot;startDay&quot;:[0,15],&quot;endMonth&quot;:[0,11],&quot;endDay&quot;:[0,28]}]]],&quot;exams&quot;:[1,[[0,{&quot;id&quot;:[0,&quot;11B&quot;],&quot;name&quot;:[0,&quot;Saber 11° (Cal. B)&quot;],&quot;month&quot;:[0,3],&quot;day&quot;:[0,15],&quot;official&quot;:[0,true]}],[0,{&quot;id&quot;:[0,&quot;PRO&quot;],&quot;name&quot;:[0,&quot;Saber Pro / TyT&quot;],&quot;month&quot;:[0,4],&quot;day&quot;:[0,26],&quot;official&quot;:[0,true]}],[0,{&quot;id&quot;:[0,&quot;11A&quot;],&quot;name&quot;:[0,&quot;Saber 11° (Cal. A)&quot;],&quot;month&quot;:[0,7],&quot;day&quot;:[0,26],&quot;official&quot;:[0,true]}],[0,{&quot;id&quot;:[0,&quot;3579&quot;],&quot;name&quot;:[0,&quot;Saber 3°, 5°, 7°, 9°&quot;],&quot;month&quot;:[0,10],&quot;day&quot;:[0,15],&quot;official&quot;:[0,false]}]]]}],&quot;product&quot;:[0,{&quot;siteName&quot;:[0,&quot;SaberParaTodos&quot;],&quot;siteUrl&quot;:[0,&quot;https://saberparatodos.space&quot;],&quot;contactEmail&quot;:[0,&quot;contacto@saberparatodos.space&quot;],&quot;guideLabel&quot;:[0,&quot;ICFES&quot;],&quot;guideYear&quot;:[0,2026],&quot;seoKeywords&quot;:[1,[[0,&quot;simulacro icfes gratis&quot;],[0,&quot;simulacro saber 11&quot;],[0,&quot;preicfes gratis&quot;],[0,&quot;banco de preguntas icfes&quot;],[0,&quot;pruebas saber colombia&quot;],[0,&quot;practicar icfes online&quot;],[0,&quot;preguntas icfes matematicas&quot;],[0,&quot;preguntas icfes lectura critica&quot;],[0,&quot;guia saber 11&quot;],[0,&quot;examen icfes online&quot;]]],&quot;defaultDescription&quot;:[0,&quot;Practica gratis para el ICFES Saber 11 con simulacros, banco de preguntas y guías por área. Matemáticas, Lectura Crítica, Inglés, Ciencias y más.&quot;],&quot;features&quot;:[0,{&quot;blog&quot;:[0,true],&quot;preuniversitario&quot;:[0,true],&quot;developerPortal&quot;:[0,true],&quot;comments&quot;:[0,true],&quot;mathVideos&quot;:[0,true]}],&quot;giscus&quot;:[0,{&quot;repo&quot;:[0,&quot;worldexams/worldexams&quot;],&quot;repoId&quot;:[0,&quot;R_kgDONXw98Q&quot;],&quot;category&quot;:[0,&quot;Announcements&quot;],&quot;categoryId&quot;:[0,&quot;DIC_kwDONXw98c4Ckz9-&quot;],&quot;lang&quot;:[0,&quot;es&quot;]}]}],&quot;language&quot;:[0,&quot;es-CO&quot;],&quot;currencyCode&quot;:[0,&quot;COP&quot;],&quot;institutionName&quot;:[0,&quot;ICFES&quot;],&quot;gradeNames&quot;:[0,{&quot;3&quot;:[0,&quot;3° Primaria&quot;],&quot;5&quot;:[0,&quot;5° Primaria&quot;],&quot;7&quot;:[0,&quot;7° Secundaria&quot;],&quot;9&quot;:[0,&quot;9° Secundaria&quot;],&quot;11&quot;:[0,&quot;11° Media&quot;]}],&quot;subjectAliases&quot;:[0,{&quot;math&quot;:[0,&quot;Matemáticas&quot;],&quot;matematicas&quot;:[0,&quot;Matemáticas&quot;],&quot;language&quot;:[0,&quot;Lenguaje&quot;],&quot;lenguaje&quot;:[0,&quot;Lenguaje&quot;],&quot;science&quot;:[0,&quot;Ciencias Naturales&quot;],&quot;ciencias&quot;:[0,&quot;Ciencias Naturales&quot;],&quot;social&quot;:[0,&quot;Ciencias Sociales&quot;],&quot;sociales&quot;:[0,&quot;Ciencias Sociales&quot;],&quot;english&quot;:[0,&quot;Inglés&quot;],&quot;ingles&quot;:[0,&quot;Inglés&quot;],&quot;reading&quot;:[0,&quot;Lectura Crítica&quot;],&quot;lectura-critica&quot;:[0,&quot;Lectura Crítica&quot;]}],&quot;features&quot;:[0,{&quot;blog&quot;:[0,true],&quot;preuniversitario&quot;:[0,true],&quot;developerPortal&quot;:[0,true],&quot;comments&quot;:[0,true],&quot;mathVideos&quot;:[0,true]}],&quot;giscus&quot;:[0,{&quot;repo&quot;:[0,&quot;worldexams/worldexams&quot;],&quot;repoId&quot;:[0,&quot;R_kgDONXw98Q&quot;],&quot;category&quot;:[0,&quot;Announcements&quot;],&quot;categoryId&quot;:[0,&quot;DIC_kwDONXw98c4Ckz9-&quot;],&quot;lang&quot;:[0,&quot;es&quot;]}]}],&quot;data-astro-cid-lcdefpme&quot;:[0,true]}" client="only" opts="{&quot;name&quot;:&quot;App&quot;,&quot;value&quot;:&quot;svelte&quot;}"><div class="min-h-screen bg-[#121212] text-[#F5F5DC] font-mono selection:bg-emerald-500/30 overflow-x-hidden"><!----><div class="fixed bottom-6 right-6 z-[200] max-w-[320px] svelte-86jtp0" role="alert" data-testid="local-mode-notice"><div class="relative overflow-hidden bg-black/40 backdrop-blur-md border border-yellow-500/20 rounded-xl shadow-2xl p-4 group svelte-86jtp0"><div class="flex gap-3 relative z-10 svelte-86jtp0"><div class="shrink-0 svelte-86jtp0"><div class="w-10 h-10 rounded-lg bg-yellow-500/5 flex items-center justify-center text-xl border border-yellow-500/10 shadow-inner svelte-86jtp0">💾</div></div> <div class="flex-1 min-w-0 svelte-86jtp0"><div class="flex items-center justify-between mb-1 svelte-86jtp0"><h4 class="text-yellow-400 font-bold text-[10px] uppercase tracking-wider svelte-86jtp0">Modo Local</h4> <button class="text-white/20 hover:text-white transition-colors -mt-1 -mr-1 svelte-86jtp0" aria-label="Cerrar"><svg class="w-3 h-3 svelte-86jtp0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M6 18L18 6M6 6l12 12" class="svelte-86jtp0"></path></svg></button></div> <p class="text-[10px] text-white/60 leading-tight mb-3 svelte-86jtp0">Tu progreso se guarda actualmente en el navegador durante las pruebas privadas. El registro e inicio de sesión en la nube permanecerán desactivados hasta el lanzamiento oficial, mientras que el flujo local sigue disponible bajo los <a href="/terminos" class="text-white/40 hover:text-white underline svelte-86jtp0">términos</a>.</p> <button class="w-full py-1.5 px-3 bg-yellow-500/10 hover:bg-yellow-500 text-yellow-400 hover:text-black font-bold text-[9px] uppercase tracking-widest rounded-md border border-yellow-500/20 transition-all active:scale-95 svelte-86jtp0">Entendido</button></div></div></div></div><!----> <!----> <!----> <div class="bg-noise"></div> <header class="app-header fixed top-0 left-0 right-0 z-50 border-b border-white/5"><div class="absolute inset-0 bg-[#121212]/80 backdrop-blur-sm pointer-events-none"></div> <div class="container mx-auto px-4 py-3 flex items-center justify-between relative z-10"><div class="flex items-center gap-3"><button class="text-sm font-bold uppercase tracking-widest hover:text-emerald-500 transition-colors">SaberParaTodos</button> <div class="hidden sm:flex items-center gap-1.5 text-[10px] font-mono border border-white/10 px-2 py-0.5 rounded"><span class="text-yellow-400/80">v0.15.2</span> <span class="text-white/20">|</span> <span class="text-emerald-500/70" title="Git commit">1cc16b2</span> <span class="text-white/20">|</span> <span class="text-white/50">18 de jun</span><!----></div> <a href="/guia-examen" class="hidden md:flex ml-4 px-3 py-1.5 text-[10px] font-bold uppercase tracking-widest border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500/10 transition-colors rounded items-center gap-1"><span>GUIA</span> Volver a la Guia Principal</a> <a href="/guia-examen" class="md:hidden ml-2 px-2 py-1 text-[10px] font-bold uppercase tracking-widest border border-emerald-500/50 text-emerald-500 rounded">Guia</a></div> <div class="flex items-center gap-4"><!----> <div class="flex items-center gap-2"><button class="p-2 text-white/40 hover:text-indigo-400 transition-colors" title="Mi Perfil Offline"><svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg></button> <button class="p-2 text-white/40 hover:text-emerald-500 transition-colors" title="Ver Historial Local"><svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg></button></div></div></div></header><!----> <main class="relative z-10 container mx-auto px-4 py-8 pt-20"><!----> <div class="flex flex-col items-center min-h-screen text-center px-4 pt-8 pb-20 sm:pb-24 w-full overflow-hidden relative"><div class="hero-gradient"></div> <div class="particles"><div class="particle particle-1"></div> <div class="particle particle-2"></div> <div class="particle particle-3"></div></div> <div class="w-full space-y-4 relative z-10 flex flex-col items-center text-center"><div class="flex items-center justify-center gap-2 mb-4"><span class="text-2xl leading-none">🇨🇴</span> <span class="text-xs font-bold uppercase tracking-[0.3em]" style="color: rgb(252, 209, 22);">Colombia</span></div> <p class="text-xs font-bold uppercase tracking-[0.4em] text-emerald-500 animate-pulse-slow">Beta abierta :: v0.15.2</p> <h1 class="text-6xl md:text-8xl font-bold tracking-tighter uppercase text-[#F5F5DC] relative text-center w-full">Saber Para Todos <span class="absolute bottom-1 left-1/2 -translate-x-1/2 w-32 h-1 rounded-full" style="background: linear-gradient(90deg, rgb(252, 209, 22), rgb(0, 56, 147), rgb(206, 17, 38));"></span></h1> <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60 mt-4 relative z-20 text-center">Interfaz preparatoria avanzada para pruebas estandarizadas.
+            Entorno minimalista optimizado para enfoque y eficiencia.</p> <div class="flex items-center justify-center gap-6 mt-6 text-xs opacity-50 relative z-20"><div class="flex items-center gap-1 group relative cursor-help"><svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg> <span>4000+ preguntas</span> <div class="absolute bottom-full left-1/2 -translate-x-1/2 mb-3 px-4 py-3 bg-[#0a0a0a]/95 text-emerald-100 text-xs rounded-xl opacity-0 group-hover:opacity-100 transition-all duration-300 transform group-hover:-translate-y-1 pointer-events-none border border-emerald-500/20 shadow-2xl z-50 w-64 text-center backdrop-blur-xl"><div class="font-bold text-emerald-400 mb-1.5 uppercase tracking-wider text-[10px]">Banco Dinámico</div> <p class="leading-relaxed mb-2 text-white/90">Las preguntas rotan <span class="text-white font-bold border-b border-emerald-500/50">semanalmente</span>.</p> <div class="bg-emerald-500/10 p-2.5 rounded-lg border border-emerald-500/10 text-left relative overflow-hidden"><div class="absolute inset-0 bg-gradient-to-r from-emerald-500/5 to-transparent"></div> <p class="text-[10px] text-emerald-200/90 leading-tight relative z-10"><strong class="text-emerald-400">💡 Tip:</strong> Si no borras la app, acumularás todas las preguntas en tu dispositivo <strong class="text-white">GRATIS</strong>.</p></div> <div class="mt-2 text-[10px] text-white/20 font-mono uppercase tracking-widest">ICFES Saber · Colombia</div> <div class="absolute -bottom-1.5 left-1/2 -translate-x-1/2 w-3 h-3 bg-[#0a0a0a]/95 border-r border-b border-emerald-500/20 rotate-45 backdrop-blur-xl"></div></div></div> <div class="flex items-center gap-1"><svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg> <span>6 areas</span></div> <div class="flex items-center gap-1"><svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg> <span>100% gratis</span></div></div></div> <div class="w-full max-w-4xl relative z-10 mt-12"><!----><div class="mb-8 w-full max-w-lg mx-auto"><div role="button" tabindex="0" class="
+    relative overflow-hidden rounded-xl border transition-all duration-300
+    border-white/10 bg-[#1E1E1E]/40
+    backdrop-blur-sm group cursor-pointer
+    p-4 flex flex-col sm:flex-row items-center justify-center sm:justify-between gap-4 border-emerald-500/20 bg-emerald-900/10 hover:border-emerald-500/40 transition-all duration-300
+   svelte-99envo"><div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 0px 0px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="flex items-center gap-3 sm:pl-2"><div class="w-10 h-10 rounded-full bg-emerald-500/20 flex items-center justify-center text-xl shrink-0">📅</div> <div class="flex flex-col text-center sm:text-left"><span class="text-[10px] font-bold uppercase tracking-widest text-emerald-400">3er Periodo</span> <span class="text-[9px] text-white/60">Cierra en 30 días</span></div></div> <div class="h-8 w-px bg-white/10 mx-2 hidden sm:block"></div> <div class="w-16 h-px bg-white/10 my-1 sm:hidden"></div> <div class="flex items-center gap-3 sm:pr-2 text-center sm:text-right"><div class="flex flex-col items-center sm:items-end order-2 sm:order-1"><span class="text-[10px] font-bold uppercase tracking-widest text-blue-400">Saber 3°, 5°, 7°, 9°</span> <span class="text-[9px] text-white/60">Faltan 63 días</span></div> <div class="w-10 h-10 rounded-full bg-blue-500/20 flex items-center justify-center text-xl shrink-0 order-1 sm:order-2">🎓</div></div><!----><!----></div></div><!----></div><!----> <h3 class="text-center text-xs font-bold uppercase tracking-widest text-white/40 mb-6">Examenes tipo saber</h3> <div class="mb-6"><div role="button" tabindex="0" class="
+    relative overflow-hidden rounded-xl border transition-all duration-300
+    border-white/10 bg-[#1E1E1E]/40
+    backdrop-blur-sm group cursor-pointer
+    p-4 flex flex-col items-center justify-center gap-3 group hover:border-blue-500/50 transition-transform duration-300 hover:scale-[1.02] bg-gradient-to-r from-blue-900/20 via-purple-900/10 to-blue-900/20 border border-blue-500/20
+   svelte-99envo"><div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 0px 0px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center group-hover:scale-110 transition-transform shadow-lg shadow-blue-500/10 mb-2"><img src="/favicon.png" class="w-9 h-9 object-contain" alt="SaberParaTodos"></div> <div class="text-center flex-1 w-full"><div class="text-xl font-bold text-blue-400 group-hover:text-blue-300 transition-colors uppercase tracking-wider flex items-center justify-center gap-2">Ingles <span class="px-1.5 py-0.5 bg-purple-500/20 text-purple-400 text-[8px] font-bold uppercase tracking-widest rounded">Diagnostico</span></div> <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-0.5">Niveles A1 a B2+ · Evalua tu nivel real</div></div> <div class="flex flex-col items-center gap-1 w-full mt-2"><div class="flex items-center gap-1.5"><span class="px-2 py-0.5 bg-blue-500/20 text-blue-400 text-[9px] font-bold uppercase tracking-widest rounded-full">Sala ✓</span></div> <div class="flex items-center justify-center gap-1 text-[9px] text-white/30"><span>Diagnostico multinivel</span> <svg class="w-4 h-4 text-white/30 group-hover:text-blue-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></div></div><!----></div></div><!----></div><!----> <div class="flex flex-col gap-4 max-w-2xl mx-auto w-full"><div role="button" tabindex="0" class="
+    relative overflow-hidden rounded-xl border transition-all duration-300
+    border-white/10 bg-[#1E1E1E]/40
+    backdrop-blur-sm group cursor-pointer
+    p-4 flex flex-col items-center justify-center group transition-all duration-300 hover:scale-105 hover:border-emerald-500/50 h-32 bg-emerald-500/5 border-emerald-500/30
+   svelte-99envo"><div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 336px 63.6719px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="font-bold text-emerald-500 group-hover:text-emerald-400 transition-all duration-300 text-5xl drop-shadow-[0_0_10px_rgba(16,185,129,0.3)]">11°</div> <div class="uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1 transition-all duration-300 text-xs">Grado</div> <div class="mt-2 px-2 py-0.5 bg-emerald-500/20 rounded-full border border-emerald-500/30"><span class="text-[8px] text-emerald-400 font-bold uppercase tracking-widest animate-pulse">Ruta principal</span></div><!----></div></div><!----> <div class="flex flex-wrap justify-center gap-4"><div role="button" tabindex="0" class="
+    relative overflow-hidden rounded-xl border transition-all duration-300
+    border-white/10 bg-[#1E1E1E]/40
+    backdrop-blur-sm group cursor-pointer
+    p-4 flex flex-col items-center justify-center group h-24 w-full max-w-[124px] sm:max-w-[140px] hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105 overflow-hidden
+   svelte-99envo"><div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 0px 0px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="text-2xl font-bold text-emerald-500 group-hover:text-emerald-400 transition-colors">9°</div> <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1">Grado</div><!----></div></div><div role="button" tabindex="0" class="
+    relative overflow-hidden rounded-xl border transition-all duration-300
+    border-white/10 bg-[#1E1E1E]/40
+    backdrop-blur-sm group cursor-pointer
+    p-4 flex flex-col items-center justify-center group h-24 w-full max-w-[124px] sm:max-w-[140px] hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105 overflow-hidden
+   svelte-99envo"><div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 0px 0px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="text-2xl font-bold text-emerald-500 group-hover:text-emerald-400 transition-colors">7°</div> <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1">Grado</div><!----></div></div><div role="button" tabindex="0" class="
+    relative overflow-hidden rounded-xl border transition-all duration-300
+    border-white/10 bg-[#1E1E1E]/40
+    backdrop-blur-sm group cursor-pointer
+    p-4 flex flex-col items-center justify-center group h-24 w-full max-w-[124px] sm:max-w-[140px] hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105 overflow-hidden
+   svelte-99envo"><div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 0px 0px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="text-2xl font-bold text-emerald-500 group-hover:text-emerald-400 transition-colors">5°</div> <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1">Grado</div><!----></div></div><!----> <!----></div></div> <div class="mt-6 flex justify-center"><button class="px-6 py-2 text-[10px] font-bold uppercase tracking-widest text-[#FCD116]/60 hover:text-[#FCD116] border border-white/5 hover:border-[#FCD116]/20 rounded-full transition-all">Ver más exámenes y Preuniversitario</button></div><!----></div> <div class="flex flex-col items-center justify-center gap-6 w-full max-w-2xl relative z-10 mt-8"><!----> <div role="button" tabindex="0" class="
+    relative overflow-hidden rounded-xl border transition-all duration-300
+    border-white/10 bg-[#1E1E1E]/40
+    backdrop-blur-sm group cursor-pointer
+    p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/40 transition-transform duration-300 hover:scale-105
+   svelte-99envo"><div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 0px 0px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="mb-4 text-emerald-500 opacity-70 group-hover:opacity-100 transition-opacity"><svg class="w-10 h-10" viewBox="0 0 40 40" fill="none" aria-hidden="true"><path d="M8 10h24v22H8V10z" stroke="currentColor" stroke-width="2" fill="none"></path><path d="M12 16h16M12 21h12M12 26h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path></svg></div> <h3 class="text-xl font-bold uppercase tracking-widest mb-2 text-[#F5F5DC]">Revisar</h3> <p class="text-xs opacity-40">Banco social · discutir preguntas</p><!----></div></div><!----></div> <div class="flex flex-col items-center gap-4 relative z-10 mt-10"><a href="/guia-examen" class="px-6 py-3 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] text-white font-bold uppercase tracking-widest text-sm rounded hover:opacity-90 transition-opacity flex items-center gap-2"><svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg> Guía Completa ICFES</a> <p class="text-xs opacity-30">Conoce la estructura del examen y tips de estudio</p></div> <footer class="fixed bottom-0 left-0 right-0 bg-[#0a0a0a]/95 backdrop-blur-sm border-t border-white/5 z-50"><div class="max-w-6xl mx-auto px-4 py-1.5 sm:py-2 flex flex-row items-center justify-center gap-3 sm:gap-5 text-[10px] sm:text-xs leading-none whitespace-nowrap"><span class="flex items-center gap-1 text-white/40"><span>🇨🇴</span></span> <div class="flex items-center gap-3 sm:gap-4"></div> <span class="text-white/20 text-center">© 2026 World Exams</span></div> <div class="w-full h-0.5 flex"><div class="flex-[2]" style="background-color: rgb(252, 209, 22);"></div> <div class="flex-1" style="background-color: rgb(0, 56, 147);"></div> <div class="flex-1" style="background-color: rgb(206, 17, 38);"></div></div></footer></div><!----></main>  <div class="fixed inset-0 z-[100] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4"><div data-testid="modal-content" class="bg-[#121212] border border-white/10 rounded-xl p-8 max-w-md w-full shadow-2xl relative overflow-hidden max-h-[90vh] overflow-y-auto"><div class="absolute inset-0 bg-noise opacity-10 pointer-events-none"></div> <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126]"></div> <h2 class="text-2xl font-bold uppercase tracking-widest text-[#F5F5DC] mb-6 text-center">Configurar Examen</h2> <div class="space-y-6 relative z-10"><!----> <!----><div class="space-y-4 p-4 bg-white/5 border border-white/10 rounded-lg"><h3 class="text-xs uppercase tracking-widest text-emerald-400 font-bold">📚 Configuración del Examen</h3> <div class="flex items-center justify-between mb-4"><span class="text-xs font-bold text-white/40 bg-white/5 px-2 py-1 rounded">Grado 11°</span></div> <div><label class="block text-xs uppercase tracking-widest opacity-60 mb-2">Materia</label> <select class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white text-sm focus:outline-none focus:border-emerald-500/50 transition-colors disabled:opacity-50 disabled:cursor-not-allowed" style="background-color: rgb(17 24 39 / 0.9);"><option class="bg-gray-900 text-white py-2" value="Simulacro Completo">Simulacro Completo</option><option class="bg-gray-900 text-white py-2" value="Matemáticas">Matemáticas</option><option class="bg-gray-900 text-white py-2" value="Lectura Crítica">Lectura Crítica</option><option class="bg-gray-900 text-white py-2" value="Ciencias Naturales">Ciencias Naturales</option><option class="bg-gray-900 text-white py-2" value="Sociales y Ciudadanas">Sociales y Ciudadanas</option><option class="bg-gray-900 text-white py-2" value="Inglés">Inglés</option><option class="bg-gray-900 text-white py-2" value="Preuniversitario">Preuniversitario</option></select></div> <!----> <div class="p-3 bg-blue-900/20 border border-blue-500/20 rounded-lg"><label class="block text-xs uppercase tracking-widest text-blue-400 mb-2 font-bold">Modo de Examen</label> <div class="flex gap-2 mb-3"><button class="flex-1 py-2 text-[10px] font-bold uppercase tracking-[0.1em] rounded transition-all relative overflow-hidden group bg-white/5 text-white/60 hover:bg-white/10"><!----> ICFES</button> <button class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all bg-blue-600 text-white">Por Periodo</button></div> <!----> <div class="grid grid-cols-2 gap-2" style=""><button class="p-2 rounded border text-left transition-all bg-blue-500/20 border-blue-400 text-blue-200"><div class="text-[10px] uppercase font-bold opacity-60">Periodo 1</div> <div class="text-xs truncate" title="Periodo 1: Química Orgánica y Mecánica">Química Orgánica y Mecánica</div></button><button class="p-2 rounded border text-left transition-all bg-black/20 border-transparent text-white/40 hover:bg-white/5"><div class="text-[10px] uppercase font-bold opacity-60">Periodo 2</div> <div class="text-xs truncate" title="Periodo 2: Biomoléculas y Energía">Biomoléculas y Energía</div></button><button class="p-2 rounded border text-left transition-all bg-black/20 border-transparent text-white/40 hover:bg-white/5"><div class="text-[10px] uppercase font-bold opacity-60">Periodo 3</div> <div class="text-xs truncate" title="Periodo 3: Bioquímica y Termodinámica">Bioquímica y Termodinámica</div></button><button class="p-2 rounded border text-left transition-all bg-black/20 border-transparent text-white/40 hover:bg-white/5"><div class="text-[10px] uppercase font-bold opacity-60">Periodo 4</div> <div class="text-xs truncate" title="Periodo 4: Física Moderna y Ecología">Física Moderna y Ecología</div></button></div><!----></div> <div class="mt-4 mb-2 flex items-start gap-2 p-2 bg-yellow-500/10 border border-yellow-500/20 rounded"><div class="text-lg">🏛️</div> <div class="flex-1 flex items-start justify-between gap-2"><p class="text-[10px] text-yellow-200/80 leading-relaxed"><strong class="block text-yellow-400 font-bold mb-0.5">Lineamientos de ICFES</strong> Los periodos están alineados con los DBA (Derechos Básicos de Aprendizaje) vigentes. Selecciona el periodo actual de tu colegio.</p> <button class="shrink-0 px-2 py-1 text-[10px] font-black uppercase tracking-widest bg-yellow-500/20 hover:bg-yellow-500/30 border border-yellow-500/30 text-yellow-400 rounded transition-all" title="Ver lineamientos MEN 2026" aria-label="Ver lineamientos MEN 2026">?</button></div></div><!----></div><!----> <!----> <!----> <div class="space-y-3"><label class="text-xs uppercase tracking-widest opacity-60 block">Cantidad de Preguntas</label> <div class="grid grid-cols-5 gap-2"><button type="button" style="min-width: 44px; min-height: 44px;" class="py-2 px-1 rounded-lg border-2 transition-all duration-200 font-bold text-sm bg-emerald-500/20 text-emerald-400 border-emerald-400 cursor-pointer shadow-[0_0_12px_rgba(52,211,153,0.4)]">5</button><button type="button" style="min-width: 44px; min-height: 44px;" class="py-2 px-1 rounded-lg border-2 transition-all duration-200 font-bold text-sm bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60 cursor-pointer">10</button><button type="button" style="min-width: 44px; min-height: 44px;" class="py-2 px-1 rounded-lg border-2 transition-all duration-200 font-bold text-sm bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60 cursor-pointer">15</button><button type="button" style="min-width: 44px; min-height: 44px;" class="py-2 px-1 rounded-lg border-2 transition-all duration-200 font-bold text-sm bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60 cursor-pointer">30</button><button type="button" style="min-width: 44px; min-height: 44px;" class="py-2 px-1 rounded-lg border-2 transition-all duration-200 font-bold text-sm bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60 cursor-pointer">60</button></div></div> <!----> <div class="p-4 bg-purple-500/10 border border-purple-500/40 rounded-lg"><div class="flex items-center gap-3 mb-2"><button role="switch" class="relative inline-flex h-6 w-11 flex-shrink-0 rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none cursor-not-allowed opacity-50 bg-white/20" aria-checked="false" disabled=""><span aria-hidden="true" class="pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out translate-x-0"></span></button> <div class="flex flex-col"><h4 class="text-sm font-bold text-purple-400 uppercase tracking-widest flex items-center gap-2">👥 Sala de Exámenes <span class="text-[9px] text-white/40 bg-white/10 px-1.5 py-0.5 rounded border border-white/10 uppercase tracking-widest">Requiere Login</span><!----></h4> <span class="text-[10px] text-white/30 uppercase tracking-widest mt-0.5">DESACTIVADA</span></div></div> <!----></div> <div class="p-4 bg-[#121212]/50 border border-emerald-500/40 rounded-lg relative overflow-hidden group"><div class="absolute top-0 right-0 p-2 opacity-20 group-hover:opacity-40 transition-opacity"><svg class="w-12 h-12 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path></svg></div> <div class="relative z-10"><div class="flex items-center gap-3 mb-2"><button role="switch" class="relative inline-flex h-6 w-11 flex-shrink-0 rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none cursor-not-allowed opacity-60 bg-white/20" aria-checked="false" aria-disabled="true" disabled=""><span aria-hidden="true" class="pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out translate-x-0"></span></button> <div><h4 class="text-sm font-bold text-emerald-500 uppercase tracking-widest">Panel de Diagnóstico <span class="ml-2 text-[10px] text-white/30">DESACTIVADO</span></h4></div></div> <p class="text-xs opacity-70 leading-relaxed max-w-[90%]">Detecta vacíos fundamentales con preguntas de grados anteriores.</p> <p class="mt-2 text-[11px] text-amber-300/90">Inicia sesión para activar el modo diagnóstico y la mezcla de grados.</p><!----> <!----></div></div><!----> <div class="flex gap-3 pt-4"><button class="flex-1 py-3 border border-white/30 rounded hover:bg-white/10 hover:border-white/50 transition-colors uppercase text-xs tracking-widest opacity-70 hover:opacity-100">Cancelar</button> <button class="flex-1 py-3 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] text-white font-bold uppercase tracking-widest text-xs rounded hover:opacity-90 transition-opacity shadow-lg">Comenzar<!----></button><!----></div></div></div></div> <!----><!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----></div></astro-island></main><!-- Cookie Consent Banner removed — all data stored locally in user browser, no server-side tracking --><!-- <CookieConsent client:only="svelte" /> --><!-- Version Badge with Update Notifications --><astro-island uid="1hcSRM" component-url="/_astro/VersionBadge.LD1yJKd8.js" component-export="default" renderer-url="/_astro/client.svelte.BDSb_1EG.js" props="{&quot;position&quot;:[0,&quot;bottom-left&quot;],&quot;showOnlyOnUpdate&quot;:[0,true]}" client="only" opts="{&quot;name&quot;:&quot;VersionBadge&quot;,&quot;value&quot;:&quot;svelte&quot;}"><!----></astro-island><!-- Global Feedback Button --><script>(()=>{var l=(n,t)=>{let i=async()=>{await(await n())()},e=typeof t.value=="object"?t.value:void 0,s={timeout:e==null?void 0:e.timeout};"requestIdleCallback"in window?window.requestIdleCallback(i,s):setTimeout(i,s.timeout||200)};(self.Astro||(self.Astro={})).idle=l;window.dispatchEvent(new Event("astro:idle"));})();</script><astro-island uid="Z1TeTRV" component-url="/_astro/GlobalFeedbackButton.CzUz6nhd.js" component-export="default" renderer-url="/_astro/client.svelte.BDSb_1EG.js" props="{}" client="idle" opts="{&quot;name&quot;:&quot;GlobalFeedbackButton&quot;,&quot;value&quot;:true}" await-children=""><!--[--><!--[-1--><!--]--> <!--[-1--><!--]--><!--]--></astro-island><!-- PWA Install Prompt --><astro-island uid="1lpy1c" component-url="/_astro/InstallPrompt.fybREBdq.js" component-export="default" renderer-url="/_astro/client.svelte.BDSb_1EG.js" props="{}" client="only" opts="{&quot;name&quot;:&quot;InstallPrompt&quot;,&quot;value&quot;:&quot;svelte&quot;}"><!----></astro-island><!-- Scroll Reveal Script --><script type="module">globalThis.process??={},globalThis.process.env??={};function e(){let e=document.querySelectorAll(`[data-sr]`);if(!e.length)return;if(window.matchMedia(`(prefers-reduced-motion: reduce)`).matches){e.forEach(e=>e.classList.add(`sr-visible`));return}let t=new IntersectionObserver(e=>{e.forEach(e=>{e.isIntersecting&&(e.target.classList.add(`sr-visible`),t.unobserve(e.target))})},{threshold:.1,rootMargin:`0px 0px -50px 0px`});e.forEach(e=>{let n=e.getAttribute(`data-sr`)||`fade-up`,r=e.getAttribute(`data-sr-delay`)||`0`;e.classList.add(`sr-init`,`sr-${n}`),e.style.transitionDelay=`${r}ms`,t.observe(e)}),setTimeout(()=>{let e=document.querySelectorAll(`[data-sr]:not(.sr-visible)`);e.length>0&&(console.warn(`⚠️ Force revealing ${e.length} stuck elements`),e.forEach(e=>e.classList.add(`sr-visible`)))},2500)}document.readyState===`loading`?document.addEventListener(`DOMContentLoaded`,e):e(),document.addEventListener(`astro:page-load`,e);</script><!-- Register Service Worker for PWA --><script>(function(){const IS_DEV = false;
+
+
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', async () => {
+          // In dev, we aggressively disable SW + caches to avoid serving stale HTML/CSP.
+          // This prevents CSP mismatches like missing PeerJS domains.
+          if (IS_DEV) {
+            try {
+              const registrations = await navigator.serviceWorker.getRegistrations();
+              await Promise.all(registrations.map((r) => r.unregister()));
+              console.log('[PWA] Dev mode: Service Workers unregistered');
+            } catch (error) {
+              console.warn('[PWA] Dev mode: Failed to unregister SW:', error);
+            }
+
+            try {
+              if ('caches' in window) {
+                const cacheNames = await caches.keys();
+                await Promise.all(cacheNames.map((name) => caches.delete(name)));
+                console.log('[PWA] Dev mode: Caches cleared');
+              }
+            } catch (error) {
+              console.warn('[PWA] Dev mode: Failed to clear caches:', error);
+            }
+
+            return;
+          }
+
+          navigator.serviceWorker
+            .register('/sw.js')
+            .then((registration) => {
+              console.log('[PWA] Service Worker registered:', registration.scope);
+            })
+            .catch((error) => {
+              console.error('[PWA] Service Worker registration failed:', error);
+            });
+        });
+      }
+    })();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;d91e03dca4ec474689d639c8dff802af&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+</body></html>
