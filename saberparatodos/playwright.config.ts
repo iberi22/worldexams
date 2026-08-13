@@ -7,7 +7,7 @@ const useWebServer = process.env.PLAYWRIGHT_USE_WEBSERVER
 
 export default defineConfig({
   testDir: './tests',
-  testIgnore: ['**/unit/**', '**/validation/**'], // vitest unit tests live under tests/unit (see vitest.config.ts)
+  testIgnore: ['**/unit/**', '**/validation/**', '**/integration/**', '**/e2e-exhaustive-matrix.spec.ts'], // vitest tests live under these folders
   fullyParallel: false,
   forbidOnly: !!process.env.CI,
   retries: 0,

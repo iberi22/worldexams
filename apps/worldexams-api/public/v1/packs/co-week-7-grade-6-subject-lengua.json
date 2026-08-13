@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la definición más precisa de narración?",
-      "context": "En un colegio de Zipaquirá, la profesora de Lengua Castellana explica que narrar es una actividad que los seres humanos realizamos a diario para compartir experiencias.",
+      "context": "En un colegio de Zipaquirá, la profesora de Lengua Castellana explica que narrar es una actividad que los seres humanos realizamos a diario para compartir experiencias.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v2",
       "statement": "¿Cuáles son las tres partes de la estructura narrativa presentes en el fragmento, en orden?",
-      "context": "Lee el siguiente fragmento de un relato de Barranquilla: \"Al principio, el barrio estaba tranquilo. De repente, un fuerte viento levantó el polvo de la calle y todos corrieron a refugiarse. Finalmente, la lluvia calmó el calor de la tarde\".",
+      "context": "Lee el siguiente fragmento de un relato de Barranquilla: \"Al principio, el barrio estaba tranquilo. De repente, un fuerte viento levantó el polvo de la calle y todos corrieron a refugiarse. Finalmente, la lluvia calmó el calor de la tarde\".\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de narrador se evidencia en el fragmento anterior?",
-      "context": "En la lectura de un cuento en un colegio de Medellín, el texto dice: \"Yo caminé por toda la orilla del río buscando mi tesoro perdido, mientras la luna me observaba en silencio\".",
+      "context": "En la lectura de un cuento en un colegio de Medellín, el texto dice: \"Yo caminé por toda la orilla del río buscando mi tesoro perdido, mientras la luna me observaba en silencio\".\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v4",
       "statement": "Para que su relato sea realmente un mito, ¿qué tipo de personajes debería incluir preferiblemente?",
-      "context": "Un estudiante de grado sexto en Cali quiere escribir un mito sobre el origen de la caña de azúcar en el Valle del Cauca.",
+      "context": "Un estudiante de grado sexto en Cali quiere escribir un mito sobre el origen de la caña de azúcar en el Valle del Cauca.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v5",
       "statement": "¿Qué elementos del marco narrativo se identifican claramente en este texto?",
-      "context": "En un fragmento de una novela juvenil colombiana, se lee: \"Eran las tres de la tarde. El sol quemaba en la plaza de Villa de Leyva. De pronto, un caballo negro apareció galopando sin jinete\".",
+      "context": "En un fragmento de una novela juvenil colombiana, se lee: \"Eran las tres de la tarde. El sol quemaba en la plaza de Villa de Leyva. De pronto, un caballo negro apareció galopando sin jinete\".\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v6",
       "statement": "¿Qué elemento añade el segundo fragmento que profundiza en la caracterización del personaje?",
-      "context": "Analiza la diferencia entre estos dos fragmentos:\n1. \"El joven caminó lentamente hasta la puerta\".\n2. \"El joven caminó lentamente hasta la puerta, pensando que quizás su vida cambiaría para siempre al cruzarla\".",
+      "context": "Analiza la diferencia entre estos dos fragmentos:\n1. \"El joven caminó lentamente hasta la puerta\".\n2. \"El joven caminó lentamente hasta la puerta, pensando que quizás su vida cambiaría para siempre al cruzarla\".\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de las siguientes frases es propia de un narrador omnisciente?",
-      "context": "Un narrador omnisciente es aquel que se asemeja a un \"dios\" dentro de la historia.",
+      "context": "Un narrador omnisciente es aquel que se asemeja a un \"dios\" dentro de la historia.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v8",
       "statement": "Si estuviéramos contando la historia de Caperucita Roja, ¿cuál sería el momento del clímax?",
-      "context": "En la estructura de una narración, el \"clímax\" es el momento de mayor tensión.",
+      "context": "En la estructura de una narración, el \"clímax\" es el momento de mayor tensión.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v9",
       "statement": "¿Qué caracteriza a un relato con final abierto?",
-      "context": "Muchos cuentos contemporáneos colombianos terminan con un \"final abierto\".",
+      "context": "Muchos cuentos contemporáneos colombianos terminan con un \"final abierto\".\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W07-narracion-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el efecto principal de alterar el orden del tiempo en una narración?",
-      "context": "Analiza la importancia del orden cronológico. Un autor decide contar una historia empezando por el final y luego devolviéndose al pasado (flashback).",
+      "context": "Analiza la importancia del orden cronológico. Un autor decide contar una historia empezando por el final y luego devolviéndose al pasado (flashback).\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",

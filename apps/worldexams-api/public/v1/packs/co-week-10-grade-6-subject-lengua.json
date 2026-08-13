@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la función principal de un texto instructivo?",
-      "context": "En la cocina de una casa en Pasto, una abuela le enseña a su nieto a preparar un hervido de piña siguiendo una receta escrita en un cuaderno antiguo.",
+      "context": "En la cocina de una casa en Pasto, una abuela le enseña a su nieto a preparar un hervido de piña siguiendo una receta escrita en un cuaderno antiguo.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v2",
       "statement": "¿Qué modo verbal predomina en estas instrucciones y por qué?",
-      "context": "Un manual de convivencia escolar en Bogotá indica: \"1. Llegue puntualmente al salón. 2. Salude con respeto. 3. Ubíquese en su puesto asignado\".",
+      "context": "Un manual de convivencia escolar en Bogotá indica: \"1. Llegue puntualmente al salón. 2. Salude con respeto. 3. Ubíquese en su puesto asignado\".\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v3",
       "statement": "¿Por qué es fundamental que las instrucciones sigan un orden cronológico o secuencial?",
-      "context": "Un estudiante de sexto grado en Medellín está leyendo las instrucciones de un juego de mesa de estrategia.",
+      "context": "Un estudiante de sexto grado en Medellín está leyendo las instrucciones de un juego de mesa de estrategia.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de los siguientes elementos NO es necesario en un buen texto instructivo?",
-      "context": "Estás escribiendo un instructivo para que tus compañeros aprendan a reciclar correctamente en los nuevos botes de colores del colegio.",
+      "context": "Estás escribiendo un instructivo para que tus compañeros aprendan a reciclar correctamente en los nuevos botes de colores del colegio.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v5",
       "statement": "¿Qué función cumplen las imágenes en este tipo de textos instructivos?",
-      "context": "En un folleto de salud de la Cruz Roja en Colombia sobre cómo lavarse las manos, se usan imágenes numeradas junto a breves textos.",
+      "context": "En un folleto de salud de la Cruz Roja en Colombia sobre cómo lavarse las manos, se usan imágenes numeradas junto a breves textos.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la forma no personal del verbo que se utiliza en esta instrucción y por qué es común en estos textos?",
-      "context": "Una receta de cocina en un canal de televisión nacional dice: \"Para terminar, esparcir el queso sobre la arepa caliente\".",
+      "context": "Una receta de cocina en un canal de televisión nacional dice: \"Para terminar, esparcir el queso sobre la arepa caliente\".\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la diferencia entre un instructivo de \"procedimiento\" (como una receta) y uno de \"normas\" (como un reglamento)?",
-      "context": "Un reglamento de un parque natural en el Quindío prohíbe alimentar a los animales y dejar basura en los senderos.",
+      "context": "Un reglamento de un parque natural en el Quindío prohíbe alimentar a los animales y dejar basura en los senderos.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v8",
       "statement": "¿Qué problema de diseño comunicativo tiene este instructivo?",
-      "context": "Al armar un mueble nuevo que compraron en una tienda de hogar en Barranquilla, la familia nota que faltan los dibujos y solo hay texto muy pequeño.",
+      "context": "Al armar un mueble nuevo que compraron en una tienda de hogar en Barranquilla, la familia nota que faltan los dibujos y solo hay texto muy pequeño.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la importancia de leer completamente la instrucción antes de empezar a responder?",
-      "context": "En un examen de Lengua Castellana, la instrucción dice: \"Analiza el texto anterior y responde las preguntas de la 1 a la 5\".",
+      "context": "En un examen de Lengua Castellana, la instrucción dice: \"Analiza el texto anterior y responde las preguntas de la 1 a la 5\".\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v10",
       "statement": "¿Por qué este diseño de instructivo es PELIGROSO en una situación de emergencia?",
-      "context": "Analiza la siguiente situación: Un instructivo para usar un extintor de incendios está escrito con párrafos muy largos y lenguaje muy técnico.",
+      "context": "Analiza la siguiente situación: Un instructivo para usar un extintor de incendios está escrito con párrafos muy largos y lenguaje muy técnico.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v1",
       "statement": "¿Cuáles son las tres características fundamentales que definen a un vector?",
-      "context": "Un estudiante de preparatoria en la CDMX identifica las características de una magnitud física vectorial frente a una escalar.",
+      "context": "Un estudiante de preparatoria en la CDMX identifica las características de una magnitud física vectorial frente a una escalar.\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v2",
       "statement": "¿Qué nombre recibe la longitud de la flecha que representa a un vector en el plano?",
-      "context": "Se presenta la representación gráfica de un vector en un plano cartesiano.",
+      "context": "Se presenta la representación gráfica de un vector en un plano cartesiano.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v3",
       "statement": "Si un vector $\\vec{v}$ tiene coordenadas $(x, y)$, ¿cómo se llaman los vectores proyectados sobre los ejes cartesianos?",
-      "context": "Un joven en Guadalajara aprende a nombrar los componentes de un vector en el sistema de coordenadas.",
+      "context": "Un joven en Guadalajara aprende a nombrar los componentes de un vector en el sistema de coordenadas.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v4",
       "statement": "¿En qué consiste el \"método del polígono\" para la suma de vectores?",
-      "context": "Un arquitecto utiliza el método gráfico para sumar desplazamientos en un plano de construcción.",
+      "context": "Un arquitecto utiliza el método gráfico para sumar desplazamientos en un plano de construcción.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v5",
       "statement": "Dados los vectores $\\vec{a} = (3, -2)$ y $\\vec{b} = (1, 5)$, determine el vector resultante de la suma $\\vec{a} + \\vec{b}$.",
-      "context": "Un ingeniero civil calcula la fuerza neta sobre un soporte usando componentes analíticos.",
+      "context": "Un ingeniero civil calcula la fuerza neta sobre un soporte usando componentes analíticos.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v6",
       "statement": "Si $\\vec{u} = (5, 8)$ y $\\vec{v} = (2, 3)$, ¿cuál es el resultado de la operación $\\vec{u} - \\vec{v}$?",
-      "context": "Un técnico en aviación necesita calcular el cambio de posición de una aeronave (vector resta).",
+      "context": "Un técnico en aviación necesita calcular el cambio de posición de una aeronave (vector resta).\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v7",
       "statement": "Dado el vector $\\vec{w} = (-4, 2)$, determine el resultado de la operación $3\\vec{w}$.",
-      "context": "Un diseñador de videojuegos escala el movimiento de un personaje mediante la multiplicación por un escalar.",
+      "context": "Un diseñador de videojuegos escala el movimiento de un personaje mediante la multiplicación por un escalar.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v8",
       "statement": "Calcule el módulo (magnitud) del vector $\\vec{a} = (3, 4)$.",
-      "context": "Un estudiante de física en Monterrey calcula la distancia recorrida (módulo del vector desplazamiento).",
+      "context": "Un estudiante de física en Monterrey calcula la distancia recorrida (módulo del vector desplazamiento).\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el ángulo de dirección $\\theta$ de un vector $\\vec{v} = (1, 1)$ en el primer cuadrante?",
-      "context": "Un técnico mide el ángulo de inclinación de un panel solar respecto al eje horizontal.",
+      "context": "Un técnico mide el ángulo de inclinación de un panel solar respecto al eje horizontal.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el vector unitario en la dirección del vector $\\vec{u} = (6, 8)$?",
-      "context": "En un curso de navegación, se pide encontrar el vector unitario que indica una ruta específica.",
+      "context": "En un curso de navegación, se pide encontrar el vector unitario que indica una ruta específica.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v11",
       "statement": "Un vector tiene una magnitud de 10 unidades y forma un ángulo de 60° con el eje X positivo. Determine su componente horizontal ($V_x$). (Considere $\\cos 60° = 0.5$, $\\sin 60° = 0.866$).",
-      "context": "Un estudiante de ingeniería en el IPN descompone una fuerza de tensión que actúa con un ángulo específico.",
+      "context": "Un estudiante de ingeniería en el IPN descompone una fuerza de tensión que actúa con un ángulo específico.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v12",
       "statement": "Determine el producto punto (escalar) de los vectores $\\vec{u} = (2, -3)$ y $\\vec{v} = (4, 1)$.",
-      "context": "Un físico en la UNAM calcula el trabajo realizado por una fuerza usando el producto escalar.",
+      "context": "Un físico en la UNAM calcula el trabajo realizado por una fuerza usando el producto escalar.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v13",
       "statement": "¿Cuál de las siguientes parejas de vectores son ortogonales (perpendiculares)?",
-      "context": "Se requiere verificar si dos fuerzas aplicadas a un objeto son perpendiculares entre sí.",
+      "context": "Se requiere verificar si dos fuerzas aplicadas a un objeto son perpendiculares entre sí.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v14",
       "statement": "¿Cuál de las siguientes afirmaciones sobre la resta de vectores es correcta?",
-      "context": "Un estudiante analiza la propiedad conmutativa en las operaciones vectoriales.",
+      "context": "Un estudiante analiza la propiedad conmutativa en las operaciones vectoriales.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v15",
       "statement": "Determine el coseno del ángulo entre los vectores $\\vec{u} = (1, 0)$ y $\\vec{v} = (1, 1)$.",
-      "context": "Un programador gráfico calcula el ángulo entre dos vectores de dirección para efectos de iluminación.",
+      "context": "Un programador gráfico calcula el ángulo entre dos vectores de dirección para efectos de iluminación.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v16",
       "statement": "Si multiplicamos el vector $\\vec{v} = (2, -3)$ por el escalar $k = -2$, ¿cómo cambian las características del vector?",
-      "context": "Se analiza el efecto de un escalar negativo sobre un vector de velocidad en un simulador.",
+      "context": "Se analiza el efecto de un escalar negativo sobre un vector de velocidad en un simulador.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v17",
       "statement": "Un avión vuela hacia el Norte con una velocidad de 200 km/h respecto al aire. Sopla un viento desde el Oeste hacia el Este a 50 km/h. Determine la magnitud de la velocidad resultante del avión respecto al suelo.",
-      "context": "Un experto en balística en la Ciudad de México analiza la trayectoria de un proyectil bajo la influencia de vientos cruzados.",
+      "context": "Un experto en balística en la Ciudad de México analiza la trayectoria de un proyectil bajo la influencia de vientos cruzados.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v18",
       "statement": "Si el producto escalar de dos vectores no nulos es igual al producto de sus módulos ($\\vec{u} \\cdot \\vec{v} = |\\vec{u}| |\\vec{v}|$), ¿qué podemos concluir sobre su relación geométrica?",
-      "context": "Un matemático demuestra propiedades avanzadas del producto escalar en el espacio vectorial.",
+      "context": "Un matemático demuestra propiedades avanzadas del producto escalar en el espacio vectorial.\n**Expected_Success:** 0.25",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v19",
       "statement": "Dados tres vectores en equilibrio $\\vec{F_1} + \\vec{F_2} + \\vec{F_3} = \\vec{0}$. Si $\\vec{F_1} = (5, 0)$ y $\\vec{F_2} = (0, 12)$, ¿cuál es la magnitud del vector $\\vec{F_3}$?",
-      "context": "Un ingeniero de estructuras calcula el ángulo exacto para equilibrar tres fuerzas concurrentes.",
+      "context": "Un ingeniero de estructuras calcula el ángulo exacto para equilibrar tres fuerzas concurrentes.\n**Expected_Success:** 0.20",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W26-vectores-operaciones-basicas-001-MASTERY-bundle-v20",
       "statement": "Determine la magnitud de la suma de dos vectores $\\vec{a}$ y $\\vec{b}$ si $|\\vec{a}| = 3$, $|\\vec{b}| = 5$ y el ángulo entre ellos es de 60°. (Considere $\\cos 60° = 0.5$).",
-      "context": "Un estudiante avanzado utiliza la ley de los cosenos para sumar vectores que no son perpendiculares.",
+      "context": "Un estudiante avanzado utiliza la ley de los cosenos para sumar vectores que no son perpendiculares.\n**Expected_Success:** 0.15",
       "options": [
         {
           "letter": "A",

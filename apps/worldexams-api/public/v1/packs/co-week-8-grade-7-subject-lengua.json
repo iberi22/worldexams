@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v1",
       "statement": "¿Quién es el autor de la famosa novela romántica \"María\", publicada en 1867 y considerada un símbolo de la identidad vallecaucana?",
-      "context": "En la historia literaria de Colombia, ciertos nombres se consideran los pilares sobre los que se construyó nuestra narrativa y poesía nacional.",
+      "context": "En la historia literaria de Colombia, ciertos nombres se consideran los pilares sobre los que se construyó nuestra narrativa y poesía nacional.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de los siguientes autores es el creador de personajes infantiles como \"Rinrín Renacuajo\" y \"La Pobre Viejecita\"?",
-      "context": "Colombia es conocida como un país de poetas. Uno de ellos es especialmente recordado por los niños, aunque su obra para adultos sea profunda y melancólica.",
+      "context": "Colombia es conocida como un país de poetas. Uno de ellos es especialmente recordado por los niños, aunque su obra para adultos sea profunda y melancólica.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v3",
       "statement": "¿A qué autor costumbrista, fundador del grupo literario \"El Mosaico\", pertenece este estilo de retratar la vida diaria de la capital?",
-      "context": "Valentina lee un fragmento donde se describen las ruidosas calles de Bogotá en 1858 y las conversaciones de los señores en las chicherías.",
+      "context": "Valentina lee un fragmento donde se describen las ruidosas calles de Bogotá en 1858 y las conversaciones de los señores en las chicherías.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v4",
       "statement": "¿Quién fue la escritora colombiana más prolífica del siglo XIX, autora de novelas, biografías y cuadros de costumbres, como \"La mujer en la sociedad moderna\"?",
-      "context": "En el siglo XIX, las mujeres también tuvieron una presencia importante en las letras, a pesar de las dificultades sociales para publicar.",
+      "context": "En el siglo XIX, las mujeres también tuvieron una presencia importante en las letras, a pesar de las dificultades sociales para publicar.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v5",
       "statement": "¿Qué autor antioqueño, autor de \"Frutos de mi tierra\", es reconocido por rescatar el habla popular y la vida sencilla de los pueblos?",
-      "context": "Santiago lee sobre un autor que defendió el uso del lenguaje popular y fue criticado por los intelectuales que querían un español \"puro\" como el de España.",
+      "context": "Santiago lee sobre un autor que defendió el uso del lenguaje popular y fue criticado por los intelectuales que querían un español \"puro\" como el de España.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v6",
       "statement": "¿Quién es el autor del famoso \"Nocturno III\", que comienza con \"Una noche / una noche toda llena de perfumes...\", y es considerado el padre del Modernismo colombiano?",
-      "context": "A finales del siglo XIX, surge un joven poeta que cambiaría la forma de escribir versos, introduciendo el Modernismo en Colombia.",
+      "context": "A finales del siglo XIX, surge un joven poeta que cambiaría la forma de escribir versos, introduciendo el Modernismo en Colombia.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v7",
       "statement": "¿A qué autor pertenece esta obra que une la utilidad práctica del campo con la belleza de la poesía romántica?",
-      "context": "Camila analiza el poema \"Memoria sobre el cultivo del maíz\", que trata de forma poética algo tan cotidiano como la agricultura.",
+      "context": "Camila analiza el poema \"Memoria sobre el cultivo del maíz\", que trata de forma poética algo tan cotidiano como la agricultura.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v8",
       "statement": "¿Quién es el autor de \"Cantos populares de mi tierra\", pionero en usar el dialecto afrocolombiano en la literatura escrita?",
-      "context": "En el Caribe colombiano, surge una voz única que utiliza el habla de los pescadores y trabajadores del río Magdalena para hacer poesía.",
+      "context": "En el Caribe colombiano, surge una voz única que utiliza el habla de los pescadores y trabajadores del río Magdalena para hacer poesía.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v9",
       "statement": "¿Qué conclusión se puede sacar sobre la literatura colombiana del siglo XIX a partir de sus autores más destacados?",
-      "context": "Al observar la lista de autores del siglo XIX (Isaacs, Pombo, Carrasquilla, Silva, Obeso), se nota una gran variedad de estilos.",
+      "context": "Al observar la lista de autores del siglo XIX (Isaacs, Pombo, Carrasquilla, Silva, Obeso), se nota una gran variedad de estilos.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v10",
       "statement": "¿Cuál fue el papel fundamental de José María Vergara y Vergara en la literatura del siglo XIX?",
-      "context": "Un historiador afirma: \"Sin la revista 'El Mosaico' y autores como Vergara y Vergara, Colombia no tendría una historia literaria organizada\".",
+      "context": "Un historiador afirma: \"Sin la revista 'El Mosaico' y autores como Vergara y Vergara, Colombia no tendría una historia literaria organizada\".\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",

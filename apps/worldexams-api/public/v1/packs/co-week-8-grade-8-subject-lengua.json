@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el autor más representativo y brillante de la corriente conceptista en España?",
-      "context": "El Conceptismo es una de las dos grandes corrientes de la lírica barroca española del siglo XVII, centrada en la agudeza del pensamiento.",
+      "context": "El Conceptismo es una de las dos grandes corrientes de la lírica barroca española del siglo XVII, centrada en la agudeza del pensamiento.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la prioridad fundamental del estilo conceptista en la literatura barroca?",
-      "context": "Baltasar Gracián definió el \"concepto\" como un acto del entendimiento que expresa la correspondencia que se halla entre los objetos.",
+      "context": "Baltasar Gracián definió el \"concepto\" como un acto del entendimiento que expresa la correspondencia que se halla entre los objetos.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v3",
       "statement": "¿Cómo se denomina el recurso literario que consiste en usar palabras que suenan igual o parecido pero tienen significados distintos, muy común en Quevedo?",
-      "context": "Los escritores conceptistas utilizaban juegos de palabras basados en el significado para sorprender al lector.",
+      "context": "Los escritores conceptistas utilizaban juegos de palabras basados en el significado para sorprender al lector.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v4",
       "statement": "¿Qué efecto busca el autor conceptista al utilizar frases cortas cargadas de significados complejos?",
-      "context": "El Conceptismo se asocia a menudo con la brevedad y la concisión. Se dice que \"lo bueno, si breve, dos veces bueno\".",
+      "context": "El Conceptismo se asocia a menudo con la brevedad y la concisión. Se dice que \"lo bueno, si breve, dos veces bueno\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v5",
       "statement": "Si Quevedo dice de un hombre muy pobre que \"no tiene ni cama ni cara\", jugando con que \"cara\" significa rostro y también alto precio, ¿qué está logrando con este recurso?",
-      "context": "La dilogía es un recurso que consiste en usar una palabra con dos significados distintos al mismo tiempo.",
+      "context": "La dilogía es un recurso que consiste en usar una palabra con dos significados distintos al mismo tiempo.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v6",
       "statement": "¿Qué elemento común une la poesía donde Quevedo reflexiona sobre la muerte y sus poemas donde se burla de un enemigo?",
-      "context": "Quevedo escribió tanto poesía metafísica profunda como sátiras burlonas muy crueles.",
+      "context": "Quevedo escribió tanto poesía metafísica profunda como sátiras burlonas muy crueles.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v7",
       "statement": "En el famoso verso \"Ayer se fue; mañana no ha llegado; hoy se está yendo sin parar un punto\", ¿qué concepto filosófico está expresando Quevedo?",
-      "context": "En el conceptismo se utiliza mucho la antítesis y la paradoja para mostrar los conflictos internos del alma.",
+      "context": "En el conceptismo se utiliza mucho la antítesis y la paradoja para mostrar los conflictos internos del alma.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la diferencia fundamental entre la \"oscuridad\" de Góngora y la \"oscuridad\" de Quevedo?",
-      "context": "Los conceptistas criticaban a los culteranos por su \"oscuridad\", mientras que los culteranos criticaban a los conceptistas por su lenguaje \"seco\".",
+      "context": "Los conceptistas criticaban a los culteranos por su \"oscuridad\", mientras que los culteranos criticaban a los conceptistas por su lenguaje \"seco\".\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v9",
       "statement": "¿Qué objetivo perseguía Gracián al escribir sus tratados de prudencia y sabiduría de forma tan densa y llena de aforismos?",
-      "context": "Baltasar Gracián llevó el conceptismo a la prosa en obras como \"El Criticón\" y \"El Oráculo Manual\".",
+      "context": "Baltasar Gracián llevó el conceptismo a la prosa en obras como \"El Criticón\" y \"El Oráculo Manual\".\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v10",
       "statement": "¿Qué efecto degradante busca Quevedo al describir a una mujer vieja comparándola con un mueble o un animal seco en lugar de usar términos humanos?",
-      "context": "Quevedo utiliza a menudo la cosificación de las personas en sus sátiras (convertir a personas en objetos).",
+      "context": "Quevedo utiliza a menudo la cosificación de las personas en sus sátiras (convertir a personas en objetos).\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v11",
       "statement": "¿Cómo logra Quevedo superar el pesimismo del \"Memento mori\" en su famoso verso final \"polvo serán, mas polvo enamorado\"?",
-      "context": "El soneto \"Cerrar podrá mis ojos la postrera...\" es considerado uno de los mejores poemas de amor de la lengua española.",
+      "context": "El soneto \"Cerrar podrá mis ojos la postrera...\" es considerado uno de los mejores poemas de amor de la lengua española.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v12",
       "statement": "¿Por qué se considera que el Conceptismo de Quevedo es un precursor del humor negro y de la ironía moderna?",
-      "context": "El Conceptismo es fundamental para entender el origen de la modernidad literaria en España por su uso irónico y autorreferencial del lenguaje.",
+      "context": "El Conceptismo es fundamental para entender el origen de la modernidad literaria en España por su uso irónico y autorreferencial del lenguaje.\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",

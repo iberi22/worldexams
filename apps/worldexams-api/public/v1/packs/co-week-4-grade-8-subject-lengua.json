@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el nombre de la corriente cultural y filosófica que puso al ser humano como centro del universo durante el Renacimiento?",
-      "context": "El Renacimiento surge en Italia en el siglo XIV y se extiende por Europa en los siglos XV y XVI, marcando el paso de la Edad Media a la Edad Moderna.",
+      "context": "El Renacimiento surge en Italia en el siglo XIV y se extiende por Europa en los siglos XV y XVI, marcando el paso de la Edad Media a la Edad Moderna.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v2",
       "statement": "¿Qué tipo de estrofa de origen italiano, compuesta por 14 versos endecasílabos divididos en dos cuartetos y dos tercetos, se convirtió en la forma predilecta del Renacimiento?",
-      "context": "La lírica renacentista española fue profundamente renovada por Garcilaso de la Vega, quien introdujo formas métricas italianas.",
+      "context": "La lírica renacentista española fue profundamente renovada por Garcilaso de la Vega, quien introdujo formas métricas italianas.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v3",
       "statement": "¿A qué se refiere el concepto de \"antropocentrismo\" en la literatura y el arte renacentista?",
-      "context": "Los autores renacentistas no buscaban la originalidad absoluta, sino que seguían el principio de la imitación de los modelos clásicos.",
+      "context": "Los autores renacentistas no buscaban la originalidad absoluta, sino que seguían el principio de la imitación de los modelos clásicos.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la idea principal que transmite el poema de Garcilaso de la Vega cuando invita a una joven a disfrutar de su juventud antes de que llegue la \"nieve\" de la vejez?",
-      "context": "El tópico literario del \"Carpe diem\" (\"Aprovecha el día\") fue uno de los más recurrentes en la poesía renacentista.",
+      "context": "El tópico literario del \"Carpe diem\" (\"Aprovecha el día\") fue uno de los más recurrentes en la poesía renacentista.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v5",
       "statement": "Si en un poema renacentista se describe un prado perfecto donde los pastores hablan de sus penas de amor, ¿qué función cumple la naturaleza en ese relato?",
-      "context": "El \"Locus amoenus\" es un tópico que describe una naturaleza idealizada: prados verdes, aguas cristalinas, brisa suave y cantos de pájaros.",
+      "context": "El \"Locus amoenus\" es un tópico que describe una naturaleza idealizada: prados verdes, aguas cristalinas, brisa suave y cantos de pájaros.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v6",
       "statement": "¿Por qué los poetas místicos utilizaban a menudo el lenguaje del amor terrenal y erótico para hablar de su relación con Dios?",
-      "context": "La literatura mística, con autores como San Juan de la Cruz y Santa Teresa de Jesús, busca expresar la unión del alma con Dios.",
+      "context": "La literatura mística, con autores como San Juan de la Cruz y Santa Teresa de Jesús, busca expresar la unión del alma con Dios.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v7",
       "statement": "¿En qué sentido el \"Lazarillo de Tormes\" es una respuesta crítica a la idealización propia del Renacimiento (como los libros de caballería o pastores)?",
-      "context": "El \"Lazarillo de Tormes\" (1554) inauguró la novela picaresca, presentando un antihéroe que lucha por sobrevivir en un mundo hostil.",
+      "context": "El \"Lazarillo de Tormes\" (1554) inauguró la novela picaresca, presentando un antihéroe que lucha por sobrevivir en un mundo hostil.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v8",
       "statement": "¿Cómo se refleja el ideal del \"Cortesano\" en la vida y obra de poetas como Garcilaso de la Vega?",
-      "context": "El concepto de \"Cortesano\" definido por Castiglione establecía que el hombre renacentista debía ser hábil tanto en las armas como en las letras.",
+      "context": "El concepto de \"Cortesano\" definido por Castiglione establecía que el hombre renacentista debía ser hábil tanto en las armas como en las letras.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v9",
       "statement": "¿Qué tópico literario de origen clásico (Horacio) utiliza Fray Luis de León para defender la sencillez de la vida en la naturaleza?",
-      "context": "Fray Luis de León, en su oda \"A la vida retirada\", celebra la paz del campo frente al ruido y las ambiciones de la corte.",
+      "context": "Fray Luis de León, en su oda \"A la vida retirada\", celebra la paz del campo frente al ruido y las ambiciones de la corte.\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v10",
       "statement": "¿Cuál fue el argumento principal de Nebrija para proponer la fijación de las reglas de la lengua castellana en ese momento histórico?",
-      "context": "Durante el Renacimiento, el español se consolidó como lengua literaria con la publicación de la primera \"Gramática de la lengua castellana\" de Nebrija (1492).",
+      "context": "Durante el Renacimiento, el español se consolidó como lengua literaria con la publicación de la primera \"Gramática de la lengua castellana\" de Nebrija (1492).\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v11",
       "statement": "¿Cómo cambió el espíritu del Renacimiento español desde el reinado de Carlos I (apertura) al de Felipe II (cerrazón y defensa de la fe)?",
-      "context": "La Reforma Protestante y la Contrarreforma Católica marcaron la segunda mitad del siglo XVI en España, influyendo en la literatura religiosa.",
+      "context": "La Reforma Protestante y la Contrarreforma Católica marcaron la segunda mitad del siglo XVI en España, influyendo en la literatura religiosa.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v12",
       "statement": "¿Qué objetivo estético buscaba la \"naturalidad\" renacentista frente al estilo recargado de la literatura medieval o del posterior Barroco?",
-      "context": "La \"naturalidad\" en el estilo era el ideal renacentista. Juan de Valdés decía: \"Escribo como hablo, solamente tengo cuidado de usar palabras que signifiquen bien lo que quiero decir\".",
+      "context": "La \"naturalidad\" en el estilo era el ideal renacentista. Juan de Valdés decía: \"Escribo como hablo, solamente tengo cuidado de usar palabras que signifiquen bien lo que quiero decir\".\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",

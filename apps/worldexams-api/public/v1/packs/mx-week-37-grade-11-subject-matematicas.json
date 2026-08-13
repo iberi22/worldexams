@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la fórmula para calcular la pendiente ($m$) de una recta que pasa por los puntos $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$?",
-      "context": "Definición de pendiente.",
+      "context": "Definición de pendiente.\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v2",
       "statement": "Dada la ecuación de la recta $y = -3x + 5$, ¿cuál es el valor de la ordenada al origen ($b$)?",
-      "context": "Identificación de la ordenada al origen.",
+      "context": "Identificación de la ordenada al origen.\n**Expected_Success:** 0.92",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v3",
       "statement": "Calcula la pendiente de la recta que pasa por los puntos $A(2, 4)$ y $B(5, 10)$.",
-      "context": "Cálculo de pendiente con puntos específicos.",
+      "context": "Cálculo de pendiente con puntos específicos.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v4",
       "statement": "Si dos rectas son paralelas en el plano cartesiano, ¿qué relación existe entre sus pendientes $m_1$ y $m_2$?",
-      "context": "Condición de paralelismo.",
+      "context": "Condición de paralelismo.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v5",
       "statement": "Determina la ecuación de la recta que pasa por el punto $P(1, -2)$ y tiene una pendiente $m = 4$.",
-      "context": "Ecuación punto-pendiente.",
+      "context": "Ecuación punto-pendiente.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la pendiente de una recta horizontal (paralela al eje X)?",
-      "context": "Rectas horizontales y verticales.",
+      "context": "Rectas horizontales y verticales.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v7",
       "statement": "Convierte la ecuación $y = \\frac{2}{3}x - 4$ a su forma general ($Ax + By + C = 0$).",
-      "context": "Conversión a forma general.",
+      "context": "Conversión a forma general.\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v8",
       "statement": "Dada una recta con pendiente $m_1 = \\frac{3}{4}$, ¿cuál debe ser la pendiente $m_2$ de una recta perpendicular a ella?",
-      "context": "Condición de perpendicularidad.",
+      "context": "Condición de perpendicularidad.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v9",
       "statement": "Encuentra la intersección con el eje X de la recta cuya ecuación es $4x - 5y + 20 = 0$.",
-      "context": "Intersecciones con los ejes.",
+      "context": "Intersecciones con los ejes.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la pendiente de la recta dada por la ecuación general $2x + 5y - 10 = 0$?",
-      "context": "Pendiente desde la forma general.",
+      "context": "Pendiente desde la forma general.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v11",
       "statement": "Halla la ecuación de la recta que pasa por los puntos $M(-1, 3)$ y $N(2, 9)$.",
-      "context": "Recta que pasa por dos puntos (completo).",
+      "context": "Recta que pasa por dos puntos (completo).\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v12",
       "statement": "Encuentra la ecuación de la recta que pasa por el origen $(0,0)$ y es paralela a la recta $2x - y + 4 = 0$.",
-      "context": "Relación entre rectas paralelas y puntos.",
+      "context": "Relación entre rectas paralelas y puntos.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la ecuación de la recta que pasa por $(3, 4)$ y es perpendicular a la recta $y = \\frac{1}{2}x - 1$?",
-      "context": "Recta perpendicular a una dada.",
+      "context": "Recta perpendicular a una dada.\n**Expected_Success:** 0.58",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v14",
       "statement": "Si una recta tiene una pendiente negativa y una ordenada al origen positiva, ¿por qué cuadrantes del plano cartesiano NO pasa?",
-      "context": "Gráficas de funciones lineales.",
+      "context": "Gráficas de funciones lineales.\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v15",
       "statement": "Calcula la distancia del punto $P(2, 3)$ a la recta $3x + 4y - 8 = 0$.",
-      "context": "Distancia de un punto a una recta.",
+      "context": "Distancia de un punto a una recta.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v16",
       "statement": "Halla el punto de intersección de las rectas $L_1: y = 2x - 1$ y $L_2: y = -x + 5$.",
-      "context": "Punto de intersección entre dos rectas.",
+      "context": "Punto de intersección entre dos rectas.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v17",
       "statement": "Determina la ecuación de la mediatriz del segmento con extremos $A(-2, 1)$ y $B(4, 5)$.",
-      "context": "Recta como mediatriz de un segmento.",
+      "context": "Recta como mediatriz de un segmento.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v18",
       "statement": "¿Cuál es la tangente del ángulo agudo formado por las rectas $y = 3x - 1$ y $y = x + 4$?",
-      "context": "Ángulo entre dos rectas (conceptual).",
+      "context": "Ángulo entre dos rectas (conceptual).\n**Expected_Success:** 0.38",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v19",
       "statement": "Halla el área del triángulo formado por los ejes coordenados y la recta $3x + 4y - 24 = 0$.",
-      "context": "Rectas que forman un triángulo.",
+      "context": "Rectas que forman un triángulo.\n**Expected_Success:** 0.32",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W37-geometria-analitica-recta-001-MASTERY-bundle-v20",
       "statement": "¿Para qué valor de $k$ la recta $kx + (k+1)y - 5 = 0$ es paralela a la recta $y = -2x + 7$?",
-      "context": "Familia de rectas.",
+      "context": "Familia de rectas.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",

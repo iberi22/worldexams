@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el objetivo principal de un texto descriptivo?",
-      "context": "En una clase de dibujo en una escuela de Leticia, el profesor pide a los alumnos que \"pinten con palabras\" el paisaje del río Amazonas que ven desde la ventana.",
+      "context": "En una clase de dibujo en una escuela de Leticia, el profesor pide a los alumnos que \"pinten con palabras\" el paisaje del río Amazonas que ven desde la ventana.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v2",
       "statement": "¿Qué tipo de descripción es esta según el objeto que se describe?",
-      "context": "Un guía turístico en Cartagena describe el Castillo de San Felipe: \"Es una enorme fortaleza de piedra coralina, con túneles oscuros y murallas inclinadas que han resistido siglos de ataques y salitre\".",
+      "context": "Un guía turístico en Cartagena describe el Castillo de San Felipe: \"Es una enorme fortaleza de piedra coralina, con túneles oscuros y murallas inclinadas que han resistido siglos de ataques y salitre\".\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipo de descripción es esta según la intención del autor?",
-      "context": "En un libro de Ciencias Naturales se lee: \"La orquídea *Cattleya trianae* tiene pétalos de color lila, un labelo purpúreo y es la flor nacional de Colombia\".",
+      "context": "En un libro de Ciencias Naturales se lee: \"La orquídea *Cattleya trianae* tiene pétalos de color lila, un labelo purpúreo y es la flor nacional de Colombia\".\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v4",
       "statement": "¿Qué recursos literarios y tipos de descripción predominan en el texto de Sara?",
-      "context": "Sara escribe sobre su abuelo en su diario: \"Mi abuelito es un hombre de manos rugosas pero corazón tierno; siempre tiene una palabra sabia y una sonrisa que calma cualquier tormenta\".",
+      "context": "Sara escribe sobre su abuelo en su diario: \"Mi abuelito es un hombre de manos rugosas pero corazón tierno; siempre tiene una palabra sabia y una sonrisa que calma cualquier tormenta\".\n**Expected_Success:** 0.78",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la categoría gramatical que más se utiliza en esta descripción y por qué?",
-      "context": "En un catálogo de ventas por internet en Bogotá, se describe una bicicleta: \"Marco de aluminio ultra liviano, rin 29, frenos de disco hidráulicos y 21 velocidades\".",
+      "context": "En un catálogo de ventas por internet en Bogotá, se describe una bicicleta: \"Marco de aluminio ultra liviano, rin 29, frenos de disco hidráulicos y 21 velocidades\".\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v6",
       "statement": "¿Qué busca lograr el autor con este tipo de descripción subjetiva?",
-      "context": "Lee este fragmento de Gabriel García Márquez: \"Era un hombre de una sabiduría legendaria, con la piel curtida por los soles de muchos mundos y unos ojos que parecían haber visto el origen del tiempo\".",
+      "context": "Lee este fragmento de Gabriel García Márquez: \"Era un hombre de una sabiduría legendaria, con la piel curtida por los soles de muchos mundos y unos ojos que parecían haber visto el origen del tiempo\".\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de los siguientes textos es una cronografía?",
-      "context": "Una cronografía es la descripción de una época o de un tiempo determinado.",
+      "context": "Una cronografía es la descripción de una época o de un tiempo determinado.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v8",
       "statement": "Si queremos hacer una caricatura de un hombre muy narizón, ¿cuál sería la frase más adecuada?",
-      "context": "Una caricatura literaria es una descripción que deforma o exagera los rasgos físicos o de carácter con intención burlona o crítica.",
+      "context": "Una caricatura literaria es una descripción que deforma o exagera los rasgos físicos o de carácter con intención burlona o crítica.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v9",
       "statement": "¿Por qué es importante seguir un orden espacial al describir una habitación o una casa?",
-      "context": "En la estructura de un texto descriptivo, el autor suele seguir un orden para no confundir al lector (de lo general a lo particular, de arriba hacia abajo, de adentro hacia afuera).",
+      "context": "En la estructura de un texto descriptivo, el autor suele seguir un orden para no confundir al lector (de lo general a lo particular, de arriba hacia abajo, de adentro hacia afuera).\n**Expected_Success:** 0.62",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W08-descripcion-001-MASTERY-bundle-v10",
       "statement": "¿Qué efecto produce la descripción dentro de una narración?",
-      "context": "Analiza la relación entre narración y descripción. En la mayoría de los cuentos colombianos, el autor interrumpe la acción para describir un paisaje o un personaje.",
+      "context": "Analiza la relación entre narración y descripción. En la mayoría de los cuentos colombianos, el autor interrumpe la acción para describir un paisaje o un personaje.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",

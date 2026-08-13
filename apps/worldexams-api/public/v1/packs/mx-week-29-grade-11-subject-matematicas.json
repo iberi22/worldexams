@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se define el logaritmo de un número $x$ en base $b$? $\\log_b(x) = y$.",
-      "context": "Un estudiante de preparatoria en la CDMX repasa la definición básica de logaritmo como la operación inversa de la potenciación.",
+      "context": "Un estudiante de preparatoria en la CDMX repasa la definición básica de logaritmo como la operación inversa de la potenciación.\n**Expected_Success:** 0.95",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la condición necesaria para el argumento $x$ en un logaritmo $\\log_b(x)$?",
-      "context": "Se presentan las restricciones de dominio de la función logarítmica en un curso de matemáticas.",
+      "context": "Se presentan las restricciones de dominio de la función logarítmica en un curso de matemáticas.\n**Expected_Success:** 0.90",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el valor de $\\log_b(1)$ para cualquier base $b$ válida?",
-      "context": "Un joven en Guadalajara identifica los valores especiales de los logaritmos.",
+      "context": "Un joven en Guadalajara identifica los valores especiales de los logaritmos.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la base del Logaritmo Natural, denotado como $\\ln(x)$?",
-      "context": "Se introduce el concepto de logaritmo natural en un estudio de procesos biológicos.",
+      "context": "Se introduce el concepto de logaritmo natural en un estudio de procesos biológicos.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v5",
       "statement": "Según las propiedades de los logaritmos, ¿a qué es igual $\\log_b(M \\cdot N)$?",
-      "context": "Un estudiante aplica la propiedad del producto para simplificar una expresión logarítmica.",
+      "context": "Un estudiante aplica la propiedad del producto para simplificar una expresión logarítmica.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v6",
       "statement": "Identifique la propiedad correcta para el logaritmo de un cociente: $\\log_b(\\frac{M}{N})$.",
-      "context": "Se utiliza la propiedad del cociente para resolver un problema de decaimiento radiactivo.",
+      "context": "Se utiliza la propiedad del cociente para resolver un problema de decaimiento radiactivo.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v7",
       "statement": "¿Cómo se puede reescribir la expresión $\\log_b(x^n)$?",
-      "context": "Un técnico en acústica en Monterrey utiliza la propiedad de la potencia para calcular niveles de decibeles.",
+      "context": "Un técnico en acústica en Monterrey utiliza la propiedad de la potencia para calcular niveles de decibeles.\n**Expected_Success:** 0.80",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v8",
       "statement": "¿Cuál es la fórmula del \"Cambio de Base\" para calcular $\\log_b(x)$ usando una base diferente $a$?",
-      "context": "Un estudiante de ingeniería utiliza una calculadora que solo tiene base 10 para hallar un logaritmo en base 2.",
+      "context": "Un estudiante de ingeniería utiliza una calculadora que solo tiene base 10 para hallar un logaritmo en base 2.\n**Expected_Success:** 0.65",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v9",
       "statement": "¿A qué es igual $\\log_b(\\sqrt{x})$ aplicando las propiedades conocidas?",
-      "context": "Se requiere simplificar una expresión que involucra una raíz cuadrada dentro de un logaritmo.",
+      "context": "Se requiere simplificar una expresión que involucra una raíz cuadrada dentro de un logaritmo.\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v10",
       "statement": "Simplifique a un solo logaritmo: $\\log(4) + \\log(25)$. (Nota: si no hay base escrita, se asume base 10).",
-      "context": "Un estudiante simplifica una suma de logaritmos con la misma base en un taller de matemáticas en Puebla.",
+      "context": "Un estudiante simplifica una suma de logaritmos con la misma base en un taller de matemáticas en Puebla.\n**Expected_Success:** 0.70",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es el valor exacto de $\\log_2(32)$?",
-      "context": "Un analista de sistemas utiliza logaritmos en base 2 para calcular la profundidad de un árbol binario.",
+      "context": "Un analista de sistemas utiliza logaritmos en base 2 para calcular la profundidad de un árbol binario.\n**Expected_Success:** 0.50",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v12",
       "statement": "Determine el valor de $\\log(0.001)$.",
-      "context": "Un estudiante de química calcula el pH de una solución usando logaritmos decimales.",
+      "context": "Un estudiante de química calcula el pH de una solución usando logaritmos decimales.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v13",
       "statement": "Calcule el valor simplificado de la expresión $e^{\\ln(5)}$.",
-      "context": "Un investigador utiliza la base natural para resolver una ecuación de interés continuo.",
+      "context": "Un investigador utiliza la base natural para resolver una ecuación de interés continuo.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v14",
       "statement": "Expanda la siguiente expresión usando propiedades: $\\log_b(\\frac{x^2 y}{z^3})$.",
-      "context": "Un estudiante en la UNAM expande una expresión logarítmica compleja en sus componentes básicos.",
+      "context": "Un estudiante en la UNAM expande una expresión logarítmica compleja en sus componentes básicos.\n**Expected_Success:** 0.40",
       "options": [
         {
           "letter": "A",
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el valor de $\\log_{1/2}(8)$?",
-      "context": "Se analiza el comportamiento de una función logarítmica con base fraccionaria.",
+      "context": "Se analiza el comportamiento de una función logarítmica con base fraccionaria.\n**Expected_Success:** 0.35",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v16",
       "statement": "Simplifique a un solo logaritmo: $2\\log_b(x) - \\log_b(x^2 - 1)$.",
-      "context": "Un estudiante simplifica una resta de logaritmos que involucra una potencia.",
+      "context": "Un estudiante simplifica una resta de logaritmos que involucra una potencia.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v17",
       "statement": "Calcule el valor de $\\log_4(2)$.",
-      "context": "Un matemático de la BUAP demuestra un valor logarítmico que involucra raíces de la base.",
+      "context": "Un matemático de la BUAP demuestra un valor logarítmico que involucra raíces de la base.\n**Expected_Success:** 0.30",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v18",
       "statement": "Si $\\log_b(2) = 0.30$ y $\\log_b(3) = 0.48$, calcule el valor de $\\log_b(12)$.",
-      "context": "Se resuelve un problema complejo que requiere el uso de múltiples propiedades simultáneamente.",
+      "context": "Se resuelve un problema complejo que requiere el uso de múltiples propiedades simultáneamente.\n**Expected_Success:** 0.25",
       "options": [
         {
           "letter": "A",
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v19",
       "statement": "Simplifique la expresión: $\\log_2(3) \\cdot \\log_3(4) \\cdot \\log_4(8)$.",
-      "context": "Un estudiante avanzado analiza la relación entre logaritmos de diferentes bases.",
+      "context": "Un estudiante avanzado analiza la relación entre logaritmos de diferentes bases.\n**Expected_Success:** 0.20",
       "options": [
         {
           "letter": "A",
@@ -865,7 +865,7 @@
     {
       "id": "MX-MAT-11-2026-W29-logaritmos-propiedades-001-MASTERY-bundle-v20",
       "statement": "¿A qué es equivalente la expresión $b^{\\log_a(c)}$ según las propiedades avanzadas de los logaritmos?",
-      "context": "Un investigador del Cinvestav estudia una identidad logarítmica compleja.",
+      "context": "Un investigador del Cinvestav estudia una identidad logarítmica compleja.\n**Expected_Success:** 0.15",
       "options": [
         {
           "letter": "A",

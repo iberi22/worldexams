@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el término que define la visión del mundo predominante en la literatura y cultura medieval, donde Dios es el eje central de la existencia?",
-      "context": "Durante la Edad Media, el pensamiento europeo estuvo dominado por una visión que ponía a la divinidad como el centro y explicación de todas las cosas.",
+      "context": "Durante la Edad Media, el pensamiento europeo estuvo dominado por una visión que ponía a la divinidad como el centro y explicación de todas las cosas.\n**Expected_Success:** 0.88",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v2",
       "statement": "¿Qué nombre recibía el oficio literario realizado por poetas cultos, generalmente clérigos, que escribían obras con intención didáctica y métrica regular?",
-      "context": "La literatura medieval se difundía a través de dos grandes oficios: uno popular y oral, y otro culto y escrito.",
+      "context": "La literatura medieval se difundía a través de dos grandes oficios: uno popular y oral, y otro culto y escrito.\n**Expected_Success:** 0.85",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es el valor humano fundamental que el Cid intenta recuperar a lo largo de todo el poema después de ser desterrado por el rey Alfonso VI?",
-      "context": "El Cantar de Mio Cid es el cantar de gesta más importante de la lengua castellana y narra las hazañas de Rodrigo Díaz de Vivar.",
+      "context": "El Cantar de Mio Cid es el cantar de gesta más importante de la lengua castellana y narra las hazañas de Rodrigo Díaz de Vivar.\n**Expected_Success:** 0.82",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v4",
       "statement": "Si analizamos una jarcha medieval, ¿qué conclusión podemos sacar sobre la situación lingüística de la España de esa época?",
-      "context": "La lírica primitiva peninsular cuenta con breves canciones en lengua romance llamadas jarchas, puestas en boca de mujeres que lamentan la ausencia de su amado.",
+      "context": "La lírica primitiva peninsular cuenta con breves canciones en lengua romance llamadas jarchas, puestas en boca de mujeres que lamentan la ausencia de su amado.\n**Expected_Success:** 0.75",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la diferencia principal entre la visión del hombre en la Edad Media y en el Renacimiento?",
-      "context": "Con la llegada del Renacimiento en el siglo XVI, el pensamiento humano dio un giro radical respecto a la Edad Media.",
+      "context": "Con la llegada del Renacimiento en el siglo XVI, el pensamiento humano dio un giro radical respecto a la Edad Media.\n**Expected_Success:** 0.72",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v6",
       "statement": "Al leer un poema renacentista que describe la belleza de una mujer comparándola con elementos de la naturaleza (rosa, azucena, oro), ¿qué tópico literario se está aplicando?",
-      "context": "Los sonetos de Garcilaso de la Vega introdujeron en España la sensibilidad y las formas métricas del Renacimiento italiano.",
+      "context": "Los sonetos de Garcilaso de la Vega introdujeron en España la sensibilidad y las formas métricas del Renacimiento italiano.\n**Expected_Success:** 0.68",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v7",
       "statement": "¿Qué función cumplían los epítetos épicos en las actuaciones de los juglares ante el público medieval?",
-      "context": "Los cantares de gesta eran recitados por juglares que utilizaban epítetos épicos para referirse a los héroes (ejemplo: \"el que en buena hora ciñó espada\").",
+      "context": "Los cantares de gesta eran recitados por juglares que utilizaban epítetos épicos para referirse a los héroes (ejemplo: \"el que en buena hora ciñó espada\").\n**Expected_Success:** 0.60",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v8",
       "statement": "¿Cómo se transforma la concepción del amor al pasar de la lírica medieval de amor cortés a la lírica renacentista de influencia petrarquista?",
-      "context": "El amor cortés medieval presentaba al poeta como un vasallo de su dama, imitando la estructura social del feudalismo.",
+      "context": "El amor cortés medieval presentaba al poeta como un vasallo de su dama, imitando la estructura social del feudalismo.\n**Expected_Success:** 0.55",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v9",
       "statement": "¿Qué nos indica el hecho de que los autores del Mester de Clerecía comenzaran a firmar sus obras y a reclamar su autoría?",
-      "context": "En el \"Mester de Clerecía\", los autores solían firmar sus obras (como Gonzalo de Berceo), a diferencia del anonimato común en el \"Mester de Juglaría\".",
+      "context": "En el \"Mester de Clerecía\", los autores solían firmar sus obras (como Gonzalo de Berceo), a diferencia del anonimato común en el \"Mester de Juglaría\".\n**Expected_Success:** 0.52",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v10",
       "statement": "Desde una perspectiva política medieval, ¿por qué era importante que el héroe épico mantuviera su lealtad al rey incluso ante la injusticia?",
-      "context": "El poema del Cid presenta a un héroe que, a pesar de ser injustamente tratado por su señor, nunca se rebela contra él.",
+      "context": "El poema del Cid presenta a un héroe que, a pesar de ser injustamente tratado por su señor, nunca se rebela contra él.\n**Expected_Success:** 0.48",
       "options": [
         {
           "letter": "A",
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v11",
       "statement": "¿Qué significó para la literatura la sustitución de las alegorías cristianas medievales por el uso de la mitología clásica en el Renacimiento?",
-      "context": "El Renacimiento recuperó los mitos clásicos de Grecia y Roma, usándolos como símbolos para expresar sentimientos humanos.",
+      "context": "El Renacimiento recuperó los mitos clásicos de Grecia y Roma, usándolos como símbolos para expresar sentimientos humanos.\n**Expected_Success:** 0.45",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W05-repaso-p1-001-MASTERY-bundle-v12",
       "statement": "¿Cómo se relaciona la forma métrica (la estructura del verso) con la intención comunicativa de los autores del Mester de Clerecía frente a los juglares?",
-      "context": "La \"cuaderna vía\" del Mester de Clerecía buscaba la perfección métrica (14 sílabas), mientras que el romance juglaresco era de métrica irregular.",
+      "context": "La \"cuaderna vía\" del Mester de Clerecía buscaba la perfección métrica (14 sílabas), mientras que el romance juglaresco era de métrica irregular.\n**Expected_Success:** 0.42",
       "options": [
         {
           "letter": "A",
