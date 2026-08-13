@@ -217,13 +217,28 @@
      }
   });
 
+  // ⚡ Bolt Optimization: Use WeakMap to safely cache O(1) Maps without mutating Svelte proxies during render
+  const optionMaps = new WeakMap<any, Map<string, any>>();
+  function getOptionMap(q: any) {
+    if (!optionMaps.has(q)) {
+      const map = new Map<string, any>();
+      if (Array.isArray(q.options)) {
+        for (const o of q.options) {
+          map.set(o.id, o);
+        }
+      }
+      optionMaps.set(q, map);
+    }
+    return optionMaps.get(q)!;
+  }
+
   function getOptionText(q: any, optionId: string) {
-    const opt = q.options.find((o: any) => o.id === optionId);
+    const opt = getOptionMap(q).get(optionId);
     return opt ? opt.text : 'Sin respuesta';
   }
 
   function getOptionFeedback(q: any, optionId: string): string | undefined {
-    const opt = q.options.find((o: any) => o.id === optionId);
+    const opt = getOptionMap(q).get(optionId);
     return typeof opt?.feedback === 'string' && opt.feedback.trim().length > 0
       ? opt.feedback.trim()
       : undefined;
