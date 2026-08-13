@@ -138,8 +138,8 @@ serve(async (req: Request) => {
     };
 
     if (isGuest) {
-      const clientIP = req.headers.get('x-forwarded-for')?.split(',')[0] ||
-                       req.headers.get('cf-connecting-ip') ||
+      const clientIP = req.headers.get('cf-connecting-ip') ||
+                       req.headers.get('x-forwarded-for')?.split(',')[0] ||
                        'unknown';
 
       const { data: rateLimitData, error: rateLimitError } = await supabase
