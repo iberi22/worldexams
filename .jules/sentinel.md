@@ -37,3 +37,8 @@
 **Learning:** When using the Supabase JS client's string-based `.or()` filters, standard string concatenation is highly dangerous if the input contains PostgREST reserved characters like commas (`,`) or unescaped wildcard percent signs (`%`). It effectively leads to NoSQL/Filter injection.
 **Prevention:** Always explicitly sanitize or strip commas and other filter control characters when building string-based PostgREST filter clauses. Alternatively, use safer, parameterized matching methods if supported by the client library, but if concatenation is necessary, use `query.replace(/[,%]/g, ' ')` or similar robust stripping.
 
+
+## 2026-08-13 - [Fix Rate Limit Bypass via IP Spoofing]
+**Vulnerability:** IP extraction logic in `api/comments.ts`, `api/developers/auth/magic-link.ts`, `api-gateway/index.ts`, and `get-questions/index.ts` was falling back to extracting the `x-forwarded-for` header and using it for rate limiting and logging if `cf-connecting-ip` was not present or spoofed. This is dangerous because `x-forwarded-for` is easily spoofed by the client, allowing attackers to bypass rate limits or spoof IP logs.
+**Learning:** Never trust `x-forwarded-for` as a fallback unless its origin is strictly verified as a trusted proxy. If `cf-connecting-ip` (or the specific proxy header) is not present or reliable, the application should fall back to a safe default like `'unknown'` rather than trusting client-provided headers that bypass security mechanisms.
+**Prevention:** Remove `x-forwarded-for` from `getClientIp` helpers or explicitly ensure it is only used when validated. Provide a safe fallback (e.g. `'unknown'`) if no trusted IP header can be found to avoid spoofing vulnerabilities.

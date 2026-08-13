@@ -15,21 +15,19 @@ function cleanupRateLimitMap(now: number) {
   }
 }
 
-function getClientIp(request: Request): string {
+function getClientIp(request: Request | globalThis.Request): string {
+  // Trust Cloudflare's connecting IP first to prevent spoofing
   const cfIp = request.headers.get('cf-connecting-ip');
   if (cfIp) {
     return cfIp.trim();
   }
 
-  const forwarded = request.headers.get('x-forwarded-for');
-  if (forwarded) {
-    return forwarded.split(',')[0].trim();
-  }
+  // PR #977 specifically dictates NOT trusting x-forwarded-for as the primary source,
+  // or at all, because it can be spoofed, unless we can validate the proxy. Since we
+  // deploy on CF, if CF is bypassed, x-forwarded-for should not be trusted.
+  // We remove x-forwarded-for and x-real-ip extraction entirely, returning unknown
+  // if no trusted cf-connecting-ip is provided.
 
-  const realIp = request.headers.get('x-real-ip');
-  if (realIp) {
-    return realIp;
-  }
   return 'unknown';
 }
 
