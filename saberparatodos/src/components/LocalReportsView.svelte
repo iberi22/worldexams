@@ -116,9 +116,24 @@
     selectedExam = null;
   }
 
+  // ⚡ Bolt Optimization: Use WeakMap to safely cache O(1) Maps without mutating Svelte proxies during render
+  const optionMaps = new WeakMap<any, Map<string, any>>();
+  function getOptionMap(q: any) {
+    if (!optionMaps.has(q)) {
+      const map = new Map<string, any>();
+      if (Array.isArray(q.options)) {
+        for (const o of q.options) {
+          map.set(o.id, o);
+        }
+      }
+      optionMaps.set(q, map);
+    }
+    return optionMaps.get(q)!;
+  }
+
   function getOptionText(q: any, optionId: string | undefined): string {
     if (!optionId || !q?.options) return 'Sin respuesta';
-    const opt = q.options.find((o: any) => o.id === optionId);
+    const opt = getOptionMap(q).get(optionId);
     return opt ? opt.text : 'Sin respuesta';
   }
 
@@ -415,14 +430,23 @@
 
     return {
       competencyStats: compStats,
-      subjectStats: subjStats,
+      subjectStats: subjStats.sort((a, b) => b.mmr - a.mmr),
       topStrengths: strengths,
       topWeaknesses: weaknesses
     };
   });
 
   let seenCompetencies = $derived(competencyStats); // Keep for compatibility if used elsewhere
-  let seenSubjects = $derived(subjectStats);        // Keep for compatibility
+  let seenSubjects = $derived(subjectStats);
+
+  // ⚡ Bolt Optimization: Derive critical topics once instead of re-calculating/sorting inside markup blocks
+  let criticalTopicsDerived = $derived.by(() => {
+    if (!userProfile?.topics) return [];
+    return Object.values(userProfile.topics)
+      .filter((t: any) => t.seen >= 3 && t.accuracy < 0.6)
+      .sort((a: any, b: any) => a.accuracy - b.accuracy)
+      .slice(0, 5);
+  });
 
   // Report Modal State
   let showReportModal = $state(false);
@@ -802,7 +826,7 @@
                     <span class="text-[8px] bg-white/5 px-2 py-1 rounded">Ordenado por Dominio</span>
                   </h3>
                   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                    {#each Object.values(userProfile.subjects).sort((a,b) => b.mmr - a.mmr) as subj}
+                    {#each subjectStats as subj}
                       <div class="bg-black/30 rounded-3xl p-5 border border-white/5 hover:border-emerald-500/30 transition-all group overflow-hidden relative">
                         <div class="absolute -right-4 -bottom-4 text-6xl opacity-[0.03] grayscale transition-all group-hover:scale-110 group-hover:opacity-[0.08] pointer-events-none">
                           {subj.name.substring(0, 2).toUpperCase()}
@@ -954,7 +978,7 @@
 
               <!-- 🆕 4.5. Temas Críticos (Critical Topics Graph) -->
               {#if userProfile.topics}
-                {@const critTopics = Object.values(userProfile.topics).filter(t => t.seen >= 3 && t.accuracy < 0.6).sort((a,b) => a.accuracy - b.accuracy).slice(0, 5)}
+                {@const critTopics = criticalTopicsDerived}
                 {#if critTopics.length > 0}
                   <div class="md:col-span-3 bg-gradient-to-r from-red-900/10 to-transparent border border-red-500/20 rounded-xl p-6">
                     <h3 class="text-sm font-bold uppercase tracking-widest text-red-400 mb-6 flex items-center gap-2">
