@@ -1,3 +1,10 @@
+
+## 2026-08-09 - Ensure cf-connecting-ip is used before x-forwarded-for
+**Vulnerability:** Found IP extraction logic that trusted `x-forwarded-for` (which can be spoofed by clients) before the trusted Cloudflare `cf-connecting-ip` header.
+**Learning:** Rate limiting and security middleware can be bypassed via IP spoofing if client-provided headers are evaluated before reverse-proxy verified headers.
+**Prevention:** Always extract the client IP using `cf-connecting-ip` before falling back to `x-forwarded-for`.
+
+
 ## 2026-03-10 - MathRenderer.svelte XSS Vulnerability
 **Vulnerability:** The MathRenderer component injected raw `content` directly into the DOM using `{@html renderedHTML}`. While KaTeX handled math blocks, regular text containing `<script>` or `<img src=x onerror=...>` was not escaped, allowing stored XSS from user comments and generated questions.
 **Learning:** Svelte's `{@html}` bypasses all sanitization. Memory dictated NOT to use `DOMPurify` as it can break KaTeX/SVG rendering. We must be very careful when rendering rich text with custom parsers.
@@ -25,3 +32,13 @@
 **Vulnerability:** Rate limiting in `/api/comments` relied on `X-Forwarded-For` as the primary source for the client IP. An attacker could spoof this header to bypass the 5 requests/minute limit, allowing them to flood the database and the Telegram moderation bot.
 **Learning:** When deployed behind Cloudflare (or similar reverse proxies), `X-Forwarded-For` can be manipulated by the client (the spoofed IP is prepended). Always prioritize the platform-specific trusted IP header (e.g., `CF-Connecting-IP`).
 **Prevention:** Prioritize `CF-Connecting-IP` over `X-Forwarded-For` when determining the client IP for rate limiting or security purposes.
+## 2024-05-18 - PostgREST Filter Injection via OR clauses
+**Vulnerability:** The application was vulnerable to PostgREST filter injection in `src/components/CollegeSelect.svelte`. Unsanitized user input from the college search bar was directly concatenated into an `.or()` query filter: `.or(\`name.ilike.%${query}%,cod_dane.ilike.%${query}%\`)`. Because PostgREST uses commas (`,`) to separate conditions within `.or()` clauses, an attacker could input a comma to alter the query logic and bypass intended filtering.
+**Learning:** When using the Supabase JS client's string-based `.or()` filters, standard string concatenation is highly dangerous if the input contains PostgREST reserved characters like commas (`,`) or unescaped wildcard percent signs (`%`). It effectively leads to NoSQL/Filter injection.
+**Prevention:** Always explicitly sanitize or strip commas and other filter control characters when building string-based PostgREST filter clauses. Alternatively, use safer, parameterized matching methods if supported by the client library, but if concatenation is necessary, use `query.replace(/[,%]/g, ' ')` or similar robust stripping.
+
+
+## 2026-08-13 - [Fix Rate Limit Bypass via IP Spoofing]
+**Vulnerability:** IP extraction logic in `api/comments.ts`, `api/developers/auth/magic-link.ts`, `api-gateway/index.ts`, and `get-questions/index.ts` was falling back to extracting the `x-forwarded-for` header and using it for rate limiting and logging if `cf-connecting-ip` was not present or spoofed. This is dangerous because `x-forwarded-for` is easily spoofed by the client, allowing attackers to bypass rate limits or spoof IP logs.
+**Learning:** Never trust `x-forwarded-for` as a fallback unless its origin is strictly verified as a trusted proxy. If `cf-connecting-ip` (or the specific proxy header) is not present or reliable, the application should fall back to a safe default like `'unknown'` rather than trusting client-provided headers that bypass security mechanisms.
+**Prevention:** Remove `x-forwarded-for` from `getClientIp` helpers or explicitly ensure it is only used when validated. Provide a safe fallback (e.g. `'unknown'`) if no trusted IP header can be found to avoid spoofing vulnerabilities.

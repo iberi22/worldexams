@@ -112,6 +112,19 @@
   let percentage = $derived(totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0);
   let wrongQuestions = $derived(answerStats.wrongQuestions);
 
+  // ⚡ Bolt Optimization: Precompute an O(1) dictionary for option text and feedback to avoid O(N*M) nested `.find()` loops during render
+  let optionDictionary = $derived.by(() => {
+    const dict = new Map<string, any>();
+    for (const q of safeQuestions) {
+      if (Array.isArray(q.options)) {
+        for (const opt of q.options) {
+          dict.set(`${q.id}_${opt.id}`, opt);
+        }
+      }
+    }
+    return dict;
+  });
+
   let canNativeShare = $state(false);
   let shareFeedback = $state<string | null>(null);
   let longitudinalMmr = $state<number | null>(null);
@@ -217,28 +230,13 @@
      }
   });
 
-  // ⚡ Bolt Optimization: Use WeakMap to safely cache O(1) Maps without mutating Svelte proxies during render
-  const optionMaps = new WeakMap<any, Map<string, any>>();
-  function getOptionMap(q: any) {
-    if (!optionMaps.has(q)) {
-      const map = new Map<string, any>();
-      if (Array.isArray(q.options)) {
-        for (const o of q.options) {
-          map.set(o.id, o);
-        }
-      }
-      optionMaps.set(q, map);
-    }
-    return optionMaps.get(q)!;
-  }
-
   function getOptionText(q: any, optionId: string) {
-    const opt = getOptionMap(q).get(optionId);
+    const opt = optionDictionary.get(`${q.id}_${optionId}`);
     return opt ? opt.text : 'Sin respuesta';
   }
 
   function getOptionFeedback(q: any, optionId: string): string | undefined {
-    const opt = getOptionMap(q).get(optionId);
+    const opt = optionDictionary.get(`${q.id}_${optionId}`);
     return typeof opt?.feedback === 'string' && opt.feedback.trim().length > 0
       ? opt.feedback.trim()
       : undefined;
