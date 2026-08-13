@@ -22,12 +22,15 @@
       return;
     }
 
+    // Sanitize query to prevent PostgREST .or() injection (comma is a separator) and wildcard manipulation
+    const sanitizedQuery = query.replace(/[,%]/g, ' ').trim();
+
     loading = true;
     try {
       const { data, error } = await supabase
         .from('colleges')
         .select('id, cod_dane, name, department, municipality')
-        .or(`name.ilike.%${query}%,cod_dane.ilike.%${query}%`)
+        .or(`name.ilike.%${sanitizedQuery}%,cod_dane.ilike.%${sanitizedQuery}%`)
         .order('name')
         .limit(20);
 

@@ -844,13 +844,13 @@
                          <div class="bg-black/20 rounded-xl p-3 border border-white/5">
                             <div class="text-[9px] text-white/30 uppercase tracking-widest mb-1">Mejor Desempeño</div>
                             <div class="text-sm font-black text-emerald-400">
-                              {competencyStats.sort((a,b) => b.correct/b.seen - a.correct/a.seen)[0]?.name || '-'}
+                              {topStrengths[0]?.name || '-'}
                             </div>
                          </div>
                          <div class="bg-black/20 rounded-xl p-3 border border-white/5">
                             <div class="text-[9px] text-white/30 uppercase tracking-widest mb-1">Área de Oportunidad</div>
                             <div class="text-sm font-black text-yellow-400">
-                              {competencyStats.sort((a,b) => a.correct/a.seen - b.correct/b.seen)[0]?.name || '-'}
+                              {topWeaknesses[0]?.name || '-'}
                             </div>
                          </div>
                       </div>

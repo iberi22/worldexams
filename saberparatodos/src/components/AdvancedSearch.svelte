@@ -197,6 +197,8 @@
     on:click={toggleSearch}
     class="p-2 text-emerald-500 hover:text-emerald-400 transition-colors opacity-80 hover:opacity-100 relative"
     aria-label="Búsqueda avanzada"
+    aria-expanded={isOpen}
+    aria-controls="advanced-search-modal"
   >
     <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
@@ -210,6 +212,7 @@
 
   {#if isOpen}
     <div
+      id="advanced-search-modal"
       use:portal
       transition:fade={{ duration: 200 }}
       class="fixed inset-0 z-[9999] bg-black/95 backdrop-blur-md flex items-start justify-center pt-16 sm:pt-24 px-4 overflow-y-auto"
