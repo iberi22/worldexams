@@ -14,6 +14,15 @@ const QUESTIONS_BASE_URL =
 const ANCHOR_DATE_MS = Date.parse('2025-01-01T00:00:00Z');
 const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
 
+function getClientIp(req: Request | globalThis.Request): string {
+  const cfIp = req.headers.get('cf-connecting-ip');
+  if (cfIp) {
+    return cfIp.trim();
+  }
+
+  return 'unknown';
+}
+
 function getCurrentWeek(): number {
   const elapsed = Math.max(0, Date.now() - ANCHOR_DATE_MS);
   const week = Math.ceil(elapsed / ONE_WEEK_MS);
@@ -138,9 +147,7 @@ serve(async (req: Request) => {
     };
 
     if (isGuest) {
-      const clientIP = req.headers.get('x-forwarded-for')?.split(',')[0] ||
-                       req.headers.get('cf-connecting-ip') ||
-                       'unknown';
+      const clientIP = getClientIp(req);
 
       const { data: rateLimitData, error: rateLimitError } = await supabase
         .from('api_rate_limits')
