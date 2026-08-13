@@ -47,7 +47,9 @@
   <!-- Compact Mode - For header -->
   <button
     on:click={() => showDetails = !showDetails}
-    class="flex items-center gap-2 px-3 py-1.5 bg-white/5 hover:bg-white/10 border border-white/10 rounded-lg text-xs transition-all"
+    aria-expanded={showDetails}
+    aria-controls="memory-details"
+    class="flex items-center gap-2 px-3 py-1.5 bg-white/5 hover:bg-white/10 border border-white/10 rounded-lg text-xs transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500"
     title="Ver progreso de preguntas"
   >
     <div class="relative w-16 h-1.5 bg-white/10 rounded-full overflow-hidden">
@@ -71,7 +73,9 @@
       </h3>
       <button
         on:click={() => showDetails = !showDetails}
-        class="min-h-[44px] min-w-[44px] flex items-center justify-center px-3 py-2 text-xs font-medium text-emerald-500 active:text-emerald-300 active:bg-emerald-500/10 rounded-lg transition-colors"
+        aria-expanded={showDetails}
+        aria-controls="memory-details"
+        class="min-h-[44px] min-w-[44px] flex items-center justify-center px-3 py-2 text-xs font-medium text-emerald-500 active:text-emerald-300 active:bg-emerald-500/10 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500"
       >
         {showDetails ? 'Ocultar' : 'Ver detalles'}
       </button>
@@ -128,7 +132,7 @@
 
     <!-- Details Section - Mobile Optimized -->
     {#if showDetails && questionStats}
-      <div class="space-y-5 pt-5 border-t border-white/10" transition:slide>
+      <div id="memory-details" class="space-y-5 pt-5 border-t border-white/10" transition:slide>
 
         <!-- Explanation Banner -->
         <div class="p-3 bg-blue-500/10 border border-blue-500/20 rounded-xl text-xs text-blue-300/80 leading-relaxed">
