@@ -1,3 +1,3 @@
-## 2026-08-08 - Accessible Disclosure Widgets
-**Learning:** Using `div` with `on:click` for expandable sections (like organization lists) completely breaks keyboard navigation for screen readers and power users. It lacks focus states, keyboard event handling (Enter/Space), and semantic meaning.
-**Action:** Always replace clickable `div`s used for expansion with native `<button>` elements. Ensure they include `aria-expanded` and `aria-controls` to properly communicate state to assistive technologies, and use native focus styling (e.g., `focus-visible:ring-2`).
+## 2026-08-13 - FlashlightCard Accessibility
+**Learning:** We had `FlashlightCard.svelte` using a generic `div` tag acting as a button with `role="button"` and `tabindex="0"`. While visually it acts like a card, generic clickable elements fail to provide native keyboard interaction behaviors (like Enter/Space handling) which compromises the screen reader and keyboard-only user experience.
+**Action:** Always prefer native semantic HTML elements (`<button type="button">` instead of `<div role="button">`) for interactive, clickable components. Use Tailwind utility classes such as `w-full text-left block` on buttons to neutralize user-agent stylesheet overrides and maintain the intended layout of complex nested cards without losing accessibility support.
