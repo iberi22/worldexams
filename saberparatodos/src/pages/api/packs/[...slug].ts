@@ -50,7 +50,19 @@ async function proxyPack(request: Request, slug: string | undefined) {
     });
   }
 
+  const baseUrl = new URL(`${getUpstreamBaseUrl()}/packs/`);
   const upstreamUrl = new URL(`${getUpstreamBaseUrl()}/packs/${slug}`);
+
+  // Prevent path traversal/SSRF out of the base directory
+  if (!upstreamUrl.pathname.startsWith(baseUrl.pathname)) {
+    return new Response(JSON.stringify({ error: 'Invalid pack path.' }), {
+      status: 400,
+      headers: {
+        'Content-Type': 'application/json',
+        ...CORS_HEADERS
+      },
+    });
+  }
   const upstreamResponse = await fetch(upstreamUrl, {
     method: request.method,
     headers: {
