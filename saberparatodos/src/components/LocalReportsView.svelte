@@ -628,6 +628,7 @@
                     <div class="flex gap-2">
                         <button
                           class="p-2.5 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/10 hover:text-emerald-400 border border-white/5"
+                          aria-label="Compartir puntaje"
                           onclick={(e) => {
                             e.stopPropagation();
                             const score = userProfile?.icfesEstimate?.score || 0;
@@ -1614,7 +1615,7 @@
         <button
           onclick={() => showHelpModal = false}
           class="p-2 hover:bg-white/10 rounded-lg transition-colors text-white/60 hover:text-white"
-          aria-label="Cerrar"
+          aria-label="Cerrar modal de ayuda"
         >
           <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
@@ -1779,7 +1780,7 @@
         <button
           onclick={() => showStudyPromptModal = false}
           class="p-2 hover:bg-white/10 rounded-lg transition-colors text-white/60 hover:text-white"
-          aria-label="Cerrar"
+          aria-label="Cerrar guía de estudio"
         >
           <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
@@ -1999,7 +2000,7 @@
         <h3 class="text-lg font-black text-white uppercase tracking-widest flex items-center gap-2">
           <span class="text-emerald-400">📊</span> Entendiendo tu Rating (MMR)
         </h3>
-        <button onclick={() => showHelpModal = false} class="text-white/40 hover:text-white transition-colors">
+        <button onclick={() => showHelpModal = false} class="text-white/40 hover:text-white transition-colors" aria-label="Cerrar modal de ayuda">
           <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
         </button>
       </div>
