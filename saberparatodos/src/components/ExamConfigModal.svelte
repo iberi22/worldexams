@@ -185,9 +185,20 @@
   let syncMethod = $state('none'); // 'p2p', 'realtime', or 'none'
   let isStartingExam = $state(false); // 🆕 Loading state for exam start
 
-  let allStudentsReady = $derived(connectedUsers.length > 0 && connectedUsers.every((u) => Boolean(u?.ready)));
+  // ⚡ Bolt Optimization: Calculate readyCount and allStudentsReady in a single pass to avoid multiple O(N) iterations
+  let readyStats = $derived.by(() => {
+    let count = 0;
+    for (const u of connectedUsers) {
+      if (Boolean(u?.ready)) count++;
+    }
+    return {
+      count,
+      allReady: connectedUsers.length > 0 && count === connectedUsers.length
+    };
+  });
+  let allStudentsReady = $derived(readyStats.allReady);
   let canHostStartRoom = $derived(!roomEnabled || !roomCode || !isHost || allStudentsReady);
-  let readyCount = $derived(connectedUsers.filter((u) => Boolean(u?.ready)).length);
+  let readyCount = $derived(readyStats.count);
 
   // 🆕 Sync method label
   let syncMethodLabel = $derived(!roomEnabled || !roomCode
