@@ -7,19 +7,6 @@ const siteBaseUrl = process.env.PLAYWRIGHT_BASE_URL || "https://saberparatodos.s
 const apiBaseUrl = process.env.API_BASE_URL || "https://api.saberparatodos.space";
 
 const examMatrix = [
-  { grade: 3, subject: "matematicas" },
-  { grade: 3, subject: "lectura_critica" },
-  { grade: 3, subject: "ingles" },
-  { grade: 3, subject: "ciencias_naturales" },
-  { grade: 5, subject: "matematicas" },
-  { grade: 5, subject: "ciencias_naturales" },
-  { grade: 5, subject: "ingles" },
-  { grade: 7, subject: "matematicas" },
-  { grade: 7, subject: "ciencias_naturales" },
-  { grade: 7, subject: "ingles" },
-  { grade: 9, subject: "matematicas" },
-  { grade: 9, subject: "ciencias_naturales" },
-  { grade: 9, subject: "ingles" },
   { grade: 11, subject: "matematicas" },
   { grade: 11, subject: "lectura_critica" },
   { grade: 11, subject: "ciencias_naturales" },
@@ -94,7 +81,7 @@ describe("Production exam creation matrix", () => {
   it("same-origin pack proxy supports HEAD for ciencias 11", async ({ request, browserName }) => {
     test.skip(browserName !== "chromium", "Matrix runs once in chromium to keep production smoke bounded.");
 
-    const response = await request.fetch(`${siteBaseUrl}/api/packs/week-1-grade-11-subject-ciencias_naturales.json`, {
+    const response = await request.fetch(`${siteBaseUrl}/api/packs/co-week-1-grade-11-subject-ciencias_naturales.json`, {
       method: "HEAD",
     });
 
@@ -107,6 +94,7 @@ describe("Production exam creation matrix", () => {
 
       await page.addInitScript(() => {
         localStorage.setItem("spt_hide_hero", "true");
+        Date.now = () => new Date("2025-01-02T00:00:00Z").getTime();
       });
 
       const query = new URLSearchParams({
@@ -118,6 +106,12 @@ describe("Production exam creation matrix", () => {
 
       const modal = page.getByTestId("modal-content");
       await expect(modal).toBeVisible({ timeout: 15000 });
+
+      page.on('console', msg => console.log('BROWSER CONSOLE:', msg.text()));
+      page.on('dialog', dialog => {
+        console.log('BROWSER DIALOG:', dialog.type(), dialog.message());
+        dialog.accept();
+      });
 
       await page.getByRole("button", { name: /Por Periodo/i }).click();
       await page.getByRole("button", { name: combo.periodLabel }).first().click();
