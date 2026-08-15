@@ -249,18 +249,22 @@ export async function fetchEnglishQuestionsAllGrades(limit: number = 30, _balanc
       const isNewProtocol = !isNaN(protocolVal) && protocolVal >= 4.0;
 
       if (isHighLevel) {
-        return isNotAnswered && isNewProtocol;
+        return isNewProtocol;
       } else {
         if (grade >= 10) {
-          return isNotAnswered && mapDifficulty(q.difficulty || 'Medium') <= 2;
+          return mapDifficulty(q.difficulty || 'Medium') <= 2;
         }
-        return isNotAnswered;
+        return true;
       }
     }).map(q => {
+      let finalQ: AppQuestion;
       if ('correctOptionId' in (q as any) && 'text' in (q as any)) {
-        return q as AppQuestion;
+        finalQ = q as AppQuestion;
+      } else {
+        finalQ = transformQuestion(q, grade, 'ingles');
       }
-      return transformQuestion(q, grade, 'ingles');
+      finalQ.answered = answeredIds.has(q.id);
+      return finalQ;
     });
   }));
 
