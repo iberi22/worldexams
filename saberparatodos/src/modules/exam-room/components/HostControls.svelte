@@ -15,16 +15,23 @@
   let answers = $derived(roomState.answers);
   let suspiciousPlayers = $derived(roomState.playersWithSuspiciousActivity);
 
-  // Estadísticas en tiempo real
-  let currentQuestionAnswers = $derived(
-    answers.filter(
-      (a) => a.questionId === roomState.currentQuestion?.id
-    )
-  );
-  let answersReceived = $derived(currentQuestionAnswers.length);
-  let correctAnswers = $derived(
-    currentQuestionAnswers.filter((a) => a.isCorrect).length
-  );
+  // ⚡ Bolt Optimization: Calculate currentQuestionAnswers and correctAnswers in a single pass instead of multiple .filter() iterations
+  let currentQuestionStats = $derived.by(() => {
+    const currentAnswers = [];
+    let correctCount = 0;
+    const currentId = roomState.currentQuestion?.id;
+    for (const a of answers) {
+      if (a.questionId === currentId) {
+        currentAnswers.push(a);
+        if (a.isCorrect) correctCount++;
+      }
+    }
+    return { currentAnswers, correctCount };
+  });
+
+  let currentQuestionAnswers = $derived(currentQuestionStats.currentAnswers);
+  let answersReceived = $derived(currentQuestionStats.currentAnswers.length);
+  let correctAnswers = $derived(currentQuestionStats.correctCount);
   let progressPercent = $derived(
     (gameState.currentQuestionIndex / (config?.totalQuestions || 1)) * 100
   );
