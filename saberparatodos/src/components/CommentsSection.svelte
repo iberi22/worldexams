@@ -156,6 +156,8 @@
          <button
            onclick={() => showComments = true}
            class="text-[10px] text-emerald-500/60 hover:text-emerald-500 uppercase tracking-widest transition-colors"
+           aria-expanded={showComments}
+           aria-label="Ver todos los comentarios"
          >
            Ver Todo
          </button>
@@ -165,6 +167,8 @@
     <button
       onclick={loadGiscus}
       class={`flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest transition-all ${showGiscus ? 'text-emerald-500' : 'text-white/20 hover:text-white/40'}`}
+      aria-expanded={showGiscus}
+      aria-label="Abrir hilo de discusión en GitHub"
     >
        GitHub Discussion
     </button>
@@ -212,7 +216,7 @@
         <div class="pt-6 border-t border-white/5 space-y-4">
           <div class="flex items-center justify-between">
             <h4 class="text-[9px] font-bold uppercase tracking-widest text-emerald-500/60">Hilo Social (Giscus)</h4>
-            <button onclick={() => showGiscus = false} class="text-[9px] text-white/20 hover:text-white/50">Cerrar Giscus</button>
+            <button onclick={() => showGiscus = false} class="text-[9px] text-white/20 hover:text-white/50" aria-label="Cerrar hilo de discusión en GitHub">Cerrar Giscus</button>
           </div>
           <div
             id={uniqueId}
@@ -232,6 +236,7 @@
      <button
       onclick={() => showComments = true}
       class="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-white/30 hover:text-emerald-500 transition-all"
+      aria-expanded={showComments}
     >
       <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
