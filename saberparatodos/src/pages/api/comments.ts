@@ -202,20 +202,36 @@ export const POST: APIRoute = async ({ request, locals }) => {
       });
     }
 
-    const { questionId, content, userName, userId } = validationResult.data;
+    const { questionId, content: commentContent } = validationResult.data;
 
     const env = getServerRuntimeEnv(locals as RuntimeLocals);
-    const supabase = createAdminSupabaseClient(env);
+
+    // Auth Check
+    const authHeader = request.headers.get('Authorization');
+    let authenticatedUserId: string | null = null;
+    let authenticatedUserName: string = 'Anónimo';
+
+    if (authHeader) {
+      const token = authHeader.replace('Bearer ', '');
+      const userSupabase = createServerSupabaseClient(env, token);
+      const { data: { user }, error: authError } = await userSupabase.auth.getUser();
+      if (!authError && user) {
+        authenticatedUserId = user.id;
+        authenticatedUserName = user.user_metadata?.user_name || user.email?.split('@')[0] || 'Usuario';
+      }
+    }
+
+    const adminSupabase = createAdminSupabaseClient(env);
 
     // Default is_approved = false (moderation active)
-    const { data, error } = await (supabase
+    const { data, error } = await (adminSupabase
       .from('question_comments') as any)
       .insert([
         {
           question_id: questionId,
-          content,
-          user_name: userName || 'Anónimo',
-          user_id: userId || null,
+          content: commentContent,
+          user_name: authenticatedUserName,
+          user_id: authenticatedUserId,
           is_approved: false
         }
       ])
