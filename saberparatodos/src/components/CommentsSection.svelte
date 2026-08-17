@@ -157,6 +157,7 @@
            onclick={() => showComments = true}
            class="text-[10px] text-emerald-500/60 hover:text-emerald-500 uppercase tracking-widest transition-colors"
            aria-expanded={showComments}
+           aria-controls="comments-list-{questionId}"
            aria-label="Ver todos los comentarios"
          >
            Ver Todo
@@ -168,6 +169,7 @@
       onclick={loadGiscus}
       class={`flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest transition-all ${showGiscus ? 'text-emerald-500' : 'text-white/20 hover:text-white/40'}`}
       aria-expanded={showGiscus}
+      aria-controls={uniqueId}
       aria-label="Abrir hilo de discusión en GitHub"
     >
        GitHub Discussion
@@ -175,7 +177,7 @@
   </div>
 
   {#if showComments || dbComments.length > 0}
-    <div class="space-y-4 animate-in fade-in slide-in-from-top-2 duration-300">
+    <div id="comments-list-{questionId}" class="space-y-4 animate-in fade-in slide-in-from-top-2 duration-300">
       <!-- Comment List -->
       {#if dbComments.length > 0}
         <div class="space-y-3">
@@ -237,6 +239,7 @@
       onclick={() => showComments = true}
       class="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-white/30 hover:text-emerald-500 transition-all"
       aria-expanded={showComments}
+      aria-controls="comments-list-{questionId}"
     >
       <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
