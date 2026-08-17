@@ -50,3 +50,7 @@
 **Vulnerability:** The API route \`/api/report_problem.ts\` was directly forwarding arbitrary POST bodies to a backend Edge Function without checking payload sizes or applying rate limits.
 **Learning:** Endpoints that proxy requests to cloud functions or third-party services can become vectors for Denial of Service (DoS) attacks or result in uncontrollable resource consumption if not adequately rate-limited based on the user's IP.
 **Prevention:** Implement standard in-memory rate limiting (using `cf-connecting-ip` to securely identify clients) across all public-facing endpoints, especially those that trigger downstream functions or external notifications (like Telegram bots).
+## 2026-08-18 - [Fix IP Spoofing Risk by removing x-forwarded-for fallback]
+**Vulnerability:** The application was extracting client IPs using `x-forwarded-for` as a fallback in multiple locations (`apps/worldexams-api/src/index.ts`, `src/app.ts`, `saberparatodos/src/middleware.ts`). This header can easily be spoofed by attackers.
+**Learning:** Never trust `x-forwarded-for` as a fallback when identifying client IP. If a trusted proxy header like `cf-connecting-ip` is not available, default to a safe value (e.g. `'127.0.0.1'` or `'unknown'`) rather than an insecure user-controlled header.
+**Prevention:** Strictly rely on `cf-connecting-ip` and completely remove `x-forwarded-for` fallback logic across the codebase to ensure robust rate limiting, geolocation detection, and API logging.
