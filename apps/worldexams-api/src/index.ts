@@ -359,9 +359,7 @@ function getProxyHeaders(request: Request, env: Env, includeApiKey = false, useA
   const auth = request.headers.get("authorization")
   const apiKey = request.headers.get("x-api-key")
   const userAgent = request.headers.get("user-agent")
-  const ipAddress =
-    request.headers.get("cf-connecting-ip") ||
-    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim()
+  const ipAddress = request.headers.get("cf-connecting-ip")
 
   if (auth) {
     headers.set("authorization", auth)
