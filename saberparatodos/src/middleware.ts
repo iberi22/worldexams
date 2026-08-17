@@ -109,7 +109,6 @@ export const onRequest = defineMiddleware(async (context, next) => {
       } else if (!isInternalPath) {
         const clientIP =
           context.request.headers.get('cf-connecting-ip') ||
-          context.request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() ||
           '127.0.0.1';
         const apiCountry = await detectCountryFromApi(clientIP);
         if (apiCountry) {
