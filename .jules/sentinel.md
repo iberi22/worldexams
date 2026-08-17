@@ -46,3 +46,7 @@
 **Vulnerability:** The API route `saberparatodos/src/pages/api/packs/[...slug].ts` proxied requests to a backend URL using user-supplied path components (`slug`) without validating them against path traversal (`..` or `%2e%2e`). This could allow an attacker to bypass the intended `/v1/packs/` directory and issue requests to other endpoints on the target origin (e.g. `../../admin`).
 **Learning:** Whenever proxying requests by concatenating user inputs into a backend URL, it's essential to validate the input to ensure it doesn't navigate upwards in the directory tree using URL decoding.
 **Prevention:** Added a check to URL-decode the `slug` and reject it if it contains `..`. This is a defensive-in-depth measure.
+## 2026-08-17 - Rate Limit Bypass due to missing IP-based restrictions
+**Vulnerability:** The API route \`/api/report_problem.ts\` was directly forwarding arbitrary POST bodies to a backend Edge Function without checking payload sizes or applying rate limits.
+**Learning:** Endpoints that proxy requests to cloud functions or third-party services can become vectors for Denial of Service (DoS) attacks or result in uncontrollable resource consumption if not adequately rate-limited based on the user's IP.
+**Prevention:** Implement standard in-memory rate limiting (using `cf-connecting-ip` to securely identify clients) across all public-facing endpoints, especially those that trigger downstream functions or external notifications (like Telegram bots).
