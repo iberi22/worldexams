@@ -66,10 +66,18 @@
     new Map(allSessions.map(s => [s.sessionId, s])).values()
   ).sort((a, b) => (b.finishedAt || 0) - (a.finishedAt || 0)); // Sort by finish time
 
-  $: concentratedUsers = uniqueSessions.filter(s => (s.focusViolations || 0) === 0).length;
-  $: distractedUsers = uniqueSessions.filter(s => (s.focusViolations || 0) > 0).length;
+  // ⚡ Bolt Optimization: Calculate concentratedUsers, distractedUsers and averageScore in a single pass instead of multiple .filter() and .reduce() iterations
+  $: sessionStats = uniqueSessions.reduce((acc, s) => {
+    if ((s.focusViolations || 0) === 0) acc.concentrated++;
+    else acc.distracted++;
+    acc.totalScore += (s.score || 0);
+    return acc;
+  }, { concentrated: 0, distracted: 0, totalScore: 0 });
+
+  $: concentratedUsers = sessionStats.concentrated;
+  $: distractedUsers = sessionStats.distracted;
   $: averageScore = uniqueSessions.length > 0
-    ? Math.round(uniqueSessions.reduce((acc, s) => acc + ((s.score || 0)), 0) / uniqueSessions.length)
+    ? Math.round(sessionStats.totalScore / uniqueSessions.length)
     : 0;
 
   onMount(async () => {
