@@ -319,11 +319,15 @@
     // 🆕 Try granular topics first (Best for specific feedback)
     if (profile?.topics) {
       const topicAreas = Object.values(profile.topics)
-        .filter(t => (t as any).seen >= 3)
-        .map(t => ({
-          ...(t as any),
-          weightedScore: getWeightedScore((t as any).correct, (t as any).seen)
-        }))
+        .reduce((acc: any[], t: any) => {
+          if (t.seen >= 3) {
+            acc.push({
+              ...t,
+              weightedScore: getWeightedScore(t.correct, t.seen)
+            });
+          }
+          return acc;
+        }, [])
         .sort((a, b) => a.weightedScore - b.weightedScore)
         .slice(0, 5)
         .map(t => ({
@@ -338,11 +342,15 @@
     // Fallback to competencies
     if (profile?.competencies) {
       const compAreas = Object.values(profile.competencies)
-        .filter(c => (c as any).seen >= 2)
-        .map(c => ({
-          ...(c as any),
-          weightedScore: getWeightedScore((c as any).correct, (c as any).seen)
-        }))
+        .reduce((acc: any[], c: any) => {
+          if (c.seen >= 2) {
+            acc.push({
+              ...c,
+              weightedScore: getWeightedScore(c.correct, c.seen)
+            });
+          }
+          return acc;
+        }, [])
         .sort((a, b) => a.weightedScore - b.weightedScore)
         .slice(0, 3);
       if (compAreas.length > 0) return compAreas;
@@ -351,17 +359,18 @@
     // Fallback to subjects
     if (profile?.subjects) {
       return Object.values(profile.subjects)
-        .filter(s => (s as any).questionsAnswered >= 1)
-        .map(s => {
-            const subj = s as any;
-            return {
-                name: subj.name,
-                seen: subj.questionsAnswered,
-                correct: Math.round(subj.accuracy * subj.questionsAnswered),
-                mmr: subj.mmr,
-                weightedScore: getWeightedScore(Math.round(subj.accuracy * subj.questionsAnswered), subj.questionsAnswered)
-            }
-        })
+        .reduce((acc: any[], s: any) => {
+          if (s.questionsAnswered >= 1) {
+            acc.push({
+                name: s.name,
+                seen: s.questionsAnswered,
+                correct: Math.round(s.accuracy * s.questionsAnswered),
+                mmr: s.mmr,
+                weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
+            });
+          }
+          return acc;
+        }, [])
         .sort((a, b) => a.weightedScore - b.weightedScore)
         .slice(0, 3);
     }
@@ -397,22 +406,30 @@
   let { competencyStats, subjectStats, topStrengths, topWeaknesses } = $derived.by(() => {
     const compStats = userProfile?.competencies
       ? Object.values(userProfile.competencies)
-          .filter(c => c.seen > 0)
-          .map(c => ({
-            ...c,
-            weightedScore: getWeightedScore(c.correct, c.seen)
-          }))
+          .reduce((acc: any[], c: any) => {
+          if (c.seen > 0) {
+            acc.push({
+              ...c,
+              weightedScore: getWeightedScore(c.correct, c.seen)
+            });
+          }
+          return acc;
+        }, [])
       : [];
 
     const subjStats = userProfile?.subjects
       ? Object.values(userProfile.subjects)
-          .filter(s => s.questionsAnswered > 0)
-          .map(s => ({
-            ...s,
-            correct: Math.round(s.accuracy * s.questionsAnswered),
-            seen: s.questionsAnswered,
-            weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
-          }))
+          .reduce((acc: any[], s: any) => {
+          if (s.questionsAnswered > 0) {
+            acc.push({
+              ...s,
+              correct: Math.round(s.accuracy * s.questionsAnswered),
+              seen: s.questionsAnswered,
+              weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
+            });
+          }
+          return acc;
+        }, [])
       : [];
 
     let strengths: any[] = [];
