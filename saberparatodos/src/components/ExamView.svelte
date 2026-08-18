@@ -520,9 +520,11 @@
       broadcastRoomState('finished', currentIdx);
     }
 
+    // ⚡ Bolt Optimization: Use an external Set for O(1) tracking instead of O(N^2) array.find() in loop
+    const processedQuestionIds = new Set(questionResults.map(r => r.questionId));
     activeQuestions.forEach((q) => {
       const answer = answers[q.id];
-      if (answer && !questionResults.find(r => r.questionId === q.id)) {
+      if (answer && !processedQuestionIds.has(q.id)) {
         // Normalize logic...
         const qOptions = (q.options || []).map((opt, idx) => ({
           ...opt, id: opt.id ?? OPTION_LETTERS[idx] ?? `opt-${idx}`
