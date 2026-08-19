@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Regen mexico ciencias with NEW system prompt (inline feedback + pedagogic explanations)."""
-import aiohttp, asyncio, json, sys
+import aiohttp, asyncio, json, sys, os
 from pathlib import Path
 
 BASE = Path(__file__).parent.parent
 QUEUE = BASE / ".worldexams" / "generation" / "queue.json"
 SYSPROMPT = BASE / ".worldexams" / "generation" / "system-prompt.md"
-API_KEY = "sk-wMepzFhQrFxfq0RsKIM7fp3gPWftUL18E71lAq6rrqRDoFXLsHOI2HGxWINiaUmi"
+API_KEY = os.environ.get("OPENCODE_API_KEY", "")
 API_BASE = "https://opencode.ai/zen/go/v1"
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
