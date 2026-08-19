@@ -13,7 +13,7 @@ LOCK_FILE = BASE_DIR / ".worldexams" / "generation" / "queue.json.lock"
 SYSTEM_PROMPT_FILE = BASE_DIR / ".worldexams" / "generation" / "system-prompt.md"
 QUESTIONS_DATA = BASE_DIR / "questions_data"
 
-API_KEY = "sk-wMepzFhQrFxfq0RsKIM7fp3gPWftUL18E71lAq6rrqRDoFXLsHOI2HGxWINiaUmi"
+API_KEY = os.environ.get("OPENCODE_API_KEY", "")
 API_BASE = "https://opencode.ai/zen/go/v1"
 
 MODELS = [
