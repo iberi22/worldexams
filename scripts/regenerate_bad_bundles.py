@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Regenerate 4 problematic bundles with higher token limits and specific prompts."""
-import aiohttp, asyncio, json, sys
+import aiohttp, asyncio, json, sys, os
 from pathlib import Path
 
 BASE = Path(__file__).parent.parent
 QUEUE = BASE / ".worldexams" / "generation" / "queue.json"
 SYSPROMPT = BASE / ".worldexams" / "generation" / "system-prompt.md"
-API_KEY = "REDACTED"
+API_KEY = os.environ.get("OPENCODE_API_KEY", "")
 API_BASE = "https://opencode.ai/zen/go/v1"
 
 # Tasks to regenerate with specific constraints

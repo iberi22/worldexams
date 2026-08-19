@@ -6,7 +6,7 @@ from pathlib import Path
 BASE = Path(__file__).parent.parent
 QUEUE = BASE / ".worldexams" / "generation" / "queue.json"
 SYSPROMPT = BASE / ".worldexams" / "generation" / "system-prompt.md"
-API_KEY = "REDACTED"
+API_KEY = os.environ.get("OPENCODE_API_KEY", "")
 API_BASE = "https://opencode.ai/zen/go/v1"
 MODEL = "minimax-m2.7"
 
