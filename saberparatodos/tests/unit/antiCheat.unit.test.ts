@@ -16,15 +16,23 @@ describe('AntiCheatService Lifecycle', () => {
   });
 
   it('should start and stop monitoring correctly', () => {
-    const addEventSpy = vi.spyOn(document, 'addEventListener');
-    const removeEventSpy = vi.spyOn(document, 'removeEventListener');
+    const addDocEventSpy = vi.spyOn(document, 'addEventListener');
+    const removeDocEventSpy = vi.spyOn(document, 'removeEventListener');
+    const addWinEventSpy = vi.spyOn(window, 'addEventListener');
+    const removeWinEventSpy = vi.spyOn(window, 'removeEventListener');
     const callback = vi.fn();
 
     antiCheatService.startMonitoring(callback);
-    expect(addEventSpy).toHaveBeenCalledWith('visibilitychange', expect.any(Function));
+    expect(addDocEventSpy).toHaveBeenCalledWith('visibilitychange', expect.any(Function));
+    expect(addDocEventSpy).toHaveBeenCalledWith('fullscreenchange', expect.any(Function));
+    expect(addWinEventSpy).toHaveBeenCalledWith('orientationchange', expect.any(Function));
+    expect(addWinEventSpy).toHaveBeenCalledWith('resize', expect.any(Function));
 
     antiCheatService.stopMonitoring();
-    expect(removeEventSpy).toHaveBeenCalledWith('visibilitychange', expect.any(Function));
+    expect(removeDocEventSpy).toHaveBeenCalledWith('visibilitychange', expect.any(Function));
+    expect(removeDocEventSpy).toHaveBeenCalledWith('fullscreenchange', expect.any(Function));
+    expect(removeWinEventSpy).toHaveBeenCalledWith('orientationchange', expect.any(Function));
+    expect(removeWinEventSpy).toHaveBeenCalledWith('resize', expect.any(Function));
   });
 
   it('should ignore multiple start monitoring requests', () => {
@@ -114,5 +122,57 @@ describe('AntiCheatService Activity Monitoring', () => {
     vi.advanceTimersByTime(20000);
 
     expect(detectedEvents).toHaveLength(0);
+  });
+
+  it('should detect fullscreen exit', () => {
+    Object.defineProperty(document, 'fullscreenElement', {
+      value: null,
+      writable: true,
+      configurable: true,
+    });
+
+    document.dispatchEvent(new Event('fullscreenchange'));
+
+    expect(detectedEvents).toHaveLength(1);
+    expect(detectedEvents[0].type).toBe('fullscreen_exit');
+    expect(detectedEvents[0].timestamp).toBeInstanceOf(Date);
+
+    // Should not emit if entering fullscreen
+    detectedEvents = [];
+    document.fullscreenElement = document.createElement('div');
+    document.dispatchEvent(new Event('fullscreenchange'));
+
+    expect(detectedEvents).toHaveLength(0);
+  });
+
+  it('should detect orientation change', () => {
+    window.dispatchEvent(new Event('orientationchange'));
+
+    expect(detectedEvents).toHaveLength(1);
+    expect(detectedEvents[0].type).toBe('orientation_change');
+    expect(detectedEvents[0].timestamp).toBeInstanceOf(Date);
+  });
+
+  it('should detect suspicious resize (>50% change) and ignore small resizes', () => {
+    Object.defineProperty(window, 'innerWidth', { value: 1000, writable: true, configurable: true });
+    Object.defineProperty(window, 'innerHeight', { value: 1000, writable: true, configurable: true });
+
+    // Restart monitoring so initial dimensions are 1000 x 1000
+    antiCheatService.stopMonitoring();
+    antiCheatService.startMonitoring(callback);
+
+    // Small resize (10% change) - 1000 -> 900
+    window.innerWidth = 900;
+    window.dispatchEvent(new Event('resize'));
+
+    expect(detectedEvents).toHaveLength(0);
+
+    // Large resize (>50% change relative to 900) - 900 -> 400 (55.5% change)
+    window.innerWidth = 400;
+    window.dispatchEvent(new Event('resize'));
+
+    expect(detectedEvents).toHaveLength(1);
+    expect(detectedEvents[0].type).toBe('resize_suspicious');
+    expect(detectedEvents[0].timestamp).toBeInstanceOf(Date);
   });
 });

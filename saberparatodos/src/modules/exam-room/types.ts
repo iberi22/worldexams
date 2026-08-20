@@ -75,7 +75,14 @@ export interface Player {
 }
 
 export interface SuspiciousEvent {
-  type: 'tab_switch' | 'window_blur' | 'page_hidden' | 'long_inactivity';
+  type:
+    | 'tab_switch'
+    | 'window_blur'
+    | 'page_hidden'
+    | 'long_inactivity'
+    | 'fullscreen_exit'
+    | 'orientation_change'
+    | 'resize_suspicious';
   timestamp: Date;
   duration?: number; // ms
 }
