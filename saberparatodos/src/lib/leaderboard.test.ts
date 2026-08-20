@@ -1,5 +1,22 @@
-import { describe, it, expect } from 'vitest';
-import { getSemesterInfo } from './leaderboard';
+import { describe, it, expect, beforeEach } from 'vitest';
+import {
+  getSemesterInfo,
+  getScoreRange,
+  filterByScope,
+  upsertEntry,
+  createEmptyLeaderboard,
+  type ScoreSubmission,
+  type LeaderboardEntry
+} from './leaderboard';
+import {
+  getDeviceHash,
+  getLeaderboardSettings,
+  saveLeaderboardSettings,
+  toggleAnonymousOptIn,
+  mergeP2PScoreSubmission,
+  p2pLeaderboardStore,
+  createSubmission
+} from './leaderboard-service';
 
 describe('leaderboard semester logic', () => {
   it('should return correct semester info for Calendar A', () => {
@@ -44,5 +61,98 @@ describe('leaderboard semester logic', () => {
     expect(infoS2.semester).toBe(2);
     expect(infoS2.start.getMonth()).toBe(6); // Jul
     expect(infoS2.end.getMonth()).toBe(11); // Dec
+  });
+});
+
+describe('leaderboard anonymous mode & deviceHash', () => {
+  it('should generate a valid deviceHash', () => {
+    const hash = getDeviceHash();
+    expect(hash).toMatch(/^dev_[A-Z0-9]{6,8}$/);
+  });
+
+  it('should calculate obfuscated score range correctly', () => {
+    expect(getScoreRange(375)).toBe('350 - 399');
+    expect(getScoreRange(420)).toBe('400 - 449');
+    expect(getScoreRange(0)).toBe('0 - 49');
+  });
+
+  it('should default settings to anonymous (privacy first)', () => {
+    const settings = getLeaderboardSettings();
+    expect(settings.isOptedIn).toBe(false);
+  });
+
+  it('should toggle opt-in settings correctly', () => {
+    toggleAnonymousOptIn(true, 'TestUser');
+    const updated = getLeaderboardSettings();
+    expect(updated.isOptedIn).toBe(true);
+    expect(updated.displayName).toBe('TestUser');
+
+    toggleAnonymousOptIn(false);
+    const reverted = getLeaderboardSettings();
+    expect(reverted.isOptedIn).toBe(false);
+  });
+});
+
+describe('leaderboard scope filtering & CRDT merge', () => {
+  it('should filter leaderboard entries by scope', () => {
+    const board = createEmptyLeaderboard('weekly');
+    const sub1: ScoreSubmission = {
+      anonymousId: 'user1',
+      displayName: 'User 1',
+      score: 300,
+      stats: { questionsAnswered: 10, accuracy: 0.8, averageDifficulty: 3, longestStreak: 2, examsCompleted: 1, perfectScores: 0 },
+      grade: '11',
+      region: 'BOG',
+      institutionId: 'inst-1',
+      subjectId: 'math',
+      examId: 'e1',
+      timestamp: new Date().toISOString(),
+      checksum: 'chk1'
+    };
+
+    const sub2: ScoreSubmission = {
+      anonymousId: 'user2',
+      displayName: 'User 2',
+      score: 400,
+      stats: { questionsAnswered: 10, accuracy: 0.9, averageDifficulty: 3, longestStreak: 3, examsCompleted: 1, perfectScores: 0 },
+      grade: '11',
+      region: 'MED',
+      institutionId: 'inst-2',
+      subjectId: 'science',
+      examId: 'e2',
+      timestamp: new Date().toISOString(),
+      checksum: 'chk2'
+    };
+
+    upsertEntry(board, sub1);
+    upsertEntry(board, sub2);
+
+    expect(filterByScope(board, 'global').length).toBe(2);
+    expect(filterByScope(board, 'country', 'BOG').length).toBe(1);
+    expect(filterByScope(board, 'institution', 'inst-2').length).toBe(1);
+    expect(filterByScope(board, 'subject', 'math').length).toBe(1);
+  });
+
+  it('should merge P2P score submission into CRDT store', () => {
+    const sub: ScoreSubmission = {
+      anonymousId: 'p2p-user',
+      deviceHash: 'dev_123456',
+      displayName: 'P2P Tester',
+      score: 350,
+      isAnonymous: true,
+      stats: { questionsAnswered: 10, accuracy: 0.85, averageDifficulty: 3, longestStreak: 4, examsCompleted: 1, perfectScores: 0 },
+      grade: '11',
+      region: 'BOG',
+      examId: 'p2p-e1',
+      timestamp: new Date().toISOString(),
+      checksum: 'p2pchk'
+    };
+
+    const merged = mergeP2PScoreSubmission(sub, 'weekly', 'global');
+    expect(merged.entries.length).toBeGreaterThan(0);
+    const entry = merged.entries.find(e => e.anonymousId === 'p2p-user' || e.deviceHash === 'dev_123456');
+    expect(entry).toBeDefined();
+    expect(entry?.isAnonymous).toBe(true);
+    expect(entry?.scoreRange).toBe('350 - 399');
   });
 });
