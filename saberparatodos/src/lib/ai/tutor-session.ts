@@ -4,6 +4,7 @@
  */
 
 import { getAiCore } from './ai-core-client';
+import { generateNanoTutorResponse } from './chrome-nano-provider';
 import { recordMejoraInterna } from '../mejora-interna-telemetry';
 
 export interface TutorContext {
@@ -60,12 +61,14 @@ export class TutorSession {
 
   async respondText(userText: string, opts?: { speak?: boolean }): Promise<TutorTurn> {
     const ai = getAiCore();
-    const prompt = `${this.buildSystemPrompt()}\n\nEstudiante: ${userText}\nTutor:`;
     let assistantText: string;
     try {
-      assistantText = await ai.llm.generate(prompt, { maxNewTokens: 256, temperature: 0.5 });
-      // Strip stub headers if template mode
-      if (assistantText.includes('Respuesta local (modo plantilla)')) {
+      assistantText = await generateNanoTutorResponse(userText, this.context, async () => {
+        const prompt = `${this.buildSystemPrompt()}\n\nEstudiante: ${userText}\nTutor:`;
+        return await ai.llm.generate(prompt, { maxNewTokens: 256, temperature: 0.5 });
+      });
+      // Provide default pedagogical guidance if response is empty or template stub
+      if (!assistantText || !assistantText.trim() || assistantText.includes('Respuesta local (modo plantilla)')) {
         assistantText =
           'Vamos por partes: revisa el enunciado, descarta opciones imposibles y justifica tu elección con el concepto clave. Si quieres, dime qué opción te confunde.';
       }
