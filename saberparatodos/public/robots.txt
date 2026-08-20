@@ -1,0 +1,10 @@
+# WorldExams SEO robots.txt
+User-agent: *
+Allow: /
+Allow: /preguntas/
+Disallow: /tutor/
+Disallow: /institucion/
+Disallow: /instituciones/
+Disallow: /api/
+
+Sitemap: https://saberparatodos.space/sitemap-index.xml
