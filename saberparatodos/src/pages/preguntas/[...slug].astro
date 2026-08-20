@@ -1,0 +1,107 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getLocalGrade11Questions } from '../../lib/questions/grade11-local-bank';
+import { resolveRuntimeCountryConfig } from '../../config';
+
+const { slug } = Astro.params;
+const countryConfig = resolveRuntimeCountryConfig(Astro.locals.country);
+
+const allQuestions = getLocalGrade11Questions();
+const slugStr = String(slug || '').toLowerCase();
+
+// Filter questions matching slug or bundle ID
+const bundleQuestions = allQuestions.filter(q => {
+  const bId = (q.bundle_id || '').toLowerCase();
+  const qId = (q.id || '').toLowerCase();
+  return slugStr ? (bId.includes(slugStr) || qId.includes(slugStr) || slugStr.includes(bId)) : true;
+}).slice(0, 20);
+
+const displayQuestions = bundleQuestions.length > 0 ? bundleQuestions : allQuestions.slice(0, 10);
+const pageTitle = `Preguntas y Simulacros - ${countryConfig.product.siteName}`;
+const pageDescription = `Banco de preguntas y simulacros oficiales de preparacion para ${countryConfig.examName}.`;
+
+// Schema.org Question structured data per question in bundle
+const questionSchemas = displayQuestions.map(q => {
+  const correctOpt = q.options.find(o => o.isCorrect) || q.options[0];
+  const incorrectOpts = q.options.filter(o => !o.isCorrect);
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Question',
+    'name': q.statement.slice(0, 120),
+    'text': q.statement,
+    'educationalLevel': `Grado ${q.grade}`,
+    'learningResourceType': 'Practice Problem',
+    'inLanguage': countryConfig.language || 'es-CO',
+    'acceptedAnswer': {
+      '@type': 'Answer',
+      'text': correctOpt?.text || ''
+    },
+    'suggestedAnswer': incorrectOpts.map(opt => ({
+      '@type': 'Answer',
+      'text': opt.text
+    }))
+  };
+});
+---
+
+<Layout title={pageTitle} description={pageDescription}>
+  {questionSchemas.map(schema => (
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />
+  ))}
+
+  <section class="max-w-4xl mx-auto px-4 py-8">
+    <div class="mb-8">
+      <span class="text-xs font-mono uppercase tracking-widest text-emerald-400">Banco de Preguntas SEO</span>
+      <h1 class="text-3xl font-bold text-white mt-2">Preguntas de Práctica {countryConfig.examName}</h1>
+      <p class="text-white/70 mt-2">
+        Explora las preguntas de entrenamiento preparadas para {countryConfig.name}. Respuestas con explicación pedagógica.
+      </p>
+    </div>
+
+    <div class="space-y-6">
+      {displayQuestions.map((q, idx) => (
+        <article class="bg-white/5 border border-white/10 rounded-xl p-6 shadow-lg">
+          <div class="flex items-center justify-between mb-4">
+            <span class="text-xs font-mono bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full">
+              Pregunta #{idx + 1} • {q.subject.toUpperCase()}
+            </span>
+            <span class="text-xs text-white/50">Dificultad: {q.difficulty}/10</span>
+          </div>
+
+          <p class="text-lg text-white font-medium mb-4 leading-relaxed">{q.statement}</p>
+
+          <div class="grid gap-2 mb-4">
+            {q.options.map(opt => (
+              <div class={`p-3 rounded-lg border text-sm flex items-center justify-between ${
+                opt.isCorrect
+                  ? 'bg-emerald-900/30 border-emerald-500/50 text-emerald-200'
+                  : 'bg-white/5 border-white/10 text-white/80'
+              }`}>
+                <span><strong class="mr-2">{opt.id}.</strong> {opt.text}</span>
+                {opt.isCorrect && <span class="text-xs font-bold text-emerald-400">Correcta</span>}
+              </div>
+            ))}
+          </div>
+
+          {q.explanation && (
+            <details class="mt-4 pt-4 border-t border-white/10">
+              <summary class="cursor-pointer text-sm font-semibold text-emerald-400 hover:text-emerald-300 transition">
+                Ver Explicación Pedagógica
+              </summary>
+              <p class="mt-2 text-sm text-white/80 leading-relaxed bg-black/20 p-3 rounded-lg border border-white/5">
+                {q.explanation}
+              </p>
+            </details>
+          )}
+        </article>
+      ))}
+    </div>
+
+    <div class="mt-8 flex justify-center">
+      <a href="/practica" class="px-6 py-3 bg-emerald-500 hover:bg-emerald-600 text-black font-semibold rounded-lg transition">
+        Practicar en Simulación Interactiva
+      </a>
+    </div>
+  </section>
+</Layout>
