@@ -14,6 +14,17 @@ export type LeaderboardPeriod =
   | 'annual'
   | 'alltime';
 
+export type LeaderboardScope =
+  | 'global'
+  | 'country'
+  | 'institution'
+  | 'subject';
+
+export interface LeaderboardSettings {
+  isOptedIn: boolean; // default: false (privacy first)
+  displayName?: string; // User chooses display name if opted-in
+}
+
 export interface PeriodInfo {
   type: LeaderboardPeriod;
   label: string;
@@ -76,8 +87,13 @@ export interface LeaderboardEntryStats {
 export interface LeaderboardEntry {
   rank: number;
   anonymousId: string;
+  deviceHash?: string;
   displayName: string;
   score: number;
+  scoreRange?: string; // Obfuscated range when anonymous/opted-out (e.g., "350 - 399")
+  isAnonymous?: boolean;
+  institutionId?: string;
+  subjectId?: string;
   stats: LeaderboardEntryStats;
   grade: string;
   region: string;
@@ -99,6 +115,8 @@ export interface LeaderboardMetadata {
 export interface Leaderboard {
   version: string;
   period: LeaderboardPeriod;
+  scope?: LeaderboardScope;
+  scopeValue?: string;
   periodStart: string; // ISO date
   periodEnd: string; // ISO date
   lastUpdated: string; // ISO date
@@ -146,14 +164,27 @@ export interface LeaderboardConfig {
 
 export interface ScoreSubmission {
   anonymousId: string;
+  deviceHash?: string;
   displayName: string;
   score: number;
+  isAnonymous?: boolean;
+  institutionId?: string;
+  subjectId?: string;
   stats: LeaderboardEntryStats;
   grade: string;
   region: string;
   examId: string;
   timestamp: string;
   checksum: string; // Para validación básica
+}
+
+/**
+ * Calculates score range for privacy obfuscation
+ */
+export function getScoreRange(score: number, bucketSize: number = 50): string {
+  const min = Math.floor(score / bucketSize) * bucketSize;
+  const max = min + bucketSize - 1;
+  return `${min} - ${max}`;
 }
 
 // ============================================================================
@@ -414,19 +445,44 @@ export function createEmptyLeaderboard(period: LeaderboardPeriod): Leaderboard {
 /**
  * Actualiza o inserta una entrada en el leaderboard
  */
+export function filterByScope(
+  leaderboard: Leaderboard,
+  scope: LeaderboardScope,
+  scopeValue?: string
+): LeaderboardEntry[] {
+  return leaderboard.entries
+    .filter(entry => {
+      if (scope === 'global') return true;
+      if (scope === 'country') return !scopeValue || entry.region === scopeValue;
+      if (scope === 'institution') return !scopeValue || entry.institutionId === scopeValue;
+      if (scope === 'subject') return !scopeValue || entry.subjectId === scopeValue;
+      return true;
+    })
+    .map((e, i) => ({ ...e, rank: i + 1 }));
+}
+
 export function upsertEntry(
   leaderboard: Leaderboard,
   submission: ScoreSubmission,
   maxEntries: number = 100
 ): Leaderboard {
   const existingIndex = leaderboard.entries.findIndex(
-    e => e.anonymousId === submission.anonymousId
+    e => e.anonymousId === submission.anonymousId || (submission.deviceHash && e.deviceHash === submission.deviceHash)
   );
+
+  const isAnonymous = submission.isAnonymous ?? false;
+  const scoreRange = isAnonymous ? getScoreRange(submission.score) : undefined;
 
   if (existingIndex >= 0) {
     // Actualizar entrada existente
     const existing = leaderboard.entries[existingIndex];
     existing.score += submission.score;
+    existing.isAnonymous = isAnonymous;
+    existing.scoreRange = isAnonymous ? getScoreRange(existing.score) : undefined;
+    if (submission.deviceHash) existing.deviceHash = submission.deviceHash;
+    if (submission.institutionId) existing.institutionId = submission.institutionId;
+    if (submission.subjectId) existing.subjectId = submission.subjectId;
+
     existing.stats.questionsAnswered += submission.stats.questionsAnswered;
     existing.stats.examsCompleted += 1;
     existing.stats.longestStreak = Math.max(
@@ -438,23 +494,28 @@ export function upsertEntry(
     const totalAnswered = existing.stats.questionsAnswered;
     const newAccuracy = submission.stats.accuracy;
     const submissionAnswered = submission.stats.questionsAnswered;
-    existing.stats.accuracy = (
+    existing.stats.accuracy = totalAnswered > 0 ? (
       (existing.stats.accuracy * (totalAnswered - submissionAnswered)) +
       (newAccuracy * submissionAnswered)
-    ) / totalAnswered;
-    // Actualizar dificultad promedio similar
-    existing.stats.averageDifficulty = (
+    ) / totalAnswered : newAccuracy;
+    // Actualizar dificultad promedio
+    existing.stats.averageDifficulty = totalAnswered > 0 ? (
       (existing.stats.averageDifficulty * (totalAnswered - submissionAnswered)) +
       (submission.stats.averageDifficulty * submissionAnswered)
-    ) / totalAnswered;
+    ) / totalAnswered : submission.stats.averageDifficulty;
     existing.lastActive = submission.timestamp;
   } else {
     // Nueva entrada
     const newEntry: LeaderboardEntry = {
       rank: 0, // Se calculará después
       anonymousId: submission.anonymousId,
+      deviceHash: submission.deviceHash,
       displayName: submission.displayName,
       score: submission.score,
+      scoreRange,
+      isAnonymous,
+      institutionId: submission.institutionId,
+      subjectId: submission.subjectId,
       stats: {
         ...submission.stats,
         examsCompleted: 1
