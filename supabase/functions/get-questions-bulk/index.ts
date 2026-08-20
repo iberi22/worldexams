@@ -81,7 +81,6 @@ serve(async (req: Request) => {
     // Rate limiting for guests
     if (isGuest) {
       const clientIP = req.headers.get('cf-connecting-ip') ||
-                       req.headers.get('x-forwarded-for')?.split(',')[0] ||
                        'unknown';
 
       const { data: rateLimitData } = await supabase
