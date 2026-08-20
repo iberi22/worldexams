@@ -11,7 +11,9 @@
   import type {
     Leaderboard,
     LeaderboardEntry,
-    LeaderboardPeriod
+    LeaderboardPeriod,
+    LeaderboardScope,
+    LeaderboardSettings
   } from '../lib/leaderboard';
   import { PERIOD_INFO } from '../lib/leaderboard';
   import {
@@ -19,8 +21,15 @@
     findUserInLeaderboard,
     formatRank,
     getRankColor,
-    getRankBackground
+    getRankBackground,
+    getLeaderboardSettings,
+    saveLeaderboardSettings,
+    toggleAnonymousOptIn,
+    getDeviceHash,
+    initP2PLeaderboardMesh,
+    p2pLeaderboardStore
   } from '../lib/leaderboard-service';
+  import { estadoMesh } from '../lib/p2p-edge-mesh';
   import { getLocalIdentity } from '../lib/identity';
   import {
     loadRankTracking,
@@ -39,11 +48,19 @@
 
   // State
   let currentPeriod: LeaderboardPeriod = 'weekly';
+  let currentScope: LeaderboardScope = 'global';
+  let scopeValue = '';
   let leaderboard: Leaderboard | null = null;
   let loading = true;
   let error = '';
   let userEntry: LeaderboardEntry | null = null;
   let currentUserId: string | null = null;
+
+  // Settings & Anonymity state
+  let userSettings: LeaderboardSettings = { isOptedIn: false };
+  let deviceHash = '';
+  let showSettingsModal = false;
+  let customDisplayName = '';
 
   // Notification state
   let rankTracking: RankTracking | null = null;
@@ -53,18 +70,27 @@
   let filterGrade = '';
   let filterRegion = '';
 
-  // Períodos disponibles
+  // Períodos y Scopes disponibles
   const periods: LeaderboardPeriod[] = ['weekly', 'monthly', 'annual', 'alltime'];
+  const scopes: { value: LeaderboardScope; label: string }[] = [
+    { value: 'global', label: '🌍 Global' },
+    { value: 'country', label: '🇨🇴 País' },
+    { value: 'institution', label: '🏫 Institución' },
+    { value: 'subject', label: '📚 Materia' }
+  ];
 
   // Datos filtrados
-  $: filteredEntries = leaderboard?.entries.filter(entry => {
+  $: filteredEntries = (leaderboard?.entries || []).filter(entry => {
     if (filterGrade && entry.grade !== filterGrade) return false;
     if (filterRegion && entry.region !== filterRegion) return false;
+    if (currentScope === 'country' && scopeValue && entry.region !== scopeValue) return false;
+    if (currentScope === 'institution' && scopeValue && entry.institutionId !== scopeValue) return false;
+    if (currentScope === 'subject' && scopeValue && entry.subjectId !== scopeValue) return false;
     return true;
   }).map((entry, index) => ({
     ...entry,
     filteredRank: index + 1
-  })) || [];
+  }));
 
   // Grados y regiones únicos del leaderboard actual
   $: availableGrades = [...new Set(leaderboard?.entries.map(e => e.grade) || [])].sort();
@@ -75,7 +101,15 @@
     error = '';
 
     try {
-      leaderboard = await loadLeaderboard(currentPeriod);
+      // Intentar obtener del store P2P primero
+      let p2pMap = new Map<LeaderboardPeriod, Leaderboard>();
+      p2pLeaderboardStore.subscribe(m => p2pMap = m)();
+
+      if (p2pMap.has(currentPeriod)) {
+        leaderboard = p2pMap.get(currentPeriod) || null;
+      } else {
+        leaderboard = await loadLeaderboard(currentPeriod);
+      }
 
       if (!leaderboard) {
         error = 'No se pudo cargar el ranking';
@@ -138,6 +172,21 @@
   }
 
   onMount(() => {
+    // Cargar configuraciones de usuario y hash de dispositivo
+    userSettings = getLeaderboardSettings();
+    deviceHash = getDeviceHash();
+    customDisplayName = userSettings.displayName || '';
+
+    // Inicializar P2P EdgeMesh
+    initP2PLeaderboardMesh();
+
+    // Suscribirse a actualizaciones P2P de leaderboard
+    const unsubscribeStore = p2pLeaderboardStore.subscribe(map => {
+      if (map.has(currentPeriod)) {
+        leaderboard = map.get(currentPeriod) || null;
+      }
+    });
+
     // Obtener identidad local
     const stored = getLocalIdentity();
     if (stored) {
@@ -151,7 +200,16 @@
     }
 
     loadData();
+
+    return () => {
+      unsubscribeStore();
+    };
   });
+
+  function handleSaveSettings() {
+    userSettings = toggleAnonymousOptIn(userSettings.isOptedIn, customDisplayName);
+    showSettingsModal = false;
+  }
 
   function dismissNotification() {
     notification = null;
@@ -166,40 +224,79 @@
 
 <div class="w-full max-w-4xl mx-auto p-4 animate-fade-in-up pb-20">
   <!-- Header -->
-  <div class="flex items-center justify-between mb-6">
+  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
     <div>
-      <h2 class="text-3xl sm:text-4xl font-bold uppercase tracking-tighter text-[#F5F5DC]">
-        🏆 Ranking
-      </h2>
+      <div class="flex items-center gap-3">
+        <h2 class="text-3xl sm:text-4xl font-bold uppercase tracking-tighter text-[#F5F5DC]">
+          🏆 Ranking
+        </h2>
+        <!-- P2P EdgeMesh Indicator -->
+        <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-[10px] font-mono border bg-emerald-500/10 border-emerald-500/30 text-emerald-400">
+          <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+          Mesh P2P Active
+        </span>
+      </div>
       <p class="text-xs text-white/40 mt-1">
         {PERIOD_INFO[currentPeriod].description}
       </p>
     </div>
-    <button
-      on:click={onBack}
-      class="px-4 py-2 border border-white/20 hover:bg-white/10
-             transition-colors uppercase text-xs tracking-widest
-             opacity-60 hover:opacity-100"
-    >
-      [ Volver ]
-    </button>
+
+    <div class="flex items-center gap-2">
+      <!-- Settings Button -->
+      <button
+        on:click={() => showSettingsModal = true}
+        class="px-3 py-2 border border-white/20 hover:bg-white/10 rounded-lg
+               transition-colors text-xs uppercase tracking-widest text-white/80 flex items-center gap-1.5"
+      >
+        ⚙️ Configurar {userSettings.isOptedIn ? 'Público' : 'Anónimo'}
+      </button>
+
+      <button
+        on:click={onBack}
+        class="px-4 py-2 border border-white/20 hover:bg-white/10 rounded-lg
+               transition-colors uppercase text-xs tracking-widest
+               opacity-60 hover:opacity-100"
+      >
+        [ Volver ]
+      </button>
+    </div>
   </div>
 
-  <!-- Period Tabs -->
-  <div class="flex flex-wrap justify-center gap-2 mb-6">
-    {#each periods as period}
-      <button
-        on:click={() => setPeriod(period)}
-        class={`
-          px-4 py-2 uppercase text-xs tracking-widest transition-all border rounded-lg
-          ${currentPeriod === period
-            ? 'border-emerald-500 bg-emerald-500/10 text-emerald-400 font-bold'
-            : 'border-white/10 text-white/40 hover:text-white/80 hover:border-white/30'}
-        `}
-      >
-        {PERIOD_INFO[period].shortLabel}
-      </button>
-    {/each}
+  <!-- Scope & Period Tabs -->
+  <div class="flex flex-col gap-3 mb-6">
+    <!-- Scope Selector -->
+    <div class="flex flex-wrap justify-center gap-2">
+      {#each scopes as s}
+        <button
+          on:click={() => { currentScope = s.value; scopeValue = ''; }}
+          class={`
+            px-3 py-1.5 text-xs tracking-wider transition-all border rounded-lg font-medium
+            ${currentScope === s.value
+              ? 'border-blue-500 bg-blue-500/10 text-blue-400 font-bold'
+              : 'border-white/10 text-white/40 hover:text-white/80 hover:border-white/30'}
+          `}
+        >
+          {s.label}
+        </button>
+      {/each}
+    </div>
+
+    <!-- Period Tabs -->
+    <div class="flex flex-wrap justify-center gap-2">
+      {#each periods as period}
+        <button
+          on:click={() => setPeriod(period)}
+          class={`
+            px-4 py-2 uppercase text-xs tracking-widest transition-all border rounded-lg
+            ${currentPeriod === period
+              ? 'border-emerald-500 bg-emerald-500/10 text-emerald-400 font-bold'
+              : 'border-white/10 text-white/40 hover:text-white/80 hover:border-white/30'}
+          `}
+        >
+          {PERIOD_INFO[period].shortLabel}
+        </button>
+      {/each}
+    </div>
   </div>
 
   <!-- User Position Card (si está registrado) -->
@@ -336,8 +433,11 @@
 
           <!-- Player -->
           <div class="col-span-5 sm:col-span-4">
-            <p class="font-medium text-sm truncate">
-              {entry.displayName}
+            <p class="font-medium text-sm truncate flex items-center gap-1.5">
+              <span>{entry.displayName}</span>
+              {#if entry.isAnonymous}
+                <span class="text-[10px] px-1.5 py-0.5 bg-white/10 rounded text-white/60 font-mono" title="Anónimo">🛡️</span>
+              {/if}
             </p>
             <p class="text-[10px] text-white/40 sm:hidden">
               {entry.region} · {entry.grade}°
@@ -365,7 +465,7 @@
           <!-- Score -->
           <div class="col-span-3 text-right">
             <p class="font-bold text-sm text-[#F5F5DC]">
-              {formatScore(entry.score)}
+              {entry.isAnonymous && entry.scoreRange ? entry.scoreRange : formatScore(entry.score)}
             </p>
             <p class="text-[10px] text-white/40">
               {entry.stats.examsCompleted} {entry.stats.examsCompleted === 1 ? 'examen' : 'exámenes'}
@@ -403,5 +503,75 @@
     <p class="mt-4 text-center text-[10px] text-white/30">
       Actualizado: {new Date(leaderboard.lastUpdated).toLocaleString('es-CO')}
     </p>
+  {/if}
+
+  <!-- Settings Modal -->
+  {#if showSettingsModal}
+    <div class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+      <div class="bg-[#1a1a2e] border border-white/10 rounded-2xl max-w-md w-full p-6 space-y-5">
+        <div class="flex items-center justify-between border-b border-white/10 pb-3">
+          <h3 class="font-bold text-lg text-[#F5F5DC]">⚙️ Configuración de Privacidad</h3>
+          <button
+            on:click={() => showSettingsModal = false}
+            class="text-white/40 hover:text-white text-xl"
+          >
+            ×
+          </button>
+        </div>
+
+        <div class="space-y-4 text-sm">
+          <div class="p-3 bg-white/5 border border-white/10 rounded-lg">
+            <p class="text-xs text-white/40 uppercase tracking-widest mb-1">Hash de Dispositivo</p>
+            <p class="font-mono text-emerald-400 font-bold">{deviceHash}</p>
+          </div>
+
+          <!-- Anonymous Mode Toggle -->
+          <div class="flex items-center justify-between p-3 bg-white/5 border border-white/10 rounded-lg">
+            <div>
+              <p class="font-bold text-white">Modo Anónimo (Privacy First)</p>
+              <p class="text-xs text-white/50">Muestra hash de dispositivo y rangos de puntaje</p>
+            </div>
+            <label class="relative inline-flex items-center cursor-pointer">
+              <input
+                type="checkbox"
+                checked={!userSettings.isOptedIn}
+                on:change={(e) => userSettings.isOptedIn = !e.currentTarget.checked}
+                class="sr-only peer"
+              />
+              <div class="w-11 h-6 bg-white/20 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-emerald-500"></div>
+            </label>
+          </div>
+
+          <!-- Display Name Input (Only if opted in) -->
+          {#if userSettings.isOptedIn}
+            <div class="space-y-1.5">
+              <label for="display-name-input" class="block text-xs text-white/60">Nombre Público de Usuario</label>
+              <input
+                id="display-name-input"
+                type="text"
+                bind:value={customDisplayName}
+                placeholder="Ej: Estudiante123"
+                class="w-full px-3 py-2 bg-white/5 border border-white/10 rounded-lg text-white text-sm focus:outline-none focus:border-emerald-500"
+              />
+            </div>
+          {/if}
+        </div>
+
+        <div class="flex justify-end gap-2 pt-2">
+          <button
+            on:click={() => showSettingsModal = false}
+            class="px-4 py-2 text-xs border border-white/20 hover:bg-white/10 rounded-lg text-white/60"
+          >
+            Cancelar
+          </button>
+          <button
+            on:click={handleSaveSettings}
+            class="px-4 py-2 text-xs bg-emerald-500/20 border border-emerald-500/50 hover:bg-emerald-500/30 text-emerald-400 font-bold rounded-lg"
+          >
+            Guardar Cambios
+          </button>
+        </div>
+      </div>
+    </div>
   {/if}
 </div>
