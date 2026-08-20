@@ -42,7 +42,7 @@
       <span class="text">Cargando...</span>
     </button>{pwaStatus.isPWA ? '📱' : '📦'}
   {:else if hasCache}
-    <button class="cache-btn active" on:click={() => showDetails = !showDetails}>
+    <button class="cache-btn active" on:click={() => showDetails = !showDetails} aria-expanded={showDetails} aria-controls="cache-details">
       <span class="icon">📦</span>
       <span class="text">{totalQuestions} preguntas</span>
       <span class="badge-mini">{cacheStats[0]?.isGuest ? '🔒' : '🔓'}</span>
@@ -55,7 +55,7 @@
   {/if}
 
   {#if showDetails && hasCache}
-    <div class="cache-details">
+    <div id="cache-details" class="cache-details">
       <div class="details-header">
         <h3>Estado de la Caché {pwaStatus.isPWA ? '📱' : ''}</h3>
         <button class="close-btn" on:click={() => showDetails = false} aria-label="Cerrar detalles">✕</button>

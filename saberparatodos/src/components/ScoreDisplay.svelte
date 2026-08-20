@@ -94,7 +94,7 @@
             type="button"
             on:click={() => showScoreHelp = true}
             class="w-8 h-8 rounded-full border border-cyan-400/30 bg-cyan-400/10 text-cyan-300 hover:bg-cyan-400/20 transition-colors flex items-center justify-center"
-            aria-label="Explicar como funciona el puntaje"
+            aria-label="Explicar como funciona el puntaje" aria-expanded={showScoreHelp} aria-controls="score-help-modal"
             title="Como funciona este puntaje"
           >
             <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -276,7 +276,7 @@
     class="fixed inset-0 z-[90] bg-black/70 backdrop-blur-sm px-4 py-8 overflow-y-auto"
     role="dialog"
     aria-modal="true"
-    aria-labelledby="score-help-title"
+    id="score-help-modal" aria-labelledby="score-help-title"
     on:click={(event) => {
       if (event.currentTarget === event.target) {
         closeScoreHelp();

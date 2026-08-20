@@ -1,3 +1,6 @@
 ## 2026-08-13 - FlashlightCard Accessibility
 **Learning:** We had `FlashlightCard.svelte` using a generic `div` tag acting as a button with `role="button"` and `tabindex="0"`. While visually it acts like a card, generic clickable elements fail to provide native keyboard interaction behaviors (like Enter/Space handling) which compromises the screen reader and keyboard-only user experience.
 **Action:** Always prefer native semantic HTML elements (`<button type="button">` instead of `<div role="button">`) for interactive, clickable components. Use Tailwind utility classes such as `w-full text-left block` on buttons to neutralize user-agent stylesheet overrides and maintain the intended layout of complex nested cards without losing accessibility support.
+## 2024-05-25 - Accessibility on Toggle Buttons
+**Learning:** When adding `aria-controls` to toggle buttons (e.g., CacheIndicator and ScoreDisplay), the corresponding target container must explicitly define the matching `id` attribute. If the `id` is omitted, the `aria-controls` reference is broken, rendering the accessibility enhancement ineffective for screen readers.
+**Action:** Always verify that both `aria-controls` on the trigger and `id` on the target container are paired properly when implementing disclosure widgets.
