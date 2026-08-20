@@ -6,7 +6,8 @@
 
 
 
-import type { RoomResults, PlayerStats } from '../types';
+import type { RoomResults, PlayerStats, IntegrityReport } from '../types';
+import { calculateIntegrityReport } from '../../../lib/anti-cheat/behavior-analysis';
 
 interface ReportOptions {
   format: 'pdf' | 'html';
@@ -62,6 +63,7 @@ class ReportGeneratorService {
     const recommendationsHTML = options.includeRecommendations
       ? this.generateRecommendationsHTML(results)
       : '';
+    const integrityHTML = this.generateIntegrityHTML(results);
 
     return `
 <!DOCTYPE html>
@@ -127,6 +129,8 @@ class ReportGeneratorService {
     </div>
 
     ${chartHTML}
+
+    ${integrityHTML}
 
     <h2>👥 Ranking de Participantes</h2>
     <div class="player-list">
@@ -356,6 +360,42 @@ class ReportGeneratorService {
       }
       y += 14;
 
+      // Integrity Report Section in PDF
+      doc.setFontSize(16);
+      ensureSpace(24);
+      doc.text('Reporte de Integridad del Examen', margin, y);
+      y += 20;
+
+      for (const player of results.playerStats) {
+        const report = player.integrityReport || calculateIntegrityReport([], [], player.playerId, player.playerName);
+        ensureSpace(40);
+        doc.setFontSize(12);
+        doc.text(`${player.playerName} — Integrity Score: ${report.score}/100 [${report.status.toUpperCase()}]`, margin, y);
+        y += 14;
+        doc.setFontSize(10);
+        doc.text(
+          `Copiar/Pegar: ${report.summary.copyPasteCount} • Clic derecho: ${report.summary.rightClickCount} • DevTools: ${report.summary.devtoolsCount} • Tab Switch: ${report.summary.tabSwitchCount}`,
+          margin + 12,
+          y
+        );
+        y += 16;
+
+        if (report.timeline.length > 0) {
+          for (const evt of report.timeline) {
+            ensureSpace(14);
+            const timeStr = new Date(evt.timestamp).toLocaleTimeString('es-CO');
+            doc.text(` - [${timeStr}] ${evt.type}: ${evt.description} (-${evt.penalty} pts)`, margin + 20, y);
+            y += 14;
+          }
+        } else {
+          ensureSpace(14);
+          doc.text(' - Sin eventos sospechosos (100% Integridad)', margin + 20, y);
+          y += 14;
+        }
+        y += 8;
+      }
+      y += 10;
+
       // Ranking
       doc.setFontSize(16);
       ensureSpace(24);
@@ -425,6 +465,114 @@ class ReportGeneratorService {
     a.click();
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
+  }
+
+  /**
+   * Genera HTML para el reporte de integridad
+   */
+  private generateIntegrityHTML(results: RoomResults): string {
+    const reports: { player: PlayerStats; report: IntegrityReport }[] = results.playerStats.map(player => {
+      const report = player.integrityReport || calculateIntegrityReport([], [], player.playerId, player.playerName);
+      return { player, report };
+    });
+
+    if (reports.length === 0) return '';
+
+    return `
+    <h2>🛡️ Reporte de Integridad</h2>
+    <div style="margin: 1.5rem 0;">
+      ${reports
+        .map(({ player, report }) => {
+          const statusBadgeColor =
+            report.status === 'clean' ? '#22c55e' : report.status === 'suspicious' ? '#eab308' : '#ef4444';
+          const statusLabel =
+            report.status === 'clean' ? 'Limpio' : report.status === 'suspicious' ? 'Sospechoso' : 'Marcado';
+
+          const timelineRows = report.timeline.length > 0
+            ? report.timeline
+                .map(
+                  evt => `
+              <tr>
+                <td style="padding: 0.5rem; border-bottom: 1px solid #e2e8f0; font-size: 0.85rem;">
+                  ${new Date(evt.timestamp).toLocaleTimeString('es-CO')}
+                </td>
+                <td style="padding: 0.5rem; border-bottom: 1px solid #e2e8f0; font-size: 0.85rem;">
+                  <strong>${evt.type}</strong>
+                </td>
+                <td style="padding: 0.5rem; border-bottom: 1px solid #e2e8f0; font-size: 0.85rem;">
+                  ${evt.description}
+                </td>
+                <td style="padding: 0.5rem; border-bottom: 1px solid #e2e8f0; font-size: 0.85rem; color: ${evt.severity === 'high' ? '#ef4444' : evt.severity === 'medium' ? '#eab308' : '#64748b'};">
+                  ${evt.severity.toUpperCase()} (-${evt.penalty} pts)
+                </td>
+              </tr>
+            `
+                )
+                .join('')
+            : `<tr><td colspan="4" style="padding: 0.75rem; text-align: center; color: #22c55e;">Sin eventos sospechosos registrados (Integridad Perfecta)</td></tr>`;
+
+          return `
+          <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+              <div>
+                <strong style="font-size: 1.2rem; color: #1e293b;">${player.playerName}</strong>
+                <span style="display: inline-block; margin-left: 0.5rem; padding: 0.25rem 0.75rem; border-radius: 9999px; background: ${statusBadgeColor}; color: white; font-size: 0.8rem; font-weight: bold;">
+                  ${statusLabel}
+                </span>
+              </div>
+              <div style="text-align: right;">
+                <span style="font-size: 1.8rem; font-weight: bold; color: ${statusBadgeColor};">${report.score}/100</span>
+                <p style="font-size: 0.8rem; color: #64748b; margin-top: -0.2rem;">Score de Integridad</p>
+              </div>
+            </div>
+
+            <!-- Summary Grid -->
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 0.75rem; margin-bottom: 1rem; text-align: center;">
+              <div style="background: white; padding: 0.5rem; border-radius: 8px; border: 1px solid #cbd5e1;">
+                <div style="font-size: 1.2rem; font-weight: bold;">${report.summary.copyPasteCount}</div>
+                <div style="font-size: 0.75rem; color: #64748b;">Copiar/Pegar</div>
+              </div>
+              <div style="background: white; padding: 0.5rem; border-radius: 8px; border: 1px solid #cbd5e1;">
+                <div style="font-size: 1.2rem; font-weight: bold;">${report.summary.rightClickCount}</div>
+                <div style="font-size: 0.75rem; color: #64748b;">Clic Derecho</div>
+              </div>
+              <div style="background: white; padding: 0.5rem; border-radius: 8px; border: 1px solid #cbd5e1;">
+                <div style="font-size: 1.2rem; font-weight: bold;">${report.summary.devtoolsCount}</div>
+                <div style="font-size: 0.75rem; color: #64748b;">DevTools</div>
+              </div>
+              <div style="background: white; padding: 0.5rem; border-radius: 8px; border: 1px solid #cbd5e1;">
+                <div style="font-size: 1.2rem; font-weight: bold;">${report.summary.tabSwitchCount}</div>
+                <div style="font-size: 0.75rem; color: #64748b;">Cambio de Tab</div>
+              </div>
+            </div>
+
+            ${
+              report.summary.patternFlags.length > 0
+                ? `<div style="background: #fef2f2; border-left: 4px solid #ef4444; padding: 0.5rem 1rem; margin-bottom: 1rem; font-size: 0.85rem; color: #991b1b;">
+                    ⚠️ Alert de Patrón: ${report.summary.patternFlags.join(', ')}
+                   </div>`
+                : ''
+            }
+
+            <table style="width: 100%; border-collapse: collapse; margin-top: 0.5rem; text-align: left;">
+              <thead>
+                <tr style="background: #e2e8f0; font-size: 0.8rem; color: #475569;">
+                  <th style="padding: 0.5rem;">Hora</th>
+                  <th style="padding: 0.5rem;">Tipo</th>
+                  <th style="padding: 0.5rem;">Descripción</th>
+                  <th style="padding: 0.5rem;">Severidad</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${timelineRows}
+              </tbody>
+            </table>
+          </div>
+        `;
+        })
+        .join('')}
+    </div>
+    `;
   }
 
   /**

@@ -1,7 +1,8 @@
 <script lang="ts">
   import { roomState } from '../stores/roomState.svelte.ts';
   import { reportGeneratorService } from '../services/reportGenerator';
-  import type { RoomResults, PlayerStats } from '../types';
+  import { calculateIntegrityReport } from '../../../lib/anti-cheat/behavior-analysis';
+  import type { RoomResults, PlayerStats, IntegrityReport } from '../types';
 
   interface Props {
     results?: RoomResults;
@@ -15,6 +16,13 @@
   let myStats = $derived(
     results?.playerStats.find((s) => s.playerId === currentPlayer?.id)
   );
+
+  let myIntegrityReport = $derived.by<IntegrityReport | null>(() => {
+    if (!myStats) return null;
+    if (myStats.integrityReport) return myStats.integrityReport;
+    const rawEvents = currentPlayer?.suspiciousActivity || [];
+    return calculateIntegrityReport(rawEvents, roomState.answers || [], myStats.playerId, myStats.playerName);
+  });
 
   let topPlayers = $derived(
     [...(results?.playerStats || [])]
@@ -117,13 +125,54 @@
           <p class="text-gray-300">{myStats.recommendation}</p>
         </div>
 
-        <!-- Suspicious Activity Warning (if any) -->
-        {#if myStats.suspiciousEvents > 0}
-          <div class="bg-red-900/50 border border-red-500 rounded-lg p-4">
-            <p class="text-sm">
-              ⚠️ Se detectaron <strong>{myStats.suspiciousEvents}</strong> eventos sospechosos durante tu examen
-              (salidas de pantalla o cambios de ventana).
-            </p>
+        <!-- Integrity Score & Suspicious Activity Card -->
+        {#if myIntegrityReport}
+          <div class="bg-black/40 border border-slate-700 rounded-lg p-5 mb-4">
+            <div class="flex items-center justify-between mb-3">
+              <div class="flex items-center gap-2">
+                <span class="text-xl">🛡️</span>
+                <span class="font-bold text-lg">Score de Integridad</span>
+              </div>
+              <div class="flex items-center gap-2">
+                <span class="text-xs px-3 py-1 rounded-full font-bold
+                  {myIntegrityReport.status === 'clean' ? 'bg-green-600 text-white' :
+                   myIntegrityReport.status === 'suspicious' ? 'bg-yellow-600 text-white' :
+                   'bg-red-600 text-white'}">
+                  {myIntegrityReport.status === 'clean' ? 'Limpio' :
+                   myIntegrityReport.status === 'suspicious' ? 'Sospechoso' : 'Marcado'}
+                </span>
+                <span class="text-2xl font-bold
+                  {myIntegrityReport.score >= 90 ? 'text-green-400' :
+                   myIntegrityReport.score >= 60 ? 'text-yellow-400' : 'text-red-400'}">
+                  {myIntegrityReport.score}/100
+                </span>
+              </div>
+            </div>
+
+            {#if myIntegrityReport.totalEvents > 0}
+              <div class="text-xs text-gray-300 space-y-1 mt-2">
+                <p>⚠️ Eventos detectados: <strong>{myIntegrityReport.totalEvents}</strong></p>
+                {#if myIntegrityReport.summary.copyPasteCount > 0}
+                  <p>• Copiar/Pegar: {myIntegrityReport.summary.copyPasteCount}</p>
+                {/if}
+                {#if myIntegrityReport.summary.rightClickCount > 0}
+                  <p>• Clic derecho: {myIntegrityReport.summary.rightClickCount}</p>
+                {/if}
+                {#if myIntegrityReport.summary.devtoolsCount > 0}
+                  <p>• DevTools / F12: {myIntegrityReport.summary.devtoolsCount}</p>
+                {/if}
+                {#if myIntegrityReport.summary.tabSwitchCount > 0}
+                  <p>• Pestaña oculta / Blur: {myIntegrityReport.summary.tabSwitchCount}</p>
+                {/if}
+                {#each myIntegrityReport.summary.patternFlags as flag}
+                  <p class="text-red-300">• Alerta de patrón: {flag}</p>
+                {/each}
+              </div>
+            {:else}
+              <p class="text-xs text-green-400 mt-1">
+                ✅ Sin eventos sospechosos registrados durante la prueba.
+              </p>
+            {/if}
           </div>
         {/if}
 

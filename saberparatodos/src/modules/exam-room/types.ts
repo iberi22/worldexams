@@ -75,9 +75,45 @@ export interface Player {
 }
 
 export interface SuspiciousEvent {
-  type: 'tab_switch' | 'window_blur' | 'page_hidden' | 'long_inactivity';
+  type:
+    | 'tab_switch'
+    | 'window_blur'
+    | 'page_hidden'
+    | 'long_inactivity'
+    | 'copy_paste'
+    | 'right_click'
+    | 'devtools_open'
+    | 'fast_answers'
+    | 'uniform_pattern';
   timestamp: Date;
   duration?: number; // ms
+  details?: Record<string, any>;
+}
+
+export interface IntegrityEvent {
+  id?: string;
+  type: SuspiciousEvent['type'];
+  timestamp: Date;
+  description: string;
+  severity: 'low' | 'medium' | 'high';
+  penalty: number;
+  details?: Record<string, any>;
+}
+
+export interface IntegrityReport {
+  playerId?: string;
+  playerName?: string;
+  score: number; // 0 - 100
+  status: 'clean' | 'suspicious' | 'flagged';
+  totalEvents: number;
+  timeline: IntegrityEvent[];
+  summary: {
+    copyPasteCount: number;
+    rightClickCount: number;
+    devtoolsCount: number;
+    tabSwitchCount: number;
+    patternFlags: string[];
+  };
 }
 
 export interface GameState {
@@ -121,6 +157,8 @@ export interface PlayerStats {
   slowestAnswer: number; // ms
   suspiciousEvents: number;
   recommendation: string;
+  integrityScore?: number;
+  integrityReport?: IntegrityReport;
 }
 
 export interface QuestionStats {
