@@ -3,6 +3,7 @@
   import { getAiCore } from '../../lib/ai/ai-core-client';
   import type { DeviceCapabilities, ModelRecommendation, DownloadedModel } from 'edge-mesh';
   import { recordMejoraInterna } from '../../lib/mejora-interna-telemetry';
+  import TierSelector from './TierSelector.svelte';
 
   let scanning = $state(true);
   let caps = $state<DeviceCapabilities | null>(null);
@@ -128,6 +129,10 @@
   {#if error}
     <p class="text-sm text-red-300 border border-red-500/30 rounded-lg px-3 py-2">{error}</p>
   {/if}
+
+  <div class="pt-2 border-t border-white/10">
+    <TierSelector />
+  </div>
 
   <div class="space-y-3">
     <h2 class="font-bold">Catálogo aprobado</h2>
