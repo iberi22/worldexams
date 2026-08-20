@@ -5,10 +5,11 @@
  */
 
 const DB_NAME = 'worldexams_db';
-const DB_VERSION = 4; // 🆕 Bumped for party_sessions store
+const DB_VERSION = 5; // 🆕 Bumped for ai_preferences store
 const STORE_RESULTS = 'exam_results';
 const STORE_ANSWERED = 'answered_questions';
 const STORE_PARTY_SESSIONS = 'party_sessions';
+const STORE_AI_PREFERENCES = 'ai_preferences';
 
 import type { QuestionResultData, ExamCompletionData } from '../types';
 
@@ -102,6 +103,11 @@ function openDB(): Promise<IDBDatabase> {
         store.createIndex('partyCode', 'partyCode', { unique: false });
         store.createIndex('startedAt', 'startedAt', { unique: false });
         store.createIndex('synced', 'synced', { unique: false });
+      }
+
+      // 🆕 Store for AI preferences (e.g., selected tier)
+      if (!db.objectStoreNames.contains(STORE_AI_PREFERENCES)) {
+        db.createObjectStore(STORE_AI_PREFERENCES, { keyPath: 'key' });
       }
     };
   });
@@ -652,6 +658,62 @@ export async function getUnsyncedPartySessions(): Promise<PartySessionRecord[]> 
  */
 export async function markPartySessionSynced(sessionId: string): Promise<void> {
   await updatePartySession(sessionId, { synced: true });
+}
+
+/**
+ * Save AI tier preference to IndexedDB (and sync with localStorage)
+ */
+export async function saveAiTierPreference(tier: string): Promise<void> {
+  try {
+    if (typeof localStorage !== 'undefined') {
+      localStorage.setItem('swal.ai.tier', tier);
+    }
+    const db = await openDB();
+    const tx = db.transaction([STORE_AI_PREFERENCES], 'readwrite');
+    const store = tx.objectStore(STORE_AI_PREFERENCES);
+    store.put({ key: 'selectedTier', value: tier, updatedAt: Date.now() });
+    return new Promise((resolve, reject) => {
+      tx.oncomplete = () => resolve();
+      tx.onerror = () => reject(tx.error);
+    });
+  } catch (err) {
+    console.warn('Error saving AI tier preference:', err);
+  }
+}
+
+/**
+ * Retrieve AI tier preference from IndexedDB (or fallback to localStorage)
+ */
+export async function getAiTierPreference(): Promise<string | null> {
+  try {
+    const db = await openDB();
+    return new Promise((resolve) => {
+      const tx = db.transaction([STORE_AI_PREFERENCES], 'readonly');
+      const store = tx.objectStore(STORE_AI_PREFERENCES);
+      const request = store.get('selectedTier');
+      request.onsuccess = () => {
+        if (request.result?.value) {
+          resolve(request.result.value);
+        } else if (typeof localStorage !== 'undefined') {
+          resolve(localStorage.getItem('swal.ai.tier'));
+        } else {
+          resolve(null);
+        }
+      };
+      request.onerror = () => {
+        if (typeof localStorage !== 'undefined') {
+          resolve(localStorage.getItem('swal.ai.tier'));
+        } else {
+          resolve(null);
+        }
+      };
+    });
+  } catch (err) {
+    if (typeof localStorage !== 'undefined') {
+      return localStorage.getItem('swal.ai.tier');
+    }
+    return null;
+  }
 }
 
 /**

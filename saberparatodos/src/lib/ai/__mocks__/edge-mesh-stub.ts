@@ -4,6 +4,11 @@ export type AiCore = {
   llm: { generate: (prompt: string, options?: any) => Promise<string> };
   asr: { transcribe: (audio: any) => Promise<string> };
   tts: { speak: (text: string) => Promise<any> };
+  scan?: () => Promise<any>;
+  recommend?: (caps: any) => any;
+  listDownloaded?: () => Promise<any[]>;
+  ensureModel?: (modelId: string, onProgress?: (p: any) => void) => Promise<void>;
+  removeModel?: (modelId: string) => Promise<void>;
 };
 
 export function createAiCore(_opts?: unknown): AiCore {
@@ -23,6 +28,20 @@ export function createAiCore(_opts?: unknown): AiCore {
         return null;
       },
     },
+    async scan() {
+      return { tier: 'medium', webgpu: false, cores: 4, estimatedMemoryMB: 8192 };
+    },
+    recommend(caps: any) {
+      return {
+        primary: { id: 'qwen2.5-0.5b', kind: 'llm', sizeBytes: 350000000 },
+        fallbacks: [],
+      };
+    },
+    async listDownloaded() {
+      return [];
+    },
+    async ensureModel(_modelId: string) {},
+    async removeModel(_modelId: string) {},
   };
 }
 
