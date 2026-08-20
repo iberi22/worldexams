@@ -4,8 +4,6 @@ export interface Organization {
   id: string;
   name: string;
   slug: string;
-  plan_tier: 'free' | 'pro' | 'enterprise';
-  billing_email?: string;
   is_active: boolean;
   created_at: string;
 }
@@ -21,7 +19,7 @@ export const institutionalService = {
   /**
    * Create a new organization
    */
-  async createOrganization(name: string, slug: string, billingEmail: string) {
+  async createOrganization(name: string, slug: string) {
     const { data: userData } = await supabase.auth.getUser();
     const ownerUserId = userData?.user?.id;
 
@@ -30,7 +28,6 @@ export const institutionalService = {
       .insert({
         name,
         slug,
-        billing_email: billingEmail,
         owner_user_id: ownerUserId
       } as any)
       .select()
@@ -62,7 +59,7 @@ export const institutionalService = {
       .select(`
         role,
         organization:organizations (
-          id, name, slug, plan_tier, is_active
+          id, name, slug, is_active
         )
       `)
       .eq('user_id', user.id) as any;
