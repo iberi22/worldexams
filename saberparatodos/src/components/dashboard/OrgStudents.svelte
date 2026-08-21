@@ -88,7 +88,8 @@
       <div class="bg-white dark:bg-zinc-900 rounded-xl shadow-xl max-w-sm w-full p-6">
         <h3 class="font-bold text-zinc-900 dark:text-white mb-4">Invitar Estudiante</h3>
         <form on:submit|preventDefault={handleInvite} class="space-y-4">
-          <input
+          <label for="invite-email" class="sr-only">Correo del estudiante</label>
+          <input id="invite-email"
             type="email"
             bind:value={newMemberEmail}
             placeholder="correo@estudiante.com"
