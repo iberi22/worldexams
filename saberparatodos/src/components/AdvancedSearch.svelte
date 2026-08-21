@@ -66,10 +66,34 @@
   }
 
   // Derived data
-  $: grades = [...new Set(questions.map(q => q.grade).filter(Boolean))].sort((a, b) => a - b);
-  $: rawSubjects = [...new Set(questions.map(q => q.category?.split(' > ')[0] || q.category?.split(' :: ')[0]).filter(Boolean))];
-  $: subjects = [...new Map(rawSubjects.map(s => [normalizeSubject(s), s])).values()];
-  $: competencias = [...new Set(questions.map(q => q.competencia).filter(Boolean))];
+  // ⚡ Bolt Optimization: Combine extracting grades, subjects, and competencias into a single O(N) pass
+  // instead of multiple .map().filter() chains to optimize memory allocation and performance.
+  let grades: number[] = [];
+  let subjects: string[] = [];
+  let competencias: string[] = [];
+
+  $: {
+    const gradesSet = new Set<number>();
+    const subjectsMap = new Map<string, string>();
+    const competenciasSet = new Set<string>();
+
+    for (const q of questions) {
+      if (q.grade) gradesSet.add(q.grade);
+
+      if (q.category) {
+        const rawSubject = q.category.split(' > ')[0] || q.category.split(' :: ')[0];
+        if (rawSubject) {
+          subjectsMap.set(normalizeSubject(rawSubject), rawSubject);
+        }
+      }
+
+      if (q.competencia) competenciasSet.add(q.competencia);
+    }
+
+    grades = [...gradesSet].sort((a, b) => a - b);
+    subjects = [...subjectsMap.values()];
+    competencias = [...competenciasSet];
+  }
 
   // Normalize text for search (remove accents, lowercase)
   function normalizeText(text: string | number | undefined): string {
