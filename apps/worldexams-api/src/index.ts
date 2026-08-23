@@ -370,7 +370,7 @@ function getProxyHeaders(request: Request, env: Env, includeApiKey = false, useA
   }
   if (includeApiKey && apiKey) headers.set("x-api-key", apiKey)
   if (userAgent) headers.set("user-agent", userAgent)
-  if (ipAddress) headers.set("x-forwarded-for", ipAddress)
+  if (ipAddress) headers.set("cf-connecting-ip", ipAddress)
   return headers
 }
 
