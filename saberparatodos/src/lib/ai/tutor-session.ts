@@ -6,6 +6,7 @@
 import { getAiCore } from './ai-core-client';
 import { generateNanoTutorResponse } from './chrome-nano-provider';
 import { recordMejoraInterna } from '../mejora-interna-telemetry';
+import { saveTutorSession, syncSessionToXavier, type TutorSessionRecord } from './tutor-history';
 
 export interface TutorContext {
   questionText?: string;
@@ -25,19 +26,46 @@ export interface TutorTurn {
 }
 
 export class TutorSession {
-  private readonly history: TutorTurn[] = [];
+  public readonly sessionId: string;
+  public readonly createdAt: number;
+  private updatedAt: number;
+  private history: TutorTurn[] = [];
   private context: TutorContext;
 
-  constructor(context: TutorContext = {}) {
+  constructor(context: TutorContext = {}, sessionId?: string, existingHistory?: TutorTurn[], createdAt?: number) {
     this.context = context;
+    this.sessionId = sessionId || (typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() : `session-${Date.now()}-${Math.random().toString(36).substring(2, 9)}`);
+    this.createdAt = createdAt || Date.now();
+    this.updatedAt = Date.now();
+    if (existingHistory && Array.isArray(existingHistory)) {
+      this.history = [...existingHistory];
+    }
   }
 
   updateContext(partial: TutorContext): void {
     this.context = { ...this.context, ...partial };
+    this.updatedAt = Date.now();
+    this.persist();
   }
 
   getHistory(): readonly TutorTurn[] {
     return this.history;
+  }
+
+  getContext(): TutorContext {
+    return this.context;
+  }
+
+  private persist(): void {
+    const record: TutorSessionRecord = {
+      sessionId: this.sessionId,
+      context: this.context,
+      history: this.history,
+      createdAt: this.createdAt,
+      updatedAt: this.updatedAt,
+    };
+    saveTutorSession(record).catch(() => {});
+    syncSessionToXavier(record).catch(() => {});
   }
 
   private buildSystemPrompt(): string {
@@ -93,6 +121,9 @@ export class TutorSession {
       at: Date.now(),
     };
     this.history.push(turn);
+    this.updatedAt = Date.now();
+    this.persist();
+
     recordMejoraInterna('ai.tutor.turn', {
       hasAudio: Boolean(audioWav),
       userChars: userText.length,
@@ -118,6 +149,11 @@ export class TutorSession {
   }
 }
 
-export function createTutorSession(context?: TutorContext): TutorSession {
-  return new TutorSession(context);
+export function createTutorSession(
+  context?: TutorContext,
+  sessionId?: string,
+  existingHistory?: TutorTurn[],
+  createdAt?: number
+): TutorSession {
+  return new TutorSession(context, sessionId, existingHistory, createdAt);
 }
