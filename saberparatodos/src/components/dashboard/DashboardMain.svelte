@@ -120,8 +120,9 @@
         <h3 class="text-xl font-bold text-zinc-900 dark:text-white mb-4">Nueva Organización</h3>
         <form on:submit|preventDefault={handleCreateOrg} class="space-y-4">
           <div>
-            <label class="block text-sm font-medium text-zinc-700 dark:text-zinc-300 mb-1">Nombre de la Institución</label>
+            <label for="newOrgName" class="block text-sm font-medium text-zinc-700 dark:text-zinc-300 mb-1">Nombre de la Institución</label>
             <input
+              id="newOrgName"
               bind:value={newOrgName}
               class="w-full px-4 py-2 rounded-lg border border-zinc-300 dark:border-zinc-700 bg-transparent"
               placeholder="Ej. Colegio San José"
@@ -129,8 +130,9 @@
             />
           </div>
           <div>
-            <label class="block text-sm font-medium text-zinc-700 dark:text-zinc-300 mb-1">Slug (URL)</label>
+            <label for="newOrgSlug" class="block text-sm font-medium text-zinc-700 dark:text-zinc-300 mb-1">Slug (URL)</label>
             <input
+              id="newOrgSlug"
               bind:value={newOrgSlug}
               class="w-full px-4 py-2 rounded-lg border border-zinc-300 dark:border-zinc-700 bg-transparent"
               placeholder="colegio-san-jose"
