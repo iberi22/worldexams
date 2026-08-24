@@ -12,7 +12,8 @@
 </script>
 
 <script lang="ts">
-  import katex from 'katex';
+  import katex from "katex";
+  import { escapeHtml } from "../utils/escapeHtml";
   import 'katex/dist/katex.min.css';
 
   export let content: string = '';
@@ -23,15 +24,6 @@
   /**
    * Render LaTeX math expressions within the content
    */
-function escapeHtml(unsafe: string) {
-    return unsafe
-         .replace(/&/g, "&amp;")
-         .replace(/</g, "&lt;")
-         .replace(/>/g, "&gt;")
-         .replace(/"/g, "&quot;")
-         .replace(/'/g, "&#39;");
-  }
-
   function renderMath(text: string): string {
     if (!text) return '';
 
