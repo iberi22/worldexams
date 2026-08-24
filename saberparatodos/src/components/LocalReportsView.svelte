@@ -300,13 +300,24 @@
   }
 
   // Derived data for charts
-  let mmrHistory = $derived(historyResults.length >= 2
-    ? historyResults.slice(0, 10).reverse().map((r, i) => 250 + (i * 5) + (r.correctCount / r.totalQuestions * 100 - 50) * 0.5)
-    : []);
+  // ⚡ Bolt Optimization: Use a single pass loop instead of chained .slice().reverse().map() across multiple derived variables
+  let { mmrHistory, accuracyHistory } = $derived.by(() => {
+    if (historyResults.length < 2) return { mmrHistory: [], accuracyHistory: [] };
 
-  let accuracyHistory = $derived(historyResults.length >= 2
-    ? historyResults.slice(0, 10).reverse().map(r => r.score)
-    : []);
+    const mmr = [];
+    const acc = [];
+    const limit = Math.min(10, historyResults.length);
+    let count = 0;
+
+    for (let i = limit - 1; i >= 0; i--) {
+      const r = historyResults[i];
+      acc.push(r.score);
+      mmr.push(250 + (count * 5) + (r.correctCount / r.totalQuestions * 100 - 50) * 0.5);
+      count++;
+    }
+
+    return { mmrHistory: mmr, accuracyHistory: acc };
+  });
 
   // 🆕 Minimum thresholds for showing metrics
   const MIN_COMPETENCY_QUESTIONS = 3; // Minimum questions per competency to be considered
@@ -472,6 +483,21 @@
 
   let seenCompetencies = $derived(competencyStats); // Keep for compatibility if used elsewhere
   let seenSubjects = $derived(subjectStats);
+
+  // ⚡ Bolt Optimization: Precompute radar chart data here instead of doing inline `.slice().map()` inside the template
+  let competencyRadarData = $derived.by(() => {
+    const data = [];
+    const len = Math.min(competencyStats.length, 6);
+    for (let i = 0; i < len; i++) {
+      const c = competencyStats[i];
+      data.push({
+        label: c.name,
+        value: (c.correct / c.seen) * 100,
+        fullMark: 100
+      });
+    }
+    return data;
+  });
 
   // ⚡ Bolt Optimization: Replace filter().sort().slice() chain with a single pass filtering for critical topics
   let criticalTopicsDerived = $derived.by(() => {
@@ -922,11 +948,7 @@
 
                     <div class="shrink-0">
                       <RadarChart
-                        data={competencyStats.slice(0, 6).map(c => ({
-                          label: c.name,
-                          value: (c.correct / c.seen) * 100,
-                          fullMark: 100
-                        }))}
+                        data={competencyRadarData}
                         size={320}
                       />
                     </div>
