@@ -1,12 +1,18 @@
 import { describe, it, expect } from 'vitest';
-import { getNextAdaptiveQuestion } from './adaptive-engine';
+import {
+  getNextAdaptiveQuestion,
+  parseBloomLevel,
+  parseDifficultyBand,
+  BLOOM_LEVEL_NUM,
+  DIFFICULTY_BAND_NUM
+} from './adaptive-engine';
 import type { AppQuestion } from './api-service';
 import type { QuestionResult } from './english-proficiency';
 
 describe('Adaptive Testing Engine', () => {
 
-  // Mock a diverse question pool (A1 to C1)
-  const mockPool: AppQuestion[] = [
+  // Mock a diverse question pool for English (A1 to C1)
+  const englishMockPool: AppQuestion[] = [
     { id: 'q1', text: 'A1-Easy', cefr_level: 'A1', difficulty: 2, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
     { id: 'q2', text: 'A2-Medium', cefr_level: 'A2', difficulty: 5, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
     { id: 'q3', text: 'B1-Medium', cefr_level: 'B1', difficulty: 6, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
@@ -14,17 +20,30 @@ describe('Adaptive Testing Engine', () => {
     { id: 'q5', text: 'C1-Expert', cefr_level: 'C1', difficulty: 10, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
   ];
 
-  it('should return a calibration question when answered count is low', () => {
-    // 0 questions answered - should use default calibration (B1 / Diff 5)
-    // The closest is q3 (B1, diff 6)
+  // Mock STEM/Humanities question pools (Matemáticas, Lengua, Ciencias) with Bloom & Difficulty Bands
+  const stemMockPool: AppQuestion[] = [
+    { id: 'm1', text: 'Math Easy', difficulty: 2, options: [], correctOptionId: 'A', category: 'matematicas', grade: 11, bloom: 'Remember', difficulty_band: 'D1-D2' } as any,
+    { id: 'm2', text: 'Math Basic', difficulty: 4, options: [], correctOptionId: 'A', category: 'matematicas', grade: 11, bloom: 'Understand', difficulty_band: 'D3-D4' } as any,
+    { id: 'm3', text: 'Math Medium', difficulty: 6, options: [], correctOptionId: 'A', category: 'matematicas', grade: 11, bloom: 'Apply', difficulty_band: 'D5-D6' } as any,
+    { id: 'm4', text: 'Math Advanced', difficulty: 8, options: [], correctOptionId: 'A', category: 'matematicas', grade: 11, bloom: 'Analyze', difficulty_band: 'D7-D8' } as any,
+    { id: 'm5', text: 'Math Expert', difficulty: 10, options: [], correctOptionId: 'A', category: 'matematicas', grade: 11, bloom: 'Evaluate', difficulty_band: 'D9-D10' } as any,
+  ];
+
+  const cienciasMockPool: AppQuestion[] = [
+    { id: 'c1', text: 'Ciencias Recordar', difficulty: 3, options: [], correctOptionId: 'A', category: 'ciencias_naturales', grade: 11, bloom: 'Recordar', difficulty_band: 'D3-D4' } as any,
+    { id: 'c2', text: 'Ciencias Aplicar', difficulty: 6, options: [], correctOptionId: 'A', category: 'ciencias_naturales', grade: 11, bloom: 'Aplicar', difficulty_band: 'D5-D6' } as any,
+    { id: 'c3', text: 'Ciencias Evaluar', difficulty: 9, options: [], correctOptionId: 'A', category: 'ciencias_naturales', grade: 11, bloom: 'Evaluar', difficulty_band: 'D9-D10' } as any,
+  ];
+
+  it('should return a calibration question when answered count is low (English)', () => {
     const usedIds = new Set<string>();
-    const nextQ = getNextAdaptiveQuestion(mockPool, [], usedIds);
+    const nextQ = getNextAdaptiveQuestion(englishMockPool, [], usedIds);
 
     expect(nextQ).not.toBeNull();
     expect(nextQ?.cefr_level).toBe('B1');
   });
 
-  it('should scale up difficulty when student answers perfectly', () => {
+  it('should scale up difficulty when student answers perfectly (English)', () => {
     const answeredResults: QuestionResult[] = [
       { questionId: 'q1', isCorrect: true, cefrLevel: 'B1' },
       { questionId: 'q2', isCorrect: true, cefrLevel: 'B1' },
@@ -32,14 +51,12 @@ describe('Adaptive Testing Engine', () => {
     ];
     const usedIds = new Set<string>(['q1', 'q2', 'q3']);
 
-    // With 100% accuracy on B1, it should estimate B1/B1+ and push up to B2
-    const nextQ = getNextAdaptiveQuestion(mockPool, answeredResults, usedIds);
+    const nextQ = getNextAdaptiveQuestion(englishMockPool, answeredResults, usedIds);
     expect(nextQ).not.toBeNull();
-    // Because accuracy > 75%, it scales up from current estimate
     expect(['B2', 'B2+', 'C1']).toContain(nextQ?.cefr_level);
   });
 
-  it('should scale down difficulty when student struggles', () => {
+  it('should scale down difficulty when student struggles (English)', () => {
     const answeredResults: QuestionResult[] = [
       { questionId: 'qA', isCorrect: false, cefrLevel: 'B2' },
       { questionId: 'qB', isCorrect: false, cefrLevel: 'B2' },
@@ -47,17 +64,78 @@ describe('Adaptive Testing Engine', () => {
     ];
     const usedIds = new Set<string>(['qA', 'qB', 'qC']);
 
-    // Accuracy is ~33%, it should down-scale from the estimated level
-    const nextQ = getNextAdaptiveQuestion(mockPool, answeredResults, usedIds);
+    const nextQ = getNextAdaptiveQuestion(englishMockPool, answeredResults, usedIds);
     expect(nextQ).not.toBeNull();
-    // It should give an easier question (A1, A1+, A2)
     expect(['A1', 'A1+', 'A2', 'A2+']).toContain(nextQ?.cefr_level);
   });
 
   it('should return null when the pool is exhausted', () => {
-    const usedIds = new Set<string>(mockPool.map(q => q.id));
-    const nextQ = getNextAdaptiveQuestion(mockPool, [], usedIds);
+    const usedIds = new Set<string>(englishMockPool.map(q => q.id));
+    const nextQ = getNextAdaptiveQuestion(englishMockPool, [], usedIds);
     expect(nextQ).toBeNull();
+  });
+
+  describe('Subject-Agnostic Engine (Matemáticas, Ciencias, Lengua)', () => {
+    it('should select base Bloom / difficulty band during calibration phase', () => {
+      const usedIds = new Set<string>();
+      const nextQ = getNextAdaptiveQuestion(stemMockPool, [], usedIds);
+
+      expect(nextQ).not.toBeNull();
+      // Base config starts at baseDifficulty 5 (Apply / D5-D6), m3 is closest (diff 6, Apply, D5-D6)
+      expect(nextQ?.id).toBe('m3');
+    });
+
+    it('should scale up to higher Bloom / difficulty band on high accuracy (Matemáticas)', () => {
+      const answeredResults: QuestionResult[] = [
+        { questionId: 'm3', isCorrect: true, cefrLevel: 'A2', difficulty: 6 },
+        { questionId: 'm3b', isCorrect: true, cefrLevel: 'A2', difficulty: 6 },
+        { questionId: 'm3c', isCorrect: true, cefrLevel: 'A2', difficulty: 6 },
+      ]; // 100% accuracy on level 6 questions
+      const usedIds = new Set<string>(['m3']);
+
+      const nextQ = getNextAdaptiveQuestion(stemMockPool, answeredResults, usedIds);
+      expect(nextQ).not.toBeNull();
+      // Should scale up difficulty from 6 to ~8+ (Analyze / Evaluate, D7-D8 / D9-D10)
+      expect(['m4', 'm5']).toContain(nextQ?.id);
+    });
+
+    it('should scale down to lower Bloom / difficulty band on low accuracy (Ciencias)', () => {
+      const answeredResults: QuestionResult[] = [
+        { questionId: 'c2', isCorrect: false, cefrLevel: 'A2', difficulty: 6 },
+        { questionId: 'c2b', isCorrect: false, cefrLevel: 'A2', difficulty: 6 },
+        { questionId: 'c2c', isCorrect: true, cefrLevel: 'A2', difficulty: 6 },
+      ]; // 33% accuracy
+      const usedIds = new Set<string>(['c2']);
+
+      const nextQ = getNextAdaptiveQuestion(cienciasMockPool, answeredResults, usedIds);
+      expect(nextQ).not.toBeNull();
+      // Should scale down to c1 (Recordar / D3-D4)
+      expect(nextQ?.id).toBe('c1');
+    });
+  });
+
+  describe('Bloom & Difficulty Band Metadata Parsers', () => {
+    it('should parse Spanish and English Bloom taxonomy levels correctly', () => {
+      expect(parseBloomLevel('Remember')).toBe('Remember');
+      expect(parseBloomLevel('Recordar')).toBe('Remember');
+      expect(parseBloomLevel('comprender')).toBe('Understand');
+      expect(parseBloomLevel('APPLY')).toBe('Apply');
+      expect(parseBloomLevel('Analizar')).toBe('Analyze');
+      expect(parseBloomLevel('EVALUAR')).toBe('Evaluate');
+      expect(parseBloomLevel('Crear')).toBe('Create');
+      expect(parseBloomLevel(undefined)).toBeNull();
+      expect(parseBloomLevel('Invalid')).toBeNull();
+    });
+
+    it('should parse Difficulty Bands (D1-D2 through D9-D10) correctly', () => {
+      expect(parseDifficultyBand('D1-D2')).toBe('D1-D2');
+      expect(parseDifficultyBand('D3-D4')).toBe('D3-D4');
+      expect(parseDifficultyBand('d5-d6')).toBe('D5-D6');
+      expect(parseDifficultyBand('D7-D8')).toBe('D7-D8');
+      expect(parseDifficultyBand('D9-D10')).toBe('D9-D10');
+      expect(parseDifficultyBand('D5')).toBe('D5-D6');
+      expect(parseDifficultyBand(undefined)).toBeNull();
+    });
   });
 
   describe('3-Strike Protocol Logic', () => {
@@ -80,7 +158,6 @@ describe('Adaptive Testing Engine', () => {
         { questionId: 'any3', isCorrect: false, cefrLevel: 'B1' },
       ];
       const nextQ = getNextAdaptiveQuestion(protocolPool, results, new Set(['any1', 'any2', 'any3']));
-      // Should not be v4
       expect(nextQ?.protocol_version).toBeUndefined();
       expect(nextQ?.id).toMatch(/trad/);
     });
