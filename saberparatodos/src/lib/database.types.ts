@@ -356,9 +356,7 @@ export interface Database {
           id: string
           name: string
           slug: string
-          billing_email: string | null
           owner_user_id: string | null
-          plan_tier: 'free' | 'pro' | 'enterprise'
           is_active: boolean
           created_at: string
         }
@@ -366,9 +364,7 @@ export interface Database {
           id?: string
           name: string
           slug: string
-          billing_email?: string | null
           owner_user_id?: string | null
-          plan_tier?: 'free' | 'pro' | 'enterprise'
           is_active?: boolean
           created_at?: string
         }
@@ -376,9 +372,7 @@ export interface Database {
           id?: string
           name?: string
           slug?: string
-          billing_email?: string | null
           owner_user_id?: string | null
-          plan_tier?: 'free' | 'pro' | 'enterprise'
           is_active?: boolean
           created_at?: string
         }

@@ -37,7 +37,7 @@
   async function handleCreateOrg() {
     try {
       creating = true;
-      await institutionalService.createOrganization(newOrgName, newOrgSlug, '');
+      await institutionalService.createOrganization(newOrgName, newOrgSlug);
       showCreateModal = false;
       // Refresh
       organizations = await institutionalService.getUserOrganizations();
@@ -98,9 +98,6 @@
                 </div>
               </div>
               <div class="flex items-center gap-3 shrink-0">
-                 <span class="px-2 py-1 bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 text-xs rounded-full font-medium capitalize">
-                    {org.plan_tier}
-                 </span>
                  <span class="text-zinc-400 text-sm" aria-hidden="true">{selectedOrgId === org.id ? '▲' : '▼'}</span>
               </div>
             </button>
