@@ -1,7 +1,7 @@
-
 /**
  * IndexedDB Storage Service
  * Handles local storage of exam results for offline capability and future sync.
+ * Includes optional transparent E2E Encryption layer (AES-256-GCM / Web Crypto).
  */
 
 const DB_NAME = 'worldexams_db';
@@ -12,6 +12,13 @@ const STORE_PARTY_SESSIONS = 'party_sessions';
 const STORE_AI_PREFERENCES = 'ai_preferences';
 
 import type { QuestionResultData, ExamCompletionData } from '../types';
+import {
+  encryptData,
+  decryptData,
+  isEncryptedPayload,
+  isWebCryptoAvailable,
+  type EncryptedPayload
+} from './encryption';
 
 export interface ExamResultRecord {
   id?: number;
@@ -25,6 +32,7 @@ export interface ExamResultRecord {
   answers: Record<string, string>;
   details: any[]; // Detailed question breakdown
   synced: boolean;
+  _encryptedPayload?: EncryptedPayload;
 }
 
 export interface AnsweredQuestionRecord {
@@ -54,6 +62,109 @@ export interface PartySessionRecord {
   totalQuestions?: number;
   correctCount?: number;
   synced: boolean;
+  _encryptedPayload?: EncryptedPayload;
+}
+
+/**
+ * Transparent record encryption helpers for exam results
+ */
+async function encryptExamResultRecord(record: ExamResultRecord): Promise<any> {
+  if (!isWebCryptoAvailable()) return record;
+  try {
+    const sensitivePayload = {
+      score: record.score,
+      totalQuestions: record.totalQuestions,
+      correctCount: record.correctCount,
+      timeSpentSeconds: record.timeSpentSeconds,
+      answers: record.answers,
+      details: record.details
+    };
+    const encrypted = await encryptData(sensitivePayload);
+    if (isEncryptedPayload(encrypted)) {
+      const recordToSave: any = {
+        timestamp: record.timestamp,
+        grade: record.grade,
+        subject: record.subject,
+        synced: record.synced,
+        _encryptedPayload: encrypted
+      };
+      if (record.id !== undefined) recordToSave.id = record.id;
+      return recordToSave;
+    }
+  } catch (err) {
+    console.warn('Error encrypting exam result record:', err);
+  }
+  return record;
+}
+
+async function decryptExamResultRecord(record: any): Promise<ExamResultRecord> {
+  if (!record || !record._encryptedPayload) return record as ExamResultRecord;
+  try {
+    const decrypted = await decryptData(record._encryptedPayload);
+    if (decrypted && typeof decrypted === 'object') {
+      const { _encryptedPayload, ...restRecord } = record;
+      return {
+        ...restRecord,
+        ...decrypted
+      } as ExamResultRecord;
+    }
+  } catch (err) {
+    console.warn('Error decrypting exam result record:', err);
+  }
+  return record as ExamResultRecord;
+}
+
+/**
+ * Transparent record encryption helpers for party sessions
+ */
+async function encryptPartySessionRecord(session: PartySessionRecord): Promise<any> {
+  if (!isWebCryptoAvailable()) return session;
+  try {
+    const sensitivePayload = {
+      userName: session.userName,
+      questions: session.questions,
+      answers: session.answers,
+      focusEvents: session.focusEvents,
+      focusViolations: session.focusViolations,
+      score: session.score,
+      totalQuestions: session.totalQuestions,
+      correctCount: session.correctCount
+    };
+    const encrypted = await encryptData(sensitivePayload);
+    if (isEncryptedPayload(encrypted)) {
+      return {
+        sessionId: session.sessionId,
+        partyCode: session.partyCode,
+        isHost: session.isHost,
+        grade: session.grade,
+        subject: session.subject,
+        startedAt: session.startedAt,
+        endedAt: session.endedAt,
+        synced: session.synced,
+        _encryptedPayload: encrypted
+      };
+    }
+  } catch (err) {
+    console.warn('Error encrypting party session record:', err);
+  }
+  return session;
+}
+
+async function decryptPartySessionRecord(record: any): Promise<PartySessionRecord> {
+  if (!record || !record._encryptedPayload) return record as PartySessionRecord;
+  try {
+    const decrypted = await decryptData(record._encryptedPayload);
+    if (decrypted && typeof decrypted === 'object') {
+      const { _encryptedPayload, ...restRecord } = record;
+      return {
+        ...restRecord,
+        ...decrypted
+      } as PartySessionRecord;
+    }
+  } catch (err) {
+    console.warn('Error decrypting party session record:', err);
+  }
+  return record as PartySessionRecord;
 }
 
 /**
@@ -114,7 +225,7 @@ function openDB(): Promise<IDBDatabase> {
 }
 
 /**
- * Save an exam result locally
+ * Save an exam result locally (with transparent E2E encryption)
  */
 export async function saveExamResultLocal(
   examData: ExamCompletionData,
@@ -130,17 +241,13 @@ export async function saveExamResultLocal(
     const timeSpentSeconds = Math.floor(examData.totalTimeMs / 1000);
 
     // 🆕 Clean data to ensure it is cloneable (Strips Svelte 5 Proxies)
-    // Structured Clone fail check - uses JSON as fallback for deep sanitization
     let cleanDetails = [];
     try {
-       // Deep clone all question data to strip Svelte proxies and non-cloneable objects
        cleanDetails = JSON.parse(JSON.stringify(questions || []));
     } catch (e) {
        console.warn('Could not deep clone details, stripping complex objects', e);
     }
 
-    // If deep clone produced empty or partial results (e.g., missing question.text),
-    // serialize each entry individually with safe property extraction
     if (!cleanDetails.length || (cleanDetails.length > 0 && !cleanDetails[0].question)) {
        cleanDetails = (questions || []).map(d => ({
          questionId: d.questionId,
@@ -159,17 +266,19 @@ export async function saveExamResultLocal(
       totalQuestions,
       correctCount,
       timeSpentSeconds,
-      answers: JSON.parse(JSON.stringify(answers || {})), // ⚡ FIXED: Default to {} to avoid "undefined" JSON error
+      answers: JSON.parse(JSON.stringify(answers || {})),
       details: cleanDetails,
       synced: false
     };
+
+    const recordToSave = await encryptExamResultRecord(record);
 
     return new Promise((resolve, reject) => {
       const transaction = db.transaction([STORE_RESULTS], 'readwrite');
       const store = transaction.objectStore(STORE_RESULTS);
 
       // Final sanitization of the whole record just in case
-      const finalRecord = JSON.parse(JSON.stringify(record));
+      const finalRecord = JSON.parse(JSON.stringify(recordToSave));
       const request = store.add(finalRecord);
 
       request.onsuccess = () => {
@@ -206,11 +315,9 @@ async function updateAnsweredQuestions(details: QuestionResultData[]) {
         difficulty: d.difficulty
       };
 
-      // We use put to overwrite/update the last status
       store.put(record);
     });
 
-    // Also update permanent cache for these questions
     const questionsToCache = details.filter(d => d.question).map(d => d.question);
     if (questionsToCache.length > 0) {
       saveKnownQuestions(questionsToCache).catch(console.warn);
@@ -221,9 +328,8 @@ async function updateAnsweredQuestions(details: QuestionResultData[]) {
   }
 }
 
-
 /**
- * Get all local exam results
+ * Get all local exam results (transparently decrypted)
  */
 export async function getAllLocalResults(): Promise<ExamResultRecord[]> {
   try {
@@ -232,10 +338,14 @@ export async function getAllLocalResults(): Promise<ExamResultRecord[]> {
       const transaction = db.transaction([STORE_RESULTS], 'readonly');
       const store = transaction.objectStore(STORE_RESULTS);
       const index = store.index('timestamp');
-      const request = index.getAll(); // Sorted by timestamp ascending (default)
+      const request = index.getAll();
 
-      request.onsuccess = () => { // Reverse to get newest first
-        resolve((request.result as ExamResultRecord[]).reverse());
+      request.onsuccess = async () => {
+        const rawResults = (request.result as any[]).reverse();
+        const decryptedResults = await Promise.all(
+          rawResults.map(r => decryptExamResultRecord(r))
+        );
+        resolve(decryptedResults);
       };
       request.onerror = () => reject(request.error);
     });
@@ -246,7 +356,7 @@ export async function getAllLocalResults(): Promise<ExamResultRecord[]> {
 }
 
 /**
- * Get results that haven't been synced to cloud
+ * Get results that haven't been synced to cloud (transparently decrypted)
  */
 export async function getUnsyncedResults(): Promise<ExamResultRecord[]> {
   try {
@@ -257,8 +367,12 @@ export async function getUnsyncedResults(): Promise<ExamResultRecord[]> {
       const index = store.index('synced');
       const request = index.getAll(IDBKeyRange.only(false));
 
-      request.onsuccess = () => {
-        resolve(request.result as ExamResultRecord[]);
+      request.onsuccess = async () => {
+        const rawResults = request.result as any[];
+        const decryptedResults = await Promise.all(
+          rawResults.map(r => decryptExamResultRecord(r))
+        );
+        resolve(decryptedResults);
       };
       request.onerror = () => reject(request.error);
     });
@@ -292,7 +406,6 @@ export async function markResultAsSynced(id: number): Promise<void> {
 
 /**
  * Get IDs of questions correctly answered in the last X days
- * Used for spaced repetition filtering
  */
 export async function getCorrectlyAnsweredIds(withinDays: number = 30): Promise<Set<string>> {
   try {
@@ -306,8 +419,6 @@ export async function getCorrectlyAnsweredIds(withinDays: number = 30): Promise<
 
       request.onsuccess = () => {
         const results = request.result as AnsweredQuestionRecord[];
-
-        // Filter for correct answers within the time window
         const recentCorrect = results
           .filter(r => r.wasCorrect && r.answeredAt >= cutoff)
           .map(r => r.questionId);
@@ -324,10 +435,7 @@ export async function getCorrectlyAnsweredIds(withinDays: number = 30): Promise<
 }
 
 /**
- * 🆕 Get IDs of answered questions
- * @param withinDays -1 for all history, or number of days
- * @param onlyCorrect If true, only returns IDs of questions answered CORRECTLY (for exclusion).
- *                    If false (default), returns all attempted IDs.
+ * Get IDs of answered questions
  */
 export async function getAnsweredQuestionIds(withinDays: number = 7, onlyCorrect: boolean = false): Promise<Set<string>> {
   try {
@@ -402,16 +510,10 @@ export async function getAnsweredStats(): Promise<{
 // 🆕 PERMANENT QUESTION CACHE - Anti-Rotation System
 // ═══════════════════════════════════════════════════════════════════════════
 
-/**
- * Save questions to permanent local cache
- * This ensures even if API rotates, we keep the questions we've seen.
- */
 export async function saveKnownQuestions(questions: any[]): Promise<void> {
   if (!questions || questions.length === 0) return;
 
   try {
-    // Clean questions to remove Proxies or non-clonable data (Svelte state)
-    // Uses JSON.parse(JSON.stringify) for safe deep clone (sanitization)
     const cleanQuestions = JSON.parse(JSON.stringify(questions));
 
     const db = await openDB();
@@ -419,7 +521,6 @@ export async function saveKnownQuestions(questions: any[]): Promise<void> {
     const store = tx.objectStore('known_questions');
 
     cleanQuestions.forEach((q: any) => {
-      // Clean up question data if needed or store raw
       if (q && q.id) {
         store.put(q);
       }
@@ -430,7 +531,6 @@ export async function saveKnownQuestions(questions: any[]): Promise<void> {
         console.log(`💾 Persisted ${cleanQuestions.length} questions to permanent cache`);
         resolve();
       };
-      // Don't reject on error, just log (non-critical)
       tx.onerror = (e) => {
         console.warn('Failed to persist questions:', e);
         resolve();
@@ -441,9 +541,6 @@ export async function saveKnownQuestions(questions: any[]): Promise<void> {
   }
 }
 
-/**
- * Try to find a single question in the permanent cache
- */
 export async function getKnownQuestion(id: string): Promise<any | null> {
   try {
     const db = await openDB();
@@ -451,18 +548,14 @@ export async function getKnownQuestion(id: string): Promise<any | null> {
       const tx = db.transaction(['known_questions'], 'readonly');
       const store = tx.objectStore('known_questions');
 
-      // Try exact ID
       const request = store.get(id);
 
       request.onsuccess = () => {
         if (request.result) {
           resolve(request.result);
         } else {
-          // We iterate because IndexedDB doesn't have "contains" queries without iterating
           const cursorRequest = store.openCursor();
-
-          // Normalize ID for fuzzy match
-          const searchId = id.toLowerCase().replace(/-v\d+$/i, '').replace(/r$/, ''); // celular -> celula
+          const searchId = id.toLowerCase().replace(/-v\d+$/i, '').replace(/r$/, '');
 
           cursorRequest.onsuccess = (e: any) => {
             const cursor = e.target.result;
@@ -474,12 +567,12 @@ export async function getKnownQuestion(id: string): Promise<any | null> {
               if (qId === id.toLowerCase() ||
                   qId.includes(searchId) ||
                   bundleId.includes(searchId)) {
-                resolve(q); // Found match!
+                resolve(q);
                 return;
               }
               cursor.continue();
             } else {
-              resolve(null); // End of cursor, not found
+              resolve(null);
             }
           };
         }
@@ -493,10 +586,6 @@ export async function getKnownQuestion(id: string): Promise<any | null> {
   }
 }
 
-/**
- * 🆕 Get all cached English questions from IndexedDB
- * Used for cache-first loading strategy
- */
 export async function getCachedEnglishQuestions(): Promise<any[]> {
   try {
     const db = await openDB();
@@ -508,7 +597,6 @@ export async function getCachedEnglishQuestions(): Promise<any[]> {
       request.onsuccess = () => {
         const allQuestions = request.result || [];
 
-        // Filter only English questions
         const englishQuestions = allQuestions.filter((q: any) => {
           const category = (q.category || '').toLowerCase();
           const id = (q.id || '').toLowerCase();
@@ -537,21 +625,18 @@ export async function getCachedEnglishQuestions(): Promise<any[]> {
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
-// 🆕 PARTY SESSIONS - Local-First Architecture
+// 🆕 PARTY SESSIONS - Local-First Architecture (with E2E Encryption)
 // ═══════════════════════════════════════════════════════════════════════════
 
-/**
- * Save a new party session locally
- */
 export async function savePartySession(session: PartySessionRecord): Promise<void> {
   try {
     const db = await openDB();
     const tx = db.transaction([STORE_PARTY_SESSIONS], 'readwrite');
     const store = tx.objectStore(STORE_PARTY_SESSIONS);
 
-    // Sanitize to remove proxies
     const cleanSession = JSON.parse(JSON.stringify(session));
-    store.put(cleanSession);
+    const recordToSave = await encryptPartySessionRecord(cleanSession);
+    store.put(recordToSave);
 
     return new Promise((resolve, reject) => {
       tx.oncomplete = () => {
@@ -566,9 +651,6 @@ export async function savePartySession(session: PartySessionRecord): Promise<voi
   }
 }
 
-/**
- * Get a party session by sessionId
- */
 export async function getPartySession(sessionId: string): Promise<PartySessionRecord | null> {
   try {
     const db = await openDB();
@@ -577,7 +659,13 @@ export async function getPartySession(sessionId: string): Promise<PartySessionRe
       const store = tx.objectStore(STORE_PARTY_SESSIONS);
       const request = store.get(sessionId);
 
-      request.onsuccess = () => resolve(request.result || null);
+      request.onsuccess = async () => {
+        if (!request.result) {
+          resolve(null);
+        } else {
+          resolve(await decryptPartySessionRecord(request.result));
+        }
+      };
       request.onerror = () => reject(request.error);
     });
   } catch (err) {
@@ -586,9 +674,6 @@ export async function getPartySession(sessionId: string): Promise<PartySessionRe
   }
 }
 
-/**
- * Get all sessions for a party code
- */
 export async function getPartySessionsByCode(partyCode: string): Promise<PartySessionRecord[]> {
   try {
     const db = await openDB();
@@ -598,7 +683,13 @@ export async function getPartySessionsByCode(partyCode: string): Promise<PartySe
       const index = store.index('partyCode');
       const request = index.getAll(partyCode);
 
-      request.onsuccess = () => resolve(request.result || []);
+      request.onsuccess = async () => {
+        const raw = request.result || [];
+        const decrypted = await Promise.all(
+          raw.map(r => decryptPartySessionRecord(r))
+        );
+        resolve(decrypted);
+      };
       request.onerror = () => reject(request.error);
     });
   } catch (err) {
@@ -607,9 +698,6 @@ export async function getPartySessionsByCode(partyCode: string): Promise<PartySe
   }
 }
 
-/**
- * Update a party session (e.g., add answers, focus events)
- */
 export async function updatePartySession(
   sessionId: string,
   updates: Partial<PartySessionRecord>
@@ -632,9 +720,6 @@ export async function updatePartySession(
   }
 }
 
-/**
- * Get unsynced party sessions for batch upload
- */
 export async function getUnsyncedPartySessions(): Promise<PartySessionRecord[]> {
   try {
     const db = await openDB();
@@ -644,7 +729,13 @@ export async function getUnsyncedPartySessions(): Promise<PartySessionRecord[]> 
       const index = store.index('synced');
       const request = index.getAll(IDBKeyRange.only(false));
 
-      request.onsuccess = () => resolve(request.result || []);
+      request.onsuccess = async () => {
+        const raw = request.result || [];
+        const decrypted = await Promise.all(
+          raw.map(r => decryptPartySessionRecord(r))
+        );
+        resolve(decrypted);
+      };
       request.onerror = () => reject(request.error);
     });
   } catch (err) {
@@ -653,16 +744,10 @@ export async function getUnsyncedPartySessions(): Promise<PartySessionRecord[]> 
   }
 }
 
-/**
- * Mark a party session as synced
- */
 export async function markPartySessionSynced(sessionId: string): Promise<void> {
   await updatePartySession(sessionId, { synced: true });
 }
 
-/**
- * Save AI tier preference to IndexedDB (and sync with localStorage)
- */
 export async function saveAiTierPreference(tier: string): Promise<void> {
   try {
     if (typeof localStorage !== 'undefined') {
@@ -681,9 +766,6 @@ export async function saveAiTierPreference(tier: string): Promise<void> {
   }
 }
 
-/**
- * Retrieve AI tier preference from IndexedDB (or fallback to localStorage)
- */
 export async function getAiTierPreference(): Promise<string | null> {
   try {
     const db = await openDB();
@@ -716,23 +798,16 @@ export async function getAiTierPreference(): Promise<string | null> {
   }
 }
 
-/**
- * Safely serialize a question object for storage, stripping non-cloneable fields
- * and handling Svelte 5 proxies / circular references gracefully.
- */
 function safeSerializeQuestion(q: any): any {
   if (!q) return null;
   try {
-    // First try full JSON serialization
     const serialized = JSON.parse(JSON.stringify(q));
-    // Verify essential fields survived
     if (serialized && typeof serialized === 'object' && serialized.id && serialized.options) {
       return serialized;
     }
   } catch (e) {
     console.warn('Question serialization failed, extracting safe fields', e);
   }
-  // Fallback: extract only safe primitive fields
   const safe: any = {};
   const fields = ['id', 'text', 'statement', 'context', 'options', 'explanation',
                   'correctOptionId', 'difficulty', 'images', 'tags', 'bundleId',
@@ -740,7 +815,6 @@ function safeSerializeQuestion(q: any): any {
   for (const f of fields) {
     try { safe[f] = q[f]; } catch (e) { /* skip non-serializable */ }
   }
-  // Deep-clean options array
   if (safe.options && Array.isArray(safe.options)) {
     safe.options = safe.options.map((opt: any) => {
       try {
