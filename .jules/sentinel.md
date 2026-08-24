@@ -64,3 +64,8 @@
 **Vulnerability:** IP extraction in Supabase Edge Functions (`get-questions`, `get-questions-bulk`) and the Cloudflare API Gateway proxy trusted `x-forwarded-for` as a fallback when identifying client IP, making it vulnerable to spoofing.
 **Learning:** Never trust `x-forwarded-for` as a fallback when identifying client IP in Edge/Serverless environments unless the proxy topology is strictly validated.
 **Prevention:** Strictly rely on `cf-connecting-ip` (or the respective trusted provider header) and avoid sending or reading `x-forwarded-for`. Use a safe fallback like `'unknown'` when the trusted header is absent.
+
+## 2026-08-24 - [Fix DOM XSS Vulnerability in Insights Generation]
+**Vulnerability:** A DOM-based XSS vulnerability existed where the system rendered insights derived from `UserProfile` containing user-controlled topic names directly into Svelte's `{@html}` blocks without HTML escaping.
+**Learning:** Even when the data originates from seemingly benign offline calculation layers (e.g. `IndexedDB`), fields that mirror untrusted user data or parsed payloads must always be strictly escaped if rendered dynamically into `innerHTML` or `{@html}` blocks.
+**Prevention:** Ensured the shared `escapeHtml` utility from `saberparatodos/src/utils/escapeHtml.ts` is explicitly imported and used whenever interpolating strings dynamically prior to returning HTML strings that will be rendered raw in frontend templates.
