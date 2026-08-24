@@ -80,6 +80,8 @@ scratch/
 **/secrets/
 credentials.json
 
-# Exceptions to allow security scripts
+# Exceptions to allow security scripts and static txt files
 !scripts/pre-commit-secret-scan.sh
 !scripts/validate-secrets.sh
+!saberparatodos/public/robots.txt
+!robots.txt
