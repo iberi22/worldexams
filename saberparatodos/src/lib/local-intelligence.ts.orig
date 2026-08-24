@@ -1,4 +1,3 @@
-import { escapeHtml } from '../utils/escapeHtml';
 
 import { getAllLocalResults, type ExamResultRecord } from './idb-storage'; // Fix import path if needed (idb-storage is in same folder)
 import {
@@ -327,13 +326,13 @@ export function generateInsights(profile: UserProfile): string[] {
   const sortedSubjects = Object.values(profile.subjects).sort((a, b) => b.mmr - a.mmr);
   if (sortedSubjects.length > 0) {
     const best = sortedSubjects[0];
-    insights.push(`🌟 Tu fortaleza principal es <strong>${escapeHtml(best.name)}</strong> (Rating: ${Math.round(best.mmr)}).`);
+    insights.push(`🌟 Tu fortaleza principal es **${best.name}** (Rating: ${Math.round(best.mmr)}).`);
   }
 
   // 3. Weakest Subject
   if (sortedSubjects.length > 1) {
     const worst = sortedSubjects[sortedSubjects.length - 1];
-    insights.push(`📉 Enfócate en mejorar <strong>${escapeHtml(worst.name)}</strong>. Un refuerzo aquí subirá tu promedio rápidamente.`);
+    insights.push(`📉 Enfócate en mejorar **${worst.name}**. Un refuerzo aquí subirá tu promedio rápidamente.`);
   }
 
   // 4. Competency Gaps
@@ -343,7 +342,7 @@ export function generateInsights(profile: UserProfile): string[] {
 
   if (gaps.length > 0) {
     const gap = gaps[0];
-    insights.push(`⚠️ Se detectaron dificultades en la competencia: <strong>${escapeHtml(gap.name)}</strong>. Intenta ejercicios específicos de este tipo.`);
+    insights.push(`⚠️ Se detectaron dificultades en la competencia: **${gap.name}**. Intenta ejercicios específicos de este tipo.`);
   }
 
   // 5. Momentum
