@@ -35,6 +35,6 @@ $$ LANGUAGE plpgsql SECURITY DEFINER;
 GRANT EXECUTE ON FUNCTION cleanup_old_rate_limits() TO authenticated;
 
 COMMENT ON TABLE api_rate_limits IS 'Rate limiting for guest API requests (100 requests/hour per IP)';
-COMMENT ON COLUMN api_rate_limits.ip_address IS 'Client IP address (from x-forwarded-for or cf-connecting-ip)';
+COMMENT ON COLUMN api_rate_limits.ip_address IS 'Client IP address (from cf-connecting-ip)';
 COMMENT ON COLUMN api_rate_limits.request_count IS 'Number of requests in current hour window';
 COMMENT ON COLUMN api_rate_limits.last_reset IS 'Start of current hour window';

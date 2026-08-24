@@ -66,10 +66,24 @@
   }
 
   // Derived data
-  $: grades = [...new Set(questions.map(q => q.grade).filter(Boolean))].sort((a, b) => a - b);
-  $: rawSubjects = [...new Set(questions.map(q => q.category?.split(' > ')[0] || q.category?.split(' :: ')[0]).filter(Boolean))];
+  // ⚡ Bolt Optimization: Combine filtering and map into a single loop using reduce to avoid multiple iterations and intermediate arrays
+  $: derivedFilters = questions.reduce(
+    (acc, q) => {
+      if (q.grade) acc.gradeSet.add(q.grade);
+      if (q.category) {
+        const cat = q.category.split(' > ')[0] || q.category.split(' :: ')[0];
+        if (cat) acc.rawSubjSet.add(cat);
+      }
+      if (q.competencia) acc.compSet.add(q.competencia);
+      return acc;
+    },
+    { gradeSet: new Set<number>(), rawSubjSet: new Set<string>(), compSet: new Set<string>() }
+  );
+
+  $: grades = [...derivedFilters.gradeSet].sort((a, b) => a - b);
+  $: rawSubjects = [...derivedFilters.rawSubjSet];
   $: subjects = [...new Map(rawSubjects.map(s => [normalizeSubject(s), s])).values()];
-  $: competencias = [...new Set(questions.map(q => q.competencia).filter(Boolean))];
+  $: competencias = [...derivedFilters.compSet];
 
   // Normalize text for search (remove accents, lowercase)
   function normalizeText(text: string | number | undefined): string {

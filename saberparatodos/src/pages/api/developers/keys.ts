@@ -42,7 +42,6 @@ async function ensureDeveloperOrganization(session: Awaited<ReturnType<typeof re
     .insert({
       name: orgName,
       slug: orgSlug,
-      billing_email: email,
       owner_user_id: session.user.id,
     })
     .select('id')

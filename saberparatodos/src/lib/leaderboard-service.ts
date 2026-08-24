@@ -289,6 +289,12 @@ export async function submitScoreInput(input: ScoreSubmissionInput): Promise<boo
     timestamp: input.timestamp
   };
 
+  // If offline, queue score for batch sync without blocking
+  if (typeof navigator !== 'undefined' && navigator.onLine === false) {
+    console.log('Score stored locally while offline, queued for batch sync.');
+    return false;
+  }
+
   const edgeSuccess = await submitScoreToEdge(edgeSubmission);
   if (!edgeSuccess) {
     console.log('Score stored locally, pending sync. URL fallback:', getSubmissionUrl(input));

@@ -9,7 +9,15 @@ export default defineConfig({
   // Site configuration for standalone deployment
   site: import.meta.env.PUBLIC_SITE_URL || 'https://saberparatodos.space',
 
-  integrations: [svelte(), sitemap()],
+  integrations: [
+    svelte(),
+    sitemap({
+      filter: (page) =>
+        !page.includes('/tutor/') &&
+        !page.includes('/institucion/') &&
+        !page.includes('/api/'),
+    }),
+  ],
 
   // 🆕 Enable SSR for Cloudflare Workers
   output: 'server',

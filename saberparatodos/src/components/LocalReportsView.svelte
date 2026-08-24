@@ -145,13 +145,18 @@
     const areasToUse = weakAreas.length > 0
       ? weakAreas
       : Object.values(userProfile.subjects || {})
-          .filter(s => s.questionsAnswered > 0)
-          .map(s => ({
-            name: s.name,
-            seen: s.questionsAnswered,
-            correct: Math.round(s.accuracy * s.questionsAnswered),
-            mmr: s.mmr
-          }))
+          // ⚡ Bolt Optimization: Use a single-pass reduce to avoid intermediate array allocations and redundant iterations
+          .reduce((acc: any[], s: any) => {
+            if (s.questionsAnswered > 0) {
+              acc.push({
+                name: s.name,
+                seen: s.questionsAnswered,
+                correct: Math.round(s.accuracy * s.questionsAnswered),
+                mmr: s.mmr
+              });
+            }
+            return acc;
+          }, [])
           .sort((a, b) => (a.correct / a.seen) - (b.correct / b.seen))
           .slice(0, 5);
 
@@ -165,11 +170,16 @@
         accuracy: a.correct / a.seen || 0
       })),
       strongAreas: Object.entries(userProfile.subjects || {})
-        .filter(([_, s]) => (s.questionsAnswered > 0 && (s.accuracy >= 0.7)))
-        .map(([name, s]) => ({
-          name,
-          accuracy: s.accuracy
-        })),
+        // ⚡ Bolt Optimization: Combine filter and map into a single-pass reduce
+        .reduce((acc: any[], [name, s]: [string, any]) => {
+          if (s.questionsAnswered > 0 && s.accuracy >= 0.7) {
+            acc.push({
+              name,
+              accuracy: s.accuracy
+            });
+          }
+          return acc;
+        }, []),
       advancedMetrics: userProfile.advancedMetrics
     };
 
@@ -313,66 +323,71 @@
   // Weak areas for improvement plan - uses topics first, then competencies/subjects
   let weakAreas = $derived((() => {
     const profile = userProfile as UserProfile | null;
+    if (!profile) return [];
+
     // 🆕 Weighted Score Helper (Laplace Smoothing)
     const getWeightedScore = (correct: number, seen: number) => (correct + 1) / (seen + 2);
 
+    // ⚡ Bolt Optimization: Use single loop instead of chained reduce().sort().slice().map()
     // 🆕 Try granular topics first (Best for specific feedback)
-    if (profile?.topics) {
-      const topicAreas = Object.values(profile.topics)
-        .reduce((acc: any[], t: any) => {
-          if (t.seen >= 3) {
-            acc.push({
-              ...t,
-              weightedScore: getWeightedScore(t.correct, t.seen)
-            });
-          }
-          return acc;
-        }, [])
-        .sort((a, b) => a.weightedScore - b.weightedScore)
-        .slice(0, 5)
-        .map(t => ({
-          name: t.name,
-          seen: t.seen,
-          correct: t.correct,
-          mmr: 0
-        }));
-      if (topicAreas.length > 0) return topicAreas;
+    if (profile.topics) {
+      const topics = Object.values(profile.topics);
+      let validTopics = [];
+      for (let i = 0; i < topics.length; i++) {
+        const t: any = topics[i];
+        if (t.seen >= 3) {
+          validTopics.push({
+            name: t.name,
+            seen: t.seen,
+            correct: t.correct,
+            mmr: 0,
+            weightedScore: getWeightedScore(t.correct, t.seen)
+          });
+        }
+      }
+      if (validTopics.length > 0) {
+        return validTopics.sort((a, b) => a.weightedScore - b.weightedScore).slice(0, 5);
+      }
     }
 
     // Fallback to competencies
-    if (profile?.competencies) {
-      const compAreas = Object.values(profile.competencies)
-        .reduce((acc: any[], c: any) => {
-          if (c.seen >= 2) {
-            acc.push({
-              ...c,
-              weightedScore: getWeightedScore(c.correct, c.seen)
-            });
-          }
-          return acc;
-        }, [])
-        .sort((a, b) => a.weightedScore - b.weightedScore)
-        .slice(0, 3);
-      if (compAreas.length > 0) return compAreas;
+    if (profile.competencies) {
+      const comps = Object.values(profile.competencies);
+      let validComps = [];
+      for (let i = 0; i < comps.length; i++) {
+        const c: any = comps[i];
+        if (c.seen >= 2) {
+          validComps.push({
+            ...c,
+            weightedScore: getWeightedScore(c.correct, c.seen)
+          });
+        }
+      }
+      if (validComps.length > 0) {
+        return validComps.sort((a, b) => a.weightedScore - b.weightedScore).slice(0, 3);
+      }
     }
 
     // Fallback to subjects
-    if (profile?.subjects) {
-      return Object.values(profile.subjects)
-        .reduce((acc: any[], s: any) => {
-          if (s.questionsAnswered >= 1) {
-            acc.push({
-                name: s.name,
-                seen: s.questionsAnswered,
-                correct: Math.round(s.accuracy * s.questionsAnswered),
-                mmr: s.mmr,
-                weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
-            });
-          }
-          return acc;
-        }, [])
-        .sort((a, b) => a.weightedScore - b.weightedScore)
-        .slice(0, 3);
+    if (profile.subjects) {
+      const subjects = Object.values(profile.subjects);
+      let validSubjects = [];
+      for (let i = 0; i < subjects.length; i++) {
+        const s: any = subjects[i];
+        if (s.questionsAnswered >= 1) {
+          const correct = Math.round(s.accuracy * s.questionsAnswered);
+          validSubjects.push({
+              name: s.name,
+              seen: s.questionsAnswered,
+              correct,
+              mmr: s.mmr,
+              weightedScore: getWeightedScore(correct, s.questionsAnswered)
+          });
+        }
+      }
+      if (validSubjects.length > 0) {
+        return validSubjects.sort((a, b) => a.weightedScore - b.weightedScore).slice(0, 3);
+      }
     }
     return [];
   })());
@@ -402,35 +417,37 @@
   // 🆕 Reactive lists for UI with Weighted Scoring
   const getWeightedScore = (correct: number, seen: number) => (correct + 1) / (seen + 2);
 
-  // ⚡ Bolt Optimization: Combine derived state calculations using $derived.by() to avoid O(N log N) duplicate sorting passes
+  // ⚡ Bolt Optimization: Combine derived state calculations using single passes instead of chained mutable array methods to reduce allocations and iterations
   let { competencyStats, subjectStats, topStrengths, topWeaknesses } = $derived.by(() => {
-    const compStats = userProfile?.competencies
-      ? Object.values(userProfile.competencies)
-          .reduce((acc: any[], c: any) => {
-          if (c.seen > 0) {
-            acc.push({
-              ...c,
-              weightedScore: getWeightedScore(c.correct, c.seen)
-            });
-          }
-          return acc;
-        }, [])
-      : [];
+    const compStats: any[] = [];
+    if (userProfile?.competencies) {
+      const comps = Object.values(userProfile.competencies);
+      for (let i = 0; i < comps.length; i++) {
+        const c: any = comps[i];
+        if (c.seen > 0) {
+          compStats.push({
+            ...c,
+            weightedScore: getWeightedScore(c.correct, c.seen)
+          });
+        }
+      }
+    }
 
-    const subjStats = userProfile?.subjects
-      ? Object.values(userProfile.subjects)
-          .reduce((acc: any[], s: any) => {
-          if (s.questionsAnswered > 0) {
-            acc.push({
-              ...s,
-              correct: Math.round(s.accuracy * s.questionsAnswered),
-              seen: s.questionsAnswered,
-              weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
-            });
-          }
-          return acc;
-        }, [])
-      : [];
+    const subjStats: any[] = [];
+    if (userProfile?.subjects) {
+      const subjs = Object.values(userProfile.subjects);
+      for (let i = 0; i < subjs.length; i++) {
+        const s: any = subjs[i];
+        if (s.questionsAnswered > 0) {
+          subjStats.push({
+            ...s,
+            correct: Math.round(s.accuracy * s.questionsAnswered),
+            seen: s.questionsAnswered,
+            weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
+          });
+        }
+      }
+    }
 
     let strengths: any[] = [];
     let weaknesses: any[] = [];
@@ -456,13 +473,18 @@
   let seenCompetencies = $derived(competencyStats); // Keep for compatibility if used elsewhere
   let seenSubjects = $derived(subjectStats);
 
-  // ⚡ Bolt Optimization: Derive critical topics once instead of re-calculating/sorting inside markup blocks
+  // ⚡ Bolt Optimization: Replace filter().sort().slice() chain with a single pass filtering for critical topics
   let criticalTopicsDerived = $derived.by(() => {
     if (!userProfile?.topics) return [];
-    return Object.values(userProfile.topics)
-      .filter((t: any) => t.seen >= 3 && t.accuracy < 0.6)
-      .sort((a: any, b: any) => a.accuracy - b.accuracy)
-      .slice(0, 5);
+    const topics = Object.values(userProfile.topics);
+    let critical = [];
+    for (let i = 0; i < topics.length; i++) {
+      const t: any = topics[i];
+      if (t.seen >= 3 && t.accuracy < 0.6) {
+        critical.push(t);
+      }
+    }
+    return critical.sort((a: any, b: any) => a.accuracy - b.accuracy).slice(0, 5);
   });
 
   // Report Modal State
