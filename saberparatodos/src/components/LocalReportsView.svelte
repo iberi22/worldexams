@@ -145,13 +145,18 @@
     const areasToUse = weakAreas.length > 0
       ? weakAreas
       : Object.values(userProfile.subjects || {})
-          .filter(s => s.questionsAnswered > 0)
-          .map(s => ({
-            name: s.name,
-            seen: s.questionsAnswered,
-            correct: Math.round(s.accuracy * s.questionsAnswered),
-            mmr: s.mmr
-          }))
+          // ⚡ Bolt Optimization: Use a single-pass reduce to avoid intermediate array allocations and redundant iterations
+          .reduce((acc: any[], s: any) => {
+            if (s.questionsAnswered > 0) {
+              acc.push({
+                name: s.name,
+                seen: s.questionsAnswered,
+                correct: Math.round(s.accuracy * s.questionsAnswered),
+                mmr: s.mmr
+              });
+            }
+            return acc;
+          }, [])
           .sort((a, b) => (a.correct / a.seen) - (b.correct / b.seen))
           .slice(0, 5);
 
@@ -165,11 +170,16 @@
         accuracy: a.correct / a.seen || 0
       })),
       strongAreas: Object.entries(userProfile.subjects || {})
-        .filter(([_, s]) => (s.questionsAnswered > 0 && (s.accuracy >= 0.7)))
-        .map(([name, s]) => ({
-          name,
-          accuracy: s.accuracy
-        })),
+        // ⚡ Bolt Optimization: Combine filter and map into a single-pass reduce
+        .reduce((acc: any[], [name, s]: [string, any]) => {
+          if (s.questionsAnswered > 0 && s.accuracy >= 0.7) {
+            acc.push({
+              name,
+              accuracy: s.accuracy
+            });
+          }
+          return acc;
+        }, []),
       advancedMetrics: userProfile.advancedMetrics
     };
 
