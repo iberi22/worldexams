@@ -4,6 +4,7 @@
  */
 
 import { getUserProfile } from '../supabase';
+import { getCredits } from '../swal-credits';
 
 export type AiTier = 'chrome-nano' | 'webgpu' | 'ollama' | 'cloud' | 'none';
 
@@ -20,6 +21,7 @@ export interface DetectCapabilitiesOptions {
   fetchFn?: typeof fetch;
   ollamaUrl?: string;
   getProfileFn?: typeof getUserProfile;
+  getCreditsFn?: typeof getCredits;
   timeoutMs?: number;
 }
 
@@ -99,17 +101,29 @@ export async function checkOllama(
 }
 
 /**
- * Queries SWAL user profile to check if cloud credits are available.
+ * Queries SWAL local credits and user profile to check if cloud credits are available.
  */
 export async function checkCloudCredits(
-  getProfileFn: typeof getUserProfile = getUserProfile
+  getProfileFn: typeof getUserProfile = getUserProfile,
+  getCreditsFn: typeof getCredits = getCredits
 ): Promise<{ hasCloudCredits: boolean; credits: number }> {
   try {
-    const profile = await getProfileFn();
-    if (profile && typeof profile.credits === 'number' && profile.credits > 0) {
-      return { hasCloudCredits: true, credits: profile.credits };
+    const localCredits = await getCreditsFn().catch(() => 0);
+    let profileCredits = 0;
+    try {
+      const profile = await getProfileFn();
+      if (profile && typeof profile.credits === 'number') {
+        profileCredits = profile.credits;
+      }
+    } catch {
+      // Ignore profile lookup error
     }
-    return { hasCloudCredits: false, credits: profile?.credits ?? 0 };
+
+    const totalCredits = Math.max(localCredits, profileCredits);
+    return {
+      hasCloudCredits: totalCredits > 0,
+      credits: totalCredits,
+    };
   } catch {
     return { hasCloudCredits: false, credits: 0 };
   }
@@ -144,6 +158,7 @@ export async function detectDeviceCapabilities(
 ): Promise<DeviceCapabilityResult> {
   const fetchFn = options.fetchFn ?? (typeof fetch !== 'undefined' ? fetch : undefined);
   const getProfileFn = options.getProfileFn ?? getUserProfile;
+  const getCreditsFn = options.getCreditsFn ?? getCredits;
   const ollamaUrl = options.ollamaUrl ?? 'http://localhost:11434/api/tags';
   const timeoutMs = options.timeoutMs ?? 1000;
 
@@ -151,7 +166,7 @@ export async function detectDeviceCapabilities(
     checkWebGPU(),
     checkChromeNano(),
     fetchFn ? checkOllama(fetchFn, ollamaUrl, timeoutMs) : Promise.resolve(false),
-    checkCloudCredits(getProfileFn),
+    checkCloudCredits(getProfileFn, getCreditsFn),
   ]);
 
   const recommendedTier = determineRecommendedTier({
