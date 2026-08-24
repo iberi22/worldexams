@@ -1,0 +1,5 @@
+1.  **Optimize `LocalReportsView.svelte` State Derivation:**
+    - I've identified several `$derived` blocks inside `saberparatodos/src/components/LocalReportsView.svelte` that chain mutable/slow array methods like `.sort()` and `.slice()`. We can precalculate immutable variables in the scope to improve rendering performance. Specifically, `weakAreas` block can be improved by replacing `.sort()` on intermediate arrays with a cleaner process, but more importantly, `topStrengths`, `topWeaknesses` etc inside `compStats` can just use simple sorting logic. Wait, let me check the O(n^2) finding in `.filter().reduce()` from my script.
+    - Also, `criticalTopicsDerived` has `.filter(...).sort(...).slice()`.
+    - Let's check `ExamRoomResultsView.svelte`, which has `filter().reduce()` and `map().filter()`.
+    - Let's check `ResultsView.svelte`. It has `map().filter()`. I see `safeQuestions.map((q) => String(q.id)).filter(Boolean).slice(0, 40)`. This is a classic map-then-filter that creates intermediate arrays.
