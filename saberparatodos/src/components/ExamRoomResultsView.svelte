@@ -80,6 +80,9 @@
     ? Math.round(sessionStats.totalScore / uniqueSessions.length)
     : 0;
 
+  // ⚡ Bolt Optimization: Pre-sort sessions by score instead of mutating/sorting inline in template
+  $: sortedSessionsByScore = [...uniqueSessions].sort((a, b) => (b.score || 0) - (a.score || 0));
+
   onMount(async () => {
     try {
       const localSessions = await getPartySessionsByCode(partyCode);
@@ -190,7 +193,7 @@
       {:else if sessions.length === 0}
         <div class="text-center py-8 text-white/40">No hay sesiones registradas</div>
       {:else}
-        {#each uniqueSessions.sort((a, b) => (b.score || 0) - (a.score || 0)) as session, idx}
+        {#each sortedSessionsByScore as session, idx}
           {@const isMe = currentSession && session.sessionId === currentSession.sessionId}
           {#if session.userName !== 'Tú'}
             {@const displayName = session.userName || 'Anónimo'}

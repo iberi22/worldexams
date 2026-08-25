@@ -33,6 +33,9 @@
     if (pct >= 70) return 'text-amber-400';
     return 'text-red-400';
   }
+
+  // ⚡ Bolt Optimization: Pre-sort countries by bundles instead of sorting inline in template
+  $: sortedCountriesByBundles = [...countries].sort((a, b) => b.bundles - a.bundles);
 </script>
 
 <div class="overflow-x-auto rounded-2xl border border-white/10 bg-[#0e0f13]">
@@ -49,7 +52,7 @@
       </tr>
     </thead>
     <tbody>
-      {#each [...countries].sort((a, b) => b.bundles - a.bundles) as c (c.code)}
+      {#each sortedCountriesByBundles as c (c.code)}
         <tr class="border-b border-white/5 transition-colors hover:bg-white/5">
           <td class="px-4 py-3">
             <span class="mr-2">{c.flag}</span>
