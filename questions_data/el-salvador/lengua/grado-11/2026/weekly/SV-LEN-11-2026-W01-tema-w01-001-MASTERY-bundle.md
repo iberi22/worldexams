@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -19,7 +21,7 @@ creador: "Jules-Agent"
 
 # MASTERY Bundle — Lengua: Comunicación humana y elementos del proceso comunicativo (W01)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -45,7 +47,7 @@ El código es el conjunto de signos y reglas que permite formular y comprender e
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -71,7 +73,7 @@ El receptor es el sujeto destinatario que recibe y decodifica el mensaje lingü�
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -97,7 +99,7 @@ La bandera roja actúa como un código no lingüístico visual estandarizado par
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Pragmática
@@ -123,7 +125,7 @@ El uso de una variante compartida optimiza la comprensión y el flujo comunicati
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v5`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -149,7 +151,7 @@ Las barreras fisiológicas se originan en limitaciones de los órganos sensorial
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v6`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -175,7 +177,7 @@ Las barreras psicológicas provienen de actitudes, prejuicios o estados emociona
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v7`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -201,7 +203,7 @@ El ruido de canal es toda perturbación material que afecta la transmisión de l
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v8`
 **Bloom:** Analyze
 **EJE:** Pragmática
@@ -227,7 +229,7 @@ El referente es la realidad, objeto o concepto del mundo real al que alude el me
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v9`
 **Bloom:** Evaluate
 **EJE:** Pragmática
@@ -253,7 +255,7 @@ La kinésica se enfoca en el lenguaje corporal, incluyendo gestos, miradas y exp
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v10`
 **Bloom:** Analyze
 **EJE:** Pragmática
@@ -279,7 +281,7 @@ La retroalimentación permite cerrar el circuito de la comunicación asegurando 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -305,7 +307,7 @@ La proxémica aborda la estructuración del espacio interpersonal y cómo las di
 
 ---
 
-## Question 12 [D8]
+## Question 12 [D7-D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -331,7 +333,7 @@ La adecuación requiere ajustar el registro lingüístico (formal, informal) de 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -357,7 +359,7 @@ La codificación es la actividad del emisor consistente en dar forma física a s
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Pragmática
@@ -383,7 +385,7 @@ El signo lingüístico une de forma indisoluble un plano de expresión formal (s
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Pragmática
@@ -409,7 +411,7 @@ El cotexto o contexto lingüístico provee las pistas necesarias para desambigua
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v16`
 **Bloom:** Analyze
 **EJE:** Pragmática
@@ -435,7 +437,7 @@ Los sistemas automatizados de chat buscan agilizar la retroalimentación, convir
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -461,7 +463,7 @@ El éxito de la desinformación reside en su capacidad de copiar los códigos vi
 
 ---
 
-## Question 18 [D10]
+## Question 18 [D9-D10]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -487,7 +489,7 @@ La mutabilidad permite que los signos lingüísticos evolucionen y se adapten a 
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v19`
 **Bloom:** Evaluate
 **EJE:** Pragmática
@@ -513,7 +515,7 @@ La comunicación estética literaria se produce de manera diferida, requiriendo 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** `SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v20`
 **Bloom:** Analyze
 **EJE:** Pragmática

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -38,7 +40,7 @@ Una función es una relación que asocia a cada elemento del conjunto de partida
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -59,7 +61,7 @@ La variable independiente es la que se puede cambiar libremente (en este caso, l
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -80,7 +82,7 @@ En una función racional, el dominio está formado por todos los números reales
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -101,7 +103,7 @@ Las raíces de índice par requieren que el radicando sea mayor o igual a cero p
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -122,7 +124,7 @@ Una función es par si al evaluar en $-x$ se obtiene la misma expresión que en 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -143,7 +145,7 @@ Una función es impar si al cambiar $x$ por $-x$ obtenemos el opuesto de la func
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -164,7 +166,7 @@ Un modelo lineal tiene la forma $y = mx + b$, donde $m$ representa la tasa de va
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -185,7 +187,7 @@ El rango es el conjunto de valores reales que toma la variable dependiente $y$. 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -206,7 +208,7 @@ Para hallar la función inversa, despejamos la variable independiente $x$ en té
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -227,7 +229,7 @@ Las traslaciones horizontales se aplican restando el valor del desplazamiento de
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -248,7 +250,7 @@ La función logaritmo natural solo está definida para argumentos que sean estri
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -269,7 +271,7 @@ Al despejar la variable independiente de una función homográfica de la forma $
 
 ---
 
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -290,7 +292,7 @@ El dominio de la función requiere resolver la inecuación cuadrática $4 - x^2 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -311,7 +313,7 @@ En la composición de funciones, la función interna $g(x)$ se introduce como el
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -332,7 +334,7 @@ Para que una función sea continua en un punto, deben existir los límites later
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -353,7 +355,7 @@ Una transformación de la forma $g(x) = -f(x)$ invierte el signo de todas las co
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -374,7 +376,7 @@ El dominio de una composición $f(g(x))$ está formado por los elementos $x$ del
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -395,7 +397,7 @@ La composición de una función par con una función impar resulta en una funci�
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -416,7 +418,7 @@ Para que una función admita una función inversa, debe ser inyectiva (y biyecti
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
