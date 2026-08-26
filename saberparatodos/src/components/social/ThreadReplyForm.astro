@@ -1,0 +1,170 @@
+---
+/**
+ * WX-302 ThreadReplyForm.astro
+ * Formulario inline para responder a una explicación existente.
+ * POST a /api/replies { explanation_id, content, node_hash }  (capa 3)
+ */
+interface Props {
+  explanationId: string;
+  questionId?: string;
+  placeholder?: string;
+  nodeHash?: string;
+}
+
+const { explanationId, placeholder = 'Escribe tu respuesta, cita o amplía la explicación...', nodeHash = '' } = Astro.props as Props;
+const formId = `reply-form-${explanationId.slice(0,8)}-${Math.random().toString(36).slice(2,6)}`;
+---
+
+<form
+  id={formId}
+  class="thread-reply-form w-full space-y-3 p-4 rounded-xl bg-white/[0.03] border border-white/5"
+  data-thread-reply-form
+  data-explanation-id={explanationId}
+  data-testid="thread-reply-form"
+>
+  <label class="block text-[10px] font-bold uppercase tracking-widest text-white/40">
+    Responder a explicación
+    <span class="font-mono normal-case text-white/20 ml-1">{explanationId.slice(0,8)}…</span>
+  </label>
+
+  <textarea
+    name="content"
+    data-reply-textarea
+    rows="3"
+    maxlength="5000"
+    required
+    placeholder={placeholder}
+    class="w-full min-h-[88px] bg-black/40 border border-white/10 rounded-lg px-3 py-2.5 text-sm text-white placeholder-white/25 focus:border-emerald-500/40 focus:outline-none focus:ring-1 focus:ring-emerald-500/20 resize-y transition-colors"
+    aria-label="Contenido de la respuesta"
+  ></textarea>
+
+  <input type="hidden" name="explanation_id" value={explanationId} />
+  <!-- node_hash se inyecta vía JS si no viene por prop (edge-mesh local) -->
+  <input
+    type="hidden"
+    name="node_hash"
+    value={nodeHash}
+    data-node-hash-input
+  />
+
+  <div class="flex items-center justify-between gap-2">
+    <span class="text-[10px] text-white/30" data-char-count>0 / 5000</span>
+    <div class="flex items-center gap-2">
+      <span class="hidden text-xs px-2 py-1 rounded-full border text-[10px]" data-form-status role="status" aria-live="polite"></span>
+      <button
+        type="submit"
+        data-submit-btn
+        class="px-4 py-2 rounded-lg bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 text-[11px] font-bold uppercase tracking-widest border border-emerald-500/30 hover:border-emerald-500/40 transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
+      >
+        Enviar reply
+      </button>
+    </div>
+  </div>
+</form>
+
+<script>
+  const forms = Array.from(document.querySelectorAll('[data-thread-reply-form]')) as HTMLFormElement[];
+
+  forms.forEach((form) => {
+    const textarea = form.querySelector('[data-reply-textarea]') as HTMLTextAreaElement | null;
+    const charCount = form.querySelector('[data-char-count]') as HTMLElement | null;
+    const statusEl = form.querySelector('[data-form-status]') as HTMLElement | null;
+    const nodeHashInput = form.querySelector('[data-node-hash-input]') as HTMLInputElement | null;
+    const submitBtn = form.querySelector('[data-submit-btn]') as HTMLButtonElement | null;
+
+    // char count
+    const updateCount = () => {
+      if (textarea && charCount) charCount.textContent = `${textarea.value.length} / 5000`;
+    };
+    textarea?.addEventListener('input', updateCount);
+    updateCount();
+
+    // Citar event listener: inserta cita en textarea
+    const citeHandler = (e: Event) => {
+      const ce = e as CustomEvent<{ citeText?: string }>;
+      if (!textarea) return;
+      const citeText = ce.detail?.citeText ?? '';
+      if (!citeText) return;
+      // Only handle if this form is visible / closest
+      // For simplicity, fill any form that is currently focused or first
+      const active = document.activeElement as HTMLElement | null;
+      const isRelated = form.contains(active) || !document.querySelector('[data-thread-reply-form] textarea:focus');
+      if (!isRelated && document.querySelectorAll('[data-thread-reply-form]').length > 1) {
+        // if multiple forms, only fill the one in same comment section as event target container
+        // fallback: fill this form anyway if no focus
+      }
+      const start = textarea.selectionStart ?? textarea.value.length;
+      textarea.value = textarea.value.slice(0, start) + citeText + textarea.value.slice(start);
+      textarea.focus();
+      updateCount();
+    };
+    window.addEventListener('social:cite', citeHandler as EventListener);
+
+    // Resolve node_hash from localStorage / edge-mesh if empty
+    const resolveNodeHash = (): string => {
+      if (nodeHashInput?.value && nodeHashInput.value.trim()) return nodeHashInput.value.trim();
+      try {
+        const stored = localStorage.getItem('swal_node_hash') || localStorage.getItem('node_hash') || '';
+        if (stored) return stored;
+      } catch {}
+      // fallback anonymous deterministic
+      return 'anon-' + Math.random().toString(36).slice(2, 10);
+    };
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (!textarea) return;
+      const content = textarea.value.trim();
+      if (!content) {
+        if (statusEl) {
+          statusEl.textContent = 'Contenido vacío';
+          statusEl.className = 'text-xs px-2 py-1 rounded-full border text-[10px] bg-red-500/10 border-red-500/30 text-red-300';
+          statusEl.classList.remove('hidden');
+        }
+        return;
+      }
+      const explanation_id = (form.querySelector('input[name="explanation_id"]') as HTMLInputElement)?.value ?? form.dataset.explanationId ?? '';
+      const node_hash = resolveNodeHash();
+      if (nodeHashInput) nodeHashInput.value = node_hash;
+
+      if (submitBtn) submitBtn.disabled = true;
+      if (statusEl) {
+        statusEl.textContent = 'Enviando…';
+        statusEl.className = 'text-xs px-2 py-1 rounded-full border text-[10px] bg-white/5 border-white/10 text-white/50';
+        statusEl.classList.remove('hidden');
+      }
+
+      try {
+        const res = await fetch('/api/replies', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ explanation_id, content, node_hash }),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data?.error ?? `Error ${res.status}`);
+
+        if (statusEl) {
+          statusEl.textContent = 'Reply enviado ✓';
+          statusEl.className = 'text-xs px-2 py-1 rounded-full border text-[10px] bg-emerald-500/15 border-emerald-500/30 text-emerald-300';
+        }
+        textarea.value = '';
+        updateCount();
+        // dispatch success event for parent to reload threads
+        window.dispatchEvent(new CustomEvent('social:reply-created', { detail: { explanation_id, reply: data.reply ?? { content, node_hash } } }));
+        form.dispatchEvent(new CustomEvent('reply:created', { bubbles: true, detail: { explanation_id, reply: data.reply } }));
+        setTimeout(() => {
+          if (statusEl) statusEl.classList.add('hidden');
+        }, 3000);
+      } catch (err: unknown) {
+        const msg = err instanceof Error ? err.message : String(err);
+        if (statusEl) {
+          statusEl.textContent = msg.slice(0,80);
+          statusEl.className = 'text-xs px-2 py-1 rounded-full border text-[10px] bg-red-500/10 border-red-500/30 text-red-300';
+          statusEl.classList.remove('hidden');
+        }
+      } finally {
+        if (submitBtn) submitBtn.disabled = false;
+      }
+    });
+  });
+</script>
