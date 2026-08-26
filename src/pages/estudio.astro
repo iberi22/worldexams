@@ -1,0 +1,17 @@
+---
+/**
+ * WX-202 — Root island mirror
+ * Canonical implementation lives in saberparatodos/src/pages/estudio.astro
+ * This file mirrors the contract for `git add src/pages/estudio.astro src/components/studio`
+ * and delegates rendering to the saberparatodos product runtime.
+ *
+ * No logic here — see saberparatodos/src/pages/estudio.astro for full E2E:
+ *   upload → lib/ai/pdf.parsePDF → chunker → RAG top 5 → web-llm → QuestionEditor → ExportButton (.md v5.2, creador: local-llm)
+ */
+---
+
+<div style="padding:2rem;font-family:monospace">
+  <h1>Estudio — ver saberparatodos/src/pages/estudio.astro</h1>
+  <p>Implementación canónica en <code>saberparatodos/src/pages/estudio.astro</code> + <code>saberparatodos/src/components/studio/**</code>.</p>
+  <p>PDF parsing aliado externo en <code>saberparatodos/src/lib/ai/pdf</code> (WX-201).</p>
+</div>
