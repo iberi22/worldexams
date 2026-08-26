@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -23,7 +25,7 @@ This bundle focuses on discussing health, fitness, and lifestyle choices using t
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -44,7 +46,7 @@ Usamos el *Past Simple* (*ran*) para acciones completadas en un tiempo específi
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -66,7 +68,7 @@ Para preguntar sobre experiencias de vida en general usamos *Present Perfect* co
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Pragmática
@@ -87,7 +89,7 @@ La palabra *since* es un marcador clave del *Present Perfect*, ya que conecta el
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Lingüística
@@ -108,7 +110,7 @@ Diferenciamos entre un hábito terminado en el pasado (*went... three years ago*
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Lingüística
@@ -130,7 +132,7 @@ Diferenciamos entre un hábito terminado en el pasado (*went... three years ago*
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sociolingüística
@@ -151,7 +153,7 @@ El evento histórico del inicio de la Ciclovía se narra en *Past Simple*. El he
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Lingüística
@@ -172,7 +174,7 @@ El uso de *for* con el *Present Perfect* indica la duración de una acción o es
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Pragmática
@@ -195,7 +197,7 @@ Un error común en el nivel B2 es mezclar el *Present Perfect* con marcadores de
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Sociolingüística
@@ -216,7 +218,7 @@ Después de *since*, la cláusula suele ir en *Past Simple* para marcar el punto
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Lingüística
@@ -240,7 +242,7 @@ Para reportar hallazgos de estudios recientes que tienen validez actual, el *Pre
 
 ---
 
-## Question 11 [D10]
+## Question 11 [D9-D10]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Pragmática
@@ -262,7 +264,7 @@ El uso de *just* con el *Present Perfect* enfatiza que la acción se completó h
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Sociolingüística

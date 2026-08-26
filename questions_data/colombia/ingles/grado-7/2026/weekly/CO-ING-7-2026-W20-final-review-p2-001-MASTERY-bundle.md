@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This final review bundle for Period 2 covers the Past Simple of "to be", regular
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W20-final-review-p2-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -48,7 +50,7 @@ The student identifies the basic past conjugation of the verb "to be".
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W20-final-review-p2-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -73,7 +75,7 @@ The student distinguishes between regular and irregular verb categories.
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W20-final-review-p2-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -98,7 +100,7 @@ The student understands the chronological flow provided by sequence connectors.
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W20-final-review-p2-004-v1
 **Bloom:** Understand
 **ICFES:** Grammatical Knowledge
@@ -123,7 +125,7 @@ The student understands the difference between a completed past action and an ac
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W20-final-review-p2-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
@@ -148,7 +150,7 @@ The student applies the "interrupted action" rule using both Past Simple and Pas
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W20-final-review-p2-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -174,7 +176,7 @@ The student applies reading strategies to identify facts and outcomes in a past 
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W20-final-review-p2-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
@@ -199,7 +201,7 @@ The student applies the correct auxiliary and verb form for a past tense questio
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W20-final-review-p2-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -225,7 +227,7 @@ The student analyzes the relationship between two events using the "while" struc
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W20-final-review-p2-009-v1
 **Bloom:** Analyze
 **ICFES:** Lexico-grammatical Knowledge
@@ -250,7 +252,7 @@ The student analyzes and identifies the correct combination of past tenses and n
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W20-final-review-p2-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension
