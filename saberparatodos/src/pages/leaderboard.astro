@@ -1,3 +1,58 @@
 ---
-return Astro.redirect('/ranking', 308);
+/**
+ * /leaderboard — Red privada de NOTAS (D-103/D-104)
+ * Renderiza LeaderboardGlobal (hashes anonimos, mesh) + LeaderboardLocal (solo dispositivo)
+ * LeaderboardLocal es condicional por opt-in (BR-06) pero siempre muestra métricas locales privadas.
+ * Excluida de $SWAL/karma/telemetría.
+ */
+import Layout from '../layouts/Layout.astro';
+import LeaderboardGlobal from '../components/leaderboard/LeaderboardGlobal.astro';
+import LeaderboardLocal from '../components/leaderboard/LeaderboardLocal.astro';
+import { resolveRuntimeCountryConfig } from '../config';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
 ---
+
+<Layout
+  title={`Leaderboard — Red privada de notas | ${country.product.siteName}`}
+  description="Ranking anónimo global (solo hashes) + panel privado local. Red privada de notas sin tokens ni telemetría (BR-03/BR-04). Opt-in revocable BR-06."
+>
+  <div class="min-h-screen bg-[#121212]">
+    <div class="max-w-4xl mx-auto px-4 pt-6">
+      <a href="/" class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm mb-4">
+        ← Volver al inicio
+      </a>
+      <h1 class="text-3xl sm:text-4xl font-bold text-[#F5F5DC] tracking-tight">Leaderboard</h1>
+      <p class="text-sm text-white/60 mt-2">
+        Red privada de notas — <strong class="text-white/80">ranking anónimo global</strong> (solo hashes) y
+        <strong class="text-white/80">panel privado local</strong> (solo en tu dispositivo).
+      </p>
+      <div class="mt-3 flex flex-wrap gap-2 text-[10px]">
+        <span class="px-3 py-1 bg-emerald-500/10 border border-emerald-500/30 rounded-full text-emerald-400 font-mono">BR-03 sin $SWAL</span>
+        <span class="px-3 py-1 bg-blue-500/10 border border-blue-500/30 rounded-full text-blue-400 font-mono">BR-04 sin telemetría</span>
+        <span class="px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-amber-300 font-mono">BR-06 opt-in revocable</span>
+        <span class="px-3 py-1 bg-white/5 border border-white/10 rounded-full text-white/40 font-mono">Payload: node_hash + subject + week + score + avg</span>
+      </div>
+      <p class="text-[10px] text-white/30 mt-2">
+        Nombre/puesto/métricas detalladas visibles SOLO en tu dispositivo. Sin ancla de identidad en Supabase (solo agregados).
+      </p>
+    </div>
+
+    <div class="py-6 space-y-6">
+      <LeaderboardGlobal />
+      <LeaderboardLocal />
+    </div>
+
+    <!-- Nota de privacidad persistente -->
+    <div class="max-w-4xl mx-auto px-4 pb-10">
+      <div class="p-4 bg-white/5 border border-white/10 rounded-xl">
+        <p class="text-xs font-bold text-white/70">Privacidad de menores</p>
+        <p class="text-xs text-white/50 mt-1">
+          Al instalar la PWA y activar el opt-in, solo se comparten notas y promedios anónimos
+          (<code class="font-mono bg-white/10 px-1 py-0.5 rounded">node_hash · subject · week · score · avg</code>)
+          con la red privada de worldexams. Puedes revocar en cualquier momento: se borran los agregados compartidos y se envía señal de revocación a la mesh.
+        </p>
+      </div>
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,271 @@
+---
+/**
+ * LeaderboardLocal.astro — Panel privado SOLO local (en el dispositivo)
+ * Muestra nombre del propio nodo (customizable), subjects, rank local, score promedio.
+ * Datos de IndexedDB local + opt-in consent (BR-06).
+ *
+ * Privacidad:
+ * - Nombre/puesto/métricas detalladas visibles SOLO aquí, nunca en mesh global.
+ * - Si opt-in = false, no se comparte nada; el panel muestra estado offline local.
+ */
+---
+
+<div id="wx-leaderboard-local" class="w-full max-w-4xl mx-auto p-4">
+  <div class="border border-white/10 rounded-xl bg-[#1a1a2e]/60 backdrop-blur p-4 sm:p-5">
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
+      <div>
+        <h3 class="text-base font-bold text-[#F5F5DC] flex items-center gap-2">
+          🔐 Tu Panel Privado
+          <span class="text-[10px] px-2 py-0.5 rounded-full bg-white/5 border border-white/10 text-white/40 font-mono">SOLO local</span>
+        </h3>
+        <p class="text-xs text-white/50 mt-1">
+          Nombre, puesto y métricas visibles solo en este dispositivo. Con opt-in se comparten ANÓNIMOS
+          <code class="font-mono bg-white/5 px-1 rounded">node_hash + subject + week + score + avg</code>.
+        </p>
+      </div>
+      <div id="wx-local-optin-badge" class="shrink-0"></div>
+    </div>
+
+    <!-- Opt-in gate -->
+    <div id="wx-local-gate" class="hidden">
+      <div class="p-4 rounded-lg bg-amber-500/10 border border-amber-500/30">
+        <p class="text-sm font-bold text-amber-300">Opt-in requerido para red privada</p>
+        <p class="text-xs text-white/60 mt-1">
+          Por protección de menores, tus notas solo se comparten de forma anónima si activas el opt-in y tienes la PWA instalada.
+          Sin opt-in puedes seguir practicando: tus métricas quedan solo aquí.
+        </p>
+        <div class="mt-3 flex flex-wrap gap-2">
+          <button
+            id="wx-local-optin-btn"
+            class="px-4 py-2 bg-emerald-500/20 border border-emerald-500/30 text-emerald-300 rounded-lg text-xs font-bold hover:bg-emerald-500/30"
+          >
+            Activar opt-in (compartir anónimo)
+          </button>
+          <span class="text-[10px] text-white/30 self-center">Revocable en cualquier momento (BR-06)</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Private content (visible siempre, pero marca opt-in) -->
+    <div id="wx-local-content" class="space-y-4">
+      <!-- Node name editor -->
+      <div class="flex flex-col sm:flex-row gap-3 items-start sm:items-end">
+        <div class="flex-1 w-full">
+          <label for="wx-node-name" class="block text-[10px] uppercase tracking-widest text-white/40 mb-1"
+            >Nombre del nodo (solo local, customizable)</label
+          >
+          <input
+            id="wx-node-name"
+            type="text"
+            maxlength="32"
+            placeholder="Ej: Nodo-Andes-11"
+            class="w-full px-3 py-2 bg-white/5 border border-white/10 rounded-lg text-sm text-white placeholder:text-white/30 focus:outline-none focus:border-emerald-500/50"
+          />
+        </div>
+        <button
+          id="wx-node-save"
+          class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg text-xs text-white/70 hover:bg-white/10 hover:text-white shrink-0"
+        >
+          Guardar nombre
+        </button>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+        <div class="p-3 bg-white/5 border border-white/10 rounded-lg text-center">
+          <p id="wx-local-avg" class="text-2xl font-bold text-[#F5F5DC]">—</p>
+          <p class="text-[10px] uppercase tracking-widest text-white/40">Promedio</p>
+        </div>
+        <div class="p-3 bg-white/5 border border-white/10 rounded-lg text-center">
+          <p id="wx-local-rank" class="text-2xl font-bold text-emerald-400">—</p>
+          <p class="text-[10px] uppercase tracking-widest text-white/40">Rank local</p>
+        </div>
+        <div class="p-3 bg-white/5 border border-white/10 rounded-lg text-center">
+          <p id="wx-local-exams" class="text-2xl font-bold text-blue-400">—</p>
+          <p class="text-[10px] uppercase tracking-widest text-white/40">Exámenes</p>
+        </div>
+        <div class="p-3 bg-white/5 border border-white/10 rounded-lg text-center">
+          <p id="wx-local-subjects" class="text-2xl font-bold text-yellow-400">—</p>
+          <p class="text-[10px] uppercase tracking-widest text-white/40">Materias</p>
+        </div>
+      </div>
+
+      <div>
+        <h4 class="text-xs uppercase tracking-widest text-white/40 mb-2">Por materia (local)</h4>
+        <div id="wx-local-by-subject" class="space-y-2">
+          <p class="text-xs text-white/30">Sin exámenes locales aún.</p>
+        </div>
+      </div>
+
+      <div class="flex flex-wrap gap-2 pt-2 border-t border-white/5">
+        <button
+          id="wx-local-revoke"
+          class="px-3 py-1.5 bg-red-500/10 border border-red-500/30 text-red-300 rounded-lg text-xs hover:bg-red-500/20"
+        >
+          Revocar opt-in y borrar compartidos (BR-06)
+        </button>
+        <button
+          id="wx-local-clear"
+          class="px-3 py-1.5 bg-white/5 border border-white/10 text-white/50 rounded-lg text-xs hover:bg-white/10"
+        >
+          Limpiar nombre local
+        </button>
+      </div>
+
+      <p class="text-[10px] text-white/30">
+        Datos IndexedDB: <code class="font-mono">exam_results</code> · Sin ancla de identidad en Supabase (solo agregados anonimizados).
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+  import { getAllLocalResults } from '../../lib/idb-storage';
+  import { getOptIn, setOptIn, revokeOptIn, getLocalNodeName, setLocalNodeName } from './OptInManager';
+
+  const gate = document.getElementById('wx-local-gate');
+  const content = document.getElementById('wx-local-content');
+  const badge = document.getElementById('wx-local-optin-badge');
+  const optinBtn = document.getElementById('wx-local-optin-btn') as HTMLButtonElement | null;
+  const revokeBtn = document.getElementById('wx-local-revoke') as HTMLButtonElement | null;
+  const clearBtn = document.getElementById('wx-local-clear') as HTMLButtonElement | null;
+  const nameInput = document.getElementById('wx-node-name') as HTMLInputElement | null;
+  const saveBtn = document.getElementById('wx-node-save') as HTMLButtonElement | null;
+
+  const avgEl = document.getElementById('wx-local-avg');
+  const rankEl = document.getElementById('wx-local-rank');
+  const examsEl = document.getElementById('wx-local-exams');
+  const subjectsEl = document.getElementById('wx-local-subjects');
+  const bySubjectEl = document.getElementById('wx-local-by-subject');
+
+  function renderOptInBadge() {
+    if (!badge) return;
+    const opted = getOptIn();
+    badge.innerHTML = opted
+      ? `<span class="px-2.5 py-1 rounded-full text-[10px] font-mono border bg-emerald-500/10 border-emerald-500/30 text-emerald-400">✓ Opt-in activo</span>`
+      : `<span class="px-2.5 py-1 rounded-full text-[10px] font-mono border bg-amber-500/10 border-amber-500/30 text-amber-300">○ Sin opt-in</span>`;
+
+    if (gate) {
+      if (!opted) gate.classList.remove('hidden');
+      else gate.classList.add('hidden');
+    }
+  }
+
+  function renderNodeName() {
+    if (!nameInput) return;
+    const local = getLocalNodeName();
+    nameInput.value = local || '';
+  }
+
+  async function loadLocalStats() {
+    if (!avgEl || !rankEl || !examsEl || !subjectsEl || !bySubjectEl) return;
+
+    try {
+      const results = await getAllLocalResults();
+      if (!results || results.length === 0) {
+        avgEl.textContent = '—';
+        rankEl.textContent = '—';
+        examsEl.textContent = '0';
+        subjectsEl.textContent = '0';
+        bySubjectEl.innerHTML = `<p class="text-xs text-white/30">Sin exámenes locales aún. Completa un examen para ver tu promedio y rank local.</p>`;
+        return;
+      }
+
+      const totalExams = results.length;
+      const totalScore = results.reduce((acc, r) => acc + (Number(r.score) || 0), 0);
+      const avg = totalExams ? totalScore / totalExams : 0;
+
+      // Agrupar por materia
+      const bySubject: Record<string, { count: number; total: number; correct: number }> = {};
+      for (const r of results) {
+        const subj = String(r.subject || 'general');
+        if (!bySubject[subj]) bySubject[subj] = { count: 0, total: 0, correct: 0 };
+        bySubject[subj].count += 1;
+        bySubject[subj].total += Number(r.totalQuestions || 0);
+        bySubject[subj].correct += Number(r.correctCount || 0);
+      }
+      const subjects = Object.keys(bySubject);
+
+      // Rank local simple: posición por avg entre tus propios exámenes (1 si tienes avg alto)
+      // Más útil: rank 1 si avg >=80, 2 si >=60, etc. Pero mostramos puesto local simbólico.
+      let localRankLabel = '—';
+      if (avg >= 90) localRankLabel = '#1';
+      else if (avg >= 75) localRankLabel = '#2';
+      else if (avg >= 60) localRankLabel = '#5';
+      else localRankLabel = `#${Math.min(totalExams, 50)}`;
+
+      avgEl.textContent = `${avg.toFixed(1)}`;
+      rankEl.textContent = localRankLabel;
+      examsEl.textContent = String(totalExams);
+      subjectsEl.textContent = String(subjects.length);
+
+      bySubjectEl.innerHTML = subjects
+        .map((subj) => {
+          const s = bySubject[subj];
+          const subjAvg = s.count ? (s.correct / Math.max(1, s.total)) * 100 : 0;
+          // Alternativa: promedio de score por materia
+          const scoresForSubj = results.filter((r) => String(r.subject || 'general') === subj);
+          const avgSubjScore = scoresForSubj.reduce((a, r) => a + Number(r.score || 0), 0) / Math.max(1, scoresForSubj.length);
+          return `
+            <div class="flex items-center justify-between p-2.5 bg-white/5 border border-white/10 rounded-lg">
+              <span class="text-sm text-white/80 capitalize">${escapeHtml(subj)}</span>
+              <span class="text-xs font-mono text-white/50">${s.count} exámenes</span>
+              <span class="text-sm font-bold text-[#F5F5DC]">${avgSubjScore.toFixed(1)} avg</span>
+              <span class="text-[10px] px-2 py-1 rounded bg-white/5 border border-white/10 text-white/40">${subjAvg.toFixed(0)}% aciertos</span>
+            </div>
+          `;
+        })
+        .join('');
+    } catch (e) {
+      console.warn('[LeaderboardLocal] failed to load IndexedDB', e);
+      if (bySubjectEl) bySubjectEl.innerHTML = `<p class="text-xs text-red-400">Error leyendo datos locales (IndexedDB).</p>`;
+    }
+  }
+
+  function escapeHtml(s: string): string {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  optinBtn?.addEventListener('click', () => {
+    setOptIn(true);
+    renderOptInBadge();
+  });
+
+  saveBtn?.addEventListener('click', () => {
+    if (!nameInput) return;
+    setLocalNodeName(nameInput.value);
+    renderNodeName();
+    saveBtn.textContent = '¡Guardado!';
+    setTimeout(() => (saveBtn.textContent = 'Guardar nombre'), 1200);
+  });
+
+  clearBtn?.addEventListener('click', () => {
+    setLocalNodeName('');
+    renderNodeName();
+  });
+
+  revokeBtn?.addEventListener('click', () => {
+    const had = revokeOptIn();
+    renderOptInBadge();
+    renderNodeName();
+    // Limpiar UI agregados compartidos también refresca global
+    window.dispatchEvent(new CustomEvent('wx:mesh:revoke'));
+    loadLocalStats();
+    revokeBtn.textContent = had ? 'Revocado ✓' : 'Sin opt-in';
+    setTimeout(() => (revokeBtn.textContent = 'Revocar opt-in y borrar compartidos (BR-06)'), 1500);
+  });
+
+  // Listeners externos
+  window.addEventListener('wx:optin:granted', () => { renderOptInBadge(); });
+  window.addEventListener('wx:optin:revoked', () => { renderOptInBadge(); loadLocalStats(); });
+  window.addEventListener('storage', (e) => {
+    if (e.key === 'wx-opt-in') renderOptInBadge();
+  });
+
+  // Init
+  renderOptInBadge();
+  renderNodeName();
+  loadLocalStats();
+
+  // Exponer para tests
+  (window as any).__wxLeaderboardLocal = { loadLocalStats, renderOptInBadge, renderNodeName };
+</script>
