@@ -1,17 +1,24 @@
 {
   "project": "worldexams",
-  "path": "E:\\proyectosSWAL\\worldexams",
-  "generated_at": "2026-07-28T00:00:00.0000000-05:00",
+  "path": "/home/belal/proyectosSWAL/apps/worldexams",
+  "generated_at": "2026-08-26T03:45:00-05:00",
   "protocol_version": "3.8.0",
-  "overall_pct": 82.2,
+  "overall_pct": 77.7,
+  "overall_pct_simple": 75.4,
   "breakdown": {
-    "protocol_pct": 100,
-    "src_pct": 100.0,
-    "srs_pct": 80,
-    "features_pct": 60.5,
-    "features_count": 26,
-    "features_source": "average progress_pct (features.json v3.0, canonical)",
-    "swal_compliance": 100
+    "protocol_pct": 95,
+    "protocol_detail": "GitCore 3.8: AGENTS.md OK, .gitcore/* completo, workflows en .github/workflows.disabled/, private era OK. -5 por 1 bundle inválido (CO-MAT-11-W01) y docs/SWAL/ aún en creación (esta guía).",
+    "src_pct": 90,
+    "src_detail": "SRC.md existe (260 líneas) y refleja apps/worldexams-api, saberparatodos, questions_data, skills, scripts. -10 por tests NEEDS MAINTENANCE (vitest/playwright rotos local per SRC 2026-07-28) y SRC desactualizado (2026-07-28).",
+    "srs_pct": 88,
+    "srs_detail": "SRS completo: REQUIREMENTS.md 13 REQ (REQ-001..013 + REQ-008..013 nuevos), ARCHITECTURE.md, DATABASE.md, INTERFACES.md, NON-FUNCTIONAL.md, GLOSSARY.md, index.md. -12 por REQ-008..013 en draft/pending y DECISIONS fuera de SRS canon.",
+    "features_pct": 54.5,
+    "features_pct_simple": 48.0,
+    "features_count": 14,
+    "features_source": "weighted avg P0*3 P1*2 P2*1 =54.5% (1906/35); simple avg 48.0% (672/14). Ver .gitcore/features.json v2 metadata audit_date 2026-08-26",
+    "features_formula": "weighted = sum(progress*weight)/sum(weight); weights P0=3 P1=2 P2=1",
+    "swal_compliance": 85,
+    "swal_detail": "Pro=nodo SWAL activo (saberparatodos/src/lib/swal-pro-heartbeat.ts, swal-instance-id.ts, p2p-edge-mesh.ts), Xavier namespace app/worldexams/instance/{id}, mesh namespace swal/worldexams/{id}, createAiCore stub (saberparatodos/src/lib/ai/ai-core-client.ts) + /ajustes/ia. -15 por edge-mesh stub (no real Xavier online) y red privada worldexams aún planned (WX-204/205)."
   },
   "weights": {
     "protocol": 0.2,
@@ -20,14 +27,36 @@
     "features": 0.35,
     "swal": 0.1
   },
+  "calculation": "overall 77.7 = 0.2*95 +0.15*90 +0.2*88 +0.35*54.5 +0.1*85 =19+13.5+17.6+19.075+8.5",
+  "calculation_simple": "overall_simple 75.4 = 0.2*95 +0.15*90 +0.2*88 +0.35*48 +0.1*85",
+  "previous_score": {
+    "overall_pct": 82.2,
+    "generated_at": "2026-07-28T00:00:00.0000000-05:00",
+    "features_pct": 60.5,
+    "features_count": 26,
+    "note": "Desactualizado: 26 features vs 14 actuales, 60.5% avg previo a D-101..D-105. Honestidad > inflar: al incorporar 6 features planned en 0% y corregir 4 inflados, score baja 82.2→77.7."
+  },
   "gaps": [
-    "tests-broken",
-    "cors-open",
-    "security-221-deferred",
-    "ai-core-stubs",
-    "country-readiness-0-of-20",
-    "srs-baseline-req-missing"
+    "tests-broken (20% feat-tests, vitest/playwright not green, Issue #408)",
+    "security-221-partial (code PRs #961/#964 done 90%, history rewrite pending coordination per SECURITY_221_PREP.md)",
+    "ai-core-stubs (exam-generator + ai-core-client stubs present but PDF ingestion WX-201/202 missing)",
+    "country-readiness-3-of-20 (CO 227% SV 115% CL 100% ready, 17 países gap; MX 75% BR 31% etc. ver audit:country-readiness)",
+    "1-invalid-bundle (CO-MAT-11-W01-numeros-reales Missing YAML frontmatter blocks 100%)",
+    "private-grade-network-planned (0% in this repo, base en apps/xavier)",
+    "srs-req-008..013-draft (REQ nuevos en draft, pending WX-204..206)"
   ],
-  "grade": "B",
-  "updated": "2026-07-28"
+  "closed_gaps": [
+    "cors-open FIXED (ALLOWED_ORIGINS restringido en apps/worldexams-api/src/index.ts corsHeadersFor, ya no *)"
+  ],
+  "grade": "C+",
+  "updated": "2026-08-26",
+  "audit_date": "2026-08-26",
+  "auditor": "WX-105 (isla .gitcore/docs/SWAL)",
+  "verification": {
+    "validate": "npm run validate  => 1373 bundles, Failures:1",
+    "audit": "npm run audit:country-readiness => 3/20 ready, 23808 published_validated_q, gap 19032",
+    "verify_pipeline": "bash .gitcore/scripts/verify-pipeline.sh => 14/14 PASS",
+    "cors": "grep ALLOWED_ORIGINS apps/worldexams-api/src/index.ts => saberparatodos.space, worldexams.com restricted",
+    "security": "npm test (validate-secrets.sh) => ✅ All checks passed; PRs #961 #964 merged"
+  }
 }
