@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "NAP Argentina / Aprender 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Ecosistemas
@@ -42,7 +44,7 @@ Un ecosistema está formado por la interacción entre los seres vivos (biocenosi
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Ecosistemas
@@ -67,7 +69,7 @@ En ecología, el nivel de "población" se limita a individuos de una sola especi
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Ecosistemas
@@ -92,7 +94,7 @@ En casi todos los ecosistemas, los productores son el primer eslabón. En el mar
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Ecosistemas
@@ -117,7 +119,7 @@ La competencia interespecífica es una relación donde ambas especies se ven per
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Ecosistemas
@@ -142,7 +144,7 @@ El mutualismo es una interacción biológica en la que ambos individuos obtienen
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Ecosistemas
@@ -167,7 +169,7 @@ La sucesión ecológica es el proceso de colonización y cambio de un área por 
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Ecosistemas
@@ -192,7 +194,7 @@ Las especies invasoras rompen el equilibrio del ecosistema. Al carecer de enemig
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Ecosistemas
@@ -217,7 +219,7 @@ En los ecosistemas áridos como el Monte, el agua es el recurso crítico. Los se
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **EJE:** Ecosistemas
@@ -242,7 +244,7 @@ Los humedales son ecosistemas clave. Al destruirlos, perdemos su capacidad de ab
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **EJE:** Ecosistemas

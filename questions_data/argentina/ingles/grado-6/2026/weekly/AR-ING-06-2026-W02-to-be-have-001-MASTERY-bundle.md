@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -60,7 +62,7 @@ Para formar el negativo del verbo "to be", se añade "not" inmediatamente despu�
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-003`
 **Bloom:** Apply
@@ -82,7 +84,7 @@ Se utiliza "is" para describir profesiones o características de una tercera per
 
 ---
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-004`
 **Bloom:** Analyze
@@ -126,7 +128,7 @@ Las contracciones son comunes en el habla cotidiana. "They're" une el sujeto "th
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-006`
 **Bloom:** Understand
@@ -148,7 +150,7 @@ Para hacer preguntas de posesión con "got", el verbo auxiliar "have" debe conco
 
 ---
 
-## Question 7 [D5-D6]
+## Question 7 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-007`
 **Bloom:** Apply
@@ -170,7 +172,7 @@ Para describir rasgos físicos (como el cabello) de una tercera persona, se util
 
 ---
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W02-to-be-have-008`
 **Bloom:** Analyze
