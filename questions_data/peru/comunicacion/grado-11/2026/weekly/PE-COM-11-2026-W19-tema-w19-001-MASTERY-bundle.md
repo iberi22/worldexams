@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Literatura
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 Julio Ramón Ribeyro consolidó el realismo urbano de la Generación del 50 en el Perú. Su narrativa es escéptica y de corte clásico, centrada en los "mudos" sociales (personajes sin voz oficial que son derrotados por un entorno burocrático y hostil).
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Literatura
@@ -68,7 +70,7 @@ Julio Ramón Ribeyro consolidó el realismo urbano de la Generación del 50 en e
 El Colegio Militar Leoncio Prado del Callao es el microcosmos donde Vargas Llosa disecciona las tensiones raciales, sociales y geográficas del Perú de mediados del siglo XX. La violencia de los cadetes (representada por el grupo "El Círculo") actúa como un espejo de la violencia del Perú real.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Literatura
@@ -93,7 +95,7 @@ El Colegio Militar Leoncio Prado del Callao es el microcosmos donde Vargas Llosa
 *Los gallinazos sin plumas* es una obra cumbre del neorrealismo urbano peruano. Al asimilar el basurero como el hogar y sustento de los marginados, Ribeyro expone la marginación social de las oleadas de migrantes andinos que colonizaron los arenales de Lima.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Literatura
@@ -118,7 +120,7 @@ El Colegio Militar Leoncio Prado del Callao es el microcosmos donde Vargas Llosa
 Vargas Llosa utiliza *Conversación en La Catedral* como un bisturí social. Al indagar sobre la decadencia moral del país ("jodido el Perú"), la novela analiza de qué manera las dictaduras militares (en este caso, el Ochenio de Odría) pervierten no solo la economía del Estado, sino que pudren de forma irreversible las relaciones familiares, íntimas y de amistad de los ciudadanos.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Literatura
@@ -143,7 +145,7 @@ Vargas Llosa utiliza *Conversación en La Catedral* como un bisturí social. Al 
 La técnica de los vasos comunicantes es una de las grandes firmas de Vargas Llosa. El autor demuestra que el tiempo en la novela no es un río lineal homogéneo, sino un espacio maleable y subjetivo donde las heridas del pasado irrumpen de forma simultánea en la conciencia moral del protagonista en su presente de frustración.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Literatura
@@ -167,7 +169,7 @@ En *Al pie del acantilado*, un padre y sus hijos son expulsados sistemáticament
 La Generación del 50 documentó de forma literaria la migración andina masiva y la tugurización. Ribeyro, ajeno al optimismo de las consignas partidarias, plasmó el destino de estos colonizadores de dunas como una dolorosa batalla cotidiana marcada por la frustración final de sus sueños de prosperidad civil.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Literatura
@@ -192,7 +194,7 @@ Si un docente de comunicación desea aplicar este cuento en quinto de secundaria
 La literatura actúa como un laboratorio de ética cívica. El cuento *Alienación* de Ribeyro permite reflexionar sobre la dolorosa paradoja del sujeto colonizado mentalmente, cuyo desprecio por sus propias raíces andinas u orgánicas lo empuja a asimilar de forma caricaturesca los códigos culturales de un poder lejano que de fondo lo sigue excluyendo.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Literatura
@@ -217,7 +219,7 @@ Si un alumno desea fundamentar un ensayo sobre los riesgos de las dictaduras con
 La aplicación de la novela histórica contemporánea al debate cívico exige que el alumno comprenda que el autoritarismo es un fenómeno ético-psicológico sistémico. La tiranía carcome las libertades individuales y pervierte las instituciones democráticas que sostienen el estado de derecho.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Literatura
@@ -241,7 +243,7 @@ Si el estudiante adapta al radioteatro el famoso cuento de Ribeyro titulado *El 
 La adaptación de la ironía literaria de Ribeyro a formatos sonoros (radioteatro) exige al alumno dominar el montaje de contrastes: la opulencia de la fiesta celebrada a expensas de la ruina personal frente a la fría e indiferente realidad de un golpe de Estado militar que devuelve al protagonista a su estatus inicial de fracaso.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Literatura
@@ -265,7 +267,7 @@ Determine cuál de las opciones ilustra con precisión la diferencia en la aplic
 La comparación de estilos permite al alumno notar cómo el fenómeno de la migración andina hacia la costa es abordado de forma distinta: con la crudeza del realismo social urbano directo y sin concesiones poéticas por parte de la Generación del 50 (Congrains) o con la nostalgia mística, lírica y telúrica del ande originario (Arguedas).
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Literatura
@@ -289,7 +291,7 @@ La comparación de estilos permite al alumno notar cómo el fenómeno de la migr
 La técnica de la polifonía y el monólogo interior disuelven las costuras del relato clásico del siglo XIX. Vargas Llosa, influenciado por Faulkner y Joyce, aplica estas herramientas para demostrar que la verdad humana no es una voz única y autoritaria, sino una constelación de verdades subjetivas en conflicto.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Literatura
@@ -314,7 +316,7 @@ La técnica de la polifonía y el monólogo interior disuelven las costuras del 
 El alumno ejercita el pensamiento analítico alegórico. Al fundir un motivo religioso de advertencia clásica (la necedad de construir sobre la arena) con el drama de la exclusión urbana de los inmigrantes, Ribeyro dota al drama de la barriada de un hondo calado existencialista de inevitable derrota humana.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -339,7 +341,7 @@ El alumno ejercita el pensamiento analítico alegórico. Al fundir un motivo rel
 El estudiante demuestra capacidad de análisis sociológico literario profundo al deducir que la Generación del 50 deconstruye el prestigio de la "Lima Criolla de Salones". Al retratar la paranoia y el arribismo de la élite burguesa, los cuentistas convalidan el protagonismo emergente del Perú andino y marginal que busca fundar su ciudadanía sobre el cemento de la capital.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -364,7 +366,7 @@ El estudiante demuestra capacidad de análisis sociológico literario profundo a
 La novela de Vargas Llosa deconstruye los mitos de la marcialidad autoritaria del ejército peruano. Al desvelar el crimen impune del Leoncio Prado, la literatura ejerce un rol de fiscalía moral, fustigando de forma descarnada el cinismo del poder dictatorial que prioriza la reputación institucional sobre la justicia civil humana.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -389,7 +391,7 @@ La novela de Vargas Llosa deconstruye los mitos de la marcialidad autoritaria de
 El alumno demuestra comprensión de alto nivel al ligar la biografía existencial del autor (los diarios de *La tentación del fracaso*) con su poética literaria de ficción de la Generación del 50. La frustración y el fracaso ribeyriano constituyen un temple existencialista sincero de raigambre peruana andina que fustiga el triunfalismo falso de la historia oficial de la costa criolla.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -413,7 +415,7 @@ El alumno demuestra comprensión de alto nivel al ligar la biografía existencia
 El Simbolismo y el cuento fantástico coexisten de forma fecunda con el realismo social de la Generación del 50 peruana. El cuento *El doblaje* de Ribeyro demuestra que la literatura nacional contemporánea abordó con maestría el desasosiego existencialista universal de la identidad escindida (el doble), ensanchando los fueros de la prosa andina y criolla del siglo XX.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -438,7 +440,7 @@ Al evaluar críticamente la validez e idoneidad de la vigencia de la tesis de Ri
 La evaluación compleja exige conectar la teoría literaria con la sociología contemporánea andina de competencias de egreso. El alumno concluye con lucidez que la "palabra del mudo" sigue vigente porque la exclusión cívica no es un problema técnico-mecánico de poseer internet satelital, sino una herida sistémica de justicia distributiva en el país.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -463,7 +465,7 @@ Al sopesar críticamente ambas valoraciones de la novelística de Vargas Llosa, 
 La ponderación imparcial de poéticas andinas y criollas permite al estudiante calibrar que el virtuosismo formal estructural (Vargas Llosa) y la ternura antropológica lírica (Arguedas) son dos cumbres de la literatura peruana contemporánea de indudable originalidad que no se anulan, sino que enriquecen de forma simétrica el patrimonio cultural.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -488,7 +490,7 @@ La ponderación imparcial de poéticas andinas y criollas permite al estudiante 
 La evaluación profunda de la literatura del "Boom" exige que el alumno asocie la sofisticación técnica (polifonía, temporalidad fragmentada) con su propósito ético e ideológico. La novela contemporánea no evade el debate político: lo disecciona para interpelar críticamente la orfandad de valores de la sociedad y propugnar la reconstrucción cívica de la democracia.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W19-tema-w19-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Literatura

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Global citizenship is the idea that one's identity transcends geography or polit
 'Transcends' is the appropriate verb for describing how an identity or idea goes beyond physical limits.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Human rights are being protected by international treaties and organizations aro
 The present continuous passive describes the ongoing, active protection of rights.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If nations cooperated more effectively, many global crises would be resolved fas
 The second conditional 'if + past simple' describes the likely result of an imaginary increase in global cooperation.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Cosmopolitanism is the ideology that all human beings belong to a single communi
 'Morality' (or shared ethics) is the foundation of the cosmopolitan idea of a single human community.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Civic engagement involves individual and collective actions designed to identify
 'Public' concern describes the shared social or political issues that civic engagement aims to improve.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ An NGO is a non-profit organization that operates independently of any governmen
 'NGO' is the acronym for organizations that work on social or environmental issues without government control.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ It is recommended that students learn about different cultures to foster global 
 The base form 'learn' is used in the subjunctive mood to express a recommendation.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Advocacy is any action that speaks, writes, or acts on behalf of a particular ca
 'Advocacy' is the specific term for active support and promotion of a cause.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ He had been volunteering for the Red Cross for two years before he was hired as 
 The past perfect continuous describes a continuous action (volunteering) leading up to a specific past event (being hired).
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Ethnocentrism is the tendency to view one's own culture as superior and to judge
 'Superior' correctly identifies the biased perspective that characterizes ethnocentrism.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Empathy is a key component of global citizenship, as it allows us to understand 
 'Empathy' is fundamental for understanding and connecting with the global community.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Migrants whose safety is at risk have the right to seek asylum in other countrie
 'Whose' is used to show possession, linking the migrants to the safety that is at risk.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Social justice is the view that everyone deserves equal economic, political, and
 'Opportunities' is a core part of the definition of social justice, emphasizing fair chances for all.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ You shouldn't judge cultural practices unless you understand the context in whic
 'Unless' sets the condition that understanding context must happen before judgment can be fair.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that being an active citizen means taking responsibility fo
 'Taking responsibility' is the proactive behavior that defines active global citizenship.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A stereotype is a widely held but fixed and oversimplified image or idea of a pa
 'Stereotype' is the term for the reductive generalizations made about groups of people.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish I had learned a second language when I was younger to better connect with
 The 'wish + past perfect' structure is used to express regret about a past lack of action or knowledge.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Cultural diplomacy involves the exchange of ideas, information, and art to foste
 'Mutual understanding' is the primary positive outcome sought through cultural diplomacy.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The activist said that everyone had a role to play in protecting the environment
 In reported speech, we backshift the tense of the original statement to show it was said in the past.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

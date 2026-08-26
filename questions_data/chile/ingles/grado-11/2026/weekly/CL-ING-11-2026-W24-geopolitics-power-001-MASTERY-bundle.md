@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Sovereignty is the supreme power or authority of a state to govern itself.
 'Sovereignty' is the fundamental term for a nation's right to self-government.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The United Nations was established to promote international cooperation.
 The past simple passive 'was established' describes the founding of the organization.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the ambassadors hadn't reached an agreement, a trade war would have been inev
 The third conditional is used to speculate about the consequences of past negotiations.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The third conditional is used to speculate about the consequences of past negoti
 'Influence' is the key verb in the definition of power in international relations.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The text implies that globalization increases economic interdependence among nat
 'Interdependence' correctly describes the mutual reliance characterizing modern geopolitics.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ An embargo is an official ban on trade with a particular country.
 'Embargo' is the specific term for a trade restriction used as a geopolitical tool.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The balance of power is being reshaped by the emergence of new economic giants.
 The present continuous passive describes the current, ongoing transformation of politics.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Geopolitics is the study of the effects of geography on international relations.
 'Geopolitics' is the term for analyzing how geographic factors influence political power.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The two nations had been allies for decades before the dispute began.
 The past perfect 'had been' establishes history prior to the conflict.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Realpolitik is a system of politics based on practical considerations.
 'Practical' captures the pragmatic essence of Realpolitik.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A superpower is a very powerful nation with great economic and military strength
 'Superpower' is the standard term for a nation with global dominance.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ It is expected that the leaders will have reached a consensus by the end of the 
 The future perfect indicates that consensus will be a finished fact at the conclusion.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Asymmetric warfare involves conflict between groups whose military power differs
 'Asymmetric' is used when sides have very different power levels or tactics.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If more countries acquired nuclear weapons, the risk of catastrophe would increa
 The second conditional describes the likely outcome of a hypothetical change.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that international law is essential for preventing anarchy.
 'Anarchy' is the state of disorder that international law aims to prevent.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A diplomat is an official representing a country abroad.
 'Diplomat' is the title for a state representative in international relations.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ The Prime Minister declared that they would not negotiate with terrorists.
 In reported speech, we change 'will' to 'would' to match the past tense reporting verb.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Humanitarian aid is intended to alleviate suffering during and after crises.
 'Alleviate' is the appropriate verb for describing the reduction of suffering.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The two states had been competing for dominance for over half a century.
 The past perfect continuous emphasizes the duration of the geopolitical rivalry.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W24-geopolitics-power-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

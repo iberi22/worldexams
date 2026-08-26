@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Non-verbal communication includes body language, facial expressions, and eye con
 'Non-verbal' is the standard term for information conveyed without words.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Active listening involves paying full attention to the speaker and providing fee
 The present simple 'involves' is used to define the components of a skill.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If they had communicated more clearly, the misunderstanding would never have hap
 The third conditional is used to speculate about how a past situation could have been different.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ To empathize with someone is to understand and share their feelings from their p
 'Empathize' is the specific verb for the act of sharing another's feelings.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Assertive communication involves expressing one's needs and feelings clearly and
 'Assertive' describes the style of communication that is both direct and polite.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Could you please clarify what you mean by that statement?
 'Clarify' is the formal verb used when asking for a clearer explanation.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ She is capable of persuading even the most skeptical audience members.
 The phrase 'capable of' requires the following verb to be in the gerund form.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Intercultural communication requires an awareness of cultural nuances and langua
 'Nuances' refers to the subtle, often culturally specific, variations in communication.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ More and more students are being taught public speaking skills in school.
 The present continuous passive describes a process that is currently becoming more common.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The article argues that digital communication can lack the emotional resonance o
 'Emotional resonance' refers to the depth and impact of the feelings conveyed.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Visual aids such as slides or charts can help to illustrate complex information.
 'Visual aids' is the professional term for materials used to support a presentation.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ They had been arguing for an hour before they finally reached a compromise.
 The past perfect continuous 'had been arguing' shows the length of the conflict preceding the resolution.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Negotiation is a process by which people settle differences and reach an agreeme
 'Negotiation' is the term for the process of resolving conflict or reaching a deal.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If you were more transparent about your intentions, people would trust you more.
 The second conditional describes how a change in behavior would result in a change in social response.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that "netiquette" is essential for civil discourse in onlin
 'Netiquette' refers to the social conventions and rules of online politeness.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Glossophobia is the technical term for the fear of public speaking.
 'Glossophobia' is the name for the common fear of speaking in front of an audience.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ The manager asked her to prepare a brief summary of the meeting.
 The structure 'ask someone to do something' is used for reporting requests.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Rhetoric is the art of effective or persuasive speaking or writing.
 'Rhetoric' is the term for the study and practice of persuasive language.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ I hope to have become fluent in Spanish by the time I move to Spain next year.
 The perfect infinitive 'to have become' indicates a process finished by a specific deadline.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W16-communication-skills-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

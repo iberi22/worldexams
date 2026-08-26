@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Ortografía y redacción
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 La redacción académica formal exige el descarte de la vaguedad léxica (el uso de "comodines" semánticos como "cosa", "algo", "hacer", "tener") para privilegiar un vocabulario denotativo y preciso acorde con el rigor de las ciencias.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Ortografía y redacción
@@ -68,7 +70,7 @@ La redacción académica formal exige el descarte de la vaguedad léxica (el uso
 La anfibología es un error estructural de la sintaxis que atenta contra la claridad informativa del escrito. Ocurre con frecuencia por la mala colocación de modificadores indirectos, complementos circunstanciales o pronombres posesivos de tercera persona.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Ortografía y redacción
@@ -92,7 +94,7 @@ La anfibología es un error estructural de la sintaxis que atenta contra la clar
 Los posesivos de tercera persona ("su", "sus") poseen múltiples antecedentes potenciales en oraciones con más de un sujeto masculino o femenino. En la redacción académica formal, para disolver la anfibología se debe reformular usando pronombres relativos específicos ("el plano de este", "el plano de aquel") que fijen el referente unívocamente.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Ortografía y redacción
@@ -117,7 +119,7 @@ Los posesivos de tercera persona ("su", "sus") poseen múltiples antecedentes po
 La concisión exige usar la menor cantidad de palabras necesarias para transmitir una idea con fidelidad. Redundar acumulando sinónimos de reiteración ("volver a", "repetir", "de nuevo") es un vicio común que debe eliminarse en la revisión y pulido de textos formales.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Ortografía y redacción
@@ -142,7 +144,7 @@ La concisión exige usar la menor cantidad de palabras necesarias para transmiti
 Para discriminar con rigor científico entre el dequeísmo (inserción incorrecta de "de") y la construcción adecuada (régimen verbal), la prueba de sustitución por el pronombre "algo" o "esto" resulta infalible. Si la preposición se mantiene estable y natural en la pregunta ("¿De qué nos convenció?"), el uso es normativamente correcto.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Ortografía y redacción
@@ -167,7 +169,7 @@ Para discriminar con rigor científico entre el dequeísmo (inserción incorrect
 La vaguedad léxica debilita la calidad de la prosa académica. Sustituir verbos genéricos ("hacer", "tener", "poner", "dar") por sinónimos de alta precisión denotativa (desarrollar, generar, implementar, aportar) es un requisito clave para cumplir con las competencias de producción de textos de nuestro currículo CNEB.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -191,7 +193,7 @@ Identifique la opción que presenta una concordancia nominal **correcta** de los
 Al coordinar sustantivos de diferente género (masculino "bofedales" + femenino "lagunas") vinculados a un único adjetivo plural pospuesto, el español impone la regla de la concordancia de género masculino plural ("protegidos") como el término genérico común para resolver la concordancia de forma armónica.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -215,7 +217,7 @@ Al coordinar sustantivos de diferente género (masculino "bofedales" + femenino 
 El "queísmo" o abuso de la conjunción "que" es un vicio de estilo muy común en redactores principiantes. Resolverlo exige reestructurar la sintaxis de la oración, transformando verbos subordinados en sustantivos o adjetivos participios que alivien la densidad oracional.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -239,7 +241,7 @@ El "queísmo" o abuso de la conjunción "que" es un vicio de estilo muy común e
 Los solecismos de régimen preposicional ocurren por el uso calificado de locuciones viciosas asentadas en el habla informal (como "en base a", "de acuerdo a", "bajo la base de"). La redacción académica exige el uso estricto de las variantes normativamente convalidadas por la RAE ("con base en", "de acuerdo con", "desde el punto de vista").
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -263,7 +265,7 @@ Identifique la opción que presenta una redacción libre de **cacofonías** (enc
 La eufonía es un principio estético de la redacción formal. Se debe evitar la colisión acústica de sonidos idénticos contiguos, especialmente el uso de artículos femeninos "la/una" antes de sustantivos femeninos que inician con la vocal "a" tónica (ej. "el agua", "el águila", "el hacha", "el aula").
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -288,7 +290,7 @@ La eufonía es un principio estético de la redacción formal. Se debe evitar la
 La concordancia de los sujetos colectivos con complemento plural ("la mayoría de...", "el grupo de...", "un sinnúmero de...") es un caso clásico de concordancia por el sentido admitido por la RAE, permitiendo alternar el singular y el plural de los verbos conjugados, siempre que se eviten vicios sintácticos como el dequeísmo.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -313,7 +315,7 @@ Determine la opción que completa la oración anterior con el vocablo más preci
 El pleonasmo "lapso de tiempo" o "periodo de tiempo" es uno de los vicios más extendidos en la prosa administrativa y escolar. La revisión académica de estilo exige depurar estas redundancias consagradas en el uso diario, prefiriendo la fuerza léxica directa del sustantivo único.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Ortografía y redacción
@@ -338,7 +340,7 @@ Al realizar un análisis crítico y normativo de la oración citada, ¿cuál es 
 El gerundio es una forma verbal no personal que indica simultaneidad ("salió cantando") o anterioridad inmediata ("cerrando la puerta, se retiró") respecto al verbo principal de la oración. Su uso para expresar efectos o consecuencias posteriores en la cadena del tiempo (gerundio de posterioridad) es un vicio gramatical extendido en informes periodísticos y científicos que debe ser estrictamente corregido.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Ortografía y redacción
@@ -363,7 +365,7 @@ Al analizar de manera crítica la concordancia del pronombre en negrita (**le**)
 La concordancia de número entre el pronombre clítico de objeto indirecto ("les") y el sustantivo que cumple el rol de receptor real de la acción verbal ("a los alumnos") es un requisito obligatorio de la redacción culta. El uso de "le" en singular por "les" es calificado como un vulgarismo o descuido de estilo extendido en el habla informal que atenta contra la simetría gramatical de la oración.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Ortografía y redacción
@@ -388,7 +390,7 @@ La concordancia de número entre el pronombre clítico de objeto indirecto ("les
 El gerundio del español es incompatible con la función adjetiva especificativa de sustantivos (el gerundio califica verbos, no nombres). Para enmendar el error de estilo en textos formales de ciencias sociales o derecho, se debe conmutar el gerundio impropio por una proposición subordinada adjetiva introducida por el pronombre relativo "que" ("una ordenanza *que restringe*").
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Ortografía y redacción
@@ -413,7 +415,7 @@ Determine la opción que completa la oración anterior con los vocablos más pre
 La redundancia léxica y semántica es un error de estilo extendido en la prosa escolar. Expresiones pleonásticas como "conclusiones finales", "erradicar de raíz", "unanimidad de votos", "volar por el aire" o "subir arriba" denotan pobreza estilística. La revisión de estilo exige podar estos agregados superfluos para conservar el vigor informativo del sustantivo y del verbo únicos.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción
@@ -438,7 +440,7 @@ Al realizar una rigurosa auditoría lingüística y normativa de este fragmento 
 La auditoría lingüística de nivel preuniversitario exige identificar la discordancia entre un sujeto de sustantivo colectivo singular con complemento plural ("El equipo de ingenieros...") y su verbo conjugado en plural ("se percataron" - se debe preferir el singular "se percató" por concordancia sintáctica de núcleo), así como el error de eufonía de "la agua" (exige el artículo masculino "el agua").
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción
@@ -462,7 +464,7 @@ La auditoría lingüística de nivel preuniversitario exige identificar la disco
 La evaluación compleja exige discriminar de forma cruzada múltiples variables de concordancia y vicios de régimen preposicional en un mismo fragmento. El enunciado C demuestra un dominio soberano de la lengua, libre de queísmos, dequeísmos, discordancias de número y solecismos de locución.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción
@@ -487,7 +489,7 @@ Evalúe de manera crítica y normativa la redacción de este párrafo de acuerdo
 El alumno demuestra comprensión lingüística de alto nivel al reconocer la invariabilidad del adverbio de grado "medio" frente a la tentación informal de hacerlo concordar en género y número ("medias cansadas", "medios locos" son errores comunes de la lengua coloquial). Así mismo, aplica los estándares de precisión léxica del CNEB al sustituir el verbo comodín "hacer" por "organizar" o "convocar".
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Cultural diversity is the existence of a variety of cultural or ethnic groups wi
 'Diversity' is the specific term for the presence of multiple different cultures in one area.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Cultural exchange programs are being promoted by many universities to broaden st
 The present continuous passive describes the active and ongoing effort to support these programs.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If society were more tolerant of differences, there would be much less social co
 The second conditional describes the imaginary result of a shift in social attitudes.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ A pluralistic society is one where different groups maintain their unique cultur
 'Pluralistic' is the formal term for a society that values and maintains diverse cultural identities.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Cultural relativism is the principle that a person's beliefs and activities shou
 'Understood' correctly identifies the empathetic and non-judgmental goal of cultural relativism.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Inclusion is the practice or policy of providing equal access to opportunities a
 'Inclusion' is the standard term for the practice of ensuring all groups have equal access and involvement.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ She spoke passionately about the importance of embracing diversity in the workpl
 The adverb 'passionately' describes the manner in which the speaker delivered her message.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Xenophobia is the dislike of or prejudice against people from other countries.
 'Xenophobia' is the technical term for the negative social attitude described.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ I had never experienced such a vibrant festival before I visited India.
 The past perfect 'had never experienced' establishes the state of the speaker's experience prior to the trip.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Forced assimilation can lead to the erosion of unique cultural practices and a s
 'Erosion' metaphorically describes the gradual loss of cultural elements due to external pressure.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Tolerance is the ability or willingness to tolerate something, in particular the
 'Tolerance' is the foundational value for peaceful coexistence in a diverse society.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By next decade, the world will have become even more interconnected through digi
 The future perfect indicates that the state of interconnectedness will be an accomplished fact by next decade.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Cultivating empathy allows us to bridge the gap between ourselves and those from
 'Bridge' is the standard metaphorical verb for connecting different groups or closing a social gap.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If we valued our heritage more, we would spend more resources on its preservatio
 The second conditional describes how a hypothetical shift in values would result in a change in behavior.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that embracing cultural diversity is not just an ethical ch
 'Necessity' correctly identify the author's strong evaluation of diversity as essential for modern life.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Stereotypes are often based on ignorance and can lead to unfair treatment of ind
 'Stereotypes' is the term for the reductive generalizations that social movements work to overcome.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish everyone would appreciate the beauty of different cultural traditions.
 'Wish + would' expresses a desire for a positive change in the attitudes of others.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Cultural hybridity involves the blending of different cultural elements to creat
 'Blending' correctly describes the creative mixing that characterizes cultural hybridity.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The educator advised that students engage with cultures different from their own
 The base form 'engage' is used in the subjunctive mood after verbs of advice like 'advise'.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W38-cultural-diversity-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

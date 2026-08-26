@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 Los textos discontinuos son aquellos cuya estructura no sigue un orden de lectura lineal tradicional (por párrafos). Para su comprensión, el lector debe asociar elementos icónicos (imágenes, gráficos) con elementos lingüísticos.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -68,7 +70,7 @@ Los textos discontinuos son aquellos cuya estructura no sigue un orden de lectur
 En los textos discontinuos, los gráficos estadísticos desempeñan un rol protagónico para resumir grandes masas de datos cuantitativos de forma sintética, permitiendo contrastes rápidos de escala.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -93,7 +95,7 @@ A partir de la lectura de estos datos, ¿cuál de las siguientes conclusiones so
 La interpretación de variaciones porcentuales en una tabla exige correlacionar los incrementos y descensos numéricos con el eje de tiempo para trazar mentalmente la curva de comportamiento del fenómeno.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -117,7 +119,7 @@ Si el mapa de calor de la infografía muestra una coloración roja intensa conce
 Los mapas de calor son recursos discontinuos potentes. El color actúa como una variable visual semiológica que comunica instantáneamente densidad o intensidad de un fenómeno sobre un espacio geográfico.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -142,7 +144,7 @@ Según la información espacial provista por este perfil altitudinal, ¿cuál de
 La comprensión de diagramas de perfil altitudinal requiere traducir variaciones verticales de altitud en conceptos físicos de esfuerzo mecánico y topografía del terreno real.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -167,7 +169,7 @@ A partir de estos datos, determine el postulado correcto sobre los hábitos alim
 El análisis cuantitativo exige diferenciar el valor absoluto de un indicador (kilos consumidos) de su tasa de crecimiento proporcional o porcentual para describir adecuadamente la tendencia alimenticia.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -192,7 +194,7 @@ Si una organización no gubernamental de salud busca priorizar la entrega de fil
 La transferencia de datos cartográficos discontinuos a un plan de acción de socorro sanitario exige priorizar los recursos según los umbrales críticos de toxicidad territorial graficados.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -217,7 +219,7 @@ Con base en estos datos estadísticos, ¿cuál de las siguientes medidas prevent
 El alumno debe correlacionar la variable independiente (cobertura de vacuna) con la variable dependiente (casos graves de enfermedad) del texto discontinuo para inferir la intervención preventiva más adecuada.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -244,7 +246,7 @@ Si un exportador de La Libertad sufre un corte de luz prolongado en su planta de
 La resolución de problemas basada en diagramas de flujo exige evaluar el impacto que tiene la falla de una de las etapas secuenciales críticas del proceso y proponer desvíos de contingencia que minimicen pérdidas.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -272,7 +274,7 @@ Si el reporte anual del muelle sur muestra pintados en su panel de control: 3 ba
 La lectura de pictogramas requiere aplicar correctamente los factores de escala definidos en la leyenda de los textos discontinuos para convertir símbolos visuales en magnitudes matemáticas precisas.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -297,7 +299,7 @@ Si un conductor viaja a 80 km/h por la sierra limeña rumbo a Huancayo y comienz
 La aplicación de gráficos lineales de física automotriz exige que el conductor adapte sus hábitos de manejo (velocidad y espacio de seguridad) de acuerdo con las condiciones climáticas del entorno andino.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -322,7 +324,7 @@ Si un guía de turismo de Cusco lidera a un grupo de 15 escolares de quinto de s
 La toma de decisiones del guía de turismo demuestra comprensión práctica de la simbología cartográfica de restricciones patrimoniales, buscando un equilibrio entre la experiencia educativa y la conservación del recurso.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -347,7 +349,7 @@ La toma de decisiones del guía de turismo demuestra comprensión práctica de l
 La evaluación de textos discontinuos exige detectar sesgos en la representación visual de datos. El área del gráfico debe coincidir estrictamente con el porcentaje de la etiqueta para evitar la manipulación de la opinión pública.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -373,7 +375,7 @@ Al contrastar de forma crítica ambas fuentes de información, ¿cuál es el dia
 La lectura crítica exige identificar la intención comunicativa de emisores con intereses divergentes. El alumno debe contrastar datos parciales comerciales de corto plazo con reportes científicos de largo plazo.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -398,7 +400,7 @@ La lectura crítica exige identificar la intención comunicativa de emisores con
 Los climogramas son gráficos complejos que cruzan dos escalas distintas de datos (temperatura lineal en el eje derecho vs. precipitación de barras en el izquierdo). El alumno debe integrar ambas variables para definir el tipo de clima regional.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -423,7 +425,7 @@ Los climogramas son gráficos complejos que cruzan dos escalas distintas de dato
 El análisis del texto discontinuo exige evaluar la relación cuantitativa de rendimiento energético (vatios consumidos vs. lúmenes producidos) para sustentar decisiones de ahorro doméstico con bases físicas sólidas.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -448,7 +450,7 @@ Al evaluar de manera crítica la consistencia interna del texto de divulgación 
 La evaluación crítica de la consistencia interna de un texto discontinuo requiere contrastar las afirmaciones persuasivas o eslóganes comerciales con las evidencias científicas y tablas técnicas provistas en el propio documento.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -473,7 +475,7 @@ Al ponderar la calidad metodológica del diseño de este gráfico discontinuo pa
 Los principios de la visualización de datos científica exigen que la escala gráfica y el tamaño de los elementos de diseño reflejen de forma fidedigna y proporcional el valor de los números correspondientes, desaconsejando el uso de perspectivas 3D distorsionantes.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -498,7 +500,7 @@ Los principios de la visualización de datos científica exigen que la escala gr
 La evaluación compleja de textos discontinuos exige confrontar la "línea de tendencia" o conclusión gráfica con los "datos empíricos" representados (puntos de dispersión). El alumno debe notar cuándo se imponen conclusiones sesgadas no sustentadas por la estadística de base.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W13-tema-w13-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos

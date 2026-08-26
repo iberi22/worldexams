@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ The Universal Declaration of Human Rights was adopted by the United Nations in 1
 'Adopted' is the formal term for the official acceptance of an international document.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Human rights are inherent to all human beings, regardless of race, gender, or na
 'Regardless of' is essential for expressing the universal and non-discriminatory nature of human rights.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If those activists hadn't fought for their rights, many of our current freedoms 
 The third conditional is used to express the past importance of social movements.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Freedom of expression is a fundamental right that allows individuals to hold and
 'Without interference' is the key phrase for defining freedom from government or social suppression.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Inalienable rights are rights that cannot be taken away or denied by any governm
 'Inalienable' is the formal term used in political philosophy to describe rights that are inherently part of being human.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A violation occurs when a person's fundamental rights are ignored or actively ta
 'Violation' is the standard term for the breach of human rights.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Many groups are still being marginalized despite the progress made in human righ
 The present continuous passive describes how certain groups continue to experience unfair treatment.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Due process is the legal requirement that the state must respect all legal right
 'Due process' is the essential legal term for fair treatment through the judicial system.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The report confirmed that several rights had been systematically ignored during 
 In reported speech, we backshift the tense to show the events happened prior to the report's conclusion.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Tokenism is the practice of making only a perfunctory or symbolic effort to be i
 'Perfunctory' describes the superficial, minimum effort that characterizes tokenism.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Asylum is the protection granted by a nation to someone who has left their nativ
 'Asylum' is the formal term for the safety and protection sought by refugees in a foreign country.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By the next summit, new protocols will have been implemented to better protect e
 The future perfect passive indicates that the action will be a finished achievement by the stated deadline.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Human rights education aims to empower individuals to stand up for themselves an
 'Empower' is the core goal of human rights education: giving people the tools and confidence to act.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If people were more aware of their rights, they would be less likely to be explo
 The second conditional describes how a hypothetical increase in knowledge would result in a positive social outcome.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that companies must be held accountable for any human right
 'Held accountable' is the professional term for requiring responsibility and consequences for actions.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Equality means ensuring that every individual has an equal opportunity to make t
 'Equality' is the fundamental value described as giving everyone a fair chance.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish I had been more involved in social justice work when I was a student.
 The 'wish + past perfect' structure allows for the expression of regret about past inactivity.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Dignity is the right of a person to be valued and respected for their own sake, 
 'Dignity' is the core human rights concept referring to the inherent worth of every person.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The lawyer argued that the defendant's rights had been infringed upon.
 In reported speech, we backshift the tense to show the infringement occurred prior to the lawyer's argument.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W29-human-rights-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

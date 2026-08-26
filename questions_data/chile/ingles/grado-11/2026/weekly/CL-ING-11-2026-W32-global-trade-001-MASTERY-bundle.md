@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Tariffs are taxes imposed by a government on imported goods and services.
 'Tariff' is the standard economic and political term for a tax on imports.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The volume of global trade has been increasing steadily since the late 20th cent
 The present perfect continuous highlights the continuous growth of trade over several decades.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the free trade agreement hadn't been signed, local businesses would have face
 The third conditional is used to speculate about the consequences of a past economic decision.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Comparative advantage is the ability of an individual or group to carry out a pa
 'Efficiently' describes the ability to produce goods with fewer resources, the core of comparative advantage.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Protectionism involves government policies that restrict international trade to 
 'Restrict' correctly identifies the primary action of protectionist policies like tariffs and quotas.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Logistics is the detailed coordination of a complex operation involving many peo
 'Logistics' is the specific professional term for the management of the flow of goods.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ New shipping routes are being explored due to the melting of Arctic ice.
 The present continuous passive describes the current, active investigation into new commercial paths.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ A supply chain is the entire system of producing and delivering a product or ser
 'System' correctly identifies the complex, interconnected nature of a modern global supply chain.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The interruption in the supply chain had caused prices to skyrocket before the g
 The past perfect 'had caused' establishes that the price increase happened before the intervention.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Fair trade initiatives aim to ensure that producers in developing countries rece
 'Equitable' is the formal term used to describe fairness and justice in economic relationships.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Outsourcing is the practice of having certain job functions done outside a compa
 'Outsourcing' is the standard business term for obtaining goods or services from an outside or foreign supplier.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By the year 2030, the new trade agreement will have been fully implemented acros
 The future perfect passive indicates that the implementation will be a finished reality by the deadline.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ A trade deficit occurs when a country's imports exceed its exports.
 'Exceed' is the correct verb for describing when one quantity (imports) is larger than another (exports).
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the sanctions were lifted, the country's economy would likely experience a pe
 The second conditional describes the likely result of a hypothetical change in geopolitical policy.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that digital trade is transforming the global economy by re
 'Reducing' correctly identifies the primary economic benefit of digital trade mentioned in the text.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A subsidy is a sum of money granted by the state or a public body to help an ind
 'Subsidy' is the specific economic term for financial aid provided by the government to support a sector.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ Business leaders wish the trade war would end as soon as possible.
 'Wish + would' is used to express a desire for an ongoing, annoying or harmful situation to stop.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Sustainable trade must account for the environmental and social costs that are o
 'Externalized' costs are those generated by a business but paid for by society or the environment.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The report stated that global trade had grown by 5% in the previous year.
 In reported speech, we backshift the tense of the original data ('Trade grew/has grown...') to the past perfect.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W32-global-trade-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
