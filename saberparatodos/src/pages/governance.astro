@@ -1,0 +1,193 @@
+---
+/**
+ * WX-304 — Governance UI: página principal
+ * Muestra: lista de reglas actuales (RuleEngine.getCurrentRules()), última versión, link a op-log.
+ * Botón "Proponer cambio" (abre modal).
+ * Consume RuleEngine, VotingManager, OpLog de WX-206 sin tocar lib.
+ */
+import Layout from '../layouts/Layout.astro';
+import RuleList from '../components/governance/RuleList.astro';
+import ProposeChangeForm from '../components/governance/ProposeChangeForm.astro';
+import VotePanel from '../components/governance/VotePanel.astro';
+import OpLogViewer from '../components/governance/OpLogViewer.astro';
+---
+
+<Layout
+  title="Gobernanza — Reglas fundadoras y votación del consejo | World Exams"
+  description="Reglas fundadoras versionadas, votación del consejo de nodos con quorum 2/3 y op-log append-only auditable. D5: fundadores crean, consejo modifica."
+>
+  <div class="min-h-screen bg-[#121212] text-[#F5F5DC]">
+    <!-- Hero -->
+    <section class="border-b border-white/10 bg-gradient-to-b from-white/[0.04] to-transparent">
+      <div class="max-w-6xl mx-auto px-4 py-10 md:py-14">
+        <div class="flex flex-wrap items-start justify-between gap-6">
+          <div class="space-y-3 max-w-2xl">
+            <span class="inline-flex items-center gap-2 px-3 py-1 text-[11px] font-mono tracking-widest uppercase rounded-full border border-emerald-500/30 bg-emerald-500/10 text-emerald-300">
+              <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span> Gobernanza D5
+            </span>
+            <h1 class="text-3xl md:text-4xl font-bold tracking-tight">
+              Gobernanza <span class="text-white/60">— reglas & consejo</span>
+            </h1>
+            <p class="text-sm md:text-[15px] leading-relaxed text-white/70">
+              Reglas fundadoras versionadas y firmadas (placeholder ML-DSA-65). Modificaciones solo por
+              <span class="text-white font-medium">consejo de nodos con quorum 2/3</span>. Cada acción queda en
+              <a href="#oplog" class="underline decoration-emerald-500/50 hover:decoration-emerald-400">op-log append-only encadenado</a>.
+            </p>
+            <div class="flex flex-wrap gap-2 pt-1 text-xs font-mono">
+              <span class="px-2.5 py-1 rounded-full bg-white/10 border border-white/10">RuleEngine.getCurrentRules()</span>
+              <span class="px-2.5 py-1 rounded-full bg-white/10 border border-white/10">VotingManager.quorum 2/3</span>
+              <span class="px-2.5 py-1 rounded-full bg-white/10 border border-white/10">OpLog.getLog()</span>
+            </div>
+          </div>
+
+          <div class="flex flex-col gap-3 min-w-[260px]">
+            <div class="rounded-2xl border border-white/10 bg-white/[0.03] backdrop-blur p-4 space-y-2">
+              <div class="text-[11px] tracking-widest uppercase text-white/50">Estado</div>
+              <div class="flex items-center gap-2">
+                <span class="text-sm">Última versión</span>
+                <span id="gov-latest-badge" class="ml-auto inline-flex px-2.5 py-0.5 rounded-full text-xs font-mono font-bold bg-emerald-500 text-white">v—</span>
+              </div>
+              <div class="flex items-center gap-2 text-xs font-mono text-white/60">
+                <span>Reglas activas</span>
+                <span id="gov-count" class="ml-auto">—</span>
+              </div>
+              <div class="flex items-center gap-2 text-xs">
+                <a href="#oplog" class="text-emerald-400 hover:text-emerald-300 underline">Ver op-log →</a>
+                <span class="ml-auto text-[11px] text-white/40">hash encadenado</span>
+              </div>
+            </div>
+
+            <button
+              id="gov-open-propose"
+              class="w-full inline-flex items-center justify-center gap-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white px-5 py-3 text-sm font-semibold transition-colors shadow-lg shadow-emerald-900/20"
+            >
+              <span>＋ Proponer cambio</span>
+            </button>
+            <p class="text-[11px] text-center text-white/40">Abre modal con VotingManager.proposeChange()</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main grid -->
+    <div class="max-w-6xl mx-auto px-4 py-8 grid grid-cols-1 lg:grid-cols-5 gap-6">
+      <!-- Left: Rules -->
+      <section class="lg:col-span-3 space-y-4">
+        <div class="flex items-center justify-between">
+          <h2 class="text-sm font-semibold tracking-widest uppercase text-white/70">Reglas actuales</h2>
+          <span class="text-[11px] font-mono text-white/40">RuleEngine.getCurrentRules()</span>
+        </div>
+        <div class="rounded-2xl border border-white/10 bg-white dark:bg-zinc-900 p-4 md:p-5">
+          <RuleList />
+        </div>
+      </section>
+
+      <!-- Right: Vote -->
+      <section class="lg:col-span-2 space-y-4">
+        <div class="flex items-center justify-between">
+          <h2 class="text-sm font-semibold tracking-widest uppercase text-white/70">Votación del consejo</h2>
+          <span class="text-[11px] font-mono text-white/40">quorum 2/3</span>
+        </div>
+        <div class="rounded-2xl border border-white/10 bg-white dark:bg-zinc-900 p-4 md:p-5">
+          <VotePanel />
+        </div>
+      </section>
+
+      <!-- Full: OpLog -->
+      <section id="oplog" class="lg:col-span-5 space-y-4 scroll-mt-6">
+        <div class="flex items-center justify-between">
+          <h2 class="text-sm font-semibold tracking-widest uppercase text-white/70">Op-log auditable</h2>
+          <span class="text-[11px] font-mono text-white/40">OpLog.getLog() — 20 por página</span>
+        </div>
+        <div class="rounded-2xl border border-white/10 bg-white dark:bg-zinc-900 p-4 md:p-5">
+          <OpLogViewer />
+        </div>
+      </section>
+    </div>
+
+    <!-- Footer note D5 -->
+    <div class="max-w-6xl mx-auto px-4 pb-10">
+      <div class="rounded-xl border border-amber-500/20 bg-amber-500/5 p-4 text-xs leading-relaxed text-amber-200/80">
+        <strong class="text-amber-200">D5:</strong> Reglas creadas por fundadores, modificadas por consejo de nodos con quorum. Cada nodo = 1 voto.
+        Supera mayoría <code class="px-1 py-0.5 rounded bg-black/30">votes_for ≥ ceil(2/3·N)</code> y sin bloqueo
+        <code class="px-1 py-0.5 rounded bg-black/30">votes_against &lt; ceil(1/3·N)</code> → aprobada y aplicada.
+        Firma placeholder <code class="px-1 py-0.5 rounded bg-black/30">sig:sha256:…:by:node</code>.
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal Proponer cambio -->
+  <dialog id="gov-propose-dialog" class="p-0 rounded-2xl border border-white/10 bg-white dark:bg-zinc-900 text-zinc-900 dark:text-zinc-100 backdrop:bg-black/60 open:animate-[fadeIn_0.15s_ease] w-[min(640px,95vw)] max-h-[90vh] overflow-hidden">
+    <div class="flex items-center justify-between gap-2 px-5 py-4 border-b border-zinc-200 dark:border-zinc-800">
+      <h3 class="font-semibold">Proponer cambio de regla</h3>
+      <button id="gov-close-propose" class="w-8 h-8 rounded-full hover:bg-zinc-100 dark:hover:bg-zinc-800 grid place-items-center" aria-label="Cerrar">✕</button>
+    </div>
+    <div class="p-5 overflow-auto max-h-[70vh]">
+      <ProposeChangeForm />
+    </div>
+    <div class="px-5 py-3 border-t border-zinc-200 dark:border-zinc-800 flex justify-end">
+      <button id="gov-close-propose-2" class="px-4 py-2 text-sm rounded-xl border border-zinc-200 dark:border-zinc-700">Cerrar</button>
+    </div>
+  </dialog>
+
+  <style>
+    dialog::backdrop { background: rgba(0,0,0,0.6); backdrop-filter: blur(6px); }
+    dialog[open] { animation: dialogIn 0.14s ease; }
+    @keyframes dialogIn { from { opacity:0; transform: translateY(6px) scale(0.98); } to { opacity:1; transform: translateY(0) scale(1); } }
+  </style>
+
+  <script>
+    // Gobernanza header badges + modal
+    import { RuleEngine, OpLog, InMemoryRuleStorage, VotingManager } from '../lib/governance';
+
+    function getGov() {
+      const w = window as any;
+      if (!w.__governance) {
+        const oplog = new OpLog();
+        const storage = new InMemoryRuleStorage();
+        const engine = new RuleEngine({ storage, oplog });
+        const voting = new VotingManager({ ruleEngine: engine, oplog, activeNodes: ['founder','node-1','node-2','node-3','node-4','node-5'] });
+        w.__governance = { oplog, engine, storage, voting };
+      }
+      if (!w.__governance.voting) w.__governance.voting = new VotingManager({ ruleEngine: w.__governance.engine, oplog: w.__governance.oplog, activeNodes: ['founder','node-1','node-2','node-3','node-4','node-5'] });
+      return w.__governance as { engine: RuleEngine, voting: VotingManager, oplog: OpLog };
+    }
+
+    const dialog = document.getElementById('gov-propose-dialog') as HTMLDialogElement | null;
+    const openBtn = document.getElementById('gov-open-propose');
+    const closeBtn = document.getElementById('gov-close-propose');
+    const closeBtn2 = document.getElementById('gov-close-propose-2');
+
+    openBtn?.addEventListener('click', ()=> dialog?.showModal());
+    closeBtn?.addEventListener('click', ()=> dialog?.close());
+    closeBtn2?.addEventListener('click', ()=> dialog?.close());
+    dialog?.addEventListener('click', (e)=>{
+      const rect = dialog.getBoundingClientRect();
+      const inDialog = rect.top <= (e as MouseEvent).clientY && (e as MouseEvent).clientY <= rect.top + rect.height && rect.left <= (e as MouseEvent).clientX && (e as MouseEvent).clientX <= rect.left + rect.width;
+      if (!inDialog) dialog.close();
+    });
+
+    async function refreshBadges() {
+      const { engine } = getGov();
+      try { await engine.loadRules(); } catch {}
+      const latest = engine.getLatestVersion();
+      const count = engine.getCurrentRules().length || engine.getAllRules().length;
+      const badge = document.getElementById('gov-latest-badge');
+      const cnt = document.getElementById('gov-count');
+      if (badge) badge.textContent = latest ? `v${latest}` : 'v—';
+      if (cnt) cnt.textContent = String(count);
+    }
+
+    if (document.readyState==='loading') document.addEventListener('DOMContentLoaded', refreshBadges);
+    else refreshBadges();
+    window.addEventListener('governance:rules-updated', refreshBadges as any);
+    window.addEventListener('governance:rule-proposed', refreshBadges as any);
+    window.addEventListener('governance:op-appended', refreshBadges as any);
+    window.addEventListener('governance:vote-cast', refreshBadges as any);
+
+    // Si viene con hash #oplog, asegurar scroll
+    if (location.hash === '#oplog') {
+      setTimeout(()=> document.getElementById('oplog')?.scrollIntoView({ behavior: 'smooth' }), 300);
+    }
+  </script>
+</Layout>
