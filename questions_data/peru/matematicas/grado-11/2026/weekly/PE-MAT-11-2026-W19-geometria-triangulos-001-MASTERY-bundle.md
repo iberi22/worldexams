@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ La propiedad de la suma de los ángulos internos ($180°$) es la base para resol
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ Los triángulos se clasifican según la relación entre sus lados en equilátero
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ El Teorema del Ángulo Exterior establece que la medida de un ángulo exterior d
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ La existencia de un triángulo está condicionada por la Desigualdad Triangular:
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ En un triángulo isósceles, los ángulos opuestos a los lados iguales también 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ La mediana, por definición, llega al punto medio del lado opuesto. Por lo tanto
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ El desplazamiento forma un triángulo rectángulo donde los movimientos norte y 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ Primero hallamos el tercer ángulo del triángulo principal. Luego usamos la def
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ Identificamos la medida del lado común ($8$ cm). Al unir las figuras, el lado c
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ La Propiedad de Correspondencia establece que en todo triángulo, al ángulo de 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ El baricentro (punto de intersección de las medianas) se ubica a dos tercios de
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ Cuando se conocen los tres lados de un triángulo, se utiliza la fórmula de Her
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ El triángulo 30°-60° es un triángulo notable cuya relación de lados es $k, 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ El Teorema de la Bisectriz Exterior establece que la razón entre los lados que 
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Propiedad clave: en un triángulo rectángulo, el circuncentro coincide con el p
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ El Teorema de Viviani es una propiedad elegante de los polígonos regulares. En 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ En un triángulo rectángulo, la altura relativa a la hipotenusa es media propor
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ Este es un problema de olimpiada que evalúa la capacidad de ver simetrías y re
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ El Teorema de Ceva establece que tres cevianas son concurrentes si y solo si el 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W19-geometria-triangulos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

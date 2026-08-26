@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -42,7 +44,7 @@ La moda es la medida de tendencia central que identifica el valor más frecuente
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -67,7 +69,7 @@ La mediana es el parámetro que deja el mismo número de datos por debajo y por 
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -92,7 +94,7 @@ La media aritmética se halla sumando todos los valores observados y dividiendo 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -117,7 +119,7 @@ Para hallar la mediana debemos ordenar los datos: {1.10, 1.15, 1.20, 1.25, 1.30}
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -142,7 +144,7 @@ En una distribución asimétrica positiva (o sesgada a la derecha), los valores 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -167,7 +169,7 @@ El rango estadístico es la diferencia entre el valor máximo y el valor mínimo
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -192,7 +194,7 @@ La varianza cuantifica la dispersión de los datos respecto a su media. Si todos
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -217,7 +219,7 @@ La desviación estándar se define como la raíz cuadrada positiva de la varianz
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -242,7 +244,7 @@ En estadística, la homogeneidad se asocia inversamente con la dispersión. Dado
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -267,7 +269,7 @@ Una propiedad lineal de la media aritmética establece que si sumamos una cantid
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -295,7 +297,7 @@ Para datos agrupados, la media se obtiene sumando los productos de cada marca de
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -320,7 +322,7 @@ El coeficiente de variación ($C.V.$) es una medida de dispersión relativa. Se 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -345,7 +347,7 @@ Los cuartiles dividen un conjunto de datos ordenados en cuatro partes iguales. E
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -370,7 +372,7 @@ Primero hallamos el promedio: $(2+4+6)/3 = 4$. Luego calculamos la media de los 
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -395,7 +397,7 @@ A diferencia de la suma, la multiplicación de todos los datos por una constante
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -420,7 +422,7 @@ El coeficiente de asimetría mide qué tanto se aleja una distribución de la si
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -445,7 +447,7 @@ Debemos usar la media ponderada para considerar el peso de cada grupo. Primero s
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -470,7 +472,7 @@ El proceso de estandarización ($z = (x - \bar{x})/S$) centra la distribución e
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -495,7 +497,7 @@ Usamos la fórmula de interpolación: $Me = L_i + \frac{\frac{n}{2} - F_{i-1}}{f
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre

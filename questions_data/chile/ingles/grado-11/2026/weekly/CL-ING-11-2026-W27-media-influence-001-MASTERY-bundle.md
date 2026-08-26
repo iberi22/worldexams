@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Mass media has the power to shape public opinion through the selective reporting
 'Public opinion' is the standard term for the collective beliefs and attitudes of a society.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Our perceptions of reality are being altered by the idealized images we see on s
 The present continuous passive describes the ongoing, active process of change in our perceptions.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If students were taught more media literacy, they would be less susceptible to f
 The second conditional 'if + were' describes how a hypothetical educational change would have a positive result.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Agenda-setting is the ability of the news media to influence the importance plac
 'Importance' correctly identifies the primary goal of agenda-setting: influencing what the public thinks about.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Sensationalism is a type of editorial bias in mass media in which events and top
 'Sensationalism' is the standard media studies term for exaggerated or shocking reporting designed to attract attention.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Product placement is a practice in which manufacturers of goods or providers of 
 'Product placement' is the specific name for incorporating brands into creative content.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The scandal was being reported by every major news outlet in the country.
 The past continuous passive describes how the scandal was receiving constant attention at a specific time in the past.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Media bias refers to the perceived or real bias of journalists and news producer
 'Bias' is the correct term for the lack of neutrality in reporting.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Researchers found that excessive screen time was linked to increased levels of a
 In reported findings, it is standard to use the past tense 'was' to describe the result.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The obsession with celebrity culture can distract the public from more significa
 'Distract' correctly describes how less important media topics take attention away from more serious ones.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Propaganda is information, especially of a biased or misleading nature, used to 
 'Propaganda' is the specific term for biased communication used to influence a population toward a political goal.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Virtual reality experiences are likely to be integrated into traditional news re
 The passive infinitive 'to be integrated' describes a future expectation for technology in media.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Media literacy empowers individuals to critically evaluate the messages they rec
 'Evaluate' is the core cognitive skill involved in media literacy.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ You shouldn't believe everything you read on social media unless it comes from a
 'Unless' sets the condition for belief: the presence of a verified source.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that our attention is a valuable commodity that is constant
 'Commodity' metaphorically describes how human attention has become a valuable product in the digital economy.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A story that goes viral is shared widely and rapidly across the internet.
 'Viral' is the standard adjective for content that spreads quickly through social sharing.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish I hadn't been so influenced by advertisements when I was younger.
 The 'wish + past perfect' structure allows for the expression of regret about a past state of being.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Influencer marketing relies on the trust and rapport that creators have built wi
 'Rapport' describes the positive, trusting relationship that is essential for social media influence.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The analyst warned that deepfakes were becoming harder to detect.
 In reported speech, we backshift the tense of the original statement to the past.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W27-media-influence-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

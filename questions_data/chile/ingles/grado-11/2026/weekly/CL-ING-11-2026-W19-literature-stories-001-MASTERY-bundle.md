@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ The plot is the sequence of events that make up a story.
 'Plot' is the fundamental literary term for the arrangement of events in a narrative.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The Great Gatsby, which was written by F. Scott Fitzgerald, explores themes of w
 The relative pronoun 'which' introduces extra information about the subject (the novel) in a non-defining clause.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If I hadn't read that book, I wouldn't have understood the historical context of
 The third conditional allows us to reflect on the impact of a past experience (reading a book).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Magical realism is a genre that depicts the real world as having an undercurrent
 'Magical realism' is the specific literary term for the blending of mundane reality with fantastic elements.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The protagonist is the main character who drives the action and often undergoes 
 'Protagonist' is the technical term for the central figure in a literary work.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A fable is a short story, typically with animals as characters, conveying a mora
 'Fable' is the specific term for an allegorical short story, often featuring anthropomorphized animals.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Graphic novels are increasingly being recognized as a serious form of literature
 The present continuous passive describes the current process of shifting critical opinion.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Foreshadowing is a literary device in which a writer gives an advance hint of wh
 'Foreshadowing' is the technical term for the narrative technique of providing hints about future events.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ I used to read fairy tales every night when I was a child.
 'Used to' is the standard way to describe actions that were habitual in the past but no longer occur.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The author uses "stream of consciousness" to give readers a direct view into the
 'Stream of consciousness' is the term for the narrative mode that mimics the continuous flow of human thought.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A cliffhanger is a dramatic and exciting ending to an episode of a serial, leavi
 'Cliffhanger' is the informal but widely used term for a suspenseful, unresolved ending.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By the time the author retired, he had written over fifty novels.
 The past perfect 'had written' establishes the completion of the action before the author's retirement.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ The poet used vivid imagery to evoke a sense of nostalgia in the reader.
 'Evoke' is the precise verb for describing how literature or art triggers an emotional response.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If I had more discipline, I would write a poem every day.
 The second conditional 'if + past simple' describes the imaginary result of a hypothetical personality trait.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author argues that stories are a fundamental human tool for making sense of 
 'Fundamental' correctly identifies the author's perspective on the essential role of storytelling in human life.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ An anthology is a published collection of poems or other pieces of writing.
 'Anthology' is the specific term for a curated collection of literary works.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I hope to have read all of Shakespeare's plays by the end of the year.
 The perfect infinitive 'to have read' indicates a goal that will be a finished achievement by a specific deadline.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Symbolism is the use of symbols to represent ideas or qualities.
 'Symbolism' is the literary term for the representation of deeper meanings through objects or characters.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The writer said that her latest story had been inspired by a dream.
 In reported speech, we backshift tenses: the original 'My story was inspired...' becomes '...said that her story had been inspired...'.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W19-literature-stories-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

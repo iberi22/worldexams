@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Mediation is a process in which a neutral third party helps two or more groups r
 'Mediation' is the formal term for the assisted negotiation process described.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The peace talks have been ongoing for months, with both sides seeking a sustaina
 The present perfect continuous emphasizes the duration and current persistence of the talks.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If both parties were more willing to compromise, the conflict would be resolved 
 The second conditional 'if + were' describes how a hypothetical change in attitude would lead to a better result.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Active listening is a technique used in conflict resolution to ensure that all p
 Being 'heard' is the fundamental psychological need that active listening aims to satisfy in a conflict.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ A "win-win" situation is one in which a compromise is reached that benefits all 
 'Compromise' is the mechanism through which mutually beneficial (win-win) outcomes are achieved.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A treaty is a formally concluded and ratified agreement between countries.
 'Treaty' is the standard term for a formal agreement that ends or prevents conflict between nations.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ New terms for the agreement are being discussed by the legal teams this week.
 The present continuous passive describes the current status of the negotiation process.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ De-escalation involves reducing the intensity of a conflict or potentially viole
 'De-escalation' is the specific term for techniques used to calm a tense situation.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The mediator reported that the two sides had finally reached a breakthrough in t
 In reported speech, we backshift the tense of the original statement to show it happened before the report.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Zero-sum thinking is the belief that one side can only gain if the other side lo
 'Hinder' correctly describes how competitive (zero-sum) mindsets prevent collaborative solutions.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Empathy is a vital skill for mediators, as it allows them to understand the pers
 'Empathy' is a key competency for professionals who help others resolve disputes.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By next year, it is hoped that a lasting peace will have been established in the
 The future perfect passive describes a desired goal as a finished fact at a specific future time.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Reconciliation is the restoration of friendly relations after a conflict.
 'Reconciliation' is the standard term for the process of repairing trust and connection after a dispute.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If they had communicated more openly from the start, the conflict might have bee
 The third conditional allows for the analysis of how past mistakes contributed to an outcome.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that forgiveness is often a necessary step for achieving tr
 'Necessary' correctly identifies the author's argument about the essential nature of forgiveness.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A neutral person is one who does not take sides in an argument or conflict.
 'Neutral' is the defining characteristic of an effective mediator or arbitrator.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish the two countries would stop fighting and start talking.
 'Wish + would' is used to express a desire for an annoying or harmful situation to change.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Arbitration is the use of an arbitrator to settle a dispute, and their decision 
 'Binding' is the legal term for a decision that carries the force of law and must be followed.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The tension had been building for months before the final confrontation occurred
 The past perfect continuous describes a situation (tension) that was intensifying over time leading up to a specific past point.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W28-conflict-resolution-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

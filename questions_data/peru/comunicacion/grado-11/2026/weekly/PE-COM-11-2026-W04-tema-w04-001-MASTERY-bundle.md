@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -42,7 +44,7 @@ Sintácticamente, una oración es compuesta cuando contiene dos o más verbos co
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -67,7 +69,7 @@ Las proposiciones subordinadas sustantivas cumplen las mismas funciones que un s
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -94,7 +96,7 @@ El Objeto Directo es el argumento verbal que sufre o recibe directamente la acci
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -119,7 +121,7 @@ Las proposiciones subordinadas adjetivas explicativas van necesariamente aislada
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -146,7 +148,7 @@ El relativo general 'que' es el nexo más versátil de nuestra lengua. Sirve par
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -173,7 +175,7 @@ El sujeto tácito o elíptico se reconoce a través de la morfología flexiva de
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -198,7 +200,7 @@ Las oraciones coordinadas disyuntivas conectan proposiciones que plantean elecci
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -225,7 +227,7 @@ Para identificar si una subordinada sustantiva es sujeto, se la reemplaza por el
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -252,7 +254,7 @@ En la transición de voz pasiva a activa, el complemento agente de la pasiva (qu
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -279,7 +281,7 @@ Los complementos circunstanciales aportan precisiones semánticas sobre el marco
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -304,7 +306,7 @@ Las proposiciones subordinadas adverbiales concesivas (introducidas por aunque, 
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -331,7 +333,7 @@ El orden sintáctico directo (Sujeto + Verbo + Atributo/Complemento) previene la
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -356,7 +358,7 @@ El dequeísmo consiste en la inserción indebida de la preposición 'de' antes d
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -383,7 +385,7 @@ Los verbos de afección psíquica o evaluación (gustar, encantar, parecer, inte
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -411,7 +413,7 @@ El complemento de régimen verbal (o régimen preposicional) es un argumento ora
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -438,7 +440,7 @@ La pasiva refleja se estructura con 'se + verbo activo + sujeto inanimado'. El s
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -465,7 +467,7 @@ La concordancia gramatical exige que el verbo concuerde en número y persona con
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -490,7 +492,7 @@ La campaña de 'lenguaje claro' en el Estado peruano promueve sustituir la pasiv
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -517,7 +519,7 @@ La ambigüedad sintáctica por adjunción de cláusulas de relativo al final de 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna

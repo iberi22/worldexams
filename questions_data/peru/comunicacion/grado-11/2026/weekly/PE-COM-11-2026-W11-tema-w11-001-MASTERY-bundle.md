@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 El resumen o *abstract* es la parte inicial y fundamental de todo texto de investigación o divulgación científica que condensa los objetivos, métodos, resultados y conclusiones del artículo para que el lector evalúe rápidamente su pertinencia.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Comprensión de textos
@@ -68,7 +70,7 @@ El resumen o *abstract* es la parte inicial y fundamental de todo texto de inves
 La ciencia exige un lenguaje denotativo y preciso. Los tecnicismos evitan ambigüedades e interpretaciones subjetivas, asegurando que la comunidad académica comparta un referente exacto.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -93,7 +95,7 @@ A partir del texto anterior, ¿cuál es la relación lógica dominante entre la 
 El conector "En consecuencia" es un marcador discursivo consecutivo explícito. La comprensión de relaciones de causa-efecto en textos científicos permite estructurar la lógica deductiva del estudiante.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -118,7 +120,7 @@ Según el texto, ¿cuál es la principal ventaja que ofrece la tecnología LIDAR
 El alumno debe identificar la información literal y comprender las implicancias de la tecnología descrita. La ventaja comparativa se deduce directamente de la capacidad de penetrar digitalmente la vegetación.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -143,7 +145,7 @@ El alumno debe identificar la información literal y comprender las implicancias
 La síntesis textual requiere balancear las dos tesis presentadas: la corroboración empírica del saber tradicional y la limitación o advertencia de seguridad farmacológica.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Comprensión de textos
@@ -168,7 +170,7 @@ De acuerdo con el fragmento, el impacto de la introducción de la trucha arcoír
 El análisis del término "paradoja" exige que el alumno asocie la coexistencia de dos realidades opuestas o contradictorias descritas en el desarrollo del texto.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -193,7 +195,7 @@ Si un agricultor arequipeño desea implementar una agricultura sostenible y libr
 El estudiante debe transferir los conocimientos teóricos del texto científico a un escenario práctico (toma de decisiones agronómicas), seleccionando la opción ecológica descrita.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -218,7 +220,7 @@ Identifique la estrategia de salud pública más adecuada que se desprende de la
 La aplicación de la tesis del texto científico exige derivar medidas lógicas de prevención sanitaria que coincidan con la alternativa de mayor costo-efectividad sugerida en la lectura.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -243,7 +245,7 @@ Con base en esta información, si una comunidad de Huancavelica busca mitigar la
 El alumno aplica el análisis comparativo del impacto físico de las especies ganaderas sobre el bofedal para proponer una solución comunitaria ecológicamente viable.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -268,7 +270,7 @@ Si el programa social de alimentación escolar de La Libertad busca mejorar el r
 La solución ideal debe respetar los porcentajes y condiciones físicas (palatabilidad y formulación de pan) probadas en el ensayo científico para garantizar su éxito en el entorno real.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -293,7 +295,7 @@ La solución ideal debe respetar los porcentajes y condiciones físicas (palatab
 La aplicación tecnológica de los segundos de ventaja detectados por ondas P requiere traducirlos en respuestas automáticas de seguridad activa que prevengan desastres secundarios.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Comprensión de textos
@@ -318,7 +320,7 @@ Si un consorcio ambiental de Loreto desea recuperar un terreno selvático afecta
 El concepto de biorremediación implica usar organismos vivos para degradar contaminantes. La inoculación del hongo específico responde directamente a las premisas de eficiencia ecológica de la lectura.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -343,7 +345,7 @@ El concepto de biorremediación implica usar organismos vivos para degradar cont
 El análisis crítico requiere evaluar los argumentos en conflicto. El autor señala que se omiten factores naturales (geotermia volcánica) al explicar un fenómeno físico, incurriendo en un sesgo explicativo unilateral.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -369,7 +371,7 @@ A partir del contraste entre ambos textos, ¿cuál es el núcleo del debate cien
 Los estudiantes analizan posturas complejas contrapuestas sobre el desarrollo biotecnológico para comprender que las soluciones ambientales conllevan evaluaciones sistémicas de pros y contras.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -394,7 +396,7 @@ Los estudiantes analizan posturas complejas contrapuestas sobre el desarrollo bi
 La evaluación de hipótesis concurrentes exige analizar las marcas de corte (evidencia tafonómica) como variable determinante que discrimina entre origen biológico natural y acción humana tecnológica.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Comprensión de textos
@@ -419,7 +421,7 @@ A partir de la cadena biológica analizada, ¿cuál es la causa fisiológica úl
 El alumno ejercita el pensamiento analítico al rastrear la secuencia biológica: aumento de temperatura -> expulsión de simbiontes -> inanición -> muerte. Debe discernir la causa raíz del deceso biológico.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -445,7 +447,7 @@ Al evaluar críticamente ambas posturas, ¿cuál de los siguientes enunciados co
 La evaluación de textos requiere sopesar argumentos de impacto contrapuestos (mitigación global de carbono vs. impacto ecológico regional severo) para determinar la sostenibilidad real de una política ambiental.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -470,7 +472,7 @@ La evaluación de textos requiere sopesar argumentos de impacto contrapuestos (m
 El pensamiento crítico en ciencias se basa en evaluar la validez metodológica: tamaño de muestra representativo, control de variables de confusión (hábitos saludables) y representatividad estadística.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos
@@ -496,7 +498,7 @@ Modelo T postula que el brote ocurre cuando la tasa de migración de trabajadore
 La evaluación compleja exige integrar múltiples modelos predictivos. El alumno debe notar que las variables de interacción social humana (Modelo T) condicionan la efectividad de las condiciones ambientales basales (Modelo P).
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W11-tema-w11-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Comprensión de textos

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ La suma de las medidas de los ángulos internos de un polígono convexo de $n$ l
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ En un polígono regular de $n$ lados, el ángulo externo mide $\theta_e = 360^\c
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ Al trazar las alturas desde los vértices de la base menor a la base mayor en un
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ En un paralelogramo, los ángulos adyacentes a un mismo lado son suplementarios 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ En cualquier trapecio, el segmento que une los puntos medios de las diagonales e
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ Usamos la fórmula del número de diagonales $D = \frac{n(n - 3)}{2}$. La condic
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ En un rombo, las diagonales son perpendiculares y se cortan en su punto medio. E
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ En cualquier polígono, el ángulo interno y el externo asociados a un vértice 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ Al trazar una perpendicular desde $C$ a la base mayor $AD$, se forma un triángu
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ Para hallar el ángulo interno de un polígono regular de $n$ lados, calculamos 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ Establecemos la igualdad: $n(n - 3) / 2 = 3n$. Simplificando $n$ (ya que $n > 0$
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ En un trapecio, las bisectrices de dos ángulos adyacentes a un lado lateral se 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ En cualquier cuadrilátero, la suma de los ángulos internos es 360°. Si la sum
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ Usamos la fórmula $D = n(n-3)/2$. Para el polígono de $2n$ lados: $D' = 2n(2n-
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Contamos con un sistema de ecuaciones: la semisuma de las bases es 15 ($B+b = 30
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ El número de diagonales desde un vértice es $n-3$. El número total es $n(n-3)
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ La bisectriz forma ángulos iguales. Por paralelismo ($BC \parallel AD$), se for
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ La suma de ángulos internos debe ser un múltiplo de 180°. El ángulo faltante
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ Desplazando uno de los lados laterales paralelamente hasta un vértice de la bas
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W21-poligonos-y-cuadrilateros-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

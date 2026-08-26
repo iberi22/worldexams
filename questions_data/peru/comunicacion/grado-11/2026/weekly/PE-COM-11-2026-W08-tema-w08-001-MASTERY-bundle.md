@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -42,7 +44,7 @@ La anfibología es un vicio de construcción sintáctica que oscurece el sentido
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -67,7 +69,7 @@ El verbo 'haber' en su uso impersonal para indicar existencia de objetos es defe
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -94,7 +96,7 @@ La redundancia o pleonasmo vicioso consiste en utilizar palabras innecesarias qu
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -119,7 +121,7 @@ La adecuación es una propiedad pragmática. Exige adaptar la forma y el fondo d
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -144,7 +146,7 @@ El queísmo consiste en suprimir de forma indebida la preposición 'de' (o cualq
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -171,7 +173,7 @@ Para evitar el encuentro cacofónico de la 'a' final del artículo 'la' con la '
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -198,7 +200,7 @@ El par homófono 'gravar / grabar' y 'acervo / acerbo' exige un dominio de la co
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -223,7 +225,7 @@ La concordancia gramatical exige la correspondencia de número y persona entre e
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -250,7 +252,7 @@ Los deícticos espaciales y temporales (aquí, allí, ahora, entonces) operan co
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -276,7 +278,7 @@ La precisión léxica exige seleccionar el término con el significado más exac
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -303,7 +305,7 @@ La anfibología por adjunción de sintagmas preposicionales al final de la frase
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -330,7 +332,7 @@ Para identificar si corresponde usar 'que' o 'de que', se puede sustituir la pro
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -357,7 +359,7 @@ El adjetivo distributivo 'sendos/sendas' siempre se emplea en plural y concuerda
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -385,7 +387,7 @@ La adecuación léxica de los escritos científicos impone desterrar el registro
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -413,7 +415,7 @@ El uso preposicional para detallar la fuerza motriz de un objeto (de gas, de gas
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -440,7 +442,7 @@ El gerundio de posterioridad es un vicio muy arraigado en la prosa informativa y
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -467,7 +469,7 @@ El dequeísmo es un solecismo de régimen verbal. Demuestra una hipercorrección
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -492,7 +494,7 @@ El dominio de la redacción exige una pedagogía activa del texto. El alumno deb
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -519,7 +521,7 @@ La anfibología estructural en contratos de alta cuantía económica es un pelig
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W08-tema-w08-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna

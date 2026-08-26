@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ Los cuerpos de revolución se obtienen al girar una figura plana alrededor de un
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ El volumen de un cilindro es el producto del área de la base por la altura. Com
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ El volumen del cono es un tercio del área de la base por la altura: $V = \frac{
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ El área de la superficie esférica se calcula con la fórmula $A = 4\pi r^2$. C
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ Planteamos la igualdad: Área lateral = 2 $\times$ Área base $\Rightarrow 2\pi 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ En un cono recto, la generatriz ($g$), la altura ($h$) y el radio ($r$) forman u
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ El volumen de la esfera es proporcional al cubo de su radio ($V \propto r^3$). A
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ El radio es la mitad del diámetro ($r = 6$ m). El área de la superficie curva 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ En el desarrollo de un cilindro, la longitud del rectángulo corresponde al per�
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ El área total del cono es la suma del área de la base circular ($\pi r^2$) y e
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ Por simetría, el radio de la esfera ($R$), el radio del cilindro ($r$) y la mit
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ El volumen de un tronco de cono se halla con $V = \frac{\pi h}{3}(R^2 + r^2 + Rr
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ Si la esfera está inscrita, el cilindro tiene radio $r$ y altura $h = 2r$. Su v
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ El radio del círculo de la sección se halla mediante el teorema de Pitágoras 
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Primero determinamos la generatriz $g$ despejándola del área lateral: $g = 65\
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ Para un cono equilátero inscrito en una esfera de radio $R$, la altura es $1.5R
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ Al rotar sobre la hipotenusa, se forman dos conos con una base común. El radio 
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ El área de un huso esférico de ángulo $\alpha$ es una fracción de la superfi
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ Aplicamos el segundo teorema de Pappus-Guldin: $V = 2\pi d A$, donde $d$ es la d
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W25-geometria-del-espacio-ii-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

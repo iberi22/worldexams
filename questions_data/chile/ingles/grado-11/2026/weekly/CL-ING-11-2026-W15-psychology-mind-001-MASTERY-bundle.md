@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Cognition is the mental action or process of acquiring knowledge and understandi
 'Cognition' is the technical psychological term for the mental processes involved in gaining knowledge.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Sigmund Freud believed that our behavior is heavily influenced by the unconsciou
 The passive voice 'is influenced' describes how human behavior is affected by the unconscious according to Freud.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If I were afraid of heights, I would never have agreed to go skydiving.
 The mixed conditional connects a permanent characteristic ('being afraid') with a past action.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The placebo effect occurs when a patient's condition improves after receiving a 
 The 'placebo effect' is a psychological phenomenon where improvement is driven by expectation.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Emotional intelligence involves the ability to perceive, control, and evaluate e
 'Perceive' is the first step in emotional intelligence: recognizing emotions as they occur.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ An extrovert is an outgoing, socially confident person.
 'Extrovert' is the standard psychological term for someone who is socially outgoing.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ He is used to working under pressure, so this stressful situation doesn't bother
 'Is used to + gerund' describes a state of being accustomed to something in the present.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ The "nature vs. nurture" debate examines the extent to which genetics and enviro
 In the 'nature vs. nurture' framework, 'nurture' represents environmental influences.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Research suggests that sleep-deprived individuals have difficulty concentrating.
 The present simple 'have' is used to state a general, scientifically observed truth.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Confirmation bias is the tendency to search for information in a way that confir
 'Confirms' is the key verb in understanding how this cognitive bias works.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Stress is a feeling of emotional or physical tension that can come from any even
 'Stress' is the psychological term for the reaction described.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By the time the therapy session ended, he had begun to understand the root of hi
 The past perfect 'had begun' shows the sequence of events within the past session.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Social influence refers to the way in which individuals change their behavior to
 'Social influence' describes how our behaviors are affected by the people around us.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If we took mental health as seriously as physical health, the world would be a m
 The second conditional describes a hypothetical shift in societal values.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that resilience is not an innate trait but a skill that can
 'Innate' correctly identifies the quality that the author argues is NOT the only source of resilience.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Empathy allows individuals to resonate with the feelings of others, fostering de
 'Empathy' is the key psychological process for social bonding.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ You had better see a professional if your anxiety starts to interfere with your 
 'Had better' is a standard structure for giving emphatic advice.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Neuroplasticity is the brain's ability to reorganize itself by forming new neura
 'Reorganize' correctly describes the adaptive nature of neuroplasticity.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The therapist suggested that he keep a journal to track his moods.
 Verbs of suggestion take a 'that' clause with the base form (subjunctive).
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W15-psychology-mind-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

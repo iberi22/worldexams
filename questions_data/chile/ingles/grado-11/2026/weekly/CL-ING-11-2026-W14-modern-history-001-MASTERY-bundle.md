@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ An era is a long and distinct period of history with a particular feature or cha
 'Era' is the standard historical term for a significant period of time.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The Berlin Wall had stood for twenty-eight years before it was finally torn down
 The past perfect 'had stood' indicates that the duration of the wall's existence happened before its fall.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the peace treaty hadn't been signed, the conflict would have continued for ma
 The third conditional is used to imagine an alternative outcome for a historical event.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The Industrial Revolution was a period of transition to new manufacturing proces
 'Transition' correctly describes the period of rapid change from manual labor to machine-based manufacturing.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Historians must analyze primary sources carefully to avoid bias and gain a more 
 'Primary sources' are the essential raw materials of historical research.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ An uprising is an act of resistance or rebellion; a revolt.
 'Uprising' is a common term for organized resistance against authority.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The effects of the Great Depression were being felt around the world throughout 
 The past continuous passive 'were being felt' emphasizes the ongoing suffering during that decade.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ The Cold War was characterized by ideological conflict and a nuclear arms race b
 'Ideological' describes the clash of different political and economic systems.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ If the leaders had negotiated more effectively, the war might have been avoided.
 The third conditional 'if + past perfect' allows us to speculate about different outcomes in history.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The legacy of colonialism continues to influence the political and economic land
 'Legacy' refers to the long-term consequences and remains of a historical system or event.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ An armistice is an agreement made by opposing sides in a war to stop fighting fo
 'Armistice' is the formal term for a temporary cessation of hostilities.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Nelson Mandela spent twenty-seven years in prison before he was released in 1990
 The past simple passive 'was released' describes a specific completed action in the past.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ The invention of the printing press catalyzed the spread of information and idea
 'Catalyzed' is an effective verb to describe how a discovery speeds up a social or cultural process.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the internet hadn't been created, globalization would have progressed much mo
 The third conditional passive allows for speculation about the impact of past technological developments.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author argues that studying history helps us develop a sense of perspective 
 'Perspective' refers to the broader understanding gained from seeing events in their historical context.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A treaty is a formally concluded and ratified agreement between countries.
 'Treaty' is the specific term for a formal agreement between nations.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ Historians stated that the revolution had changed the course of history forever.
 In reported speech, we backshift tenses: 'The revolution has changed...' becomes '...stated that the revolution had changed...'.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ The suffragettes fought for the right of women to vote in public elections.
 'Suffrage' is the specific term for the right to vote in political elections.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The nation had been struggling for independence for years before it finally achi
 The past perfect continuous describes a continuous effort that led up to a specific historical turning point.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W14-modern-history-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
