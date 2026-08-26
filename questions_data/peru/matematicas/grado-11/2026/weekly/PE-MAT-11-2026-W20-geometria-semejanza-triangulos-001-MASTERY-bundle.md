@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ El criterio AA establece que si dos ángulos de un triángulo son congruentes co
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ En geometría, cuando escalamos las dimensiones de una figura por un factor $k$,
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ Los rayos del sol son paralelos, por lo que los objetos y sus sombras forman tri
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ El Teorema de Tales indica que una paralela a uno de los lados de un triángulo 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ La altura del cuadrado (su lado) sobre la hipotenusa genera triángulos rectáng
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ El segmento que une los puntos medios de dos lados de un triángulo se llama bas
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ Identificamos la razón de semejanza comparando los lados correspondientes conoc
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ Al trazar una paralela que corta la altura por la mitad, creamos un triángulo s
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ El orificio de la cámara actúa como el vértice común de dos triángulos seme
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ En triángulos semejantes, no solo los lados son proporcionales, sino también t
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ Al inscribir el rombo, el triángulo pequeño $EFC$ es semejante al triángulo o
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ En un trapecio, los triángulos formados por las bases y el punto de intersecci�
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ Primero determinamos la longitud del lado $AC$ restando los otros lados del per�
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ Este es el clásico problema de la media armónica en geometría. La altura del 
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Combinamos dos relaciones métricas: 1) el cuadrado de la altura es el producto 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ El triángulo con ángulos 36-72-72 es especial porque su bisectriz base genera 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ Identificamos dos triángulos que comparten un ángulo y tienen otro par de áng
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ Usamos la propiedad de que el área de un triángulo semejante es proporcional a
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ El Teorema de Menelao permite relacionar segmentos en un triángulo cortado por 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W20-geometria-semejanza-triangulos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

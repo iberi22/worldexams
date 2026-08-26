@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Inflation refers to the general increase in prices and the fall in the purchasin
 'Inflation' is the standard economic term for the situation where the cost of living increases.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The stock market has been fluctuating significantly due to recent political inst
 The present perfect continuous 'has been fluctuating' emphasizes the ongoing nature of the market's volatility.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the trade barriers were removed, the volume of international commerce would i
 The second conditional passive 'if + were + past participle' is used to discuss a hypothetical change in policy.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Globalization has led to increased interdependence among nations, making local e
 'Interdependence' correctly identifies the mutual reliance that characterizes the modern global economy.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Critics of the current economic system argue that wealth is disproportionately c
 'Disproportionately' describes an unequal distribution that doesn't match the size of the groups.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ The World Bank provides financial and technical assistance to developing countri
 'Assistance' is the appropriate term for the support provided by international organizations.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Economists predict that interest rates will have risen by the end of the fiscal 
 The future perfect 'will have risen' describes a state that will be a completed fact at a specific future deadline.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Companies are under increasing pressure to operate sustainably and ethically.
 'Ethically' refers to the moral principles that companies are expected to follow.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The government had implemented several austerity measures before the economy beg
 The past perfect 'had implemented' establishes the sequence of events during the crisis.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The author suggests that the relentless pursuit of economic growth may be incomp
 'Incompatible' correctly identifies the conflict described between growth and the environment.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A budget is an estimate of income and expenditure for a set period of time.
 'Budget' is the standard term for a financial plan.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Thousands of jobs have been lost in the manufacturing sector over the last decad
 The present perfect passive 'have been lost' describes the impact on employment over time.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Emerging markets often offer higher potential returns but also involve greater r
 'Emerging' is the standard term for economies that are in the process of rapid growth and industrialization.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the currency were devalued, exports would become cheaper for foreign buyers.
 The second conditional 'if + were' is used to discuss a hypothetical change in currency value.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author argues that fair trade initiatives help to alleviate poverty by ensur
 'Alleviate' is the appropriate verb for reducing the severity of poverty.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A multinational corporation is a company that operates in several countries.
 'Multinational' correctly describes the international scale of the corporation's operations.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ The citizens wish the government would control inflation more effectively.
 'Wish + would' is used to express a desire for someone or something to change or act differently in the future.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ The gig economy is characterized by the prevalence of short-term contracts or fr
 'Gig economy' is the modern term for a labor market dominated by short-term or freelance positions.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The analyst reported that the company's revenue had exceeded expectations last q
 In reported speech, we backshift tenses: 'exceeded' (past simple) or 'has exceeded' (present perfect) becomes 'had exceeded'.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W07-global-economy-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

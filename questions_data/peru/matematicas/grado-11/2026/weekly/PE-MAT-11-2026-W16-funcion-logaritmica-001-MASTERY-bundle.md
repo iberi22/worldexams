@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -42,7 +44,7 @@ El logaritmo es la operación inversa de la exponenciación. La frase "logaritmo
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -67,7 +69,7 @@ Por definición, la función logarítmica solo acepta valores positivos en su ar
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -92,7 +94,7 @@ Buscamos el exponente al que hay que elevar la base 2 para obtener 64. Realizand
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -117,7 +119,7 @@ Una de las propiedades fundamentales que simplifica cálculos es que el logaritm
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -142,7 +144,7 @@ Sustituimos la relación de amplitudes en la fórmula dada. Al simplificar $A_0$
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -167,7 +169,7 @@ Para que la función esté definida en los reales, el argumento del logaritmo de
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -192,7 +194,7 @@ La fórmula de cambio de base establece que $\log_b(a) = \frac{\log_k(a)}{\log_k
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -217,7 +219,7 @@ Las funciones logarítmicas tienen una asíntota vertical en el valor de $x$ que
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -242,7 +244,7 @@ Usamos la propiedad del logaritmo de un producto para combinar los términos de 
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -267,7 +269,7 @@ Partimos de la fórmula del pH. Multiplicamos por -1 y luego aplicamos la defini
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -292,7 +294,7 @@ Sustituimos los valores conocidos en la expresión. Dividir por 0.05 es equivale
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -317,7 +319,7 @@ Aplicamos la propiedad del producto y convertimos a forma exponencial. Resolvemo
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -342,7 +344,7 @@ Usando la propiedad de cambio de base y sabiendo que $0.5 = 2^{-1}$, podemos dem
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -367,7 +369,7 @@ Sustituimos los valores en la fórmula. Calculamos el logaritmo de 100 (que es 2
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -392,7 +394,7 @@ Usamos el primer punto para hallar la constante de desplazamiento horizontal $c$
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -417,7 +419,7 @@ Aplicamos la función inversa (logaritmo natural) a ambos miembros para "bajar" 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -442,7 +444,7 @@ Como la función logarítmica con base mayor que 1 es creciente, su valor mínim
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -467,7 +469,7 @@ Al aplicar la propiedad del producto, el argumento se simplifica a $x^2$. La exp
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -492,7 +494,7 @@ Igualamos la relación $N/N_0$ a 0.6. Aplicamos logaritmo natural para despejar 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W16-funcion-logaritmica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio

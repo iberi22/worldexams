@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -42,7 +44,7 @@ Los textos discontinuos combinan lenguaje verbal y no verbal. Los componentes vi
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -67,7 +69,7 @@ La bajada o copete cumple una función introductoria en los textos mixtos y disc
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -95,7 +97,7 @@ La comprensión lectora de gráficos exige realizar equivalencias numéricas pre
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -120,7 +122,7 @@ Las tablas comparativas son recursos lógicos excelentes para sintetizar variabl
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -145,7 +147,7 @@ Los textos discontinuos geográficos (mapas de calor o de riesgo) utilizan conve
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -170,7 +172,7 @@ El uso de metáforas visuales (la balanza para denotar equilibrio o igualdad, el
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -200,7 +202,7 @@ La interpretación de tablas históricas exige identificar las inflexiones o qui
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -228,7 +230,7 @@ Los diagramas de flujo utilizan figuras geométricas convencionales. El rombo re
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -255,7 +257,7 @@ La retórica visual de los afiches busca movilizar conductas asociando instrucci
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -286,7 +288,7 @@ La lectura crítica de textos mixtos exige confrontar la retórica del mensaje v
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -316,7 +318,7 @@ La lectura de escalas de medición e indicadores ambientales en textos discontin
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -345,7 +347,7 @@ La interpretación analítica de mapas lingüísticos discontinuos exige cruzar 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -372,7 +374,7 @@ El destinatario ideal de un texto persuasivo mixto se infiere analizando las ape
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -397,7 +399,7 @@ Los gráficos de dispersión evalúan la correlación entre dos variables contin
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -428,7 +430,7 @@ Los procesos logísticos secuenciados en infografías exigen comprender la direc
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -453,7 +455,7 @@ La adecuación gráfica es un principio clave del meta-análisis de textos disco
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -481,7 +483,7 @@ La distorsión de escalas en textos discontinuos es una de las falacias visuales
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -506,7 +508,7 @@ La pertinencia del elemento discontinuo auxiliar se mide por su capacidad de apo
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -531,7 +533,7 @@ Las representaciones institucionales en textos discontinuos suelen idealizar el 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna

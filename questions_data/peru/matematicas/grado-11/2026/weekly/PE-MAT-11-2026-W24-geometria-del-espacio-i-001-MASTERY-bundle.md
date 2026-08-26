@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ Un hexaedro regular es un poliedro de seis caras cuadradas. Es uno de los cinco 
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ Un prisma se denomina recto cuando sus aristas laterales son perpendiculares a l
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ El volumen de un paralelepípedo rectángulo (u ortoedro) se calcula multiplican
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ El volumen de cualquier pirámide se calcula como un tercio del producto del ár
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ El teorema de Euler para poliedros convexos establece que el número de vértice
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ El área lateral de un prisma es el producto del perímetro de la base por la al
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ Un octaedro regular tiene 8 caras que son triángulos equiláteros. El área de 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ La diagonal de un cubo se calcula como $D = a\sqrt{3}$. Si $D = 6\sqrt{3}$, la a
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ El área total de una pirámide es la suma del área de la base y el área later
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ En una pirámide regular, la apotema de la pirámide es la altura de sus caras l
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ Un tetraedro regular tiene 6 aristas iguales. Si la suma es 36, cada arista $a$ 
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ El volumen de un prisma es el producto del área de su base por su altura (en es
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ Al proyectar los centros de dos caras adyacentes sobre la arista común, vemos q
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ La sección es un triángulo cuyos lados son la arista del tetraedro ($a$) y las
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Este es un problema de extremos condicionados. El área superficial es $S = x^2 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ En una pirámide regular, la altura ($h$), el radio de la base ($R$) y la arista
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ Cuando se corta una pirámide con un plano paralelo a la base, la pirámide pequ
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ Para hallar la distancia mínima sobre la superficie, "desdoblamos" el cubo en u
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ En un tetraedro trirrectángulo (donde tres aristas que parten de un mismo vért
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W24-geometria-del-espacio-i-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

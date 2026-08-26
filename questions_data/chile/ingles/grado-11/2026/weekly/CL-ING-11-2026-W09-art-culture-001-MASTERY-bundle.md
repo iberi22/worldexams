@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ A masterpiece is a work of outstanding artistry, skill, or workmanship.
 'Masterpiece' is the term for a work of art that is considered to be of the highest quality.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The painter has been influencing generations of artists since the mid-20th centu
 The present perfect continuous describes an action or state that has persisted over time.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If she had practiced more in her youth, she might have become a professional mus
 The third conditional (if + past perfect) describes a past possibility that did not occur.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Cultural heritage includes tangible assets like monuments and intangible ones li
 'Intangible' is the standard term used to describe cultural elements like songs, stories, and customs.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Some believe that art should be purely aesthetic, while others argue it should s
 'Aesthetic' refers to the philosophical study of beauty and taste, often contrasted with practical or social utility.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ The sculptor used a single block of marble to create this exquisite statue.
 'Sculptor' is the specific name for an artist who creates three-dimensional works.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The exhibition is being held in the city's most prestigious art gallery.
 The present continuous passive 'is being held' describes an event that is currently happening or scheduled.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Cultural appropriation occurs when elements of a marginalized culture are adopte
 'Cultural appropriation' is the specific term for the often controversial adoption of cultural elements.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The Surrealist movement had gained popularity long before the artist began his c
 The past perfect establishes that the movement was already popular before the artist started.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Critics often argue that popular culture can be ephemeral, lacking the lasting v
 'Ephemeral' describes something that is short-lived, a common criticism of trend-based popular culture.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A biography is an account of someone's life written by another person.
 'Biography' is the standard term for a life story written by a third party.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Visitors are forbidden from taking photographs inside the museum.
 The verb 'forbid' followed by 'from' requires the gerund form of the following verb.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ A diverse society is one that embraces and celebrates a multitude of different c
 'Diverse' is the appropriate adjective for a society with many different cultural backgrounds.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If artists were not allowed to express themselves freely, society would suffer f
 The second conditional 'if + were' is used to discuss the hypothetical result of restricted expression.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that digital technology has democratized art by making it m
 'Democratized' describes the process of making art available to a broader range of people through technology.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ The performance received a standing ovation from the appreciative audience.
 'Performance' is the general term for the presentation of an artistic work to an audience.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ She is interested in learning more about contemporary dance.
 'Interested in' is the standard adjective-preposition combination.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Handmade crafts are often passed down from one generation to the next, preservin
 'Passed down' is the phrasal verb used for transmitting traditions or skills through family or community.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The critic remarked that the film was visually stunning but lacked depth.
 In reported speech, we backshift tenses: the original statement 'The film is...' becomes '...remarked that the film was...'.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W09-art-culture-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

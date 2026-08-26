@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ An ethical dilemma is a situation in which a difficult choice has to be made bet
 'Ethical dilemma' is the standard term for a complex moral choice.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Utilitarianism is a theory that suggests actions are right if they are useful or
 The present simple 'suggests' is used to define the core tenet of a philosophical theory.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If you found a wallet full of money on the street, what would you do?
 The second conditional 'if + past simple, would + verb' is used to ask about an imaginary situation.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ A whistleblower is a person who informs on a person or organization regarded as 
 'Whistleblower' is the correct term for an individual who reveals unethical behavior within an organization.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The text implies that prioritizing profit over safety is inherently unethical an
 'Unethical' is the appropriate adjective for actions that violate moral principles.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Just because an action is legal does not necessarily mean it is moral.
 The distinction between 'legal' (following the law) and 'moral' (doing what is right) is a key concept in ethics.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The company should have disclosed the risks to the public much sooner.
 'Should have disclosed' expresses a past obligation that was not met.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ A conflict of interest occurs when an individual's personal interests interfere 
 'Conflict of interest' is the specific term for the ethical situation described.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The ethics of genetic engineering are being debated by scientists and philosophe
 The present continuous passive 'are being debated' describes the current, ongoing nature of the ethical discussion.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Consequentialism is the class of normative ethical theories holding that the con
 'Consequences' are the primary focus of consequentialist ethical frameworks.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Integrity is the quality of being honest and having strong moral principles; mor
 'Integrity' is a core virtue in both personal and professional ethics.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Choosing between two equally important values can be agonizing.
 The adjective 'agonizing' is used to describe a situation that causes great mental pain or difficulty.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Equality of opportunity is the idea that everyone should have a fair chance to s
 'Equality of opportunity' is a central concept in modern ethical and political debate.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If I didn't value honesty so much, I would have lied to protect myself.
 The mixed conditional (if + past simple, would + have + past participle) connects a permanent present state or value with a past hypothetical action.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that we must cultivate our moral compass through reflection
 'Moral compass' is a common metaphorical term for a person's internal sense of ethical guidance.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Empathy is the ability to understand and share the feelings of another.
 'Empathy' is a key emotional skill required for ethical reasoning and social connection.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ We ought to treat others with the same respect that we expect for ourselves.
 'Ought to' is a modal verb used to express a moral duty or recommendation.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Fundamental human rights are inalienable, meaning they cannot be taken away from
 'Inalienable' is the formal term used in human rights documents to describe the permanent nature of fundamental rights.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The philosopher argued that the ends did not always justify the means.
 In reported speech, we backshift tenses: 'The ends do not justify...' becomes '...argued that the ends did not justify...'.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W12-ethical-dilemmas-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

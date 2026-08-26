@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ The term "mass media" refers to various means of communication that reach or inf
 'Mass media' is the technical term for the diverse array of media technologies that reach a large audience.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Information is disseminated across the globe in seconds thanks to digital platfo
 'Information' is an uncountable noun in English and takes a singular verb. The passive voice is used to focus on the action.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ You shouldn't believe everything you read on social media without verifying the 
 'Shouldn't' is the appropriate modal for advising someone against a potentially harmful action.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Sensationalist headlines are often used as "clickbait" to entice users to click 
 'Clickbait' is a modern media term for deceptive headlines designed to drive traffic.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The primary responsibility of a journalist is to provide unbiased and accurate r
 Impartiality or being 'unbiased' is a core principle of journalistic ethics.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A slogan is a short and striking or memorable phrase used in advertising.
 'Slogan' is the specific term for a catchphrase used in marketing.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ In some countries, certain websites are blocked to restrict access to informatio
 The passive voice 'are blocked' is used because the subject (the websites) is the recipient of the action.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Social media algorithms can create "echo chambers" where users are only exposed 
 'Reinforces' describes how algorithms show users content that aligns with what they already think.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The celebrity was surrounded by several reporters when she arrived at the airpor
 The past simple passive 'was surrounded' describes what happened to the celebrity at a specific time in the past.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The concept of the "attention economy" suggests that in a world of information o
 In an economy, a 'scarce' resource is one that is limited and therefore has value.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ The editor is the person in charge of a newspaper or magazine who decides what s
 'Editor' is the title for the individual who oversees the content of a publication.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Traditional print newspapers have been replaced by digital news sites over the l
 'Have been replaced' indicates a process that began in the past and has had a significant impact by the present.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Media literacy is the ability to access, analyze, evaluate, and create media in 
 'Media literacy' is the standard educational term for the critical thinking skills used to navigate the media landscape.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the news reported more positive stories, people's mental health might improve
 The second conditional is used to discuss a hypothetical situation and its likely result.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ Citizen journalism often lacks the rigorous fact-checking found in professional 
 'Fact-checking' is the critical verification process that distinguishes professional journalism from informal reporting.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A broadcast is a live or recorded performance that is transmitted on television 
 'Broadcast' can be used to refer to transmitted media content.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish I hadn't spent so much time watching mindless television yesterday.
 The 'wish + past perfect' structure is used to express a desire for the past to have been different.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Your digital footprint consists of all the information you leave behind while us
 'Digital footprint' metaphorically describes the data trail individuals create online.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The professor said that the media had a profound impact on public opinion.
 In reported speech, a present simple statement is typically changed to past simple.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W04-media-society-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

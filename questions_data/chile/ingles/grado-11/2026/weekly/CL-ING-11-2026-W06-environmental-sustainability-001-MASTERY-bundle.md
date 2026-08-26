@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ The preservation of natural resources for future generations is the core princip
 'Preservation' refers to the careful management and protection of resources to ensure they last.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Species are disappearing at an alarming rate due to habitat loss and climate cha
 The present continuous 'are disappearing' emphasizes that this is a current and ongoing phenomenon.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If we had acted sooner, we could have prevented much of the damage to the ozone 
 The third conditional (if + past perfect) describes an alternative past that did not happen.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Greenwashing occurs when a company spends more time on marketing itself as envir
 'Greenwashing' is the specific term for misleading consumers regarding the environmental practices of a company.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The primary challenge in managing plastic waste is its persistence in the enviro
 'Persistence' correctly describes the quality of plastic remaining in the environment without breaking down.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Solar panels convert sunlight into electricity, providing a clean source of powe
 The primary function of photovoltaic solar panels is to generate electricity.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ It is essential that we reduce our water consumption to prepare for future droug
 'Reduce' is the base form used in the subjunctive mood to express necessity.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Urban sprawl often leads to the destruction of natural habitats and increased re
 'Urban sprawl' describes the outward growth of cities into rural areas.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Years ago, people used to throw away much more waste than we do now.
 'Used to' is the appropriate structure for describing a past habit or state that has changed.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The "throwaway culture" refers to a society that prioritizes convenience over th
 'Convenience' is the primary driver of the consumption of single-use products.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ An endangered species is a type of organism which is at risk of extinction.
 'Endangered' is the formal status for species close to being lost.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Vast areas of the rainforest are being cleared to make way for agriculture.
 The present continuous passive 'are being cleared' describes the current destruction.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Reforestation projects help to sequester carbon from the atmosphere.
 'Sequester' is the technical term for the absorption and storage of carbon dioxide.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the government imposed higher taxes on carbon, companies would likely invest 
 The second conditional is used to describe a hypothetical scenario and its likely outcome.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The study concludes that unless we address acidification, coral reefs will face 
 'Unless' sets the condition that collapse is inevitable if acidification is not addressed.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Biodegradable materials can be broken down by bacteria.
 'Biodegradable' is the property of substances that decompose naturally.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ By 2040, the Arctic Ocean might be ice-free during the summer.
 'Might' is appropriate for expressing a scientific projection with uncertainty.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ The burning of fossil fuels releases large amounts of carbon dioxide.
 'Releases' correctly describes how carbon stored in fossil fuels is emitted.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The scientist warned that the effects of climate change were becoming irreversib
 In reported speech, we backshift tenses: 'are becoming' becomes 'were becoming'.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

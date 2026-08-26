@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Logic is the study of correct reasoning and the principles of valid argument.
 'Logic' is the formal term for the systematic study of valid inference and argument.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Existentialism is a philosophy that emphasizes the individual's freedom and resp
 The present simple 'emphasizes' is used to state a central characteristic of a philosophical movement.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If only we had questioned our assumptions earlier, we would have avoided many lo
 'If only' followed by the past perfect expresses a strong desire for the past to have been different.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Socrates is famous for his method of inquiry, which involved asking a series of 
 'Inquiry' (or 'Socratic inquiry') is the term for the investigative questioning style used by Socrates.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ A fallacy is a mistaken belief, especially one based on unsound argument or inva
 'Fallacy' is the technical term in logic for a flaw in reasoning that makes an argument invalid.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Deontology is an ethical theory that judges the morality of an action based on r
 'Deontology' (from the Greek 'deon' meaning duty) is the rule-based branch of ethics.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The nature of consciousness is still being explored by philosophers and neurosci
 The present continuous passive describes a topic that remains a focus of current, active investigation.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Empiricism is the theory that all knowledge is derived from sense-experience.
 'Empiricism' is the philosophical tradition that prioritizes observation and experience in the formation of knowledge.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Kant's work had been widely read long before it was translated into English.
 The past perfect passive describes the state of the philosopher's work prior to its translation.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Postmodernism often challenges the idea of objective truth, suggesting that all 
 'Objective' refers to truth that is independent of individual or cultural perspective, a concept postmodernism famously questions.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ An axiom is a statement or proposition which is regarded as being self-evidently
 'Axiom' is the term for a foundational principle that is accepted without proof as the basis for further reasoning.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ A valid argument is one in which the conclusion follows necessarily from the pre
 In logic, 'following from' refers to the necessary relationship between the starting points (premises) and the end result (conclusion).
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Epistemology is the branch of philosophy that investigates the nature, origin, a
 'Epistemology' is the specific philosophical name for the theory of knowledge.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If I were a nihilist, I would believe that nothing has any inherent meaning.
 The second conditional 'if + were' is used to explore the hypothetical consequences of adopting a specific worldview.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that Stoicism provides a practical framework for achieving 
 'Tranquility' (or ataraxia) is the primary goal of Stoic philosophy.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A paradox is a seemingly absurd or self-contradictory statement that when invest
 'Paradox' describes the specific type of contradictory statement that challenges normal logic.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ The argument is based on a circular reasoning, which means it assumes what it is
 'Reasoning' is the noun modified by 'circular' to describe this specific type of logical error.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Humanism is an outlook or system of thought attaching prime importance to human 
 'Humanism' is the philosophical perspective that emphasizes the dignity and potential of human beings.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ Descartes argued that the very act of thinking proved his own existence.
 In reported speech, we backshift the tense of the philosopher's original conclusion.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

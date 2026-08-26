@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -42,7 +44,7 @@ Las palabras agudas o de acento oxítono llevan tilde en la última sílaba si t
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -67,7 +69,7 @@ El hiato acentual destruye el diptongo. Exige tildar siempre la vocal cerrada t�
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -94,7 +96,7 @@ La tilde diacrítica sirve para diferenciar palabras que se escriben igual pero 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -119,7 +121,7 @@ Las palabras esdrújulas poseen la mayor fuerza de voz en la antepenúltima síl
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -144,7 +146,7 @@ Los adverbios terminados en '-mente' constituyen una excepción rítmica en espa
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -171,7 +173,7 @@ El pronombre 'se' es átono y no lleva tilde. El verbo 'dar' conjugado en subjun
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -196,7 +198,7 @@ La palabra 'convencer' se escribe con 'v' de forma obligatoria (combinación nv)
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -221,7 +223,7 @@ Las tildes enfáticas sirven para diferenciar los pronombres interrogativos y ex
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -248,7 +250,7 @@ El verbo 'rescindir' mantiene la raíz con 'sc' en su conjugación de subjuntivo
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -273,7 +275,7 @@ En 'caída', el encuentro de una vocal abierta átona (a) con una cerrada tónic
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -300,7 +302,7 @@ Las palabras que presentan hiato acentual se tildan siempre sobre la vocal cerra
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -325,7 +327,7 @@ La palabra 'halló' proviene del verbo hallar y se escribe con H. La palabra 'ho
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -350,7 +352,7 @@ La Ortografía de 2010 de la RAE unificó el criterio de diptongación gráfica.
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -378,7 +380,7 @@ El término 'aún' lleva tilde diacrítica cuando funciona como adverbio tónico
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -405,7 +407,7 @@ La regla de palabras compuestas distingue dos casos: si se escriben fundidas en 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -434,7 +436,7 @@ El monosílabo 'si' lleva tilde diacrítica cuando es adverbio de afirmación ('
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -459,7 +461,7 @@ La Ortografía de la RAE de 2010 determinó la supresión de la tilde diacrític
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -488,7 +490,7 @@ Las voces extranjeras adaptadas al castellano (xenismos adaptados) pierden su gr
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -517,7 +519,7 @@ Vamos a afinar el conteo exacto de secuencias vocálicas de la opción C para qu
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W06-tema-w06-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna

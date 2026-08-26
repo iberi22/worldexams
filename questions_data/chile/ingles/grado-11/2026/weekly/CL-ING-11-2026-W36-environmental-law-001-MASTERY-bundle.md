@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Regulation is the set of rules or directives made and maintained by an authority
 'Regulation' is the standard term for the formal rules used by governments to control environmental impact.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The Paris Agreement has been ratified by nearly every country in the world to co
 The present perfect passive 'has been ratified' describes the official state of acceptance of the treaty.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the environmental laws were strictly enforced, industrial pollution would dec
 The second conditional 'if + were' describes the likely outcome of a hypothetical improvement in legal enforcement.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The "polluter pays" principle suggests that those who produce pollution should b
 'Bear the costs' is the formal phrase for taking financial responsibility for an impact.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Some legal scholars argue that natural features like rivers should have "legal p
 'Legal personhood' is the innovative legal concept of granting rights to non-human entities like ecosystems.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ An environmental impact assessment (EIA) must be conducted before major construc
 'Environmental impact assessment' is the technical term for the study of potential environmental effects of a project.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Stricter limits on carbon emissions are being implemented by several European go
 The present continuous passive describes the current, active rollout of new regulations.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Companies that fail to comply with environmental regulations can face heavy fine
 'Comply with' is the formal verb for obeying laws or regulations.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The community had been fighting the coal plant in court for years before they fi
 The past perfect continuous emphasizes the long duration of the legal battle preceding the final victory.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Greenwashing involves misleading consumers about the environmental benefits of a
 'Deceptive' correctly identifies the dishonest nature of greenwashing practices.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Legislation is a law or a set of laws that have been passed by a parliament or o
 'Legislation' is the comprehensive term for the body of laws created by a legislative authority.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By 2030, many single-use plastics will have been banned in most developed nation
 The future perfect passive describes the ban as a finished reality by the year 2030.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Jurisdiction refers to the official power to make legal decisions and judgments 
 'Jurisdiction' is the precise legal term for the scope of authority of a court or government body.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If more countries joined the treaty, global environmental protection would be mo
 The second conditional 'if + past simple' describes the likely result of a hypothetical increase in treaty members.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that environmental litigation is a powerful tool for holdin
 'Powerful tool' is an appropriate evaluation of the effectiveness of legal action in protecting the environment.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A litigant is a person involved in a lawsuit.
 'Litigant' is the specific legal term for a person or group that is part of a court case.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish the government had passed stricter environmental protections years ago.
 The 'wish + past perfect' structure allows for the expression of regret about a past lack of legal action.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Sustainable finance involves taking environmental, social, and governance (ESG) 
 'Taking into account' is the standard phrase for considering specific factors in a decision-making process.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The judge ruled that the company had violated the Clean Water Act.
 In reported speech, we backshift the tense of the original violation to show it occurred before the ruling.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W36-environmental-law-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

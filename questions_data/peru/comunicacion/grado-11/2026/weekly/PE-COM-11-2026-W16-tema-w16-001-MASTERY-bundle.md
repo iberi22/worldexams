@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Literatura
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 Ricardo Palma consolidó un subgénero narrativo netamente peruano: la tradición. A través de ella, recreó el pasado colonial y de los inicios de la República con un estilo lúdico, salpicado de dichos populares, refranes y picardía criolla.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Literatura
@@ -68,7 +70,7 @@ Ricardo Palma consolidó un subgénero narrativo netamente peruano: la tradició
 La debacle militar y social de la Guerra del Pacífico expuso las profundas fracturas del Estado peruano (exclusión del indio, corrupción de la élite). Los intelectuales realistas reaccionaron denunciando estas taras mediante una literatura de corte analítico, combativo y nacionalista.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Literatura
@@ -93,7 +95,7 @@ La debacle militar y social de la Guerra del Pacífico expuso las profundas frac
 El "Discurso en el Politeama" es el texto fundacional del Realismo combativo peruano. Su retórica insta a romper con el pasado oligárquico de sumisión y corrupción, depositando la responsabilidad del resurgimiento patrio en la ciencia y la juventud.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Literatura
@@ -117,7 +119,7 @@ En la tradición *Al rincón, quita-calzón*, ambientada en una escuela religios
 Ricardo Palma utiliza el humor y la anécdota pícara para humanizar a las figuras eclesiásticas e ilustrar que la inteligencia y la rebeldía del criollo peruano han desafiado históricamente las rigideces dogmáticas de las instituciones coloniales.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Literatura
@@ -142,7 +144,7 @@ A partir del texto, ¿cuál es el cambio metodológico y social fundamental que 
 El Realismo peruano sentó las bases del posterior Indigenismo del siglo XX. Al apartarse de la fantasía romántica, la literatura se transformó en un instrumento de análisis sociológico directo de la explotación rural.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Literatura
@@ -166,7 +168,7 @@ El Realismo peruano sentó las bases del posterior Indigenismo del siglo XX. Al 
 Palma utiliza la tradición para satirizar la cultura forense y la abundancia de leguleyos y pleitistas en la Lima virreinal y republicana, un rasgo costumbrista arraigado en la sociedad andina criolla que logra arrancar sonrisas y reflexiones al lector.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Literatura
@@ -190,7 +192,7 @@ Si *Aves sin nido* (1889) retrata los abusos sistemáticos contra los esposos Yu
 La literatura realista aplica la observación directa para registrar y fustigar la realidad nacional andina con un fin moralizante de reforma cívica. *Aves sin nido* es un texto de tesis que denuncia la complicidad del poder local.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Literatura
@@ -215,7 +217,7 @@ Si los estudiantes redactan un ensayo de crítica social sobre la corrupción mu
 La transferencia de modelos retóricos literarios exige diferenciar el costumbrismo humorístico de Ricardo Palma del racionalismo positivista y ensayístico de Manuel González Prada, aplicando las características de este último a problemas sociales del presente.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Literatura
@@ -240,7 +242,7 @@ La transferencia de modelos retóricos literarios exige diferenciar el costumbri
 El alumno asocia las tesis decimonónicas realistas con propuestas históricas de cambio social (Reforma Agraria), entendiendo la literatura como un catalizador de ideas y debates de alta relevancia estructural.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Literatura
@@ -264,7 +266,7 @@ El alumno asocia las tesis decimonónicas realistas con propuestas históricas d
 La tradición como formato romántico peruano democratiza la historia oficial al fusionar el rigor documental del archivo con la frescura del rumor popular, consolidando una identidad republicana reconciliada con sus raíces costumbristas.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Literatura
@@ -289,7 +291,7 @@ La tradición como formato romántico peruano democratiza la historia oficial al
 La antítesis es un recurso estilístico clave de la retórica realista. González Prada la emplea no de forma ornamental, sino ideológica, forzando al lector a tomar partido frente a la injusticia sistémica social andina.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Literatura
@@ -313,7 +315,7 @@ Al analizar de qué manera la literatura romántica de Ricardo Palma asimila la 
 La asimilación romántica de las figuras patrias busca consagrar mitos de identidad cívica. Melgar encarna de forma perfecta la dualidad romántica del amor y la muerte en el patíbulo libertario de la Emancipación.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -338,7 +340,7 @@ A partir de este dato, ¿cuál es la contradicción o paradoja estética que se 
 El análisis del perfil estético de un autor exige que el estudiante integre contradicciones formales: González Prada fue un heraldo del cambio político radical en el fondo, pero un consumado formalista clásico y riguroso en la arquitectura rítmica de sus versos.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -363,7 +365,7 @@ El análisis del perfil estético de un autor exige que el estudiante integre co
 El alumno ejercita el análisis crítico de textos históricos de ficción al reconocer la diferencia fundamental entre la pretensión de objetividad de la historiografía científica y la libertad creadora de la recreación literaria romántica de Palma.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -389,7 +391,7 @@ González Prada: La literatura que no denuncia el error ni destapa la podredumbr
 La evaluación comparativa de poéticas permite al alumno mapear las grandes corrientes literarias del siglo XIX peruano. El Romanticismo de Palma busca tender puentes con el pasado de forma indulgente; el Realismo de González Prada exige dinamitar ese pasado para erigir un futuro nuevo.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -414,7 +416,7 @@ A partir del fragmento, ¿cuál de los siguientes enunciados define mejor el apo
 El Realismo peruano posee una riquísima vertiente de crítica liderada por escritoras que, de forma pionera en América Latina, vincularon la decadencia de la República con la exclusión sistemática del indio y de la mujer de los fueros de la educación ciudadana.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -439,7 +441,7 @@ Al evaluar críticamente la vigencia del mensaje realista en el Perú contempor�
 El pensamiento evaluativo exige al alumno calibrar la vigencia del patrimonio literario. El Politeama trasciende su coyuntura histórica para consolidarse como una brújula moral autocrítica indispensable para el debate ciudadano peruano moderno.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -467,7 +469,7 @@ El pensamiento evaluativo exige al alumno calibrar la vigencia del patrimonio li
 La evaluación de las *Tradiciones* revela su trascendencia filológica. Al integrar dichos criollos y peruanismos como núcleos de relatos históricos, Ricardo Palma convalidó la soberanía lingüística de las variantes americanas del español.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -492,7 +494,7 @@ Al evaluar con rigor curricular los beneficios formativos complementarios de amb
 El estudiante demuestra capacidad de evaluación sistémica de alto nivel al conciliar dos polos de la literatura peruana del siglo XIX, reconociendo que la identidad nacional requiere tanto del afecto histórico y del humor (Palma) como de la energía reformadora crítica (González Prada) para forjar un perfil ciudadano andino integral y maduro.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W16-tema-w16-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Literatura

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Reading Comprehension
@@ -42,7 +44,7 @@ According to recent reports, global temperatures have risen by 1.1 degrees Celsi
 The present perfect 'have risen' is used with 'since' to describe a situation that began in the past and persists in the present.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Vocabulary
@@ -62,7 +64,7 @@ Transitioning to renewable energy sources is crucial to mitigate the effects of 
 'Renewable' is the appropriate term for energy sources that are not exhausted when used, such as solar or wind power.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ By the year 2050, many countries will have aimed to achieve net-zero carbon emis
 The future perfect 'will have aimed' is used to project the state of an action at a specific future deadline.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The extinction of certain species often leads to a domino effect, disrupting ent
 The term 'domino effect' metaphorically describes how the loss of one species triggers a sequence of negative impacts throughout an ecosystem.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Critics argue that the global response to the pandemic was fragmented. Which of 
 'Fragmented' in this context means disjointed or lacking unity, indicating that countries did not cooperate effectively.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ The rapid growth of cities, known as urbanization, presents challenges for infra
 Urbanization is the standard sociological and geographical term for the expansion and development of cities.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ If more developed countries increased their foreign aid, many developing nations
 The second conditional describes a hypothetical situation in the present or future, using the past simple in the 'if' clause.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Reading Comprehension
@@ -182,7 +184,7 @@ The "digital divide" refers to the gap between those who have access to informat
 The digital divide specifically concerns the inequality in access to computers, the internet, and related technologies.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Vocabulary
@@ -202,7 +204,7 @@ Reducing our carbon footprint is one of the most effective ways individuals can 
 'Carbon footprint' is a common environmental term for the measure of impact on the climate.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The text suggests that consumer choices potentially have the power to influence 
 'Potentially' captures the idea that while one choice might not change a company, the aggregate of many choices can.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Grammar
@@ -242,7 +244,7 @@ The United Nations was established in 1945 to promote international cooperation.
 A specific past date (1945) requires the past simple.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Vocabulary
@@ -262,7 +264,7 @@ Food insecurity occurs when people lack regular access to enough safe and nutrit
 Food insecurity is the technical term for the condition described.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -282,7 +284,7 @@ Many refugees had left their homes due to conflict before the international comm
 The past perfect 'had left' establishes the sequence of two past events.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -302,7 +304,7 @@ The primary driver of deforestation in the Amazon is the expansion of agricultur
 'Driver' is a common term in social and environmental sciences to describe a primary cause.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author implies that while globalization has increased wealth globally, it ha
 'Exacerbated' correctly identifies the negative impact of globalization mentioned in the text.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ The Universal Declaration of Human Rights states that everyone is entitled to li
 'Entitled' is the formal term used in legal and rights-based contexts.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ We must use less plastic if we want to protect our oceans from further pollution
 'Must' is used to express a strong necessity, which is appropriate for the urgent tone of environmental protection.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Reading Comprehension
@@ -382,7 +384,7 @@ A circular economy aims to eliminate waste by keeping products and materials in 
 The core principle of a circular economy is to minimize or eliminate waste through better design and reuse.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Vocabulary
@@ -402,7 +404,7 @@ Many regions are facing severe water shortages, leading to conflicts over access
 'Shortages' correctly describes the lack of water that causes the mentioned conflicts.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W01-global-issues-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -42,7 +44,7 @@ La Regla de Laplace establece que la probabilidad de un suceso es el cociente en
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -67,7 +69,7 @@ La probabilidad es una medida acotada. Un evento imposible tiene probabilidad 0,
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -92,7 +94,7 @@ El espacio muestral del dado es {1, 2, 3, 4, 5, 6}. Los resultados pares son {2,
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -117,7 +119,7 @@ Usamos el concepto de evento complementario: $P(A^c) = 1 - P(A)$. La probabilida
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -142,7 +144,7 @@ Al ser lanzamientos independientes, la probabilidad conjunta es el producto de l
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -167,7 +169,7 @@ Los casos favorables son los números {20, 40, 60, 80, 100}, es decir, 5 casos. 
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -192,7 +194,7 @@ El espacio muestral del lanzamiento de dos dados tiene $6 \times 6 = 36$ element
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -217,7 +219,7 @@ Dos eventos son mutuamente excluyentes si no pueden ocurrir simultáneamente. En
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -242,7 +244,7 @@ Usamos la fórmula $P(A \cup B) = P(A) + P(B) - P(A \cap B)$. Sustituyendo: $30/
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -267,7 +269,7 @@ Para ordenar $n$ objetos distintos en una línea se utiliza el factorial de $n$.
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -292,7 +294,7 @@ La probabilidad del primer tornillo defectuoso es $3/10$. Al no haber reposició
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -317,7 +319,7 @@ Como el orden de los integrantes en un comité no es relevante, usamos la fórmu
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -342,7 +344,7 @@ Para sucesos independientes, la probabilidad de que ocurran ambos es el producto
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -367,7 +369,7 @@ El espacio muestral tiene $2^3 = 8$ casos. El único caso en el que no sale ning
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -392,7 +394,7 @@ Aplicamos el Teorema de Probabilidad Total: sumamos la probabilidad de fumar con
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -417,7 +419,7 @@ La palabra tiene 5 letras con repeticiones: 'A' aparece 3 veces y 'N' aparece 2 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -442,7 +444,7 @@ Usamos el Teorema de Bayes. La probabilidad de que sea mujer dado que fuma es la
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -467,7 +469,7 @@ Aplicamos la fórmula binomial $P(k) = \binom{n}{k} p^k (1-p)^{n-k}$. Para $n=4,
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre
@@ -492,7 +494,7 @@ En probabilidad geométrica dividimos el área favorable entre el área total. E
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W30-probabilidad-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de gestión de datos e incertidumbre

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Ortografía y redacción
@@ -44,7 +46,7 @@ De acuerdo con las reglas de acentuación gráfica del español, ¿cuándo deben
 Las palabras agudas ubican su acento de intensidad en la última sílaba. La regla general de la RAE determina que se escriben con tilde si terminan en vocal o en las consonantes N o S, siempre que no estén precedidas por otra consonante.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Ortografía y redacción
@@ -68,7 +70,7 @@ Las palabras agudas ubican su acento de intensidad en la última sílaba. La reg
 La tilde diacrítica es un recurso gráfico excepcional que exceptúa la regla de que los monosílabos no llevan tilde, con el fin de evitar confusiones en la lectura de palabras homógrafas con distinta jerarquía gramatical (tónicas vs. átonas).
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Ortografía y redacción
@@ -93,7 +95,7 @@ La tilde diacrítica es un recurso gráfico excepcional que exceptúa la regla d
 La conmutación léxica ayuda a comprobar la categoría: si se puede reemplazar "mas" por "pero" ("mas necesito estudiar" -> "pero necesito estudiar") se trata de la conjunción átona sin tilde. El adverbio tónico de cantidad "más" siempre lleva tilde.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Ortografía y redacción
@@ -117,7 +119,7 @@ La conmutación léxica ayuda a comprobar la categoría: si se puede reemplazar 
 Las palabras compuestas sin guion se comportan sintáctica y ortográficamente como un único vocablo a efectos de acentuación. El primer elemento se desacentúa y las reglas generales (agudas, graves, esdrújulas) se aplican sobre la sílaba tónica del término resultante.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Ortografía y redacción
@@ -141,7 +143,7 @@ Las palabras compuestas sin guion se comportan sintáctica y ortográficamente c
 La tilde enfática se coloca sobre los pronombres y adverbios relativos (que, quien, cual, como, cuando, donde, cuanto) únicamente cuando adquieren valor interrogativo o exclamativo directo o indirecto, indicando su carácter tónico frente a las variantes átonas correspondientes.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Ortografía y redacción
@@ -165,7 +167,7 @@ La tilde enfática se coloca sobre los pronombres y adverbios relativos (que, qu
 Los adverbios terminados en "-mente" constituyen la única excepción en español a la regla de que una palabra posee una sola sílaba tónica (tienen acento en la raíz del adjetivo y en el sufijo). Ortográficamente, conservan intacta la acentuación del adjetivo de origen.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -189,7 +191,7 @@ Identifique la opción que presenta un uso **correcto** de las tildes en verbos 
 Los verbos con pronombres enclíticos se someten por completo a las reglas de acentuación general del español. No conservan de forma automática la tilde del verbo original si la palabra resultante no lo requiere, ni la omiten si se convierte en esdrújula o sobresdrújula.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -213,7 +215,7 @@ Los verbos con pronombres enclíticos se someten por completo a las reglas de ac
 La tilde diacrítica distingue la preposición átona "de" ("vestido de algodón") de la forma conjugada tónica del verbo dar "dé" ("espero que me dé su aprobación").
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -237,7 +239,7 @@ Determine cuál de las opciones presenta una construcción correcta donde se apl
 El monosílabo "te" es un pronombre personal átono de segunda persona ("te llamaré"), mientras que "té" es el sustantivo común tónico que nombra a la planta y a la infusión aromática. La tilde los diferencia unívocamente en la escritura.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -261,7 +263,7 @@ De acuerdo con la *Ortografía de la lengua española* de la RAE, ¿cuál es la 
 Las reformas ortográficas de la RAE buscan simplificar el sistema reduciendo excepciones. Dado que la ambigüedad en demostrativos y en la palabra "solo" casi siempre se resuelve por el contexto, se prioriza la escritura sin tilde.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -285,7 +287,7 @@ Identifique la opción que presenta un uso **correcto** de las tildes en palabra
 La tilde disolvente o de hiato acentual se coloca obligatoriamente sobre la vocal cerrada (I, U) cuando esta es tónica y se halla contigua a una vocal abierta (A, E, O), rompiendo el diptongo independientemente de las reglas generales de acentuación.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Ortografía y redacción
@@ -309,7 +311,7 @@ La tilde disolvente o de hiato acentual se coloca obligatoriamente sobre la voca
 El hiato acentual se produce cuando la sílaba tónica recae sobre la vocal cerrada (I, U) contigua a una vocal abierta (A, E, O). Esta tilde disolvente prevalece por sobre las normas generales, marcando la separación silábica obligatoria en la pronunciación.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Ortografía y redacción
@@ -333,7 +335,7 @@ De acuerdo con las normas de la RAE, determine la opción que describe de forma 
 Los hiatos formados por dos vocales abiertas (idénticas, como en "cooperar", "proveer", o distintas, como en "poeta", "teatro") no generan hiato acentual de tilde disolvente. Su acentuación gráfica se define evaluando el conjunto del vocablo mediante las normas de acentuación general del español.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Ortografía y redacción
@@ -357,7 +359,7 @@ Examine el texto propuesto en el contexto y determine con exactitud el número d
 El alumno ejercita la discriminación ortográfica sílaba por sílaba, aplicando las reglas generales (teólogo, viajó, miércoles, analizó, rápida) e identificando cuáles palabras ya están correctamente tildadas ("porqué" sustantivo, "río" hiato) para realizar un conteo de errores riguroso.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Ortografía y redacción
@@ -382,7 +384,7 @@ El alumno ejercita la discriminación ortográfica sílaba por sílaba, aplicand
 La tilde diacrítica distingue la conjunción condicional átona "si" de sus homófonas tónicas: el pronombre personal reflexivo de tercera persona ("para sí mismo") y el adverbio de afirmación ("respondió que sí").
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Ortografía y redacción
@@ -406,7 +408,7 @@ La tilde diacrítica distingue la conjunción condicional átona "si" de sus hom
 Dado que la "h" no representa ningún sonido en el español estándar moderno, carece de relevancia fonológica. Las reglas de separación silábica y de acentuación gráfica (incluyendo la tilde disolvente de hiato en "búho" o "vehículo") se aplican ignorando su presencia.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción
@@ -431,7 +433,7 @@ Evalúe de forma crítica y normativa la tildación de las palabras destacadas e
 La evaluación de párrafos complejos exige al estudiante dominar los cuatro tipos de "porque": 1. "por qué" (interrogativo/exclamativo), 2. "porque" (conjunción causal), 3. "porqué" (sustantivo sinónimo de causa), y 4. "por que" (preposición + relativo). El texto muestra un dominio absoluto y correcto de estas variantes y de las tildes diacríticas básicas.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción
@@ -455,7 +457,7 @@ La evaluación de párrafos complejos exige al estudiante dominar los cuatro tip
 La evaluación profunda de textos formales exige aplicar la reforma de la RAE sobre monosílabos ortográficos (palabras como "guio", "fio", "truhán", "pión" se consideran monosílabos fonéticos/ortográficos y no llevan tilde desde 2010), así como la correcta tildación de esdrújulas (jóvenes, técnico, rápida).
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción
@@ -480,7 +482,7 @@ Al realizar una auditoría ortográfica crítica de esta oración de acuerdo con
 La evaluación compleja exige dominar las reglas de acentuación de diptongos (en "ui" la tilde de las esdrújulas va en la segunda vocal, pero en palabras llanas como "fluido" o "jesuita" terminadas en vocal no se tildan), la correcta colocación de la tilde sobre la vocal abierta en diptongos crecientes/decrecientes (hidráulico), y la pérdida de acento en el primer componente de palabras compuestas (decimocuarto).
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W15-tema-w15-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción

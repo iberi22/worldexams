@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Automation refers to the use of technology to perform tasks without human interv
 'Automation' is the term for machines taking over human tasks.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ By the year 2050, a base will have been established on the Moon according to man
 The future perfect passive describes a project that will be finished by 2050.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If I were a philosopher, I would spend my time questioning the nature of reality
 The second conditional 'if + were' describes an imaginary present situation.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Sovereignty is the supreme authority of a state to govern itself.
 'Sovereignty' describes a nation's independent power.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The text suggests that nature has intrinsic value, meaning it is valuable regard
 'Intrinsic' refers to value that is inherent rather than tool-based.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ To transcend borders means to go beyond geographical and political limits.
 'Transcend' is the key verb for global identity that ignores national limits.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Public opinion is being shaped by the constant stream of digital information.
 The present continuous passive describes the ongoing modification of public thought.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Mediation involves a neutral third party helping to resolve a dispute.
 'Mediation' is the professional process for resolving disagreements.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The lawyer stated that the rights of the citizen had been violated.
 In reported speech, we backshift to the past perfect to show a past violation.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The common theme of this period is the responsibility of the individual in a com
 'Responsibility' correctly summarizes the ethical focus of the units in Period 2.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A futurist is someone who studies current trends to predict what might happen in
 'Futurist' is the name for experts in future-studies.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ If we discover liquid water, it will be the most significant event in the histor
 The first conditional 'if + present simple' is used for possible future events.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ A logical fallacy is a flaw in reasoning that weakens an argument.
 'Fallacy' describes errors in thinking and argumentation.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ The two nations had been allies for decades before the recent border conflict.
 The past perfect describes a long-term state that changed in the past.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ Intergenerational justice involves the duty to protect the planet for those not 
 'Duty' correctly identifies the moral requirement of intergenerational justice.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Empowerment is the process of becoming stronger and more confident, especially i
 'Empowerment' is the term for gaining the ability to act and advocate.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ It is essential that students evaluate the credibility of online sources.
 The base form 'evaluate' is used in the subjunctive mood to express necessity.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ A compromise is an agreement or a settlement of a dispute that is reached by eac
 'Compromise' is the fundamental result of successful mediation.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ Refugees whose lives are in danger often seek asylum in neighboring countries.
 'Whose' connects the people to the dangerous situation they are in.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W30-review-p2-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

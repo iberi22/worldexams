@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ A hypothesis is a proposed explanation made on the basis of limited evidence as 
 'Hypothesis' is the fundamental term for a tentative explanation in the scientific method.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Penicillin was discovered by Alexander Fleming in 1928, marking a new era in med
 The past simple passive 'was discovered' is used because the focus is on the discovery itself and the date is specified.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the project had received more funding, the researchers would have completed t
 The third conditional (if + past perfect) describes a past situation that did not happen.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Gene editing allows scientists to modify an organism's DNA with unprecedented pr
 'Precision' is the defining characteristic of modern gene-editing tools like CRISPR.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The rapid development of artificial intelligence raises fundamental questions ab
 'Raises' is the standard verb for introducing or bringing attention to an important topic or question.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ It is mandatory to wear protective goggles while performing chemical experiments
 'Mandatory' is the formal term for actions that are required by safety protocols.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Scientists have been investigating the effects of microplastics on marine life f
 The present perfect continuous is used for actions that began in the past and are still in progress.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ The Mars rover is equipped with sensors to detect signs of water and past life o
 'Detect' is the scientific term for finding or sensing something that is not immediately visible.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The experiment would have been more successful if the temperature had remained c
 The third conditional 'would have been' describes a past outcome that would have changed if conditions were different.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Pseudoscience consists of statements that claim to be both scientific and factua
 'Incompatible' correctly describes the lack of consistency between pseudoscience and rigorous scientific methodology.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Empirical evidence is information received by means of the senses, particularly 
 'Empirical' is the term for evidence that comes from direct experience or experimentation.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ A new species of orchid has been discovered in the depths of the Andes.
 The present perfect passive 'has been discovered' links a past event (the discovery) with the present fact of its existence.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ The clinical trial was halted because the researchers found the risks to be disp
 'Disproportionate' is used when one side of a comparison (risks) is much larger than the other (benefits).
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If scientists hadn't collaborated globally, the vaccine wouldn't have been devel
 The third conditional passive indicates that a past achievement resulted from a specific past condition.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that the new telescope will revolutionize our understanding
 'Revolutionize' is the appropriate verb for a development that significantly changes a field of study.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A vaccine is a substance used to stimulate the production of antibodies and prov
 'Vaccine' is the term for the biological preparation that provides immunity.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ The study showed that the new drug was more effective than the previous treatmen
 In reported findings, it is standard to backshift the tense to the past.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Peer review is the evaluation of work by one or more people of similar competenc
 'Peer review' is the professional evaluation process used in the scientific community.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ By next month, I will have been studying marine biology for three years.
 The future perfect continuous describes the length of an action at a certain time in the future.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W13-science-discovery-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

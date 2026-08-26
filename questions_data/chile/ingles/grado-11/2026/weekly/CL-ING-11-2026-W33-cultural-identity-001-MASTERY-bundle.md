@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Cultural identity is the sense of belonging to a particular group, often defined
 'Belonging' is the core psychological feeling that defines cultural identity.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Many immigrants are pressured into assimilating into the dominant culture of the
 The structure 'pressure (someone) into + gerund' is used to describe forced or strongly encouraged behavior.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If we didn't document these oral traditions, they would eventually be lost forev
 The second conditional 'if + past simple' describes the imaginary result of failing to preserve traditions.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Heritage refers to the traditions, achievements, and beliefs that are part of th
 'Heritage' is the specific term for the cultural and historical legacy of a group.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Multiculturalism is a policy that recognizes and supports the presence of multip
 'Recognizes' correctly identifies the active acknowledgment of cultural diversity in multicultural policies.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A person who is bilingual is able to speak two languages fluently.
 'Bilingual' is the standard term for proficiency in two languages.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Indigenous languages are being revitalized through new educational programs and 
 The present continuous passive describes the current and active process of bringing languages back to use.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ A diaspora is a scattered population whose origin lies in a separate geographic 
 'Diaspora' is the technical term for a community that has moved from its original homeland to various other places.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ She had been living in the city for years before she decided to reconnect with h
 The past perfect continuous highlights the long duration of her urban life preceding her change in perspective.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Cultural homogenization refers to the process by which local cultures are reduce
 'Homogenization' (from 'homo' meaning same) is the term for the loss of cultural variety in favor of a single global style.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Social norms are the unwritten rules of behavior that are considered acceptable 
 'Norms' is the sociological term for the informal rules that guide social interaction.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By next year, the cultural festival will have been celebrated for fifty consecut
 The future perfect passive indicates that the 50-year milestone will be a finished fact next year.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Acculturation is the process of social, psychological, and cultural change that 
 'Acculturation' describes the complex process of adapting to a new culture while maintaining some of one's own.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If you had traveled more, you would have a better understanding of different cul
 The mixed conditional connects a past hypothetical experience (traveling) with a present state of knowledge.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that cultural hybridity is a creative force that leads to t
 'Hybridity' refers to the mixing of cultural elements, which the author evaluates as a positive 'creative force'.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Your ancestry refers to your family's history and the people you are descended f
 'Ancestry' is the specific term for one's line of descent or family background.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I am looking forward to visiting my ancestral home for the first time.
 The phrasal verb 'look forward to' requires the following verb to be in the gerund form.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Cultural appropriation often involves the adoption of elements of one culture by
 'Appropriation' is the term for taking cultural elements, often from a marginalized group, for one's own use.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The sociologist argued that identity was a dynamic and constantly evolving const
 In reported speech, we backshift the tense of the original statement to show it was said in the past.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

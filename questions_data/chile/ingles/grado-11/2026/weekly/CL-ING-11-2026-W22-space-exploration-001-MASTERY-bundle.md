@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ An orbit is the curved path of a celestial object or spacecraft around a star, p
 'Orbit' is the specific scientific term for the elliptical path of an object around a larger body in space.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The moon landing in 1969 was watched by millions of people around the world.
 The past simple passive 'was watched' describes how the audience experienced a specific historical event.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If life existed on other planets, it would change our understanding of the unive
 The second conditional 'if + past simple' is used to talk about an imaginary or unlikely current situation.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The "habitable zone" refers to the region around a star where conditions are jus
 'Habitable' is the standard scientific adjective for regions or planets that could potentially support life.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Critics argue that the resources spent on space exploration could be better util
 'Pressing' describes urgent and serious problems that require immediate action and resources.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A probe is an unmanned exploratory spacecraft that transmits information from ou
 'Probe' is the specific term for an unmanned craft designed for remote scientific observation.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Data from the James Webb Telescope is being analyzed by astronomers around the g
 The present continuous passive describes the current and continuous scientific work being done.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Astrophysics is the branch of astronomy that deals with the physical properties 
 'Astrophysics' is the correct scientific discipline for studying the physical nature of stars and galaxies.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Scientists had suspected the existence of black holes long before they were able
 The past perfect 'had suspected' establishes that the suspicion existed before the actual photograph was taken.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The accumulation of space debris in Earth's orbit poses a serious threat to futu
 'Threat' is the appropriate term for the danger posed by the growing amount of junk in space.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ An astronaut is a person who is trained to travel in a spacecraft.
 'Astronaut' is the professional title for individuals who travel beyond Earth's atmosphere.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By the end of this century, a permanent base will have been established on Mars.
 The future perfect passive indicates that the base will be a finished achievement by the end of the century.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Microgravity is the condition in which people or objects appear to be weightless
 'Microgravity' is the scientific term for the state of apparent weightlessness experienced in orbit.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the Apollo 11 mission hadn't been successful, the space race would have taken
 The third conditional is used to speculate about how historical events might have gone differently.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that private companies are set to play a pivotal role in th
 'Pivotal' is an excellent adjective for describing a role that is central and critically important.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A galaxy is a system of millions or billions of stars, together with gas and dus
 'Galaxy' is the standard term for a massive, gravitationally bound system of stars.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ Astronomers announced that they had found evidence of liquid water on Europa.
 In reported speech, we backshift the tense of the discovery to show it happened before the announcement.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Terraforming is the hypothetical process of deliberately modifying another plane
 'Terraforming' (literally 'Earth-shaping') is the term for making other planets more like Earth.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ By the time the spacecraft reaches Pluto, it will have been traveling for over n
 The future perfect continuous describes the total length of the journey at the moment of arrival.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W22-space-exploration-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

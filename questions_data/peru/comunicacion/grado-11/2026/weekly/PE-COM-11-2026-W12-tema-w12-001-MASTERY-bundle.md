@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Sintaxis y semántica
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 La oración compuesta se conforma sintácticamente por la unión de dos o más proposiciones que expresan ideas complejas coordinadas, subordinadas o yuxtapuestas, lo que implica la presencia de más de un verbo conjugado.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Sintaxis y semántica
@@ -68,7 +70,7 @@ La oración compuesta se conforma sintácticamente por la unión de dos o más p
 Los coordinantes adversativos enlazan proposiciones de igual jerarquía sintáctica introduciendo una rectificación, limitación u oposición entre el significado de la primera y la segunda idea.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Sintaxis y semántica
@@ -92,7 +94,7 @@ Los coordinantes adversativos enlazan proposiciones de igual jerarquía sintáct
 La yuxtaposición es un mecanismo sintáctico para formar oraciones compuestas donde las proposiciones se colocan una al lado de la otra, unidas por comas, puntos y comas o dos puntos, manteniendo su independencia gramatical directa.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Sintaxis y semántica
@@ -117,7 +119,7 @@ La yuxtaposición es un mecanismo sintáctico para formar oraciones compuestas d
 Las proposiciones subordinadas sustantivas funcionan como un sustantivo dentro de la oración principal. Al conmutar la proposición por el pronombre neutro "eso" ("Eso preocupa"), se evidencia que cumple el rol de sujeto sintáctico.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Sintaxis y semántica
@@ -141,7 +143,7 @@ Las proposiciones subordinadas sustantivas funcionan como un sustantivo dentro d
 Las proposiciones subordinadas adjetivas (o de relativo) son introducidas por pronombres relativos ("que", "quien", "cual") y desempeñan la función de adyacente o modificador directo de un sustantivo antecedente.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Sintaxis y semántica
@@ -165,7 +167,7 @@ Las proposiciones subordinadas adjetivas (o de relativo) son introducidas por pr
 Las subordinadas sustantivas de objeto directo completan la significación de un verbo transitivo. La prueba de conmutación pronominal por "lo" resulta infalible para asegurar esta función gramatical.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Sintaxis y semántica
@@ -189,7 +191,7 @@ Las subordinadas sustantivas de objeto directo completan la significación de un
 Las oraciones subordinadas adverbiales concesivas expresan un impedimento u obstáculo a la acción principal, pero que no logra anularla ni evitar su realización. Sus nexos típicos son "aunque", "a pesar de que", "por más que".
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Sintaxis y semántica
@@ -213,7 +215,7 @@ Seleccione la opción que presenta una oración compuesta subordinada adverbial 
 Las subordinadas adverbiales temporales funcionan como complementos circunstanciales de tiempo de la oración principal, indicando anterioridad, simultaneidad o posterioridad cronológica. Sus nexos comunes son "cuando", "en cuanto", "apenas", "mientras".
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Sintaxis y semántica
@@ -237,7 +239,7 @@ Las subordinadas adverbiales temporales funcionan como complementos circunstanci
 Las subordinadas adverbiales condicionales expresan una condición indispensable (prótasis) de cuya veracidad o cumplimiento depende que se verifique el enunciado principal (apódosis).
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Sintaxis y semántica
@@ -262,7 +264,7 @@ Las subordinadas adverbiales condicionales expresan una condición indispensable
 Las subordinadas ilativas o consecutivas plantean la consecuencia o derivación directa de la proposición antecedente. El nexo de enlace suele ser "de manera que", "de modo que", "así que", "por consiguiente".
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Sintaxis y semántica
@@ -286,7 +288,7 @@ Identifique la opción que presenta un caso de **dequeísmo** (inserción indebi
 El dequeísmo consiste en usar la preposición "de" antes de la conjunción "que" cuando la sintaxis de la oración no la exige. Para verificar, se puede sustituir la subordinada por el pronombre "algo": "Los pescadores piensan *algo*" (correcto) vs. "Los pescadores piensan *de algo*" (incorrecto).
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Sintaxis y semántica
@@ -310,7 +312,7 @@ Señale cuál de las siguientes oraciones presenta una proposición subordinada 
 El complemento de régimen verbal es una función sintáctica desempeñada por un grupo preposicional impuesto por la semántica del propio verbo (insistir en, confiar en, depender de, aspirar a). La proposición subordinada actúa como término de la preposición regida.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Sintaxis y semántica
@@ -335,7 +337,7 @@ Determine el número de proposiciones subordinadas presentes en la oración y su
 El análisis sintáctico de oraciones complejas requiere rastrear cada verbo conjugado y delimitar el nexo que lo introduce. En este caso: 1. "cuando" (adverbial temporal), 2. "que" (sustantiva de OD), y 3. "que" (relativo que introduce adjetiva especificativa).
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Sintaxis y semántica
@@ -362,7 +364,7 @@ II. "Los comuneros de Puno, que protestaron pacíficamente, recibieron el apoyo 
 La puntuación incide directamente en la sintaxis y semántica. Las adjetivas especificativas delimitan al sustantivo antecedente (no llevan comas); las explicativas se refieren a toda la extensión del sustantivo y van entre comas.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Sintaxis y semántica
@@ -387,7 +389,7 @@ La puntuación incide directamente en la sintaxis y semántica. Las adjetivas es
 La elipsis verbal es un recurso cohesivo muy común en el español formal que consiste en suprimir el verbo en proposiciones sucesivas cuando ha sido expresado con anterioridad. La coma elíptica marca gráficamente dicha supresión.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Sintaxis y semántica
@@ -412,7 +414,7 @@ La elipsis verbal es un recurso cohesivo muy común en el español formal que co
 Los infinitivos pueden encabezar proposiciones subordinadas sustantivas (oraciones de infinitivo) cuando dependen de verbos de percepción sensitiva (ver, oír) o causativos (hacer, dejar), ejerciendo el rol sintáctico de objeto directo.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Sintaxis y semántica
@@ -436,7 +438,7 @@ Al realizar un análisis crítico y normativo de la oración anterior de acuerdo
 Los verbos de entendimiento, voluntad y lengua (asumir, ignorar, decir, pensar, desear) rigen objeto directo. La inserción de la preposición "de" entre estos verbos y sus respectivas proposiciones subordinadas sustantivas constituye el vicio de dequeísmo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Sintaxis y semántica
@@ -461,7 +463,7 @@ Evalúe la coherencia y validez de la correlación de tiempos verbales (consecut
 La correlación temporal en las condicionales irreales del pasado (hipótesis sobre algo que ya no ocurrió) exige de forma unívoca el pretérito pluscuamperfecto del subjuntivo (hubiera/hubiese) en la prótasis y el condicional compuesto (habría) en la apódosis.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Sintaxis y semántica
@@ -486,7 +488,7 @@ La correlación temporal en las condicionales irreales del pasado (hipótesis so
 El anacoluto o asimetría sintáctica ocurre cuando se quiebra la consistencia estructural de una oración. Al enlazar múltiples proposiciones adjetivas relativas al mismo antecedente, es mandatorio coordinarlas de forma simétrica ("que ingresó *y* a quien felicitaban") para preservar la coherencia jerárquica.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W12-tema-w12-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Sintaxis y semántica

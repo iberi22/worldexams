@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Objectivity is the practice of reporting news without being influenced by person
 'Objectivity' is the formal term for the journalistic goal of impartial and factual reporting.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Journalists must ensure that their sources are verified before publishing any se
 The passive voice 'are verified' focuses on the status of the sources being authenticated.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the reporter had checked the facts, the newspaper wouldn't have been sued for
 The third conditional is used to speculate about how a past ethical failure led to a negative consequence.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The text suggests that public figures also have a right to privacy, although it 
 'Balanced against' is the standard legal and ethical term for weighing two competing rights or interests.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The text suggests that public figures also have a right to privacy, although it 
 'Deliberate' correctly identifies the intentional nature of the misinformation in fake news.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Libel is a published false statement that is damaging to a person's reputation; 
 'Libel' is the formal legal term for permanent (usually written) defamation in the media.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The news outlet's editorial practices are being scrutinized following the recent
 The present continuous passive describes the current, active examination of the organization's ethics.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Whistleblowers play a crucial role in exposing corporate misconduct that would o
 'Misconduct' is the formal term for the unethical or illegal actions that a whistleblower reveals.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The code of ethics stated that journalists shouldn't accept gifts from the peopl
 In reported guidelines, 'shouldn't' is used to express the negative advice or requirement contained in the original code.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Native advertising is deceptive if it is not clearly labeled, as it blurs the li
 'Blurs' correctly describes how deceptive advertising makes it difficult to distinguish between news and marketing.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Plagiarism is the practice of taking someone else's work or ideas and passing th
 'Plagiarism' is the core ethical violation involving the theft of intellectual property.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By next year, stricter regulations will have been implemented to combat online h
 The future perfect passive indicates that the new rules will be a finished achievement by the stated deadline.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Transparency involves being open and honest about how information is gathered an
 'Transparency' is the key ethical term for openness regarding an organization's internal processes.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ You shouldn't reveal your sources unless it is absolutely necessary for the safe
 'Unless' sets the rare and extreme condition (safety) under which a journalist might break the rule of protecting sources.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that rigorous fact-checking is the best defense against the
 'Fact-checking' is the specific verification process evaluated as the 'best defense' against false news.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A conflict of interest occurs when a journalist's personal involvement in a stor
 'Conflict of interest' is the standard term for when professional duty is at risk due to personal ties or benefits.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish that news organization hadn't sensationalized that tragedy for the sake o
 The 'wish + past perfect' structure allows for the expression of ethical regret about a past action.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Journalistic integrity involves a commitment to accuracy, fairness, and ethical 
 'Integrity' is the comprehensive term for the moral and professional soundness required in journalism.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The ombudsman argued that the media needed to do a better job of correcting its 
 In reported speech, we backshift the tense of the original statement to show it was said in the past.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W34-media-ethics-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
