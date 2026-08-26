@@ -1,157 +1,108 @@
 /**
- * WX-201 ally stub — PDF ingestion layer for estudio RAG flow.
- * This module is the external ally announced in WX-201.
- * estudio.astro imports from here via `src/lib/ai/pdf`.
+ * WX-201 — Ingesta PDF 100% local (web-llm / WebGPU)
+ * PDF nunca sale del dispositivo. Flujo: extracción → chunking → embeddings → IndexedDB.
  *
- * Real WX-201 will replace the body with pdf.js + worker.
- * This stub keeps the contract stable so WX-202 builds green.
+ * Uso:
+ *   import { parsePDF, getPDFDoc, listPDFDocs } from '$lib/ai/pdf';
+ *   const doc = await parsePDF(file);
  */
 
-export interface ParsedPDF {
-  text: string;
-  numPages: number;
-  info: { title?: string; author?: string };
-  rawBytes: number;
-}
+export type { ExtractedPage, ExtractionResult, PDFMetadata } from './extractor';
+export { extractTextFromArrayBuffer, extractTextFromFile, extractTextFromUint8Array } from './extractor';
 
-export interface TextChunk {
-  id: string;
-  text: string;
-  index: number;
-  length: number;
+export type { Chunk, ChunkerOptions } from './chunker';
+export { chunkText, chunkPages, estimateTokens, tokensToChars } from './chunker';
+
+export { DEFAULT_EMBEDDING_MODEL, EMBEDDING_DIMS, mockEmbedding, createEmbedder, generateEmbedding } from './embedder';
+export type { Embedder, EmbedderOptions } from './embedder';
+
+export type { PDFDoc } from './storage';
+export { savePDFDoc, getPDFDoc, listPDFDocs, deletePDFDoc, clearAllPDFDocs, hashBuffer, hashFile, getNamespace } from './storage';
+
+import { extractTextFromArrayBuffer } from './extractor';
+import { chunkPages } from './chunker';
+import { createEmbedder, DEFAULT_EMBEDDING_MODEL } from './embedder';
+import { savePDFDoc, hashBuffer } from './storage';
+import type { PDFDoc } from './storage';
+
+export interface ParsePDFOptions {
+  /** Modelo de embeddings (default Xenova/all-MiniLM-L6-v2). Si es undefined usa mock en tests. */
+  modelId?: string;
+  /** Si true, fuerza mock embeddings (útil tests / sin WebGPU) */
+  forceMockEmbeddings?: boolean;
+  chunkSize?: number;
+  overlap?: number;
+  onProgress?: (stage: 'extract' | 'chunk' | 'embed' | 'persist', progress: number, info?: string) => void;
 }
 
 /**
- * Parse a PDF File into plain text.
- * Tries pdf.js when available; falls back to naive decoding so
- * tests and offline flows don't break.
+ * Parsea un PDF 100% local.
+ * @param file - File del input <input type="file">
+ * @param options - opciones de chunking/embeddings
+ * @returns PDFDoc con chunks + embeddings y metadatos, ya persistido en IndexedDB (wx-pdf-{hash})
  */
-export async function parsePDF(file: File): Promise<ParsedPDF> {
+export async function parsePDF(file: File, options: ParsePDFOptions = {}): Promise<PDFDoc> {
+  const { modelId = DEFAULT_EMBEDDING_MODEL, forceMockEmbeddings, chunkSize, overlap, onProgress } = options;
+
+  onProgress?.('extract', 0, 'Extrayendo texto…');
   const buffer = await file.arrayBuffer();
+  const hash = await hashBuffer(buffer);
+  const extraction = await extractTextFromArrayBuffer(buffer);
+  onProgress?.('extract', 1, `Extraídas ${extraction.numPages} páginas`);
 
-  // Try to lazy-load pdfjs-dist if present (optional dep)
-  try {
-    // @ts-ignore dynamic optional
-    const pdfjs: any = await import('pdfjs-dist').catch(() => null);
-    if (pdfjs?.getDocument) {
-      const loadingTask = pdfjs.getDocument({ data: buffer, useSystemFonts: true });
-      const pdf = await loadingTask.promise;
-      let fullText = '';
-      for (let i = 1; i <= pdf.numPages; i++) {
-        const page = await pdf.getPage(i);
-        const content = await page.getTextContent();
-        const pageText = content.items
-          .map((it: any) => (typeof it.str === 'string' ? it.str : ''))
-          .join(' ');
-        fullText += pageText + '\n\n';
-      }
-      return {
-        text: fullText.trim() || (await fallbackDecode(buffer)),
-        numPages: pdf.numPages,
-        info: { title: file.name },
-        rawBytes: buffer.byteLength,
-      };
-    }
-  } catch {
-    // ignore, fallback below
-  }
-
-  const text = await fallbackDecode(buffer);
-  // heuristic page count from text length
-  const numPages = Math.max(1, Math.round(text.length / 2500) || 1);
-  return { text, numPages, info: { title: file.name }, rawBytes: buffer.byteLength };
-}
-
-async function fallbackDecode(buffer: ArrayBuffer): Promise<string> {
-  // naive: extract printable strings
-  const bytes = new Uint8Array(buffer);
-  let decoded = '';
-  try {
-    decoded = new TextDecoder('utf-8', { fatal: false }).decode(bytes);
-  } catch {
-    decoded = '';
-  }
-  // Strip binary noise, keep readable segments > 20 chars
-  const cleaned = decoded
-    .replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]+/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-  if (cleaned.length > 100) return cleaned.slice(0, 200_000);
-  // last resort: placeholder so RAG still demos
-  return cleaned || `Contenido extraído de ${bytes.length} bytes (sin texto decodificable — usa un PDF con texto seleccionable).`;
-}
-
-/**
- * Chunk plain text into overlapping windows for RAG.
- */
-export function chunkText(text: string, chunkSize = 800, overlap = 120): TextChunk[] {
-  const clean = String(text || '').trim();
-  if (!clean) return [];
-  const chunks: TextChunk[] = [];
-  let idx = 0;
-  let start = 0;
-  while (start < clean.length) {
-    const end = Math.min(clean.length, start + chunkSize);
-    const slice = clean.slice(start, end).trim();
-    if (slice.length > 40) {
-      chunks.push({ id: `chunk-${idx}`, text: slice, index: idx, length: slice.length });
-      idx++;
-    }
-    if (end >= clean.length) break;
-    start = end - overlap;
-    if (start < 0) start = 0;
-  }
-  return chunks;
-}
-
-/**
- * Select top K chunks by simple term-frequency relevance.
- * Query = topic + subject keywords; no embedding needed offline.
- */
-export function selectTopChunks(
-  chunks: TextChunk[],
-  query: string,
-  k = 5,
-): TextChunk[] {
-  if (chunks.length === 0) return [];
-  if (chunks.length <= k) return chunks;
-  const terms = String(query || '')
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/\p{M}/gu, '')
-    .split(/[^a-z0-9]+/)
-    .filter((w) => w.length >= 3);
-  const termSet = new Set(terms);
-  if (termSet.size === 0) return chunks.slice(0, k);
-  const scored = chunks.map((c) => {
-    const lower = c.text.toLowerCase().normalize('NFD').replace(/\p{M}/gu, '');
-    let score = 0;
-    for (const t of termSet) {
-      const occ = (lower.match(new RegExp(`\\b${escapeRegExp(t)}\\b`, 'g')) || []).length;
-      score += occ * (t.length > 5 ? 2 : 1);
-    }
-    // slight boost for mid-doc chunks (often body)
-    score += Math.max(0, 1 - Math.abs(c.index - chunks.length / 2) * 0.05);
-    // penalize very short chunks
-    if (c.length < 200) score *= 0.8;
-    return { c, score };
+  onProgress?.('chunk', 0, 'Segmentando…');
+  const docId = `wx-pdf-${hash.slice(0, 8)}`;
+  const chunks = chunkPages(extraction.pages, {
+    chunkSize: chunkSize ?? 512,
+    overlap: overlap ?? 50,
+    docId,
   });
-  scored.sort((a, b) => b.score - a.score);
-  const top = scored.slice(0, k).sort((a, b) => a.c.index - b.c.index);
-  return top.map((s) => s.c);
+  onProgress?.('chunk', 1, `${chunks.length} chunks`);
+
+  onProgress?.('embed', 0, 'Generando embeddings (100% local)…');
+  // En entorno test forzamos mock para no descargar modelo
+  const isTest = typeof process !== 'undefined' && (process.env?.VITEST === 'true' || process.env?.NODE_ENV === 'test');
+  const embedder = await createEmbedder({
+    modelId,
+    forceMock: forceMockEmbeddings ?? isTest,
+    onProgress: (p, s) => onProgress?.('embed', p, s),
+  });
+
+  const texts = chunks.map((c) => c.text);
+  const embeddings = await embedder.embedBatch(texts);
+  for (let i = 0; i < chunks.length; i++) {
+    chunks[i].embedding = embeddings[i];
+  }
+  await embedder.dispose();
+  onProgress?.('embed', 1, 'Embeddings listos');
+
+  const doc: PDFDoc = {
+    id: hash,
+    hash,
+    fileName: file.name,
+    fileSize: file.size,
+    numPages: extraction.numPages,
+    chunks,
+    metadata: extraction.metadata,
+    createdAt: Date.now(),
+    modelId,
+  };
+
+  onProgress?.('persist', 0, 'Guardando en IndexedDB…');
+  await savePDFDoc(doc);
+  onProgress?.('persist', 1, `Persistido en ${`wx-pdf-${hash}`}`);
+
+  return doc;
 }
 
-function escapeRegExp(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
-/** Convenience: parse + chunk + select in one go */
-export async function ingestPDFForRAG(
-  file: File,
-  opts?: { query?: string; chunkSize?: number; topK?: number },
-): Promise<{ parsed: ParsedPDF; chunks: TextChunk[]; selected: TextChunk[] }> {
-  const parsed = await parsePDF(file);
-  const chunks = chunkText(parsed.text, opts?.chunkSize ?? 800);
-  const selected = selectTopChunks(chunks, opts?.query ?? file.name.replace(/\.pdf$/i, ''), opts?.topK ?? 5);
-  return { parsed, chunks, selected };
+/**
+ * Parsea desde ArrayBuffer / Uint8Array (útil en tests o cuando ya se tiene el buffer).
+ */
+export async function parsePDFFromBuffer(
+  buffer: ArrayBuffer,
+  fileName = 'document.pdf',
+  options: ParsePDFOptions = {}
+): Promise<PDFDoc> {
+  const file = new File([buffer], fileName, { type: 'application/pdf' });
+  return parsePDF(file, options);
 }
