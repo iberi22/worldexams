@@ -1,0 +1,203 @@
+---
+/**
+ * QuestionEditor.astro — lista editable de preguntas generadas
+ * Props: questions JSON inicial; expone `window.__STUDIO_QUESTIONS__`
+ * y emite `studio:questions-updated` en cada edición.
+ */
+interface Props {
+  questions?: unknown[];
+}
+const { questions = [] } = Astro.props;
+---
+
+<div id="question-editor" class="w-full">
+  <div id="qe-empty" class="rounded-2xl border border-dashed border-white/10 bg-white/[0.03] px-6 py-10 text-center text-sm text-white/50">
+    Aún no hay preguntas. Sube un PDF y presiona <span class="font-semibold text-white/80">Generar</span>.
+  </div>
+  <div id="qe-list" class="hidden space-y-4"></div>
+  <p id="qe-count" class="mt-3 hidden text-xs text-white/40"></p>
+</div>
+
+<script define:vars={{ initial: questions }}>
+  // Types for editor state
+  const BLOOM_OPTS = ['Remember', 'Understand', 'Apply', 'Analyze', 'Evaluate', 'Create'];
+  const DIFF_OPTS = ['D3-D4', 'D5-D6', 'D7-D8', 'D9-D10'];
+
+  /** @type {any[]} */
+  let state = Array.isArray(initial) ? structuredClone(initial) : [];
+
+  const list = document.getElementById('qe-list');
+  const empty = document.getElementById('qe-empty');
+  const countEl = document.getElementById('qe-count');
+
+  function syncGlobal() {
+    // @ts-ignore
+    window.__STUDIO_QUESTIONS__ = state;
+    window.dispatchEvent(new CustomEvent('studio:questions-updated', { detail: { questions: state } }));
+  }
+
+  function escapeHtml(s) {
+    return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function render() {
+    if (!list || !empty || !countEl) return;
+    if (state.length === 0) {
+      list.classList.add('hidden');
+      empty.classList.remove('hidden');
+      countEl.classList.add('hidden');
+      return;
+    }
+    empty.classList.add('hidden');
+    list.classList.remove('hidden');
+    countEl.classList.remove('hidden');
+    countEl.textContent = `${state.length} pregunta${state.length !== 1 ? 's' : ''} · edita antes de exportar`;
+    list.innerHTML = state.map((q, idx) => {
+      const n = idx + 1;
+      const diff = q.difficulty || 'D5-D6';
+      const bloom = q.bloom || 'Apply';
+      const statement = escapeHtml(q.statement);
+      const context = escapeHtml(q.context || '');
+      const explanation = escapeHtml(q.explanation || '');
+      const options = (q.options || []).map((o, oi) => {
+        const L = String.fromCharCode(65 + oi);
+        const isCorrect = !!o.is_correct;
+        const text = escapeHtml(o.text);
+        const fb = escapeHtml(o.feedback || '');
+        return `
+          <div class="group flex gap-2 rounded-xl border ${isCorrect ? 'border-emerald-400/30 bg-emerald-500/10' : 'border-white/10 bg-white/[0.03]'} p-3" data-opt="${oi}">
+            <button type="button" data-toggle-correct="${idx}-${oi}" aria-label="Marcar correcta ${L}" class="h-7 w-7 shrink-0 rounded-full border text-xs font-bold flex items-center justify-center transition ${isCorrect ? 'bg-emerald-500 border-emerald-500 text-white' : 'border-white/20 text-white/40 hover:border-white/30'}">${isCorrect ? '✓' : L}</button>
+            <div class="flex-1 min-w-0">
+              <div class="flex items-center gap-2">
+                <span class="text-xs font-mono font-bold ${isCorrect ? 'text-emerald-300' : 'text-white/40'}">${L})</span>
+                <span class="text-[10px] uppercase tracking-wider ${isCorrect ? 'text-emerald-300/70' : 'text-white/30'}">${isCorrect ? 'correcta' : 'distractor'}</span>
+              </div>
+              <textarea data-field="opt-text" data-idx="${idx}" data-oi="${oi}" rows="2" class="mt-1 w-full resize-y rounded-lg border border-white/10 bg-black/20 px-3 py-2 text-sm text-white placeholder-white/30 focus:border-emerald-400 focus:outline-none">${text}</textarea>
+              <input data-field="opt-feedback" data-idx="${idx}" data-oi="${oi}" value="${fb}" placeholder="feedback para esta opción" class="mt-2 w-full rounded-lg border border-white/5 bg-black/10 px-3 py-1.5 text-xs text-white/70 placeholder-white/20 focus:border-white/15 focus:outline-none" />
+            </div>
+          </div>`;
+      }).join('');
+
+      return `
+        <article data-q="${idx}" class="rounded-2xl border border-white/10 bg-white/[0.04] overflow-hidden">
+          <div class="flex flex-wrap items-center gap-2 border-b border-white/5 bg-white/[0.02] px-4 py-3">
+            <span class="inline-flex h-7 w-7 items-center justify-center rounded-full bg-white text-xs font-black text-black">${n}</span>
+            <span class="text-sm font-semibold text-white">Pregunta ${n}</span>
+            <span class="ml-auto flex items-center gap-2">
+              <label class="text-[10px] uppercase tracking-wider text-white/40">Bloom</label>
+              <select data-field="bloom" data-idx="${idx}" class="rounded-lg border border-white/10 bg-black/30 px-2 py-1 text-xs text-white focus:border-emerald-400 focus:outline-none">
+                ${BLOOM_OPTS.map((o) => `<option value="${o}" ${o === bloom ? 'selected' : ''}>${o}</option>`).join('')}
+              </select>
+              <label class="text-[10px] uppercase tracking-wider text-white/40">Dif.</label>
+              <select data-field="difficulty" data-idx="${idx}" class="rounded-lg border border-white/10 bg-black/30 px-2 py-1 text-xs text-white focus:border-emerald-400 focus:outline-none">
+                ${DIFF_OPTS.map((o) => `<option value="${o}" ${o === diff ? 'selected' : ''}>${o}</option>`).join('')}
+              </select>
+              <button type="button" data-remove="${idx}" class="ml-1 rounded-lg bg-white/5 px-2 py-1 text-xs text-white/50 hover:bg-red-500/20 hover:text-red-300">✕ quitar</button>
+            </span>
+          </div>
+          <div class="space-y-3 p-4">
+            <label class="block">
+              <span class="text-xs font-medium text-white/60">Contexto (opcional)</span>
+              <textarea data-field="context" data-idx="${idx}" rows="2" placeholder="Escenario local útil para resolver..." class="mt-1 w-full resize-y rounded-xl border border-white/10 bg-black/20 px-3 py-2 text-sm text-white placeholder-white/25 focus:border-emerald-400 focus:outline-none">${context}</textarea>
+            </label>
+            <label class="block">
+              <span class="text-xs font-medium text-white/60">Enunciado *</span>
+              <textarea data-field="statement" data-idx="${idx}" rows="3" class="mt-1 w-full resize-y rounded-xl border border-white/10 bg-black/20 px-3 py-2 text-sm text-white placeholder-white/25 focus:border-emerald-400 focus:outline-none">${statement}</textarea>
+            </label>
+            <div>
+              <div class="mb-2 flex items-center justify-between">
+                <span class="text-xs font-medium text-white/60">Opciones (toca el círculo para marcar la correcta)</span>
+                <span class="text-[10px] text-white/30">exactamente 1 correcta</span>
+              </div>
+              <div class="grid gap-2">${options}</div>
+            </div>
+            <label class="block">
+              <span class="text-xs font-medium text-white/60">Explicación pedagógica *</span>
+              <textarea data-field="explanation" data-idx="${idx}" rows="3" class="mt-1 w-full resize-y rounded-xl border border-white/10 bg-black/20 px-3 py-2 text-sm text-white placeholder-white/25 focus:border-emerald-400 focus:outline-none">${explanation}</textarea>
+            </label>
+          </div>
+        </article>`;
+    }).join('');
+
+    // wire events
+    list.querySelectorAll('[data-field]').forEach((el) => {
+      const field = el.getAttribute('data-field');
+      const idx = Number(el.getAttribute('data-idx'));
+      const handler = () => {
+        const val = (el as HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement).value;
+        if (field === 'bloom') state[idx].bloom = val;
+        else if (field === 'difficulty') state[idx].difficulty = val;
+        else if (field === 'context') state[idx].context = val;
+        else if (field === 'statement') state[idx].statement = val;
+        else if (field === 'explanation') state[idx].explanation = val;
+        else if (field === 'opt-text') {
+          const oi = Number(el.getAttribute('data-oi'));
+          state[idx].options[oi].text = val;
+        } else if (field === 'opt-feedback') {
+          const oi = Number(el.getAttribute('data-oi'));
+          state[idx].options[oi].feedback = val;
+        }
+        syncGlobal();
+      };
+      el.addEventListener('input', handler);
+      el.addEventListener('change', handler);
+    });
+    list.querySelectorAll('[data-toggle-correct]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const raw = btn.getAttribute('data-toggle-correct') || '';
+        const [sIdx, sOi] = raw.split('-').map(Number);
+        state[sIdx].options.forEach((o, oi) => (o.is_correct = oi === sOi));
+        state[sIdx].correct_answer = String.fromCharCode(65 + sOi);
+        render();
+        syncGlobal();
+      });
+    });
+    list.querySelectorAll('[data-remove]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const idx = Number(btn.getAttribute('data-remove'));
+        state.splice(idx, 1);
+        state.forEach((q, i) => (q.number = i + 1));
+        render();
+        syncGlobal();
+      });
+    });
+  }
+
+  // external API
+  window.__STUDIO_SET_QUESTIONS__ = (qs) => {
+    state = Array.isArray(qs) ? structuredClone(qs) : [];
+    // normalize: ensure numbers, letters, correct_answer
+    state.forEach((q, i) => {
+      q.number = i + 1;
+      if (!Array.isArray(q.options)) q.options = [];
+      q.options = q.options.slice(0, 4).map((o, oi) => ({
+        letter: String.fromCharCode(65 + oi),
+        text: String(o.text || o.texto || ''),
+        is_correct: !!o.is_correct,
+        feedback: String(o.feedback || ''),
+      }));
+      while (q.options.length < 4) {
+        const L = String.fromCharCode(65 + q.options.length);
+        q.options.push({ letter: L, text: '', is_correct: false, feedback: '' });
+      }
+      if (!q.options.some((o) => o.is_correct)) q.options[0].is_correct = true;
+      q.correct_answer = q.options.find((o) => o.is_correct)?.letter || 'A';
+      q.difficulty = q.difficulty || 'D5-D6';
+      q.bloom = q.bloom || '';
+    });
+    render();
+    syncGlobal();
+  };
+  window.__STUDIO_GET_QUESTIONS__ = () => structuredClone(state);
+
+  // hydrate from initial
+  // @ts-ignore call
+  window.__STUDIO_SET_QUESTIONS__(state);
+  // also listen for external set
+  window.addEventListener('studio:external-set-questions', (e) => {
+    // @ts-ignore
+    const qs = e.detail?.questions;
+    // @ts-ignore
+    window.__STUDIO_SET_QUESTIONS__(qs);
+  });
+</script>
