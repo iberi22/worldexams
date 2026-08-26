@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "NAP Argentina / Aprender 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Energía
@@ -42,7 +44,7 @@ La energía no se puede ver ni tocar directamente, pero se reconoce por sus efec
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Energía
@@ -67,7 +69,7 @@ La energía mecánica total es la suma de la cinética (movimiento) y la potenci
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Energía
@@ -92,7 +94,7 @@ Los aerogeneradores aprovechan la energía cinética (de movimiento) del viento.
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Energía
@@ -117,7 +119,7 @@ La energía radiante del Sol viaja en forma de ondas electromagnéticas. Al ser 
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Energía
@@ -142,7 +144,7 @@ En toda transformación de energía hay una parte que no se aprovecha para el fi
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Energía
@@ -167,7 +169,7 @@ Tu cuerpo transforma la energía química de los alimentos en energía cinética
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Energía
@@ -192,7 +194,7 @@ La conducción ocurre cuando las partículas vibran y chocan entre sí, transmit
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Energía
@@ -217,7 +219,7 @@ El calor específico es una propiedad de los materiales. El agua tiene un calor 
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **EJE:** Energía
@@ -242,7 +244,7 @@ Las energías renovables son fundamentales para la sostenibilidad. A diferencia 
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** AR-CIE-6-2026-W04-energia-formas-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **EJE:** Energía

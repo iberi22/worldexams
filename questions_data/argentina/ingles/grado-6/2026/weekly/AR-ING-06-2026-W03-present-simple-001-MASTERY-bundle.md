@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -60,7 +62,7 @@ Para formar el negativo en Presente Simple para una tercera persona (he), se uti
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 
 **ID:** `AR-ING-06-2026-W03-present-simple-003`
 **Bloom:** Apply
@@ -82,7 +84,7 @@ En el Presente Simple, los verbos que terminan en "o" (como go o do) agregan "-e
 
 ---
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 
 **ID:** `AR-ING-06-2026-W03-present-simple-004`
 **Bloom:** Analyze
@@ -126,7 +128,7 @@ En preguntas de Presente Simple, "Do" es el auxiliar correspondiente a los sujet
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W03-present-simple-006`
 **Bloom:** Understand
@@ -148,7 +150,7 @@ Cuando el sujeto es "he" (tu padre), el auxiliar de pregunta correcto es "Does".
 
 ---
 
-## Question 7 [D5-D6]
+## Question 7 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W03-present-simple-007`
 **Bloom:** Apply
@@ -170,7 +172,7 @@ Para verbos que terminan en vocal + "y", simplemente se agrega la "-s" en la ter
 
 ---
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W03-present-simple-008`
 **Bloom:** Analyze

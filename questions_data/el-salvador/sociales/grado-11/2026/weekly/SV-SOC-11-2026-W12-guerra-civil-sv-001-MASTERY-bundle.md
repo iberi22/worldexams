@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED - PAES El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D4]
+## Question 1 [D3-D4]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v1
 **Bloom:** Understand
 **EJE:** guerra civil sv
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 ### Explicacion Pedagogica
 La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
 
-## Question 2 [D5]
+## Question 2 [D3-D4]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v2
 **Bloom:** Analyze
 **EJE:** guerra civil sv
@@ -67,7 +69,7 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 ### Explicacion Pedagogica
 La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** guerra civil sv
@@ -90,7 +92,7 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** guerra civil sv
@@ -113,7 +115,7 @@ Si un país exporta más de lo que importa, ¿qué tiene?
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
 
-## Question 5 [D3]
+## Question 5 [D5-D6]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v5
 **Bloom:** Remember
 **EJE:** guerra civil sv
@@ -136,7 +138,7 @@ Exportar más que importar genera superávit comercial favorable.
 ### Explicacion Pedagogica
 El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
 
-## Question 6 [D4]
+## Question 6 [D5-D6]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** guerra civil sv
@@ -159,7 +161,7 @@ El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a
 ### Explicacion Pedagogica
 La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** guerra civil sv
@@ -182,7 +184,7 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 ### Explicacion Pedagogica
 La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
 
-## Question 8 [D3]
+## Question 8 [D5-D6]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** guerra civil sv
@@ -205,7 +207,7 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
 
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** guerra civil sv
@@ -228,7 +230,7 @@ Si un país exporta más de lo que importa, ¿qué tiene?
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
 
-## Question 10 [D3]
+## Question 10 [D5-D6]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v10
 **Bloom:** Remember
 **EJE:** guerra civil sv
@@ -251,7 +253,7 @@ Exportar más que importar genera superávit comercial favorable.
 ### Explicacion Pedagogica
 El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
 
-## Question 11 [D4]
+## Question 11 [D7-D8]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v11
 **Bloom:** Understand
 **EJE:** guerra civil sv
@@ -274,7 +276,7 @@ El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a
 ### Explicacion Pedagogica
 La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
 
-## Question 12 [D5]
+## Question 12 [D7-D8]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** guerra civil sv
@@ -297,7 +299,7 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 ### Explicacion Pedagogica
 La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
 
-## Question 13 [D3]
+## Question 13 [D7-D8]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v13
 **Bloom:** Understand
 **EJE:** guerra civil sv
@@ -320,7 +322,7 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
 
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** guerra civil sv
@@ -343,7 +345,7 @@ Si un país exporta más de lo que importa, ¿qué tiene?
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
 
-## Question 15 [D3]
+## Question 15 [D7-D8]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v15
 **Bloom:** Remember
 **EJE:** guerra civil sv
@@ -366,7 +368,7 @@ Exportar más que importar genera superávit comercial favorable.
 ### Explicacion Pedagogica
 El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
 
-## Question 16 [D4]
+## Question 16 [D7-D8]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v16
 **Bloom:** Understand
 **EJE:** guerra civil sv
@@ -389,7 +391,7 @@ El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a
 ### Explicacion Pedagogica
 La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
 
-## Question 17 [D5]
+## Question 17 [D9-D10]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** guerra civil sv
@@ -412,7 +414,7 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 ### Explicacion Pedagogica
 La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
 
-## Question 18 [D3]
+## Question 18 [D9-D10]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v18
 **Bloom:** Understand
 **EJE:** guerra civil sv
@@ -435,7 +437,7 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
 
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v19
 **Bloom:** Apply
 **EJE:** guerra civil sv
@@ -458,7 +460,7 @@ Si un país exporta más de lo que importa, ¿qué tiene?
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
 
-## Question 20 [D3]
+## Question 20 [D9-D10]
 **ID:** SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v20
 **Bloom:** Remember
 **EJE:** guerra civil sv

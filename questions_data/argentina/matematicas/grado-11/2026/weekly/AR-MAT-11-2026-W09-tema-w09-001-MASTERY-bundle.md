@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estadística y probabilidad
@@ -38,7 +40,7 @@ La moda es la medida de tendencia central que identifica al valor o categoría m
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estadística y probabilidad
@@ -59,7 +61,7 @@ El rango es la medida de dispersión más sencilla. Indica la amplitud total de 
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estadística y probabilidad
@@ -80,7 +82,7 @@ En un diagrama de barras o de columnas, el eje horizontal contiene los valores d
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estadística y probabilidad
@@ -101,7 +103,7 @@ La desviación estándar mide la dispersión o variabilidad. Si su valor es cero
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estadística y probabilidad
@@ -122,7 +124,7 @@ Cuando el tamaño muestral $N$ es par, el conjunto ordenado tiene dos valores ce
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estadística y probabilidad
@@ -143,7 +145,7 @@ Las medidas de posición como los percentiles dividen a la muestra en cien parte
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -164,7 +166,7 @@ La media es la suma de los datos dividido entre el total ($300/5 = 60$). Para ha
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -185,7 +187,7 @@ La varianza poblacional $\sigma^2$ es el promedio de los cuadrados de las desvia
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -206,7 +208,7 @@ La marca de clase es el valor representativo de un intervalo en una distribució
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -227,7 +229,7 @@ Los cuartiles dividen la distribución ordenada en cuatro segmentos equivalentes
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -248,7 +250,7 @@ El rango intercuartílico (IQR) es la diferencia absoluta entre el tercer y prim
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -269,7 +271,7 @@ Por propiedades de los estadísticos: la media de una variable trasladada es $\m
 
 ---
 
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -290,7 +292,7 @@ Por las propiedades de cambio de escala de los parámetros de dispersión: la de
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -311,7 +313,7 @@ El criterio de Tukey establece que un dato es un valor atípico superior si se e
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -332,7 +334,7 @@ La asimetría positiva o sesgo a la derecha ocurre cuando la media es empujada h
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -353,7 +355,7 @@ Para comparar la variabilidad de dos muestras con medias distintas, se utiliza e
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -379,7 +381,7 @@ La frecuencia condicionada restringe el espacio de análisis a una fila o column
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -400,7 +402,7 @@ Dado que el promedio de los $5$ datos es $7$, la suma agregada es $35$. Restando
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estadística y probabilidad
@@ -421,7 +423,7 @@ Los gráficos de barras se basan en el principio de proporcionalidad entre la al
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** AR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estadística y probabilidad

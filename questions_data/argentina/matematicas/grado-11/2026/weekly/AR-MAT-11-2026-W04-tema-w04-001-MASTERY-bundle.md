@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -38,7 +40,7 @@ La abscisa del vértice de una parábola representa su eje de simetría y se cal
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -59,7 +61,7 @@ Las fórmulas de Vieta relacionan los coeficientes de un polinomio con sus raíc
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -80,7 +82,7 @@ El signo del coeficiente principal $a$ determina la concavidad de la parábola. 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -101,7 +103,7 @@ El discriminante $\Delta = b^2 - 4ac$ determina el carácter de las raíces de u
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -122,7 +124,7 @@ La forma canónica $f(x) = a(x - h)^2 + k$ revela de forma directa las coordenad
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -143,7 +145,7 @@ La forma factorizada de una función cuadrática se expresa como $f(x) = a(x - x
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -164,7 +166,7 @@ Una ecuación cuadrática completa de la forma $ax^2 + bx + c = 0$ puede resolve
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -185,7 +187,7 @@ La altura máxima se localiza en el vértice de la parábola. Calculamos primero
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -206,7 +208,7 @@ Para hallar la ecuación de una parábola dado su vértice y un punto, se plante
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -227,7 +229,7 @@ Para hallar las intersecciones de una línea y una parábola, se igualan sus ecu
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -248,7 +250,7 @@ El problema de optimización se reduce a hallar el vértice de la función de á
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -269,7 +271,7 @@ La resolución por fórmula general permite obtener de forma directa las raíces
 
 ---
 
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -290,7 +292,7 @@ Para que el vértice de una parábola esté sobre el eje horizontal, la ordenada
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -311,7 +313,7 @@ La condición de tangencia entre una recta y una curva cuadrática se cumple cua
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -332,7 +334,7 @@ La función de ganancia es una parábola cóncava hacia abajo. Su valor máximo 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -353,7 +355,7 @@ Al sustituir el punto de paso obligatorio $(0,0)$ en la ecuación con el vértic
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -374,7 +376,7 @@ Al igualar dos funciones cuadráticas se obtiene una ecuación polinómica cuyo 
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -395,7 +397,7 @@ Para resolver $x^2 - 2x - 15 \le 0$, hallamos las raíces críticas de la ecuaci
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -416,7 +418,7 @@ Fijar el precio basándose únicamente en el vértice sin analizar el signo del 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** AR-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -38,7 +40,7 @@ El grado de un polinomio es el mayor exponente de la variable con coeficiente no
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -59,7 +61,7 @@ El teorema del resto es una herramienta algebraica que permite calcular directam
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -80,7 +82,7 @@ La regla de Ruffini es un algoritmo abreviado de división que se aplica únicam
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -101,7 +103,7 @@ La multiplicidad de una raíz determina el comportamiento de la gráfica en su i
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -122,7 +124,7 @@ Una asíntota vertical ocurre en los puntos de discontinuidad no evitable de una
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -143,7 +145,7 @@ Para funciones racionales con igual grado en numerador y denominador, la asínto
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -164,7 +166,7 @@ Aplicando el teorema del resto, evaluamos el polinomio en $x=2$: $2^3 - 3(2^2) +
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -185,7 +187,7 @@ Cuando el grado del denominador de una función racional es estrictamente mayor 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -206,7 +208,7 @@ Al calcular el límite para $x \to \infty$ de la función de costo promedio $f(x
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -227,7 +229,7 @@ Dividiendo $P(x)$ por el factor conocido $(x+1)$ mediante Ruffini, obtenemos el 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -248,7 +250,7 @@ Una asíntota oblicua de la forma $y = mx + b$ se produce cuando el grado del nu
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -269,7 +271,7 @@ Si un valor de $x$ anula simultáneamente al numerador y al denominador de una f
 
 ---
 
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -290,7 +292,7 @@ Planteamos la forma factorizada general $P(x) = a(x - x_1)(x - x_2)(x - x_3)$ y 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -311,7 +313,7 @@ Al evaluar el límite lateral $\lim_{x \to 2^+} \frac{x+1}{x-2}$, se observa que
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -332,7 +334,7 @@ La resolución se realiza determinando los signos de cada factor en los interval
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -353,7 +355,7 @@ Para que la asíntota horizontal de una función racional con grados iguales sea
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -374,7 +376,7 @@ Despejamos cada parámetro secuencialmente: $c=2$ de la asíntota vertical; $a=3
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -395,7 +397,7 @@ Mediante factorización completa $\frac{(x-1)(x+1)}{(x-3)(x+1)}$, identificamos 
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -416,7 +418,7 @@ La asíntota horizontal describe el comportamiento de la función en el extremo 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones

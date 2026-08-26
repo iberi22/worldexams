@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED - PAES El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -19,7 +21,7 @@ creador: "Jules-Agent"
 
 # MASTERY Bundle — Matemáticas: Expresiones Algebraicas (SV-MAT-11-W05)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional
@@ -38,7 +40,7 @@ creador: "Jules-Agent"
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Variacional
@@ -57,7 +59,7 @@ Si la expresión de costo es $C(x) = 5x^2 + 10x - 12$, calcula el valor numéric
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional
@@ -76,7 +78,7 @@ Suma los siguientes polinomios: $(3x^2 - 5x + 8) + (2x^2 + 8x - 12)$.
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional
@@ -95,7 +97,7 @@ Multiplica las expresiones algebraicas: $2x(3x^2 - 4x)$.
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional
@@ -114,7 +116,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $5x^2 + 4x 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional
@@ -133,7 +135,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $6x^2 + 4x 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Variacional
@@ -152,7 +154,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $7x^2 + 4x 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional
@@ -171,7 +173,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $8x^2 + 4x 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional
@@ -190,7 +192,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $9x^2 + 4x 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Variacional
@@ -209,7 +211,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $10x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional
@@ -228,7 +230,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $11x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional
@@ -247,7 +249,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $12x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional
@@ -266,7 +268,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $13x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional
@@ -285,7 +287,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $14x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional
@@ -304,7 +306,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $15x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Variacional
@@ -323,7 +325,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $16x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Variacional
@@ -342,7 +344,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $17x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Variacional
@@ -361,7 +363,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $18x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Variacional
@@ -380,7 +382,7 @@ Simplifica la expresión algebraica reduciendo términos semejantes: $19x^2 + 4x
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Expresiones Algebraicas.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** SV-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Variacional
