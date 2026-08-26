@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 8
 bundle_size: 8
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **8 preguntas | Ingles | {alignment}**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
@@ -43,7 +45,7 @@ What is the English word for: "A place where you live or stay on holiday."
 ### Explicacion Pedagogica
 The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
@@ -66,7 +68,7 @@ What is the English word for: "A detailed plan or route of a journey."
 ### Explicacion Pedagogica
 The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
 ---
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Lexico
@@ -89,7 +91,7 @@ What is the English word for: "The place to which someone or something is going 
 ### Explicacion Pedagogica
 The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
 ---
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Lexico
@@ -112,7 +114,7 @@ What is the English word for: "Suitcases or other bags in which to pack personal
 ### Explicacion Pedagogica
 The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
 ---
-## Question 5 [D7]
+## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Lexico
@@ -135,7 +137,7 @@ What is the English word for: "A traveler on a public or private conveyance othe
 ### Explicacion Pedagogica
 The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
 ---
-## Question 6 [D8]
+## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Lexico
@@ -158,7 +160,7 @@ What is the English word for: "The place at a port, airport, or frontier where o
 ### Explicacion Pedagogica
 The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
 ---
-## Question 7 [D9]
+## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Lexico
@@ -181,7 +183,7 @@ What is the English word for: "A document provided by an airline during check-in
 ### Explicacion Pedagogica
 The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
 ---
-## Question 8 [D10]
+## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Lexico

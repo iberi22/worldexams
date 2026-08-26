@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ Los artículos definidos o determinados (el, la, los, las y el neutro lo) sirven
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ Los artículos indefinidos (un, una, unos, unas) se utilizan para referirse a se
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
@@ -86,7 +88,7 @@ Las preposiciones son palabras invariables que relacionan elementos de una oraci
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
@@ -107,7 +109,7 @@ La preposición "por" se utiliza frecuentemente para señalar el lugar o espacio
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -128,7 +130,7 @@ Las preposiciones son nexos subordinantes; esto significa que introducen un comp
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)
@@ -149,7 +151,7 @@ Las conjunciones coordinantes unen elementos del mismo nivel sintáctico. Las co
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)
@@ -170,7 +172,7 @@ Las conjunciones disyuntivas permiten al hablante presentar dos o más posibilid
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -191,7 +193,7 @@ Las conjunciones concesivas introducen una premisa que parece oponerse a la prin
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -212,7 +214,7 @@ Identificar correctamente las categorías gramaticales permite comprender la est
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W06-categorias-gramaticales-ii-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)

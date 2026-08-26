@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 8
 bundle_size: 8
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -22,7 +24,7 @@ Este bundle evalúa conceptos de daily routines 2 en inglés, nivel CEFR A1 para
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-v1`
 **Bloom:** Remember
 **ICFES:** Comunicación y representación
@@ -43,7 +45,7 @@ This question evaluates remember skills regarding daily routines 2 at the CEFR A
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-v2`
 **Bloom:** Understand
 **ICFES:** Comunicación y representación
@@ -64,7 +66,7 @@ This question evaluates understand skills regarding daily routines 2 at the CEFR
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** `CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-v3`
 **Bloom:** Apply
 **ICFES:** Comunicación y representación
@@ -85,7 +87,7 @@ This question evaluates apply skills regarding daily routines 2 at the CEFR A1 l
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** `CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Comunicación y representación
@@ -106,7 +108,7 @@ This question evaluates analyze skills regarding daily routines 2 at the CEFR A1
 
 ---
 
-## Question 5 [D7]
+## Question 5 [D7-D8]
 **ID:** `CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-v5`
 **Bloom:** Evaluate
 **ICFES:** Comunicación y representación
@@ -127,7 +129,7 @@ This question evaluates evaluate skills regarding daily routines 2 at the CEFR A
 
 ---
 
-## Question 6 [D8]
+## Question 6 [D7-D8]
 **ID:** `CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Comunicación y representación
@@ -148,7 +150,7 @@ This question evaluates apply skills regarding daily routines 2 at the CEFR A1 l
 
 ---
 
-## Question 7 [D9]
+## Question 7 [D9-D10]
 **ID:** `CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-v7`
 **Bloom:** Understand
 **ICFES:** Comunicación y representación
@@ -169,7 +171,7 @@ This question evaluates understand skills regarding daily routines 2 at the CEFR
 
 ---
 
-## Question 8 [D10]
+## Question 8 [D9-D10]
 **ID:** `CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-v8`
 **Bloom:** Remember
 **ICFES:** Comunicación y representación
