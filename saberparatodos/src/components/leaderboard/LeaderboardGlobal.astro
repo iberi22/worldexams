@@ -1,0 +1,184 @@
+---
+/**
+ * LeaderboardGlobal.astro — Red privada de notas (D-103/D-104)
+ * Muestra posiciones anónimas globales (solo hashes, sin nombres).
+ * Orden por avg score global. Tabla paginada (top 50).
+ * Datos vienen del mesh sync (WX-204 provee fetchAggregateStats()).
+ *
+ * Privacidad:
+ * - Sin PII, sin tokens $SWAL/karma/telemetría (BR-03/BR-04)
+ * - Solo {node_hash, subject, week, score, avg}
+ */
+---
+
+<div id="wx-leaderboard-global" class="w-full max-w-4xl mx-auto p-4">
+  <div class="flex items-center justify-between mb-4">
+    <h2 class="text-xl font-bold text-[#F5F5DC] tracking-tight">
+      🌐 Ranking Global Anónimo
+    </h2>
+    <span
+      class="text-[10px] px-2 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 font-mono"
+      title="Solo agregados anonimos — red privada worldexams (BR-03/BR-04)"
+    >
+      🔒 Solo hashes
+    </span>
+  </div>
+
+  <p class="text-xs text-white/50 mb-3">
+    Red privada de notas — posiciones anónimas. Solo hashes anonimizados, sin nombres.
+    Orden por <strong class="text-white/70">promedio global (avg)</strong>. Top 50 paginado (10 por página).
+  </p>
+
+  <div class="border border-white/10 rounded-xl overflow-hidden bg-[#121212]/60 backdrop-blur">
+    <div
+      class="grid grid-cols-12 gap-2 p-3 border-b border-white/10 bg-white/5 text-[10px] uppercase tracking-widest font-bold text-white/40"
+      role="row"
+    >
+      <div class="col-span-1">#</div>
+      <div class="col-span-4">Nodo (hash)</div>
+      <div class="col-span-3 text-center">Materia</div>
+      <div class="col-span-2 text-center">Semana</div>
+      <div class="col-span-2 text-right">Avg</div>
+    </div>
+
+    <div id="wx-global-body" class="divide-y divide-white/5">
+      <div class="p-8 text-center text-white/40 text-sm" data-testid="loading">
+        Cargando agregados anónimos desde mesh…
+      </div>
+    </div>
+
+    <div
+      id="wx-global-empty"
+      class="hidden p-8 text-center text-white/40"
+    >
+      <p class="text-2xl mb-2">🛰️</p>
+      <p class="text-sm">Sin datos anónimos aún</p>
+      <p class="text-xs text-white/30 mt-1">Activa el opt-in y completa exámenes para poblar la red privada.</p>
+    </div>
+  </div>
+
+  <div class="flex items-center justify-between mt-3">
+    <button
+      id="wx-global-prev"
+      class="px-3 py-1.5 text-xs border border-white/10 rounded-lg text-white/60 hover:text-white hover:border-white/20 disabled:opacity-30 disabled:cursor-not-allowed"
+      disabled
+    >
+      ← Anterior
+    </button>
+    <span id="wx-global-pageinfo" class="text-xs text-white/40 font-mono">Página 1 / 1</span>
+    <button
+      id="wx-global-next"
+      class="px-3 py-1.5 text-xs border border-white/10 rounded-lg text-white/60 hover:text-white hover:border-white/20 disabled:opacity-30 disabled:cursor-not-allowed"
+      disabled
+    >
+      Siguiente →
+    </button>
+  </div>
+
+  <p class="mt-3 text-[10px] text-white/30 text-center">
+    Datos compartidos: <code class="font-mono bg-white/5 px-1 py-0.5 rounded">node_hash + subject + week + score + avg</code> — sin PII, sin $SWAL, sin telemetría.
+  </p>
+</div>
+
+<script>
+  import { fetchAggregateStats, getTop50Sorted } from '../../lib/mesh/leaderboard-mesh';
+  import type { AggregateStat } from '../../lib/mesh/leaderboard-mesh';
+
+  const body = document.getElementById('wx-global-body');
+  const empty = document.getElementById('wx-global-empty');
+  const prevBtn = document.getElementById('wx-global-prev') as HTMLButtonElement | null;
+  const nextBtn = document.getElementById('wx-global-next') as HTMLButtonElement | null;
+  const pageInfo = document.getElementById('wx-global-pageinfo');
+
+  let allStats: AggregateStat[] = [];
+  let currentPage = 1;
+  const PAGE_SIZE = 10;
+
+  function renderPage() {
+    if (!body || !pageInfo || !prevBtn || !nextBtn) return;
+
+    const totalPages = Math.max(1, Math.ceil(allStats.length / PAGE_SIZE));
+    if (currentPage > totalPages) currentPage = totalPages;
+    if (currentPage < 1) currentPage = 1;
+
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const slice = allStats.slice(start, start + PAGE_SIZE);
+
+    pageInfo.textContent = `Página ${currentPage} / ${totalPages} · Top ${allStats.length}`;
+
+    prevBtn.disabled = currentPage <= 1;
+    nextBtn.disabled = currentPage >= totalPages;
+
+    if (slice.length === 0) {
+      body.innerHTML = '';
+      empty?.classList.remove('hidden');
+      return;
+    }
+    empty?.classList.add('hidden');
+
+    body.innerHTML = slice.map((row, idx) => {
+      const rank = start + idx + 1;
+      const medal = rank === 1 ? '🥇' : rank === 2 ? '🥈' : rank === 3 ? '🥉' : String(rank);
+      const hashShort = row.node_hash.length > 12 ? row.node_hash.slice(0, 12) + '…' : row.node_hash;
+      return `
+        <div class="grid grid-cols-12 gap-2 p-3 hover:bg-white/[0.03] transition-colors text-sm" role="row" data-testid="global-row">
+          <div class="col-span-1 font-bold ${rank <= 3 ? 'text-yellow-400' : 'text-white/60'}">${medal}</div>
+          <div class="col-span-4 font-mono text-xs text-emerald-300 truncate" title="${row.node_hash}">${hashShort}</div>
+          <div class="col-span-3 text-center text-xs text-white/70">${escapeHtml(row.subject)}</div>
+          <div class="col-span-2 text-center text-xs text-white/50 font-mono">${escapeHtml(row.week)}</div>
+          <div class="col-span-2 text-right font-bold text-[#F5F5DC]">${row.avg.toFixed(1)}</div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  function escapeHtml(s: string): string {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  async function load() {
+    if (!body) return;
+    try {
+      const stats = await fetchAggregateStats();
+      // orden por avg global (desc) y top 50
+      allStats = getTop50Sorted(stats as any);
+      // Si vacío y estamos en entorno demo, sembrar demo opcional solo si no hay datos reales
+      if (allStats.length === 0) {
+        // No sembramos datos falsos persistentes; solo mostramos empty state (privacidad first)
+      }
+      renderPage();
+    } catch (e) {
+      console.warn('[LeaderboardGlobal] fetch failed', e);
+      if (body) body.innerHTML = `<div class="p-6 text-center text-red-400 text-sm">Error cargando agregados anónimos</div>`;
+    }
+  }
+
+  prevBtn?.addEventListener('click', () => {
+    if (currentPage > 1) {
+      currentPage--;
+      renderPage();
+    }
+  });
+  nextBtn?.addEventListener('click', () => {
+    const totalPages = Math.ceil(allStats.length / PAGE_SIZE);
+    if (currentPage < totalPages) {
+      currentPage++;
+      renderPage();
+    }
+  });
+
+  // Recargar al revocar/compartir
+  window.addEventListener('wx:mesh:share', load as EventListener);
+  window.addEventListener('wx:mesh:revoke', () => { allStats = []; renderPage(); load(); });
+  window.addEventListener('wx:optin:revoked', () => { load(); });
+
+  load();
+
+  // Exponer para tests (jsdom) si necesitan inspeccionar
+  (window as any).__wxLeaderboardGlobal = {
+    getAllStats: () => allStats,
+    getCurrentPage: () => currentPage,
+    renderPage,
+    load
+  };
+</script>
