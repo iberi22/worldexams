@@ -1,0 +1,164 @@
+---
+export const prerender = true;
+import { getAllBundles, getDisplayForCountry, getLangForCountry, canonicalFor, toTitleCase } from '../../_helpers';
+
+export async function getStaticPaths() {
+  const bundles = getAllBundles();
+  const seen = new Set<string>();
+  const paths: { params: { country: string; subject: string } }[] = [];
+  for (const b of bundles) {
+    const key = `${b.country}::${b.subject}`;
+    if (!seen.has(key)) {
+      seen.add(key);
+      paths.push({ params: { country: b.country, subject: b.subject } });
+    }
+  }
+  return paths;
+}
+
+const { country, subject } = Astro.params;
+const countrySlug = String(country || '').toLowerCase();
+const subjectSlug = String(subject || '').toLowerCase();
+const display = getDisplayForCountry(countrySlug);
+const lang = getLangForCountry(countrySlug);
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space';
+const canonical = canonicalFor(`/preguntas/${countrySlug}/${subjectSlug}/`, siteUrl);
+const subjectLabel = toTitleCase(subjectSlug);
+const title = `${subjectLabel} en ${display.name} — Preguntas por Semana | WorldExams`;
+const description = `Bundles semanales de ${subjectLabel} para ${display.name} (${lang}). Cada bundle incluye semana, tema, cantidad de preguntas y banda de dificultad.`;
+const ogImage = `${siteUrl.replace(/\/$/,'')}/og-image.svg`;
+
+const allBundles = getAllBundles().filter(b => b.country === countrySlug && b.subject === subjectSlug);
+// sort by week numeric
+allBundles.sort((a,b) => {
+  const wa = Number(a.week.replace(/\D/g,'')) || 0;
+  const wb = Number(b.week.replace(/\D/g,'')) || 0;
+  return wa - wb;
+});
+
+const breadcrumbs = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: canonicalFor('/', siteUrl) },
+    { '@type': 'ListItem', position: 2, name: 'Preguntas', item: canonicalFor('/preguntas/', siteUrl) },
+    { '@type': 'ListItem', position: 3, name: display.name, item: canonicalFor(`/preguntas/${countrySlug}/`, siteUrl) },
+    { '@type': 'ListItem', position: 4, name: subjectLabel, item: canonical },
+  ]
+};
+
+function difficultyColor(band?: string) {
+  if (!band) return 'bg-white/10 text-white/70';
+  if (band.includes('D3')) return 'bg-emerald-500/20 text-emerald-300 border-emerald-500/30';
+  if (band.includes('D5')) return 'bg-sky-500/20 text-sky-300 border-sky-500/30';
+  if (band.includes('D7')) return 'bg-amber-500/20 text-amber-300 border-amber-500/30';
+  if (band.includes('D9')) return 'bg-red-500/20 text-red-300 border-red-500/30';
+  return 'bg-white/10 text-white/70';
+}
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:locale" content={lang.replace('-','_')} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <link rel="icon" href="/favicon.svg" />
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbs)} />
+</head>
+<body class="min-h-screen bg-[#1a1a2e] text-white flex flex-col">
+  <header class="border-b border-white/10 bg-[#16213e]/50 backdrop-blur">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+      <a href="/" class="font-bold">🌎 WorldExams</a>
+      <nav class="text-sm text-white/70 flex gap-2 items-center">
+        <a href="/preguntas/" class="hover:text-white">Preguntas</a>
+        <span class="text-white/30">/</span>
+        <a href={`/preguntas/${countrySlug}/`} class="hover:text-white">{display.name}</a>
+        <span class="text-white/30">/</span>
+        <span class="text-white">{subjectLabel}</span>
+      </nav>
+    </div>
+  </header>
+
+  <main class="flex-1 max-w-6xl mx-auto px-4 py-10 w-full">
+    <nav aria-label="Breadcrumb" class="text-sm text-white/60 mb-6">
+      <ol class="flex flex-wrap gap-1.5 items-center">
+        <li><a href="/" class="hover:text-white underline-offset-4 hover:underline">Inicio</a></li>
+        <li>/</li>
+        <li><a href="/preguntas/" class="hover:text-white underline-offset-4 hover:underline">Preguntas</a></li>
+        <li>/</li>
+        <li><a href={`/preguntas/${countrySlug}/`} class="hover:text-white underline-offset-4 hover:underline">{display.name}</a></li>
+        <li>/</li>
+        <li class="text-white">{subjectLabel}</li>
+      </ol>
+    </nav>
+
+    <div class="mb-8">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="text-2xl">{display.flag}</span>
+        <h1 class="text-3xl font-bold">{subjectLabel} • {display.name}</h1>
+      </div>
+      <p class="text-white/70 max-w-2xl">{description}</p>
+      <p class="text-xs text-white/50 mt-2">Ruta canónica: <code class="bg-white/10 px-1.5 py-0.5 rounded">/preguntas/{countrySlug}/{subjectSlug}/</code> • {allBundles.length} bundles</p>
+    </div>
+
+    {allBundles.length === 0 ? (
+      <div class="bg-amber-900/20 border border-amber-500/30 rounded-xl p-6 text-amber-200">
+        No se encontraron bundles para <strong>{subjectLabel}</strong> en {display.name}. Ruta buscada: <code>questions_data/{countrySlug}/{subjectSlug}/**</code>
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {allBundles.map((b) => (
+          <article class="bg-white/5 border border-white/10 rounded-2xl p-5 flex flex-col gap-3 hover:border-white/20 transition">
+            <div class="flex items-center gap-2 flex-wrap">
+              <span class="text-xs font-mono font-bold bg-white text-[#1a1a2e] px-2 py-1 rounded">{b.week}</span>
+              <span class={`text-xs font-mono px-2 py-1 rounded-full border ${difficultyColor(b.difficulty_band)}`}>{b.difficulty_band || 'D3-D4'}</span>
+              <span class="text-xs text-white/50 ml-auto">Grado {b.grade}</span>
+            </div>
+            <h2 class="font-semibold text-lg leading-tight capitalize">{b.title || b.tema.replace(/-/g,' ')}</h2>
+            <p class="text-sm text-white/60">Bundles MASTERY • {b.total_questions} preguntas • {b.id}</p>
+            <div class="flex flex-wrap gap-2 text-xs text-white/60">
+              <span class="bg-white/10 px-2 py-1 rounded-full">Tema: {b.tema}</span>
+              <span class="bg-white/10 px-2 py-1 rounded-full">{b.total_questions} preguntas</span>
+              {b.alignment && <span class="bg-white/10 px-2 py-1 rounded-full">{b.alignment}</span>}
+            </div>
+            <div class="mt-2 flex gap-2">
+              <a href={`/preguntas/${b.country}/${b.subject}/${b.week.toLowerCase()}/`} class="px-3 py-2 bg-emerald-500 hover:bg-emerald-600 text-black text-sm font-semibold rounded-lg transition">Ver bundle {b.week} →</a>
+              <a href={`/preguntas/${b.country}/${b.subject}/${b.week.toLowerCase()}/#contenido`} class="px-3 py-2 bg-white/10 hover:bg-white/15 border border-white/10 text-sm rounded-lg transition">Anchor estático</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    )}
+
+    <div class="mt-8 flex gap-3">
+      <a href={`/preguntas/${countrySlug}/`} class="px-4 py-2 rounded-lg bg-white/10 hover:bg-white/15 border border-white/10 text-sm">← Asignaturas de {display.name}</a>
+      <a href="/preguntas/" class="px-4 py-2 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-sm">Todos los países</a>
+    </div>
+
+    <section class="mt-8 bg-white/5 border border-white/10 rounded-xl p-5">
+      <h3 class="font-semibold mb-2 text-sm uppercase tracking-widest text-white/70">SEO & indexación</h3>
+      <p class="text-sm text-white/60 leading-relaxed">
+        Cada bundle genera un enlace jerárquico <code class="bg-white/10 px-1 py-0.5 rounded text-xs">/preguntas/{countrySlug}/{subjectSlug}/{`{week}`}</code> indexable por motores de búsqueda.
+        Este listado se genera vía <code class="bg-white/10 px-1 py-0.5 rounded text-xs">getStaticPaths</code> desde <code class="bg-white/10 px-1 py-0.5 rounded text-xs">questions_data/{countrySlug}/{subjectSlug}/**</code> y expone metadatos: título, semana, cantidad de preguntas y dificultad.
+        La metadata incluye <code>canonical</code>, <code>og:title/description</code> y <code>BreadcrumbList</code> para rich results.
+      </p>
+    </section>
+  </main>
+
+  <footer class="border-t border-white/10 py-6 text-center text-sm text-white/50">
+    <p><a href={`/preguntas/${countrySlug}/`} class="underline hover:text-white">{display.name}</a> • {subjectLabel} • {lang}</p>
+  </footer>
+</body>
+</html>
