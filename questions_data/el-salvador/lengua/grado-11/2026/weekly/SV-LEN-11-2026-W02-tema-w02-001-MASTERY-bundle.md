@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -19,7 +21,7 @@ creador: "Jules-Agent"
 
 # MASTERY Bundle — Lengua: Funciones del lenguaje y comunicación de masas (W02)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v1`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -45,7 +47,7 @@ Este ejemplo práctico ilustra cómo opera conativa o apelativa dentro del circu
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v2`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -71,7 +73,7 @@ Este ejemplo práctico ilustra cómo opera metalingüística dentro del circuito
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v3`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -97,7 +99,7 @@ Este ejemplo práctico ilustra cómo opera expresiva o emotiva dentro del circui
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v4`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -123,7 +125,7 @@ Este ejemplo práctico ilustra cómo opera referencial o denotativa dentro del c
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v5`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -149,7 +151,7 @@ Este ejemplo práctico ilustra cómo opera fática o de contacto dentro del circ
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -175,7 +177,7 @@ Este ejemplo práctico ilustra cómo opera poética o estética dentro del circu
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -201,7 +203,7 @@ Este ejemplo práctico ilustra cómo opera propaganda cívica dentro del circuit
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -227,7 +229,7 @@ Este ejemplo práctico ilustra cómo opera editorial periodístico dentro del ci
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v9`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -253,7 +255,7 @@ Este ejemplo práctico ilustra cómo opera estereotipos de género dentro del ci
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v10`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -279,7 +281,7 @@ Este ejemplo práctico ilustra cómo opera interactividad en directo dentro del 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v11`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -305,7 +307,7 @@ Este ejemplo práctico ilustra cómo opera persuasión publicitaria dentro del c
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v12`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -331,7 +333,7 @@ Este ejemplo práctico ilustra cómo opera manipulación sensacionalista dentro 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v13`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -357,7 +359,7 @@ Este ejemplo práctico ilustra cómo opera metalingüística diacrítica dentro 
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v14`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -383,7 +385,7 @@ Este ejemplo práctico ilustra cómo opera apelativa en autopista dentro del cir
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v15`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -409,7 +411,7 @@ Este ejemplo práctico ilustra cómo opera poética en versos dentro del circuit
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v16`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -435,7 +437,7 @@ Este ejemplo práctico ilustra cómo opera fática en telefonía dentro del circ
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v17`
 **Bloom:** Apply
 **EJE:** Pragmática
@@ -461,7 +463,7 @@ Este ejemplo práctico ilustra cómo opera referencial económica dentro del cir
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v18`
 **Bloom:** Remember
 **EJE:** Pragmática
@@ -487,7 +489,7 @@ Este ejemplo práctico ilustra cómo opera expresiva lírica dentro del circuito
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v19`
 **Bloom:** Understand
 **EJE:** Pragmática
@@ -513,7 +515,7 @@ Este ejemplo práctico ilustra cómo opera publicidad algorítmica dentro del ci
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** `SV-LEN-11-2026-W02-tema-w02-001-MASTERY-v20`
 **Bloom:** Apply
 **EJE:** Pragmática

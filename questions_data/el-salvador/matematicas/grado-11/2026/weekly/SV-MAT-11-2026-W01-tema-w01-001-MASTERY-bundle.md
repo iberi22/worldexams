@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED - PAES El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -19,7 +21,7 @@ creador: "Jules-Agent"
 
 # MASTERY Bundle — Matemáticas: Conjuntos Numéricos (SV-MAT-11-W01)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Pensamiento Numérico
@@ -38,7 +40,7 @@ creador: "Jules-Agent"
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Pensamiento Numérico
@@ -57,7 +59,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico
@@ -76,7 +78,7 @@ Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico
@@ -95,7 +97,7 @@ Si $x = 3.141592...$ (número $\pi$) y $y = 3.1416$, ¿cómo se clasifican estos
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico
@@ -114,7 +116,7 @@ Calcula la unión de los intervalos $A = [-3, 2]$ y $B = [0, 5]$.
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico
@@ -133,7 +135,7 @@ Si el conjunto $S_{6}$ contiene los reales que satisfacen $x > 6$, ¿cuál es su
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Pensamiento Numérico
@@ -152,7 +154,7 @@ Si el conjunto $S_{7}$ contiene los reales que satisfacen $x > 7$, ¿cuál es su
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico
@@ -171,7 +173,7 @@ Si el conjunto $S_{8}$ contiene los reales que satisfacen $x > 8$, ¿cuál es su
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico
@@ -190,7 +192,7 @@ Si el conjunto $S_{9}$ contiene los reales que satisfacen $x > 9$, ¿cuál es su
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Pensamiento Numérico
@@ -209,7 +211,7 @@ Si el conjunto $S_{10}$ contiene los reales que satisfacen $x > 10$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -228,7 +230,7 @@ Si el conjunto $S_{11}$ contiene los reales que satisfacen $x > 11$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -247,7 +249,7 @@ Si el conjunto $S_{12}$ contiene los reales que satisfacen $x > 12$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -266,7 +268,7 @@ Si el conjunto $S_{13}$ contiene los reales que satisfacen $x > 13$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -285,7 +287,7 @@ Si el conjunto $S_{14}$ contiene los reales que satisfacen $x > 14$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -304,7 +306,7 @@ Si el conjunto $S_{15}$ contiene los reales que satisfacen $x > 15$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Pensamiento Numérico
@@ -323,7 +325,7 @@ Si el conjunto $S_{16}$ contiene los reales que satisfacen $x > 16$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico
@@ -342,7 +344,7 @@ Si el conjunto $S_{17}$ contiene los reales que satisfacen $x > 17$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico
@@ -361,7 +363,7 @@ Si el conjunto $S_{18}$ contiene los reales que satisfacen $x > 18$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico
@@ -380,7 +382,7 @@ Si el conjunto $S_{19}$ contiene los reales que satisfacen $x > 19$, ¿cuál es 
 ### Explicación Pedagógica
 Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Pensamiento Numérico

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -60,7 +62,7 @@ Los números básicos son fundamentales para cuantificar objetos escolares. "Twe
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-003`
 **Bloom:** Apply
@@ -82,7 +84,7 @@ Esta pregunta aplica el vocabulario de colores a un símbolo patrio nacional. "L
 
 ---
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-004`
 **Bloom:** Analyze
@@ -126,7 +128,7 @@ How do you write "seventy-five" in numbers?
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-006`
 **Bloom:** Understand
@@ -148,7 +150,7 @@ Comprender los vínculos familiares básicos es esencial. El hermano de la madre
 
 ---
 
-## Question 7 [D5-D6]
+## Question 7 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-007`
 **Bloom:** Apply
@@ -170,7 +172,7 @@ El orden de los días de la semana es: Monday, Tuesday, Wednesday, Thursday, Fri
 
 ---
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W01-basic-vocabulary-ar-008`
 **Bloom:** Analyze
