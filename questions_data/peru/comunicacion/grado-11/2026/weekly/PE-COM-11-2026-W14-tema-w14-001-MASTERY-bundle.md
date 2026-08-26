@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Cohesión y coherencia
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 La coherencia es la propiedad fundamental por la cual un texto se percibe como una unidad de sentido estructurada, donde cada párrafo aporta información lógicamente ligada al núcleo temático.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Cohesión y coherencia
@@ -68,7 +70,7 @@ La coherencia es la propiedad fundamental por la cual un texto se percibe como u
 La anáfora gramatical evita repeticiones monótonas de sustantivos utilizando elementos deícticos o pronombres que señalan hacia atrás en la cadena del discurso escrito.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Cohesión y coherencia
@@ -92,7 +94,7 @@ La anáfora gramatical evita repeticiones monótonas de sustantivos utilizando e
 La anáfora adverbial de lugar ("allí", "aquí", "allá") actúa como un mecanismo cohesivo que sustituye complementos circunstanciales de espacio previamente presentados, compactando el enunciado.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Cohesión y coherencia
@@ -116,7 +118,7 @@ La anáfora adverbial de lugar ("allí", "aquí", "allá") actúa como un mecani
 La catáfora es un recurso de cohesión por el cual un término (frecuentemente un pronombre demostrativo neutro o frase generalizadora) introduce o prepara al lector para recibir una enumeración o idea posterior.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Cohesión y coherencia
@@ -140,7 +142,7 @@ La catáfora es un recurso de cohesión por el cual un término (frecuentemente 
 El uso de conectores consecuentes vincula premisas verdaderas con sus derivaciones lógicas correspondientes. Si la papa nutre (causa), se infiere directamente que su consumo combate la desnutrición (consecuencia).
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Cohesión y coherencia
@@ -165,7 +167,7 @@ El uso de conectores consecuentes vincula premisas verdaderas con sus derivacion
 La reelaboración estilística de textos redundantes exige dominar la elipsis (supresión de términos sobreentendidos) y la aposición explicativa para fundir ideas fragmentadas en un solo período oracional complejo y elegante.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Cohesión y coherencia
@@ -190,7 +192,7 @@ La reelaboración estilística de textos redundantes exige dominar la elipsis (s
 Los conectores de transición o digresión orientan al lector cuando el autor abre un paréntesis informativo o introduce un nuevo eje temático secundario dentro del flujo del texto.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Cohesión y coherencia
@@ -215,7 +217,7 @@ Seleccione el conector lógico que marque de forma óptima el contraste simétri
 Los conectores adversativos de contraste ("por el contrario", "en cambio", "en contraste") estructuran de forma nítida las comparaciones donde las características del segundo elemento son opuestas o inversas a las del primero.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Cohesión y coherencia
@@ -240,7 +242,7 @@ Los conectores adversativos de contraste ("por el contrario", "en cambio", "en c
 El conector "por esta razón" actúa como un puente ilativo que atribuye una decisión o evento administrativo restrictivo como la consecuencia insoslayable de una causa física destructiva previa.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Cohesión y coherencia
@@ -265,7 +267,7 @@ Seleccione el conector de ejemplificación o especificación adecuado para el co
 Los conectores de particularización ("en concreto", "específicamente", "en particular") permiten un tránsito discursivo fluido desde proposiciones de alcance general hacia especificaciones detalladas de campo o casos de estudio.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Cohesión y coherencia
@@ -290,7 +292,7 @@ Los conectores de particularización ("en concreto", "específicamente", "en par
 Los conectores contraargumentativos ("a pesar de ello", "no obstante", "con todo") permiten ligar dos informaciones que parecen excluyentes o contradictorias, exigiendo un esfuerzo analítico para identificar la tensión semántica del texto.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Cohesión y coherencia
@@ -315,7 +317,7 @@ Determine el conector de reformulación explicativa idóneo para el fragmento.
 Los conectores reformulativos ("en otras palabras", "dicho de otro modo", "es decir") permiten al emisor aclarar términos técnicos o complejos mediante expresiones equivalentes más intuitivas para el lector común.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Cohesión y coherencia
@@ -340,7 +342,7 @@ Al analizar de manera crítica la oración citada, ¿cuál es el problema de coh
 La cohesión referencial exige precisión. El uso descuidado de pronombres y adjetivos posesivos de tercera persona ("su", "ella") en oraciones con más de un sujeto femenino o masculino introduce ambigüedad estructural (anfibología), que arruina la comprensión lectora del texto.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Cohesión y coherencia
@@ -365,7 +367,7 @@ La cohesión referencial exige precisión. El uso descuidado de pronombres y adj
 El alumno debe analizar la jerarquía lógica de las ideas en textos argumentativos. Identificar el rol secuencial de cada conector ("restricción del beneficio inicial" -> "explicación económica" -> "consecuencia política") permite reconstruir con lucidez el sentido de lecturas complejas.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Cohesión y coherencia
@@ -390,7 +392,7 @@ El alumno debe analizar la jerarquía lógica de las ideas en textos argumentati
 La elipsis del sujeto (sujeto tácito u omisión del pronombre personal) es una herramienta de cohesión fundamental que evita repeticiones redundantes de nombres propios en textos biográficos, sustentada en la riqueza de la desinencia verbal del español.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Cohesión y coherencia
@@ -415,7 +417,7 @@ La elipsis del sujeto (sujeto tácito u omisión del pronombre personal) es una 
 La sustitución léxica mediante hiperónimos (palabras con mayor extensión de significado que engloban a otras más específicas llamadas hipónimos) es un mecanismo cohesivo que enriquece el registro formal del texto expositivo y académico.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Cohesión y coherencia
@@ -440,7 +442,7 @@ Al analizar de manera crítica la coherencia lógica de las relaciones discursiv
 La evaluación de textos incoherentes exige rastrear cómo los conectores ("Sin embargo", "Por consiguiente") imponen relaciones conceptuales falsas o contradictorias entre proposiciones que de otro modo tendrían un sentido positivo convergente.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Cohesión y coherencia
@@ -465,7 +467,7 @@ Al evaluar críticamente el fragmento anterior respecto a las normas de coherenc
 La coherencia temática global (isotopía) exige que toda la información vertida en un mismo párrafo o texto conserve una relación de afinidad semántica estrecha con la tesis principal, descartando digresiones drásticas que confundan el propósito de lectura.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Cohesión y coherencia
@@ -490,7 +492,7 @@ Evalúe la pertinencia lógica y validez normativa del uso de la cadena de conec
 La evaluación argumentativa profunda exige validar si el conector adversativo ("por el contrario") de veras enlaza ideas antitéticas. Si la segunda idea complementa la subordinación conceptual de la primera, forzar una contraposición léxica constituye una impericia de cohesión.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W14-tema-w14-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Cohesión y coherencia

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -42,7 +44,7 @@ González Prada pronuncia en 1888 su famoso discurso donde convoca a la juventud
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -67,7 +69,7 @@ En el ensayo 'El problema del indio', Mariátegui sostiene que toda solución pe
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -94,7 +96,7 @@ La tesis es la idea central que el ensayista busca validar. Aquí, se defiende q
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -119,7 +121,7 @@ La tesis constituye el postulado principal defendido en el ensayo. Los argumento
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -146,7 +148,7 @@ El contraargumento demuestra que la cohesión lingüística andina ya existía m
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -171,7 +173,7 @@ Un contraargumento eficaz expone las consecuencias negativas o las inconsistenci
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -198,7 +200,7 @@ El uso de datos estadísticos empíricos y verificables (el 15% de aumento) dota
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -225,7 +227,7 @@ El argumento analógico busca convencer al lector estableciendo un paralelismo l
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -252,7 +254,7 @@ Los conectores concesivos (a pesar de, aun cuando, si bien) sirven en los ensayo
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -277,7 +279,7 @@ El argumento de autoridad recurre al prestigio y conocimiento especializado de u
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -304,7 +306,7 @@ El uso de conectores adversativos (no obstante, sin embargo, por el contrario) e
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -331,7 +333,7 @@ González Prada desmitifica las campañas filantrópicas y religiosas de su épo
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -356,7 +358,7 @@ El análisis histórico-económico permite a Mariátegui deconstruir el racismo 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -383,7 +385,7 @@ El autor realiza una redefinición del término para elevar el estándar de disc
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -408,7 +410,7 @@ La tensión entre 'país oficial' y 'país real' es un concepto central de la so
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -435,7 +437,7 @@ Toda deducción normativa (lo que se debe o no hacer) requiere premisas de valor
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -460,7 +462,7 @@ La diferencia estriba en los propósitos y comunidades discursivas de ambos gén
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -488,7 +490,7 @@ Los dilemas morales complejos ocurren cuando chocan valores fundamentales proteg
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -515,7 +517,7 @@ El Perú contemporáneo presenta dinámicas socioeconómicas híbridas. La vieja
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna

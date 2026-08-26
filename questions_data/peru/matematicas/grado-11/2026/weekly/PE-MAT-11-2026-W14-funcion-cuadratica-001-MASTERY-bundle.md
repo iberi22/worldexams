@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -42,7 +44,7 @@ La forma canónica de una función cuadrática permite identificar directamente 
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v2
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -67,7 +69,7 @@ Identificamos la función en su forma canónica. El signo negativo indica que la
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -92,7 +94,7 @@ Para una función $ax^2 + bx + c$, la ubicación del eje de simetría y del vér
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -117,7 +119,7 @@ La dirección de apertura (concavidad) de una función cuadrática depende exclu
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -142,7 +144,7 @@ Primero hallamos el tiempo en el vértice $t_v = -b / 2a = 4$. Luego sustituimos
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -167,7 +169,7 @@ Los interceptos con el eje $X$ coinciden con las raíces de la función. Factori
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -192,7 +194,7 @@ Las transformaciones de funciones indican que $f(x+h)$ desplaza horizontalmente 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -217,7 +219,7 @@ El mínimo de una función cuadrática con $a > 0$ se encuentra en la coordenada
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -242,7 +244,7 @@ El rango de una función cuadrática $ax^2 + bx + c$ depende de la dirección de
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -267,7 +269,7 @@ Modelamos el área como una función de una variable. Usando la restricción del
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -292,7 +294,7 @@ Evaluamos la función cuadrática en los dos puntos indicados y calculamos la di
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -317,7 +319,7 @@ Para hallar la intersección de dos funciones, igualamos sus reglas de correspon
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -342,7 +344,7 @@ Usamos la forma canónica con el vértice conocido y dejamos el coeficiente $a$ 
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -367,7 +369,7 @@ Que la gráfica sea tangente al eje de las abscisas implica que la ecuación $f(
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -392,7 +394,7 @@ Debido a la simetría de la parábola respecto al eje $Y$, la base de 4 unidades
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -417,7 +419,7 @@ Planteamos la función de ingresos como el producto de (Precio + aumento) por (A
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -442,7 +444,7 @@ Usamos la forma canónica para establecer la estructura de la función con los d
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -467,7 +469,7 @@ Usamos la semejanza de triángulos para relacionar la base y la altura del rect�
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -492,7 +494,7 @@ Resolvemos la ecuación exterior para encontrar los valores posibles de la funci
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W14-funcion-cuadratica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio

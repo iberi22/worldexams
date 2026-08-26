@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ A metaphor is a figure of speech in which a word or phrase is applied to an obje
 'Metaphor' is the term for a poetic or creative comparison that is not literally true.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ By next year, the new trade regulations will have been implemented in all major 
 The future perfect passive describes a regulation that will be a finished fact in the future.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If she hadn't moved to another country, she wouldn't have understood the challen
 The third conditional is used to speculate about how a past experience led to a present or past understanding.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Fact-checking is the process of verifying the accuracy of information before it 
 'Fact-checking' is the specific name for the verification of data and claims in media.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The text implies that grassroots movements are powerful because they are rooted 
 'Grassroots' describes movements that originate from the local community level.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Legislation refers to a law or a set of laws that are officially passed by a gov
 'Legislation' is the comprehensive term for the formal laws of a country.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ New international standards are being developed to manage the ethics of biotechn
 The present continuous passive describes the current and active creation of global rules.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Pluralism is a condition or system in which two or more states, groups, or princ
 'Pluralism' is the sociological term for the harmonious coexistence of different groups in one society.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The leader argued that empathy was the most important quality for modern global 
 In reported speech, we backshift the tense of the original statement to show it was said in the past.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The overarching goal of the Grade 11 curriculum is to foster critical thinking a
 'Critical thinking' correctly identifies the primary cognitive skill targeted by the advanced Grade 11 syllabus.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ The protagonist is the leading character or one of the major characters in a mov
 'Protagonist' is the essential literary term for the main character of a story.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ I wish people would take sustainable development more seriously to protect the f
 'Wish + would' expresses a desire for a positive change in a current or future situation.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Integrity involves being honest and having strong moral principles that you refu
 'Integrity' is the key term for the consistency of actions, values, and principles.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ The empire had been declining for centuries before it finally collapsed.
 The past perfect continuous describes a long-term process that preceded a specific historical turning point.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ Global citizenship requires us to transcend our local biases and act for the ben
 'Transcends' is the appropriate verb for describing how an ethical perspective rises above narrow local interests.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Resilience is the ability to bounce back from setbacks and adapt to challenging 
 'Resilience' is the recognized psychological term for the capacity to recover from difficulty.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ It is vital that all parties listen actively during the mediation process.
 The base form 'listen' is used in the subjunctive mood to express high importance.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Gentrification is the process of renovating and improving a house or district so
 'Gentrification' is the standard term for the socio-economic transformation of urban areas.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ He is getting used to his new career path after several years of retraining.
 'Be getting used to' describes the current process of becoming accustomed to a new situation.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W40-final-review-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

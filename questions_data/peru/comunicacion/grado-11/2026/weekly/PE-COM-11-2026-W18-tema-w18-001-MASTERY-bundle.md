@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Literatura
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 Ciro Alegría retrata la vida andina del norte del Perú destacando el valor integrador de la comunidad campesina. Su prosa es de corte épico, con un marcado tono de denuncia cívica frente al despojo agrario impulsado por el gamonalismo de la época.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Literatura
@@ -68,7 +70,7 @@ Ciro Alegría retrata la vida andina del norte del Perú destacando el valor int
 El zumbayllu o trompo mágico andino es un símbolo arguediano fundamental en *Los ríos profundos*. Su zumbido musical representa una fuerza de sanación telúrica que conecta al protagonista (Ernesto) y a los colegiales con el cosmos andino y las fuerzas benéficas de los ríos profundos de la sierra.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Literatura
@@ -93,7 +95,7 @@ El zumbayllu o trompo mágico andino es un símbolo arguediano fundamental en *L
 La novela de Ciro Alegría confronta dos cosmovisiones jurídicas y existenciales irreconciliables: la del indio andino (que concibe la tierra de forma sagrada, comunal y colectiva) frente a la de la oligarquía feudal terrateniente (que la concibe como una propiedad mercantil de usufructo y explotación individual).
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Literatura
@@ -117,7 +119,7 @@ Ernesto, el adolescente protagonista de *Los ríos profundos*, es hijo de un abo
 Ernesto es el arquetipo del protagonista mestizo de Arguedas. Su drama psicológico reside en que no pertenece plenamente a ninguno de los dos estamentos raciales peruanos del siglo XX: comparte la raza y lengua del opresor, pero siente, vibra y ama con la cosmovisión y el idioma quechua del oprimido.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Literatura
@@ -142,7 +144,7 @@ Según este análisis, ¿en qué consiste la originalidad del estilo lingüísti
 Arguedas superó el indigenismo costumbrista exterior que retrataba al indio usando caricaturas lingüísticas. Al quechuizar de forma lírica la sintaxis castellana, logró dotar de dignidad y hondo realismo cívico a las voces silenciadas del ande.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Literatura
@@ -166,7 +168,7 @@ Durante la "rebelión de las chicheras" liderada por doña Felipa en Abancay, la
 Arguedas expone la colusión de poderes feudales andinos. El Padre Linares representa al clero paternalista e influyente que, escudado en la fe, defiende de manera autoritaria el estatus quo opresivo de los gamonales frente a la justa indignación del pueblo hambriento.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Literatura
@@ -190,7 +192,7 @@ Si un alumno andino lee *Los ríos profundos* y desea asociar las vivencias de E
 La literatura arguediana posee un hondo aliento vivencial y testimonial. Ernesto encarna la herida biográfica del propio autor, cuya sensibilidad andina y dolor de orfandad se fraguaron en el ande peruano de la sierra sur.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Literatura
@@ -215,7 +217,7 @@ Si los estudiantes redactan un ensayo de ciencias sociales sobre las disputas de
 El alumno transfiere el conflicto literario-histórico de la novela indigenista del siglo XX a un análisis de sociología jurídica actual, reconociendo el debate entre legitimidad moral cívica y legalidad institucional del Estado peruano.
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Literatura
@@ -240,7 +242,7 @@ Si el director de teatro del colegio desea representar de forma fidedigna y resp
 La representación dramática de la poética de Arguedas exige un riguroso respeto y unificación del lenguaje lírico quechua con el panteísmo andino (la creencia de que la naturaleza, los ríos y las piedras andinas son seres vivos que hablan y consuelan al huérfano).
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Literatura
@@ -264,7 +266,7 @@ Determine cul de las opciones ilustra con precisión la diferencia en la aplicac
 La comparación de poéticas indigenistas permite al alumno calibrar los dos grandes enfoques de la novela andina del siglo XX: el épico-colectivo-jurídico de Ciro Alegría frente al lírico-psicológico-antropológico y bilingüe de José María Arguedas.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Literatura
@@ -288,7 +290,7 @@ La comparación de poéticas indigenistas permite al alumno calibrar los dos gra
 La poética arguediana dota a las piedras prehispánicas de Cusco de una cualidad palpitante y fluida (como el agua de los "ríos profundos"). El muro incaico simboliza el soporte espiritual viviente de la herencia indígena andina que resiste los vicios de dominación republicanos.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Literatura
@@ -312,7 +314,7 @@ En los escritos indigenistas, el "pongo" o sirviente indígena doméstico repres
 El análisis del cuento de Arguedas permite al estudiante valorar el rol de la alegoría literaria y de la ironía indígena andina como mecanismos sutiles de resistencia espiritual de los colonos oprimidos frente a la impunidad cívica del latifundio.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -337,7 +339,7 @@ El análisis del cuento de Arguedas permite al estudiante valorar el rol de la a
 La evaluación de la presencia del mito andino de Inkarri permite al alumno comprender de qué manera la cosmovisión religiosa y tradicional quechua dota a las luchas sociales republicanas contemporáneas de una mística de resistencia atemporal arraigada en el territorio.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -362,7 +364,7 @@ La evaluación de la presencia del mito andino de Inkarri permite al alumno comp
 El alumno asimila el paso del indigenismo clásico (Alegría, Arguedas) al Neoindigenismo (Scorza), comprendiendo que la transgresión mágica e hiperbólica actúa como una herramienta expresiva hiper-realista para evidenciar la desmesura de los abusos agrarios y de la explotación minera en la sierra central peruana.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -387,7 +389,7 @@ El alumno asimila el paso del indigenismo clásico (Alegría, Arguedas) al Neoin
 El alumno analiza de forma crítica la transición demográfica andina. Ciro Alegría profetizó el descalabro de la destrucción de las comunidades indígenas andinas antes de que ocurrieran los grandes flujos migratorios de mediados del siglo XX en el Perú, catalogando al desarraigo andino como el problema cívico medular de la República.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -412,7 +414,7 @@ El alumno analiza de forma crítica la transición demográfica andina. Ciro Ale
 La evaluación comparativa de estilos indigenistas enriquece el análisis literario del estudiante. Le permite notar que el indigenismo no fue un bloque monolítico, sino que albergó sensibilidades regionales divergentes unificadas por un hondo dolor y un inquebrantable compromiso ético cívico por restaurar los derechos humanos del campesinado andino.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -437,7 +439,7 @@ Al evaluar críticamente el valor formativo de ambas narraciones andinas para el
 El pensamiento crítico exige al estudiante evaluar el impacto de la literatura de denuncia social andina. Ambas obras son complementarias en el aula escolar para comprender tanto el origen del racismo cívico peruano de clases de posguerra como la vigencia de la identidad andina para la refundación de un Perú bilingüe e integrador.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -462,7 +464,7 @@ El pensamiento crítico exige al estudiante evaluar el impacto de la literatura 
 La transculturación lingüística operada por Arguedas reconcilia los dos mundos enfrentados por la Conquista. Al moldear el castellano para verter el lirismo afectivo del quechua, el autor andino demostró la maleabilidad y la soberanía del español americano para dar voz de forma fidedigna y conmovedora a la herencia indígena de los "ríos profundos".
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -486,7 +488,7 @@ Al ponderar de forma crítica, científica y argumentada la arquitectura dramát
 La evaluación de la arquitectura narrativa de *El mundo es ancho y ajeno* revela su estatus de novela total andina. Su valor reside en orquestar el drama agrario de Rumi como un microcosmos que ilustra de forma universal el drama moral cívico y territorial de las comunidades originarias andinas de América Latina frente a la modernización desregulada de la costa oligárquica.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W18-tema-w18-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Literatura

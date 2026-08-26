@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -42,7 +44,7 @@ El resumen o abstract es una sección obligatoria y normalizada en la comunicaci
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -67,7 +69,7 @@ El estilo científico prioriza la claridad, objetividad y precisión referencial
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -94,7 +96,7 @@ La comprensión del texto científico requiere captar las relaciones de causa y 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -119,7 +121,7 @@ Los textos de divulgación tecnológica o arqueológica suelen estructurarse baj
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -146,7 +148,7 @@ La comprensión crítica de textos de divulgación social andina requiere identi
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -173,7 +175,7 @@ La identificación de tecnicismos y términos especializados del metalenguaje ci
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -200,7 +202,7 @@ El uso de la analogía didáctica constituye un recurso valioso en la divulgaci�
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -227,7 +229,7 @@ La citación sistemática de fuentes legítimas (autor, institución y fecha de 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -254,7 +256,7 @@ La conclusión en la divulgación científica debe limitarse a lo que la evidenc
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -281,7 +283,7 @@ La divulgación científica valora el saber tradicional como patrimonio antropol
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -308,7 +310,7 @@ La biopiratería es un tema de alta relevancia en los estudios sociales andinos.
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -333,7 +335,7 @@ La tesis autoctonista de Julio C. Tello (el padre de la arqueología peruana) fu
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -360,7 +362,7 @@ La fibra de alpaca es reconocida mundialmente por sus bondades textiles de confo
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -385,7 +387,7 @@ La investigación científica rigurosa exige diferenciar la correlación estadí
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -412,7 +414,7 @@ El análisis sociológico de la cosmovisión andina rescata sus instituciones ag
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -439,7 +441,7 @@ El sensacionalismo y la invención de beneficios desmesurados son vicios comunes
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -466,7 +468,7 @@ Los discursos pseudocientíficos que atribuyen la arquitectura de Sacsayhuamán,
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -494,7 +496,7 @@ El debate nacional sobre la moratoria de transgénicos ilustra que la ciencia y 
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -521,7 +523,7 @@ La divulgación de la neurociencia cumple un rol emancipador en el plano social 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna

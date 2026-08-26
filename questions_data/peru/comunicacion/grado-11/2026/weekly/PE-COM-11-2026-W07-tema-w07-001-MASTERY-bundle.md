@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -42,7 +44,7 @@ Mariano Melgar es considerado el precursor del Romanticismo peruano. Su aporte f
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -67,7 +69,7 @@ José Santos Chocano es la figura emblemática del modernismo peruano. Su poemar
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -92,7 +94,7 @@ El Realismo peruano de posguerra asume una actitud de dura autocrítica social. 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -119,7 +121,7 @@ González Prada ejerce una crítica sociológica brillante. El fracaso bélico d
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -144,7 +146,7 @@ Mariano Melgar encarna el espíritu de la Ilustración y la Emancipación americ
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -169,7 +171,7 @@ El modernismo prioriza la autonomía del arte y la búsqueda de la belleza forma
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -196,7 +198,7 @@ La genialidad de Melgar reside en verter el caudal semántico y simbólico de la
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -223,7 +225,7 @@ La retórica modernista de Chocano recurre al contraste de imágenes solemnes y 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -248,7 +250,7 @@ El positivismo fue el marco intelectual que nutrió la rebeldía de González Pr
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -273,7 +275,7 @@ González Prada consideraba que la ortografía tradicional española era un resi
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -300,7 +302,7 @@ González Prada desmitifica el relato triunfalista de la República peruana de l
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -325,7 +327,7 @@ Chocano representa el ala 'americanista' del modernismo. Mientras otros poetas h
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -350,7 +352,7 @@ El desenlace de 'Aves sin nido' causó un enorme escándalo en su época, result
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -375,7 +377,7 @@ El yaraví de Melgar constituye el primer monumento lírico del mestizaje peruan
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -402,7 +404,7 @@ El indigenismo decimonónico posee un matiz filantrópico y protector. Aunque va
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -429,7 +431,7 @@ González Prada es el primer gran pensador republicano que devela la mentira de 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -454,7 +456,7 @@ En el modernismo chocaniano, el mestizaje no se asume como dolor o queja margina
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -482,7 +484,7 @@ El contraste ilustra dos vías intelectuales de posguerra: la vía crítica radi
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -507,7 +509,7 @@ Mariano Melgar no es solo un poeta regional de yaravíes, sino el arquitecto esp
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna

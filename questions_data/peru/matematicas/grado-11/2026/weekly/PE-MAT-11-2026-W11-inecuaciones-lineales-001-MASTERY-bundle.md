@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -42,7 +44,7 @@ La propiedad multiplicativa de las desigualdades establece que si $a < b$ y mult
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v2
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -67,7 +69,7 @@ Se plantea la inecuación lineal $25x + 40 \le 200$. Al restar 40 obtenemos $25x
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -92,7 +94,7 @@ Aplicamos la propiedad distributiva: $3x - 6 \ge 5x + 4$. Agrupamos términos se
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -117,7 +119,7 @@ Definimos $n$ como el número de carreras. La ganancia neta es Ingresos menos Ga
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -142,7 +144,7 @@ Al resolver la inecuación, multiplicamos ambos lados por el MCM (4): $2x - 3 < 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -167,7 +169,7 @@ Sea $x$ el ancho y $x+10$ el largo. El perímetro es $2(x + x + 10) = 4x + 20$. 
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -193,7 +195,7 @@ Se resuelven ambas inecuaciones independientemente. La primera da $x > 4$ y la s
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -218,7 +220,7 @@ Queremos saber cuándo $Costo_{Plus} < Costo_{Basico}$, es decir $45 < 30 + 0.50
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v9
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -243,7 +245,7 @@ La propiedad $|x - a| \le b$ equivale a la inecuación doble $-b \le x - a \le b
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -268,7 +270,7 @@ Planteamos la inecuación doble basada en el volumen deseado: $1400 \le 800 + 40
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -293,7 +295,7 @@ Identificamos los puntos críticos (donde el numerador o denominador son cero): 
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -318,7 +320,7 @@ La utilidad se calcula como $Ingresos - Costos$. Sea $x$ el número de botellas:
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v13
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -343,7 +345,7 @@ Traducimos el enunciado: $x + 8 > 3x - 20$. Al agrupar términos obtenemos $28 >
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -368,7 +370,7 @@ Al tener valores absolutos en ambos miembros, elevamos al cuadrado: $(x-2)^2 \le
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -395,7 +397,7 @@ Evaluamos sistemáticamente las posibilidades para enteros positivos. De $2x + y
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -420,7 +422,7 @@ Sea $x$ los litros al 50%. Los litros al 20% son $12-x$. La cantidad de ácido p
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -445,7 +447,7 @@ Para que una inecuación lineal no tenga solución, la variable $x$ debe elimina
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -471,7 +473,7 @@ Al simplificar la primera inecuación, multiplicando por el MCM (6), obtenemos $
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -500,7 +502,7 @@ Se trata de un problema de programación lineal entera. Al graficar las inecuaci
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W11-inecuaciones-lineales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio

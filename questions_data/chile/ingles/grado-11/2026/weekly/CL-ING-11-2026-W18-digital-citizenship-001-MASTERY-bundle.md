@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Digital citizenship refers to the responsible use of technology by anyone who us
 'Digital citizenship' is the overarching term for behaving responsibly and ethically online.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Users should ensure that their private information is kept secure from potential
 The passive voice 'is kept' focuses on the state of the information being secure.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If you had been more careful with your posts, you wouldn't have a negative digit
 The mixed conditional (if + past perfect, would + verb) connects a past mistake with a present consequence.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Cyberbullying involves using digital communication to harass, threaten, or intim
 'Harass' is one of the key actions that defines cyberbullying behavior.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The digital divide highlights the inequality in access to information and commun
 'Inequality' correctly describes the gap in access that characterizes the digital divide.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Netiquette is the set of rules for behaving properly online.
 'Netiquette' is the standard term for social conventions in digital communication.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ It is vital that everyone use strong, unique passwords for their online accounts
 The base form 'use' is required in the subjunctive mood to express importance or necessity.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Plagiarism is the practice of taking someone else's work or ideas and passing th
 'Plagiarism' is the specific term for the unethical use of another's work without attribution.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Your browsing habits are being tracked by various companies to target you with a
 The present continuous passive describes how user data is currently and continuously being monitored.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Echo chambers can polarize society by only exposing individuals to information t
 'Polarize' correctly identifies the divisive effect that echo chambers have on public discourse.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Malware is software that is specifically designed to disrupt, damage, or gain un
 'Malware' is the general term for all types of malicious software.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Users whose data has been breached should be notified immediately by the service
 'Whose' is used to show possession, linking the users to their breached data.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Everything you do online leaves a permanent digital footprint that can be diffic
 'Permanent' describes the enduring nature of digital information once it has been shared or recorded.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ You shouldn't share sensitive information unless you are absolutely sure of the 
 'Unless' sets the necessary condition for sharing: the certainty of security.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that digital literacy is the most effective tool for naviga
 'Digital literacy' refers to the set of skills needed to use technology effectively and critically.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Phishing is a fraudulent attempt to obtain sensitive information such as usernam
 'Phishing' is the technical term for deceptive attempts to steal user data.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish I hadn't commented so impulsively on that controversial post.
 The structure 'wish + past perfect' allows for the expression of regret over a past action.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Open-source software allows users to access and modify the source code, promotin
 'Open-source' is the term for software where the original source code is made freely available and may be redistributed and modified.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The expert warned that hackers were becoming increasingly sophisticated.
 In reported speech, we backshift the tense of the original statement to the past.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
