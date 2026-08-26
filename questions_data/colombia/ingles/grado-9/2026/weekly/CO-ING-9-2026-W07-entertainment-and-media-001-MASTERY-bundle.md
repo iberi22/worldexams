@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -23,7 +25,7 @@ This bundle explores the world of movies, music, and social media, focusing on P
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -44,7 +46,7 @@ Usamos la voz pasiva en el pasado (*was filmed*) cuando queremos resaltar qué s
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -65,7 +67,7 @@ Para hablar de acciones habituales o hechos generales en voz pasiva, utilizamos 
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Lingüística
@@ -86,7 +88,7 @@ La voz pasiva en el Presente Perfecto (*has been changed*) se utiliza para accio
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Pragmática
@@ -107,7 +109,7 @@ Cuando el agente de la acción (quien canceló el concierto) no es lo más impor
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Lingüística
@@ -128,7 +130,7 @@ Para eventos futuros donde el foco es lo que sucederá, usamos la pasiva con *wi
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sociolingüística
@@ -149,7 +151,7 @@ Es fundamental recordar que la palabra *news* es incontable y siempre va con el 
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Lingüística
@@ -170,7 +172,7 @@ Para acciones que están ocurriendo en este preciso momento en voz pasiva, añad
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Pragmática
@@ -191,7 +193,7 @@ En críticas formales de arte o cine, es común usar la voz pasiva para poner la
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Lingüística
@@ -212,7 +214,7 @@ Al usar verbos modales en pasiva, la estructura es: *modal + be + participio pas
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Lingüística
@@ -234,7 +236,7 @@ A nivel B2, el estudiante debe distinguir entre un proceso continuo en el pasado
 
 ---
 
-## Question 11 [D10]
+## Question 11 [D9-D10]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Pragmática
@@ -255,7 +257,7 @@ En el periodismo, la voz pasiva es fundamental para reportar hechos donde el per
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Sociolingüística

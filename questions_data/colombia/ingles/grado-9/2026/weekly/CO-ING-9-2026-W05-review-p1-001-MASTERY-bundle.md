@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -23,7 +25,7 @@ This bundle provides a comprehensive review of the topics covered in weeks 1 to 
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -44,7 +46,7 @@ Para acciones que han ocurrido repetidamente desde un punto en el pasado hasta e
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -65,7 +67,7 @@ El *Pasado Perfecto Continuo* es ideal para resaltar cuánto tiempo estuvimos re
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Lingüística
@@ -86,7 +88,7 @@ El *Futuro Continuo* se usa frecuentemente para proyectar situaciones que serán
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Pragmática
@@ -108,7 +110,7 @@ Usamos el *Presente Perfecto Continuo* para explicar por qué alguien tiene un a
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Lingüística
@@ -129,7 +131,7 @@ Este ejercicio evalúa la capacidad de alternar entre un evento puntual en el pa
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sociolingüística
@@ -150,7 +152,7 @@ El *Futuro Perfecto* es la forma correcta para hablar de metas que habremos alca
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Lingüística
@@ -171,7 +173,7 @@ La forma continua del Pasado Perfecto permite visualizar que una acción estaba 
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Pragmática
@@ -192,7 +194,7 @@ Select the most appropriate sentence for a person who started a diet **three wee
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Sociolingüística
@@ -214,7 +216,7 @@ Al mencionar una hora específica para un evento organizado, el *Presente Contin
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Lingüística
@@ -236,7 +238,7 @@ El contexto sugiere que en el futuro el uso de la IA será una actividad continu
 
 ---
 
-## Question 11 [D10]
+## Question 11 [D9-D10]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Pragmática
@@ -258,7 +260,7 @@ Para indagar sobre la causa de un estado presente positivo que parece ser result
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** CO-ING-9-2026-W05-review-p1-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Sociolingüística

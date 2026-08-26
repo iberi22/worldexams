@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This bundle expands on quantifiers to express varying amounts of countable and u
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -48,7 +50,7 @@ The student identifies the basic distinction between "much" and "many" for quest
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -74,7 +76,7 @@ The student remembers the rule for using "any" in negative constructions.
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -99,7 +101,7 @@ The student understands the difference between "a few" and "a little" based on n
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-004-v1
 **Bloom:** Understand
 **ICFES:** Grammatical Knowledge
@@ -124,7 +126,7 @@ The student understands the correct use of "much" with uncountable nouns in ques
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-005-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -149,7 +151,7 @@ The student applies knowledge of quantifiers to a situation where an amount is i
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -175,7 +177,7 @@ The student applies reading strategies to understand the specific meaning of "fe
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -201,7 +203,7 @@ The student applies the correct combination of quantifiers for countable plural 
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-008-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
@@ -226,7 +228,7 @@ The student analyzes sentence structures to ensure agreement between the quantif
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-009-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -252,7 +254,7 @@ The student analyzes and compares information provided by quantifiers to make a 
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W23-quantifiers-expansion-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension

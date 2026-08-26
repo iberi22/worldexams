@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ La homonimia ocurre cuando dos palabras de distinto origen coinciden en su forma
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ Los tiempos compuestos se forman con el verbo auxiliar "haber" conjugado y el pa
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
@@ -86,7 +88,7 @@ El modo subjuntivo se utiliza para expresar acciones posibles, dudosas, deseadas
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v4
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -107,7 +109,7 @@ El uso del subjuntivo en oraciones condicionales permite plantear escenarios que
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -128,7 +130,7 @@ Los antónimos graduales son aquellos que representan los extremos de una escala
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -149,7 +151,7 @@ El pretérito imperfecto de indicativo es fundamental en la narración para crea
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -170,7 +172,7 @@ La sinonimia total es rara; la mayoría de los sinónimos son parciales o contex
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -191,7 +193,7 @@ Estas palabras son homófonas (suenan igual o parecido en algunas regiones) pero
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -212,7 +214,7 @@ El uso de verbos "comodín" como hacer, tener o decir debe evitarse en la escrit
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W30-repaso-periodo-3-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)

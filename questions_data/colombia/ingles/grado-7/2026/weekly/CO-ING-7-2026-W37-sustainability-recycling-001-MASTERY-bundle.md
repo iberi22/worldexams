@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This bundle focuses on vocabulary and concepts related to sustainability, the "3
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -48,7 +50,7 @@ The student identifies the core terminology used in environmental sustainability
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-002-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -73,7 +75,7 @@ The student identifies recyclable versus non-recyclable materials.
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -98,7 +100,7 @@ The student understands the specific distinction between reusing and other waste
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-004-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -123,7 +125,7 @@ The student understands the concept and vocabulary of renewable energy.
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-005-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -148,7 +150,7 @@ The student applies the concept of "reduce" to consumer choices.
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -174,7 +176,7 @@ The student applies reading comprehension to categorize a specific action within
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -199,7 +201,7 @@ The student applies knowledge of sustainable practices using the appropriate mod
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -225,7 +227,7 @@ The student analyzes a text to identify and summarize multiple advantages of a s
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-009-v1
 **Bloom:** Analyze
 **ICFES:** Lexico-grammatical Knowledge
@@ -250,7 +252,7 @@ The student analyzes and categorizes energy sources based on their sustainabilit
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W37-sustainability-recycling-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension

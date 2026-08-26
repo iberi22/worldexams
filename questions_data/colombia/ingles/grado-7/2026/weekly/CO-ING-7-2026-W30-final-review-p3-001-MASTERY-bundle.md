@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This final review bundle for Period 3 covers Healthy Eating, Countability, Quant
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W30-final-review-p3-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -48,7 +50,7 @@ The student identifies basic noun countability categories.
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W30-final-review-p3-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -73,7 +75,7 @@ The student identifies the correct superlative form for a short adjective.
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W30-final-review-p3-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -98,7 +100,7 @@ The student understands the correct quantifier based on countability and context
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W30-final-review-p3-004-v1
 **Bloom:** Understand
 **ICFES:** Grammatical Knowledge
@@ -123,7 +125,7 @@ The student understands the structural requirements for the "going to" future.
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W30-final-review-p3-005-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -148,7 +150,7 @@ The student applies comparative rules for long adjectives.
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W30-final-review-p3-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -174,7 +176,7 @@ The student applies reading strategies to compare quantities expressed with diff
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W30-final-review-p3-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -199,7 +201,7 @@ The student applies the future auxiliary "will" (negative form) to express a pro
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W30-final-review-p3-008-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
@@ -224,7 +226,7 @@ The student analyzes the correct use of irregular comparative and superlative fo
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W30-final-review-p3-009-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -250,7 +252,7 @@ The student analyzes the nuances of future structures to determine the level of 
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W30-final-review-p3-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension

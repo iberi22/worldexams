@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ La cohesión es una propiedad formal del texto que permite que las partes se rel
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ La sinonimia es un recurso de cohesión léxica que permite volver sobre un tema
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -86,7 +88,7 @@ Los conectores lógicos son palabras que establecen relaciones de sentido (causa
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -107,7 +109,7 @@ La referencia pronominal permite mantener el hilo temático refiriéndose a pers
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -128,7 +130,7 @@ Los conectores de orden o secuencia son vitales para la cohesión en textos narr
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -149,7 +151,7 @@ La elipsis aprovecha el contexto para evitar la pesadez de repetir elementos obv
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -170,7 +172,7 @@ Los conectores de consecuencia (así que, por lo tanto, en consecuencia) estable
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -191,7 +193,7 @@ La cohesión requiere que el nexo elegido coincida con la relación real entre l
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -212,7 +214,7 @@ La cohesión léxica se logra cuando el autor utiliza palabras que pertenecen a 
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)

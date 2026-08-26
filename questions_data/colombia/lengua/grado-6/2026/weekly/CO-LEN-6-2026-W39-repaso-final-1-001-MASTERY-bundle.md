@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ La coherencia es la propiedad fundamental que permite que un conjunto de oracion
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ La entradilla es estratégica en el periodismo informativo porque asegura que el
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -86,7 +88,7 @@ Reconocer las palabras de enlace (nexos) es fundamental para entender cómo se c
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -107,7 +109,7 @@ El artículo de opinión pertenece a los géneros argumentativos. Su éxito depe
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -128,7 +130,7 @@ Los conectores de consecuencia (por lo tanto, así que, en consecuencia) son her
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -149,7 +151,7 @@ La netiqueta exige claridad en los campos informativos para facilitar la gestió
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -170,7 +172,7 @@ La interactividad es el rasgo distintivo de las redes sociales, transformando la
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -191,7 +193,7 @@ El uso correcto de los dos puntos antes de una cita textual es una norma ortogr�
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -212,7 +214,7 @@ La tilde diacrítica permite que el lector identifique inmediatamente la funció
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W39-repaso-final-1-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)

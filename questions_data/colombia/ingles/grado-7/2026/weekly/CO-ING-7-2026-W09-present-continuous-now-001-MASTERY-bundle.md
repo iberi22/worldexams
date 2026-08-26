@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This bundle focuses on the Present Continuous tense (be + verb-ing) to describe 
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -48,7 +50,7 @@ The student identifies the basic components of the Present Continuous tense.
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -73,7 +75,7 @@ The student remembers the correct conjugation of the verb "to be" and the -ing f
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -98,7 +100,7 @@ The student understands that time markers like "Listen!" indicate the need for t
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-004-v1
 **Bloom:** Understand
 **ICFES:** Grammatical Knowledge
@@ -123,7 +125,7 @@ The student understands the correct word order for questions in the Present Cont
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
@@ -148,7 +150,7 @@ The student applies the rule for plural subjects in the Present Continuous.
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -174,7 +176,7 @@ The student applies reading strategies to identify specific current actions in a
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -199,7 +201,7 @@ The student applies basic spelling rules for the -ing form.
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-008-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
@@ -224,7 +226,7 @@ The student analyzes and distinguishes between habits (Simple) and actions in pr
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-009-v1
 **Bloom:** Analyze
 **ICFES:** Lexico-grammatical Knowledge
@@ -249,7 +251,7 @@ The student analyzes the CVC rule (consonant-vowel-consonant) for doubling conso
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W09-present-continuous-now-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension

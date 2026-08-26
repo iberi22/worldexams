@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This bundle focuses on forming negative sentences and questions in the Past Simp
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -48,7 +50,7 @@ The student identifies the correct auxiliary for negative sentences in the Past 
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -73,7 +75,7 @@ The student remembers the structural components and verb form required for past 
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -98,7 +100,7 @@ The student understands the need for the base form of a verb after the negative 
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-004-v1
 **Bloom:** Understand
 **ICFES:** Pragmatic Matching
@@ -123,7 +125,7 @@ The student understands how to provide a correct short response to a Past Simple
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
@@ -148,7 +150,7 @@ The student applies knowledge of the auxiliary "did" in the context of a Wh- que
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -175,7 +177,7 @@ The student applies reading strategies to understand negative statements and con
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -200,7 +202,7 @@ The student applies the rule of "didn't + base form" to identify the correct neg
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-008-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
@@ -225,7 +227,7 @@ The student analyzes question structures to ensure the correct verb form is used
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-009-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -252,7 +254,7 @@ The student analyzes affirmative and negative past statements to infer the curre
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W14-past-simple-q-neg-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension

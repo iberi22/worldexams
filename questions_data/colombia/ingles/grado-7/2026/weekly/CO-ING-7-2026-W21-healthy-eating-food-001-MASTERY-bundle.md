@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This bundle focuses on vocabulary related to food, drinks, and healthy eating ha
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -48,7 +50,7 @@ The student identifies basic food vocabulary and categories.
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-002-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -73,7 +75,7 @@ The student identifies specific food items associated with nutritional groups.
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -98,7 +100,7 @@ The student understands the health implications associated with different bevera
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-004-v1
 **Bloom:** Understand
 **ICFES:** Pragmatic Matching
@@ -123,7 +125,7 @@ The student understands and applies the concept of "healthy" to food choices in 
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-005-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -148,7 +150,7 @@ The student applies frequency adverbs to common health recommendations.
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -174,7 +176,7 @@ The student applies reading strategies to identify a specific factual detail in 
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -199,7 +201,7 @@ The student applies nutritional concepts to select the most appropriate word to 
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -225,7 +227,7 @@ The student analyzes the relationship between dietary habits and physical conseq
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-009-v1
 **Bloom:** Analyze
 **ICFES:** Lexico-grammatical Knowledge
@@ -250,7 +252,7 @@ The student analyzes the accuracy of statements combining food items and health 
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W21-healthy-eating-food-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension
