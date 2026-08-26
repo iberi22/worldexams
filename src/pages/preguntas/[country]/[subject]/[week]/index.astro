@@ -1,0 +1,160 @@
+---
+export const prerender = true;
+import { getAllBundles, getDisplayForCountry, getLangForCountry, canonicalFor, toTitleCase } from '../../../_helpers';
+
+export async function getStaticPaths() {
+  const bundles = getAllBundles();
+  return bundles.map(b => ({
+    params: { country: b.country, subject: b.subject, week: b.week.toLowerCase() },
+    props: { bundle: b }
+  }));
+}
+
+const { country, subject, week } = Astro.params;
+const countrySlug = String(country||'').toLowerCase();
+const subjectSlug = String(subject||'').toLowerCase();
+const weekSlug = String(week||'').toLowerCase();
+const display = getDisplayForCountry(countrySlug);
+const lang = getLangForCountry(countrySlug);
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space';
+const canonical = canonicalFor(`/preguntas/${countrySlug}/${subjectSlug}/${weekSlug}/`, siteUrl);
+const subjectLabel = toTitleCase(subjectSlug);
+
+// props bundle or find fallback
+let bundle = (Astro.props as any).bundle;
+if (!bundle) {
+  const all = getAllBundles();
+  bundle = all.find(b => b.country===countrySlug && b.subject===subjectSlug && b.week.toLowerCase()===weekSlug);
+}
+const weekUpper = (bundle?.week || weekSlug.toUpperCase()).toUpperCase();
+const temaLabel = bundle ? toTitleCase(bundle.tema) : subjectLabel;
+const title = `${temaLabel} ${weekUpper} — ${subjectLabel} ${display.name} | WorldExams`;
+const description = bundle
+  ? `Bundle ${weekUpper} de ${subjectLabel} para ${display.name}: ${temaLabel}. ${bundle.total_questions} preguntas, dificultad ${bundle.difficulty_band || 'D3-D4'}, grado ${bundle.grade}.`
+  : `Preguntas ${subjectLabel} ${weekUpper} para ${display.name}.`;
+const ogImage = `${siteUrl.replace(/\/$/,'')}/og-image.svg`;
+
+const breadcrumbs = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: canonicalFor('/', siteUrl) },
+    { '@type': 'ListItem', position: 2, name: 'Preguntas', item: canonicalFor('/preguntas/', siteUrl) },
+    { '@type': 'ListItem', position: 3, name: display.name, item: canonicalFor(`/preguntas/${countrySlug}/`, siteUrl) },
+    { '@type': 'ListItem', position: 4, name: subjectLabel, item: canonicalFor(`/preguntas/${countrySlug}/${subjectSlug}/`, siteUrl) },
+    { '@type': 'ListItem', position: 5, name: `${temaLabel} ${weekUpper}`, item: canonical },
+  ]
+};
+
+// Load raw bundle content if exists for preview
+let bundleRaw: string | null = null;
+let bundleQuestionsPreview: string[] = [];
+void bundleRaw; void bundleQuestionsPreview;
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:locale" content={lang.replace('-','_')} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <link rel="icon" href="/favicon.svg" />
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbs)} />
+  {bundle && (
+    <script is:inline type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'LearningResource',
+      name: `${temaLabel} ${weekUpper}`,
+      description,
+      inLanguage: lang,
+      educationalLevel: `Grado ${bundle.grade}`,
+      learningResourceType: 'Practice Test',
+      isPartOf: { '@type': 'Course', name: `${subjectLabel} ${display.name}` },
+      url: canonical
+    })} />
+  )}
+</head>
+<body class="min-h-screen bg-[#1a1a2e] text-white flex flex-col">
+  <header class="border-b border-white/10 bg-[#16213e]/50 backdrop-blur">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+      <a href="/" class="font-bold">🌎 WorldExams</a>
+      <nav class="text-sm text-white/70 flex gap-1.5 items-center flex-wrap">
+        <a href="/preguntas/" class="hover:text-white">Preguntas</a>
+        <span class="text-white/30">/</span>
+        <a href={`/preguntas/${countrySlug}/`} class="hover:text-white">{display.name}</a>
+        <span class="text-white/30">/</span>
+        <a href={`/preguntas/${countrySlug}/${subjectSlug}/`} class="hover:text-white">{subjectLabel}</a>
+        <span class="text-white/30">/</span>
+        <span class="text-white">{weekUpper}</span>
+      </nav>
+    </div>
+  </header>
+
+  <main class="flex-1 max-w-4xl mx-auto px-4 py-10 w-full">
+    <nav aria-label="Breadcrumb" class="text-sm text-white/60 mb-6">
+      <ol class="flex flex-wrap gap-1.5 items-center">
+        <li><a href="/" class="hover:text-white underline-offset-4 hover:underline">Inicio</a></li>
+        <li>/</li>
+        <li><a href="/preguntas/" class="hover:text-white underline-offset-4 hover:underline">Preguntas</a></li>
+        <li>/</li>
+        <li><a href={`/preguntas/${countrySlug}/`} class="hover:text-white underline-offset-4 hover:underline">{display.name}</a></li>
+        <li>/</li>
+        <li><a href={`/preguntas/${countrySlug}/${subjectSlug}/`} class="hover:text-white underline-offset-4 hover:underline">{subjectLabel}</a></li>
+        <li>/</li>
+        <li class="text-white">{weekUpper}</li>
+      </ol>
+    </nav>
+
+    {bundle ? (
+      <>
+        <div class="bg-white/5 border border-white/10 rounded-2xl p-6 mb-6">
+          <div class="flex flex-wrap gap-2 mb-3">
+            <span class="text-xs font-mono bg-white text-[#1a1a2e] px-2.5 py-1 rounded-full font-bold">{weekUpper}</span>
+            <span class="text-xs font-mono bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2.5 py-1 rounded-full">{bundle.difficulty_band || 'D3-D4'}</span>
+            <span class="text-xs bg-white/10 px-2.5 py-1 rounded-full">Grado {bundle.grade}</span>
+            <span class="text-xs bg-white/10 px-2.5 py-1 rounded-full">{bundle.total_questions} preguntas</span>
+          </div>
+          <h1 class="text-2xl md:text-3xl font-bold capitalize">{temaLabel} — {subjectLabel} {display.flag} {display.name}</h1>
+          <p class="text-white/70 mt-2">{description}</p>
+          <p class="text-xs text-white/50 mt-3 font-mono break-all">{bundle.id}</p>
+          {bundle.alignment && <p class="text-xs text-white/50">Alineación: {bundle.alignment}</p>}
+        </div>
+
+        <div id="contenido" class="bg-white/5 border border-white/10 rounded-xl p-6">
+          <h2 class="font-semibold mb-3">Contenido del bundle</h2>
+          <p class="text-sm text-white/70 leading-relaxed">
+            Este bundle semanal contiene <strong>{bundle.total_questions}</strong> preguntas jerárquicas por dificultad.
+            Para ver las preguntas interactivas, usa el simulador. Para SEO, este listado expone el tema <em>{bundle.tema}</em> indexable en <code class="bg-white/10 px-1 py-0.5 rounded text-xs">/preguntas/{countrySlug}/{subjectSlug}/{weekSlug}/</code>.
+          </p>
+          <div class="mt-4 flex flex-wrap gap-2">
+            <a href="/practica" class="px-4 py-2 bg-emerald-500 hover:bg-emerald-600 text-black text-sm font-semibold rounded-lg">Practicar en simulación →</a>
+            <a href={`/preguntas/${countrySlug}/${subjectSlug}/`} class="px-4 py-2 bg-white/10 hover:bg-white/15 border border-white/10 text-sm rounded-lg">← Volver a {subjectLabel}</a>
+          </div>
+          <p class="text-xs text-white/40 mt-4">Fuente canónica: <code class="bg-black/30 px-1 py-0.5 rounded">questions_data/{bundle.countryRaw}/{bundle.subjectRaw}/**/{bundle.id}.md</code></p>
+        </div>
+      </>
+    ) : (
+      <div class="bg-red-900/20 border border-red-500/30 rounded-xl p-6">
+        <h1 class="text-xl font-bold text-red-200">Bundle no encontrado</h1>
+        <p class="text-red-200/80 mt-2 text-sm">No existe bundle para <code>{countrySlug}/{subjectSlug}/{weekSlug}</code>. Verifica que el archivo exista en <code>questions_data/</code>.</p>
+        <a href={`/preguntas/${countrySlug}/${subjectSlug}/`} class="inline-block mt-4 px-4 py-2 bg-white/10 rounded-lg text-sm">← Volver al listado</a>
+      </div>
+    )}
+  </main>
+
+  <footer class="border-t border-white/10 py-6 text-center text-sm text-white/50">
+    <p>{display.name} • {subjectLabel} • {weekUpper} • {lang}</p>
+  </footer>
+</body>
+</html>

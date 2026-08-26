@@ -1,0 +1,136 @@
+---
+export const prerender = true;
+import { getCountries, getSubjectsForCountry, getDisplayForCountry, getLangForCountry, canonicalFor, toTitleCase } from '../_helpers';
+
+export async function getStaticPaths() {
+  const countries = getCountries();
+  return countries.map(({ slug }) => ({ params: { country: slug } }));
+}
+
+const { country } = Astro.params;
+const slug = String(country || '').toLowerCase();
+const display = getDisplayForCountry(slug);
+const lang = getLangForCountry(slug);
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space';
+const canonical = canonicalFor(`/preguntas/${slug}/`, siteUrl);
+const title = `Preguntas ${display.name} — WorldExams`;
+const description = `Banco de preguntas para ${display.name} (${display.lang}). Explora asignaturas, semanas y bundles alineados al currículo nacional.`;
+const ogImage = `${siteUrl.replace(/\/$/,'')}/og-image.svg`;
+
+const subjects = getSubjectsForCountry(slug);
+
+const breadcrumbs = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: canonicalFor('/', siteUrl) },
+    { '@type': 'ListItem', position: 2, name: 'Preguntas', item: canonicalFor('/preguntas/', siteUrl) },
+    { '@type': 'ListItem', position: 3, name: display.name, item: canonical },
+  ]
+};
+
+// Subject icon map
+const SUBJECT_ICONS: Record<string, string> = {
+  matematicas: '🔢',
+  matematica: '🔢',
+  lengua: '📖',
+  lenguaje: '📖',
+  'lectura-critica': '📚',
+  ingles: '🇬🇧',
+  'ciencias-naturales': '🔬',
+  ciencias: '🔬',
+  'sociales-ciudadanas': '🌍',
+  sociales: '🌍',
+  espanol: '📖',
+  portugues: '📖',
+  comunicacion: '📖',
+  historia: '📜',
+  civica: '🏛️',
+};
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:locale" content={lang.replace('-','_')} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <link rel="icon" href="/favicon.svg" />
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbs)} />
+</head>
+<body class="min-h-screen bg-[#1a1a2e] text-white flex flex-col">
+  <header class="border-b border-white/10 bg-[#16213e]/50 backdrop-blur">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+      <a href="/" class="font-bold">🌎 WorldExams</a>
+      <nav class="text-sm text-white/70 flex gap-3">
+        <a href="/preguntas/" class="hover:text-white">Preguntas</a>
+        <span class="text-white/30">/</span>
+        <span class="text-white">{display.name}</span>
+      </nav>
+    </div>
+  </header>
+
+  <main class="flex-1 max-w-6xl mx-auto px-4 py-10 w-full">
+    <nav aria-label="Breadcrumb" class="text-sm text-white/60 mb-6">
+      <ol class="flex flex-wrap gap-1.5 items-center">
+        <li><a href="/" class="hover:text-white underline-offset-4 hover:underline">Inicio</a></li>
+        <li>/</li>
+        <li><a href="/preguntas/" class="hover:text-white underline-offset-4 hover:underline">Preguntas</a></li>
+        <li>/</li>
+        <li class="text-white flex items-center gap-1.5"><span>{display.flag}</span> {display.name}</li>
+      </ol>
+    </nav>
+
+    <div class="mb-8">
+      <div class="flex items-center gap-3 mb-2">
+        <span class="text-3xl">{display.flag}</span>
+        <h1 class="text-3xl font-bold">{display.name} — Asignaturas</h1>
+      </div>
+      <p class="text-white/70 max-w-2xl">{description} Descubiertas automáticamente desde <code class="bg-white/10 px-1.5 py-0.5 rounded text-xs">questions_data/{slug}/**</code>.</p>
+    </div>
+
+    {subjects.length === 0 ? (
+      <div class="bg-amber-900/20 border border-amber-500/30 rounded-xl p-6 text-amber-200">
+        No se encontraron asignaturas para <strong>{display.name}</strong>. Verifica que existan bundles en <code>questions_data/{slug}/</code>.
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {subjects.map(({ slug: subj, count }) => {
+          const icon = SUBJECT_ICONS[subj] || '📘';
+          const label = toTitleCase(subj);
+          return (
+            <a href={`/preguntas/${slug}/${subj}/`} class="group bg-white/5 border border-white/10 hover:border-emerald-500/30 hover:bg-white/[0.07] rounded-2xl p-5 transition flex flex-col gap-2">
+              <div class="flex items-center gap-3">
+                <span class="text-xl">{icon}</span>
+                <h2 class="font-semibold group-hover:text-emerald-300">{label}</h2>
+                <span class="ml-auto text-xs font-mono bg-white/10 px-2 py-1 rounded-full">{count} bundles</span>
+              </div>
+              <p class="text-sm text-white/60">Semanas y temas para <strong>{label}</strong> en {display.name}.</p>
+              <span class="text-sm font-medium text-emerald-400 group-hover:text-emerald-300 mt-1">Ver semanas →</span>
+            </a>
+          );
+        })}
+      </div>
+    )}
+
+    <div class="mt-8 flex gap-3">
+      <a href="/preguntas/" class="px-4 py-2 rounded-lg bg-white/10 hover:bg-white/15 border border-white/10 text-sm">← Todos los países</a>
+    </div>
+  </main>
+
+  <footer class="border-t border-white/10 py-6 text-center text-sm text-white/50">
+    <p><a href="/preguntas/" class="underline hover:text-white">Preguntas por País</a> • {display.name} • {lang}</p>
+  </footer>
+</body>
+</html>
