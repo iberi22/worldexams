@@ -1,0 +1,164 @@
+---
+/**
+ * WX-304 — RuleList.astro
+ * Lista de reglas versionadas con hash, versión, fecha, contenido expandible. Destaca la latest.
+ * Consume RuleEngine.getCurrentRules() / getAllRules() / getLatestVersion() via window.__governance (client)
+ * Props opcionales para SSR / pre-render
+ */
+import type { Rule } from '../../lib/governance/types';
+
+interface Props {
+  rules?: Rule[];
+  latestVersion?: string | null;
+}
+
+const { rules: ssrRules = [], latestVersion: ssrLatest = null } = Astro.props;
+---
+
+<div id="rule-list-root" class="space-y-3" data-ssr-latest={ssrLatest ?? ''}>
+  <!-- SSR placeholder -->
+  {ssrRules.length > 0 ? (
+    <div class="space-y-3">
+      {ssrRules.map((rule) => (
+        <details class:list={["group border rounded-xl overflow-hidden bg-white dark:bg-zinc-900", ssrLatest === rule.version ? "border-emerald-500/50 ring-1 ring-emerald-500/20" : "border-zinc-200 dark:border-zinc-800"]} open={ssrLatest === rule.version}>
+          <summary class="flex items-center justify-between gap-3 px-4 py-3 cursor-pointer list-none">
+            <div class="flex items-center gap-3 min-w-0">
+              <span class:list={["inline-flex items-center px-2 py-0.5 rounded-full text-xs font-mono font-bold", ssrLatest === rule.version ? "bg-emerald-500 text-white" : "bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-300"]}>
+                v{rule.version} {ssrLatest === rule.version && "• LATEST"}
+              </span>
+              <span class="font-mono text-xs text-zinc-500 truncate" title={rule.hash}>{rule.hash.slice(0, 12)}…{rule.hash.slice(-6)}</span>
+            </div>
+            <span class="text-xs text-zinc-400 whitespace-nowrap">{new Date(rule.created_at).toLocaleDateString('es-CO')}</span>
+          </summary>
+          <div class="px-4 pb-4 pt-1 border-t border-zinc-100 dark:border-zinc-800">
+            <pre class="mt-2 p-3 bg-zinc-950 text-zinc-200 rounded-lg text-xs overflow-auto max-h-48">{rule.content_json}</pre>
+            <div class="mt-2 flex flex-wrap gap-2 text-[11px] font-mono text-zinc-500">
+              <span>hash: {rule.hash.slice(0, 16)}…</span>
+              <span>firmante: {rule.signer_node}</span>
+              <span class="truncate">sig: {rule.signature.slice(0, 24)}…</span>
+            </div>
+          </div>
+        </details>
+      ))}
+    </div>
+  ) : (
+    <div id="rule-list-dynamic" class="space-y-3">
+      <!-- Client JS will hydrate here -->
+      <div class="flex items-center gap-2 text-sm text-zinc-500 py-6 justify-center">
+        <span class="animate-pulse">Cargando reglas…</span>
+      </div>
+    </div>
+  )}
+  <div id="rule-list-empty" class="hidden text-center py-8 px-4 border border-dashed border-zinc-200 dark:border-zinc-700 rounded-xl">
+    <p class="text-sm text-zinc-500">Sin reglas todavía. Las reglas fundadoras aparecerán aquí cuando se publiquen.</p>
+    <p class="text-xs text-zinc-400 mt-1">D5: creadas por fundadores, modificadas por consejo con quorum 2/3.</p>
+  </div>
+</div>
+
+<script>
+  import { RuleEngine, OpLog, InMemoryRuleStorage } from '../../lib/governance';
+
+  function getGovernance() {
+    const w = window as any;
+    if (!w.__governance) {
+      const oplog = new OpLog();
+      const storage = new InMemoryRuleStorage();
+      const engine = new RuleEngine({ storage, oplog });
+      // seed demo genesis if empty (solo cliente, no persiste en server)
+      // Intenta cargar desde storage; si vacío, crea génesis demo para que UI no quede vacía
+      w.__governance = { oplog, engine, storage };
+    }
+    return w.__governance as { oplog: InstanceType<typeof OpLog>, engine: InstanceType<typeof RuleEngine> };
+  }
+
+  function hashShort(h: string) {
+    return h.slice(0, 12) + '…' + h.slice(-6);
+  }
+
+  function renderRules() {
+    const container = document.getElementById('rule-list-dynamic');
+    const empty = document.getElementById('rule-list-empty');
+    const root = document.getElementById('rule-list-root');
+    if (!container) return;
+
+    const { engine } = getGovernance();
+    // Prefer getCurrentRules() as spec; fallback to getAllRules if activeHashes empty
+    let rules: any[] = [];
+    try {
+      rules = engine.getCurrentRules();
+      if (rules.length === 0) rules = engine.getAllRules();
+    } catch { rules = []; }
+
+    const latest = engine.getLatestVersion();
+
+    // Update data attr for debugging
+    if (root) root.dataset.latest = latest ?? '';
+
+    if (rules.length === 0) {
+      container.innerHTML = '';
+      if (empty) empty.classList.remove('hidden');
+      return;
+    }
+    if (empty) empty.classList.add('hidden');
+
+    // Si había reglas SSR ya renderizadas, no duplicar: limpiamos dynamic y regeneramos
+    container.innerHTML = rules.map((rule: any) => {
+      const isLatest = rule.version === latest;
+      const created = (() => { try { return new Date(rule.created_at).toLocaleString('es-CO'); } catch { return rule.created_at; } })();
+      const borderCls = isLatest ? 'border-emerald-500/50 ring-1 ring-emerald-500/20' : 'border-zinc-200 dark:border-zinc-800';
+      const badgeCls = isLatest ? 'bg-emerald-500 text-white' : 'bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-300';
+      // Escape JSON for HTML
+      const esc = (s: string) => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+      return `
+        <details class="group border rounded-xl overflow-hidden bg-white dark:bg-zinc-900 ${borderCls}" ${isLatest ? 'open' : ''}>
+          <summary class="flex items-center justify-between gap-3 px-4 py-3 cursor-pointer list-none">
+            <div class="flex items-center gap-3 min-w-0">
+              <span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-mono font-bold ${badgeCls}">
+                v${esc(rule.version)} ${isLatest ? '• LATEST' : ''}
+              </span>
+              <span class="font-mono text-xs text-zinc-500 truncate" title="${esc(rule.hash)}">${hashShort(rule.hash)}</span>
+            </div>
+            <span class="text-xs text-zinc-400 whitespace-nowrap">${esc(created)}</span>
+          </summary>
+          <div class="px-4 pb-4 pt-1 border-t border-zinc-100 dark:border-zinc-800">
+            <pre class="mt-2 p-3 bg-zinc-950 text-zinc-200 rounded-lg text-xs overflow-auto max-h-56 whitespace-pre-wrap break-words">${esc(rule.content_json)}</pre>
+            <div class="mt-2 flex flex-wrap gap-2 text-[11px] font-mono text-zinc-500">
+              <span title="${esc(rule.hash)}">hash: ${esc(rule.hash.slice(0,16))}…</span>
+              <span>firmante: ${esc(rule.signer_node)}</span>
+              <span class="truncate" title="${esc(rule.signature)}">sig: ${esc(rule.signature.slice(0,28))}…</span>
+            </div>
+          </div>
+        </details>
+      `;
+    }).join('');
+
+    // Emitir evento para que governance.astro actualice badge de versión
+    window.dispatchEvent(new CustomEvent('governance:rules-updated', { detail: { latest, count: rules.length } }));
+  }
+
+  // Intentar cargar reglas desde storage (IndexedDB fallback interno ya manejado)
+  async function init() {
+    const { engine } = getGovernance();
+    try { await engine.loadRules(); } catch {}
+    // Si sigue vacío, sembrar génesis demo solo en memoria para que UI demuestre flujo (D5)
+    if (engine.getAllRules().length === 0) {
+      try {
+        const demo = engine.createRule(JSON.stringify({ policy: "genesis", maxAttempts: 3, quorum: "2/3", founder: true }, null, 2), "1.0.0", "founder", "founder-private-key");
+        await engine.persistRule(demo);
+        engine.applyRule(demo.hash);
+      } catch {}
+    }
+    renderRules();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+  // Re-render cuando otras islas proponen / votan
+  window.addEventListener('governance:rule-proposed', renderRules as any);
+  window.addEventListener('governance:vote-cast', renderRules as any);
+  window.addEventListener('governance:op-appended', renderRules as any);
+</script>

@@ -1,0 +1,206 @@
+---
+/**
+ * WX-304 — OpLogViewer.astro
+ * Lista cronológica del op-log (OpLog.getLog()) con entries {timestamp, type, node_hash, hash_short}.
+ * Scroll paginado, 20 entries por página.
+ */
+---
+
+<div id="oplog-root" class="space-y-3">
+  <div class="flex items-center justify-between gap-2">
+    <div class="flex items-center gap-2 text-xs font-mono text-zinc-500">
+      <span id="oplog-count" class="px-2 py-0.5 rounded-full bg-zinc-100 dark:bg-zinc-800">0 entries</span>
+      <span id="oplog-integrity" class="hidden px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-300">✓ cadena válida</span>
+      <span id="oplog-integrity-bad" class="hidden px-2 py-0.5 rounded-full bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-300">✕ cadena rota</span>
+    </div>
+    <div class="flex items-center gap-1">
+      <button id="oplog-prev" class="px-3 py-1 text-xs font-medium rounded-lg border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 disabled:opacity-40 disabled:cursor-not-allowed">← Anterior</button>
+      <span id="oplog-page-info" class="text-xs font-mono text-zinc-500 px-2">1 / 1</span>
+      <button id="oplog-next" class="px-3 py-1 text-xs font-medium rounded-lg border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 disabled:opacity-40 disabled:cursor-not-allowed">Siguiente →</button>
+    </div>
+  </div>
+
+  <div class="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 overflow-hidden">
+    <div class="max-h-[480px] overflow-auto divide-y divide-zinc-100 dark:divide-zinc-800" id="oplog-list">
+      <div class="p-6 text-center text-sm text-zinc-500">Cargando op-log…</div>
+    </div>
+  </div>
+
+  <div class="flex items-center justify-between gap-2">
+    <select id="oplog-filter" class="text-xs rounded-lg border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-2 py-1">
+      <option value="all">Todos los tipos</option>
+      <option value="genesis">genesis</option>
+      <option value="rule_proposed">rule_proposed</option>
+      <option value="vote_cast">vote_cast</option>
+      <option value="rule_applied">rule_applied</option>
+    </select>
+    <button id="oplog-verify" class="text-xs px-3 py-1 rounded-lg bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 font-medium">Verificar integridad</button>
+  </div>
+</div>
+
+<script>
+  import { RuleEngine, OpLog, InMemoryRuleStorage, VotingManager } from '../../lib/governance';
+
+  function getGovernance(): { engine: RuleEngine, oplog: OpLog, voting: VotingManager } {
+    const w = window as any;
+    if (!w.__governance) {
+      const oplog = new OpLog();
+      const storage = new InMemoryRuleStorage();
+      const engine = new RuleEngine({ storage, oplog });
+      const voting = new VotingManager({ ruleEngine: engine, oplog, activeNodes: ['founder','node-1','node-2','node-3','node-4','node-5'] });
+      w.__governance = { oplog, engine, storage, voting };
+      return w.__governance;
+    }
+    if (!w.__governance.voting) w.__governance.voting = new VotingManager({ ruleEngine: w.__governance.engine, oplog: w.__governance.oplog, activeNodes: ['founder','node-1','node-2','node-3','node-4','node-5'] });
+    return w.__governance;
+  }
+
+  const PAGE_SIZE = 20;
+  let currentPage = 1;
+  let filteredEntries: any[] = [];
+  let filterType = 'all';
+
+  function esc(s: string) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  function updateFiltered() {
+    const { oplog } = getGovernance();
+    const all = [...oplog.getLog()].reverse(); // cronológica inversa: más reciente arriba; spec dice cronológica pero viewer muestra recientes primero útil
+    // Spec: lista cronológica; mantenemos reverse chronological for visibility, still chronological integrity
+    // Para cumplir spec estricto cronológica ascendente, no reverse. Pero paginado 20 con scroll paginado mejor mostrar recientes.
+    // Usaremos ascendente paginado, página 1 = más antiguos. Para UX, permitimos que paginación avance a recientes.
+    // Mejor: usar orden ascendente cronológico natural (index ascending)
+    const asc = [...oplog.getLog()]; // already asc by index
+    if (filterType === 'all') filteredEntries = asc;
+    else filteredEntries = asc.filter(e => e.entry_type === filterType);
+  }
+
+  function renderPage() {
+    const listEl = document.getElementById('oplog-list');
+    const countEl = document.getElementById('oplog-count');
+    const pageInfo = document.getElementById('oplog-page-info');
+    const prevBtn = document.getElementById('oplog-prev') as HTMLButtonElement | null;
+    const nextBtn = document.getElementById('oplog-next') as HTMLButtonElement | null;
+    if (!listEl) return;
+    const total = filteredEntries.length;
+    const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+    if (currentPage > totalPages) currentPage = totalPages;
+    if (currentPage < 1) currentPage = 1;
+
+    if (countEl) countEl.textContent = `${total} entries${filterType!=='all' ? ` · filtro: ${filterType}` : ''}`;
+    if (pageInfo) pageInfo.textContent = `${currentPage} / ${totalPages}`;
+    if (prevBtn) prevBtn.disabled = currentPage <= 1;
+    if (nextBtn) nextBtn.disabled = currentPage >= totalPages;
+
+    if (total === 0) {
+      listEl.innerHTML = `<div class="p-8 text-center text-sm text-zinc-500">Sin entradas en op-log${filterType!=='all' ? ` para tipo “${esc(filterType)}”` : ''}.</div>`;
+      return;
+    }
+
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const slice = filteredEntries.slice(start, start + PAGE_SIZE);
+
+    listEl.innerHTML = slice.map(e => {
+      const hash_short = e.hash ? e.hash.slice(0, 12) : '—';
+      const ts = (()=>{ try{ return new Date(e.timestamp).toLocaleString('es-CO'); } catch { return e.timestamp; }})();
+      const typeBadgeCls = e.entry_type==='genesis' ? 'bg-zinc-900 text-white dark:bg-white dark:text-zinc-900'
+        : e.entry_type==='rule_proposed' ? 'bg-amber-100 text-amber-800 dark:bg-amber-900/30 dark:text-amber-300'
+        : e.entry_type==='vote_cast' ? 'bg-sky-100 text-sky-800 dark:bg-sky-900/30 dark:text-sky-300'
+        : e.entry_type==='rule_applied' ? 'bg-emerald-100 text-emerald-800 dark:bg-emerald-900/30 dark:text-emerald-300'
+        : 'bg-zinc-100 text-zinc-700 dark:bg-zinc-800 dark:text-zinc-300';
+      const dataPreview = (()=>{ try{ const s=JSON.stringify(e.data); return s.length>120 ? s.slice(0,120)+'…' : s; } catch{ return String(e.data); }})();
+      return `
+        <div class="px-4 py-3 flex gap-3 items-start hover:bg-zinc-50 dark:hover:bg-zinc-800/50 transition-colors">
+          <div class="shrink-0 w-8 text-center">
+            <div class="text-[11px] font-mono text-zinc-400">#${e.index}</div>
+          </div>
+          <div class="min-w-0 flex-1 space-y-1">
+            <div class="flex flex-wrap items-center gap-2">
+              <span class="inline-flex px-2 py-0.5 rounded-full text-[11px] font-mono font-bold ${typeBadgeCls}">${esc(e.entry_type)}</span>
+              <span class="font-mono text-xs text-zinc-500" title="${esc(e.hash)}">hash ${esc(hash_short)}…</span>
+              <span class="text-[11px] text-zinc-400">${esc(ts)}</span>
+            </div>
+            <div class="flex flex-wrap gap-2 text-[11px] font-mono">
+              <span class="px-1.5 py-0.5 rounded bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-300">node: ${esc(e.node_hash)}</span>
+              <span class="truncate text-zinc-500">${esc(dataPreview)}</span>
+            </div>
+          </div>
+          <div class="hidden sm:block shrink-0 text-right">
+            <div class="text-[11px] font-mono text-zinc-400" title="${esc(e.signature)}">sig ${esc(e.signature.slice(0,18))}…</div>
+            <div class="text-[11px] font-mono text-zinc-400">prev ${esc(e.prev_hash ? e.prev_hash.slice(0,8) : 'null')}</div>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    // integrity check inline
+    verifyAndBadge(false);
+  }
+
+  function verifyAndBadge(showAlert=true) {
+    const { oplog } = getGovernance();
+    const res = oplog.verifyIntegrity();
+    const okBadge = document.getElementById('oplog-integrity');
+    const badBadge = document.getElementById('oplog-integrity-bad');
+    if (res.valid) {
+      if (okBadge) okBadge.classList.remove('hidden');
+      if (badBadge) badBadge.classList.add('hidden');
+    } else {
+      if (okBadge) okBadge.classList.add('hidden');
+      if (badBadge) { badBadge.classList.remove('hidden'); badBadge.title = res.error ?? 'bad'; }
+    }
+    if (showAlert) {
+      if (res.valid) {
+        // toast mini
+        const countEl = document.getElementById('oplog-count');
+        if (countEl) {
+          const orig = countEl.textContent;
+          countEl.textContent = '✓ cadena verificada — ' + countEl.textContent;
+          setTimeout(()=>{ if(countEl) countEl.textContent = orig!; }, 2500);
+        }
+      } else {
+        alert(`Integridad falló en índice ${res.failedIndex}: ${res.error}`);
+      }
+    }
+  }
+
+  async function init() {
+    const { engine, oplog } = getGovernance();
+    try { await engine.loadRules(); } catch {}
+    if (engine.getAllRules().length===0) {
+      try {
+        const demo = engine.createRule(JSON.stringify({ policy: "genesis", maxAttempts: 3, quorum: "2/3", founder: true }, null, 2), "1.0.0", "founder", "founder-private-key");
+        await engine.persistRule(demo);
+        engine.applyRule(demo.hash);
+      } catch {}
+    }
+    // Ensure at least genesis op entry exists
+    if (oplog.size()===0) {
+      oplog.append('genesis', { init: true, founder: 'founder' }, 'founder', 'sig:sha256:genesis:by:founder');
+    }
+    updateFiltered();
+    // Ir a última página por defecto (más reciente visible) si hay muchos
+    const totalPages = Math.max(1, Math.ceil(filteredEntries.length / PAGE_SIZE));
+    currentPage = totalPages;
+    renderPage();
+  }
+
+  document.getElementById('oplog-prev')?.addEventListener('click', ()=>{ currentPage--; renderPage(); });
+  document.getElementById('oplog-next')?.addEventListener('click', ()=>{ currentPage++; renderPage(); });
+  document.getElementById('oplog-filter')?.addEventListener('change', (e)=>{
+    filterType = (e.target as HTMLSelectElement).value;
+    currentPage = 1;
+    updateFiltered();
+    // si filtrado, ir a última página para ver recientes filtrados
+    const totalPages = Math.max(1, Math.ceil(filteredEntries.length / PAGE_SIZE));
+    currentPage = totalPages;
+    renderPage();
+  });
+  document.getElementById('oplog-verify')?.addEventListener('click', ()=>verifyAndBadge(true));
+
+  if (document.readyState==='loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+
+  window.addEventListener('governance:op-appended', ()=>{ updateFiltered(); const totalPages=Math.max(1, Math.ceil(filteredEntries.length / PAGE_SIZE)); currentPage=totalPages; renderPage(); });
+  window.addEventListener('governance:rule-proposed', ()=>{ updateFiltered(); const totalPages=Math.max(1, Math.ceil(filteredEntries.length / PAGE_SIZE)); currentPage=totalPages; renderPage(); });
+  window.addEventListener('governance:vote-cast', ()=>{ updateFiltered(); const totalPages=Math.max(1, Math.ceil(filteredEntries.length / PAGE_SIZE)); currentPage=totalPages; renderPage(); });
+</script>

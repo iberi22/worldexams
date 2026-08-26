@@ -1,0 +1,223 @@
+---
+/**
+ * WX-304 — ProposeChangeForm.astro
+ * Formulario para proponer cambio (textarea con contenido JSON). Llama VotingManager.proposeChange().
+ * Muestra preview del diff de hash (actual vs propuesto).
+ */
+---
+
+<div id="propose-root" class="space-y-4">
+  <form id="propose-form" class="space-y-4" onsubmit="return false">
+    <div>
+      <label for="propose-json" class="block text-sm font-medium text-zinc-700 dark:text-zinc-300 mb-1">
+        Contenido JSON de la nueva regla
+        <span class="text-zinc-400 font-normal">(TEXT JSON plano — será hash + firmado)</span>
+      </label>
+      <textarea
+        id="propose-json"
+        rows="6"
+        placeholder='{"maxAttempts": 5, "policy": "no-telemetry", "quorum": "2/3"}'
+        class="w-full rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-3 py-2.5 font-mono text-sm text-zinc-900 dark:text-zinc-100 placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
+      ></textarea>
+      <p id="propose-json-error" class="hidden mt-1 text-xs text-red-600 dark:text-red-400"></p>
+    </div>
+
+    <div class="flex flex-wrap gap-2">
+      <div class="flex items-center gap-2 text-xs">
+        <label for="propose-signer" class="text-zinc-600 dark:text-zinc-400">Firmante (node)</label>
+        <input id="propose-signer" value="founder" class="w-28 rounded-lg border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-2 py-1 font-mono text-xs" />
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <label for="propose-key" class="text-zinc-600 dark:text-zinc-400">Clave (placeholder)</label>
+        <input id="propose-key" value="founder-private-key" type="password" class="w-36 rounded-lg border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-2 py-1 font-mono text-xs" />
+      </div>
+    </div>
+
+    <!-- Preview diff de hash -->
+    <div id="propose-preview" class="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-900/60 p-3 space-y-2">
+      <div class="flex items-center justify-between">
+        <span class="text-xs font-semibold tracking-widest uppercase text-zinc-500">Preview hash diff</span>
+        <span id="propose-preview-status" class="text-[11px] font-mono px-2 py-0.5 rounded-full bg-zinc-200 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300">sin cambios</span>
+      </div>
+      <div class="grid grid-cols-1 gap-2 text-xs font-mono">
+        <div class="flex gap-2 items-start">
+          <span class="text-zinc-400 shrink-0 w-20">actual</span>
+          <span id="preview-current-hash" class="break-all text-zinc-600 dark:text-zinc-400">—</span>
+        </div>
+        <div class="flex gap-2 items-start">
+          <span class="text-emerald-600 shrink-0 w-20">propuesto</span>
+          <span id="preview-proposed-hash" class="break-all text-emerald-700 dark:text-emerald-400">— escribe JSON válido</span>
+        </div>
+        <div id="preview-next-version" class="text-[11px] text-zinc-500"></div>
+      </div>
+    </div>
+
+    <div class="flex items-center gap-3">
+      <button
+        id="propose-submit"
+        type="submit"
+        class="inline-flex items-center gap-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white px-5 py-2.5 text-sm font-semibold transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+      >
+        <span>Proponer cambio</span>
+        <span aria-hidden="true">→</span>
+      </button>
+      <span id="propose-ok" class="hidden text-sm text-emerald-600 dark:text-emerald-400">✓ Propuesta creada. Pasa a votación del consejo.</span>
+      <span id="propose-loading" class="hidden text-sm text-zinc-500">Firmando…</span>
+    </div>
+  </form>
+
+  <p class="text-[11px] text-zinc-400">D5: fundadores proponen, consejo de nodos vota con quorum 2/3. Cada cambio queda en op-log append-only.</p>
+</div>
+
+<script>
+  import { RuleEngine, VotingManager, OpLog, InMemoryRuleStorage } from '../../lib/governance';
+  import { sha256Sync } from '../../lib/governance/hash';
+
+  function getGovernance(): { engine: RuleEngine, voting: VotingManager, oplog: OpLog } {
+    const w = window as any;
+    if (!w.__governance) {
+      const oplog = new OpLog();
+      const storage = new InMemoryRuleStorage();
+      const engine = new RuleEngine({ storage, oplog });
+      const voting = new VotingManager({ ruleEngine: engine, oplog, activeNodes: ['founder','node-1','node-2','node-3','node-4','node-5'] });
+      w.__governance = { oplog, engine, storage, voting };
+      return w.__governance;
+    }
+    if (!w.__governance.voting) {
+      w.__governance.voting = new VotingManager({ ruleEngine: w.__governance.engine, oplog: w.__governance.oplog, activeNodes: ['founder','node-1','node-2','node-3','node-4','node-5'] });
+    }
+    return w.__governance;
+  }
+
+  const textarea = document.getElementById('propose-json') as HTMLTextAreaElement | null;
+  const signerInput = document.getElementById('propose-signer') as HTMLInputElement | null;
+  const keyInput = document.getElementById('propose-key') as HTMLInputElement | null;
+  const currentHashEl = document.getElementById('preview-current-hash') as HTMLSpanElement | null;
+  const proposedHashEl = document.getElementById('preview-proposed-hash') as HTMLSpanElement | null;
+  const nextVersionEl = document.getElementById('preview-next-version') as HTMLDivElement | null;
+  const statusEl = document.getElementById('propose-preview-status') as HTMLSpanElement | null;
+  const errorEl = document.getElementById('propose-json-error') as HTMLParagraphElement | null;
+  const form = document.getElementById('propose-form') as HTMLFormElement | null;
+  const submitBtn = document.getElementById('propose-submit') as HTMLButtonElement | null;
+  const okEl = document.getElementById('propose-ok') as HTMLSpanElement | null;
+  const loadingEl = document.getElementById('propose-loading') as HTMLSpanElement | null;
+
+  function isValidJson(s: string): boolean {
+    try { JSON.parse(s); return true; } catch { return false; }
+  }
+
+  function nextVersionSemver(current: string | null): string {
+    if (!current) return '1.0.0';
+    const parts = current.split('.').map(n=>parseInt(n,10));
+    const patch = (parts[2] ?? 0) + 1;
+    return `${parts[0]}.${parts[1]}.${patch}`;
+  }
+
+  function updatePreview() {
+    const { engine } = getGovernance();
+    const latestVersion = engine.getLatestVersion();
+    const latestRule = latestVersion ? engine.getRuleByVersion(latestVersion) : null;
+    const curHash = latestRule?.hash ?? '— (sin regla actual)';
+    if (currentHashEl) currentHashEl.textContent = curHash;
+    if (nextVersionEl) {
+      const next = nextVersionSemver(latestVersion);
+      nextVersionEl.textContent = `próxima versión: v${next} (actual latest: ${latestVersion ? 'v'+latestVersion : '—'})`;
+    }
+
+    const val = textarea?.value?.trim() ?? '';
+    if (!val) {
+      if (proposedHashEl) { proposedHashEl.textContent = '— escribe JSON válido'; proposedHashEl.className = 'break-all text-zinc-400'; }
+      if (statusEl) { statusEl.textContent = 'sin cambios'; statusEl.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-zinc-200 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300'; }
+      if (errorEl) errorEl.classList.add('hidden');
+      if (submitBtn) submitBtn.disabled = true;
+      return;
+    }
+    if (!isValidJson(val)) {
+      if (proposedHashEl) { proposedHashEl.textContent = '— JSON inválido'; proposedHashEl.className = 'break-all text-red-600 dark:text-red-400'; }
+      if (statusEl) { statusEl.textContent = 'JSON inválido'; statusEl.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-red-100 dark:bg-red-900/40 text-red-700 dark:text-red-300'; }
+      if (errorEl) { errorEl.textContent = 'El contenido debe ser JSON válido (TEXT JSON plano).'; errorEl.classList.remove('hidden'); }
+      if (submitBtn) submitBtn.disabled = true;
+      return;
+    }
+    if (errorEl) errorEl.classList.add('hidden');
+    // canonical: preserve as entered but hash content_json exactly as VotingManager will (stringified if object)
+    let content_json = val;
+    try {
+      // Si es objeto, VotingManager usa JSON.stringify; para preview usamos val tal cual si ya es string válido
+      // Para que hash coincida, detectamos si val es string JSON válido, usamos su forma canonical minimal
+      // pero VotingManager usa el string tal cual si se pasa string. Así que hash val directo.
+      // Si usuario escribe JSON pretty, hash será de ese string pretty — es correcto.
+      content_json = val;
+    } catch {}
+
+    const proposedHash = sha256Sync(content_json);
+    if (proposedHashEl) {
+      proposedHashEl.textContent = proposedHash;
+      if (proposedHash === curHash) {
+        proposedHashEl.className = 'break-all text-amber-600 dark:text-amber-400';
+      } else {
+        proposedHashEl.className = 'break-all text-emerald-700 dark:text-emerald-400';
+      }
+    }
+    if (statusEl) {
+      if (proposedHash === curHash) {
+        statusEl.textContent = 'sin diff (mismo hash)';
+        statusEl.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300';
+      } else {
+        statusEl.textContent = 'hash diff listo';
+        statusEl.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-300';
+      }
+    }
+    if (submitBtn) submitBtn.disabled = false;
+  }
+
+  // Init preview after engine loads
+  async function init() {
+    const { engine } = getGovernance();
+    try { await engine.loadRules(); } catch {}
+    if (engine.getAllRules().length === 0) {
+      try {
+        const demo = engine.createRule(JSON.stringify({ policy: "genesis", maxAttempts: 3, quorum: "2/3", founder: true }, null, 2), "1.0.0", "founder", "founder-private-key");
+        await engine.persistRule(demo);
+        engine.applyRule(demo.hash);
+      } catch {}
+    }
+    updatePreview();
+  }
+
+  textarea?.addEventListener('input', updatePreview);
+  // Poll signer/key changes not needed
+
+  // Submit
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const val = textarea?.value?.trim() ?? '';
+    if (!val || !isValidJson(val)) return;
+    const signer = signerInput?.value?.trim() || 'founder';
+    const pkey = keyInput?.value?.trim() || 'founder-private-key';
+    if (submitBtn) submitBtn.disabled = true;
+    if (loadingEl) loadingEl.classList.remove('hidden');
+    if (okEl) okEl.classList.add('hidden');
+    if (errorEl) errorEl.classList.add('hidden');
+    try {
+      const { voting } = getGovernance();
+      const rule = await voting.proposeChange(val, signer, pkey);
+      if (okEl) { okEl.textContent = `✓ Propuesta v${rule.version} creada · hash ${rule.hash.slice(0,12)}…`; okEl.classList.remove('hidden'); }
+      if (textarea) textarea.value = '';
+      updatePreview();
+      // Notify other islands
+      window.dispatchEvent(new CustomEvent('governance:rule-proposed', { detail: { version: rule.version, hash: rule.hash } }));
+      window.dispatchEvent(new CustomEvent('governance:op-appended'));
+    } catch (err: any) {
+      if (errorEl) { errorEl.textContent = err?.message ?? 'Error al proponer cambio. Verifica que sea JSON válido.'; errorEl.classList.remove('hidden'); }
+    } finally {
+      if (loadingEl) loadingEl.classList.add('hidden');
+      if (submitBtn) submitBtn.disabled = false;
+    }
+  });
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+
+  window.addEventListener('governance:rules-updated', updatePreview as any);
+</script>
