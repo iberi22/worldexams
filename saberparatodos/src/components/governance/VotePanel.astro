@@ -1,0 +1,289 @@
+---
+/**
+ * WX-304 — VotePanel.astro
+ * Muestra regla propuesta pendiente, botones Approve/Reject, tally en vivo (votes_for/against, quorum status).
+ * Llama VotingManager.castVote() + tallyVotes().
+ */
+---
+
+<div id="vote-root" class="space-y-4">
+  <div id="vote-pending-wrap" class="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4">
+    <div class="flex items-center justify-between gap-2 mb-3">
+      <h3 class="text-sm font-semibold text-zinc-900 dark:text-white">Propuesta pendiente</h3>
+      <span id="vote-pending-badge" class="text-[11px] font-mono px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300">sin pendiente</span>
+    </div>
+
+    <div id="vote-no-pending" class="text-sm text-zinc-500 py-2">
+      No hay propuesta pendiente. Usa “Proponer cambio” para crear una nueva versión.
+    </div>
+
+    <div id="vote-pending-detail" class="hidden space-y-3">
+      <div class="flex flex-wrap items-center gap-2">
+        <span id="vote-pending-version" class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-mono font-bold bg-zinc-900 text-white dark:bg-white dark:text-zinc-900">v—</span>
+        <span id="vote-pending-hash" class="font-mono text-xs text-zinc-500 break-all"></span>
+      </div>
+      <pre id="vote-pending-content" class="p-3 bg-zinc-950 text-zinc-200 rounded-lg text-xs overflow-auto max-h-40 whitespace-pre-wrap break-words"></pre>
+      <div id="vote-pending-meta" class="text-[11px] font-mono text-zinc-500"></div>
+
+      <!-- Voting actions -->
+      <div class="flex flex-wrap items-center gap-2 pt-1">
+        <div class="flex items-center gap-2">
+          <label for="vote-voter" class="text-xs text-zinc-600 dark:text-zinc-400">Tu nodo</label>
+          <select id="vote-voter" class="rounded-lg border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-2 py-1 text-xs font-mono">
+            <option value="node-1">node-1</option>
+            <option value="node-2">node-2</option>
+            <option value="node-3">node-3</option>
+            <option value="node-4">node-4</option>
+            <option value="node-5">node-5</option>
+            <option value="founder">founder</option>
+          </select>
+        </div>
+        <button id="btn-approve" class="inline-flex items-center gap-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 text-sm font-semibold transition-colors disabled:opacity-50">
+          ✓ Approve
+        </button>
+        <button id="btn-reject" class="inline-flex items-center gap-1.5 rounded-xl bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 hover:bg-zinc-50 dark:hover:bg-zinc-700 text-zinc-700 dark:text-zinc-200 px-4 py-2 text-sm font-semibold transition-colors disabled:opacity-50">
+          ✕ Reject
+        </button>
+        <span id="vote-feedback" class="text-xs"></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tally en vivo -->
+  <div id="vote-tally" class="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-900/60 p-4 space-y-3">
+    <div class="flex items-center justify-between">
+      <span class="text-xs font-semibold tracking-widest uppercase text-zinc-500">Tally en vivo</span>
+      <span id="tally-quorum-badge" class="text-[11px] font-mono px-2 py-0.5 rounded-full bg-zinc-200 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300">quorum: —</span>
+    </div>
+
+    <div class="grid grid-cols-3 gap-3 text-center">
+      <div class="rounded-lg bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-700 p-3">
+        <div id="tally-for" class="text-2xl font-bold text-emerald-600">0</div>
+        <div class="text-[11px] tracking-widest uppercase text-zinc-500">Approve</div>
+      </div>
+      <div class="rounded-lg bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-700 p-3">
+        <div id="tally-against" class="text-2xl font-bold text-red-600">0</div>
+        <div class="text-[11px] tracking-widest uppercase text-zinc-500">Reject</div>
+      </div>
+      <div class="rounded-lg bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-700 p-3">
+        <div id="tally-total" class="text-2xl font-bold text-zinc-700 dark:text-zinc-200">0/0</div>
+        <div class="text-[11px] tracking-widest uppercase text-zinc-500">Total / Nodos</div>
+      </div>
+    </div>
+
+    <div class="space-y-1.5">
+      <div class="flex justify-between text-[11px] font-mono text-zinc-500">
+        <span>quorum threshold: <span id="tally-quorum-threshold">—</span> (2/3)</span>
+        <span>reject threshold: <span id="tally-reject-threshold">—</span> (1/3)</span>
+      </div>
+      <div class="h-2 rounded-full bg-zinc-200 dark:bg-zinc-700 overflow-hidden flex">
+        <div id="tally-bar-for" class="h-full bg-emerald-500 transition-all" style="width:0%"></div>
+        <div id="tally-bar-against" class="h-full bg-red-500 transition-all" style="width:0%"></div>
+      </div>
+      <div id="tally-status-line" class="text-xs"></div>
+    </div>
+
+    <div id="tally-votes-list" class="space-y-1 max-h-32 overflow-auto text-xs font-mono"></div>
+  </div>
+</div>
+
+<script>
+  import { RuleEngine, VotingManager, OpLog, InMemoryRuleStorage } from '../../lib/governance';
+
+  function getGovernance(): { engine: RuleEngine, voting: VotingManager, oplog: OpLog } {
+    const w = window as any;
+    if (!w.__governance) {
+      const oplog = new OpLog();
+      const storage = new InMemoryRuleStorage();
+      const engine = new RuleEngine({ storage, oplog });
+      const voting = new VotingManager({ ruleEngine: engine, oplog, activeNodes: ['founder','node-1','node-2','node-3','node-4','node-5'] });
+      w.__governance = { oplog, engine, storage, voting };
+      return w.__governance;
+    }
+    if (!w.__governance.voting) {
+      w.__governance.voting = new VotingManager({ ruleEngine: w.__governance.engine, oplog: w.__governance.oplog, activeNodes: ['founder','node-1','node-2','node-3','node-4','node-5'] });
+    }
+    return w.__governance;
+  }
+
+  let pendingVersion: string | null = null;
+
+  function findLatestPendingVersion(engine: RuleEngine, voting: VotingManager): string | null {
+    // Mejor método: todas las reglas ordenadas, la última es pendiente si fue proposeChange recientemente
+    // pero puede haber sido ya aprobada. Usamos engine.latest y voting.getVotes para decidir.
+    // Estrategia: listar todas versiones; elegir la mayor que aún no ha sido tally approved o que tiene votos < quorum.
+    const all = engine.getAllRules().map(r=>r.version).sort((a,b)=>{
+      const pa=a.split('.').map(n=>parseInt(n,10));
+      const pb=b.split('.').map(n=>parseInt(n,10));
+      for(let i=0;i<3;i++){ const da=pa[i]??0, db=pb[i]??0; if(da!==db) return da-db; }
+      return 0;
+    });
+    if (all.length===0) return null;
+    // Recorrer desde la última hacia atrás, elegir la primera que tenga sentido como pendiente
+    // Simplificación: siempre mostrar la latest; si no hay votos, es pendiente igualmente
+    return all[all.length-1] ?? null;
+  }
+
+  function esc(s: string) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  function render() {
+    const { engine, voting } = getGovernance();
+    const latest = engine.getLatestVersion();
+    const pendingVer = findLatestPendingVersion(engine, voting);
+    pendingVersion = pendingVer;
+
+    const noPendingEl = document.getElementById('vote-no-pending');
+    const detailEl = document.getElementById('vote-pending-detail');
+    const badgeEl = document.getElementById('vote-pending-badge');
+    const versionEl = document.getElementById('vote-pending-version');
+    const hashEl = document.getElementById('vote-pending-hash');
+    const contentEl = document.getElementById('vote-pending-content');
+    const metaEl = document.getElementById('vote-pending-meta');
+
+    if (!pendingVer) {
+      if (noPendingEl) noPendingEl.classList.remove('hidden');
+      if (detailEl) detailEl.classList.add('hidden');
+      if (badgeEl) { badgeEl.textContent = 'sin pendiente'; badgeEl.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300'; }
+    } else {
+      const rule = engine.getRuleByVersion(pendingVer);
+      if (!rule) {
+        if (noPendingEl) noPendingEl.classList.remove('hidden');
+        if (detailEl) detailEl.classList.add('hidden');
+      } else {
+        if (noPendingEl) noPendingEl.classList.add('hidden');
+        if (detailEl) detailEl.classList.remove('hidden');
+        if (badgeEl) {
+          // Si ya está approved, badge verde, si no amarillo
+          const tally = voting.tallyVotes(pendingVer);
+          if (tally.approved) {
+            badgeEl.textContent = 'APROBADA • activa';
+            badgeEl.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-300';
+          } else {
+            badgeEl.textContent = 'pendiente votación';
+            badgeEl.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300';
+          }
+        }
+        if (versionEl) versionEl.textContent = 'v' + rule.version;
+        if (hashEl) hashEl.textContent = rule.hash.slice(0,16) + '…' + rule.hash.slice(-6);
+        if (contentEl) contentEl.textContent = rule.content_json;
+        if (metaEl) metaEl.textContent = `firmante: ${rule.signer_node} • ${new Date(rule.created_at).toLocaleString('es-CO')} • sig ${rule.signature.slice(0,22)}…`;
+      }
+    }
+
+    // Tally
+    renderTally();
+  }
+
+  function renderTally() {
+    if (!pendingVersion) {
+      const ids = ['tally-for','tally-against','tally-total','tally-quorum-threshold','tally-reject-threshold'];
+      const elFor = document.getElementById('tally-for'); if (elFor) elFor.textContent = '0';
+      const elAg = document.getElementById('tally-against'); if (elAg) elAg.textContent = '0';
+      const elTot = document.getElementById('tally-total'); if (elTot) elTot.textContent = '0/0';
+      const elQt = document.getElementById('tally-quorum-threshold'); if (elQt) elQt.textContent = '—';
+      const elRt = document.getElementById('tally-reject-threshold'); if (elRt) elRt.textContent = '—';
+      const badge = document.getElementById('tally-quorum-badge'); if (badge) { badge.textContent = 'quorum: —'; badge.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-zinc-200 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300'; }
+      const barFor = document.getElementById('tally-bar-for') as HTMLElement | null; if (barFor) barFor.style.width = '0%';
+      const barAg = document.getElementById('tally-bar-against') as HTMLElement | null; if (barAg) barAg.style.width = '0%';
+      const status = document.getElementById('tally-status-line'); if (status) status.textContent = '';
+      const list = document.getElementById('tally-votes-list'); if (list) list.innerHTML = '<span class="text-zinc-400">Sin votos aún</span>';
+      return;
+    }
+    const { voting } = getGovernance();
+    const tally = voting.tallyVotes(pendingVersion);
+    const votes = voting.getVotes(pendingVersion);
+
+    const elFor = document.getElementById('tally-for'); if (elFor) elFor.textContent = String(tally.votes_for);
+    const elAg = document.getElementById('tally-against'); if (elAg) elAg.textContent = String(tally.votes_against);
+    const elTot = document.getElementById('tally-total'); if (elTot) elTot.textContent = `${tally.votes_for + tally.votes_against}/${tally.total_active_nodes}`;
+    const elQt = document.getElementById('tally-quorum-threshold'); if (elQt) elQt.textContent = String(tally.quorum_threshold);
+    const elRt = document.getElementById('tally-reject-threshold'); if (elRt) elRt.textContent = String(tally.reject_threshold);
+
+    const badge = document.getElementById('tally-quorum-badge');
+    if (badge) {
+      if (tally.approved) {
+        badge.textContent = '✓ APPROVED (quorum 2/3)';
+        badge.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-300';
+      } else if (tally.quorum_reached) {
+        badge.textContent = 'quorum alcanzado • no aprobado';
+        badge.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300';
+      } else {
+        badge.textContent = `quorum: ${tally.votes_for + tally.votes_against}/${tally.quorum_threshold}`;
+        badge.className = 'text-[11px] font-mono px-2 py-0.5 rounded-full bg-zinc-200 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300';
+      }
+    }
+
+    const totalNodes = tally.total_active_nodes || 1;
+    const pctFor = Math.round((tally.votes_for / totalNodes) * 100);
+    const pctAg = Math.round((tally.votes_against / totalNodes) * 100);
+    const barFor = document.getElementById('tally-bar-for') as HTMLElement | null; if (barFor) barFor.style.width = pctFor + '%';
+    const barAg = document.getElementById('tally-bar-against') as HTMLElement | null; if (barAg) barAg.style.width = pctAg + '%';
+
+    const status = document.getElementById('tally-status-line');
+    if (status) {
+      if (tally.approved) status.innerHTML = '<span class="text-emerald-600 dark:text-emerald-400 font-medium">✓ Aprobada — la regla pasará a activa (RuleEngine.applyRule)</span>';
+      else if (tally.votes_against >= tally.reject_threshold && tally.reject_threshold>0) status.innerHTML = '<span class="text-red-600 dark:text-red-400">✕ Rechazada por minoría de bloqueo (≥1/3 en contra)</span>';
+      else if (!tally.quorum_reached) status.innerHTML = `<span class="text-zinc-500">Faltan ${Math.max(0, tally.quorum_threshold - (tally.votes_for+tally.votes_against))} votos para quorum</span>`;
+      else status.innerHTML = '<span class="text-amber-600 dark:text-amber-400">Quorum alcanzado pero sin supermayoría</span>';
+    }
+
+    const list = document.getElementById('tally-votes-list');
+    if (list) {
+      if (votes.length===0) list.innerHTML = '<span class="text-zinc-400">Sin votos aún — sé el primero en votar</span>';
+      else list.innerHTML = votes.map(v=>`<div class="flex items-center gap-2 py-1 border-b border-zinc-100 dark:border-zinc-800 last:border-0"><span class="${v.vote==='approve'?'text-emerald-600':'text-red-600'} font-bold">${v.vote==='approve'?'✓':'✕'} ${esc(v.vote)}</span><span class="text-zinc-500">${esc(v.voter_node)}</span><span class="ml-auto text-zinc-400 text-[11px]">${new Date(v.timestamp).toLocaleTimeString('es-CO')}</span></div>`).join('');
+    }
+  }
+
+  async function cast(vote: 'approve'|'reject') {
+    if (!pendingVersion) return;
+    const voterSel = document.getElementById('vote-voter') as HTMLSelectElement | null;
+    const voter = voterSel?.value || 'node-1';
+    const feedback = document.getElementById('vote-feedback') as HTMLSpanElement | null;
+    const btnA = document.getElementById('btn-approve') as HTMLButtonElement | null;
+    const btnR = document.getElementById('btn-reject') as HTMLButtonElement | null;
+    if (btnA) btnA.disabled = true;
+    if (btnR) btnR.disabled = true;
+    if (feedback) { feedback.textContent = 'votando…'; feedback.className = 'text-xs text-zinc-500'; }
+    try {
+      const { voting } = getGovernance();
+      voting.castVote(pendingVersion, vote, voter, `key-${voter}`);
+      // tally ya actualiza en memoria, y auto-apply si approved
+      voting.tallyVotes(pendingVersion);
+      if (feedback) { feedback.textContent = vote==='approve' ? '✓ voto approve registrado' : '✕ voto reject registrado'; feedback.className = vote==='approve' ? 'text-xs text-emerald-600' : 'text-xs text-red-600'; }
+      window.dispatchEvent(new CustomEvent('governance:vote-cast', { detail: { version: pendingVersion, vote, voter } }));
+      window.dispatchEvent(new CustomEvent('governance:op-appended'));
+      render();
+    } catch (e: any) {
+      if (feedback) { feedback.textContent = e?.message ?? 'Error al votar'; feedback.className = 'text-xs text-red-600'; }
+    } finally {
+      if (btnA) btnA.disabled = false;
+      if (btnR) btnR.disabled = false;
+      setTimeout(()=>{ if(feedback) feedback.textContent=''; }, 3000);
+    }
+  }
+
+  document.getElementById('btn-approve')?.addEventListener('click', ()=>cast('approve'));
+  document.getElementById('btn-reject')?.addEventListener('click', ()=>cast('reject'));
+
+  async function init() {
+    const { engine } = getGovernance();
+    try { await engine.loadRules(); } catch {}
+    if (engine.getAllRules().length===0) {
+      try {
+        const demo = engine.createRule(JSON.stringify({ policy: "genesis", maxAttempts: 3, quorum: "2/3", founder: true }, null, 2), "1.0.0", "founder", "founder-private-key");
+        await engine.persistRule(demo);
+        engine.applyRule(demo.hash);
+      } catch {}
+    }
+    // Ensure voting has nodes
+    const { voting } = getGovernance();
+    if (voting.getTotalActiveNodes()===0) voting.setActiveNodes(['founder','node-1','node-2','node-3','node-4','node-5']);
+    render();
+  }
+
+  if (document.readyState==='loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+
+  window.addEventListener('governance:rule-proposed', render as any);
+  window.addEventListener('governance:op-appended', render as any);
+</script>
