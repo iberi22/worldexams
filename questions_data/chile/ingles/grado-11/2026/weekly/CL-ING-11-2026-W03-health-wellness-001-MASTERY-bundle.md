@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Maintaining a wholesome lifestyle, including regular exercise and a balanced die
 'Wholesome' is a positive adjective that fits the description of a healthy way of living.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Many people had been practicing meditation for years before it became a popular 
 'Had been practicing' indicates a continuous action that occurred before a specific point in the past.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If I didn't eat so much processed sugar, I would probably have more energy throu
 The second conditional is used to discuss a situation that is different from current reality.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Chronic sleep deprivation can lead to impaired cognitive function and a weakened
 'Sleep deprivation' is the standard medical and psychological term for a lack of sufficient sleep.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The holistic approach suggests that mental health is inextricably linked to phys
 'Inextricably' conveys the deep and inseparable connection between mind and body in holistic health.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Washing your hands frequently is a simple but effective way to prevent the sprea
 'Prevent' is the correct verb for stopping the spread of diseases or germs.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ It is highly recommended that everyone take regular breaks to avoid burnout.
 After 'It is recommended that...', the base form of the verb (subjunctive) is used in formal English.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Consumers should pay close attention to the content of sugar and sodium in the f
 'Content' is the appropriate term for the amount of an ingredient in a product.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ By the time the marathon started, Sarah had been training for over six months.
 'Had been training' shows the duration of an activity leading up to a specific event in the past.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The article argues that the ubiquity of fast food has contributed significantly 
 'Ubiquity' describes how the widespread availability of fast food impacts public health.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A vegan is a person who eats no food that comes from animals, including dairy an
 'Vegan' is the specific term for someone who excludes all animal-derived products from their diet.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ New vaccines are being developed to combat the emerging strains of the virus.
 The present continuous passive 'are being developed' is used to describe a process currently in progress.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Developing emotional resilience helps individuals bounce back from setbacks and 
 'Resilience' is a key concept in psychology related to healthy coping mechanisms.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ The study suggests that people who drink enough water tend to have better skin h
 The present simple 'drink' is used to state a general truth or habitual action.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author argues that governments should prioritize preventative care rather th
 'Prioritize' is the appropriate verb for shifting focus and resources toward a more important goal.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Don't forget to warm up before your workout to prevent muscle strain.
 'Warm up' is the standard phrasal verb for preparing the body for exercise.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ You should wear sunscreen even on cloudy days to protect your skin from UV rays.
 'Should' is the standard modal verb for offering helpful advice.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Universal coverage ensures that all citizens have access to necessary health ser
 'Coverage' in this context refers to the availability of health services to a population.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ He would feel much better now if he had followed the doctor's orders last week.
 The mixed conditional connects a past hypothetical event with its present consequence.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W03-health-wellness-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

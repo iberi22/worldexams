@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ A metaphor is a figure of speech that describes an object or action in a way tha
 'Metaphor' is the foundational literary term for non-literal comparisons used to create imagery.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ First-person narration is a mode of storytelling in which the narrator is a char
 The present simple 'speaks' describes the constant function of a narrative style.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the author had revealed the secret in the first chapter, the ending wouldn't 
 The third conditional is used to imagine how a different narrative choice would have affected the reader's experience.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The third conditional is used to imagine how a different narrative choice would 
 'Sensory' details are the sights, sounds, smells, etc., that writers use to create immersive scenes.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Effective character development involves creating a protagonist who is complex a
 'Complex' refers to the richness and depth of a well-written character's personality and motivations.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A draft is a preliminary version of a piece of writing.
 'Draft' is the standard term for the various versions a writer produces before finishing a work.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ She is used to revising her work multiple times before she is satisfied with the
 'Is used to + gerund' describes a current state of being accustomed to a specific professional habit.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Alliteration is the occurrence of the same letter or sound at the beginning of a
 'Alliteration' is the technical term for the repetition of initial consonant sounds.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ New stories are being inspired by current events and personal experiences every 
 The present continuous passive describes the active and constant influence of life on literature.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ A cliché is a phrase or opinion that is overused and betrays a lack of original
 'Cliché' describes the unoriginality that writers aim to avoid in creative work.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A genre is a category of artistic composition characterized by similarities in f
 'Genre' is the standard term for classifying literary and artistic works.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By the end of the year, she will have completed her second novel.
 The future perfect describes a goal that will be a finished achievement by the stated deadline.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ A writer's voice is the unique style or perspective that makes their work recogn
 'Unique' captures the individuality that defines a writer's specific stylistic 'voice'.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If I had more time to daydream, I would come up with more interesting story idea
 The second conditional 'if + past simple' describes how a hypothetical change in lifestyle would affect creativity.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that "writing is rewriting," emphasizing the critical role 
 'Critical' correctly identifies the essential and fundamental role that revision plays in high-quality writing.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ The protagonist is the main character in a play, novel, or movie.
 'Protagonist' is the technical term for the central figure in a creative narrative.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ The instructor suggested that we experiment with different narrative perspective
 Verbs of suggestion take a 'that' clause with the base form (subjunctive mood) of the following verb.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Poetic license is the freedom of a writer to depart from conventional rules of l
 'Poetic license' is the standard phrase for the artistic freedom allowed to writers and poets.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ I had been struggling with writer's block for weeks before the inspiration final
 The past perfect continuous emphasizes the duration of the difficulty leading up to a specific past moment of success.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W31-creative-writing-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

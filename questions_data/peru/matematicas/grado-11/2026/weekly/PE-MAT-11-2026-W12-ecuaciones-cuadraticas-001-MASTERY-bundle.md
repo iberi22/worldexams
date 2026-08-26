@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -42,7 +44,7 @@ Una ecuación cuadrática o de segundo grado se define por tener como mayor expo
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v2
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -67,7 +69,7 @@ El área de un cuadrado se expresa como $L^2$. Planteamos la ecuación pura de s
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -92,7 +94,7 @@ Para resolver $ax^2 + bx = 0$, factorizamos $x$: $x(ax + b) = 0$. De aquí se de
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -117,7 +119,7 @@ El método de aspa simple busca dos números que multiplicados den el término i
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -142,7 +144,7 @@ Planteamos la ecuación $x(x + 5) = 150$, que se traduce en la cuadrática $x^2 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -167,7 +169,7 @@ Usamos la fórmula $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$. Sustituimos: $x = \
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -192,7 +194,7 @@ El discriminante $\Delta = b^2 - 4ac$ determina la naturaleza de las raíces. Si
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -217,7 +219,7 @@ Igualamos la función de altura a cero: $-5t^2 + 20t + 25 = 0$. Simplificamos di
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -242,7 +244,7 @@ Para que una ecuación de segundo grado tenga raíces iguales, su discriminante 
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -267,7 +269,7 @@ El punto de equilibrio se halla igualando la utilidad a cero: $-2x^2 + 80x - 600
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -292,7 +294,7 @@ Según las propiedades de las raíces (Teoremas de Vieta): la suma es $-b/a = 13
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -317,7 +319,7 @@ Al añadir un camino de ancho $x$ alrededor, cada dimensión aumenta en $2x$. El
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -342,7 +344,7 @@ La suma de las inversas de las raíces de una cuadrática $ax^2 + bx + c = 0$ se
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -367,7 +369,7 @@ Dos raíces son simétricas si su suma es cero: $x_1 + x_2 = 0$. Por Vieta, $-b/
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -392,7 +394,7 @@ Dadas las raíces originales, $\alpha+\beta = 4$ y $\alpha\beta = 2$. Para la nu
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -417,7 +419,7 @@ Aplicamos la fórmula del discriminante $\Delta = b^2 - 4ac$. Al expandir $(2k+1
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -442,7 +444,7 @@ Dos raíces son recíprocas si su producto es igual a 1 ($x_1 \cdot x_2 = 1$). P
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -467,7 +469,7 @@ En una ecuación cuadrática con coeficientes racionales, si una raíz es irraci
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -495,7 +497,7 @@ Si comparten una raíz $r$, esta satisface ambas ecuaciones. Al igualar las expr
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W12-ecuaciones-cuadraticas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ La identidad $\sin^2(\theta) + \cos^2(\theta) = 1$ es la más importante de la t
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ La identidad por cociente establece que la tangente de un ángulo es igual al se
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ Partiendo de $\sin^2 x + \cos^2 x = 1$, si dividimos todo por $\cos^2 x$, obtene
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ La identidad para el seno de la suma de dos ángulos establece que: $\sin(A + B)
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ Al elevar al cuadrado el binomio obtenemos el trinomio $\sin^2 x + 2\sin x \cos 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ Usamos la identidad $\sin(A+B) = \sin A\cos B + \cos A\sin B$. Reemplazando con 
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ La identidad del coseno del ángulo doble es $\cos(2x) = 2\cos^2 x - 1$. Sustitu
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ La expresión dada corresponde exactamente al desarrollo de la tangente de la su
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ Elevamos al cuadrado la igualdad original: $(\tan x + \cot x)^2 = 3^2 \Rightarro
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ La identidad del ángulo doble para el seno se obtiene de la fórmula de la suma
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ Utilizamos la identidad $\cos(2x) = 1 - 2\sin^2 x$. Al sustituirla en $K$: $K = 
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ Usamos la identidad $\cos(A+B) = \cos A\cos B - \sin A\sin B$. Primero hallamos 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ La expresión es un producto de binomios conjugados, equivalente a la diferencia
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ Usamos la fórmula del ángulo mitad: $\sin(x/2) = \sqrt{\frac{1 - \cos x}{2}}$.
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Aplicamos la identidad $\tan(2x) = \frac{2\tan x}{1 - \tan^2 x}$. Con $\tan x = 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ Elevamos la igualdad al cuadrado: $(\sin x - \cos x)^2 = 1/4$. Expandiendo: $\si
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ Aplicamos las fórmulas de transformación a producto: el numerador queda como $
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ Simplificamos usando identidades de ángulo doble: $\sin x \cos x = \frac{1}{2}\
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ Existe una identidad auxiliar que establece $\sin\theta \sin(60^\circ - \theta) 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W28-trigonometria-iii-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

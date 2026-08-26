@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ La clasificación de los ángulos según la suma de sus medidas es fundamental e
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v2
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ El suplemento de un ángulo $x$ se define como $180° - x$. Aplicando la operaci
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ Los ángulos alternos internos se encuentran en lados opuestos de la secante y d
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ Planteamos la ecuación basada en la definición de complementarios: la suma es 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ Los ángulos que forman una recta (ángulo llano) siempre suman 180°. Resolvemo
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ La bisectriz divide a un ángulo en dos partes iguales. Realizamos el cálculo p
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ La propiedad fundamental de los ángulos opuestos por el vértice es que son con
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ Traducción literal del enunciado a lenguaje algebraico: $S(x) = 3 C(x)$. Sustit
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ Los ángulos conjugados internos (del mismo lado de la secante) entre paralelas 
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ Para restar ángulos en grados y minutos, transformamos un grado en 60 minutos s
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ Usamos una constante de proporcionalidad $k$ para representar los ángulos. La s
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ La propiedad del serrucho para rectas paralelas establece que la suma de las med
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v13
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ Primero resolvemos el problema en el sistema sexagesimal para facilitar el cálc
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ Usamos la fórmula para el ángulo entre manecillas: $\theta = |30H - \frac{11}{
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Por teorema, el ángulo formado por las bisectrices de dos ángulos adyacentes e
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ Usamos la relación fundamental entre sistemas: $S/180 = C/200 = R/\pi$, que se 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ Notamos que la expresión "suplemento menos complemento" siempre es igual a 90°
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ Definimos las medidas de los ángulos extremos como pares ($2\alpha$ y $2\gamma$
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ Aplicamos la fórmula de la suma de una progresión aritmética aplicada al cont
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W18-geometria-angulos-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -42,7 +44,7 @@ En lógica y teoría de la argumentación, una falacia es un argumento que viola
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -67,7 +69,7 @@ La falacia ad hominem es un recurso retórico muy común que invalida el debate 
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -94,7 +96,7 @@ Atacar la vida íntima o familiar de un legislador para invalidar la viabilidad 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -119,7 +121,7 @@ La falacia ad ignorantiam sostiene que una proposición es verdadera (o falsa) s
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -146,7 +148,7 @@ La falacia ad populum (o apelación a la multitud) concluye que una idea es buen
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -173,7 +175,7 @@ La falacia ad verecundiam ocurre cuando se defiende una conclusión apelando a l
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -200,7 +202,7 @@ La falacia del espantapájaros (o del hombre de paja) deforma la tesis original 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -227,7 +229,7 @@ La falacia de causa falsa (o post hoc ergo propter hoc) asume que si un evento o
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -254,7 +256,7 @@ La falacia de la pendiente resbaladiza recurre al miedo y la exageración. En lu
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -281,7 +283,7 @@ El afán de simetría o imparcialidad periodística mal entendida conduce a menu
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -308,7 +310,7 @@ La pendiente resbaladiza desvía la discusión fáctica hacia la emoción del mi
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -335,7 +337,7 @@ La falacia ad ignorantiam en discursos preventivos suele usarse de forma dañina
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v13
 **Bloom:** Understand
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -362,7 +364,7 @@ La falacia del espantapájaros deforma deliberadamente los postulados de la corr
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -389,7 +391,7 @@ La publicidad comercial masiva utiliza de forma sistemática la falacia de causa
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -416,7 +418,7 @@ La falacia del falso dilema (o falsa bifurcación) es una técnica de manipulaci
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -441,7 +443,7 @@ El sesgo de confirmación atenta contra el pensamiento crítico y la coherencia 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -468,7 +470,7 @@ La demagogia política recurre a la hibridación de falacias informales. Al mezc
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -496,7 +498,7 @@ Para dirimir debates complejos, el analista crítico debe separar la opinión po
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -523,7 +525,7 @@ La petición de principio (o petitio principii) es una de las falacias lógicas 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W09-tema-w09-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna

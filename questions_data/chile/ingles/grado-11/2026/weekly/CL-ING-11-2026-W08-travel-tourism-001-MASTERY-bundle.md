@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ An itinerary is a detailed plan or route of a journey.
 'Itinerary' is the standard travel term for a planned route or schedule.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The landscape was so breathtaking that I couldn't stop taking pictures.
 'Breathtaking' is a common adjective used to describe impressive scenery.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ Never before had I seen such a stunning sunset as the one in the Atacama Desert.
 Negative adverbials like 'Never' or 'Seldom' require inversion (verb before subject) when placed at the beginning of a sentence.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Ecotourism aims to minimize the impact of visitors on the environment and suppor
 'Ecotourism' is the specific term for travel that prioritizes environmental and cultural conservation.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Travelers often seek "off-the-beaten-path" destinations to avoid crowded tourist
 'Off-the-beaten-path' is an idiomatic expression for remote or less popular locations.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ You must check in your luggage at least two hours before your flight departs.
 'Check in' is the standard phrasal verb for registering for a flight or hotel.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ If I had brought my camera, I would have taken a picture of the penguin colony.
 The third conditional (if + past perfect) is used for hypothetical situations in the past.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ The hotel offers a wide range of amenities, such as a swimming pool, a gym, and 
 'Amenities' is the professional term for features that increase the comfort of a hotel or apartment.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ More and more people are choosing to travel solo to gain independence and self-c
 'Solo travel' is the accepted term for traveling alone.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The text suggests that overtourism can erode the very qualities that made a dest
 'Erode' metaphorically describes the gradual destruction of a location's appeal due to too many visitors.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A hostel is an inexpensive lodging place for travelers, often with dormitory-sty
 'Hostel' is the specific term for budget, communal traveler accommodation.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Passengers whose flights are cancelled are entitled to a full refund or rebookin
 'Whose' is used to show that the flights belong to the passengers.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ The mountain village was so secluded that it felt like a different world.
 'Secluded' is the perfect adjective for a place that is quiet, private, and far from others.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ You should always take out travel insurance in case of medical emergencies or lo
 'Take out' is the standard phrasal verb for obtaining an insurance policy.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ While tourism can bring economic benefits, it can also lead to the commodificati
 'Commodification' refers to turning cultural elements into products for sale, often losing their original meaning.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ We spent the whole afternoon sightseeing around the historic center of the city.
 'Sightseeing' is the standard term for visiting tourist attractions.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ By the time we reached the summit, it had been snowing for three hours.
 The past perfect continuous describes an action that was ongoing up to a certain point in the past.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Our guide was incredibly knowledgeable and shared many fascinating stories about
 'Knowledgeable' is a positive adjective for someone who has a lot of information.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The travel agent recommended that we book our flights well in advance.
 Verbs of recommendation like 'recommend' take the subjunctive (base form) in a 'that' clause.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

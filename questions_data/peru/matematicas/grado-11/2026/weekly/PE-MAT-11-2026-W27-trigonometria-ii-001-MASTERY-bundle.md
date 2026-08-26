@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ Un ángulo se encuentra en posición normal cuando su vértice se ubica en el or
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ En el sistema de coordenadas, el seno de un ángulo $\theta$ se define como $y/r
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ Calculamos primero el radio vector $r = \sqrt{x^2 + y^2} = \sqrt{(-3)^2 + 4^2} =
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ La Circunferencia Trigonométrica es una herramienta geométrica donde el radio 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ Los ángulos cuadrantales son múltiplos de 90°. En la C.T., el punto para 270�
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ En el segundo cuadrante ($90^\circ < \alpha < 180^\circ$), el seno es positivo. 
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ Dos ángulos están en posición normal y son coterminales si comparten el mismo
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ En el tercer cuadrante, la ordenada $y$ y la abscisa $x$ son negativas. Con $\si
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ El triángulo tiene vértices en $(0,0)$, $(\cos\theta, \sin\theta)$ y $(\cos\th
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v10
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ En el primer cuadrante, a medida que el ángulo aumenta de 0 a 90°, el valor de
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ Evaluamos el signo de cada factor por su ubicación cuadrantal: en el segundo cu
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ Para ángulos en el cuarto cuadrante, usamos la relación $\cos(360^\circ - \the
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ Usamos la fórmula de distancia entre puntos $(x_1, y_1)$ y $(x_2, y_2)$ elevada
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ En el intervalo dado, el coseno decrece continuamente. En $60^\circ$, $\cos = 0.
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Reducimos cada término: 1) $\sin(-30^\circ) = -\sin(30^\circ) = -1/2$. 2) $\cos
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ La tangente de un ángulo $\theta$ en la C.T. se representa geométricamente sob
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ El triángulo descrito es un triángulo rectángulo cuyos catetos se ubican sobr
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ La función seno es periódica con un periodo fundamental de $2\pi$. Esto implic
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ La función coseno está acotada entre $-1$ y $1$. Para que la ecuación tenga s
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W27-trigonometria-ii-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

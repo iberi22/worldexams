@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Automation is the use of technology to perform tasks that were previously done b
 'Automation' is the standard term for the technological replacement of human labor.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ By 2050, researchers hope that a cure for many common diseases will have been fo
 The future perfect passive 'will have been found' describes an achievement projected to be finished by 2050.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If we had prioritized sustainability earlier, we wouldn't be facing such severe 
 The mixed conditional connects a past hypothetical failure with a present negative reality.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ UBI is a model for providing all citizens of a country with a given sum of money
 'Regardless of' is the essential prepositional phrase for describing the unconditional nature of UBI.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Transhumanism is the belief or theory that the human race can evolve beyond its 
 'Transhumanism' is the specific philosophical term for the movement to enhance humans through technology.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ To colonize another planet means to send people to live there and establish a pe
 'Colonize' is the standard term for establishing a new permanent human community in a new location.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ In the future, personalized learning paths are likely to be designed by AI to me
 The passive infinitive 'to be designed' follows the structure 'likely to' to describe a future expectation.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Vertical farming could provide a sustainable solution to food production in dens
 'Urban' is the appropriate context for vertical farming, which aims to produce food where land is scarce.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ I wish we would solve the problem of world hunger once and for all.
 'Wish + would' is used to express a strong desire for a future change in a situation.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The author warns against technological utopianism, the belief that technology wi
 'Utopianism' refers to the belief in the possibility of creating an ideal world through specific means, in this case, technology.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A futurist is a person who studies the future and makes predictions about it bas
 'Futurist' (or futurologist) is the name for experts who analyze current trends to project future outcomes.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By next century, many coastal cities will have been submerged by rising sea leve
 The future perfect passive indicates that the state of being submerged will be a completed fact by the next century.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Scientific advancements in biotechnology could significantly increase human long
 'Longevity' is the specific term for length of life, a major area of future medical research.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the world shifted to 100% renewable energy, carbon emissions would plummet.
 The second conditional 'if + past simple' describes the likely result of a hypothetical total energy shift.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that adaptability will be the most valuable skill in the fu
 'Adaptability' correctly identifies the core skill needed for a rapidly changing professional landscape.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Cryptocurrency is a digital or virtual currency that is secured by cryptography.
 'Cryptocurrency' is the specific name for the decentralized digital payment systems.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ Experts predicted that AI would eventually surpass human intelligence in many ta
 In reported speech, we change 'will' to 'would' when the reporting verb is in the past tense.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Future cities must be designed to be self-sufficient in terms of energy and wate
 'Self-sufficient' is the goal for sustainable city planning where resources are produced locally.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ By 2030, scientists will have been monitoring global temperatures for over a cen
 The future perfect continuous 'will have been monitoring' describes the total duration of a study at a specific future time.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W21-future-society-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

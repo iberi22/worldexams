@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Global governance refers to the way in which global affairs are managed through 
 'Global governance' is the overarching term for the collaborative management of international problems.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ International laws are being developed to address emerging challenges like cyber
 The present continuous passive describes the current and active process of creating new international rules.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the United Nations hadn't been founded, international cooperation might have 
 The third conditional is used to speculate about how the absence of a past historical event would have changed the present.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ The ICC has the jurisdiction to prosecute individuals for international crimes s
 'Prosecute' is the precise legal term for the act of bringing charges against someone in a court of law.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Multilateralism involves multiple countries working together on a given issue, e
 'Multilateralism' is the diplomatic term for the coordinated action of three or more nations.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ The WHO (World Health Organization) is responsible for international public heal
 'Health' is the specific sector of global governance that the WHO manages.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ It is suggested that the UN Security Council be reformed to better reflect the m
 The subjunctive passive 'be + past participle' is used after verbs of suggestion like 'suggest'.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Reaching a consensus in international negotiations can be difficult, as it requi
 'Consensus' is the term for a broad agreement that is sought in international diplomatic meetings.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Diplomats had been working on the treaty for months before they finally reached 
 The past perfect continuous highlights the extended and persistent effort preceding the final result.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Critics argue that international institutions are often slowed down by excessive
 'Bureaucracy' describes the complex administrative systems that are often blamed for delays in institutional action.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Sanctions are commercial and financial penalties applied by one or more countrie
 'Sanctions' is the standard geopolitical term for economic or political penalties used to influence a state's behavior.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By 2040, a more integrated system of global environmental governance will have b
 The future perfect passive indicates that the development of the system will be a finished fact by the stated date.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ The legitimacy of international institutions depends on their ability to represe
 'Legitimacy' is the formal term for the perceived right to rule or exercise authority.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the pandemic hadn't been handled through international cooperation, the death
 The third conditional passive allows for the evaluation of the effectiveness of a past collaborative effort.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that international norms can be as powerful as formal laws 
 'Norms' correctly identifies the informal but powerful expectations that guide state conduct in the international arena.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A special envoy is a diplomatic representative who is sent by a government or or
 'Envoy' is the specific diplomatic title for a representative sent for a particular task.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish that the world's major powers would cooperate more on climate issues.
 'Wish + would' is used to express a desire for an improvement in how others act.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Global public goods, such as clean air and scientific knowledge, benefit all of 
 'Public goods' is the economic term for resources that are available to all and not used up by one person.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The Secretary-General announced that the organization would be doubling its effo
 In reported speech, we change 'will' to 'would' when reporting a future intention from a past perspective.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W37-global-governance-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Public transportation systems like the metro or buses are essential for reducing
 'Congestion' is the standard term for the overcrowding of traffic or people in urban areas.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The population of this city has been growing at an unprecedented rate for the la
 The present perfect continuous highlights the ongoing nature of the city's population growth.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the city had invested more in green spaces, urban heat islands wouldn't be su
 The mixed conditional (if + past perfect, would + verb) connects a past failure to invest with a current negative situation.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Gentrification occurs when the character of a poor urban area is changed by weal
 'Gentrification' is the sociological term for the transformation of working-class neighborhoods into wealthier ones.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The primary disadvantage of urban sprawl is the increased dependence on cars and
 'Urban sprawl' refers to the rapid, often unplanned, geographic expansion of cities into nearby rural areas.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ In a metropolis, you can find a wide variety of shops, restaurants, and entertai
 'Metropolis' is the formal term for a major city, especially the main city of a region.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ New cycling paths are being constructed throughout the city to promote sustainab
 The present continuous passive describes a construction project that is currently in progress.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ The lack of affordable housing is a major challenge for many young professionals
 'Affordable housing' is the specific term for residential units that are priced for low-to-moderate-income families.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ He is getting used to the noise and hustle of city life after moving from a smal
 'Is getting used to' describes the ongoing process of adapting to a new environment.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The author uses the term "concrete jungle" to describe cities that lack sufficie
 'Concrete jungle' is a common critical metaphor for a city that feels dominated by grey buildings and lack of nature.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A commuter is a person who travels some distance to work on a regular basis.
 'Commuter' is the specific term for someone who travels regularly between home and work.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ The old shipyard has been transformed into a vibrant cultural hub.
 The present perfect passive describes a completed process of change that defines the current state of a place.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ The cosmopolitan nature of the city is reflected in its diverse population and i
 'Cosmopolitan' is the ideal adjective for a city that is multicultural and globally connected.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If the metro were more reliable, more people would leave their cars at home.
 The second conditional 'if + were' describes how a hypothetical improvement would change behavior.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author argues that cities must prioritize "walkability" to improve the healt
 'Walkability' is a key concept in modern urban planning focused on human-centric design.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ The outskirts are the parts of a town or city that are furthest from the center.
 'Outskirts' is the standard term for the peripheral areas of a city.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish there were less noise in my neighborhood at night.
 The 'wish + past' structure is used to express a desire for the current situation to be different.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Smart cities use technology and data to optimize urban services and improve the 
 'Optimize' describes the goal of using data to make city systems more efficient.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The council announced that they would be pedestrianizing the main street next mo
 In reported speech, we change 'will be' to 'would be' when reporting a future plan in the past tense.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W17-urban-life-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

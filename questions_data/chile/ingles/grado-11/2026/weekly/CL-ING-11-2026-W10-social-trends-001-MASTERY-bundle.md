@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ A trend is a general direction in which something is developing or changing.
 'Trend' is the specific term for a prevailing tendency or popular movement in society.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The average age of the population has been increasing in many developed countrie
 The present perfect continuous highlights that the increase is a process that is currently continuing.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If remote work had been possible twenty years ago, urbanization might have slowe
 The third conditional (if + past perfect) is used to imagine how the past might have been different.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Digital nomads are individuals who use technology to work remotely and lead a li
 'Digital nomad' is the standard term for professionals who work while traveling.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The sharing economy emphasizes access over ownership, allowing people to rent or
 The fundamental shift in the sharing economy is prioritizing the ability to use something ('access') rather than owning it.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ An influencer is a person with the ability to influence potential buyers of a pr
 'Influencer' is the modern marketing term for individuals with significant social media followings.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ Social media platforms are being used by billions of people to stay connected wi
 The present continuous passive 'are being used' describes the current and ongoing utility of these platforms.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Minimalism is a lifestyle choice that focuses on living with fewer material poss
 'Minimalism' correctly describes the social trend of reducing clutter and possessions.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Many people used to commute to an office every day, but now they work from home.
 'Used to' is the standard structure for comparing past habits with present reality.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The article argues that cancel culture can sometimes lead to a "mob mentality" w
 'Mob mentality' (or herd mentality) describes the collective behavior of a group that can be irrational or aggressive.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ The term "Millennials" refers to the generation of people born between the early
 'Millennials' (or Gen Y) is the standard sociological label for the group described.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Young people often feel pressured into conforming to the standards of their peer
 'Conforming to' is the appropriate phrasal verb for yielding to group expectations.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Burnout is a state of emotional, physical, and mental exhaustion caused by exces
 'Burnout' is the recognized psychological and professional term for the condition described.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If people spent less time on their screens, they would probably feel more connec
 The second conditional 'if + past simple' describes the likely result of a hypothetical change in behavior.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that the "urban exodus" is driven by a desire for more spac
 'Urban exodus' is the specific term for the trend of people moving from cities to suburban or rural areas.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A "viral" post is one that is shared rapidly and widely from one internet user t
 'Viral' is the standard adjective for content that spreads quickly across the internet.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ A new movement for social justice is gaining momentum across the country.
 'Is gaining momentum' is a common idiom meaning to become more popular or successful.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ A new movement for social justice is gaining momentum across the country.
 'Fast fashion' is the specific term for the business model described.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ Experts said that the trend toward automation would continue to accelerate.
 In reported speech, we change 'will' to 'would' when the reporting verb ('said') is in the past.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W10-social-trends-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 **20 preguntas | Comunicación | CNEB y Admisión UNMSM/UNI**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Literatura
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 José Santos Chocano encarna la corriente modernista tropical e hispanoamericanista en el Perú. Su obra busca fundir el orgullo de las raíces hispanas e incaicas bajo una estética de gran sonoridad rítmica, colorido paisajístico y suntuosidad de las imágenes líricas.
 
 ---
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Literatura
@@ -68,7 +70,7 @@ José Santos Chocano encarna la corriente modernista tropical e hispanoamericani
 *Trilce* representa la audacia vanguardista máxima de Vallejo. En esta obra, el poeta libera a las palabras de sus ataduras normativas y ortográficas (creando neologismos, usando la tipografía como recurso visual y quebrando la coherencia sintáctica tradicional) para expresar el dolor y la orfandad existencial del ser humano.
 
 ---
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Literatura
@@ -93,7 +95,7 @@ A partir del análisis de esta estrofa de *Blasón*, ¿cuál es la actitud del y
 *Blasón* actúa como un manifiesto modernista americano de Chocano. La grandilocuencia y la riqueza de las imágenes buscan convalidar un mestizaje triunfante en el cual el poeta se erige en el heraldo de la exuberancia geográfica e histórica de América.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Literatura
@@ -118,7 +120,7 @@ Según el fragmento citado, ¿cuál es la esencia temática del sufrimiento huma
 En *Los heraldos negros*, Vallejo parte del modernismo formal pero introduce una voz de hondo calado andino y existencial. El dolor humano se presenta como un misterio insondable ("¡Yo no sé!") que desborda la lógica cívica o teológica tradicional.
 
 ---
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Literatura
@@ -143,7 +145,7 @@ En *Los heraldos negros*, Vallejo parte del modernismo formal pero introduce una
 La vanguardia no destruye la forma por ignorancia, sino por urgencia expresiva. El quiebre sintáctico y ortográfico de Vallejo es un acto de soberanía artística que proclama que la gramática académica tradicional es insuficiente para retratar las heridas psicológicas reales del hombre moderno.
 
 ---
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Literatura
@@ -168,7 +170,7 @@ La vanguardia no destruye la forma por ignorancia, sino por urgencia expresiva. 
 José María Eguren es una voz insular y fundamental del siglo XX peruano. Su estética simbolista sintoniza con la musicalidad sutil, la ensoñación, la mitología medieval infantil y la sugerencia cromática (especialmente el color azul y el oro), depurando la lírica peruana de la grandilocuencia modernista de Chocano.
 
 ---
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Literatura
@@ -193,7 +195,7 @@ A partir de este contraste, si un joven poeta ancashino busca componer versos co
 La aplicación de modelos poéticos exige comprender el origen y el tono del emisor. Vallejo humaniza la poesía al descender desde la pomposidad exótica de los salones modernistas hacia la entrañable y dolorosa cotidianeidad del hogar andino tradicional.
 
 ---
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Literatura
@@ -217,7 +219,7 @@ La aplicación de modelos poéticos exige comprender el origen y el tono del emi
 La vanguardia lírica andina del siglo XX se caracterizó por su audacia formal. Oquendo de Amat y los poetas futuristas integraron el impacto visual de la tipografía y el espacio en blanco de la hoja como variables expresivas activas de la poesía (caligramas, poesía de cine).
 
 ---
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Literatura
@@ -242,7 +244,7 @@ Si los alumnos desean transmitir fielmente el sentimiento íntimo y el conflicto
 *Los dados eternos* es un hito de la poesía de la orfandad de Vallejo. Su lectura coral exige captar que el reproche a Dios no nace de la soberbia atea fría, sino de una profunda y dolorosa ternura herida de origen andino ante la muerte incomprensible de los seres amados.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Literatura
@@ -266,7 +268,7 @@ Determine cuál de las opciones ilustra con precisión la diferencia en la aplic
 La aplicación estética de la geografía andina varía drásticamente según la poética de las corrientes literarias: el Modernismo recurre a los Andes como escenario visual épico y exótico; la Vanguardia vallejana los internaliza como un correlato objetivo de la soledad del alma andina.
 
 ---
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Literatura
@@ -290,7 +292,7 @@ Identifique el recurso fónico formal de la poesía clásica que José Santos Ch
 El Modernismo es una corriente de gran exquisitez formal que exalta la musicalidad intrínseca del poema. Chocano, fiel a este postulado, orquesta de forma rigurosa la acentuación de sus sonetos para lograr que la forma acústica se acople de manera analógica con el vigor temático del poema.
 
 ---
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Literatura
@@ -314,7 +316,7 @@ Si un poeta vanguardista peruano desea plasmar la modernidad andina bajo la infl
 El Vanguardismo peruano asimiló diversas corrientes del viejo continente. La vertiente futurista celebró los avances mecánicos e industriales contemporáneos (tranvías, locomotoras, teléfonos) integrándolos al paisaje andino peruano, renovando la lírica de las provincias.
 
 ---
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -339,7 +341,7 @@ El Vanguardismo peruano asimiló diversas corrientes del viejo continente. La ve
 El estudiante ejercita el análisis rítmico profundo. El quiebre del verso (versificación libre disonante de Vallejo) actúa como un correlato objetivo y formal del dolor existencial humano. La forma acústica del poema se adapta al desasosiego del alma del creador.
 
 ---
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -364,7 +366,7 @@ A partir del texto del simposio, ¿cuál de los siguientes enunciados define mej
 El análisis historiográfico literario permite al alumno revaluar las relaciones de influencia cultural. Vallejo demuestra que América Latina no se limita a asimilar de forma tardía las estéticas de vanguardia europeas, sino que las engendra de forma soberana con base en sus propias realidades existenciales y culturales locales.
 
 ---
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -389,7 +391,7 @@ El análisis historiográfico literario permite al alumno revaluar las relacione
 La literatura modernista de Chocano busca legitimar un nacionalismo mestizo criollo integrador. Sin embargo, su aproximación estética y retórica es fustigada por las corrientes críticas y de vanguardia por considerarla decorativa, edulcorada y elusiva de las heridas sociales del indio andino de a pie.
 
 ---
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Literatura
@@ -414,7 +416,7 @@ La literatura modernista de Chocano busca legitimar un nacionalismo mestizo crio
 El Simbolismo ejerce un rol de depuración lírica. Frente a la prosa política y al realismo militante, Eguren defiende el retorno al misterio fecundo de la palabra pura, la metáfora sutil de ensoñación y el derecho de la imaginación poética a erigir mundos alternativos exentos de las amarguras de la coyuntura civil e industrial.
 
 ---
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -439,7 +441,7 @@ Al evaluar críticamente esta estrategia expresiva vanguardista frente a una cr�
 La evaluación literaria profunda exige comprender el rol de la abstracción y la universalización del dolor. Vallejo en *Trilce* elude la crónica anecdótica periodística precisamente para erigir un templo lírico atemporal donde la celda de granito de Trujillo se transmuta en la celda existencial de toda la humanidad huérfana de amparo.
 
 ---
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -464,7 +466,7 @@ Al sopesar críticamente ambas valoraciones estéticas del modernismo chocanesco
 El pensamiento crítico exige evaluar las estéticas literarias situándolas en su coyuntura histórica respectiva. Reconocer el dinamismo sonoro y el impacto monumental modernista de Chocano en el continente no impide constatar que la posterior evolución lírica del siglo XX prefirió el verismo sincero y la deconstrucción vanguardista de Vallejo.
 
 ---
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Literatura
@@ -489,7 +491,7 @@ Al valorar de forma crítica el impacto estético de esta incorporación de tecn
 El alumno demuestra comprensión de alto nivel de las estéticas de vanguardia al explicar que la inclusión de tecnicismos de la ciencia y de la técnica no busca mecanizar el arte, sino dotarlo de un nuevo lenguaje metafórico capaz de captar la psique fragmentada y veloz del ciudadano contemporáneo del siglo XX.
 
 ---
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W17-tema-w17-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Literatura

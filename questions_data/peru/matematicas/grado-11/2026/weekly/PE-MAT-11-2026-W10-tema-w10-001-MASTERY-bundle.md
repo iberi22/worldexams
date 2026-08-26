@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -42,7 +44,7 @@ Dos ángulos son complementarios si su suma es exactamente $90^\circ$. Por lo ta
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -67,7 +69,7 @@ Por el teorema fundamental de la geometría triangular euclidiana, la suma de lo
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -92,7 +94,7 @@ Usando el teorema de Pitágoras: $H^2 = (9)^2 + (12)^2 = 81 + 144 = 225$. Extray
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -117,7 +119,7 @@ Convertimos la distancia real a centímetros: $50 \text{ m} = 5000 \text{ cm}$. 
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -142,7 +144,7 @@ El área de un sector circular es $A = \frac{\theta}{360^\circ} \pi r^2$. Con $\
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -167,7 +169,7 @@ La superficie de un trapecio es $S = \frac{B + b}{2} \cdot h$. Sustituyendo los 
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -192,7 +194,7 @@ El perímetro se calcula sumando el duplo de la longitud de cada uno de sus lado
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -217,7 +219,7 @@ La fórmula para la suma de ángulos internos es $S = (n - 2) \cdot 180^\circ$. 
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -242,7 +244,7 @@ Los triángulos formados por la altura de los objetos y sus sombras son semejant
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -267,7 +269,7 @@ Multiplicamos la medida del plano por el factor de escala: $40 \text{ cm} \times
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -292,7 +294,7 @@ Los ángulos conjugados internos formados por rectas paralelas cortadas por una 
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -317,7 +319,7 @@ La relación entre las superficies de dos polígonos semejantes es igual al cuad
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -342,7 +344,7 @@ Al trazar la perpendicular desde el centro, esta corta a la cuerda en su punto m
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -367,7 +369,7 @@ Las diagonales de un rombo se cortan perpendicularmente en sus puntos medios, di
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -392,7 +394,7 @@ Por el teorema de Tales de Mileto, los segmentos correspondientes son proporcion
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -417,7 +419,7 @@ La distancia es la raíz cuadrada de la suma de los cuadrados de las diferencias
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -442,7 +444,7 @@ La hipotenusa mide 6.32 m. Por relaciones métricas en el triángulo rectángulo
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -467,7 +469,7 @@ El punto medio es (6.0, 9.0) por promedio directo de las coordenadas de los extr
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización
@@ -492,7 +494,7 @@ El triángulo de lados es rectángulo. Por el Teorema de Poncelet el inradio mid
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de forma, movimiento y localización

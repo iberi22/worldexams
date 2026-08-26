@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -42,7 +44,7 @@ En lingüística del texto, la anáfora es un mecanismo de referencia intratextu
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -67,7 +69,7 @@ Los conectores adversativos establecen una relación de restricción u oposició
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -94,7 +96,7 @@ El enunciado presenta dos hechos en tensión (beneficios frente a perjuicios). S
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -119,7 +121,7 @@ La catáfora es un mecanismo que anuncia o anticipa un elemento lingüístico qu
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -146,7 +148,7 @@ La coma elíptica se utiliza para sustituir a un verbo omitido que ya ha sido ex
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -171,7 +173,7 @@ El conector 'ya que' es causal y debe encabezar la premisa que explica el porqu�
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -198,7 +200,7 @@ Se requiere un marcador discursivo consecutivo formal (por consiguiente, por lo 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -225,7 +227,7 @@ Los ordenadores textuales temporales o de orden (en primer lugar, luego, por úl
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -252,7 +254,7 @@ Los adverbios deícticos de lugar (aquí, allí, allá) operan en el plano discu
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -277,7 +279,7 @@ La cohesión y la coherencia son las dos propiedades textuales fundamentales. Un
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -304,7 +306,7 @@ El pronombre relativo posesivo 'cuyo/cuya/cuyos/cuyas' vincula un antecedente co
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -331,7 +333,7 @@ La cohesión textual exige utilizar sinónimos conceptuales, pronombres clítico
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -358,7 +360,7 @@ La anfibología por el uso descuidado del pronombre o determinante posesivo 'su'
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Lee diversos tipos de textos escritos en su lengua materna
@@ -385,7 +387,7 @@ El fragmento expone una paradoja sociológica moderna (globalización versus res
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -412,7 +414,7 @@ La coherencia global exige que todas las proposiciones tributen al tema central 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -439,7 +441,7 @@ La elipsis de un verbo copulativo en contextos paralelos es un recurso literario
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -466,7 +468,7 @@ La redacción jurídica moderna en el Perú busca erradicar la 'prosa forense ba
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -491,7 +493,7 @@ Aunque la elipsis es un recurso de cohesión válido y elegante, en el periodism
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna
@@ -518,7 +520,7 @@ La coherencia semántica exige que la fuerza de las conclusiones guarde proporci
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-COM-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Escribe diversos tipos de textos en su lengua materna

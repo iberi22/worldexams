@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Visionary leadership involves the ability to imagine and plan for a future that 
 'Visionary' is the specific term for a leadership style focused on future possibilities and innovation.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ Many world leaders have been working together to address the urgent issue of cli
 The present perfect continuous highlights the duration and current persistence of the collaborative effort.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If those leaders had acted more decisively, the crisis could have been contained
 The third conditional is used to speculate about how a different past action would have changed an outcome.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Servant leadership is a philosophy in which the main goal of the leader is to se
 'Serve' is the defining verb for this specific leadership model, which prioritizes the well-being of others.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Ethical leadership involves leading by example and maintaining high moral standa
 'By example' is the key phrase for describing the modeling of behavior that is central to ethical leadership.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A diplomat is an official representing a country abroad, skilled in negotiation 
 'Diplomat' is the specific title for a professional who represents a nation in global leadership contexts.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ More inclusive leadership models are being adopted by organizations to improve d
 The present continuous passive describes the active and current trend of shifting towards new leadership styles.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Charismatic leaders possess an extraordinary ability to inspire and motivate oth
 'Charismatic' is the term for leaders who use their personal appeal and charm to influence others.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The leader announced that her team had reached a consensus on the new policy.
 In reported speech, we backshift the tense to show the achievement occurred before the announcement.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Authoritarianism is a form of government characterized by strong central power a
 'Authoritarianism' correctly identifies the restrictive and power-heavy leadership style described.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Integrity is the quality of being honest and having strong moral principles, whi
 'Integrity' is the core character trait that ensures a leader is trusted and respected.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By the end of the year, a new global agreement will have been finalized by the p
 The future perfect passive indicates that the agreement will be a finished achievement by the stated deadline.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Effective global leadership requires a high degree of collaboration between nati
 'Collaboration' is the essential process of working together that global leadership aims to facilitate.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If more leaders showed empathy, many international tensions would be reduced.
 The second conditional 'if + past simple' describes the likely result of a hypothetical change in leadership behavior.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that adaptive leadership is necessary for navigating the co
 'Adaptive' correctly identifies the flexible leadership style that the author evaluates as necessary for modern times.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A mediator is a person who attempts to make people involved in a conflict come t
 'Mediator' is the specific title for an individual who facilitates agreement between conflicting parties.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ I wish our leaders were more focused on long-term sustainability rather than sho
 The 'wish + past' structure expresses a desire for the current focus of leadership to change.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Soft power relies on the attraction and persuasion of culture and values, rather
 'Persuasion' correctly describes the mechanism through which 'soft power' influences others.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The president promised that the government would prioritize education in the nex
 In reported speech, we change 'will' to 'would' when reporting a promise made in the past.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W39-global-leadership-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

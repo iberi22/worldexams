@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Students who want to specialize in a specific field often choose a ______ as the
 'Major' is the standard academic term for a student's principal subject of study in higher education.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ By the time you graduate, you will have gained valuable experience through your 
 The future perfect 'will have gained' describes an achievement that will be a completed fact at the time of graduation.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -82,7 +84,7 @@ A well-written curriculum vitae (CV) should highlight your skills and relevant w
 'Highlight' is the appropriate verb for emphasizing positive attributes in a professional document.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ In a rapidly changing job market, the ability to adapt and learn new skills is e
 'Adapt' correctly identifies the proactive behavior needed to succeed in an evolving professional environment.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The author argues that while university provides theoretical knowledge, vocation
 'Practical' is the term that best contrasts with 'theoretical' in the context of professional training.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A scholarship is a grant or payment made to support a student's education, award
 'Scholarship' is the specific term for merit-based financial support for students.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ If I were you, I would research the company thoroughly before the interview.
 The phrase 'If I were you' is a standard second conditional structure for giving advice.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Networking allows professionals to exchange information and develop contacts whi
 'Networking' is the term used for building professional relationships that can benefit one's career.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ She regrets not studying harder during her senior year.
 The gerund 'studying' after 'regrets' describes the action being regretted.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ While "hard skills" are specific technical abilities, "soft skills" like communi
 'Increasingly' captures the trend of employers placing higher value on interpersonal skills.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ The CEO is the highest-ranking person in a company and is responsible for making
 'CEO' is the acronym for the top executive position in most organizations.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ I may consider taking a gap year after high school to travel and gain perspectiv
 The verb 'consider' requires the gerund form of the following verb.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Candidates who meet all the requirements will be invited for an interview.
 'Meet' is the standard verb used for fulfilling criteria or requirements.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ You won't get a promotion unless you show more initiative in your work.
 'Unless' is used to indicate that the promotion depends on the condition of showing initiative.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The article concludes that workers must continuously upskill to remain competiti
 'Upskill' is the precise term for acquiring new and relevant professional skills to stay current in the market.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A freelancer is a person who is self-employed and is not committed to a particul
 'Freelancer' is the standard term for independent professionals who sell their services to multiple clients.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ He suggested that she apply for the management position.
 Verbs like 'suggest' and 'recommend' are followed by a 'that' clause with the base form of the verb (subjunctive mood).
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Effective collaboration within a team can significantly improve the quality of a
 'Collaboration' is the positive process of multiple people working together effectively.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ I hope to have finished my master's degree by the time I turn thirty.
 The perfect infinitive 'to have finished' expresses a completed action relative to a future point.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W05-education-careers-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

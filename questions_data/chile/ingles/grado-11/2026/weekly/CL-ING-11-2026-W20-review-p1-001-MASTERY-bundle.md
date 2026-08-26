@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Climate change refers to long-term shifts in temperatures and weather patterns.
 'Climate change' is the term for the broad, long-term modifications of global climate.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ By 2040, many experts believe that most vehicles will have been automated.
 The future perfect passive indicates that the automation process will be a finished reality by 2040.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If she hadn't started exercising regularly, she wouldn't feel so energetic today
 The mixed conditional connects a past hypothetical action with its present consequence.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Misinformation is false or inaccurate information that is spread, regardless of 
 'Misinformation' is the technical term for false information regardless of whether the intent is malicious.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The text suggests that lifelong learning is essential for professional survival 
 'Essential' captures the necessity described in the text for continuous learning.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Renewable energy comes from natural sources that are constantly replenished.
 'Renewable' is the term for energy sources that do not run out.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The global economy is being impacted by shifting trade policies and geopolitical
 The present continuous passive describes the current and ongoing effect of these factors on the economy.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Sustainable tourism seeks to minimize the environmental footprint of travelers.
 'Environmental footprint' is the standard term for the measure of human impact on nature.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ Never had I seen such an impressive collection of modern art before visiting thi
 Inversion (verb before subject) is required when a sentence starts with a negative adverbial like 'Never'.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The paradox of modern technology is that it can foster connection while also inc
 'Connection' is the social benefit that contrasts with the 'isolation' mentioned in the paradox.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ An entrepreneur is someone who starts a new business and takes on financial risk
 'Entrepreneur' is the specific term for someone who launches a business venture.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ He ought to have confessed the truth before the situation got out of hand.
 'Ought to have + past participle' expresses a moral obligation in the past.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Scientific research must be subject to peer review to ensure its validity and ac
 'Peer review' is the critical quality control process in the scientific community.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ The movement had been growing for years before it finally achieved its goals.
 The past perfect continuous emphasizes the length of the struggle leading up to the turning point.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ Resilience is the capacity to recover quickly from difficulties; toughness.
 'Resilience' is the recognized term for psychological and emotional strength in the face of adversity.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Empathy is the ability to understand and share the feelings of another.
 'Empathy' is fundamental for effective and compassionate human communication.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ The city is getting used to the new sustainable energy regulations.
 'Be getting used to' describes the current process of adaptation to a new situation.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ A digital footprint is the record of your activities on the internet.
 'Digital footprint' is the metaphorical term for the data trail left by internet users.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The author said that his book had been translated into twelve languages.
 In reported speech, we backshift tenses: 'My book has been...' becomes '...said that his book had been...'.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W20-review-p1-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
