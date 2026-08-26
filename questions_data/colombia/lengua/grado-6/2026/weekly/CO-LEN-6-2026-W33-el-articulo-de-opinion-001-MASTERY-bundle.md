@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ A diferencia de los géneros informativos que buscan la neutralidad, los género
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ Un artículo de opinión no es solo decir "me gusta" o "no me gusta". Requiere u
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
@@ -86,7 +88,7 @@ El uso de la primera persona (yo/nosotros) y de verbos de opinión es caracterí
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -107,7 +109,7 @@ La tesis es la afirmación central del artículo de opinión. Todo el resto del 
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -128,7 +130,7 @@ La conclusión retoma la esencia de lo argumentado, cerrando el ciclo de persuas
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)
@@ -149,7 +151,7 @@ Los argumentos de autoridad utilizan el prestigio de personas o instituciones ex
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)
@@ -170,7 +172,7 @@ Los textos de opinión utilizan un léxico valorativo para transmitir emociones 
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -191,7 +193,7 @@ La persuasión es la capacidad de influir en las ideas o acciones de otros media
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -212,7 +214,7 @@ Las preguntas retóricas no esperan respuesta, sino que sirven para enfatizar un
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W33-el-articulo-de-opinion-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)

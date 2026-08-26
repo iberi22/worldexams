@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This bundle focuses on prepositions that describe movement or direction (into, o
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -48,7 +50,7 @@ The student identifies the basic meaning of the preposition "across".
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-002-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -74,7 +76,7 @@ The student identifies the preposition for entering a contained space.
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -99,7 +101,7 @@ The student understands the use of "through" for movement in a three-dimensional
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-004-v1
 **Bloom:** Understand
 **ICFES:** Pragmatic Matching
@@ -124,7 +126,7 @@ The student understands the logical direction of movement in a familiar building
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-005-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -149,7 +151,7 @@ The student applies the correct preposition for movement across a barrier above 
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -175,7 +177,7 @@ The student applies reading strategies to sequence events involving movement pre
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -200,7 +202,7 @@ The student applies the correct preposition for exiting a space.
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-008-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
@@ -225,7 +227,7 @@ The student analyzes the relationship between the type of environment and the ap
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-009-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -251,7 +253,7 @@ The student analyzes a complex narrative to identify and sequence multiple prepo
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W34-prepositions-movement-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension

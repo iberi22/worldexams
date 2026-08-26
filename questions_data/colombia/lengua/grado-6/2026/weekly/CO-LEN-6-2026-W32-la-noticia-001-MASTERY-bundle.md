@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ La noticia es el género periodístico básico cuya intención es informar al p�
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ El titular es el encabezado de la noticia. Su diseño busca jerarquizar la infor
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -86,7 +88,7 @@ La entradilla es el párrafo inicial que resume lo más importante del hecho. Si
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -107,7 +109,7 @@ La pirámide invertida es la técnica clásica del periodismo que prioriza los d
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
@@ -128,7 +130,7 @@ El antetítulo ayuda a enmarcar la noticia, indicando por ejemplo la sección o 
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -149,7 +151,7 @@ La objetividad en la noticia se logra mediante el uso de la tercera persona, la 
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -170,7 +172,7 @@ Los elementos icónicos (fotos, infografías) son apoyos visuales cruciales. El 
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -191,7 +193,7 @@ La coherencia externa de la noticia depende de respetar su estructura canónica,
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -212,7 +214,7 @@ La diferencia fundamental entre los géneros informativos y los de opinión radi
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W32-la-noticia-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ Los medios de comunicación masiva (radio, televisión, prensa, internet) tienen
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ Cada medio de comunicación utiliza un canal sensorial diferente (visual para pr
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
@@ -86,7 +88,7 @@ La radio ha sido históricamente un medio de educación y compañía en el campo
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v4
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -107,7 +109,7 @@ El lenguaje audiovisual de la televisión integra múltiples códigos (icónico,
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -128,7 +130,7 @@ Los medios de comunicación no solo informan objetivamente, sino que también ti
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)
@@ -149,7 +151,7 @@ La publicidad es un tipo de mensaje en los medios que busca influir en el compor
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)
@@ -170,7 +172,7 @@ El pensamiento crítico frente a los medios implica reconocer que la informació
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -191,7 +193,7 @@ La convergencia digital permite que internet funcione como un medio global que i
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -212,7 +214,7 @@ La adecuación del medio depende del contexto del receptor. La radio permite la 
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W31-medios-de-comunicacion-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
