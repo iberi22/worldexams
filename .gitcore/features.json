@@ -1,19 +1,21 @@
 {
   "metadata": {
-    "project": "WorldExams \u2014 Plataforma Multi-pa\u00eds de Ex\u00e1menes Saber",
+    "project": "WorldExams — Plataforma Multi-país de Exámenes Saber",
     "version": "1.0",
     "created": "2026-06-05",
-    "total_features": 8,
+    "total_features": 14,
     "passing": 7,
-    "failing": 0,
-    "overall_progress_pct": 90,
-    "status": "active"
+    "failing": 7,
+    "overall_progress_pct": 51,
+    "status": "active",
+    "updated": "2026-08-25",
+    "note": "features planned añadidas 2026-08-25 (decisión D-103 ética; ver docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md)"
   },
   "features": [
     {
       "id": "feat-mastery-colombia",
       "category": "generation",
-      "description": "Generaci\u00f3n de bundles MASTERY para Colombia (Grados 3-11, todas las materias)",
+      "description": "Generación de bundles MASTERY para Colombia (Grados 3-11, todas las materias)",
       "passes": true,
       "verified_by": "PRs #395, #406, #405",
       "priority": "P0",
@@ -22,7 +24,7 @@
     {
       "id": "feat-mastery-uruguay",
       "category": "generation",
-      "description": "Generaci\u00f3n de bundles MASTERY para Uruguay Grado 11",
+      "description": "Generación de bundles MASTERY para Uruguay Grado 11",
       "passes": true,
       "verified_by": "PR #324",
       "priority": "P0",
@@ -31,7 +33,7 @@
     {
       "id": "feat-mastery-paraguay",
       "category": "generation",
-      "description": "Generaci\u00f3n de bundles MASTERY para Paraguay Grado 11",
+      "description": "Generación de bundles MASTERY para Paraguay Grado 11",
       "passes": true,
       "verified_by": "PR #324",
       "priority": "P0",
@@ -40,7 +42,7 @@
     {
       "id": "feat-weekly-packs",
       "category": "generation",
-      "description": "Generaci\u00f3n de WEEKLY packs semanales por grado y pa\u00eds",
+      "description": "Generación de WEEKLY packs semanales por grado y país",
       "passes": true,
       "verified_by": "PRs #395, #397",
       "priority": "P0",
@@ -49,11 +51,11 @@
     {
       "id": "feat-multi-country",
       "category": "core",
-      "description": "Generalizaci\u00f3n de ICFES Colombia \u2192 pa\u00edses variables (UY, PY)",
+      "description": "Generalización de ICFES Colombia → países variables (UY, PY)",
       "steps": [
         "1. Reemplazar hardcodes de Colombia/ICFES en shared libs",
-        "2. Calendarios de ex\u00e1menes por pa\u00eds",
-        "3. SEO y marketing multi-pa\u00eds"
+        "2. Calendarios de exámenes por país",
+        "3. SEO y marketing multi-país"
       ],
       "passes": true,
       "verified_by": "PRs #310, #315, #317, #318",
@@ -90,6 +92,70 @@
       "github_issue": 408,
       "priority": "P1",
       "progress_pct": 20
+    },
+    {
+      "id": "feat-private-grade-network",
+      "category": "mesh",
+      "description": "Red privada de notas estudiantiles en Xavier, separada de la red SWAL; persistida vía nodos Xavier con retribución al operador (storage rent); sync cifrado por wallet; payload anónimo",
+      "passes": false,
+      "priority": "P0",
+      "progress_pct": 0,
+      "status": "planned",
+      "steps": [
+        "WX-205 networks 1ra clase + grants en apps/xavier",
+        "WX-204 cliente red worldexams",
+        "ResourceAccounting.record_contribution() para operador",
+        "Opt-in/revocación BR-06"
+      ]
+    },
+    {
+      "id": "feat-anonymous-leaderboard",
+      "category": "social",
+      "description": "Leaderboard anónimo de notas/promedios sobre la red privada; sin tokens/karma/telemetría (BR-03/BR-04)",
+      "passes": false,
+      "priority": "P0",
+      "progress_pct": 0,
+      "status": "planned",
+      "steps": [
+        "WX-301 UI dual anónima/privada",
+        "Ancla Supabase solo agregados"
+      ]
+    },
+    {
+      "id": "feat-governance-council",
+      "category": "mesh",
+      "description": "Reglas fundadoras mutables por consejo de nodos con votación firmada (BR-05)",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 0,
+      "status": "planned"
+    },
+    {
+      "id": "feat-community-explanations",
+      "category": "social",
+      "description": "Explicaciones comunitarias profundas calificadas por nodos con votos firmados (sin economía)",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 0,
+      "status": "planned"
+    },
+    {
+      "id": "feat-local-pdf-studio",
+      "category": "ai",
+      "description": "Generación de preguntas desde PDF local con LLM on-device, salida v5.2, marca local-llm",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 0,
+      "status": "planned"
+    },
+    {
+      "id": "feat-correction-pipeline",
+      "category": "content",
+      "description": "Corrección colaborativa de preguntas con revisión de nodos y export de parches v5.2",
+      "passes": false,
+      "priority": "P2",
+      "progress_pct": 0,
+      "status": "planned"
     }
   ],
   "verification_commands": {
