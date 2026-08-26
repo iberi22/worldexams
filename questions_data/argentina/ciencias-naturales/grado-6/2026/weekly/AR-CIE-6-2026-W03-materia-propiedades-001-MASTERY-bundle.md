@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "NAP Argentina / Aprender 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Materia
@@ -42,7 +44,7 @@ La materia es el componente físico del universo. Todo lo que podemos tocar, ver
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Materia
@@ -67,7 +69,7 @@ La densidad nos permite distinguir materiales. El acero es más denso que el tel
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Materia
@@ -92,7 +94,7 @@ Las mezclas homogéneas presentan una sola fase. El azúcar (soluto) se disuelve
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Materia
@@ -117,7 +119,7 @@ La imantación aprovecha la propiedad magnética de ciertos materiales (como el 
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Materia
@@ -142,7 +144,7 @@ En las mezclas heterogéneas se pueden distinguir los componentes a simple vista
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Materia
@@ -167,7 +169,7 @@ Los cambios de estado son procesos físicos. El agua cambia su organización mol
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Materia
@@ -192,7 +194,7 @@ El agua y el aceite son líquidos inmiscibles (no se mezclan). Al tener el aceit
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Materia
@@ -217,7 +219,7 @@ Los metales son materiales muy versátiles en la industria debido a su ductilida
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **EJE:** Materia
@@ -242,7 +244,7 @@ La filtración es un método de separación físico que retiene sólidos en susp
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **EJE:** Materia

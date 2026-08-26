@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -19,7 +21,7 @@ creador: "Jules-Agent"
 
 # MASTERY Bundle — Lengua: Tipologías textuales: textos expositivos y argumentativos (W04)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v1`
 **Bloom:** Analyze
 **EJE:** Textual
@@ -45,7 +47,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v2`
 **Bloom:** Evaluate
 **EJE:** Textual
@@ -71,7 +73,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Textual
@@ -97,7 +99,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Textual
@@ -123,7 +125,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Textual
@@ -149,7 +151,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v6`
 **Bloom:** Apply
 **EJE:** Textual
@@ -175,7 +177,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v7`
 **Bloom:** Analyze
 **EJE:** Textual
@@ -201,7 +203,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v8`
 **Bloom:** Evaluate
 **EJE:** Textual
@@ -227,7 +229,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v9`
 **Bloom:** Apply
 **EJE:** Textual
@@ -253,7 +255,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v10`
 **Bloom:** Analyze
 **EJE:** Textual
@@ -279,7 +281,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v11`
 **Bloom:** Evaluate
 **EJE:** Textual
@@ -305,7 +307,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v12`
 **Bloom:** Apply
 **EJE:** Textual
@@ -331,7 +333,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v13`
 **Bloom:** Analyze
 **EJE:** Textual
@@ -357,7 +359,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v14`
 **Bloom:** Evaluate
 **EJE:** Textual
@@ -383,7 +385,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v15`
 **Bloom:** Apply
 **EJE:** Textual
@@ -409,7 +411,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v16`
 **Bloom:** Analyze
 **EJE:** Textual
@@ -435,7 +437,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v17`
 **Bloom:** Evaluate
 **EJE:** Textual
@@ -461,7 +463,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Textual
@@ -487,7 +489,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Textual
@@ -513,7 +515,7 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** `SV-LEN-11-2026-W04-tema-w04-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Textual

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "NAP Argentina / Aprender 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Organismos
@@ -42,7 +44,7 @@ La célula es la unidad mínima de vida. Todos los organismos, desde los unicelu
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Organismos
@@ -67,7 +69,7 @@ La clasificación en unicelulares y pluricelulares se basa en el número de cél
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Organismos
@@ -92,7 +94,7 @@ La nutrición autótrofa es característica de las plantas y algunas algas/bacte
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **EJE:** Organismos
@@ -117,7 +119,7 @@ Las células vegetales se distinguen por tener una pared celular rígida (de cel
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Organismos
@@ -142,7 +144,7 @@ La clasificación biológica no es caprichosa; busca organizar la diversidad seg
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Organismos
@@ -167,7 +169,7 @@ Los descomponedores cierran el ciclo de la materia. Al degradar restos de animal
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** Organismos
@@ -192,7 +194,7 @@ La función de relación (o irritabilidad) es la que permite a los seres vivos r
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** Organismos
@@ -217,7 +219,7 @@ La diferencia clave es el modo de nutrición. Las plantas son autótrofas (fotos
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **EJE:** Organismos
@@ -242,7 +244,7 @@ La teoría celular establece que la célula es la unidad básica de la vida. Com
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** AR-CIE-6-2026-W01-seres-vivos-diversidad-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **EJE:** Organismos

@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Geometría y medida
@@ -38,7 +40,7 @@ Las razones trigonométricas son las relaciones entre las longitudes de los lado
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Geometría y medida
@@ -59,7 +61,7 @@ La identidad pitagórica fundamental $\sin^2(\alpha) + \cos^2(\alpha) = 1$ se de
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Geometría y medida
@@ -80,7 +82,7 @@ La equivalencia básica entre ambos sistemas de medición angular es que $180^\c
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Geometría y medida
@@ -101,7 +103,7 @@ En el círculo unitario, un punto asociado a un ángulo $\alpha$ tiene coordenad
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Geometría y medida
@@ -122,7 +124,7 @@ Las funciones trigonométricas son periódicas. El período fundamental de $y = 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Geometría y medida
@@ -143,7 +145,7 @@ El teorema del coseno o generalización del teorema de Pitágoras relaciona los 
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Geometría y medida
@@ -164,7 +166,7 @@ Modelamos la situación mediante un triángulo rectángulo donde el cateto adyac
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Geometría y medida
@@ -185,7 +187,7 @@ Aplicamos la ley de cosenos para el caso Lado-Ángulo-Lado (LAL) para calcular e
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Geometría y medida
@@ -206,7 +208,7 @@ La ley de senos establece que los lados de un triángulo son proporcionales a lo
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Geometría y medida
@@ -227,7 +229,7 @@ La función seno es positiva en los cuadrantes I y II. La ecuación cuadrática 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Geometría y medida
@@ -248,7 +250,7 @@ Sustituimos la definición de la tangente en términos de seno y coseno, reducie
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Geometría y medida
@@ -269,7 +271,7 @@ Sustituimos $\cos^2(x)$ por $1 - \sin^2(x)$ para unificar la ecuación en térmi
 
 ---
 
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Geometría y medida
@@ -290,7 +292,7 @@ La amplitud de $3$ y el desplazamiento vertical de $+1$ definen el rango de la f
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Geometría y medida
@@ -311,7 +313,7 @@ Este es el caso ambiguo Lado-Lado-Ángulo (LLA) de la ley de senos. Dado que la 
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Geometría y medida
@@ -332,7 +334,7 @@ Un desfasaje de la forma $y = f(x - \phi)$ traslada la gráfica de la función h
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Geometría y medida
@@ -353,7 +355,7 @@ La marea alta consecutiva corresponde al período fundamental de la función cos
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Geometría y medida
@@ -374,7 +376,7 @@ Al sustituir la propiedad de paridad de las funciones trigonométricas en la fó
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Geometría y medida
@@ -395,7 +397,7 @@ Al igualar $\sin(x) = \frac{x}{2}$, se observa que $x=0$ es una raíz obvia. Dad
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Geometría y medida
@@ -416,7 +418,7 @@ La Ley de Cosenos $c^2 = a^2 + b^2 - 2ab \cos(C)$ es una generalización del teo
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** AR-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Geometría y medida
