@@ -26,6 +26,94 @@ const onlyScopes = onlyScopeArg
     )
   : null;
 
+// --only <ruta|prefijo> robusto: acepta múltiples valores, coma-separados y globs simples
+const onlyPatternsRaw = [];
+for (let i = 0; i < args.length; i++) {
+  const a = args[i];
+  if (a === '--only' && args[i + 1] && !args[i + 1].startsWith('--')) {
+    onlyPatternsRaw.push(args[i + 1]);
+    i++;
+  } else if (a.startsWith('--only=')) {
+    onlyPatternsRaw.push(a.slice('--only='.length));
+  } else if (a.startsWith('--only:')) {
+    onlyPatternsRaw.push(a.slice('--only:'.length));
+  }
+}
+const onlyPatterns = [];
+for (const raw of onlyPatternsRaw) {
+  for (const part of raw.split(',')) {
+    const p = part.trim();
+    if (p) onlyPatterns.push(p);
+  }
+}
+
+function globToRegExp(glob) {
+  let re = '';
+  for (let i = 0; i < glob.length; i++) {
+    const c = glob[i];
+    if (c === '*') {
+      if (glob[i + 1] === '*') {
+        // ** => .*
+        re += '.*';
+        i++;
+        // consume optional slash following **
+        if (glob[i + 1] === '/') {
+          i++;
+        }
+      } else {
+        re += '[^/]*';
+      }
+    } else if (c === '?') {
+      re += '[^/]';
+    } else if ('.+^${}()|[]\\'.includes(c)) {
+      re += '\\' + c;
+    } else {
+      re += c;
+    }
+  }
+  return new RegExp('^' + re + '$', 'i');
+}
+
+function matchesOnlyFilter(filePath) {
+  if (onlyPatterns.length === 0) return true;
+  // normaliza relativos para comparar: tanto respecto a ROOT como respecto a proyecto
+  const relRoot = relative(filePath); // ../questions_data/...
+  const relFromProject = path
+    .relative(path.join(ROOT, '..'), filePath)
+    .replace(/\\/g, '/'); // questions_data/...
+  const relRootNormalized = relRoot.replace(/^\.\.\//, '');
+  const candidates = [relRoot, relRootNormalized, relFromProject, path.relative('.', filePath).replace(/\\/g, '/')];
+  // también el absoluto normalizado
+  const absoluteNormalized = filePath.replace(/\\/g, '/');
+  candidates.push(absoluteNormalized);
+
+  for (const patRaw of onlyPatterns) {
+    const pat = patRaw.replace(/\\/g, '/').replace(/^\.\//, '').trim();
+    const isGlob = pat.includes('*') || pat.includes('?');
+    if (isGlob) {
+      const re = globToRegExp(pat);
+      const re2 = globToRegExp('**/' + pat);
+      for (const cand of candidates) {
+        if (re.test(cand) || re2.test(cand)) return true;
+        // también probar sin prefijo questions_data/
+        const candNoPrefix = cand.replace(/^\.\.\//, '');
+        if (re.test(candNoPrefix) || re2.test(candNoPrefix)) return true;
+      }
+    } else {
+      const patNorm = pat.toLowerCase();
+      for (const cand of candidates) {
+        const candLower = cand.toLowerCase();
+        if (candLower === patNorm) return true;
+        if (candLower.startsWith(patNorm.endsWith('/') ? patNorm : patNorm + '/')) return true;
+        if (candLower.includes('/' + patNorm) || candLower.endsWith('/' + patNorm)) return true;
+        // prefijo directo
+        if (candLower.startsWith(patNorm)) return true;
+      }
+    }
+  }
+  return false;
+}
+
 const findings = [];
 const questionIdSeen = new Map();
 
@@ -171,7 +259,30 @@ function isQuarantinedBundle(frontmatter) {
   return quarantine === 'true' || bundleStatus === 'quarantined';
 }
 
+function expectedCountForGrade(gradoRaw, filePath) {
+  const gradoStr = String(gradoRaw ?? '').trim().toUpperCase();
+  if (gradoStr === '3EM') return 20;
+  if (String(filePath || '').toLowerCase().includes('/3o-ano/')) return 20;
+  const numMatch = String(gradoRaw ?? '').match(/\d+/);
+  const numeric = numMatch ? Number(numMatch[0]) : NaN;
+  if (Number.isNaN(numeric)) return null;
+  if (numeric >= 3 && numeric <= 5) return 8;
+  if (numeric >= 6 && numeric <= 7) return 10;
+  if (numeric >= 8 && numeric <= 10) return 12;
+  if (numeric === 11) return 20;
+  return null;
+}
+
+const ALLOWED_DIFFICULTY_RANGES = new Set(['D3-D4', 'D5-D6', 'D7-D8', 'D9-D10']);
+
+function getDifficultyFromHeader(section) {
+  const firstLine = section.split('\n')[0] || '';
+  const m = firstLine.match(/\[([^\]]+)\]/);
+  return m ? m[1].trim().replace(/–/g, '-') : null;
+}
+
 function validateFile(filePath) {
+  if (!matchesOnlyFilter(filePath)) return;
   const relFile = relative(filePath);
   const relFileLower = relFile.toLowerCase();
   const strictScopeV3 = strictV3 && relFileLower.includes('src/content/questions/colombia/');
@@ -266,14 +377,12 @@ function validateFile(filePath) {
     }
   }
 
-  // MASTERY bundle validation (20 questions + difficulty markers), except Grade 3 (10 questions)
-  const gradoStr = String(data.grado || '').trim();
-  const isGrade3 = gradoStr === '3' || gradoStr === '03';
+  // D1: conteos válidos G3-G5=8, G6-G7=10, G8-G10=12, G11/3EM=20 — alineado a AGENTS.md
   const isMastery = v5 || path.basename(filePath).toLowerCase().includes('mastery-bundle');
-  if (isMastery) {
-    const expectedMasterySize = isGrade3 ? 10 : 20;
-    if (inferredQuestionCount !== expectedMasterySize) {
-      const msg = `Bundle MASTERY debe tener ${expectedMasterySize} preguntas para grado ${gradoStr} (detectadas=${inferredQuestionCount})`;
+  if (isMastery || v5) {
+    const expectedD1 = expectedCountForGrade(data.grado, filePath);
+    if (expectedD1 !== null && inferredQuestionCount !== expectedD1) {
+      const msg = `Bundle debe tener ${expectedD1} preguntas para grado ${String(data.grado || '').trim()} (detectadas=${inferredQuestionCount}) — D1: G3-G5=8, G6-G7=10, G8-G10=12, G11/3EM=20`;
       addFinding('error', relFile, msg);
     }
   }
@@ -289,12 +398,17 @@ function validateFile(filePath) {
         continue;
       }
 
-      // MASTERY: validate difficulty marker in question header
-      if (isMastery) {
-        const difficultyPattern = /^##\s+(?:Pregunta|Question)\s+\d+\s*\[D\d+[-–]D\d+\]/gim;
-        const dmMatch = difficultyPattern.exec(section);
-        if (!dmMatch) {
-          addFinding('warning', relFile, `Pregunta #${sectionNum} sin marcador de dificultad [D3-D4] en encabezado.`);
+      // D1: dificultad SIEMPRE en rango [D3-D4]|[D5-D6]|[D7-D8]|[D9-D10]; warning si [D#] suelto
+      if (isMastery || v5) {
+        const difficulty = getDifficultyFromHeader(section);
+        if (!difficulty) {
+          addFinding('warning', relFile, `Pregunta #${sectionNum} sin marcador de dificultad [D3-D4]|[D5-D6]|[D7-D8]|[D9-D10] en encabezado.`);
+        } else if (!ALLOWED_DIFFICULTY_RANGES.has(difficulty)) {
+          if (/^D\d+$/.test(difficulty)) {
+            addFinding('warning', relFile, `Pregunta #${sectionNum} con dificultad individual [${difficulty}] — debe ser rango [D3-D4]|[D5-D6]|[D7-D8]|[D9-D10].`);
+          } else {
+            addFinding('warning', relFile, `Pregunta #${sectionNum} con dificultad [${difficulty}] no válida — debe ser [D3-D4]|[D5-D6]|[D7-D8]|[D9-D10].`);
+          }
         }
       }
 
@@ -352,7 +466,46 @@ function main() {
   }
 
   const files = walkMarkdownFiles(QUESTIONS_DIR);
-  for (const file of files) {
+  const preFilteredCount = files.length;
+  // Mensaje de ayuda si se solicita
+  if (args.includes('--help') || args.includes('-h')) {
+    console.log(`
+Uso: node scripts/validate_content.js [opciones]
+
+Opciones:
+  --strict-v3            Activa modo estricto v3
+  --fail-on-error        Falla si hay errores
+  --grade=<n>            Filtra por grado
+  --country=<code>       Filtra por país (scope folder)
+  --scope=<a,b>          Filtra por scope(s)
+  --only <ruta|prefijo>  Filtra por ruta/prefijo/glob (repetible, coma-separado)
+                         Ej: --only questions_data/colombia
+                             --only questions_data/colombia --only questions_data/mexico
+                             --only "questions_data/colombia/**"
+                             --only questions_data/brasil/matematica/3o-ano/2026/weekly/*.md
+`);
+  }
+  let filesToValidate = files;
+  if (onlyPatterns.length > 0) {
+    filesToValidate = files.filter((f) => matchesOnlyFilter(f));
+  }
+  // Si se pasaron rutas posicionales sin --only, tratarlas como --only implícito
+  const consumedOnlyValues = new Set(
+    onlyPatternsRaw.flatMap((raw) => raw.split(',').map((s) => s.trim()).filter(Boolean))
+  );
+  const positionalRoots = args.filter(
+    (a) => !a.startsWith('--') && a.includes('questions_data') && !consumedOnlyValues.has(a)
+  );
+  if (positionalRoots.length > 0 && onlyPatterns.length === 0) {
+    // compatibilidad retro: npm run validate -- questions_data/colombia/...
+    // los trata como filtros only
+    const tmpPatterns = positionalRoots.flatMap((p) => p.split(',').map((s) => s.trim()).filter(Boolean));
+    filesToValidate = filesToValidate.filter((f) => {
+      const rel = path.relative(path.join(ROOT, '..'), f).replace(/\\/g, '/');
+      return tmpPatterns.some((pat) => rel.startsWith(pat.replace(/\\/g, '/')));
+    });
+  }
+  for (const file of filesToValidate) {
     validateFile(file);
   }
 
@@ -360,7 +513,10 @@ function main() {
   const warnings = findings.filter((f) => f.level === 'warning');
 
   console.log('\n🧪 Content Validation Report');
-  console.log(`- Archivos analizados: ${files.length}`);
+  console.log(`- Archivos descubiertos: ${preFilteredCount}`);
+  console.log(`- Archivos analizados: ${filesToValidate.length}`);
+  if (onlyPatterns.length > 0) console.log(`- Filtro --only: ${onlyPatterns.join(', ')}`);
+  if (positionalRoots.length > 0) console.log(`- Filtro posicional: ${positionalRoots.join(', ')}`);
   if (onlyGrade !== null) console.log(`- Filtro grado: ${onlyGrade}`);
   if (onlyCountry) console.log(`- Filtro país: ${onlyCountry}`);
   if (onlyScopes) console.log(`- Filtro scope: ${[...onlyScopes].join(', ')}`);

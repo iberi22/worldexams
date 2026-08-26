@@ -25,6 +25,7 @@
     "astro": "astro",
     "validate": "node scripts/validate_content.js",
     "validate:strict": "node scripts/validate_content.js --strict-v3 --fail-on-error",
+    "audit:country-readiness": "node scripts/audit-country-readiness.js",
     "validate:g11": "node scripts/validate_content.js --grade=11 --country=colombia",
     "audit:quality": "node scripts/audit_question_quality.js --scope=colombia,ingles --grade-min=3 --grade-max=11 --write-report",
     "audit:quality:g11": "node scripts/audit_question_quality.js --scope=colombia,ingles --grade-min=11 --grade-max=11 --write-report",
