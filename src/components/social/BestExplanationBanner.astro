@@ -1,0 +1,159 @@
+---
+/**
+ * WX-302 BestExplanationBanner.astro
+ * Muestra la explicación con más votos positivos por question_id como
+ * "Explicación destacada de la comunidad". Badge + voto.
+ */
+
+export interface ExplanationLite {
+  id: string;
+  content: string;
+  node_hash: string;
+  vote_count: number;
+  question_id?: string;
+  created_at?: string;
+}
+
+interface Props {
+  explanations?: ExplanationLite[];
+  questionId?: string;
+  title?: string;
+}
+
+const { explanations = [], questionId = '', title = 'Explicación destacada de la comunidad' } = Astro.props as Props;
+
+// Pure function to select best (exported for tests via helper if needed)
+function getBestExplanation(list: ExplanationLite[]): ExplanationLite | null {
+  if (!list || list.length === 0) return null;
+  // Prefer max vote_count, tie-breaker newest created_at, then first
+  let best = list[0];
+  for (const e of list) {
+    if (e.vote_count > best.vote_count) best = e;
+    else if (e.vote_count === best.vote_count && e.created_at && best.created_at) {
+      if (new Date(e.created_at).getTime() > new Date(best.created_at).getTime()) best = e;
+    }
+  }
+  // Only consider positive votes as destacada; if all <=0, still show best but with muted badge
+  return best;
+}
+
+const best = getBestExplanation(explanations);
+const hasBest = !!best;
+const isPositiveLeader = hasBest && (best as ExplanationLite).vote_count > 0;
+---
+
+<div
+  class="best-explanation-banner w-full rounded-2xl border overflow-hidden"
+  class:list={[
+    hasBest
+      ? 'border-amber-500/20 bg-gradient-to-br from-amber-500/[0.08] via-transparent to-emerald-500/[0.04]'
+      : 'border-white/5 bg-white/[0.02]'
+  ]}
+  data-best-explanation-banner
+  data-question-id={questionId}
+  data-testid="best-explanation-banner"
+  data-has-best={String(hasBest)}
+>
+  <div class="p-4 space-y-3">
+    <div class="flex items-center justify-between gap-2">
+      <div class="flex items-center gap-2">
+        <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-amber-500/20 border border-amber-500/30 text-amber-300 text-xs">★</span>
+        <h3 class="text-[11px] font-extrabold tracking-widest uppercase text-amber-300/90">{title}</h3>
+        {hasBest ? (
+          <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-bold tracking-widest uppercase border"
+            class:list={[
+              isPositiveLeader ? 'bg-emerald-500/15 border-emerald-500/30 text-emerald-300' : 'bg-white/5 border-white/10 text-white/40'
+            ]}
+            data-testid="best-badge"
+          >
+            {isPositiveLeader ? 'Destacada' : 'Sin votos'}
+          </span>
+        ) : (
+          <span class="inline-flex items-center px-2 py-0.5 rounded-full bg-white/5 border border-white/10 text-[10px] tracking-widest uppercase text-white/30" data-testid="best-badge">Vacante</span>
+        )}
+      </div>
+      {hasBest && (
+        <span class="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-full bg-white/[0.06] border border-white/10 text-white/70" data-testid="best-vote-count" data-vote-count={best!.vote_count}>
+          <span aria-hidden="true">▲</span> {best!.vote_count} votos
+        </span>
+      )}
+    </div>
+
+    {hasBest ? (
+      <div class="space-y-2">
+        <p class="text-sm leading-relaxed text-white/80 whitespace-pre-wrap break-words" data-testid="best-content">{best!.content}</p>
+        <div class="flex items-center justify-between pt-2 border-t border-white/5">
+          <span class="text-[10px] font-mono text-white/25" title={best!.node_hash}>{best!.node_hash ? best!.node_hash.slice(0,8)+'…' : 'anon'} • {best!.created_at ? new Date(best!.created_at).toLocaleDateString() : ''}</span>
+          <button
+            type="button"
+            data-action="vote-best"
+            data-explanation-id={best!.id}
+            class="px-3 py-1.5 rounded-lg bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 text-[11px] font-bold uppercase tracking-widest border border-amber-500/25 hover:border-amber-500/40 transition-colors"
+            aria-label={`Votar explicación ${best!.id}`}
+            data-testid="best-vote-btn"
+          >
+            Votar ▲
+          </button>
+        </div>
+      </div>
+    ) : (
+      <p class="text-xs leading-relaxed text-white/30" data-testid="best-empty">
+        Aún no hay explicaciones destacadas para esta pregunta. ¡Sé el primero en aportar una explicación útil y gana votos de la comunidad!
+      </p>
+    )}
+  </div>
+
+  {hasBest && questionId && (
+    <div class="px-4 py-2 bg-black/20 border-t border-white/5 flex items-center justify-between">
+      <span class="text-[10px] tracking-widest uppercase text-white/20">question {questionId.slice(0,16)}</span>
+      <a href={`/api/explanations?question_id=${encodeURIComponent(questionId)}`} class="text-[10px] text-white/30 hover:text-emerald-300 underline decoration-dotted">ver todas (API)</a>
+    </div>
+  )}
+</div>
+
+<script>
+  // Vote handler for best banner (POST /api/explanations with vote)
+  const banners = Array.from(document.querySelectorAll('[data-best-explanation-banner]')) as HTMLElement[];
+  banners.forEach((banner) => {
+    const btn = banner.querySelector('[data-action="vote-best"]') as HTMLButtonElement | null;
+    if (!btn) return;
+    btn.addEventListener('click', async () => {
+      const explanation_id = btn.getAttribute('data-explanation-id') ?? '';
+      if (!explanation_id) return;
+      // resolve voter hash
+      let voter_node_hash = '';
+      try { voter_node_hash = localStorage.getItem('swal_node_hash') || localStorage.getItem('node_hash') || ''; } catch {}
+      if (!voter_node_hash) voter_node_hash = 'anon-' + Math.random().toString(36).slice(2,10);
+      // placeholder signature (ML-DSA-65)
+      const signature = 'ML-DSA-65-placeholder-' + Math.random().toString(36).slice(2,10);
+      btn.disabled = true;
+      const prev = btn.textContent;
+      btn.textContent = 'Votando…';
+      try {
+        const res = await fetch('/api/explanations?action=vote', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ explanation_id, voter_node_hash, vote: 1, signature }),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data?.error ?? `Error ${res.status}`);
+        // optimistic update vote count UI
+        const countEl = banner.querySelector('[data-testid="best-vote-count"]') as HTMLElement | null;
+        if (countEl && typeof data.vote_count === 'number') {
+          countEl.textContent = `▲ ${data.vote_count} votos`;
+          countEl.setAttribute('data-vote-count', String(data.vote_count));
+        } else if (countEl) {
+          const cur = parseInt(countEl.getAttribute('data-vote-count') ?? '0', 10);
+          countEl.textContent = `▲ ${cur + 1} votos`;
+        }
+        btn.textContent = '¡Votado ✓';
+        setTimeout(() => { btn.textContent = prev; btn.disabled = false; }, 2000);
+        window.dispatchEvent(new CustomEvent('social:vote', { detail: { explanation_id, vote: 1, vote_count: data.vote_count } }));
+      } catch (err: unknown) {
+        const msg = err instanceof Error ? err.message : String(err);
+        btn.textContent = msg.includes('duplicado') ? 'Ya votaste' : 'Error';
+        setTimeout(() => { btn.textContent = prev; btn.disabled = false; }, 2500);
+      }
+    });
+  });
+</script>

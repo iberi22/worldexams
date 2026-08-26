@@ -1,0 +1,255 @@
+---
+/**
+ * WX-302 CommentSection.astro
+ * Wrapper que integra ExplanationThread + botón "Añadir explicación" + BestExplanationBanner.
+ * Se monta en páginas de detalle de pregunta o como componente reutilizable.
+ * Data: Explicaciones vienen de GET /api/explanations?question_id=X.
+ * Replies de GET /api/replies?explanation_id=X.
+ */
+import ExplanationThread from './ExplanationThread.astro';
+import ThreadReplyForm from './ThreadReplyForm.astro';
+import BestExplanationBanner from './BestExplanationBanner.astro';
+
+import type { Explanation, ThreadNode } from './ExplanationThread.astro';
+import type { ExplanationLite } from './BestExplanationBanner.astro';
+
+interface Props {
+  questionId: string;
+  explanations?: ExplanationLite[];
+  initialExplanation?: Explanation | null;
+  initialThreads?: ThreadNode[];
+  showAddButton?: boolean;
+}
+
+const {
+  questionId,
+  explanations = [],
+  initialExplanation = null,
+  initialThreads = [],
+  showAddButton = true,
+} = Astro.props as Props;
+
+// Pick first explanation as default thread focus if available
+const focusExplanation: Explanation | null = initialExplanation ?? (explanations[0] as Explanation | undefined) ?? null;
+const hasExplanations = explanations.length > 0;
+---
+
+<section
+  class="comment-section w-full space-y-6"
+  data-comment-section
+  data-question-id={questionId}
+  data-testid="comment-section"
+>
+  <!-- Header + Best banner -->
+  <div class="space-y-4">
+    <div class="flex items-center justify-between">
+      <h2 class="text-sm font-bold tracking-widest uppercase text-white/70 flex items-center gap-2">
+        <span class="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></span>
+        Explicaciones de la comunidad
+        {hasExplanations && <span class="text-[10px] px-2 py-0.5 rounded-full bg-white/5 border border-white/10 text-white/40">{explanations.length}</span>}
+      </h2>
+      <span class="text-[10px] tracking-widest uppercase text-white/20">D3 capa 3</span>
+    </div>
+
+    <BestExplanationBanner explanations={explanations as ExplanationLite[]} questionId={questionId} />
+
+    {showAddButton && (
+      <div class="flex items-center gap-2">
+        <button
+          type="button"
+          data-action="toggle-add-explanation"
+          class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-300 text-[11px] font-bold uppercase tracking-widest border border-emerald-500/20 hover:border-emerald-500/30 transition-colors"
+          aria-expanded="false"
+          aria-controls="add-explanation-panel"
+          data-testid="add-explanation-btn"
+        >
+          <span aria-hidden="true">＋</span> Añadir explicación
+        </button>
+        <span class="text-[10px] text-white/25">Comparte tu forma de resolverla</span>
+      </div>
+    )}
+
+    <!-- Panel añadir explicación (colapsado por defecto) -->
+    <div id="add-explanation-panel" class="hidden space-y-3 p-4 rounded-xl bg-white/[0.03] border border-white/5" data-add-panel data-testid="add-explanation-panel">
+      <label class="block text-[10px] font-bold uppercase tracking-widest text-white/40">Nueva explicación para {questionId.slice(0,20)}</label>
+      <textarea
+        rows="4"
+        maxlength="5000"
+        placeholder="Explica paso a paso tu razonamiento…"
+        class="w-full min-h-[100px] bg-black/40 border border-white/10 rounded-lg px-3 py-2.5 text-sm text-white placeholder-white/25 focus:border-emerald-500/40 focus:outline-none resize-y"
+        data-new-explanation-textarea
+        data-testid="new-explanation-textarea"
+      ></textarea>
+      <div class="flex items-center justify-between">
+        <span class="text-[10px] text-white/30" data-new-exp-count>0 / 5000</span>
+        <button
+          type="button"
+          data-action="submit-new-explanation"
+          class="px-4 py-2 rounded-lg bg-emerald-500 text-black text-[11px] font-extrabold uppercase tracking-widest hover:bg-emerald-400 transition-colors disabled:opacity-40"
+          data-testid="submit-new-explanation"
+        >
+          Publicar explicación
+        </button>
+      </div>
+      <p class="hidden text-xs px-2 py-1 rounded-full border text-[10px]" data-new-exp-status role="status" aria-live="polite"></p>
+    </div>
+  </div>
+
+  <!-- Threads section -->
+  <div class="space-y-4" data-threads-container data-testid="threads-container">
+    {focusExplanation ? (
+      <ExplanationThread explanation={focusExplanation} threads={initialThreads} questionId={questionId} />
+    ) : (
+      <div class="rounded-xl border border-dashed border-white/10 p-6 text-center space-y-2" data-testid="no-explanation-placeholder">
+        <p class="text-sm text-white/30">Aún no hay explicaciones para esta pregunta.</p>
+        <p class="text-xs text-white/20">Crea la primera y aparecerá como destacada si recibe votos.</p>
+      </div>
+    )}
+
+    <!-- Lista de otras explicaciones (si hay más de 1) como mini threads -->
+    {explanations.length > 1 && focusExplanation && (
+      <div class="space-y-3 pt-4 border-t border-white/5">
+        <h3 class="text-[10px] font-bold tracking-widest uppercase text-white/30">Otras explicaciones ({explanations.length - 1})</h3>
+        <div class="space-y-2" data-testid="other-explanations-list">
+          {explanations.filter((e) => e.id !== focusExplanation.id).map((exp) => (
+            <div class="rounded-lg bg-white/[0.02] border border-white/5 p-3 flex items-center justify-between gap-3">
+              <p class="text-sm text-white/60 line-clamp-2 flex-1">{exp.content.slice(0,120)}…</p>
+              <span class="text-xs px-2 py-1 rounded-full bg-white/5 border border-white/10 text-white/40 whitespace-nowrap">▲ {exp.vote_count}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+
+  <!-- Reply form anclado a la explicación foco -->
+  {focusExplanation && (
+    <div class="pt-4 border-t border-white/5" data-reply-form-container>
+      <ThreadReplyForm explanationId={focusExplanation.id} questionId={questionId} />
+    </div>
+  )}
+
+  <!-- Estado dinámico: contenedor para hilos cargados vía API -->
+  <div class="hidden" data-dynamic-threads aria-live="polite"></div>
+</section>
+
+<script>
+  // CommentSection client logic: Añadir explicación + fetch inicial si no hay props
+  const sections = Array.from(document.querySelectorAll('[data-comment-section]')) as HTMLElement[];
+
+  sections.forEach((section) => {
+    const questionId = section.dataset.questionId ?? '';
+    const toggleBtn = section.querySelector('[data-action="toggle-add-explanation"]') as HTMLButtonElement | null;
+    const addPanel = section.querySelector('[data-add-panel]') as HTMLElement | null;
+    const textarea = section.querySelector('[data-new-explanation-textarea]') as HTMLTextAreaElement | null;
+    const countEl = section.querySelector('[data-new-exp-count]') as HTMLElement | null;
+    const statusEl = section.querySelector('[data-new-exp-status]') as HTMLElement | null;
+    const submitBtn = section.querySelector('[data-action="submit-new-explanation"]') as HTMLButtonElement | null;
+    const threadsContainer = section.querySelector('[data-threads-container]') as HTMLElement | null;
+
+    // toggle add panel
+    toggleBtn?.addEventListener('click', () => {
+      if (!addPanel) return;
+      const isHidden = addPanel.classList.contains('hidden');
+      addPanel.classList.toggle('hidden', !isHidden);
+      toggleBtn.setAttribute('aria-expanded', String(isHidden));
+      toggleBtn.textContent = isHidden ? '× Cerrar' : '＋ Añadir explicación';
+      if (isHidden) textarea?.focus();
+    });
+
+    textarea?.addEventListener('input', () => {
+      if (countEl) countEl.textContent = `${textarea.value.length} / 5000`;
+    });
+
+    // submit new explanation -> POST /api/explanations
+    submitBtn?.addEventListener('click', async () => {
+      if (!textarea || !questionId) return;
+      const content = textarea.value.trim();
+      if (!content) {
+        if (statusEl) {
+          statusEl.textContent = 'Contenido vacío';
+          statusEl.className = 'text-xs px-2 py-1 rounded-full border text-[10px] bg-red-500/10 border-red-500/30 text-red-300';
+          statusEl.classList.remove('hidden');
+        }
+        return;
+      }
+      let node_hash = '';
+      try { node_hash = localStorage.getItem('swal_node_hash') || localStorage.getItem('node_hash') || ''; } catch {}
+      if (!node_hash) node_hash = 'anon-' + Math.random().toString(36).slice(2,10);
+
+      if (submitBtn) submitBtn.disabled = true;
+      if (statusEl) {
+        statusEl.textContent = 'Publicando…';
+        statusEl.className = 'text-xs px-2 py-1 rounded-full border text-[10px] bg-white/5 border-white/10 text-white/50';
+        statusEl.classList.remove('hidden');
+      }
+      try {
+        const res = await fetch('/api/explanations', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ question_id: questionId, content, node_hash }),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data?.error ?? `Error ${res.status}`);
+        if (statusEl) {
+          statusEl.textContent = 'Explicación enviada (pendiente moderación) ✓';
+          statusEl.className = 'text-xs px-2 py-1 rounded-full border text-[10px] bg-emerald-500/15 border-emerald-500/30 text-emerald-300';
+        }
+        textarea.value = '';
+        if (countEl) countEl.textContent = '0 / 5000';
+        window.dispatchEvent(new CustomEvent('social:explanation-created', { detail: { questionId, explanation: data.explanation } }));
+        // Optionally reload threads
+        if (threadsContainer) {
+          const msg = document.createElement('p');
+          msg.className = 'text-xs text-emerald-300/70';
+          msg.textContent = 'Tu explicación fue creada. Recargará tras moderación.';
+          threadsContainer.prepend(msg);
+        }
+        setTimeout(() => statusEl?.classList.add('hidden'), 4000);
+      } catch (err: unknown) {
+        const msg = err instanceof Error ? err.message : String(err);
+        if (statusEl) {
+          statusEl.textContent = msg.slice(0,90);
+          statusEl.className = 'text-xs px-2 py-1 rounded-full border text-[10px] bg-red-500/10 border-red-500/30 text-red-300';
+          statusEl.classList.remove('hidden');
+        }
+      } finally {
+        if (submitBtn) submitBtn.disabled = false;
+      }
+    });
+
+    // If no initial threads but has questionId, try to fetch explanations + replies lazily
+    // This ensures component works even when mounted without SSR props
+    const hasInitial = section.querySelector('[data-explanation-thread]') || section.querySelector('[data-testid="no-explanation-placeholder"]');
+    // Only fetch if no explanations provided (empty banner) and we want to populate
+    // We avoid double-fetch if SSR already gave data
+    const shouldFetch = !section.querySelector('[data-explanation-thread]') && questionId;
+    if (shouldFetch) {
+      // lazy fetch
+      fetch(`/api/explanations?question_id=${encodeURIComponent(questionId)}`)
+        .then((r) => r.ok ? r.json() : Promise.reject())
+        .then((data) => {
+          const exps = data?.explanations ?? [];
+          if (exps.length === 0) return;
+          // reload not implemented server-side; dispatch event so parent can react
+          window.dispatchEvent(new CustomEvent('social:explanations-loaded', { detail: { questionId, explanations: exps } }));
+        })
+        .catch(() => {});
+    }
+
+    // Listen for reply created -> reload replies for focused explanation
+    window.addEventListener('social:reply-created', ((e: CustomEvent<{ explanation_id: string }>) => {
+      const expId = e.detail?.explanation_id;
+      if (!expId) return;
+      // Simple: fetch and append
+      fetch(`/api/replies?explanation_id=${encodeURIComponent(expId)}`)
+        .then((r) => r.json())
+        .then((data) => {
+          const replies = data?.replies ?? [];
+          // dispatch so ExplanationThread could re-render if needed; for now just log
+          window.dispatchEvent(new CustomEvent('social:threads-updated', { detail: { explanation_id: expId, replies } }));
+        })
+        .catch(() => {});
+    }) as EventListener);
+  });
+</script>
