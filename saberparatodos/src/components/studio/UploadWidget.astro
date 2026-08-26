@@ -1,0 +1,131 @@
+---
+/**
+ * UploadWidget.astro — drop zone + preview del nombre del archivo
+ * Emite eventos `studio:pdf-selected` (detail: { file: File })
+ * y `studio:pdf-cleared` para que estudio.astro orqueste.
+ */
+interface Props {
+  accept?: string;
+  maxSizeMB?: number;
+}
+const { accept = '.pdf', maxSizeMB = 20 } = Astro.props;
+---
+
+<div id="upload-widget" class="w-full">
+  <label
+    id="drop-zone"
+    for="pdf-input"
+    class="group relative flex flex-col items-center justify-center rounded-2xl border-2 border-dashed border-white/15 bg-white/[0.04] px-6 py-10 text-center transition hover:border-emerald-400/50 hover:bg-emerald-400/5 cursor-pointer focus-within:border-emerald-400 focus-within:ring-2 focus-within:ring-emerald-400/30"
+    tabindex="0"
+    role="button"
+    aria-label="Subir PDF"
+  >
+    <div class="flex h-12 w-12 items-center justify-center rounded-xl bg-white/10 text-xl">📄</div>
+    <p class="mt-3 text-sm font-semibold text-white/90">Arrastra tu PDF aquí o haz clic para seleccionar</p>
+    <p class="mt-1 text-xs text-white/50">Solo .pdf · máx {maxSizeMB} MB · el procesamiento es 100% local</p>
+    <input id="pdf-input" type="file" accept={accept} class="sr-only" />
+    <div id="drop-hint" class="pointer-events-none mt-2 hidden text-xs font-medium text-emerald-300">Suelta para cargar</div>
+  </label>
+
+  <div id="file-preview" class="mt-4 hidden items-center gap-3 rounded-xl border border-white/10 bg-white/5 px-4 py-3">
+    <div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-emerald-500/20 text-emerald-300">✓</div>
+    <div class="min-w-0 flex-1">
+      <p id="preview-name" class="truncate text-sm font-medium text-white/90"></p>
+      <p id="preview-meta" class="text-xs text-white/50"></p>
+    </div>
+    <button id="clear-file" type="button" class="rounded-lg bg-white/10 px-3 py-1.5 text-xs font-semibold text-white/80 hover:bg-white/15">Quitar</button>
+  </div>
+
+  <p id="upload-error" class="mt-3 hidden rounded-lg bg-red-500/10 px-3 py-2 text-xs text-red-300 border border-red-500/20"></p>
+</div>
+
+<script>
+  const input = document.getElementById('pdf-input') as HTMLInputElement | null;
+  const dropZone = document.getElementById('drop-zone') as HTMLElement | null;
+  const preview = document.getElementById('file-preview') as HTMLElement | null;
+  const previewName = document.getElementById('preview-name') as HTMLElement | null;
+  const previewMeta = document.getElementById('preview-meta') as HTMLElement | null;
+  const errorEl = document.getElementById('upload-error') as HTMLElement | null;
+  const clearBtn = document.getElementById('clear-file') as HTMLButtonElement | null;
+  const hint = document.getElementById('drop-hint') as HTMLElement | null;
+  const MAX = 20 * 1024 * 1024;
+
+  function showError(msg: string) {
+    if (!errorEl) return;
+    errorEl.textContent = msg;
+    errorEl.classList.remove('hidden');
+  }
+  function clearError() {
+    if (!errorEl) return;
+    errorEl.textContent = '';
+    errorEl.classList.add('hidden');
+  }
+  function showPreview(file: File) {
+    if (!preview || !previewName || !previewMeta) return;
+    previewName.textContent = file.name;
+    previewMeta.textContent = `${(file.size / 1024).toFixed(1)} KB · ${file.type || 'application/pdf'}`;
+    preview.classList.remove('hidden');
+    preview.classList.add('flex');
+  }
+  function hidePreview() {
+    if (!preview) return;
+    preview.classList.add('hidden');
+    preview.classList.remove('flex');
+  }
+
+  function emitSelected(file: File) {
+    clearError();
+    showPreview(file);
+    window.dispatchEvent(new CustomEvent('studio:pdf-selected', { detail: { file } }));
+  }
+  function emitCleared() {
+    hidePreview();
+    clearError();
+    if (input) input.value = '';
+    window.dispatchEvent(new CustomEvent('studio:pdf-cleared'));
+  }
+
+  function handleFiles(files: FileList | null) {
+    if (!files || files.length === 0) return;
+    const file = files[0];
+    if (file.type && file.type !== 'application/pdf' && !file.name.toLowerCase().endsWith('.pdf')) {
+      showError('Solo se permiten archivos .pdf');
+      return;
+    }
+    if (file.size > MAX) {
+      showError(`Archivo demasiado grande (máx ${Math.round(MAX / 1024 / 1024)} MB)`);
+      return;
+    }
+    emitSelected(file);
+  }
+
+  input?.addEventListener('change', () => handleFiles(input.files));
+  clearBtn?.addEventListener('click', (e) => { e.preventDefault(); emitCleared(); });
+
+  // drag & drop
+  ['dragenter', 'dragover'].forEach((ev) => {
+    dropZone?.addEventListener(ev, (e) => {
+      e.preventDefault();
+      dropZone.classList.add('border-emerald-400', 'bg-emerald-400/10');
+      hint?.classList.remove('hidden');
+    });
+  });
+  ['dragleave', 'drop'].forEach((ev) => {
+    dropZone?.addEventListener(ev, (e) => {
+      e.preventDefault();
+      dropZone.classList.remove('border-emerald-400', 'bg-emerald-400/10');
+      hint?.classList.add('hidden');
+    });
+  });
+  dropZone?.addEventListener('drop', (e) => {
+    const dt = (e as DragEvent).dataTransfer;
+    handleFiles(dt?.files ?? null);
+  });
+  // keyboard
+  dropZone?.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      input?.click();
+    }
+  });
+</script>

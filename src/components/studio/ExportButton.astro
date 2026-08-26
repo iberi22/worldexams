@@ -1,0 +1,195 @@
+---
+/**
+ * ExportButton.astro — genera y descarga .md usando template v5.2
+ * Lee `window.__STUDIO_GET_QUESTIONS__()` y el formulario de metadata.
+ * No escribe a questions_data/ — solo descarga local (draft).
+ */
+interface Props {
+  defaultCountry?: string;
+  defaultCountryCode?: string;
+  defaultGrado?: number;
+  defaultAsignatura?: string;
+}
+const {
+  defaultCountry = 'colombia',
+  defaultCountryCode = 'CO',
+  defaultGrado = 6,
+  defaultAsignatura = 'matematicas',
+} = Astro.props;
+---
+
+<div id="export-panel" class="rounded-2xl border border-white/10 bg-white/[0.04] p-4 md:p-5">
+  <h3 class="text-sm font-bold text-white">Exportar bundle v5.2</h3>
+  <p class="mt-1 text-xs text-white/50">Nunca auto-publica. Descarga un <code class="text-white/70">.md</code> canónico para revisión.</p>
+
+  <div class="mt-4 grid grid-cols-2 md:grid-cols-3 gap-3">
+    <label class="block">
+      <span class="text-[11px] font-medium uppercase tracking-wider text-white/50">País</span>
+      <select id="exp-country" class="mt-1 w-full rounded-xl border border-white/10 bg-black/30 px-3 py-2 text-sm text-white focus:border-emerald-400 focus:outline-none">
+        <option value="colombia" data-code="CO" selected={defaultCountry === 'colombia'}>Colombia (CO)</option>
+        <option value="mexico" data-code="MX">México (MX)</option>
+        <option value="argentina" data-code="AR">Argentina (AR)</option>
+        <option value="brasil" data-code="BR">Brasil (BR)</option>
+        <option value="chile" data-code="CL">Chile (CL)</option>
+        <option value="peru" data-code="PE">Perú (PE)</option>
+        <option value="ecuador" data-code="EC">Ecuador (EC)</option>
+        <option value="espana" data-code="ES">España (ES)</option>
+      </select>
+    </label>
+    <label class="block">
+      <span class="text-[11px] font-medium uppercase tracking-wider text-white/50">Grado</span>
+      <input id="exp-grado" type="text" inputmode="numeric" value={String(defaultGrado)} placeholder="6 o 3EM" class="mt-1 w-full rounded-xl border border-white/10 bg-black/30 px-3 py-2 text-sm text-white placeholder-white/25 focus:border-emerald-400 focus:outline-none" />
+    </label>
+    <label class="block">
+      <span class="text-[11px] font-medium uppercase tracking-wider text-white/50">Week</span>
+      <input id="exp-week" type="text" value="W01" placeholder="W01" class="mt-1 w-full rounded-xl border border-white/10 bg-black/30 px-3 py-2 text-sm text-white placeholder-white/25 focus:border-emerald-400 focus:outline-none" />
+    </label>
+    <label class="block">
+      <span class="text-[11px] font-medium uppercase tracking-wider text-white/50">Asignatura (slug)</span>
+      <input id="exp-asignatura" type="text" value={defaultAsignatura} placeholder="matematicas" class="mt-1 w-full rounded-xl border border-white/10 bg-black/30 px-3 py-2 text-sm text-white placeholder-white/25 focus:border-emerald-400 focus:outline-none" />
+    </label>
+    <label class="block col-span-2 md:col-span-2">
+      <span class="text-[11px] font-medium uppercase tracking-wider text-white/50">Tema (kebab-case ASCII)</span>
+      <input id="exp-tema" type="text" value="tema-generado" placeholder="numeros-enteros" class="mt-1 w-full rounded-xl border border-white/10 bg-black/30 px-3 py-2 text-sm text-white placeholder-white/25 focus:border-emerald-400 focus:outline-none" />
+    </label>
+  </div>
+
+  <div class="mt-4 flex flex-wrap items-center gap-3">
+    <button id="btn-export" type="button" class="inline-flex items-center gap-2 rounded-xl bg-emerald-500 px-5 py-2.5 text-sm font-bold text-black hover:bg-emerald-400 transition disabled:opacity-40 disabled:cursor-not-allowed">
+      <span>⬇</span> Exportar .md
+    </button>
+    <button id="btn-copy" type="button" class="rounded-xl border border-white/10 bg-white/5 px-4 py-2.5 text-sm font-semibold text-white/80 hover:bg-white/10">Copiar al portapapeles</button>
+    <span id="export-status" class="text-xs text-white/50"></span>
+  </div>
+
+  <details class="mt-4 rounded-xl border border-white/5 bg-black/20 p-3">
+    <summary class="cursor-pointer text-xs font-semibold text-white/60">Vista previa (frontmatter + 1ra pregunta)</summary>
+    <pre id="export-preview" class="mt-3 max-h-72 overflow-auto whitespace-pre-wrap break-words rounded-lg bg-black/40 p-3 text-[11px] leading-relaxed text-white/60"></pre>
+  </details>
+
+  <p class="mt-3 text-[11px] leading-relaxed text-white/35">Archivo: <code id="export-filename" class="text-white/60">—</code> · Se descarga localmente, no se guarda en <code>questions_data/</code>.</p>
+</div>
+
+<script>
+  import { generateBundleMarkdown, buildBundleFileName } from '../../lib/studio/bundle-export';
+
+  const countryEl = document.getElementById('exp-country') as HTMLSelectElement | null;
+  const gradoEl = document.getElementById('exp-grado') as HTMLInputElement | null;
+  const weekEl = document.getElementById('exp-week') as HTMLInputElement | null;
+  const asigEl = document.getElementById('exp-asignatura') as HTMLInputElement | null;
+  const temaEl = document.getElementById('exp-tema') as HTMLInputElement | null;
+  const btnExport = document.getElementById('btn-export') as HTMLButtonElement | null;
+  const btnCopy = document.getElementById('btn-copy') as HTMLButtonElement | null;
+  const statusEl = document.getElementById('export-status') as HTMLElement | null;
+  const previewEl = document.getElementById('export-preview') as HTMLElement | null;
+  const filenameEl = document.getElementById('export-filename') as HTMLElement | null;
+
+  function currentMeta() {
+    const sel = countryEl?.selectedOptions?.[0] as HTMLOptionElement | undefined;
+    const code = sel?.dataset.code || 'CO';
+    const country = (countryEl?.value || 'colombia').toLowerCase();
+    const gradoRaw = (gradoEl?.value || '6').trim().toUpperCase();
+    const grado: any = gradoRaw === '3EM' ? '3EM' : (Number(gradoRaw.replace(/\D/g,'')) || 6);
+    return {
+      country,
+      countryCode: code,
+      grado,
+      asignatura: (asigEl?.value || 'matematicas').trim().toLowerCase() || 'matematicas',
+      tema: (temaEl?.value || 'tema-generado').trim() || 'tema-generado',
+      week: (weekEl?.value || 'W01').trim().toUpperCase() || 'W01',
+    };
+  }
+
+  function getQuestions(): any[] {
+    // @ts-ignore
+    const fn = window.__STUDIO_GET_QUESTIONS__;
+    if (typeof fn === 'function') return fn() || [];
+    // @ts-ignore
+    return window.__STUDIO_QUESTIONS__ || [];
+  }
+
+  function build() {
+    const meta = currentMeta();
+    const qs = getQuestions();
+    if (qs.length === 0) return null;
+    // map to EditableQuestion shape expected by builder
+    const editable = qs.map((q: any, i: number) => ({
+      id: q.id,
+      number: i + 1,
+      statement: q.statement,
+      context: q.context,
+      options: (q.options || []).slice(0,4).map((o: any, oi: number) => ({
+        letter: String.fromCharCode(65+oi),
+        text: o.text,
+        is_correct: !!o.is_correct,
+        feedback: o.feedback || (o.is_correct ? 'Opción correcta.' : 'Distractor.'),
+      })),
+      correct_answer: q.correct_answer || q.options?.find((o:any)=>o.is_correct)?.letter || 'A',
+      explanation: q.explanation,
+      difficulty: q.difficulty || 'D5-D6',
+      bloom: q.bloom,
+      icfesOrEje: q.icfesOrEje,
+    }));
+    return generateBundleMarkdown(meta as any, editable as any);
+  }
+
+  function refreshPreview() {
+    const res = build();
+    if (!res) {
+      if (previewEl) previewEl.textContent = '— sin preguntas —';
+      if (filenameEl) filenameEl.textContent = '—';
+      if (btnExport) btnExport.disabled = true;
+      return;
+    }
+    if (filenameEl) filenameEl.textContent = res.fileName;
+    if (previewEl) {
+      const lines = res.content.split('\n');
+      // show frontmatter + first question (up to 90 lines)
+      previewEl.textContent = lines.slice(0, 95).join('\n') + (lines.length > 95 ? '\n... (ver archivo completo al descargar)' : '');
+    }
+    if (btnExport) btnExport.disabled = false;
+    if (statusEl) statusEl.textContent = `${res.content.split('\n').length} líneas · ${res.fileName}`;
+  }
+
+  function doDownload() {
+    const res = build();
+    if (!res) {
+      if (statusEl) statusEl.textContent = 'No hay preguntas para exportar.';
+      return;
+    }
+    const blob = new Blob([res.content], { type: 'text/markdown;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = res.fileName;
+    document.body.appendChild(a); a.click();
+    setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 900);
+    if (statusEl) statusEl.textContent = `✓ Descargado ${res.fileName}`;
+  }
+
+  async function doCopy() {
+    const res = build();
+    if (!res) return;
+    try {
+      await navigator.clipboard.writeText(res.content);
+      if (statusEl) statusEl.textContent = '✓ Copiado al portapapeles';
+    } catch {
+      if (statusEl) statusEl.textContent = 'No se pudo copiar — usa Exportar .md';
+    }
+  }
+
+  btnExport?.addEventListener('click', doDownload);
+  btnCopy?.addEventListener('click', doCopy);
+  [countryEl, gradoEl, weekEl, asigEl, temaEl].forEach((el) => {
+    el?.addEventListener('input', refreshPreview);
+    el?.addEventListener('change', refreshPreview);
+  });
+  window.addEventListener('studio:questions-updated', refreshPreview);
+  window.addEventListener('studio:pdf-selected', refreshPreview);
+  // initial
+  refreshPreview();
+  // expose for E2E
+  // @ts-ignore
+  window.__STUDIO_BUILD_MD__ = build;
+  // @ts-ignore
+  window.__STUDIO_GET_META__ = currentMeta;
+</script>
