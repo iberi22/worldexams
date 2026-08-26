@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -23,7 +25,7 @@ This bundle explores the impact of consumerism and advertising in modern society
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -44,7 +46,7 @@ Usamos el Presente Perfecto (*has become*) para describir situaciones que han ca
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -66,7 +68,7 @@ El Presente Perfecto Simple se utiliza para indicar cuántas veces se ha realiza
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Lingüística
@@ -87,7 +89,7 @@ El Presente Perfecto Continuo (*has been working*) se emplea para resaltar la du
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Pragmática
@@ -108,7 +110,7 @@ Para acciones repetitivas o continuas que han ocurrido durante un tiempo prolong
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Lingüística
@@ -129,7 +131,7 @@ El uso de *since* con el Presente Perfecto Continuo permite conectar un punto de
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sociolingüística
@@ -150,7 +152,7 @@ Many consumers in Bogotá ________ more attention to the ethical origin of produ
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Lingüística
@@ -172,7 +174,7 @@ Esta pregunta evalúa el contraste: usamos el continuo para preguntar por la dur
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Pragmática
@@ -193,7 +195,7 @@ El Presente Perfecto Continuo se utiliza para acciones que comenzaron en el pasa
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Sociolingüística
@@ -214,7 +216,7 @@ Usamos el Presente Perfecto Simple para describir un estado presente que es el r
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Lingüística
@@ -236,7 +238,7 @@ Ciertos verbos que indican un logro o descubrimiento puntual, como *find*, se ut
 
 ---
 
-## Question 11 [D10]
+## Question 11 [D9-D10]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Pragmática
@@ -261,7 +263,7 @@ A nivel B2, es crucial distinguir entre la completitud (Simple) y la continuidad
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** CO-ING-9-2026-W01-consumer-society-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Sociolingüística

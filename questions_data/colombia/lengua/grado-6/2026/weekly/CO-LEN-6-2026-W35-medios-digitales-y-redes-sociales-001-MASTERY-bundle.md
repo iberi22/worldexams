@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ Las redes sociales son plataformas de comunicación donde el usuario deja de ser
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ El hipertexto es la base de la lectura digital, permitiendo que el conocimiento 
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
@@ -86,7 +88,7 @@ Cada medio digital tiene una "arquitectura" que favorece ciertos tipos de mensaj
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -107,7 +109,7 @@ En la comunicación digital, la falta de lenguaje no verbal (gestos, tono de voz
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -128,7 +130,7 @@ La alfabetización digital implica saber filtrar la información, reconociendo q
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -149,7 +151,7 @@ El meme se ha convertido en un lenguaje digital poderoso para la sátira, la cr�
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -170,7 +172,7 @@ La conciencia sobre la huella digital es vital para la privacidad. Los estudiant
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -191,7 +193,7 @@ La ética digital implica el respeto por los demás en los entornos virtuales. E
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -212,7 +214,7 @@ El buen uso de los medios digitales potencia la participación democrática, per
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W35-medios-digitales-y-redes-sociales-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)

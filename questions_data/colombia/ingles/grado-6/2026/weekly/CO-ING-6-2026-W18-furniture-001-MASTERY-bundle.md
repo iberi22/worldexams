@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 
 **ID:** `CO-ING-6-2026-W18-furniture-001-v1`
 **Bloom:** Remember
@@ -44,7 +46,7 @@ This question evaluates the student's ability to remember the topic of Furniture
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 
 **ID:** `CO-ING-6-2026-W18-furniture-002-v1`
 **Bloom:** Remember
@@ -66,7 +68,7 @@ This question evaluates the student's ability to remember the topic of Furniture
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 
 **ID:** `CO-ING-6-2026-W18-furniture-003-v1`
 **Bloom:** Understand
@@ -88,7 +90,7 @@ This question evaluates the student's ability to understand the topic of Furnitu
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 
 **ID:** `CO-ING-6-2026-W18-furniture-004-v1`
 **Bloom:** Understand
@@ -110,7 +112,7 @@ This question evaluates the student's ability to understand the topic of Furnitu
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 
 **ID:** `CO-ING-6-2026-W18-furniture-005-v1`
 **Bloom:** Apply
@@ -132,7 +134,7 @@ This question evaluates the student's ability to apply the topic of Furniture an
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 
 **ID:** `CO-ING-6-2026-W18-furniture-006-v1`
 **Bloom:** Apply
@@ -154,7 +156,7 @@ This question evaluates the student's ability to apply the topic of Furniture an
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 
 **ID:** `CO-ING-6-2026-W18-furniture-007-v1`
 **Bloom:** Apply
@@ -176,7 +178,7 @@ This question evaluates the student's ability to apply the topic of Furniture an
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 
 **ID:** `CO-ING-6-2026-W18-furniture-008-v1`
 **Bloom:** Analyze
@@ -198,7 +200,7 @@ This question evaluates the student's ability to analyze the topic of Furniture 
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 
 **ID:** `CO-ING-6-2026-W18-furniture-009-v1`
 **Bloom:** Analyze
@@ -220,7 +222,7 @@ This question evaluates the student's ability to analyze the topic of Furniture 
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 
 **ID:** `CO-ING-6-2026-W18-furniture-010-v1`
 **Bloom:** Evaluate

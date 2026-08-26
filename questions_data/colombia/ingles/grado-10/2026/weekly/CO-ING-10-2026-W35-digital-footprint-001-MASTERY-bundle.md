@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -22,7 +24,7 @@ This bundle explores the impact of our online actions using B2-level grammar, fo
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Part 4 - Grammatical Cloze
@@ -43,7 +45,7 @@ This bundle explores the impact of our online actions using B2-level grammar, fo
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Part 4 - Grammatical Cloze
@@ -64,7 +66,7 @@ Non-defining relative clauses use 'which' (never 'that') to provide extra inform
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Part 2 - Lexical Knowledge
@@ -85,7 +87,7 @@ Non-defining relative clauses use 'which' (never 'that') to provide extra inform
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Part 7 - Reading Comprehension
@@ -106,7 +108,7 @@ Non-defining relative clauses use 'which' (never 'that') to provide extra inform
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Part 4 - Grammatical Cloze
@@ -127,7 +129,7 @@ Non-defining relative clauses use 'which' (never 'that') to provide extra inform
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Part 6 - Reading Comprehension
@@ -148,7 +150,7 @@ Using 'which' in a non-defining clause to explain the purpose of a legal measure
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Part 4 - Grammatical Cloze
@@ -169,7 +171,7 @@ Using 'which' in a non-defining clause to explain the purpose of a legal measure
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Part 7 - Reading Comprehension
@@ -190,7 +192,7 @@ Using 'whose' to link organizations to their core business models.
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Part 6 - Reading Comprehension
@@ -211,7 +213,7 @@ Distinguishing between intentional and passive data using a non-defining relativ
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Part 4 - Grammatical Cloze
@@ -232,7 +234,7 @@ Advanced B2 structure: Using a preposition before a relative pronoun (to which) 
 
 ---
 
-## Question 11 [D9]
+## Question 11 [D9-D10]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Part 7 - Reading Comprehension
@@ -253,7 +255,7 @@ Correct use of 'whom' in a formal non-defining relative clause where the person 
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** `CO-ING-10-2026-W35-digital-footprint-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Part 6 - Reading Comprehension

@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -22,7 +24,7 @@ This bundle provides a cumulative review of Period 2 (W11-W19), focusing on cond
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Part 4 - Grammatical Cloze
@@ -43,7 +45,7 @@ Review of Mixed Conditionals: If + Past Perfect, Would + Verb.
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Part 4 - Grammatical Cloze
@@ -64,7 +66,7 @@ Review of 'Wish' for present situations.
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Part 2 - Lexical Knowledge
@@ -85,7 +87,7 @@ Review of Future Perfect Passive for completion by a future date.
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Part 7 - Reading Comprehension
@@ -106,7 +108,7 @@ Review of Modals of Deduction (negative).
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Part 4 - Grammatical Cloze
@@ -127,7 +129,7 @@ Review of Third Conditional for past hypothetical events.
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Part 6 - Reading Comprehension
@@ -148,7 +150,7 @@ Review of 'Wish' + 'would' for complaints/behavioral changes.
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Part 4 - Grammatical Cloze
@@ -169,7 +171,7 @@ Review of Future Continuous for future life projections.
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Part 7 - Reading Comprehension
@@ -190,7 +192,7 @@ Review of formal Inversion (Were it not for) in hypothetical scenarios.
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Part 6 - Reading Comprehension
@@ -211,7 +213,7 @@ Review of 'Must have' for logical deduction about the past.
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Part 4 - Grammatical Cloze
@@ -232,7 +234,7 @@ Review of 'Should' inversion in the First Conditional.
 
 ---
 
-## Question 11 [D9]
+## Question 11 [D9-D10]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Part 7 - Reading Comprehension
@@ -253,7 +255,7 @@ Review of Mixed Conditionals in common travel scenarios.
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** `CO-ING-10-2026-W20-review-p2-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Part 6 - Reading Comprehension

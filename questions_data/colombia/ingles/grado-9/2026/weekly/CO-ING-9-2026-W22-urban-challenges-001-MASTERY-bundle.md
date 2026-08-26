@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -23,7 +25,7 @@ This bundle explores the problems and solutions of modern cities, focusing on th
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -48,7 +50,7 @@ Usamos *must have* para hacer una deducción lógica sobre algo que probablement
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -73,7 +75,7 @@ The city ________ invested more in the metro years ago.
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Lingüística
@@ -98,7 +100,7 @@ Usamos *might have* cuando mencionamos una de las posibles razones en el pasado.
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Pragmática
@@ -124,7 +126,7 @@ Usamos *might have* cuando mencionamos una de las posibles razones en el pasado.
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Lingüística
@@ -149,7 +151,7 @@ Para criticar una decisión tomada en el pasado, usamos *shouldn't have*.
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sociolingüística
@@ -174,7 +176,7 @@ If they had asked, they ________ found a better solution.
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Lingüística
@@ -199,7 +201,7 @@ Identificar la intención comunicativa de cada modal es fundamental.
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Pragmática
@@ -224,7 +226,7 @@ Identificar la intención comunicativa de cada modal es fundamental.
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Sociolingüística
@@ -249,7 +251,7 @@ Usamos *must have* cuando las pistas actuales llevan a una conclusión lógica.
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Lingüística
@@ -275,7 +277,7 @@ La estructura es fija: *modal + have + past participle*.
 
 ---
 
-## Question 11 [D10]
+## Question 11 [D9-D10]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Pragmática
@@ -300,7 +302,7 @@ Analiza fallos sistémicos mediante el uso de modales de pasado.
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Sociolingüística

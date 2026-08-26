@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -23,7 +25,7 @@ This bundle explores critical thinking and problem-solving, focusing on Third Co
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -48,7 +50,7 @@ Usamos el Tercer Condicional para hablar de situaciones hipotéticas en el pasad
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -73,7 +75,7 @@ En la cláusula de condición del Tercer Condicional, el tiempo gramatical reque
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Lingüística
@@ -98,7 +100,7 @@ Un "Mixed Conditional" conecta un hecho del pasado con sus consecuencias en el p
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Pragmática
@@ -123,7 +125,7 @@ Para situaciones completamente en el pasado, usamos el Tercer Condicional.
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Lingüística
@@ -148,7 +150,7 @@ Cuando la condición es un estado permanente, usamos el pasado simple en la clá
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sociolingüística
@@ -173,7 +175,7 @@ Esta estructura es común para expresar remordimiento sobre algo que pasó en el
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Lingüística
@@ -198,7 +200,7 @@ El Tercer Condicional se usa exclusivamente para situaciones que ya pasaron y no
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Pragmática
@@ -224,7 +226,7 @@ Los condicionales mixtos requieren un análisis de la realidad del hablante.
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Sociolingüística
@@ -249,7 +251,7 @@ El Tercer Condicional se usa frecuentemente para debatir responsabilidades pasad
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Lingüística
@@ -275,7 +277,7 @@ Nunca se coloca *would have* en la cláusula que contiene el *if*.
 
 ---
 
-## Question 11 [D10]
+## Question 11 [D9-D10]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Pragmática
@@ -300,7 +302,7 @@ El uso del Condicional Mixto es la herramienta lingüística más precisa para e
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Sociolingüística

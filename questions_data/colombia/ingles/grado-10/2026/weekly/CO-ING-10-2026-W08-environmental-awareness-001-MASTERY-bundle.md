@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -22,7 +24,7 @@ This bundle explores environmental issues, focusing on Reported Speech (Statemen
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Part 4 - Grammatical Cloze
@@ -43,7 +45,7 @@ In Reported Speech, verbs in the statement usually shift one tense back (backshi
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Part 4 - Grammatical Cloze
@@ -64,7 +66,7 @@ In Reported Speech, verbs in the statement usually shift one tense back (backshi
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Part 2 - Lexical Knowledge
@@ -85,7 +87,7 @@ Present Perfect shifts to Past Perfect in reported speech.
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Part 7 - Reading Comprehension
@@ -106,7 +108,7 @@ Past Simple and Present Perfect both often shift to Past Perfect in reported spe
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Part 4 - Grammatical Cloze
@@ -127,7 +129,7 @@ Present simple shifts to past simple. Time markers also change (now becomes then
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Part 6 - Reading Comprehension
@@ -148,7 +150,7 @@ Present Perfect Continuous shifts to Past Perfect Continuous in reported speech.
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Part 4 - Grammatical Cloze
@@ -169,7 +171,7 @@ Some modal verbs like 'should' and 'might' do not change in reported speech.
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Part 7 - Reading Comprehension
@@ -190,7 +192,7 @@ Specific time markers change: 'last month' becomes 'the previous month'.
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Part 6 - Reading Comprehension
@@ -211,7 +213,7 @@ Using the Past Perfect in reported speech to distance the reported action from t
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Part 4 - Grammatical Cloze
@@ -232,7 +234,7 @@ Backshifting in conditional sentences within reported speech.
 
 ---
 
-## Question 11 [D9]
+## Question 11 [D9-D10]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Part 7 - Reading Comprehension
@@ -253,7 +255,7 @@ B2 complexity: The use of the subjunctive in reported speech after verbs like 's
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** `CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Part 6 - Reading Comprehension

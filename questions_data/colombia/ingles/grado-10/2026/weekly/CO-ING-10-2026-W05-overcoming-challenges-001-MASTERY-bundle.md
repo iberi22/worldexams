@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -22,7 +24,7 @@ This bundle focuses on narratives of resilience, using B2-level grammar to contr
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v1`
 **Bloom:** Understand
 **ICFES:** Part 4 - Grammatical Cloze
@@ -43,7 +45,7 @@ Past Perfect is used to describe an action that happened before another action i
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v2`
 **Bloom:** Apply
 **ICFES:** Part 4 - Grammatical Cloze
@@ -64,7 +66,7 @@ Use of Past Perfect Continuous with "by the time" to show duration before a past
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v3`
 **Bloom:** Remember
 **ICFES:** Part 2 - Lexical Knowledge
@@ -85,7 +87,7 @@ Past Perfect for life experiences prior to a specific point in the past.
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v4`
 **Bloom:** Analyze
 **ICFES:** Part 7 - Reading Comprehension
@@ -106,7 +108,7 @@ Establishing a clear timeline of events in a biography using past tenses.
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v5`
 **Bloom:** Understand
 **ICFES:** Part 4 - Grammatical Cloze
@@ -127,7 +129,7 @@ Using "already" with the Past Perfect to emphasize completion before another eve
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v6`
 **Bloom:** Apply
 **ICFES:** Part 6 - Reading Comprehension
@@ -148,7 +150,7 @@ Past Perfect Continuous for a continuous activity that preceded a single past ac
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v7`
 **Bloom:** Analyze
 **ICFES:** Part 4 - Grammatical Cloze
@@ -169,7 +171,7 @@ Using the Past Perfect to describe a mental state that changed after a past even
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v8`
 **Bloom:** Analyze
 **ICFES:** Part 7 - Reading Comprehension
@@ -190,7 +192,7 @@ Describing a past state (Past Perfect) that was ended by a past intervention.
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v9`
 **Bloom:** Evaluate
 **ICFES:** Part 6 - Reading Comprehension
@@ -211,7 +213,7 @@ Using the Past Perfect to describe awareness before a major event.
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v10`
 **Bloom:** Analyze
 **ICFES:** Part 4 - Grammatical Cloze
@@ -232,7 +234,7 @@ Advanced B2 structure: Negative inversion with Past Perfect tenses.
 
 ---
 
-## Question 11 [D9]
+## Question 11 [D9-D10]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v11`
 **Bloom:** Evaluate
 **ICFES:** Part 7 - Reading Comprehension
@@ -253,7 +255,7 @@ Backshifting in reported speech and the use of the Past Perfect.
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** `CO-ING-10-2026-W05-overcoming-challenges-001-MASTERY-v12`
 **Bloom:** Evaluate
 **ICFES:** Part 6 - Reading Comprehension
