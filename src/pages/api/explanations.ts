@@ -1,0 +1,1 @@
+../../saberparatodos/src/pages/api/explanations.ts
