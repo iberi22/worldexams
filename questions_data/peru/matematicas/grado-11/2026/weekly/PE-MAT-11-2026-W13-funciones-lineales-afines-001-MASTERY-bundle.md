@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -42,7 +44,7 @@ En la ecuación de la recta $y = mx + b$, el término independiente $b$ es la or
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v2
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -67,7 +69,7 @@ Se modela la situación como una función lineal afín donde la pendiente es el 
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -92,7 +94,7 @@ Sustituimos el valor dado de $x$ en la regla de correspondencia: $\frac{3}{2}(6)
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -117,7 +119,7 @@ La pendiente $m$ se define como la razón entre el cambio vertical y el cambio h
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -142,7 +144,7 @@ Planteamos una ecuación de primer grado igualando la función al costo total: $
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -167,7 +169,7 @@ Dos rectas no verticales son paralelas si y solo si sus pendientes son iguales. 
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -192,7 +194,7 @@ Definimos la función $V(t) = 1200 - 30t$. La cuarta parte de 1200 es 300. Resol
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -217,7 +219,7 @@ Con $m > 0$, la función es creciente. Con $b < 0$, corta al eje $Y$ abajo del o
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -242,7 +244,7 @@ La pendiente de una recta perpendicular es la opuesta y recíproca de la origina
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -267,7 +269,7 @@ La pendiente representa la variación de la temperatura por unidad de altura (1 
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -295,7 +297,7 @@ Igualamos las dos funciones de costo $C_A(x) = C_B(x)$ para encontrar el valor d
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -320,7 +322,7 @@ El dominio es el conjunto de valores que puede tomar el tiempo $t$. Comienza en 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -345,7 +347,7 @@ Un desplazamiento horizontal de $h$ unidades se representa como $f(x - h)$. Para
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -370,7 +372,7 @@ Los interceptos con los ejes determinan la base y la altura del triángulo rect�
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v15
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -395,7 +397,7 @@ Modelamos una función por partes simplificada. Para el tramo superior a 10, el 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -420,7 +422,7 @@ La pendiente $m$ de una recta es igual a la tangente de su ángulo de inclinaci�
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -445,7 +447,7 @@ Primero calculamos la pendiente de la recta dada por los puntos ($m = 2$). Luego
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -470,7 +472,7 @@ Expresamos la función en su forma general $Ax + By + C = 0$. Luego aplicamos la
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -495,7 +497,7 @@ Primero determinamos la tasa de producción por trabajador (pendiente $m = 4$). 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio

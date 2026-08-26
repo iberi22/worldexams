@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ A calling is a strong urge toward a particular way of life or career; a vocation
 'Calling' is a common term for a job that a person feels destined or deeply motivated to do.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ If I could choose any career, I would become an astronaut and explore the moon.
 The second conditional 'if + past simple, would + verb' is used to talk about an imaginary present or future.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ I wish I had pursued my passion for music instead of choosing a more stable job.
 The structure 'wish + past perfect' is used to express regret about a past action or situation.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Job satisfaction is often linked to a sense of purpose and the ability to utiliz
 'Purpose' refers to the meaningful motivation behind one's professional activities.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The concept of a "dream job" is subjective, as what one person finds fulfilling,
 'Subjective' correctly identifies that the value of a job depends on the individual's personal perspective.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ An architect is a person who designs buildings and in many cases also supervises
 'Architect' is the specific title for a professional who designs buildings.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ By the time she is thirty, she hopes to have established her own photography stu
 The perfect infinitive 'to have established' indicates that the goal will be a completed achievement by the specified time.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Working in emergency medicine can be incredibly rewarding, although it is often 
 'Rewarding' is the appropriate adjective for a job that provides a deep sense of personal satisfaction.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ He said that he was going to apply for his dream job at the tech company.
 In reported speech, we change 'is going to' to 'was going to' when the reporting verb is in the past.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The article suggests that the obsession with "hustle culture" can lead people to
 'Sacrifice' accurately describes the act of giving up something important (health) to achieve something else (career).
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A cover letter is a document sent with your resume to provide additional informa
 'Cover letter' is the professional term for the introductory letter sent with a resume.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ Public speaking is a skill that takes years of practice to master.
 The infinitive 'to master' is used to express the goal of the practice.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Many people choose a career path that aligns with their personal values and beli
 'Aligns with' is the standard phrasal verb for showing harmony or agreement between two things.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If she had taken that internship last year, she would have more opportunities no
 The mixed conditional (if + past perfect, would + verb) connects a past hypothetical with a present situation.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The article concludes that it is never too late to pivot and pursue a new career
 'Pivot' is a popular professional term for making a significant change in career direction.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ An entrepreneur is a person who sets up a business, taking on financial risks in
 'Entrepreneur' is the specific term for someone who starts and manages their own business.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ It is recommended that you attend workshops to stay current in your field.
 The base form 'attend' is used in the subjunctive mood after verbs like 'recommend'.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ A visionary leader is someone who has clear ideas about what should happen or be
 'Visionary' is the appropriate adjective for a leader with a strong, forward-thinking plan.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ By next year, he will have been working as a pilot for a decade.
 The future perfect continuous 'will have been working' describes the duration of an action at a future time.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

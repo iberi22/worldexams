@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -42,7 +44,7 @@ Para cualquier base $a$, al evaluar $f(0) = a^0 = 1$. Por lo tanto, el punto $(0
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -67,7 +69,7 @@ Cuando una magnitud aumenta o disminuye mediante un factor constante por unidad 
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -92,7 +94,7 @@ Siguiendo la jerarquía de operaciones, primero resolvemos la potencia ($3^3 = 2
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -117,7 +119,7 @@ Una función exponencial es creciente si $a > 1$ y decreciente si la base se enc
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -142,7 +144,7 @@ El interés compuesto se modela mediante la función $M = P(1 + r)^t$, donde $P$
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -167,7 +169,7 @@ El rango de $a^x$ es $\langle 0, +\infty\rangle$. Al aplicar una traslación ver
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -192,7 +194,7 @@ Expresamos ambos miembros con la misma base: $2^{x+1} = 2^5$. Por la propiedad d
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -217,7 +219,7 @@ Para modelos de vida media, la base es 0.5 y el exponente es el tiempo transcurr
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -242,7 +244,7 @@ Llevamos ambas bases a una base común (3). $9 = 3^2$ y $27 = 3^3$. Aplicamos po
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -267,7 +269,7 @@ El término $(x+3)$ produce una traslación horizontal de 3 unidades a la izquie
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -292,7 +294,7 @@ En la forma estándar de crecimiento exponencial continuo $P = P_0 e^{rt}$, el c
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -317,7 +319,7 @@ Realizamos el cambio de variable $u = 2^x$, lo que transforma la ecuación expon
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -342,7 +344,7 @@ Aunque $3^x$ crece más rápido que $2^x$ para valores positivos de $x$, para va
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -367,7 +369,7 @@ La depreciación es un crecimiento exponencial negativo. El factor de retención
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -392,7 +394,7 @@ Planteamos un sistema de dos ecuaciones con dos incógnitas ($C$ y $a$). Dividie
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -417,7 +419,7 @@ Evaluar la función inversa en un punto $y$ equivale a buscar qué valor de $x$ 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -442,7 +444,7 @@ Analizamos el comportamiento de la función cuando $x \to +\infty$. Dividimos nu
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -468,7 +470,7 @@ Usamos el método de reducción sumando las dos ecuaciones para eliminar el tér
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -493,7 +495,7 @@ Como la base $e$ es mayor que 1, la función $e^u$ es creciente respecto a $u$. 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W15-funcion-exponencial-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio

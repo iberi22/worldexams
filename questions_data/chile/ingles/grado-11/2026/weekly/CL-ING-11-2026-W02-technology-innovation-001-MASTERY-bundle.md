@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ The latest breakthrough in smartphone technology includes foldable screens and i
 'Breakthrough' is used to describe a major advance in technology.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ This time next year, many companies will be using artificial intelligence to aut
 The future continuous 'will be using' is appropriate for an action that will be ongoing at a specific future point.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If the internet hadn't been invented, the way we communicate today would be comp
 This is a third conditional sentence about a past event (the invention of the internet) that didn't happen as described.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Self-driving cars must be programmed to make split-second decisions that involve
 The debate around autonomous vehicles frequently centers on the moral or ethical choices they must be programmed to make.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ The primary concern regarding the widespread adoption of IoT devices is the vuln
 In cybersecurity, 'vulnerability' is the state of being susceptible to data breaches.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ This new application is designed to streamline the process of booking flights an
 'Streamline' is a common verb in business and technology contexts for improving efficiency.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ If scientists found a way to produce clean energy at no cost, poverty would sign
 The second conditional uses 'if + past simple' to discuss a hypothetical situation.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -182,7 +184,7 @@ Computers have become significantly smaller and faster over the last few decades
 'Have become' is used because the process of computers getting smaller and faster has been occurring up until now.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Vocabulary
@@ -202,7 +204,7 @@ Algorithms are used to curate content based on users' previous interactions and 
 'Curate' describes the process of selecting and presenting content tailored to a specific audience or individual.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ The author suggests that the dominance of a few large companies in the tech sect
 'Stifle' is the correct term for suppressing or preventing the growth of innovation.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Please update your password regularly to ensure the security of your account.
 'Update' is the standard term for changing a password to a new one.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By 2030, many jobs currently performed by humans will have been taken over by ro
 The future perfect passive 'will have been taken over' indicates a completed state at a specific future time.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Virtual Reality provides an immersive experience that allows users to feel as if
 'Immersive' is the key adjective used to describe high-quality VR experiences.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If I had studied computer science in college, I would be working for a tech comp
 The mixed conditional (if + past perfect, would + verb) connects a past hypothetical action with a present result.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The report concludes that without significant investment in infrastructure, the 
 'Investment' is the necessary action to build or upgrade infrastructure.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ Beware of phishing emails that try to trick you into revealing your personal inf
 'Phishing' is the specific term for this type of cybercrime.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ Electric vehicles are significantly more efficient than internal combustion engi
 The adverb 'significantly' modifies the adjective 'efficient'.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Smartwatches can monitor your heart rate and sleep patterns to provide health in
 'Monitor' is the precise verb for tracking data over time.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The project would have been successful if the team had better communication from
 The third conditional 'would have been' describes a past outcome that didn't happen because a condition wasn't met.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

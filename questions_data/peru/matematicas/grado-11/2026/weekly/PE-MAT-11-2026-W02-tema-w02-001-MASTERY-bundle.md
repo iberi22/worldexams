@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "CNEB + Admisión UNMSM/UNI"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -42,7 +44,7 @@ Para hallar el valor de $x$, restamos 2 a ambos lados de la ecuación: $x = 6 - 
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -67,7 +69,7 @@ Por definición, el elemento neutro multiplicativo en los reales es el número 1
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -92,7 +94,7 @@ Para resolver la ecuación, primero eliminamos la constante sumada aplicando la 
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -117,7 +119,7 @@ El descuento es de 50\% de S/ 200, lo cual equivale a S/ 100.00. Restando esto d
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -142,7 +144,7 @@ Por leyes de exponentes de la división de bases iguales, restamos el exponente 
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -167,7 +169,7 @@ Dividimos ambos miembros de la inecuación lineal entre el número positivo 4: $
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -192,7 +194,7 @@ El gasto total es la suma de ambos rubros: 10 + 20 = 30 soles. El vuelto es la d
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -217,7 +219,7 @@ Sumamos 5 a ambos miembros de la inecuación lineal: $3x \ge 18$. Dividimos entr
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -242,7 +244,7 @@ La diferencia es $4 - (10) = -6$. El valor absoluto de este resultado negativo e
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -267,7 +269,7 @@ Multiplicamos por 2 en ambos lados de la ecuación de proporcionalidad para desp
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -292,7 +294,7 @@ La suma de coeficientes se halla evaluando el polinomio para la variable en 1: $
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -317,7 +319,7 @@ El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el 
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -342,7 +344,7 @@ Para que la función racional esté definida en el campo real, el denominador de
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -367,7 +369,7 @@ Sustituimos el valor de $y = 3$ en el polinomio cuadrático: P(3) = 3^2 - 6(3) +
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -394,7 +396,7 @@ Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar 
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -419,7 +421,7 @@ El discriminante de una ecuación cuadrática is b^2 - 4ac. Aquí es 49 - 4(10) 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -444,7 +446,7 @@ Por definición del inverso multiplicativo, el producto de un número no nulo y 
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -469,7 +471,7 @@ Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio
@@ -494,7 +496,7 @@ Sean los lados x e y. El perímetro es 2(x+y) = 24 \Rightarrow x+y = 12. El áre
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** PE-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Resuelve problemas de regularidad, equivalencia y cambio

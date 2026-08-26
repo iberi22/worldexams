@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Activism is the policy or action of using vigorous campaigning to bring about po
 'Activism' is the standard term for the efforts made by individuals or groups to achieve social or political goals.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ The civil rights movement had been growing for years before the major legislatio
 The past perfect continuous 'had been growing' emphasizes the long history of development preceding the movement's success.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If people hadn't protested against injustice in the past, we wouldn't have the r
 The third conditional allows us to reflect on the historical importance of collective action.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ A grassroots movement is one that uses the people in a given district, region, o
 'Grassroots' is the specific term for movements that begin at the community level rather than with established leaders.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Civil disobedience is the active, professed refusal of a citizen to obey certain
 'Refusal' correctly identifies the core action of civil disobedience: the choice to not comply with unjust rules.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ A boycott is a punitive ban that forbids relations with certain groups, cooperat
 'Boycott' is the standard term for collective economic or social refusal as a protest tactic.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The importance of mental health awareness is being highlighted by activists acro
 The present continuous passive describes the current, active focus of the movement.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Solidarity is unity or agreement of feeling or action, especially among individu
 'Solidarity' describes the collective strength and mutual support within a social movement.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ The historian noted that the movement had achieved its primary objective within 
 In reported speech, we backshift the tense to show the achievement occurred before the historian's observation.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ In reported speech, we backshift the tense to show the achievement occurred befo
 'Pejorative' correctly identifies that 'slacktivism' is a critical, negative label for low-effort activism.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ A rally is a mass meeting of people making a political protest or showing suppor
 'Rally' is the standard term for a large public gathering in support of a movement.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ By the end of the decade, a new bill will have been signed to protect indigenous
 The future perfect passive indicates that the signing of the bill will be a finished achievement by the stated deadline.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Effective advocacy requires clear communication and the ability to build broad c
 'Coalitions' is the specific political term for the alliances formed between different groups to achieve a common goal.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If more people joined the cause, the movement would have a greater impact on pol
 The second conditional describes the likely result of a hypothetical increase in participation.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that systemic change is only possible when individual actio
 'Amplified' correctly identifies how social movements increase the power of individual efforts through group action.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ An activist is a person who campaigns to bring about political or social change.
 'Activist' is the general term for someone who takes action to support a social or political cause.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ Many citizens wish there were more transparency in government decision-making.
 The 'wish + past' structure expresses a desire for the current situation to be different.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Non-violent resistance is the practice of achieving goals through symbolic prote
 'Non-violent resistance' is the philosophy of using peaceful means to achieve social change.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The leader declared that the movement had reached a critical turning point.
 In reported speech, we backshift the tense of the original statement to show it was said in the past.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W35-social-movements-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension

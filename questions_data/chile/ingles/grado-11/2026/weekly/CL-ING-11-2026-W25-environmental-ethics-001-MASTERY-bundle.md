@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "Bases Curriculares Chile + CEFR B2"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -22,7 +24,7 @@ creador: "Jules-Agent"
 **20 questions | Ingles | Grade 11**
 
 ---
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v1`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -42,7 +44,7 @@ Anthropocentrism is the belief that human beings are the most important entity i
 'Anthropocentrism' is the philosophical term for a human-centered world view.
 
 ---
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v2`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -62,7 +64,7 @@ National parks were created to preserve wilderness areas for future generations.
 The past simple passive 'were created' describes the founding of national parks in the past.
 
 ---
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v3`
 **Bloom:** Apply
 **EJE:** Grammar
@@ -82,7 +84,7 @@ If we valued nature more for its own sake, we would protect it more effectively.
 The second conditional 'if + past simple' describes how a hypothetical shift in values would lead to a different result.
 
 ---
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v4`
 **Bloom:** Analyze
 **EJE:** Reading Comprehension
@@ -102,7 +104,7 @@ Intergenerational justice involves the ethical obligation to leave a healthy pla
 'Obligation' is the key noun for describing the moral duty we have towards future generations.
 
 ---
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v5`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -122,7 +124,7 @@ Environmentalists argue that nature has intrinsic value, meaning it is valuable 
 'Intrinsic' describes value that exists independently of any external use or benefit.
 
 ---
-## Question 6 [D3]
+## Question 6 [D5-D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -142,7 +144,7 @@ Sustainability means meeting our own needs without compromising the ability of f
 'Compromising' is the standard verb used in the Brundtland definition of sustainable development.
 
 ---
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -162,7 +164,7 @@ The rights of animals are increasingly being debated in legal and philosophical 
 The present continuous passive describes a discussion that is currently expanding.
 
 ---
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -182,7 +184,7 @@ Environmental stewardship is the responsible use and protection of the natural e
 'Stewardship' is the specific term for the ethical responsibility to care for and manage the environment.
 
 ---
-## Question 9 [D4]
+## Question 9 [D5-D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v9`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -202,7 +204,7 @@ By the 1970s, the modern environmental movement had gained significant momentum.
 The past perfect 'had gained' indicates that the movement's growth occurred before the start of the decade mentioned.
 
 ---
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v10`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -222,7 +224,7 @@ Speciesism is the assumption of human superiority leading to the exploitation of
 'Superiority' is the core assumption that underlies the ethical critique of speciesism.
 
 ---
-## Question 11 [D3]
+## Question 11 [D7-D8]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v11`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -242,7 +244,7 @@ Ecology is the branch of biology that deals with the relations of organisms to o
 'Ecology' is the specific science focused on the interactions within the natural world.
 
 ---
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v12`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -262,7 +264,7 @@ In the future, it is hoped that "ecocide" will have been recognized as an intern
 The future perfect passive describes a legal milestone that is desired to be a finished fact in the future.
 
 ---
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v13`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -282,7 +284,7 @@ Biodiversity is crucial for ecosystem resilience, as it allows systems to recove
 'Resilience' describes the strength and recovery capacity of a healthy, diverse ecosystem.
 
 ---
-## Question 14 [D4]
+## Question 14 [D7-D8]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v14`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -302,7 +304,7 @@ If we didn't produce so much single-use plastic, our oceans would be much cleane
 The second conditional 'if + past simple' describes the imaginary result of a change in current production habits.
 
 ---
-## Question 15 [D6]
+## Question 15 [D7-D8]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v15`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
@@ -322,7 +324,7 @@ The author concludes that environmental justice requires that no group of people
 'Disproportionate' is the key term for describing the unfair burden placed on certain communities in environmental ethics.
 
 ---
-## Question 16 [D3]
+## Question 16 [D7-D8]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
@@ -342,7 +344,7 @@ A carbon sink is a forest, ocean, or other natural environment viewed in terms o
 'Carbon sink' is the standard environmental term for natural systems that absorb more carbon than they release.
 
 ---
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v17`
 **Bloom:** Understand
 **EJE:** Grammar
@@ -362,7 +364,7 @@ Scientists warned that the loss of biodiversity would have irreversible effects 
 In reported speech, we change 'will' to 'would' when reporting a future prediction made in the past.
 
 ---
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v18`
 **Bloom:** Apply
 **EJE:** Vocabulary
@@ -382,7 +384,7 @@ Sustainable consumption involves using products and services that have a minimal
 'Minimal' correctly describes the goal of sustainability: to reduce environmental impact as much as possible.
 
 ---
-## Question 19 [D4]
+## Question 19 [D9-D10]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v19`
 **Bloom:** Analyze
 **EJE:** Grammar
@@ -402,7 +404,7 @@ The river had been clean for centuries before industrial pollution began to cont
 The past perfect 'had been' establishes the long-term cleanliness of the river prior to its contamination.
 
 ---
-## Question 20 [D6]
+## Question 20 [D9-D10]
 **ID:** `CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v20`
 **Bloom:** Evaluate
 **EJE:** Reading Comprehension
