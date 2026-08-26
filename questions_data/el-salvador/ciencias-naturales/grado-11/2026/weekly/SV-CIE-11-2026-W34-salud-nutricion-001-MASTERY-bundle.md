@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED - PAES El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D4]
+## Question 1 [D3-D4]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v1
 **Bloom:** Understand
 **EJE:** salud nutricion
@@ -44,7 +46,7 @@ creador: "Jules-Agent"
 ### Explicacion Pedagogica
 La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v2
 **Bloom:** Apply
 **EJE:** salud nutricion
@@ -67,7 +69,7 @@ Objeto de 5 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)
 ### Explicacion Pedagogica
 F = ma = 5×5 = 25 N.
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v3
 **Bloom:** Remember
 **EJE:** salud nutricion
@@ -90,7 +92,7 @@ F = ma = 5×5 = 25 N.
 ### Explicacion Pedagogica
 La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
 
-## Question 4 [D5]
+## Question 4 [D3-D4]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v4
 **Bloom:** Analyze
 **EJE:** salud nutricion
@@ -113,7 +115,7 @@ En un experimento, plantas con luz crecen más que sin luz. ¿Variable independi
 ### Explicacion Pedagogica
 La variable independiente es la que manipula el investigador: la luz.
 
-## Question 5 [D3]
+## Question 5 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v5
 **Bloom:** Remember
 **EJE:** salud nutricion
@@ -136,7 +138,7 @@ La variable independiente es la que manipula el investigador: la luz.
 ### Explicacion Pedagogica
 La célula es la unidad estructural y funcional básica de los seres vivos.
 
-## Question 6 [D4]
+## Question 6 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** salud nutricion
@@ -159,7 +161,7 @@ La célula es la unidad estructural y funcional básica de los seres vivos.
 ### Explicacion Pedagogica
 La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
 
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** salud nutricion
@@ -182,7 +184,7 @@ Objeto de 4 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)
 ### Explicacion Pedagogica
 F = ma = 4×3 = 12 N.
 
-## Question 8 [D3]
+## Question 8 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v8
 **Bloom:** Remember
 **EJE:** salud nutricion
@@ -205,7 +207,7 @@ F = ma = 4×3 = 12 N.
 ### Explicacion Pedagogica
 La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** salud nutricion
@@ -228,7 +230,7 @@ En un experimento, plantas con luz crecen más que sin luz. ¿Variable independi
 ### Explicacion Pedagogica
 La variable independiente es la que manipula el investigador: la luz.
 
-## Question 10 [D3]
+## Question 10 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v10
 **Bloom:** Remember
 **EJE:** salud nutricion
@@ -251,7 +253,7 @@ La variable independiente es la que manipula el investigador: la luz.
 ### Explicacion Pedagogica
 La célula es la unidad estructural y funcional básica de los seres vivos.
 
-## Question 11 [D4]
+## Question 11 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v11
 **Bloom:** Understand
 **EJE:** salud nutricion
@@ -274,7 +276,7 @@ La célula es la unidad estructural y funcional básica de los seres vivos.
 ### Explicacion Pedagogica
 La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
 
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** salud nutricion
@@ -297,7 +299,7 @@ Objeto de 6 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)
 ### Explicacion Pedagogica
 F = ma = 6×4 = 24 N.
 
-## Question 13 [D3]
+## Question 13 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v13
 **Bloom:** Remember
 **EJE:** salud nutricion
@@ -320,7 +322,7 @@ F = ma = 6×4 = 24 N.
 ### Explicacion Pedagogica
 La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
 
-## Question 14 [D5]
+## Question 14 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** salud nutricion
@@ -343,7 +345,7 @@ En un experimento, plantas con luz crecen más que sin luz. ¿Variable independi
 ### Explicacion Pedagogica
 La variable independiente es la que manipula el investigador: la luz.
 
-## Question 15 [D3]
+## Question 15 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v15
 **Bloom:** Remember
 **EJE:** salud nutricion
@@ -366,7 +368,7 @@ La variable independiente es la que manipula el investigador: la luz.
 ### Explicacion Pedagogica
 La célula es la unidad estructural y funcional básica de los seres vivos.
 
-## Question 16 [D4]
+## Question 16 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v16
 **Bloom:** Understand
 **EJE:** salud nutricion
@@ -389,7 +391,7 @@ La célula es la unidad estructural y funcional básica de los seres vivos.
 ### Explicacion Pedagogica
 La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
 
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v17
 **Bloom:** Apply
 **EJE:** salud nutricion
@@ -412,7 +414,7 @@ Objeto de 3 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)
 ### Explicacion Pedagogica
 F = ma = 3×3 = 9 N.
 
-## Question 18 [D3]
+## Question 18 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v18
 **Bloom:** Remember
 **EJE:** salud nutricion
@@ -435,7 +437,7 @@ F = ma = 3×3 = 9 N.
 ### Explicacion Pedagogica
 La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
 
-## Question 19 [D5]
+## Question 19 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v19
 **Bloom:** Analyze
 **EJE:** salud nutricion
@@ -458,7 +460,7 @@ En un experimento, plantas con luz crecen más que sin luz. ¿Variable independi
 ### Explicacion Pedagogica
 La variable independiente es la que manipula el investigador: la luz.
 
-## Question 20 [D3]
+## Question 20 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v20
 **Bloom:** Remember
 **EJE:** salud nutricion

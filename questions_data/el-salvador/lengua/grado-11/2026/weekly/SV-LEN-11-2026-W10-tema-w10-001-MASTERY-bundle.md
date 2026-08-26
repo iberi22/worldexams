@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -19,7 +21,7 @@ creador: "Jules-Agent"
 
 # MASTERY Bundle — Lengua: Ortografía y redacción: acentuación, puntuación y conectores (W10)
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v1`
 **Bloom:** Understand
 **EJE:** Gramática
@@ -45,7 +47,7 @@ El dominio de palabras agudas es fundamental para lograr una expresión escrita 
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v2`
 **Bloom:** Apply
 **EJE:** Gramática
@@ -71,7 +73,7 @@ El dominio de palabras graves es fundamental para lograr una expresión escrita 
 
 ---
 
-## Question 3 [D3]
+## Question 3 [D3-D4]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v3`
 **Bloom:** Remember
 **EJE:** Gramática
@@ -97,7 +99,7 @@ El dominio de palabras esdrújulas es fundamental para lograr una expresión esc
 
 ---
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v4`
 **Bloom:** Understand
 **EJE:** Gramática
@@ -123,7 +125,7 @@ El dominio de palabras sobresdrújulas es fundamental para lograr una expresión
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v5`
 **Bloom:** Apply
 **EJE:** Gramática
@@ -149,7 +151,7 @@ El dominio de tilde diacrítica es fundamental para lograr una expresión escrit
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v6`
 **Bloom:** Remember
 **EJE:** Gramática
@@ -175,7 +177,7 @@ El dominio de tildación de hiato acentual es fundamental para lograr una expres
 
 ---
 
-## Question 7 [D5]
+## Question 7 [D5-D6]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v7`
 **Bloom:** Understand
 **EJE:** Gramática
@@ -201,7 +203,7 @@ El dominio de conectores causales es fundamental para lograr una expresión escr
 
 ---
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v8`
 **Bloom:** Apply
 **EJE:** Gramática
@@ -227,7 +229,7 @@ El dominio de conectores adversativos es fundamental para lograr una expresión 
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D5-D6]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v9`
 **Bloom:** Remember
 **EJE:** Gramática
@@ -253,7 +255,7 @@ El dominio de conectores consecutivos es fundamental para lograr una expresión 
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D5-D6]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v10`
 **Bloom:** Understand
 **EJE:** Gramática
@@ -279,7 +281,7 @@ El dominio de coma vocativa es fundamental para lograr una expresión escrita cl
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v11`
 **Bloom:** Apply
 **EJE:** Gramática
@@ -305,7 +307,7 @@ El dominio de coma elíptica es fundamental para lograr una expresión escrita c
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v12`
 **Bloom:** Remember
 **EJE:** Gramática
@@ -331,7 +333,7 @@ El dominio de uso de los dos puntos es fundamental para lograr una expresión es
 
 ---
 
-## Question 13 [D7]
+## Question 13 [D7-D8]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v13`
 **Bloom:** Understand
 **EJE:** Gramática
@@ -357,7 +359,7 @@ El dominio de uso del punto y coma es fundamental para lograr una expresión esc
 
 ---
 
-## Question 14 [D7]
+## Question 14 [D7-D8]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v14`
 **Bloom:** Apply
 **EJE:** Gramática
@@ -383,7 +385,7 @@ El dominio de conectores explicativos es fundamental para lograr una expresión 
 
 ---
 
-## Question 15 [D7]
+## Question 15 [D7-D8]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v15`
 **Bloom:** Remember
 **EJE:** Gramática
@@ -409,7 +411,7 @@ El dominio de punto y seguido es fundamental para lograr una expresión escrita 
 
 ---
 
-## Question 16 [D7]
+## Question 16 [D7-D8]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v16`
 **Bloom:** Understand
 **EJE:** Gramática
@@ -435,7 +437,7 @@ El dominio de tildación en adverbios en -mente es fundamental para lograr una e
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v17`
 **Bloom:** Apply
 **EJE:** Gramática
@@ -461,7 +463,7 @@ El dominio de uso de las comillas es fundamental para lograr una expresión escr
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v18`
 **Bloom:** Remember
 **EJE:** Gramática
@@ -487,7 +489,7 @@ El dominio de uso de los paréntesis es fundamental para lograr una expresión e
 
 ---
 
-## Question 19 [D9]
+## Question 19 [D9-D10]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v19`
 **Bloom:** Understand
 **EJE:** Gramática
@@ -513,7 +515,7 @@ El dominio de conectores temporales es fundamental para lograr una expresión es
 
 ---
 
-## Question 20 [D9]
+## Question 20 [D9-D10]
 **ID:** `SV-LEN-11-2026-W10-tema-w10-001-MASTERY-v20`
 **Bloom:** Apply
 **EJE:** Gramática

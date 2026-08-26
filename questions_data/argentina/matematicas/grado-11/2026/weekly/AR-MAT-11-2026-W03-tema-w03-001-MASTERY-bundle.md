@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -38,7 +40,7 @@ Una recta horizontal tiene pendiente cero. Su ecuación se reduce a la forma con
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Álgebra y funciones
@@ -59,7 +61,7 @@ El coeficiente principal $m$ en la ecuación explícita de la recta representa l
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -80,7 +82,7 @@ La condición matemática de paralelismo establece que dos rectas en el mismo pl
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -101,7 +103,7 @@ La condición de perpendicularidad entre dos rectas establece que sus pendientes
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -122,7 +124,7 @@ Un sistema de ecuaciones lineales con infinitas soluciones se denomina compatibl
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Álgebra y funciones
@@ -143,7 +145,7 @@ La función que representa el costo mensual es una función afín donde la pendi
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -164,7 +166,7 @@ La pendiente de la recta se calcula mediante $m = \frac{y_2 - y_1}{x_2 - x_1}$. 
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -191,7 +193,7 @@ Al sumar miembro a miembro las dos ecuaciones, se elimina la variable $y$ (méto
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -212,7 +214,7 @@ Modelamos los costos mediante las funciones de costo lineal $C_1(x) = 150x + 100
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -233,7 +235,7 @@ Para hallar el punto de intersección entre dos curvas en el plano, se igualan s
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -254,7 +256,7 @@ Este problema se resuelve mediante un sistema de dos ecuaciones lineales con dos
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Álgebra y funciones
@@ -282,7 +284,7 @@ Para resolver sistemas de ecuaciones de $3 \times 3$, se aplican operaciones ele
 
 ---
 
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -303,7 +305,7 @@ La opción correcta es $k=3$ ya que el producto de las pendientes debe ser igual
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -330,7 +332,7 @@ Un sistema de $2 \times 2$ es incompatible si sus rectas asociadas son paralelas
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -351,7 +353,7 @@ Una inecuación lineal define un semiplano. Para comprobar si un punto pertenece
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -372,7 +374,7 @@ En problemas de física con velocidad constante, la velocidad promedio coincide 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -393,7 +395,7 @@ De acuerdo con la regla de Cramer, un sistema tiene solución única si y solo s
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Álgebra y funciones
@@ -414,7 +416,7 @@ Los vértices de una región delimitada por rectas en el plano corresponden a la
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones
@@ -435,7 +437,7 @@ Este es un teorema de la geometría euclidiana plana. Si $r_1 \perp r_3$ y $r_2 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** AR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Álgebra y funciones

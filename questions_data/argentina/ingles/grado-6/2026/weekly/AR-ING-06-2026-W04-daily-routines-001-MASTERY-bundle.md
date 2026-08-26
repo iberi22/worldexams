@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -60,7 +62,7 @@ El vocabulario de rutina diaria requiere conocer las combinaciones de verbos y s
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-003`
 **Bloom:** Apply
@@ -82,7 +84,7 @@ Para las horas en punto, se utiliza la expresión "o'clock" después del número
 
 ---
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-004`
 **Bloom:** Analyze
@@ -126,7 +128,7 @@ Con el verbo "to be", los adverbios de frecuencia se colocan después del verbo.
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-006`
 **Bloom:** Understand
@@ -148,7 +150,7 @@ Diferenciar entre acciones de comer y beber según el complemento (leche) es par
 
 ---
 
-## Question 7 [D5-D6]
+## Question 7 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-007`
 **Bloom:** Apply
@@ -170,7 +172,7 @@ Se utiliza "quarter past" para indicar que han pasado 15 minutos (un cuarto de h
 
 ---
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 
 **ID:** `AR-ING-06-2026-W04-daily-routines-008`
 **Bloom:** Analyze

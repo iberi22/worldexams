@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "MINED - PAES El Salvador"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -21,7 +23,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D4]
+## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v1
 **Bloom:** Apply
 **EJE:** speaking dialogues
@@ -44,7 +46,7 @@ Choose the correct option: 'I ___ reading a book right now.'
 ### Explicacion Pedagogica
 Present continuous: I am + verb-ing.
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** speaking dialogues
@@ -67,7 +69,7 @@ What does 'benevolent' mean?
 ### Explicacion Pedagogica
 'Benevolent' means kind, generous, or charitable.
 
-## Question 3 [D5]
+## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v3
 **Bloom:** Analyze
 **EJE:** speaking dialogues
@@ -90,7 +92,7 @@ Identify the main idea: 'The text describes how bees help pollinate flowers and 
 ### Explicacion Pedagogica
 The main idea summarizes the key points about bees: pollination and honey.
 
-## Question 4 [D3]
+## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** speaking dialogues
@@ -113,7 +115,7 @@ Which is the correct past form of 'go'?
 ### Explicacion Pedagogica
 'Go' is an irregular verb: go → went (past simple).
 
-## Question 5 [D3]
+## Question 5 [D5-D6]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v5
 **Bloom:** Remember
 **EJE:** speaking dialogues
@@ -136,7 +138,7 @@ Which sentence uses the present simple correctly?
 ### Explicacion Pedagogica
 Present simple: subject + verb(-s for he/she/it).
 
-## Question 6 [D4]
+## Question 6 [D5-D6]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** speaking dialogues
@@ -159,7 +161,7 @@ Choose the correct option: 'I ___ reading a book right now.'
 ### Explicacion Pedagogica
 Present continuous: I am + verb-ing.
 
-## Question 7 [D4]
+## Question 7 [D5-D6]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** speaking dialogues
@@ -182,7 +184,7 @@ What does 'benevolent' mean?
 ### Explicacion Pedagogica
 'Benevolent' means kind, generous, or charitable.
 
-## Question 8 [D5]
+## Question 8 [D5-D6]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** speaking dialogues
@@ -205,7 +207,7 @@ Identify the main idea: 'The text describes how bees help pollinate flowers and 
 ### Explicacion Pedagogica
 The main idea summarizes the key points about bees: pollination and honey.
 
-## Question 9 [D3]
+## Question 9 [D5-D6]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v9
 **Bloom:** Remember
 **EJE:** speaking dialogues
@@ -228,7 +230,7 @@ Which is the correct past form of 'go'?
 ### Explicacion Pedagogica
 'Go' is an irregular verb: go → went (past simple).
 
-## Question 10 [D3]
+## Question 10 [D5-D6]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v10
 **Bloom:** Remember
 **EJE:** speaking dialogues
@@ -251,7 +253,7 @@ Which sentence uses the present simple correctly?
 ### Explicacion Pedagogica
 Present simple: subject + verb(-s for he/she/it).
 
-## Question 11 [D4]
+## Question 11 [D7-D8]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** speaking dialogues
@@ -274,7 +276,7 @@ Choose the correct option: 'I ___ reading a book right now.'
 ### Explicacion Pedagogica
 Present continuous: I am + verb-ing.
 
-## Question 12 [D4]
+## Question 12 [D7-D8]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v12
 **Bloom:** Understand
 **EJE:** speaking dialogues
@@ -297,7 +299,7 @@ What does 'benevolent' mean?
 ### Explicacion Pedagogica
 'Benevolent' means kind, generous, or charitable.
 
-## Question 13 [D5]
+## Question 13 [D7-D8]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** speaking dialogues
@@ -320,7 +322,7 @@ Identify the main idea: 'The text describes how bees help pollinate flowers and 
 ### Explicacion Pedagogica
 The main idea summarizes the key points about bees: pollination and honey.
 
-## Question 14 [D3]
+## Question 14 [D7-D8]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v14
 **Bloom:** Remember
 **EJE:** speaking dialogues
@@ -343,7 +345,7 @@ Which is the correct past form of 'go'?
 ### Explicacion Pedagogica
 'Go' is an irregular verb: go → went (past simple).
 
-## Question 15 [D3]
+## Question 15 [D7-D8]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v15
 **Bloom:** Remember
 **EJE:** speaking dialogues
@@ -366,7 +368,7 @@ Which sentence uses the present simple correctly?
 ### Explicacion Pedagogica
 Present simple: subject + verb(-s for he/she/it).
 
-## Question 16 [D4]
+## Question 16 [D7-D8]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** speaking dialogues
@@ -389,7 +391,7 @@ Choose the correct option: 'I ___ reading a book right now.'
 ### Explicacion Pedagogica
 Present continuous: I am + verb-ing.
 
-## Question 17 [D4]
+## Question 17 [D9-D10]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v17
 **Bloom:** Understand
 **EJE:** speaking dialogues
@@ -412,7 +414,7 @@ What does 'benevolent' mean?
 ### Explicacion Pedagogica
 'Benevolent' means kind, generous, or charitable.
 
-## Question 18 [D5]
+## Question 18 [D9-D10]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** speaking dialogues
@@ -435,7 +437,7 @@ Identify the main idea: 'The text describes how bees help pollinate flowers and 
 ### Explicacion Pedagogica
 The main idea summarizes the key points about bees: pollination and honey.
 
-## Question 19 [D3]
+## Question 19 [D9-D10]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v19
 **Bloom:** Remember
 **EJE:** speaking dialogues
@@ -458,7 +460,7 @@ Which is the correct past form of 'go'?
 ### Explicacion Pedagogica
 'Go' is an irregular verb: go → went (past simple).
 
-## Question 20 [D3]
+## Question 20 [D9-D10]
 **ID:** SV-ING-11-2026-W34-speaking-dialogues-001-MASTERY-bundle-v20
 **Bloom:** Remember
 **EJE:** speaking dialogues

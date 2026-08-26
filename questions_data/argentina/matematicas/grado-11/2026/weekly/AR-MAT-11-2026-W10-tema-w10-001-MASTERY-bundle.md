@@ -12,12 +12,14 @@ protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **EJE:** Estadística y probabilidad
@@ -38,7 +40,7 @@ Una permutación simple es un ordenamiento lineal de todos los elementos de un c
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Estadística y probabilidad
@@ -59,7 +61,7 @@ La regla de Laplace establece que la probabilidad de un suceso es la razón entr
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Estadística y probabilidad
@@ -80,7 +82,7 @@ La diferencia radica en la relevancia del ordenamiento. Si cambiar el orden de l
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Estadística y probabilidad
@@ -101,7 +103,7 @@ La probabilidad de un suceso complementario $A^c$ (no ocurrencia de $A$) se calc
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Estadística y probabilidad
@@ -122,7 +124,7 @@ Para sucesos excluyentes, al no existir elementos en común, la intersección es
 
 ---
 
-## Question 6 [D5]
+## Question 6 [D5-D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Estadística y probabilidad
@@ -143,7 +145,7 @@ Para eventos estadísticamente independientes, la probabilidad de ocurrencia con
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D5-D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -164,7 +166,7 @@ Dado que intervienen todos los elementos del grupo y se busca calcular ordenamie
 
 ---
 
-## Question 8 [D6]
+## Question 8 [D5-D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -185,7 +187,7 @@ Dado que no importa el orden en que sean nombrados los tres miembros de la deleg
 
 ---
 
-## Question 9 [D6]
+## Question 9 [D5-D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -206,7 +208,7 @@ Al lanzar dos dados, cada uno independiente, el espacio muestral posee $36$ elem
 
 ---
 
-## Question 10 [D6]
+## Question 10 [D5-D6]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -227,7 +229,7 @@ Aplicamos la fórmula de la adición de eventos no excluyentes: $P(\text{As} \cu
 
 ---
 
-## Question 11 [D7]
+## Question 11 [D7-D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -248,7 +250,7 @@ La probabilidad condicional se define mediante la expresión de Bayes: $P(A \mid
 
 ---
 
-## Question 12 [D7]
+## Question 12 [D7-D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Estadística y probabilidad
@@ -272,7 +274,7 @@ Utilizando el teorema de probabilidad total, ponderamos las tasas condicionadas 
 
 ---
 
-## Question 13 [D8]
+## Question 13 [D7-D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -293,7 +295,7 @@ La extracción sin devolución constituye eventos dependientes. Aplicamos la reg
 
 ---
 
-## Question 14 [D8]
+## Question 14 [D7-D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -314,7 +316,7 @@ Para variaciones con repetición permitida de elementos, el número total de arr
 
 ---
 
-## Question 15 [D8]
+## Question 15 [D7-D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -335,7 +337,7 @@ La probabilidad de la unión de dos eventos que no son mutuamente excluyentes se
 
 ---
 
-## Question 16 [D8]
+## Question 16 [D7-D8]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -356,7 +358,7 @@ Para calcular la probabilidad de obtener exactamente $k$ éxitos en $n$ ensayos 
 
 ---
 
-## Question 17 [D9]
+## Question 17 [D9-D10]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -377,7 +379,7 @@ Aplicando el teorema de Bayes, se obtiene que la probabilidad a posteriori de es
 
 ---
 
-## Question 18 [D9]
+## Question 18 [D9-D10]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Estadística y probabilidad
@@ -398,7 +400,7 @@ Las permutaciones circulares se calculan mediante $PC_n = (n-1)!$. Se reduce en 
 
 ---
 
-## Question 19 [D10]
+## Question 19 [D9-D10]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Estadística y probabilidad
@@ -419,7 +421,7 @@ La falacia del jugador o falacia de Montecarlo es un sesgo cognitivo común que 
 
 ---
 
-## Question 20 [D10]
+## Question 20 [D9-D10]
 **ID:** AR-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Estadística y probabilidad

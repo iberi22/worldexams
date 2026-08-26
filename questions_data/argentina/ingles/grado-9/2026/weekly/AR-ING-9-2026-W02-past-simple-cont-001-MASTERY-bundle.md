@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "NAP/Aprender"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -58,7 +60,7 @@ El pasado continuo se usa para describir acciones que estaban ocurriendo en un m
 
 ---
 
-## Question 3 [D3-D4]
+## Question 3 [D5-D6]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Lengua Extranjera - Inglés
@@ -121,7 +123,7 @@ Matías está justificando una acción (no atender) con una situación que estab
 
 ---
 
-## Question 6 [D5-D6]
+## Question 6 [D7-D8]
 **ID:** AR-ING-9-2026-W02-past-simple-cont-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** Lengua Extranjera - Inglés
