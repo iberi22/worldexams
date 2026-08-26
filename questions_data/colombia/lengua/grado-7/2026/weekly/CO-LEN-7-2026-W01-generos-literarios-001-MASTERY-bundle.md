@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN + ICFES Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,7 +22,7 @@ creador: "Jules-Agent"
 # Bundle Mastery: Géneros Literarios - Grado 7
 ## Semana W01 — Clasificación y características de los géneros literarios
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -41,7 +43,7 @@ Desde Aristóteles en su "Poética", la literatura se clasifica en tres géneros
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Inferencial)
@@ -62,7 +64,7 @@ El género narrativo se caracteriza por la presencia de un narrador que cuenta u
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v3
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -83,7 +85,7 @@ El género lírico se caracteriza por la expresión subjetiva de sentimientos y 
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Crítica)
@@ -104,7 +106,7 @@ El género dramático (teatro) se caracteriza por estar escrito para ser represe
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Inferencial)
@@ -125,7 +127,7 @@ La diferencia esencial entre los géneros narrativo y lírico radica en su prop�
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -146,7 +148,7 @@ Las acotaciones son instrucciones del dramaturgo sobre la escenografía, vestuar
 
 ---
 
-## Question 7 [D6]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Crítica)
@@ -167,7 +169,7 @@ Aunque "La Vorágine" es una novela (narrativa), este fragmento específico tien
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -188,7 +190,7 @@ El diálogo no es exclusivo de ningún género literario. En la narrativa, los d
 
 ---
 
-## Question 9 [D7]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -209,7 +211,7 @@ El realismo mágico es una corriente estilística, no un género literario. "Cie
 
 ---
 
-## Question 10 [D8]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-7-2026-W01-generos-literarios-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Literal)

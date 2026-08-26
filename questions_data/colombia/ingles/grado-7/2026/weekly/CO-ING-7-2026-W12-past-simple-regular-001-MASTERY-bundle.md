@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This bundle focuses on the formation and use of the Past Simple with regular ver
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -48,7 +50,7 @@ The student identifies the basic morphological rule for regular past tense verbs
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -73,7 +75,7 @@ The student remembers the specific spelling rule for regular verbs ending in 'e'
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-003-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -98,7 +100,7 @@ The student understands the use of the past tense suffix with a regular verb in 
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-004-v1
 **Bloom:** Understand
 **ICFES:** Grammatical Knowledge
@@ -123,7 +125,7 @@ The student understands and distinguishes between temporal markers for past and 
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-005-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -148,7 +150,7 @@ The student applies the past simple rule to a regular verb within a coherent sen
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -174,7 +176,7 @@ The student applies reading skills to identify specific actions expressed in the
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -199,7 +201,7 @@ The student applies the specific spelling rule for regular verbs ending in conso
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-008-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
@@ -224,7 +226,7 @@ The student analyzes the consistency of verb tenses within a compound sentence d
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-009-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -250,7 +252,7 @@ The student analyzes the spelling rule for doubling consonants in regular past t
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W12-past-simple-regular-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension

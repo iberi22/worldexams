@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ creador: "Jules-Agent"
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -44,7 +46,7 @@ El encabezado de una carta (ciudad y fecha) es fundamental para la organización
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
@@ -65,7 +67,7 @@ En la comunicación digital, el asunto es clave para la eficiencia, permitiendo 
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -86,7 +88,7 @@ El saludo o vocativo establece el tono de la relación entre el emisor y el rece
 
 ---
 
-## Question 4 [D6]
+## Question 4 [D5-D6]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
@@ -107,7 +109,7 @@ La firma en un correo electrónico profesional o académico suele incluir datos 
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
@@ -128,7 +130,7 @@ La capacidad de adjuntar archivos es una de las mayores ventajas del correo elec
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -149,7 +151,7 @@ El registro lingüístico se adapta al destinatario. En las cartas informales, e
 
 ---
 
-## Question 7 [D8]
+## Question 7 [D7-D8]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
@@ -170,7 +172,7 @@ El uso de CC es una norma de cortesía y organización en el trabajo y el estudi
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -191,7 +193,7 @@ La "netiqueta" (etiqueta en la red) incluye el respeto por las normas gramatical
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
@@ -212,7 +214,7 @@ A pesar del dominio digital, la carta física conserva un valor simbólico y emo
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-LEN-6-2026-W34-carta-y-correo-electronico-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)

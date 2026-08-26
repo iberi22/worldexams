@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 12
 bundle_size: 12
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 cefr_level: "B2"
 license: "FREE"
 tier: "legacy"
@@ -23,7 +25,7 @@ This bundle explores human behavior and emotional intelligence, focusing on the 
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -44,7 +46,7 @@ En inglés, ciertos adjetivos deben ir acompañados de una preposición específ
 
 ---
 
-## Question 2 [D3]
+## Question 2 [D3-D4]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Lingüística
@@ -65,7 +67,7 @@ El adjetivo *responsible* se utiliza siempre con la preposición *for* para indi
 
 ---
 
-## Question 3 [D4]
+## Question 3 [D3-D4]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Lingüística
@@ -86,7 +88,7 @@ Teenagers are often very aware ________ the expectations that their peers have o
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Pragmática
@@ -107,7 +109,7 @@ Aunque en español decimos "aburrido de", en inglés la preposición estándar q
 
 ---
 
-## Question 5 [D5]
+## Question 5 [D5-D6]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Lingüística
@@ -128,7 +130,7 @@ El adjetivo *afraid* va seguido de *of* cuando nos referimos a la causa del mied
 
 ---
 
-## Question 6 [D6]
+## Question 6 [D5-D6]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sociolingüística
@@ -149,7 +151,7 @@ Para describir que alguien tiene una habilidad o talento en una actividad espec�
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Lingüística
@@ -170,7 +172,7 @@ Un error de transferencia muy común es usar *about* con *proud*. En el nivel B2
 
 ---
 
-## Question 8 [D7]
+## Question 8 [D7-D8]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Pragmática
@@ -191,7 +193,7 @@ Sofia is not very keen ________ participating in group activities; she prefers w
 
 ---
 
-## Question 9 [D8]
+## Question 9 [D7-D8]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Sociolingüística
@@ -212,7 +214,7 @@ Many employees are fed up ________ the lack of communication from the management
 
 ---
 
-## Question 10 [D9]
+## Question 10 [D9-D10]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Lingüística
@@ -234,7 +236,7 @@ La confusión entre *of* y *about* es constante. *Worried about* se refiere a la
 
 ---
 
-## Question 11 [D10]
+## Question 11 [D9-D10]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Pragmática
@@ -255,7 +257,7 @@ El uso correcto de las preposiciones no solo demuestra dominio gramatical, sino 
 
 ---
 
-## Question 12 [D10]
+## Question 12 [D9-D10]
 **ID:** CO-ING-9-2026-W32-psychology-and-emotions-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Sociolingüística

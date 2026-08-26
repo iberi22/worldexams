@@ -12,6 +12,8 @@ protocol_version: "5.2"
 total_questions: 10
 bundle_size: 10
 alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -23,7 +25,7 @@ This bundle focuses on reading and writing about past lives and biographies, usi
 
 ---
 
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -48,7 +50,7 @@ The student identifies basic vocabulary used in biographical texts.
 
 ---
 
-## Question 2 [D4]
+## Question 2 [D3-D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
@@ -73,7 +75,7 @@ The student remembers and applies the correct irregular past form in a biographi
 
 ---
 
-## Question 3 [D5]
+## Question 3 [D5-D6]
 **ID:** CO-ING-7-2026-W19-biographies-stories-003-v1
 **Bloom:** Understand
 **ICFES:** Pragmatic Matching
@@ -98,7 +100,7 @@ The student understands how to use time markers to locate biographical events in
 
 ---
 
-## Question 4 [D5]
+## Question 4 [D5-D6]
 **ID:** CO-ING-7-2026-W19-biographies-stories-004-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
@@ -123,7 +125,7 @@ The student understands the correct verb form to describe a past biographical ev
 
 ---
 
-## Question 5 [D6]
+## Question 5 [D5-D6]
 **ID:** CO-ING-7-2026-W19-biographies-stories-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
@@ -148,7 +150,7 @@ The student applies the contrast between Past Continuous and Past Simple in a bi
 
 ---
 
-## Question 6 [D7]
+## Question 6 [D7-D8]
 **ID:** CO-ING-7-2026-W19-biographies-stories-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
@@ -174,7 +176,7 @@ The student applies reading strategies to extract specific chronological data fr
 
 ---
 
-## Question 7 [D7]
+## Question 7 [D7-D8]
 **ID:** CO-ING-7-2026-W19-biographies-stories-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
@@ -199,7 +201,7 @@ The student applies specific biographical vocabulary for educational milestones.
 
 ---
 
-## Question 8 [D8]
+## Question 8 [D7-D8]
 **ID:** CO-ING-7-2026-W19-biographies-stories-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
@@ -225,7 +227,7 @@ The student analyzes the narrative to identify the core message or most signific
 
 ---
 
-## Question 9 [D9]
+## Question 9 [D9-D10]
 **ID:** CO-ING-7-2026-W19-biographies-stories-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
@@ -250,7 +252,7 @@ The student analyzes complex sentence structures common in biographies to ensure
 
 ---
 
-## Question 10 [D10]
+## Question 10 [D9-D10]
 **ID:** CO-ING-7-2026-W19-biographies-stories-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension
