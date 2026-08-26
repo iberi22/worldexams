@@ -1,15 +1,20 @@
 {
   "metadata": {
     "project": "WorldExams — Plataforma Multi-país de Exámenes Saber",
-    "version": "1.0",
+    "version": "2.0",
     "created": "2026-06-05",
+    "updated": "2026-08-26",
     "total_features": 14,
     "passing": 7,
     "failing": 7,
-    "overall_progress_pct": 51,
+    "overall_progress_pct": 48,
+    "overall_progress_weighted_pct": 54.5,
+    "calculation": "simple avg 48.0% (672/14); weighted P0*3 P1*2 P2*1 => 54.5% (1906/35). Ver breakdown por feature.",
     "status": "active",
-    "updated": "2026-08-25",
-    "note": "features planned añadidas 2026-08-25 (decisión D-103 ética; ver docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md)"
+    "audit_date": "2026-08-26",
+    "audit_method": "verify-pipeline.sh + ls implemented_in + npm run validate + npm run audit:country-readiness -- --json",
+    "note": "v2 honesto 2026-08-26: corrige inflados de v1 (51% simple). Cambios: feat-weekly-packs 100→92 (400q pending publish MX/BR + 1 bundle invalid CO), feat-multi-country 100→98 (CORS ya restringido pero ver caveat), feat-ci-cd 100→72 (48 E2E declarados no verdes local, Actions disabled per GitCore 3.8 private era), feat-security 100→90 (código PRs #961/#964 listo, history rewrite pendiente coordinación). D-101..D-105 incorporadas como 6 features planned en 0% (honesto, sin código en este repo). Ver docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md y docs/SRS/REQUIREMENTS.md REQ-008..013.",
+    "previous_version": "1.0 (2026-08-25, 51% simple, commit 601eb828d)"
   },
   "features": [
     {
@@ -19,7 +24,10 @@
       "passes": true,
       "verified_by": "PRs #395, #406, #405",
       "priority": "P0",
-      "progress_pct": 100
+      "progress_pct": 100,
+      "implemented_in": "questions_data/colombia/",
+      "evidence": "402 raw files, 4540 validated+published (227% KPI), 401 packs en apps/worldexams-api/public/v1/packs/co-*.json; npm run validate 1373 bundles Failures:1",
+      "caveat": "1 bundle inválido bloquea 100% perfecto: questions_data/colombia/matematicas/grado-11/2026/weekly/CO-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle.md (Missing YAML frontmatter)"
     },
     {
       "id": "feat-mastery-uruguay",
@@ -28,7 +36,10 @@
       "passes": true,
       "verified_by": "PR #324",
       "priority": "P0",
-      "progress_pct": 100
+      "progress_pct": 100,
+      "implemented_in": "questions_data/uruguay/",
+      "evidence": "40 bundles / 800 preguntas en questions_data/uruguay/; audit:country-readiness pct_2000 40% (gap 1200)",
+      "caveat": "MVP G11 completo, pero KPI 2000q país solo 40%. Fase expansión UY/PY (Issue #278) limitada a G11."
     },
     {
       "id": "feat-mastery-paraguay",
@@ -37,50 +48,60 @@
       "passes": true,
       "verified_by": "PR #324",
       "priority": "P0",
-      "progress_pct": 100
+      "progress_pct": 100,
+      "implemented_in": "questions_data/paraguay/",
+      "evidence": "40 bundles / 800 preguntas en questions_data/paraguay/; pct_2000 40% (gap 1200)",
+      "caveat": "Idem UY: G11 OK, país incompleto para KPI 2000."
     },
     {
       "id": "feat-weekly-packs",
       "category": "generation",
-      "description": "Generación de WEEKLY packs semanales por grado y país",
+      "description": "Generación de WEEKLY packs semanales por grado y país (Protocolo v5.2 W01-W40)",
       "passes": true,
       "verified_by": "PRs #395, #397",
       "priority": "P0",
-      "progress_pct": 100
+      "progress_pct": 92,
+      "implemented_in": "questions_data/, apps/worldexams-api/public/v1/packs/, saberparatodos/scripts/generate-static-packs.js",
+      "evidence": "1373 bundles validados, 1 fallo. Packs publicados 23808q / 3 países ready (CO 227%, SV 115%, CL 100%). MX 85q/1700q validadas (1500 publicadas, 200 pending), BR 41q/820q (620 publicadas, 200 pending).",
+      "caveat": "No 100% honesto: MX 10 bundles y BR 10 bundles validados pero no publicados (saberparatodos/scripts/generate-static-packs.js --all-weekly pendiente). 1 bundle CO inválido. G3-G5=8q G6-7=10q G8-10=12q G11/3EM=20q ya alineado (D1)."
     },
     {
       "id": "feat-multi-country",
       "category": "core",
-      "description": "Generalización de ICFES Colombia → países variables (UY, PY)",
-      "steps": [
-        "1. Reemplazar hardcodes de Colombia/ICFES en shared libs",
-        "2. Calendarios de exámenes por país",
-        "3. SEO y marketing multi-país"
-      ],
+      "description": "Generalización de ICFES Colombia → países variables (UY, PY) + 20 países soportados",
       "passes": true,
       "verified_by": "PRs #310, #315, #317, #318",
       "priority": "P0",
-      "progress_pct": 100
+      "progress_pct": 98,
+      "implemented_in": "apps/worldexams-api/src/index.ts, saberparatodos/src/lib/p2p-edge-mesh.ts, config/countries.config.ts",
+      "evidence": "ALLOWED_ORIGINS restringido (apps/worldexams-api/src/index.ts: corsHeadersFor), packs prefijados co-/mx-/ar-/br- (98+ packs), 20 países en questions_data/ y scripts/audit-country-readiness.mjs",
+      "caveat": "CORS ya no es * (corregido). MVP parcial: SEO/marketing multi-país y currículos MX/AR/BR aún parciales (ver Issues #230 #231 #235)."
     },
     {
       "id": "feat-ci-cd",
       "category": "infra",
       "description": "CI/CD con Playwright E2E, pre-commit hooks",
-      "passes": true,
-      "verified_by": "48 tests E2E, GitHub Actions",
+      "passes": false,
+      "verified_by": "48 tests E2E (tests/package.json), .husky/",
       "priority": "P0",
-      "progress_pct": 100
+      "progress_pct": 72,
+      "implemented_in": "tests/playwright.config.ts, tests/, .husky/, scripts/validate-bundles-v52.mjs",
+      "evidence": "tests/ con 8 suites, playwright.config.ts existe, .husky/ pre-commit, npm run validate OK, npm test (validate-secrets.sh) OK. GitHub Actions en .github/workflows.disabled/ per GitCore 3.8 private era.",
+      "caveat": "Inflado previo 100→72 honesto: SRC.md 2026-07-28 marca tests NEEDS MAINTENANCE (vitest/playwright rotos en checkout actual, 48 tests declarados no verdes local). CI/CD GitCore 3.8 prefiere local verify-pipeline.sh sobre Actions."
     },
     {
       "id": "feat-security",
       "category": "security",
-      "description": "Limpieza de secrets expuestos en git history",
+      "description": "Limpieza de secrets expuestos en git history + hardening",
       "passes": true,
       "verified_by": "PRs #961, #964",
       "github_issue": 221,
       "priority": "P1",
-      "progress_pct": 100,
+      "progress_pct": 90,
       "status": "implemented",
+      "implemented_in": "scripts/validate-secrets.sh, apps/worldexams-api/src/index.ts, saberparatodos/src/lib/",
+      "evidence": "PRs #961/#964 merged, sanitize inputs (commit 82bd79a7e), escapeHtml (4db3567c7), ALLOWED_ORIGINS fix, scripts/validate-secrets.sh ✅ All checks passed, npm test OK",
+      "caveat": "Código hardening 90% completo. History rewrite (git-filter-repo + force-push) documentado en .gitcore/planning/SECURITY_221_PREP.md y docs/SECURITY.md pero no ejecutado (requiere coordinación). No inflar a 100 hasta push coordinado.",
       "notes": "Security hardening: secrets cleanup, SQL injection protection, XSS detection, input validation. PRs #961, #964."
     },
     {
@@ -91,7 +112,10 @@
       "verified_by": "pending",
       "github_issue": 408,
       "priority": "P1",
-      "progress_pct": 20
+      "progress_pct": 20,
+      "implemented_in": "saberparatodos/src/lib/ai/, tests/",
+      "evidence": "saberparatodos/tests/unit/ existe (p2p-edge-mesh.unit.test.ts, etc. con mocks edge-mesh) pero cobertura ~20% (SRC.md). Issue #408 abierto.",
+      "caveat": "MVP parcial: infraestructura vitest configurada, pero IsarVectorStoreService/agent_memory sin tests reales. Meta 70% pendiente."
     },
     {
       "id": "feat-private-grade-network",
@@ -101,9 +125,12 @@
       "priority": "P0",
       "progress_pct": 0,
       "status": "planned",
+      "implemented_in": "",
+      "evidence": "Sin código en este repo (isla .gitcore/docs/SWAL). Base Xavier existe en repo externo apps/xavier/src/mesh/private_mesh.rs, mesh/tokenomics/accounting.rs, data_commons/mesh_bridge.rs (referenciado en docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md D-101..D-105).",
+      "caveat": "MVP parcial en Xavier (private_mesh.rs, grants) pero sin integración worldexams en este repo. Requiere WX-205 (repo xavier) + WX-204 (saberparatodos/src/lib/mesh/).",
       "steps": [
         "WX-205 networks 1ra clase + grants en apps/xavier",
-        "WX-204 cliente red worldexams",
+        "WX-204 cliente red worldexams (saberparatodos/src/lib/mesh/)",
         "ResourceAccounting.record_contribution() para operador",
         "Opt-in/revocación BR-06"
       ]
@@ -116,6 +143,9 @@
       "priority": "P0",
       "progress_pct": 0,
       "status": "planned",
+      "implemented_in": "",
+      "evidence": "Sin código leaderboard en este repo. Diseño en docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md D-103 y docs/SRS/REQUIREMENTS.md UC-002.",
+      "caveat": "Depende de feat-private-grade-network. Payload anónimo {node_hash, subject, week, score, avg} especificado, sin PII.",
       "steps": [
         "WX-301 UI dual anónima/privada",
         "Ancla Supabase solo agregados"
@@ -128,7 +158,14 @@
       "passes": false,
       "priority": "P1",
       "progress_pct": 0,
-      "status": "planned"
+      "status": "planned",
+      "implemented_in": "",
+      "evidence": "Sin código governance en este repo. Decisión D-104/D-105 en docs/DECISIONS_2026-08-25-REDES-XAVIER-Y-ETICA.md.",
+      "caveat": "Fase 1 fundadores → Fase 2 consejo con quorum ML-DSA-65/Ed25519 + op-log (WX-206, WX-304).",
+      "related_decisions": [
+        "D-104",
+        "D-105"
+      ]
     },
     {
       "id": "feat-community-explanations",
@@ -137,7 +174,10 @@
       "passes": false,
       "priority": "P1",
       "progress_pct": 0,
-      "status": "planned"
+      "status": "planned",
+      "implemented_in": "",
+      "evidence": "Sin tabla community_explanations en supabase/ (verificar ls supabase/). Social existente solo Giscus + api/comments.",
+      "caveat": "D3 capa 2: requiere WX-203 (supabase tabla + api/explanations.ts) y WX-302 (hilos por explicación)."
     },
     {
       "id": "feat-local-pdf-studio",
@@ -146,7 +186,10 @@
       "passes": false,
       "priority": "P1",
       "progress_pct": 0,
-      "status": "planned"
+      "status": "planned",
+      "implemented_in": "",
+      "evidence": "Stubs presentes pero no feature completo: saberparatodos/src/lib/ai/ai-core-client.ts (createAiCore), saberparatodos/src/lib/ai/exam-generator.ts (usa COUNTRY_RULE_HINTS), saberparatodos/src/pages/ajustes/ia.astro, pero sin ingesta PDF (WX-201) ni studio UI (WX-202).",
+      "caveat": "MVP parcial 10% en stubs AI Core on-device, pero 0% honesto para pipeline PDF→v5.2. No contar stubs como progreso hasta WX-201/WX-202."
     },
     {
       "id": "feat-correction-pipeline",
@@ -155,12 +198,21 @@
       "passes": false,
       "priority": "P2",
       "progress_pct": 0,
-      "status": "planned"
+      "status": "planned",
+      "implemented_in": "",
+      "evidence": "Sin código corrections en este repo.",
+      "caveat": "Requiere WX-303 (src/lib/corrections/ + api/corrections.ts). Depende de community-explanations.",
+      "steps": [
+        "WX-303 draft→revisión nodos→patch .md exportable"
+      ]
     }
   ],
   "verification_commands": {
     "build": "npm run build 2>&1 | tail -5",
     "tests": "npx playwright test 2>&1 | tail -10",
-    "lint": "npx eslint . 2>&1 | tail -5"
+    "lint": "npx eslint . 2>&1 | tail -5",
+    "validate": "npm run validate 2>&1 | tail -20",
+    "audit": "npm run audit:country-readiness -- --json 2>&1 | tail -40",
+    "verify_pipeline": "bash .gitcore/scripts/verify-pipeline.sh 2>&1 | tail -20"
   }
 }
