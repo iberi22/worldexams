@@ -82,7 +82,10 @@ export interface SuspiciousEvent {
     | 'long_inactivity'
     | 'fullscreen_exit'
     | 'orientation_change'
-    | 'resize_suspicious';
+    | 'resize_suspicious'
+    | 'no_face'
+    | 'multiple_faces'
+    | 'face_mismatch';
   timestamp: Date;
   duration?: number; // ms
 }
