@@ -56,7 +56,7 @@
 **Prevention:** Strictly rely on `cf-connecting-ip` and completely remove `x-forwarded-for` fallback logic across the codebase to ensure robust rate limiting, geolocation detection, and API logging.
 
 ## 2026-08-18 - [Fix Hardcoded OPENCODE_API_KEY]
-**Vulnerability:** A hardcoded production `API_KEY` (sk-wMepzFhQrFxfq0RsKIM7fp3gPWftUL18E71lAq6rrqRDoFXLsHOI2HGxWINiaUmi) was exposed directly in multiple python script source files (`fix_empty_bundle.py`, `regenerate_bad_bundles.py`, `direct-generate-gateway.py`, `regen_mexico.py`).
+**Vulnerability:** A hardcoded production `API_KEY` (`sk-wMepz...REDACTED...`) was exposed directly in multiple python script source files (`fix_empty_bundle.py`, `regenerate_bad_bundles.py`, `direct-generate-gateway.py`, `regen_mexico.py`).
 **Learning:** Hardcoding API keys directly into scripts instead of fetching them securely from environment variables leaves the application vulnerable to credential theft and exploitation. Even auxiliary or generation scripts can leak critical access tokens if pushed to remote repositories.
 **Prevention:** Always retrieve secrets securely via environment variables (e.g., `os.environ.get("OPENCODE_API_KEY")`). Any newly created scripts that handle external APIs must use environment variables or encrypted secrets managers, and never embed literal strings starting with standard secret prefixes (e.g., `sk-`).
 
