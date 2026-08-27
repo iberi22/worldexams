@@ -79,7 +79,7 @@
             class="flex-1 bg-transparent border-none outline-none text-[#F5F5DC] placeholder-white/20"
             autocomplete="off"
           />
-          <button on:click={toggleSearch} class="text-xs uppercase tracking-widest text-white/40 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded px-1">
+          <button type="button" aria-label="Cerrar búsqueda" on:click={toggleSearch} class="text-xs uppercase tracking-widest text-white/40 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500 rounded px-1">
             ESC
           </button>
         </div>

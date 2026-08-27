@@ -8,3 +8,7 @@
 ## 2026-08-24 - [Add aria labels and aria-pressed states to voting buttons]
 **Learning:** Svelte seamlessly binds boolean values to aria-pressed attributes, making toggle buttons highly accessible with minimal code.
 **Action:** Always add aria-pressed along with aria-label on icon-only toggle buttons to properly announce state to screen readers.
+
+## 2024-12-06 - [Missing type=button on Search Modals]
+**Learning:** When creating a custom modal close button (like the ESC button), omitting `type="button"` can cause accidental form submissions or unexpected behaviors if the modal is ever placed inside a form. Additionally, adding `aria-label` makes the close button accessible to screen readers.
+**Action:** Always include `type="button"` and `aria-label` on custom icon-only close buttons.
