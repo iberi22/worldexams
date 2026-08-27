@@ -76,6 +76,7 @@
 
   {#if extraGrades.length > 0 && !showAllGrades}
     <button
+      type="button"
       onclick={() => (showAllGrades = true)}
       class="px-6 py-2 mt-4 text-emerald-400 hover:text-emerald-300 transition-colors uppercase text-sm tracking-widest font-semibold"
     >
@@ -84,6 +85,7 @@
   {/if}
 
   <button
+    type="button"
     onclick={onBack}
     class="px-6 py-2 border border-white/20 hover:bg-white/10 transition-colors uppercase text-xs tracking-widest opacity-60 hover:opacity-100"
   >
