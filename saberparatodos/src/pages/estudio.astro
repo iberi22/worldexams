@@ -130,11 +130,8 @@ import ExportButton from '../components/studio/ExportButton.astro';
     import { COUNTRY_RULE_HINTS, validateLocalQuestion, getCountryRuleHint } from '../lib/ai/exam-generator';
     import { getAiCore } from '../lib/ai/ai-core-client';
 
-    /** @type {File|null} */
-    let selectedFile = null;
-    /** @type {any[]} */
-    let ragChunks = [];
-    /** @type {string} */
+    let selectedFile: File | null = null;
+    let ragChunks: any[] = [];
     let parsedText = '';
 
     const ragPreview = document.getElementById('rag-preview');
@@ -147,7 +144,7 @@ import ExportButton from '../components/studio/ExportButton.astro';
     const genProgress = document.getElementById('gen-progress');
     const genBar = document.getElementById('gen-bar');
 
-    function show(el, msg, kind='info') {
+    function show(el: HTMLElement | null, msg: string, kind = 'info') {
       if (!el) return;
       el.textContent = msg;
       el.classList.remove('hidden');
@@ -157,9 +154,9 @@ import ExportButton from '../components/studio/ExportButton.astro';
       el.classList.toggle('border-red-500/20', kind==='error');
       el.classList.toggle('bg-red-500/10', kind==='error');
     }
-    function hide(el) { el?.classList.add('hidden'); }
+    function hide(el: HTMLElement | null) { el?.classList.add('hidden'); }
 
-    function renderChunks(selected) {
+    function renderChunks(selected: any[]) {
       if (!ragPreview || !ragChunksEl || !ragStats) return;
       if (!selected || selected.length === 0) { ragPreview.classList.add('hidden'); return; }
       ragPreview.classList.remove('hidden');

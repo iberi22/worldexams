@@ -25,6 +25,7 @@ saberparatodos/.wrangler/
 saberparatodos/dist/
 apps/*/dist/
 apps/*/.astro/
+.astro/
 dist/
 
 
@@ -89,3 +90,9 @@ credentials.json
 !scripts/validate-secrets.sh
 !saberparatodos/public/robots.txt
 !robots.txt
+
+# --- Backend Infrastructure & Standalone Services (Managed in dedicated apps) ---
+supabase/
+saberparatodos/supabase/
+services/
+
