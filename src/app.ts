@@ -1,6 +1,5 @@
 import http from 'http';
 import {
-  applySecurityHeaders,
   handleRateLimit,
   sanitizeParam,
   validateRequest,

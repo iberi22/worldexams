@@ -139,14 +139,12 @@ export function generateBundleMarkdown(
   const code = String(meta.countryCode || 'CO').toUpperCase();
   const subjCode = String(meta.subjectCode || inferSubjectCode(meta.asignatura)).toUpperCase();
   const gradeRaw = String(meta.grado ?? 6).toUpperCase();
-  const gradePart = gradeRaw === '3EM' ? '3EM' : String(Number(String(meta.grado).match(/\d+/)?.[0] || 6));
   const week = normalizeWeek(meta.week);
   const topic = toKebabAscii(meta.tema || 'tema-generado');
   const fileName = buildBundleFileName({ ...meta, subjectCode: subjCode, week, tema: topic });
   const id = fileName.replace(/\.md$/, '');
   const total = questions.length;
   const countryName = String(meta.country || 'colombia').toLowerCase();
-  const asignaturaSlug = toKebabAscii(meta.asignatura || 'matematicas').replace(/-/g, ' ') || 'matematicas';
   // keep original slug for frontmatter asignatura: lower, no accents? we store as passed but normalized
   const asignaturaFront = String(meta.asignatura || 'matematicas').toLowerCase().normalize('NFD').replace(/\p{M}/gu, '');
   const alignment = String(meta.alignment || defaultAlignment(countryName, code));

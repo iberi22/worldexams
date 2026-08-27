@@ -1,4 +1,4 @@
-import { describe, it, expect, vi, beforeAll } from 'vitest';
+import { describe, it, expect, vi } from 'vitest';
 import { extractTextFromArrayBuffer, extractTextFromUint8Array } from '../extractor';
 import { chunkPages } from '../chunker';
 
@@ -26,7 +26,7 @@ vi.mock('pdfjs-dist', async () => {
           promise: Promise.resolve({
             numPages: 1,
             getMetadata: () => Promise.resolve({ info: { Title: 'Empty PDF' } }),
-            getPage: (n: number) =>
+            getPage: (_n: number) =>
               Promise.resolve({
                 getTextContent: () => Promise.resolve({ items: [{ str: '', hasEOL: false }] }),
               }),
