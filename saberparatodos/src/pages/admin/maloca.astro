@@ -1,0 +1,63 @@
+---
+/**
+ * /admin/maloca — Admin Dashboard Page for Technical Telemetry & GitCore Monitoring
+ * Consumes MalocaAdminEmbed.svelte configured with app_id="worldexams".
+ * STRICT ISOLATION (BR-03 / REQ-009 / REQ-013):
+ * Student exam activity, student test scores, and private notes are strictly excluded from telemetry.
+ */
+import Layout from '../../layouts/Layout.astro';
+import MalocaAdminEmbed from '../../components/admin/MalocaAdminEmbed.svelte';
+import { resolveRuntimeCountryConfig } from '../../config';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+---
+
+<Layout
+  title={`Maloca Embed & GitCore Telemetry — Admin | ${country.product.siteName}`}
+  description="Panel de administración de telemetría de desarrollo Maloca y monitoreo GitCore para WorldExams. Exclusión estricta de datos de estudiantes (BR-03 / REQ-009)."
+>
+  <div class="min-h-screen bg-[#121212] text-white">
+    <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+      <!-- Top Navigation & Header -->
+      <div class="mb-6">
+        <a href="/" class="inline-flex items-center gap-2 text-white/50 hover:text-white transition-colors text-xs font-mono mb-3">
+          ← Volver al inicio
+        </a>
+        <div class="flex items-center justify-between flex-wrap gap-4">
+          <div>
+            <div class="flex items-center gap-2 mb-1">
+              <span class="px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-500/30 text-purple-400 text-[11px] font-mono font-bold uppercase">
+                Admin Zone
+              </span>
+              <span class="px-2.5 py-0.5 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-[11px] font-mono font-bold uppercase">
+                BR-03 Isolating Student Data
+              </span>
+            </div>
+            <h1 class="text-3xl font-bold tracking-tight text-[#F5F5DC]">
+              Maloca Telemetry & GitCore Admin
+            </h1>
+            <p class="text-xs text-white/60 mt-1 max-w-2xl">
+              Monitoreo de conformidad de código, pipelines CI/CD y backlog de características GitCore para la aplicación <code class="font-mono text-purple-300">worldexams</code>.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Maloca Svelte Component Embed -->
+      <main id="maloca-admin-root">
+        <MalocaAdminEmbed client:load appId="worldexams" />
+      </main>
+
+      <!-- Persistent Isolation Footer Notice -->
+      <footer class="mt-8 p-4 bg-white/5 border border-white/10 rounded-xl text-xs text-white/60 leading-relaxed">
+        <div class="font-bold text-white/90 mb-1 flex items-center gap-2">
+          <span>🔒 Declaración de Aislamiento de Telemetría (BR-03 / REQ-009 / REQ-013)</span>
+        </div>
+        <p>
+          Este panel de administración consume telemetría técnica de desarrollo y métricas de CI/CD para el paquete <code class="font-mono text-purple-300 bg-white/10 px-1 py-0.5 rounded">@swal/maloca-embed</code>.
+          Está prohibida y técnicamente excluida cualquier recopilación de actividad de examen, notas privadas de estudiantes o tokens de uso en flujos de estudiantes (<code class="font-mono text-emerald-400 bg-white/10 px-1 py-0.5 rounded">/practica</code>, <code class="font-mono text-emerald-400 bg-white/10 px-1 py-0.5 rounded">/leaderboard</code>, <code class="font-mono text-emerald-400 bg-white/10 px-1 py-0.5 rounded">/sala-examenes</code>).
+        </p>
+      </footer>
+    </div>
+  </div>
+</Layout>
