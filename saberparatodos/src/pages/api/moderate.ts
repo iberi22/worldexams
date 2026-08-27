@@ -76,8 +76,8 @@ function getCsrfToken(request: Request): string | null {
 function isValidOrigin(request: Request): boolean {
   const origin = request.headers.get('origin');
   const referer = request.headers.get('referer');
-  // Allow requests with no origin header (e.g., direct curl) or with valid origin/referer
-  if (!origin && !referer) return true;
+  // Fail closed: Do not allow requests with no origin and no referer header to prevent CSRF bypass
+  if (!origin && !referer) return false;
   const allowedOrigins = [
     'http://localhost:4321',
     'https://saberparatodos.com',
