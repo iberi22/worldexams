@@ -8,6 +8,7 @@
 import Layout from '../layouts/Layout.astro';
 import LeaderboardGlobal from '../components/leaderboard/LeaderboardGlobal.astro';
 import LeaderboardLocal from '../components/leaderboard/LeaderboardLocal.astro';
+import LeaderboardLiveMesh from '../components/leaderboard/LeaderboardLiveMesh.svelte';
 import { resolveRuntimeCountryConfig } from '../config';
 
 const country = resolveRuntimeCountryConfig(Astro.locals.country);
@@ -39,6 +40,7 @@ const country = resolveRuntimeCountryConfig(Astro.locals.country);
     </div>
 
     <div class="py-6 space-y-6">
+      <LeaderboardLiveMesh client:load />
       <LeaderboardGlobal />
       <LeaderboardLocal />
     </div>
