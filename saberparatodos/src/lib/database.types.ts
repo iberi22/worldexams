@@ -462,6 +462,92 @@ export interface Database {
         Relationships: []
       }
 
+      community_explanations: {
+        Row: {
+          id: string
+          question_id: string
+          node_hash: string
+          content: string
+          vote_count: number
+          status: 'draft' | 'published' | 'flagged'
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          question_id: string
+          node_hash: string
+          content: string
+          vote_count?: number
+          status?: 'draft' | 'published' | 'flagged'
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          question_id?: string
+          node_hash?: string
+          content?: string
+          vote_count?: number
+          status?: 'draft' | 'published' | 'flagged'
+          created_at?: string
+        }
+        Relationships: []
+      }
+
+      community_votes: {
+        Row: {
+          id: string
+          explanation_id: string
+          voter_node_hash: string
+          signature: string
+          vote: number
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          explanation_id: string
+          voter_node_hash: string
+          signature: string
+          vote: number
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          explanation_id?: string
+          voter_node_hash?: string
+          signature?: string
+          vote?: number
+          created_at?: string
+        }
+        Relationships: []
+      }
+
+      community_replies: {
+        Row: {
+          id: string
+          explanation_id: string
+          node_hash: string
+          content: string
+          parent_reply_id: string | null
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          explanation_id: string
+          node_hash: string
+          content: string
+          parent_reply_id?: string | null
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          explanation_id?: string
+          node_hash?: string
+          content?: string
+          parent_reply_id?: string | null
+          created_at?: string
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
