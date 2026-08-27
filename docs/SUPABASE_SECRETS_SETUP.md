@@ -56,7 +56,7 @@ Después de configurar `CRON_SECRET`:
    ```sql
    SELECT
      net.http_post(
-       url := 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/refill-credits',
+       url := 'https://your-project.supabase.co/functions/v1/refill-credits',
        headers := jsonb_build_object(
          'Content-Type', 'application/json',
          'Authorization', 'Bearer ' || current_setting('app.settings.cron_secret')
