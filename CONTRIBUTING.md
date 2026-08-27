@@ -30,29 +30,22 @@
 
 ### Formas de contribuir:
 
-1. **Reportar bugs** —Si encuentras un error en bundles o código, abre un issue
-2. **Sugerir mejoras** — Ideas para nuevo contenido, features o procesos
-3. **Crear bundles** — Generar preguntas para países soportados (¡la contribución más valiosa!)
-4. **Revisar bundles** — Ayudar con control de calidad de preguntas existentes
-5. **Escribir código** — Frontend, API, scripts de validación, tests
-6. **Mejorar documentación** — Correcciones, traducciones, ejemplos
+1. **Reportar erratas pedagógicas** — Reporta directamente desde la app en el botón de corrección de la pregunta (`/api/corrections`).
+2. **Soporte técnico y dudas comunitarias** — A través de la red de soporte de **Maloca Support** (`app_id="worldexams"`).
+3. **Crear bundles** — Generar preguntas para países soportados (¡la contribución más valiosa!).
+4. **Revisar bundles** — Ayudar con control de calidad y revisión pedagógica de preguntas existentes.
+5. **Escribir código** — Frontend, API Gateway, adaptadores SSR, scripts de validación, tests.
+6. **Mejorar documentación** — Correcciones, especificaciones, ejemplos de despliegue.
 
 ---
 
-## 🐛 Reportar Issues
+## 🐛 Reportar Issues y Soporte Comunitario (Maloca)
 
-Usa las plantillas de GitHub Issues:
+Para mantener una atención organizada y contextualizada:
 
-- **Bug report:** Para errores en bundles, API o frontend
-- **Feature request:** Para sugerir nuevas funcionalidades
-- **Content request:** Para solicitar bundles de un país/materia/grado específico
-
-**Incluye siempre:**
-- Título descriptivo
-- Pasos para reproducir (si aplica)
-- Comportamiento esperado vs actual
-- País, materia, grado y semana (para issues de contenido)
-- Screenshots o logs (si aplica)
+* **Para errores en preguntas específicas:** Usa el reporte directo in-app en la interfaz de práctica. La corrección se asocia de forma atómica al ID de la pregunta y pasa al flujo de revisión editorial.
+* **Para soporte técnico, arquitectura o colaboración:** Participa en la red **Maloca** o consulta el panel administrativo [`/admin/maloca`](file:///home/belal/proyectosSWAL/apps/worldexams/saberparatodos/src/pages/admin/maloca.astro) con `@swal/maloca-embed`.
+* **Para contribuciones de código en GitHub:** Usa las plantillas de GitHub Issues configuradas en el repositorio.
 
 ---
 

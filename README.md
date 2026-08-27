@@ -86,25 +86,23 @@ npm run dev
 npm run build
 ```
 
-## Security Notes
+## Licencia & Filosofía Open Source
 
-- Never expose `SUPABASE_SERVICE_ROLE_KEY` in client code.
-- Keep question banks, source materials, and unreleased operational content private.
-- Validate any legacy deploy or repo-topology docs against the root governance layer before acting.
+Este proyecto se distribuye bajo la licencia **GNU Affero General Public License v3.0 (AGPL-3.0-only)**. Es una iniciativa de código abierto orientada a democratizar la preparación para exámenes de estado y la educación libre en América Latina y el mundo.
 
-## Estado Actual
+## 🤝 Soporte & Canales Comunitarios (Maloca)
 
-| Indicador | Valor |
-|-----------|-------|
-| Features en producción | 7/10 |
-| Países implementados | 13 (en distintas fases) |
-| Workflows CI/CD activos | 6 |
-| Pipeline de integración | Automático cada 30 min |
+WorldExams gestiona sus incidencias, retroalimentación y soporte comunitario a través del ecosistema **Maloca**:
 
-**Estados por país:** CO, MX, AR, BR, CL, PE, EC, PA, CR, GT, DO, SV, HN, NI, ES, PR, GQ, UY, PY, BO (20 países en total)
+1. **Correcciones Pedagógicas In-App:** Los estudiantes y docentes pueden reportar erratas o sugerir mejoras en preguntas directamente desde la interfaz de examen a través del endpoint `/api/corrections`.
+2. **Panel de Monitoreo & Soporte Técnico Maloca:** Integrado en [`/admin/maloca`](file:///home/belal/proyectosSWAL/apps/worldexams/saberparatodos/src/pages/admin/maloca.astro) mediante `@swal/maloca-embed` (`app_id="worldexams"`), permitiendo supervisar métricas de desarrollo y estado de la red.
+3. **Aislamiento Ético del Menor (BR-03 / D-103):** Se garantiza que ninguna actividad estudiantil, calificación o nota privada sea objeto de telemetría, comercio de datos o gamificación con tokens.
 
 ---
 
-## Contact
+## Contacto & Enlaces
 
-- Product site: [saberparatodos.space](https://saberparatodos.space)
+- **Portal Principal:** [saberparatodos.space](https://saberparatodos.space)
+- **API Gateway:** [api.saberparatodos.space](https://api.saberparatodos.space)
+- **Organización GitHub:** [world-exams](https://github.com/world-exams)
+
