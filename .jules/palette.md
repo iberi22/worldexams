@@ -8,3 +8,6 @@
 ## 2026-08-24 - [Add aria labels and aria-pressed states to voting buttons]
 **Learning:** Svelte seamlessly binds boolean values to aria-pressed attributes, making toggle buttons highly accessible with minimal code.
 **Action:** Always add aria-pressed along with aria-label on icon-only toggle buttons to properly announce state to screen readers.
+## 2024-11-20 - [Add explicit type="button" to action buttons]
+**Learning:** Svelte buttons without an explicit `type` attribute inside potentially reactive contexts can sometimes be misinterpreted by assistive technologies or unexpectedly trigger form submissions if wrapped later. Adding `type="button"` ensures consistent, predictable behavior.
+**Action:** Always explicitly declare `type="button"` for interactive `<button>` elements that are not intended to submit forms.
