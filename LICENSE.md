@@ -1,27 +1,18 @@
-# 📜 Licencias - World Exams Organization
+# 📜 Licencias - World Exams Organization (GNU Affero AGPL-3.0-only)
 
-**Última actualización:** 2026-01-26
+**Última actualización:** 2026-03-30
 
 > [!IMPORTANT]
-> Este proyecto adopta un modelo de **"Source Available" (Código Disponible)**.
-> El código es público y gratuito para ver, aprender, modificar y usar, **EXCEPTO** para crear productos comerciales que compitan directamente con World Exams.
+> Este proyecto se distribuye bajo licencias de código abierto e información educativa abierta.
+> El código fuente está licenciado bajo **GNU Affero General Public License v3.0 (AGPL-3.0-only)** y el contenido educativo bajo **CC BY-NC-SA 4.0**.
 
 ---
 
-## 1. Código Fuente: PolyForm Shield 1.0.0
+## 1. Código Fuente: AGPL-3.0-only
 
-Todo el código fuente (Componentes Svelte, Lógica Astro, Scripts, Utils) está licenciado bajo **PolyForm Shield License 1.0.0**.
+Todo el código fuente (Servicios Backend, Gateway Worker, Componentes Svelte, Lógica Astro, Scripts, Utils) está licenciado bajo la **GNU Affero General Public License v3.0** (`AGPL-3.0-only`).
 
-**Permisos:**
-- ✅ Puedes copiar, modificar y distribuir el código.
-- ✅ Puedes usarlo para proyectos personales, académicos o internos.
-- ✅ Puedes crear servicios complementarios que no compitan.
-
-**Restricciones:**
-- ❌ **NO puedes** usar este software para crear un servicio que compita con World Exams (ej: otra plataforma de simulacros de pago).
-- ❌ **NO puedes** empaquetar este código y venderlo como un producto propio.
-
-[Leer Licencia Completa (PolyForm Shield 1.0.0)](https://polyformproject.org/licenses/shield/1.0.0/)
+Consulta el archivo [LICENSE](./LICENSE) para ver el texto completo de la licencia GNU Affero General Public License v3.
 
 ---
 
@@ -57,6 +48,6 @@ Para usos comerciales (Academias, Colegios, Apps de terceros), **World Exams Aut
 ## 4. Contribuciones
 
 Al contribuir a este repositorio, aceptas que:
-1.  Tu código quedará bajo **PolyForm Shield 1.0.0**.
+1.  Tu código quedará bajo **AGPL-3.0-only**.
 2.  Tu contenido (preguntas) quedará bajo **CC BY-NC-SA 4.0**.
 3.  World Exams Organization conserva el derecho de relicenciar el proyecto para sus productos comerciales (CLA implícito).
