@@ -26,6 +26,6 @@ const country = resolveRuntimeCountryConfig(Astro.locals.country);
       </p>
     </div>
 
-    <OfflineGradeDownloader client:load defaultCountry={country.countryCode} />
+    <OfflineGradeDownloader client:load defaultCountry={country.code} />
   </main>
 </Layout>

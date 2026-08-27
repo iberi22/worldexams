@@ -124,7 +124,7 @@ const { questions = [] } = Astro.props;
       const field = el.getAttribute('data-field');
       const idx = Number(el.getAttribute('data-idx'));
       const handler = () => {
-        const val = (el as HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement).value;
+        const val = el.value || '';
         if (field === 'bloom') state[idx].bloom = val;
         else if (field === 'difficulty') state[idx].difficulty = val;
         else if (field === 'context') state[idx].context = val;
