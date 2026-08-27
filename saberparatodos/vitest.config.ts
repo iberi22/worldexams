@@ -2,12 +2,15 @@
 import { defineConfig } from 'vitest/config';
 import { loadEnv } from 'vite';
 import { fileURLToPath } from 'node:url';
+import { svelte } from '@sveltejs/vite-plugin-svelte';
 
 export default defineConfig(({ mode }) => {
   // Load Astro-style PUBLIC_* vars from .env so import.meta.env works in unit tests
   const env = loadEnv(mode, process.cwd(), '');
   return {
+    plugins: [svelte()],
     resolve: {
+      conditions: ['browser'],
       alias: {
         'edge-mesh': fileURLToPath(new URL('./src/lib/ai/__mocks__/edge-mesh-stub.ts', import.meta.url)),
         '@': fileURLToPath(new URL('./src', import.meta.url)),
