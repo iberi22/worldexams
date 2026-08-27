@@ -61,7 +61,7 @@ npx wrangler pages deploy dist --project-name=worldexams-api
 Ve a: https://dash.cloudflare.com → Pages → worldexams-api → Settings → Environment variables
 
 Agrega:
-- `SUPABASE_URL`: `https://tzmrgvtptdtsjcugwqyq.supabase.co`
+- `SUPABASE_URL`: `https://your-project.supabase.co`
 - `SUPABASE_ANON_KEY`: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...` (la misma que en .env)
 
 ## 🔑 Configuración de API Key (Opcional)

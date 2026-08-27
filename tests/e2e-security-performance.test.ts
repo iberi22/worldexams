@@ -21,7 +21,7 @@ import { createServer } from '../src/app';
 import { resetRateLimits } from '../src/middleware/security';
 import http from 'http';
 
-const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1';
+const EDGE_FUNCTION_URL = process.env.SUPABASE_URL ? `${process.env.SUPABASE_URL}/functions/v1` : 'https://your-project.supabase.co/functions/v1';
 const FRONTEND_URL =
   process.env.PLAYWRIGHT_BASE_URL ||
   'https://saberparatodos.space';

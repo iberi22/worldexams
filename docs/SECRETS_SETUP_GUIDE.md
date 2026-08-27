@@ -120,12 +120,12 @@
 
 **Ya tienes las credenciales:**
 
-1. `SUPABASE_URL`: `https://tzmrgvtptdtsjcugwqyq.supabase.co`
+1. `SUPABASE_URL`: `https://your-project.supabase.co`
 2. `SUPABASE_SERVICE_ROLE_KEY`: (secret key del dashboard)
 
 **En GitHub:**
 1. New secret: `SUPABASE_URL`
-2. Valor: `https://tzmrgvtptdtsjcugwqyq.supabase.co`
+2. Valor: `https://your-project.supabase.co`
 3. New secret: `SUPABASE_SERVICE_ROLE_KEY`
 4. Valor: (copiar del dashboard Supabase → Settings → API)
 
@@ -223,7 +223,7 @@ TWITTER_API_SECRET=dev_secret
 GITHUB_TOKEN=ghp_testing_xxxxx
 
 # Supabase (mismo proyecto pero con precaución)
-SUPABASE_URL=https://tzmrgvtptdtsjcugwqyq.supabase.co
+SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=testing_key
 ```
 
