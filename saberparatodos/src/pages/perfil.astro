@@ -1,0 +1,23 @@
+---
+import Layout from '../layouts/Layout.astro';
+import UserProfile from '../components/UserProfile.svelte';
+---
+
+<Layout title="Perfil de Usuario | WorldExams" description="Gestiona tu perfil opcional de estudiante en WorldExams.">
+  <main class="min-h-screen bg-black text-white pt-24 pb-16 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-4xl mx-auto space-y-8">
+      <!-- Header -->
+      <div class="text-center space-y-2">
+        <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-white">
+          Configuración de Perfil
+        </h1>
+        <p class="text-zinc-400 text-sm max-w-lg mx-auto">
+          Personaliza tu experiencia de preparación. El llenado de tu perfil es totalmente opcional.
+        </p>
+      </div>
+
+      <!-- Svelte User Profile Component -->
+      <UserProfile client:load />
+    </div>
+  </main>
+</Layout>
