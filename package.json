@@ -33,7 +33,8 @@
     "astro": "npm run astro -w @worldexams/landing-worldexams",
     "lint": "eslint src/",
     "jules:issue-matrix": "node scripts/generate-jules-issue-matrix.mjs",
-    "smoke:geo": "node scripts/smoke-geo-routing.mjs"
+    "smoke:geo": "node scripts/smoke-geo-routing.mjs",
+    "sync:upstream": "bash scripts/gitcore-sync-upstream.sh"
   },
   "devDependencies": {
     "@playwright/test": "^1.57.0",
