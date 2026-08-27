@@ -21,7 +21,7 @@ jobs:
   # =========================================================================
   audit-and-verify:
     name: 🛡️ Preflight Audit & Quality Gates
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux]
     timeout-minutes: 10
 
     steps:
@@ -55,7 +55,7 @@ jobs:
   deploy-api:
     name: 🚀 Deploy API Worker (Cloudflare)
     needs: audit-and-verify
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux]
     timeout-minutes: 10
     environment:
       name: production
@@ -92,7 +92,7 @@ jobs:
   deploy-saberparatodos:
     name: 🚀 Deploy SaberParaTodos SSR PWA (Cloudflare)
     needs: audit-and-verify
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux]
     timeout-minutes: 15
     environment:
       name: production
@@ -142,7 +142,7 @@ jobs:
   smoke-test:
     name: 🩺 Post-Deploy Health & Smoke Check
     needs: [deploy-api, deploy-saberparatodos]
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux]
     timeout-minutes: 5
 
     steps:
@@ -168,7 +168,7 @@ jobs:
   version-tag:
     name: 🏷️ GitCore Release Tagging
     needs: smoke-test
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux]
     if: success()
 
     steps:
