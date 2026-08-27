@@ -466,11 +466,13 @@
     if (compStats.length > 0) {
       const sorted = [...compStats].sort((a, b) => b.weightedScore - a.weightedScore);
       strengths = sorted.slice(0, 3);
-      weaknesses = sorted.slice().reverse().slice(0, 3); // Reverse of desc sort = asc sort
+      // ⚡ Bolt Optimization: Use slice(-3).reverse() to extract weaknesses without allocating a full O(N) intermediate array clone
+      weaknesses = sorted.slice(-3).reverse(); // Reverse of desc sort = asc sort
     } else if (subjStats.length > 0) {
       const sorted = [...subjStats].sort((a, b) => b.weightedScore - a.weightedScore);
       strengths = sorted.slice(0, 3);
-      weaknesses = sorted.slice().reverse().slice(0, 3);
+      // ⚡ Bolt Optimization: Use slice(-3).reverse() to extract weaknesses without allocating a full O(N) intermediate array clone
+      weaknesses = sorted.slice(-3).reverse();
     }
 
     return {
