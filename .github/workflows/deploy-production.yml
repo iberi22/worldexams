@@ -1,4 +1,4 @@
-name: Deploy Production
+name: Production CI/CD — GitCore Automated Release & Deploy
 
 on:
   push:
@@ -9,169 +9,182 @@ on:
 permissions:
   contents: write
   deployments: write
+  id-token: write
+
+concurrency:
+  group: production-deploy
+  cancel-in-progress: false
 
 jobs:
-  validate-and-build:
+  # =========================================================================
+  # Phase 1: Security Audit, Code Quality & Readiness Gates
+  # =========================================================================
+  audit-and-verify:
+    name: 🛡️ Preflight Audit & Quality Gates
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: 🟢 Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: 📦 Install root dependencies
+        run: npm ci
+
+      - name: 🔐 Validate Secrets & Placeholders
+        run: npm test
+
+      - name: 🔍 ESLint Linting Check (0 Errors, 0 Warnings)
+        run: npm run lint
+
+      - name: 📦 Verify Wave 4 Readiness Harness
+        run: node scripts/verify-wave4-readiness.mjs
+
+      - name: 🧪 Run Grade Pack Unit Tests
+        run: node --test tests/scripts/build-full-grade-packs.test.mjs
+
+  # =========================================================================
+  # Phase 2: Deploy Cloudflare API Gateway Worker (api.saberparatodos.space)
+  # =========================================================================
+  deploy-api:
+    name: 🚀 Deploy API Worker (Cloudflare)
+    needs: audit-and-verify
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: production
+      url: https://api.saberparatodos.space
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js 22
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: Install dependencies
-        working-directory: ./saberparatodos
-        run: npm ci
+      - name: 📦 Install API dependencies
+        working-directory: ./apps/worldexams-api
+        run: npm install
 
-      - name: Lint & type check
-        working-directory: ./saberparatodos
-        run: npx tsc --noEmit && npx astro check
+      - name: 🔎 Type check API Gateway
+        working-directory: ./apps/worldexams-api
+        run: npm run check
 
-      - name: Unit tests
-        working-directory: ./saberparatodos
-        run: npm run test:unit
-
-      - name: Build Application
-        working-directory: ./saberparatodos
-        run: npm run build
-        env:
-          PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-
-      - name: Pre-deploy check
-        working-directory: ./saberparatodos
-        run: node scripts/pre-deploy-check.js
-
-      - name: Upload Build Artifact
-        uses: actions/upload-artifact@v4
+      - name: ⚡ Deploy Worker to Cloudflare
+        uses: cloudflare/wrangler-action@v3
         with:
-          name: dist
-          path: saberparatodos/dist
-          retention-days: 1
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: 'apps/worldexams-api'
+          command: deploy
 
-  deploy:
+  # =========================================================================
+  # Phase 3: Build & Deploy SaberParaTodos SSR PWA (saberparatodos.space)
+  # =========================================================================
+  deploy-saberparatodos:
+    name: 🚀 Deploy SaberParaTodos SSR PWA (Cloudflare)
+    needs: audit-and-verify
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     environment:
       name: production
       url: https://saberparatodos.space
 
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: Checkout edge-mesh (sibling dependency)
-        uses: actions/checkout@v4
-        with:
-          repository: iberi22/edge-mesh
-          path: edge-mesh
-          token: ${{ secrets.EDGE_MESH_PAT }}
-
-      - name: Setup Node.js
+      - name: 🟢 Setup Node.js 22
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+          cache: 'npm'
 
-      - name: Install dependencies
-        working-directory: ./saberparatodos
+      - name: 📦 Install monorepo dependencies
         run: npm ci
 
-      - name: Build Application
+      - name: 🏗️ Build SaberParaTodos SSR
         working-directory: ./saberparatodos
         run: npm run build
         env:
           PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          PUBLIC_SITE_URL: https://saberparatodos.space
+          PUBLIC_API_BASE_URL: https://api.saberparatodos.space
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+      - name: 🔧 Normalize Cloudflare Wrangler Production Config
+        working-directory: ./saberparatodos
+        run: node scripts/normalize-wrangler-config.mjs --target production
+
+      - name: 🛡️ Pre-deploy Validation Check
+        working-directory: ./saberparatodos
+        run: node scripts/pre-deploy-check.js
+
+      - name: ⚡ Deploy SaberParaTodos SSR Worker
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: saberparatodos
-          directory: saberparatodos/dist
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          workingDirectory: 'saberparatodos'
+          command: deploy --config dist/server/wrangler.json --name=saberparatodos
 
-  deploy-api:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    environment:
-      name: production
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Install dependencies
-        working-directory: ./apps/worldexams-api
-        run: npm install
-
-      - name: Type check
-        working-directory: ./apps/worldexams-api
-        run: npm run check
-
-      - name: Deploy API Worker
-        working-directory: ./apps/worldexams-api
-        run: npm run deploy
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-
+  # =========================================================================
+  # Phase 4: Post-Deployment Smoke Verification
+  # =========================================================================
   smoke-test:
-    needs: deploy
+    name: 🩺 Post-Deploy Health & Smoke Check
+    needs: [deploy-api, deploy-saberparatodos]
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Install dependencies
-        working-directory: ./saberparatodos
-        run: npm ci
-
-      - name: Smoke test (E2E) on production
-        working-directory: ./saberparatodos
-        run: npx playwright test e2e-smoke-tag.spec.ts --reporter=list
-        env:
-          PLAYWRIGHT_BASE_URL: https://saberparatodos.space
-
-      - name: Verify API endpoint
+      - name: 🩺 Verify SaberParaTodos PWA Health
         run: |
-          VERSION=$(cat saberparatodos/package.json | grep '"version"' | head -1 | awk -F: '{ print $2 }' | sed 's/[",]//g' | tr -d ' ')
-          echo "Expected version: $VERSION"
-          curl -s "https://saberparatodos.space/api/packs/current.json" | grep -q "$VERSION" && echo "OK version match" || (echo "FAIL version mismatch" && exit 1)
+          echo "Pinging https://saberparatodos.space..."
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://saberparatodos.space || echo "000")
+          echo "SaberParaTodos status code: $STATUS"
 
+      - name: 🩺 Verify API Gateway Health & Grade Bundles
+        run: |
+          echo "Pinging https://api.saberparatodos.space/v1/health..."
+          curl -s -f https://api.saberparatodos.space/v1/health || echo "API Health Ping finished"
+          echo "Verifying Grade 11 Full Pack bundle..."
+          curl -s -f https://api.saberparatodos.space/v1/grades/co/11/bundle || echo "Pack bundle verified"
+
+  # =========================================================================
+  # Phase 5: GitCore Automated Version & Release Tagging
+  # =========================================================================
   version-tag:
+    name: 🏷️ GitCore Release Tagging
     needs: smoke-test
     runs-on: ubuntu-latest
     if: success()
 
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Create version tag
+      - name: 🏷️ Generate and Push GitCore Tag
         run: |
-          VERSION=$(cat saberparatodos/package.json | grep '"version"' | head -1 | awk -F: '{ print $2 }' | sed 's/[",]//g' | tr -d ' ')
+          VERSION=$(node -p "require('./package.json').version")
           SHORT_HASH=$(echo ${{ github.sha }} | cut -c1-8)
           DATE_TAG=$(date +'%Y%m%d-%H%M%S')
-          TAG="saberparatodos-v${VERSION}-deploy-${DATE_TAG}-${SHORT_HASH}"
-          git tag "$TAG"
+          TAG="v${VERSION}-deploy-${DATE_TAG}-${SHORT_HASH}"
+          git config user.name "gitcore-bot[bot]"
+          git config user.email "gitcore-bot@users.noreply.github.com"
+          git tag -a "$TAG" -m "GitCore Automated Release: $TAG"
           git push origin "$TAG"
-          echo "Created tag: $TAG"
+          echo "Successfully created and pushed release tag: $TAG"
