@@ -106,3 +106,34 @@ export async function parsePDFFromBuffer(
   const file = new File([buffer], fileName, { type: 'application/pdf' });
   return parsePDF(file, options);
 }
+
+/**
+ * Helper de alto nivel para estudio.astro:
+ * Ingesta un archivo PDF para RAG y retorna el texto consolidado y los chunks más relevantes.
+ */
+export async function ingestPDFForRAG(
+  file: File,
+  options: { query?: string; topK?: number; chunkSize?: number; overlap?: number } = {}
+): Promise<{
+  parsed: { text: string; numPages: number; metadata?: unknown };
+  selected: import('./chunker').Chunk[];
+  doc: PDFDoc;
+}> {
+  const doc = await parsePDF(file, {
+    chunkSize: options.chunkSize ?? 900,
+    overlap: options.overlap ?? 50,
+  });
+  const text = doc.chunks.map((c) => c.text).join('\n\n');
+  const topK = options.topK ?? 5;
+  const selected = doc.chunks.slice(0, topK);
+  return {
+    parsed: {
+      text,
+      numPages: doc.numPages,
+      metadata: doc.metadata,
+    },
+    selected,
+    doc,
+  };
+}
+

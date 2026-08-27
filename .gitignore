@@ -23,6 +23,10 @@ saberparatodos/public/api/
 saberparatodos/.astro/
 saberparatodos/.wrangler/
 saberparatodos/dist/
+apps/*/dist/
+apps/*/.astro/
+dist/
+
 
 # --- Node ---
 node_modules/
