@@ -411,8 +411,48 @@ export default {
           health: "/health",
           free_questions: "/v1/questions",
           premium_questions: "/v1/premium/questions",
+          grade_bundle: "/v1/grades/:country/:grade/bundle",
         },
       }, 200, {}, request)
+    }
+
+    const gradeBundleMatch = url.pathname.match(/^\/v1\/grades\/([^\/]+)\/([^\/]+)\/bundle$/i)
+    if (gradeBundleMatch) {
+      const country = gradeBundleMatch[1].toLowerCase()
+      const grade = gradeBundleMatch[2].toLowerCase()
+      const assetPath = `/v1/grades/${country}-grado-${grade}-full.json`
+      const assetUrl = new URL(assetPath, url.origin)
+      const assetResponse = await env.ASSETS.fetch(
+        new Request(assetUrl.toString(), {
+          method: "GET",
+          headers: request.headers,
+        })
+      )
+
+      if (assetResponse.ok) {
+        const headers = new Headers(assetResponse.headers)
+        headers.set("Content-Type", "application/json")
+        headers.set("Cache-Control", "public, max-age=86400, s-maxage=604800")
+        Object.entries(corsHeadersFor(request)).forEach(([key, value]) =>
+          headers.set(key, value)
+        )
+        return new Response(assetResponse.body, {
+          status: 200,
+          headers,
+        })
+      }
+
+      return json(
+        {
+          error: "GRADE_BUNDLE_NOT_FOUND",
+          message: `Grade bundle for country '${country}' and grade '${grade}' was not found.`,
+          country,
+          grade,
+        },
+        404,
+        {},
+        request
+      )
     }
 
     if (url.pathname === "/health") {
