@@ -42,7 +42,7 @@ http://localhost:4321/training
 
 **Expected Backend Call:**
 ```
-POST https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/start-training-session
+POST https://your-project.supabase.co/functions/v1/start-training-session
 Body: { "subject": "matematicas", "topic": "algebra" }
 ```
 
@@ -73,7 +73,7 @@ Body: { "subject": "matematicas", "topic": "algebra" }
 
 **Expected Backend Call:**
 ```
-POST https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/generate-infographic
+POST https://your-project.supabase.co/functions/v1/generate-infographic
 Body: {
   "topic": "algebra",
   "visual_style": "minimalist",

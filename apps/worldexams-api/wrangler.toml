@@ -7,8 +7,8 @@ workers_dev = false
 # SUPABASE_ANON_KEY is intentionally public (read-only access, gated by RLS).
 # NEVER add SUPABASE_SERVICE_ROLE_KEY here — use `wrangler secret put` instead.
 [vars]
-SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co"
-SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR6bXJndnRwdGR0c2pjdWd3cXlxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxMTc0NDYsImV4cCI6MjA3OTY5MzQ0Nn0.sPtxeTyDlF9sdQVrfM1wLp_RLKhI1sFk0W-h8Mc_VIc"
+SUPABASE_URL = "https://your-project.supabase.co"
+SUPABASE_ANON_KEY = "your_supabase_anon_key_here"
 
 [[routes]]
 pattern = "api.saberparatodos.space/*"

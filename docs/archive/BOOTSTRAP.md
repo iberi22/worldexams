@@ -161,7 +161,7 @@ cd saberparatodos && node scripts/generate-static-packs.js --all-weekly
 
 - **Producto:** https://saberparatodos.space
 - **Bot de Telegram:** @saberparatodoscol_bot
-- **Supabase Dashboard:** https://supabase.com/dashboard/project/tzmrgvtptdtsjcugwqyq
+- **Supabase Dashboard:** https://supabase.com/dashboard/project/your-project
 - **Skills del agente:** `skills/` (12 skills disponibles)
 - **Documentación completa:** `docs/`
 

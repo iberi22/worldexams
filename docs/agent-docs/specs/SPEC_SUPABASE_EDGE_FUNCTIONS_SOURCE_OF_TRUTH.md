@@ -31,7 +31,7 @@ This tree owns the product-linked Supabase project currently referenced by:
 
 Current linked project ref:
 
-- `tzmrgvtptdtsjcugwqyq`
+- `your-project`
 
 ## Legacy Tree
 

@@ -89,6 +89,6 @@ _Última actualización: 29 Nov 2025_
 
 ## 🔗 Recursos Internos
 
-- **Supabase:** [Dashboard](https://supabase.com/dashboard/project/tzmrgvtptdtsjcugwqyq)
+- **Supabase:** [Dashboard](https://supabase.com/dashboard/project/your-project)
 - **Bot:** [@saberparatodoscol_bot](https://t.me/saberparatodoscol_bot)
 - **Repo:** [iberi22/saberparatodos](https://github.com/iberi22/saberparatodos)

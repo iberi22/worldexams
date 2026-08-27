@@ -536,7 +536,7 @@ TWITTER_ACCESS_SECRET=xxx
 TWITTER_BEARER_TOKEN=xxx
 
 # Supabase
-SUPABASE_URL=https://tzmrgvtptdtsjcugwqyq.supabase.co
+SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=xxx
 
 # GitHub
