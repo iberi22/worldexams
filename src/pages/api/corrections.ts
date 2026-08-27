@@ -48,7 +48,7 @@ export const OPTIONS: APIRoute = async () => {
  * - listar reportes por question_id
  * - si no hay query, lista todos (útil para admin) filtrado opcional por status
  */
-export const GET: APIRoute = async ({ request, url }) => {
+export const GET: APIRoute = async ({ request: _request, url }) => {
   try {
     const questionId = url.searchParams.get('question_id') || url.searchParams.get('questionId');
     const id = url.searchParams.get('id');

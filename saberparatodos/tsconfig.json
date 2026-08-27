@@ -10,5 +10,6 @@
       "edge-mesh": ["src/lib/ai/__mocks__/edge-mesh-stub.ts"]
     }
   },
-  "exclude": ["template-openicfes", "supabase", "functions", "dist", "video-pipeline", "scripts"]
+  "include": ["src/**/*", "src/env.d.ts"],
+  "exclude": ["template-openicfes", "supabase", "functions", "dist", "video-pipeline", "scripts", "tests", "tools", "coverage"]
 }

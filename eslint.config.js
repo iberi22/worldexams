@@ -14,12 +14,14 @@ export default [
       '**/coverage/**',
       '**/.vscode/**',
       '**/.github/**',
+      '**/apps/**',
+      '**/saberparatodos/**',
     ],
   },
 
   // TypeScript files
   {
-    files: ['**/*.ts', '**/*.tsx', '**/*.js', '**/*.mjs'],
+    files: ['src/**/*.ts', 'src/**/*.tsx', 'src/**/*.js', 'src/**/*.mjs', 'scripts/**/*.js', 'scripts/**/*.mjs', 'tests/**/*.ts', 'tests/**/*.js', 'tests/**/*.mjs'],
     plugins: {
       '@typescript-eslint': tseslint,
     },
@@ -39,8 +41,8 @@ export default [
       // Disable conflicting base rules
       'no-unused-vars': 'off',
       // TypeScript ESLint rules
-      '@typescript-eslint/no-unused-vars': 'warn',
-      '@typescript-eslint/no-explicit-any': 'warn',
+      '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_', varsIgnorePattern: '^_' }],
+      '@typescript-eslint/no-explicit-any': 'off',
       'no-console': 'off',
     },
   },
