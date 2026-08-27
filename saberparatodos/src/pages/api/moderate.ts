@@ -76,7 +76,7 @@ function getCsrfToken(request: Request): string | null {
 function isValidOrigin(request: Request): boolean {
   const origin = request.headers.get('origin');
   const referer = request.headers.get('referer');
-  // Require valid origin/referer for CSRF protection
+  // Fail closed: Do not allow requests with no origin and no referer header to prevent CSRF bypass
   if (!origin && !referer) return false;
   const allowedOrigins = [
     'http://localhost:4321',

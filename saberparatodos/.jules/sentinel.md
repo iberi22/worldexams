@@ -10,3 +10,7 @@
 **Vulnerability:** The `isValidOrigin` CSRF check in `/api/moderate.ts` was failing open by returning `true` if both `origin` and `referer` headers were missing. This allowed attackers to bypass the protection simply by omitting these headers.
 **Learning:** Never fail open on security checks. If a request lacks the necessary context to validate its safety (like an origin or referer), it should be considered suspicious and rejected.
 **Prevention:** Ensure `isValidOrigin` returns `false` when both `origin` and `referer` are missing, forcing valid requests to provide necessary CSRF validation headers.
+## 2024-10-25 - CSRF Bypass via Missing Headers
+**Vulnerability:** The CSRF validation logic in `isValidOrigin` returned `true` when both `origin` and `referer` headers were missing, allowing an attacker to bypass protection.
+**Learning:** Failing open on missing standard security headers enables attackers to bypass CSRF checks by using contexts that deliberately omit them (e.g., `<meta name="referrer" content="no-referrer">`).
+**Prevention:** Always return `false` in CSRF validation if required headers like `origin` or `referer` are absent.
