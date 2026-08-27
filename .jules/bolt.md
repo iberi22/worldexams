@@ -15,7 +15,6 @@
 ## 2024-11-23 - Optimize Svelte Template and Derived Array Chains
 **Learning:** In Svelte 5, using chained array methods (like `.slice(0, 10).reverse().map(...)`) inside `$derived` declarations or executing operations like `.slice(0, 6).map(...)` directly inside the HTML template block triggers unnecessary allocations and intermediate arrays during every reactive re-render cycle. This creates significant garbage collection pressure on the main thread and can lead to frame drops when data frequently updates.
 **Action:** Replace inline template array operations and `$derived` chains with precomputed variables evaluated via a single-pass `for` loop inside `$derived.by()`. This removes O(3N) multi-pass array allocations down to O(N) operations and ensures templates are referencing simple variables rather than executing array logic.
-
-## 2026-08-25 - Pre-sort arrays before Svelte rendering
-**Learning:** In Svelte components, executing array operations like `.sort()` directly inside `{#each}` template blocks is a critical anti-pattern. Not only does it trigger re-allocations and re-evaluations during every render cycle (causing unnecessary CPU load), but since `.sort()` is a mutating method, it mutates the reactive array in-place, which can cause reactivity bugs and state mismatches.
-**Action:** Always extract `.sort()` operations out of the template and into a reactive declaration (e.g. `$: sortedData = [...data].sort(...)`). Always spread the array first (`[...data]`) to ensure a shallow copy is sorted rather than mutating the original reference in-place.
+## 2024-05-18 - Avoid Chained Array Methods in Reactive Blocks
+**Learning:** Chaining methods like `.slice().reverse().slice()` within reactive blocks (like `$derived.by` in Svelte) causes unnecessary intermediate array allocations and multiple iteration passes, which can cause frame drops.
+**Action:** Replace chained array manipulations with single-pass loops or mathematical indexing (e.g., iterating backwards from the array end) to extract data efficiently without mutation or allocations.
