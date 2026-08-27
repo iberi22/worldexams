@@ -1,0 +1,31 @@
+---
+/**
+ * /ajustes/offline — Offline Grade Package Downloader & Storage Management
+ */
+import Layout from '../../layouts/Layout.astro';
+import OfflineGradeDownloader from '../../components/settings/OfflineGradeDownloader.svelte';
+import { resolveRuntimeCountryConfig } from '../../config';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+---
+
+<Layout
+  title={`Descarga Offline de Exámenes | ${country.product.siteName}`}
+  description="Descarga todos los exámenes y preguntas curriculares de tu grado para estudiar sin internet en tu dispositivo."
+>
+  <main class="min-h-[75vh] max-w-4xl mx-auto px-4 py-8">
+    <div class="mb-6">
+      <a href="/" class="inline-flex items-center gap-2 text-white/50 hover:text-white transition-colors text-xs font-mono mb-3">
+        ← Volver al inicio
+      </a>
+      <h1 class="text-3xl font-bold text-[#F5F5DC] tracking-tight">
+        Modo Estudio Sin Conexión (Offline)
+      </h1>
+      <p class="text-xs text-white/60 mt-1 max-w-2xl">
+        Configura y almacena en la memoria local de tu navegador (IndexedDB) el banco íntegro de preguntas y explicaciones pedagógicas de tu grado.
+      </p>
+    </div>
+
+    <OfflineGradeDownloader client:load defaultCountry={country.countryCode} />
+  </main>
+</Layout>
