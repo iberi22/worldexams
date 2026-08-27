@@ -14,6 +14,9 @@
 
   export let countries: CountryMetrics[] = [];
 
+  // ⚡ Bolt Optimization: Pre-sort countries by name instead of sorting inline in template
+  $: sortedCountriesByName = [...countries].sort((a, b) => a.name.localeCompare(b.name));
+
   let selected: CountryMetrics | null = null;
   let promptContent = '';
   let isLoadingPrompt = false;
@@ -90,7 +93,7 @@
       Selecciona un país
     </label>
     <div class="flex flex-wrap gap-2">
-      {#each [...countries].sort((a, b) => a.name.localeCompare(b.name)) as c (c.code)}
+      {#each sortedCountriesByName as c (c.code)}
         <button
           on:click={() => selectCountry(c.code)}
           class="rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors {selected?.code === c.code

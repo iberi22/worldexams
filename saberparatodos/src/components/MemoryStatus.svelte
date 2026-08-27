@@ -41,6 +41,9 @@
 
   $: progressPercent = Math.round(memoryStats.percentAnswered * 100);
   $: progressColor = progressPercent < 40 ? 'emerald' : progressPercent < 70 ? 'yellow' : 'red';
+
+  // ⚡ Bolt Optimization: Pre-sort grades to avoid inline mapping/sorting in template
+  $: sortedGrades = Object.entries(questionStats.byGrade).sort((a, b) => Number(a[0]) - Number(b[0]));
 </script>
 
 {#if compact}
@@ -187,7 +190,7 @@
           <div>
             <p class="text-xs font-bold uppercase tracking-widest text-white/40 mb-2">Por Grado</p>
             <div class="flex flex-wrap gap-2">
-              {#each Object.entries(questionStats.byGrade).sort((a, b) => Number(a[0]) - Number(b[0])) as [grade, data]}
+              {#each sortedGrades as [grade, data]}
                 <div class="px-3 py-2 bg-white/5 rounded-lg text-center">
                   <p class="text-sm font-bold text-white">{grade}°</p>
                   <p class="text-[10px] text-emerald-500">
