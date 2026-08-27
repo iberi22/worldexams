@@ -5,6 +5,7 @@
 
 const CACHE_NAME = 'spt-static-v1';
 const RUNTIME_CACHE = 'spt-runtime-v1';
+const PACKS_CACHE = 'spt-packs-v1';
 
 // Static assets to cache on install (JS, CSS, fonts, images)
 const STATIC_ASSETS = [
@@ -22,6 +23,7 @@ const STATIC_PATTERNS = [
 // API endpoints to cache selectively
 const API_CACHE_PATTERNS = [
   '/api/packs/',
+  '/v1/packs/',
 ];
 
 function isStaticAsset(url) {
@@ -34,6 +36,13 @@ function isStaticAsset(url) {
          url.pathname.endsWith('.png') ||
          url.pathname.endsWith('.jpg') ||
          url.pathname.endsWith('.svg');
+}
+
+function isQuestionPackAsset(url) {
+  return url.pathname.includes('/api/packs/') ||
+         url.pathname.includes('/v1/packs/') ||
+         url.pathname.endsWith('-bundle.json') ||
+         (url.pathname.endsWith('.json') && url.pathname.includes('/packs/'));
 }
 
 // Install event - cache static assets
@@ -56,7 +65,7 @@ self.addEventListener('activate', (event) => {
     caches.keys().then((cacheNames) => {
       return Promise.all(
         cacheNames
-          .filter((name) => name !== CACHE_NAME && name !== RUNTIME_CACHE)
+          .filter((name) => name !== CACHE_NAME && name !== RUNTIME_CACHE && name !== PACKS_CACHE)
           .map((name) => {
             console.log('[SW] Deleting old cache:', name);
             return caches.delete(name);
@@ -91,6 +100,25 @@ self.addEventListener('fetch', (event) => {
         })
       );
     }
+    return;
+  }
+
+  // Question packs caching strategy (Network First with Cache Fallback for offline practice)
+  if (isQuestionPackAsset(url)) {
+    event.respondWith(
+      caches.open(PACKS_CACHE).then((cache) => {
+        return fetch(request)
+          .then((response) => {
+            if (response.ok) {
+              cache.put(request, response.clone());
+            }
+            return response;
+          })
+          .catch(() => {
+            return cache.match(request);
+          });
+      })
+    );
     return;
   }
 
