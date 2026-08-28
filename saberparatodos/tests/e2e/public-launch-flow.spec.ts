@@ -13,6 +13,7 @@ test.describe('Public Launch Flow & Core Routes Integration (Wave 5.01)', () => 
 
     // Verify key navigation elements exist
     const navLinks = page.locator('nav a, a[href*="/practica"], a[href*="/ajustes"], a');
+    await expect(navLinks.first()).toBeAttached();
     const count = await navLinks.count();
     expect(count).toBeGreaterThan(0);
   });
