@@ -120,6 +120,15 @@ import { normalizeSubjectKey } from './question-transformer';
 import { filterSubject, excludeQuarantinedAppQuestions } from './question-transformer';
 import { transformQuestion } from './question-transformer';
 
+// ⚡ Bolt Optimization: Fisher-Yates shuffle is O(n) and unbiased vs O(n log n) sort(Math.random() - 0.5)
+function shuffleArray<T>(array: T[]): T[] {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
 // ─── Main API Functions ──────────────────────────────────────────────────────
 
 export async function fetchQuestions(grade: number, subject: string, page: number = 1): Promise<AppQuestion[]> {
@@ -164,7 +173,8 @@ export async function fetchAllQuestionsForGrade(grade: number, isGuest: boolean 
   const dedup = new Map<string, AppQuestion>();
   results.flat().forEach(q => { if (q?.id && !dedup.has(q.id)) dedup.set(q.id, q); });
   const final = excludeQuarantinedAppQuestions(Array.from(dedup.values()));
-  return final.sort(() => Math.random() - 0.5).slice(0, isGuest ? maxQuestions : Infinity);
+  shuffleArray(final);
+  return final.slice(0, isGuest ? maxQuestions : Infinity);
 }
 
 export async function fetchQuestionsForGrade(grade: number, maxQuestions: number = 300): Promise<AppQuestion[]> {
@@ -270,7 +280,7 @@ export async function fetchEnglishQuestionsAllGrades(limit: number = 30, _balanc
 
   let unique = Array.from(new Map(gradeResults.flat().map(q => [q.id, q])).values());
   unique = excludeQuarantinedAppQuestions(unique);
-  unique = unique.sort(() => Math.random() - 0.5);
+  shuffleArray(unique);
   return limit > 0 ? unique.slice(0, limit) : unique;
 }
 
@@ -314,7 +324,10 @@ export async function fetchBulkQuestions(grades: number[], limit: number = 300):
   const dedup = new Map<string, AppQuestion>();
   results.flat().forEach(q => { if (q?.id && !dedup.has(q.id)) dedup.set(q.id, q); });
   let final = excludeQuarantinedAppQuestions(Array.from(dedup.values()));
-  if (limit && final.length > limit) final = final.sort(() => Math.random() - 0.5).slice(0, limit);
+  if (limit && final.length > limit) {
+    shuffleArray(final);
+    final = final.slice(0, limit);
+  }
   questionCache.set(cacheKey, final);
   saveKnownQuestions(final).catch(() => {});
   return final;
