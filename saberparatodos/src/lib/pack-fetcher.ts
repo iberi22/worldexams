@@ -7,6 +7,7 @@
 
 import { countryConfig, getCountryExamSlug, getExplicitProductCountryCode } from '../config';
 import { getQuestionPool, savePack } from './pack-storage';
+import { getGradeBundle } from './offline-grade-storage';
 import type { AppQuestion } from './question-transformer';
 import {
   transformQuestion,
@@ -231,6 +232,24 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
     }
 
     if (!canUseRelativeFetch) {
+      const countryCode = (runtimeApiConfig.countryCode || getExplicitProductCountryCode() || 'co').toLowerCase();
+      try {
+        const idbBundle = await getGradeBundle(countryCode, grade);
+        if (idbBundle && Array.isArray(idbBundle.questions) && idbBundle.questions.length > 0) {
+          const appQuestions: AppQuestion[] = idbBundle.questions.map((q: any) => {
+            const qSubject = normalizeSubjectKey(q.subject || subject || 'unknown');
+            if (q.options?.length && !q.options[0].id) {
+              q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A', 'B', 'C', 'D', 'E'][i] || String(i) }));
+            }
+            return transformQuestion(q, grade, qSubject);
+          });
+          const filtered = filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
+          if (filtered.length > 0) return filtered;
+        }
+      } catch (idbError) {
+        console.warn('[API] IndexedDB offline fallback failed:', idbError);
+      }
+
       const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
       return filterSubject(excludeQuarantinedAppQuestions(fallback), normalizedSubject);
     }
@@ -238,6 +257,24 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
     const response = await tryStaticPackCandidates();
 
     if (!response) {
+      const countryCode = (runtimeApiConfig.countryCode || getExplicitProductCountryCode() || 'co').toLowerCase();
+      try {
+        const idbBundle = await getGradeBundle(countryCode, grade);
+        if (idbBundle && Array.isArray(idbBundle.questions) && idbBundle.questions.length > 0) {
+          const appQuestions: AppQuestion[] = idbBundle.questions.map((q: any) => {
+            const qSubject = normalizeSubjectKey(q.subject || subject || 'unknown');
+            if (q.options?.length && !q.options[0].id) {
+              q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A', 'B', 'C', 'D', 'E'][i] || String(i) }));
+            }
+            return transformQuestion(q, grade, qSubject);
+          });
+          const filtered = filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
+          if (filtered.length > 0) return filtered;
+        }
+      } catch (idbError) {
+        console.warn('[API] IndexedDB offline fallback failed:', idbError);
+      }
+
       const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
       const questions = filterSubject(excludeQuarantinedAppQuestions(fallback), normalizedSubject);
       if (questions.length === 0) {
