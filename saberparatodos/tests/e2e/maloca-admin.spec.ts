@@ -8,7 +8,7 @@ test.describe('Maloca Admin Embed & Telemetry Isolation (MS-022 / BR-03)', () =>
 
     // Page title and heading checks
     await expect(page).toHaveTitle(/Maloca Embed & GitCore Telemetry/i);
-    await expect(page.locator('h1')).toContainText('Maloca Telemetry & GitCore Admin');
+    await expect(page.locator('h1').first()).toContainText('Maloca Telemetry & GitCore Admin');
 
     // Maloca Svelte embed component rendered
     const embedContainer = page.locator('.maloca-embed-container');
@@ -44,12 +44,15 @@ test.describe('Maloca Admin Embed & Telemetry Isolation (MS-022 / BR-03)', () =>
 
   test('verifies zero telemetry collector imports in student routes (BR-03 / REQ-009 static check)', async () => {
     const studentRoutes = [
-      'saberparatodos/src/pages/practica.astro',
-      'saberparatodos/src/pages/leaderboard.astro'
+      'src/pages/practica.astro',
+      'src/pages/leaderboard.astro'
     ];
 
     for (const routeFile of studentRoutes) {
-      const fullPath = path.resolve(process.cwd(), routeFile);
+      let fullPath = path.resolve(process.cwd(), routeFile);
+      if (!fs.existsSync(fullPath)) {
+        fullPath = path.resolve(process.cwd(), 'saberparatodos', routeFile);
+      }
       expect(fs.existsSync(fullPath)).toBe(true);
       const content = fs.readFileSync(fullPath, 'utf-8');
 
