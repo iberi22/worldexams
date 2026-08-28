@@ -52,32 +52,75 @@ async function proxyPack(request: Request, slug: string | undefined) {
     });
   }
 
-  // 1. In local development or node runtime, check local disk first for ultra-fast zero-latency offline response
+  // 1. In local development or node runtime, check local disk first with alias resolution
   try {
     const sanitizedSlug = path.basename(slug);
-    const candidatePaths = [
-      path.resolve(process.cwd(), 'public/api/packs', sanitizedSlug),
-      path.resolve(process.cwd(), 'public/packs', sanitizedSlug),
-      path.resolve(process.cwd(), '../apps/worldexams-api/public/v1/packs', sanitizedSlug),
-      path.resolve(process.cwd(), '../../apps/worldexams-api/public/v1/packs', sanitizedSlug),
-      path.resolve(process.cwd(), 'apps/worldexams-api/public/v1/packs', sanitizedSlug),
+    const searchDirs = [
+      path.resolve(process.cwd(), 'public/api/packs'),
+      path.resolve(process.cwd(), 'public/packs'),
+      path.resolve(process.cwd(), '../apps/worldexams-api/public/v1/packs'),
+      path.resolve(process.cwd(), '../../apps/worldexams-api/public/v1/packs'),
+      path.resolve(process.cwd(), 'apps/worldexams-api/public/v1/packs'),
     ];
 
-    for (const candidate of candidatePaths) {
-      if (fs.existsSync(candidate)) {
-        const fileContent = fs.readFileSync(candidate, 'utf-8');
-        return new Response(request.method === 'HEAD' ? null : fileContent, {
-          status: 200,
-          headers: {
-            'Content-Type': 'application/json',
-            'Cache-Control': 'public, max-age=86400',
-            ...CORS_HEADERS,
-          },
-        });
+    // Candidate file variations to search on disk
+    const candidateFilenames: string[] = [sanitizedSlug];
+
+    // If slug matches week pattern e.g. co-week-35-grade-11-subject-sociales.json
+    const match = sanitizedSlug.match(/^(?:([a-z]{2})-)?week-(\d+)-grade-(\d+)(?:-subject-([a-z0-9_-]+))?\.json$/i);
+    if (match) {
+      const country = (match[1] || 'co').toLowerCase();
+      const week = match[2];
+      const grade = match[3];
+      const subject = (match[4] || '').toLowerCase();
+
+      const subjectAliases: string[] = [];
+      if (subject) {
+        if (subject.startsWith('social')) {
+          subjectAliases.push('sociales_ciudadanas', 'sociales_y_ciudadanas', 'sociales', 'ciencias_sociales');
+        } else if (subject.startsWith('lectura') || subject.startsWith('lengu')) {
+          subjectAliases.push('lectura_critica', 'lectura-critica', 'lengua', 'lenguaje');
+        } else if (subject.startsWith('mate')) {
+          subjectAliases.push('matematicas', 'matematica');
+        } else if (subject.startsWith('cien')) {
+          subjectAliases.push('ciencias_naturales', 'ciencias');
+        } else if (subject.startsWith('ing')) {
+          subjectAliases.push('ingles', 'ing', 'english');
+        } else {
+          subjectAliases.push(subject);
+        }
+      }
+
+      for (const subj of (subjectAliases.length ? subjectAliases : [''])) {
+        const subjPart = subj ? `-subject-${subj}` : '';
+        // Same week
+        candidateFilenames.push(`${country}-week-${week}-grade-${grade}${subjPart}.json`);
+        candidateFilenames.push(`week-${week}-grade-${grade}${subjPart}.json`);
+        // Week 1 fallback
+        candidateFilenames.push(`${country}-week-1-grade-${grade}${subjPart}.json`);
+        candidateFilenames.push(`week-1-grade-${grade}${subjPart}.json`);
+      }
+    }
+
+    for (const dir of searchDirs) {
+      if (!fs.existsSync(dir)) continue;
+      for (const fname of candidateFilenames) {
+        const fullPath = path.join(dir, fname);
+        if (fs.existsSync(fullPath)) {
+          const fileContent = fs.readFileSync(fullPath, 'utf-8');
+          return new Response(request.method === 'HEAD' ? null : fileContent, {
+            status: 200,
+            headers: {
+              'Content-Type': 'application/json',
+              'Cache-Control': 'public, max-age=86400',
+              ...CORS_HEADERS,
+            },
+          });
+        }
       }
     }
   } catch {
-    // If filesystem is not available (e.g. strict edge workers), continue to upstream fetch
+    // If filesystem is not available, continue to upstream fetch
   }
 
   // 2. Upstream fetch fallback
@@ -109,8 +152,9 @@ async function proxyPack(request: Request, slug: string | undefined) {
       headers: copyResponseHeaders(upstreamResponse.headers),
     });
   } catch (error) {
-    return new Response(JSON.stringify({ error: 'Failed to fetch upstream pack.', details: String(error) }), {
-      status: 502,
+    // Return 404 instead of 502 so client pack-fetcher tries next candidate without throwing Bad Gateway alert
+    return new Response(JSON.stringify({ error: 'Pack not found.', details: String(error) }), {
+      status: 404,
       headers: {
         'Content-Type': 'application/json',
         ...CORS_HEADERS,
