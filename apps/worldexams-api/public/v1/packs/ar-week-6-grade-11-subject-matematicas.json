@@ -689,25 +689,25 @@
       "options": [
         {
           "letter": "A",
-          "text": "$80^\\\\circ\\\\text{C}$",
+          "text": "$80^\\circ\\text{C}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la temperatura inicial de la infusión ($20 + 60 = 80$)."
         },
         {
           "letter": "B",
-          "text": "$20^\\\\circ\\\\text{C}$",
+          "text": "$20^\\circ\\text{C}$",
           "is_correct": true,
-          "feedback": "Correcto. A medida que $t \\to \\infty$, el término exponencial $e^{-0,05t}$ tiende a cero, haciendo que el término $60 \\cdot e^{-0,05t}$ se anule. Por ende, la temperatura tiende a la asíntota horizontal de $20^\\\\circ\\\\text{C}$ (temperatura ambiente)."
+          "feedback": "Correcto. A medida que $t \\to \\infty$, el término exponencial $e^{-0,05t}$ tiende a cero, haciendo que el término $60 \\cdot e^{-0,05t}$ se anule. Por ende, la temperatura tiende a la asíntota horizontal de $20^\\circ\\text{C}$ (temperatura ambiente)."
         },
         {
           "letter": "C",
-          "text": "$0^\\\\circ\\\\text{C}$",
+          "text": "$0^\\circ\\text{C}$",
           "is_correct": false,
           "feedback": "Incorrecto. El café no se enfriará por debajo de la temperatura ambiente de la sala."
         },
         {
           "letter": "D",
-          "text": "$60^\\\\circ\\\\text{C}$",
+          "text": "$60^\\circ\\text{C}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el diferencial de caída de la temperatura."
         }
