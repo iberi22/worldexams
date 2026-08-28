@@ -113,12 +113,20 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
       }
 
       const legacyCandidatePaths = shouldPreferStaticPacks
-        ? [`${apiBaseUrl}/packs/${countryCode}-week-1-grade-${grade}.json`, `${apiBaseUrl}/packs/week-1-grade-${grade}.json`]
-        : [
-            `${apiBaseUrl}/packs/${countryCode}-week-${currentWeek}-grade-${grade}.json`,
-            `${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}.json`,
+        ? [
+            `${staticOrigin}/api/packs/${countryCode}-week-1-grade-${grade}.json`,
+            `${staticOrigin}/api/packs/week-1-grade-${grade}.json`,
+            `${staticOrigin}/api/packs/${countryCode}-grado-${grade}-full.json`,
             `${apiBaseUrl}/packs/${countryCode}-week-1-grade-${grade}.json`,
             `${apiBaseUrl}/packs/week-1-grade-${grade}.json`
+          ]
+        : [
+            `${staticOrigin}/api/packs/${countryCode}-week-${currentWeek}-grade-${grade}.json`,
+            `${staticOrigin}/api/packs/week-${currentWeek}-grade-${grade}.json`,
+            `${staticOrigin}/api/packs/${countryCode}-week-1-grade-${grade}.json`,
+            `${staticOrigin}/api/packs/week-1-grade-${grade}.json`,
+            `${apiBaseUrl}/packs/${countryCode}-week-${currentWeek}-grade-${grade}.json`,
+            `${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}.json`
           ];
 
       const allCandidatePaths = [...subjectCandidatePaths, ...legacyCandidatePaths];
