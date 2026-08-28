@@ -49,6 +49,7 @@
   // Removed static import to avoid Vite warning
   import LocalModeNotice from './LocalModeNotice.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
+  import AcademicBentoGrid from './AcademicBentoGrid.svelte';
 
   import ExamRoomLobby from './ExamRoomLobby.svelte'; // 🆕 Renamed Import
   import SpeedChallengeSetup from '../modules/exam-room/components/SpeedChallengeSetup.svelte';
@@ -1039,7 +1040,7 @@
       <div
         in:fly={{ y: 20, duration: 500, delay: 200 }}
         out:fade={{ duration: 200 }}
-        class="flex flex-col items-center min-h-screen text-center px-4 pt-8 pb-20 sm:pb-24 w-full overflow-hidden relative"
+        class="flex flex-col items-center min-h-screen text-center px-4 pt-8 pb-24 sm:pb-28 w-full overflow-hidden relative"
       >
         <!-- Runtime flag gradient background -->
         <div class="hero-gradient"></div>
@@ -1112,8 +1113,8 @@
           </div>
         </div>
 
-        <!-- Grade Selection Cards -->
-        <div class="w-full max-w-4xl relative z-10 mt-12">
+                <!-- Academic Bento Grid Section -->
+        <div class="w-full max-w-5xl relative z-10 mt-10">
           <!-- 🆕 Period Tracker -->
           <PeriodTracker
             runtimeCountry={runtimeCountry}
@@ -1127,220 +1128,53 @@
             {tenantExperience.gradeSectionTitle}
           </h3>
 
-          <!-- 🆕 English Card - Cross-Grade Diagnostic Mode -->
-          {#if supportsEnglishDiagnostic}
-          <div class="mb-6">
-            <FlashlightCard
-              onClick={async () => {
-                // 🇬🇧 English Diagnostic Mode: Fetch from ALL grades
-                isLoadingQuestions = true;
-                try {
-                  console.log('🇬🇧 Loading English questions from all grades (A1-B2+)...');
-                  const englishQuestions = await fetchEnglishQuestionsAllGrades(100, true);
+          <AcademicBentoGrid
+            runtimeCountry={runtimeCountry}
+            countryCode={countryCode}
+            primaryLandingGrade={primaryLandingGrade}
+            secondaryLandingGrades={secondaryLandingGrades}
+            supportsEnglishDiagnostic={supportsEnglishDiagnostic}
+            preuEnabled={preuEnabled}
+            tenantExperience={tenantExperience}
+            onSelectGrade={(grade) => {
+              selectedGrade = grade;
+              showExamConfigModal = true;
+            }}
+            onStartEnglishDiagnostic={async () => {
+              isLoadingQuestions = true;
+              try {
+                console.log('🇬🇧 Loading English questions from all grades (A1-B2+)...');
+                const englishQuestions = await fetchEnglishQuestionsAllGrades(100, true);
 
-                  if (englishQuestions.length === 0) {
-                    console.error('❌ No English questions found');
-                    loadError = new Error('No se encontraron preguntas de inglés.');
-                    return;
-                  }
-
-                  // Store in loadedQuestions for the modal to use
-                  loadedQuestions = englishQuestions;
-                  availableSubjects = ['Ingles']; // Only English for this mode
-
-                  // Set config for English diagnostic
-                  selectedGrade = 0; // Special: 0 = Cross-grade mode
-                  selectedSubject = 'Inglés Diagnóstico';
-
-                  console.log(`✅ Loaded ${englishQuestions.length} English questions across all levels`);
-                  showExamConfigModal = true;
-                } catch (err) {
-                  console.error('Error loading English questions:', err);
-                  loadError = err;
-                } finally {
-                  isLoadingQuestions = false;
+                if (englishQuestions.length === 0) {
+                  console.error('❌ No English questions found');
+                  loadError = new Error('No se encontraron preguntas de inglés.');
+                  return;
                 }
-              }}
-              className="p-4 flex flex-col items-center justify-center gap-3 group hover:border-blue-500/50 transition-transform duration-300 hover:scale-[1.02] bg-gradient-to-r from-blue-900/20 via-purple-900/10 to-blue-900/20 border border-blue-500/20"
-            >
-              <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center group-hover:scale-110 transition-transform shadow-lg shadow-blue-500/10 mb-2">
-                <img src="/favicon.png" alt={runtimeCountry.product.siteName} class="w-9 h-9 object-contain" />
-              </div>
-              <div class="text-center flex-1 w-full">
-                <div class="text-xl font-bold text-blue-400 group-hover:text-blue-300 transition-colors uppercase tracking-wider flex items-center justify-center gap-2">
-                  Ingles
-                  <span class="px-1.5 py-0.5 bg-purple-500/20 text-purple-400 text-[8px] font-bold uppercase tracking-widest rounded">
-                    Diagnostico
-                  </span>
-                </div>
-                <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-0.5">
-                  Niveles A1 a B2+ · Evalua tu nivel real
-                </div>
-              </div>
-              <div class="flex flex-col items-center gap-1 w-full mt-2">
-                <div class="flex items-center gap-1.5">
-                  <span class="px-2 py-0.5 bg-blue-500/20 text-blue-400 text-[9px] font-bold uppercase tracking-widest rounded-full">
-                    Sala ✓
-                  </span>
-                </div>
-                <div class="flex items-center justify-center gap-1 text-[9px] text-white/30">
-                  <span>Diagnostico multinivel</span>
-                  <svg class="w-4 h-4 text-white/30 group-hover:text-blue-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                  </svg>
-                </div>
-              </div>
-            </FlashlightCard>
-          </div>
-          {/if}
 
-          <!-- Grade Cards Section -->
-          <div class="flex flex-col gap-4 max-w-2xl mx-auto w-full">
-            <!-- 🔝 Main Grade 11 Card (Always First & Big) -->
-            <FlashlightCard
-              onClick={() => {
-                selectedGrade = primaryLandingGrade;
+                loadedQuestions = englishQuestions;
+                availableSubjects = ['Ingles'];
+
+                selectedGrade = 0;
+                selectedSubject = 'Inglés Diagnóstico';
+
                 showExamConfigModal = true;
-              }}
-              className="p-4 flex flex-col items-center justify-center group transition-all duration-300 hover:scale-105 hover:border-emerald-500/50 h-32 bg-emerald-500/5 border-emerald-500/30"
-            >
-              <div class="font-bold text-emerald-500 group-hover:text-emerald-400 transition-all duration-300 text-5xl drop-shadow-[0_0_10px_rgba(16,185,129,0.3)]">
-                {primaryLandingGrade}°
-              </div>
-              <div class="uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1 transition-all duration-300 text-xs">
-                Grado
-              </div>
-              <div class="mt-2 px-2 py-0.5 bg-emerald-500/20 rounded-full border border-emerald-500/30">
-                <span class="text-[8px] text-emerald-400 font-bold uppercase tracking-widest animate-pulse">Ruta principal</span>
-              </div>
-            </FlashlightCard>
-
-            <!-- 🔢 Other Grade Cards (Centered Below) -->
-            <div class="flex flex-wrap justify-center gap-4">
-              {#each (showAllLandingGrades ? expandedLandingGrades : compactLandingGrades) as grade}
-                <FlashlightCard
-                  onClick={() => {
-                    selectedGrade = grade;
-                    showExamConfigModal = true;
-                  }}
-                  className="p-4 flex flex-col items-center justify-center group h-24 w-full max-w-[124px] sm:max-w-[140px] hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105 overflow-hidden"
-                >
-                  <div class="text-2xl font-bold text-emerald-500 group-hover:text-emerald-400 transition-colors">
-                    {grade}°
-                  </div>
-                  <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1">
-                    Grado
-                  </div>
-                </FlashlightCard>
-              {/each}
-
-              {#if showAllLandingGrades && preuEnabled}
-                <!-- 🎓 Preuniversitario Card -->
-                <FlashlightCard
-                  onClick={() => {
-                    selectedSubject = 'Preuniversitario';
-                    selectedGrade = 11;
-                    showExamConfigModal = true;
-                  }}
-                  className="p-4 flex flex-col items-center justify-center group h-24 w-full max-w-[124px] sm:max-w-[144px] hover:border-[#FCD116]/50 transition-transform duration-300 hover:scale-105 bg-[#FCD116]/5 border border-[#FCD116]/10"
-                >
-                  <div class="text-2xl font-bold text-[#FCD116] group-hover:text-[#FCD116]/80 transition-colors">
-                    PREU
-                  </div>
-                  <div class="text-[8px] sm:text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1 text-center font-bold">
-                    Preuniversitario
-                  </div>
-                </FlashlightCard>
-              {/if}
-            </div>
-          </div>
-
-          {#if !showAllLandingGrades}
-            <div class="mt-6 flex justify-center">
-              <button
-                onclick={() => showAllLandingGrades = true}
-                class="px-6 py-2 text-[10px] font-bold uppercase tracking-widest text-[#FCD116]/60 hover:text-[#FCD116] border border-white/5 hover:border-[#FCD116]/20 rounded-full transition-all"
-              >
-                Ver más exámenes y Preuniversitario
-              </button>
-            </div>
-          {/if}
+              } catch (err) {
+                console.error('Error loading English questions:', err);
+                loadError = err;
+              } finally {
+                isLoadingQuestions = false;
+              }
+            }}
+            onSelectPreu={() => {
+              selectedSubject = 'Preuniversitario';
+              selectedGrade = 11;
+              showExamConfigModal = true;
+            }}
+            onOpenBlog={openRevisarHome}
+          />
         </div>
-
-        <!-- Action Cards Grid -->
-        <div class="flex flex-col items-center justify-center gap-6 w-full max-w-2xl relative z-10 mt-8">
-
-          {#if false}
-          <FlashlightCard
-            onClick={() => showLocalReports = true}
-            className="p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105"
-          >
-            <div class="mb-4 text-[#FCD116] opacity-60 group-hover:opacity-100">
-              <svg class="w-10 h-10" viewBox="0 0 40 40" fill="none">
-                <circle cx="20" cy="14" r="8" stroke="currentColor" stroke-width="2" fill="none"/>
-                <path d="M8 36c0-6.627 5.373-12 12-12s12 5.373 12 12" stroke="currentColor" stroke-width="2" fill="none"/>
-                <path d="M30 10l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
-              </svg>
-            </div>
-            <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Mis Métricas</h3>
-            <p class="text-xs opacity-40">Ver rendimiento local</p>
-          </FlashlightCard>
-          {/if}
-
-          <!-- Stop Mode Section (Comentado por ahora)
-          <div class="w-full flex flex-col sm:flex-row gap-6">
-              <FlashlightCard
-                onClick={() => showStopSetup = true}
-                className="flex-1 p-8 flex flex-col items-center justify-center group h-48 hover:border-pink-500/50 transition-transform duration-300 hover:scale-105 relative overflow-hidden"
-              >
-                 <div class="absolute inset-0 bg-gradient-to-br from-purple-900/20 to-pink-900/10 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                 <div class="mb-4 text-pink-500 opacity-80 group-hover:opacity-100 transform group-hover:rotate-12 transition-all">
-                  <svg class="w-12 h-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-                  </svg>
-                </div>
-                <h3 data-testid="create-stop-party-btn" class="text-xl font-bold uppercase tracking-widest mb-2 text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-400">
-                  DESAFÍO SPEED
-                </h3>
-                <p class="text-xs opacity-40">Modo multijugador rápido (15s)</p>
-              </FlashlightCard>
-
-              <FlashlightCard
-                onClick={() => showLobbyBrowser = true}
-                className="flex-1 p-8 flex flex-col items-center justify-center group h-48 hover:border-blue-500/50 transition-transform duration-300 hover:scale-105 relative overflow-hidden"
-              >
-                 <div class="absolute inset-0 bg-gradient-to-br from-blue-900/20 to-indigo-900/10 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                 <div class="mb-4 text-blue-400 opacity-80 group-hover:opacity-100 transform group-hover:scale-110 transition-all">
-                  <svg class="w-12 h-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                  </svg>
-                </div>
-                <h3 class="text-xl font-bold uppercase tracking-widest mb-2 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-400">
-                  Ver Partidas
-                </h3>
-                <p class="text-xs opacity-40">Busca salas creadas por otros</p>
-              </FlashlightCard>
-          </div>
-          -->
-
-          {#if runtimeCountry.features?.blog}
-          <FlashlightCard
-            onClick={openRevisarHome}
-            className="p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/40 transition-transform duration-300 hover:scale-105"
-          >
-            <div class="mb-4 text-emerald-500 opacity-70 group-hover:opacity-100 transition-opacity">
-              <svg class="w-10 h-10" viewBox="0 0 40 40" fill="none" aria-hidden="true">
-                <path d="M8 10h24v22H8V10z" stroke="currentColor" stroke-width="2" fill="none"/>
-                <path d="M12 16h16M12 21h12M12 26h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-              </svg>
-            </div>
-            <h3 class="text-xl font-bold uppercase tracking-widest mb-2 text-[#F5F5DC]">Revisar</h3>
-            <p class="text-xs opacity-40">Banco social · discutir preguntas</p>
-          </FlashlightCard>
-          {/if}
-        </div>
-
-        <!-- CTA Button -->
+<!-- CTA Button -->
         <div class="flex flex-col items-center gap-4 relative z-10 mt-10">
           <a
             href="/guia-examen"
