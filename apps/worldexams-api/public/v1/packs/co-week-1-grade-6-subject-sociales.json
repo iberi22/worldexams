@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-6-subject-sociales",
+    "generated_at": "2026-08-28T17:45:23.296Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v1",
+      "statement": "¿Por qué se conoce a Mesopotamia y Egipto como **Civilizaciones Fluviales**?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se desarrollaron a orillas de grandes ríos que fertilizaban sus tierras",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Porque sus habitantes pasaban todo el tiempo nadando",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Porque no tenían agua y debían comprarla",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Porque inventaron los barcos de metal",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mesopotamia creció entre el Tigris y el Éufrates; Egipto creció a orillas del Nilo. Sin estos ríos, estas zonas serían desiertos inhabitables.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v2",
+      "statement": "¿Cómo se llamaba el gobernante máximo del Antiguo Egipto, considerado un hijo de los dioses?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faraón",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Emperador",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Presidente",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sultán",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El faraón tenía poder absoluto y era el jefe político y religioso de todo Egipto.\n\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3",
+      "statement": "¿Cuál fue el primer sistema de escritura de la historia, inventado por los **sumerios** en Mesopotamia, que usaba marcas en forma de cuña sobre tablillas de arcilla?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escritura Cuneiforme",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Escritura Jeroglífica",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Alfabeto Latino",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Código Morse",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Cuneiforme\" viene de cuña. Servía inicialmente para llevar la contabilidad de los graneros y templos.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v4",
+      "statement": "¿Qué son los **Jeroglíficos** y cuál civilización los utilizaba?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema de escritura mediante dibujos y símbolos usado por los egipcios",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Los templos en forma de torre de Mesopotamia",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Las tumbas subterráneas de los esclavos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Las monedas de oro de China",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los egipcios usaban jeroglíficos en sus templos y tumbas para narrar la historia de sus dioses y gobernantes.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v5",
+      "statement": "¿Qué era un **Zigurats** en las ciudades de Mesopotamia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un templo en forma de pirámide escalonada que servía como centro religioso y político",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Un sistema de riego para los cultivos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Una tumba para la gente pobre",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Un mercado público",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los zigurats dominaban el paisaje de las ciudades-estado sumerias y babilónicas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v6",
+      "statement": "¿Para qué servía el proceso de **Momificación** en el Antiguo Egipto?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para conservar el cuerpo del difunto para que su alma pudiera vivir eternamente en el más allá",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Para castigar a los prisioneros de guerra",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Era un tratamiento médico para curar enfermedades",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Para decorar los palacios reales",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los egipcios tenían creencias muy profundas sobre la vida después de la muerte.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v7",
+      "statement": "¿Qué importancia tuvo el **Código de Hammurabi** redactado en Mesopotamia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue uno de los primeros conjuntos de leyes escritas de la historia, famoso por el \"ojo por ojo\"",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Fue el primer libro de matemáticas del mundo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Era un mapa para llegar a Egipto",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Un diccionario para traducir idiomas antiguos",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El código buscaba unificar las leyes de todo el imperio babilónico y aplicar justicia de manera pública.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v8",
+      "statement": "¿Por qué se dice que Egipto era un \"don del Nilo\"?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sin las inundaciones anuales del río que dejaban limo (tierra fértil), la agricultura sería imposible",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Porque el río traía oro desde las montañas",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "Porque los egipcios vivían dentro del río",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Porque el río era de agua dulce y el mar de agua salada",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El limo era un abono natural que permitía cultivar comida suficiente para sustentar a millones de personas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v10",
+      "statement": "¿Cuál fue una contribución clave de Mesopotamia a la organización del tiempo que aún usamos hoy?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema sexagesimal (división de la hora en 60 minutos y el círculo en 360 grados)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "La invención de los años bisiestos",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "El reloj de arena digital",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Los meses de 31 días únicamente",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Su sistema numérico basado en el 60 es la razón por la que un minuto tiene 60 segundos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v9",
+      "statement": "¿Cómo era la organización social tanto en Egipto como en Mesopotamia?",
+      "context": "",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jerarquizada y piramidal (pocas personas con mucho poder arriba, esclavos y campesinos abajo)",
+          "is_correct": true,
+          "feedback": ""
+        },
+        {
+          "letter": "B",
+          "text": "Todos los ciudadanos eran iguales y votaban por sus leyes",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "C",
+          "text": "No había clases sociales, todos compartían todo",
+          "is_correct": false,
+          "feedback": ""
+        },
+        {
+          "letter": "D",
+          "text": "Los niños eran los que mandaban en las ciudades",
+          "is_correct": false,
+          "feedback": ""
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eran sociedades muy desiguales donde el estatus de nacimiento determinaba tu vida.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
