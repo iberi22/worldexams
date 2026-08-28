@@ -15,6 +15,16 @@
   let rawPeerStats: (PeerStats | AggregateStat)[] = [];
   let displayedStats: AggregateStat[] = [];
 
+  $: processedStats = processVectors(rawPeerStats);
+  $: displayedStats = processedStats.slice(0, 50);
+
+  function triggerUpdate() {
+    rawPeerStats = [...rawPeerStats];
+  }
+
+  let activePeerNodes: Set<string> = new Set();
+  let peerCount: number = 1;
+
   let nodeHash: string = 'wx-anonymous-node';
   let localAvgScore: number | null = null;
   let localRank: number | null = null;
@@ -22,6 +32,7 @@
 
   let unsubscribeNode: (() => void) | null = null;
   let unsubscribeOptIn: (() => void) | null = null;
+  let meshChannel: BroadcastChannel | null = null;
 
   const SUBJECTS = [
     { id: 'all', label: 'Todas' },
@@ -113,7 +124,6 @@
       rawPeerStats = combined;
 
       const processed = processVectors(combined);
-      displayedStats = processed.slice(0, 50);
 
       const localIndex = processed.findIndex(p => p.node_hash === nodeHash);
       if (localIndex >= 0) {
@@ -153,16 +163,55 @@
     subjectFilter = id;
   }
 
+  function handleBroadcastMessage(event: MessageEvent) {
+    if (!event.data || typeof event.data !== 'object') return;
+    const { type, payload } = event.data;
+
+    if (type === 'PEER_JOIN' || type === 'PEER_ANNOUNCE') {
+      if (payload && payload.node_hash) {
+        activePeerNodes.add(payload.node_hash);
+        peerCount = activePeerNodes.size;
+      }
+      if (type === 'PEER_JOIN' && meshChannel) {
+        meshChannel.postMessage({
+          type: 'PEER_ANNOUNCE',
+          payload: { node_hash: nodeHash }
+        });
+      }
+    } else if (type === 'SCORE_BROADCAST') {
+      if (payload && payload.node_hash) {
+        activePeerNodes.add(payload.node_hash);
+        peerCount = activePeerNodes.size;
+
+        // Zero-PII payload check and process
+        const sanitizedItem: AggregateStat = {
+          node_hash: escapeHtml(String(payload.node_hash)),
+          subject: escapeHtml(String(payload.subject || 'general')),
+          week: escapeHtml(String(payload.week || 'W01')),
+          score: Number(payload.score || 0),
+          avg: Number(payload.avg ?? payload.score ?? 0)
+        };
+
+        rawPeerStats = [sanitizedItem, ...rawPeerStats];
+        triggerUpdate();
+      }
+    }
+  }
+
   onMount(() => {
     const node = nodeInstance || getWorldExamsNode();
-    nodeHash = node.config.nodeHash || 'wx-anonymous-node';
+    const baseHash = node.config.nodeHash;
+    nodeHash = (baseHash && baseHash !== 'wx-anonymous-node')
+      ? baseHash
+      : `wx-node-${Math.random().toString(36).slice(2, 10)}`;
     optedIn = getOptIn();
+
+    activePeerNodes.add(nodeHash);
+    peerCount = activePeerNodes.size;
 
     unsubscribeNode = node.subscribe((vectors: PeerStats[]) => {
       connectionState = 'sincronizando';
       rawPeerStats = vectors;
-      const processed = processVectors(rawPeerStats);
-      displayedStats = processed.slice(0, 50);
       connectionState = optedIn ? 'conectado' : 'desconectado';
     });
 
@@ -171,9 +220,25 @@
       updateLeaderboardData();
     });
 
-    const handleMeshShare = () => updateLeaderboardData();
+    const handleMeshShare = (ev?: Event) => {
+      const customEv = ev as CustomEvent;
+      if (customEv && customEv.detail && meshChannel) {
+        const payload = customEv.detail;
+        meshChannel.postMessage({
+          type: 'SCORE_BROADCAST',
+          payload: {
+            node_hash: payload.node_hash || nodeHash,
+            subject: payload.subject,
+            week: payload.week,
+            score: payload.score,
+            avg: payload.avg
+          }
+        });
+      }
+      updateLeaderboardData();
+    };
+
     const handleMeshRevoke = () => {
-      displayedStats = [];
       rawPeerStats = [];
       updateLeaderboardData();
     };
@@ -181,6 +246,17 @@
     if (typeof window !== 'undefined') {
       window.addEventListener('wx:mesh:share', handleMeshShare as EventListener);
       window.addEventListener('wx:mesh:revoke', handleMeshRevoke as EventListener);
+
+      if ('BroadcastChannel' in window) {
+        meshChannel = new BroadcastChannel('wx_mesh_channel');
+        meshChannel.onmessage = handleBroadcastMessage;
+
+        // Announce presence to other tabs
+        meshChannel.postMessage({
+          type: 'PEER_JOIN',
+          payload: { node_hash: nodeHash }
+        });
+      }
     }
 
     updateLeaderboardData();
@@ -188,6 +264,10 @@
     return () => {
       if (unsubscribeNode) unsubscribeNode();
       if (unsubscribeOptIn) unsubscribeOptIn();
+      if (meshChannel) {
+        meshChannel.close();
+        meshChannel = null;
+      }
       if (typeof window !== 'undefined') {
         window.removeEventListener('wx:mesh:share', handleMeshShare as EventListener);
         window.removeEventListener('wx:mesh:revoke', handleMeshRevoke as EventListener);
@@ -198,6 +278,10 @@
   onDestroy(() => {
     if (unsubscribeNode) unsubscribeNode();
     if (unsubscribeOptIn) unsubscribeOptIn();
+    if (meshChannel) {
+      meshChannel.close();
+      meshChannel = null;
+    }
   });
 
   $: filteredStats = displayedStats.filter(item => matchesSubjectFilter(item.subject, subjectFilter));
@@ -226,6 +310,11 @@
               ${connectionState === 'desconectado' ? 'bg-gray-500' : ''}`}
           ></span>
           {connectionState === 'conectado' ? 'Conectado' : connectionState === 'sincronizando' ? 'Sincronizando' : 'Desconectado'}
+        </span>
+
+        <!-- Peer count badge -->
+        <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-mono bg-blue-500/10 border border-blue-500/30 text-blue-400" data-testid="peer-count">
+          👥 {peerCount} {peerCount === 1 ? 'nodo' : 'nodos'}
         </span>
       </div>
       <p class="text-xs text-white/60 mt-1">
