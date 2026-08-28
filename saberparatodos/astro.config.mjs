@@ -26,6 +26,14 @@ export default defineConfig({
 
   // Vite configuration for environment variables
   vite: {
+    server: {
+      fs: {
+        strict: false
+      }
+    },
+    optimizeDeps: {
+      exclude: ['@astrojs/svelte', 'svelte']
+    },
     resolve: {
       alias: {
         '@': fileURLToPath(new URL('./src', import.meta.url)),
