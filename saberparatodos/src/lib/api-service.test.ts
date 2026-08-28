@@ -227,8 +227,8 @@ describe('getPackSubjectAliases', () => {
   });
 
   it('returns single-element array for unknown subjects', () => {
-    const aliases = getPackSubjectAliases('matematicas');
-    expect(aliases).toEqual(['matematicas']);
+    const aliases = getPackSubjectAliases('filosofia');
+    expect(aliases).toEqual(['filosofia']);
   });
 });
 

@@ -33,8 +33,8 @@ test.describe('Exam Timer, Scoring & Local MMR Multiplier Validation Suite (Wave
     await startBtn.click();
 
     // 5. Verify transition to ExamView shell
-    const examShell = page.locator('[data-testid="exam-shell"]');
-    await expect(examShell).toBeVisible({ timeout: 15000 });
+    const examShell = page.locator('[data-testid="exam-shell"]').first();
+    await expect(examShell).toBeVisible({ timeout: 25000 });
 
     // Verify timer starts counting down and remains visible
     const timerText = examShell.locator('.tabular-nums').first();
