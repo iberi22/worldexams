@@ -84,7 +84,9 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
     // Compute static pack origin — use the app origin, NOT the API base URL.
     // Because the API (worker) packs lack the context field, but static packs
     // served via the Astro proxy (saberparatodos.space/api/packs/...) DO have context.
-    const staticOrigin = baseOrigin || 'https://saberparatodos.space';
+    const staticOrigin =
+      baseOrigin ||
+      (typeof window !== 'undefined' ? window.location.origin : 'https://saberparatodos.space');
 
     const tryStaticPackCandidates = async (): Promise<Response | null> => {
       // Prefer subject-specific packs first, then generic grade packs.

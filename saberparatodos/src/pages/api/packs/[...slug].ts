@@ -1,4 +1,6 @@
 import type { APIRoute } from 'astro';
+import fs from 'node:fs';
+import path from 'node:path';
 
 const DEFAULT_PUBLIC_API_BASE_URL = 'https://api.saberparatodos.space/v1';
 
@@ -50,6 +52,35 @@ async function proxyPack(request: Request, slug: string | undefined) {
     });
   }
 
+  // 1. In local development or node runtime, check local disk first for ultra-fast zero-latency offline response
+  try {
+    const sanitizedSlug = path.basename(slug);
+    const candidatePaths = [
+      path.resolve(process.cwd(), 'public/api/packs', sanitizedSlug),
+      path.resolve(process.cwd(), 'public/packs', sanitizedSlug),
+      path.resolve(process.cwd(), '../apps/worldexams-api/public/v1/packs', sanitizedSlug),
+      path.resolve(process.cwd(), '../../apps/worldexams-api/public/v1/packs', sanitizedSlug),
+      path.resolve(process.cwd(), 'apps/worldexams-api/public/v1/packs', sanitizedSlug),
+    ];
+
+    for (const candidate of candidatePaths) {
+      if (fs.existsSync(candidate)) {
+        const fileContent = fs.readFileSync(candidate, 'utf-8');
+        return new Response(request.method === 'HEAD' ? null : fileContent, {
+          status: 200,
+          headers: {
+            'Content-Type': 'application/json',
+            'Cache-Control': 'public, max-age=86400',
+            ...CORS_HEADERS,
+          },
+        });
+      }
+    }
+  } catch {
+    // If filesystem is not available (e.g. strict edge workers), continue to upstream fetch
+  }
+
+  // 2. Upstream fetch fallback
   const baseUrl = new URL(`${getUpstreamBaseUrl()}/packs/`);
   const upstreamUrl = new URL(`${getUpstreamBaseUrl()}/packs/${slug}`);
 
@@ -63,6 +94,7 @@ async function proxyPack(request: Request, slug: string | undefined) {
       },
     });
   }
+
   try {
     const upstreamResponse = await fetch(upstreamUrl, {
       method: request.method,
