@@ -345,10 +345,10 @@ La escala de decibeles es una escala logarítmica. Un incremento de $30\text{ dB
 La temperatura de una taza de café en función del tiempo se modela mediante la función $T(t) = 20 + 60 \cdot e^{-0,05t}$. ¿Cuál es la temperatura límite a la que se aproximará el café después de transcurrir muchas horas?
 
 ### Opciones
-- [ ] A) $80^\\circ\\text{C}$ <!-- feedback: Incorrecto. Esta es la temperatura inicial de la infusión ($20 + 60 = 80$). -->
-- [x] B) $20^\\circ\\text{C}$ <!-- feedback: Correcto. A medida que $t \to \infty$, el término exponencial $e^{-0,05t}$ tiende a cero, haciendo que el término $60 \cdot e^{-0,05t}$ se anule. Por ende, la temperatura tiende a la asíntota horizontal de $20^\\circ\\text{C}$ (temperatura ambiente). -->
-- [ ] C) $0^\\circ\\text{C}$ <!-- feedback: Incorrecto. El café no se enfriará por debajo de la temperatura ambiente de la sala. -->
-- [ ] D) $60^\\circ\\text{C}$ <!-- feedback: Incorrecto. Este es el diferencial de caída de la temperatura. -->
+- [ ] A) $80^\circ\text{C}$ <!-- feedback: Incorrecto. Esta es la temperatura inicial de la infusión ($20 + 60 = 80$). -->
+- [x] B) $20^\circ\text{C}$ <!-- feedback: Correcto. A medida que $t \to \infty$, el término exponencial $e^{-0,05t}$ tiende a cero, haciendo que el término $60 \cdot e^{-0,05t}$ se anule. Por ende, la temperatura tiende a la asíntota horizontal de $20^\circ\text{C}$ (temperatura ambiente). -->
+- [ ] C) $0^\circ\text{C}$ <!-- feedback: Incorrecto. El café no se enfriará por debajo de la temperatura ambiente de la sala. -->
+- [ ] D) $60^\circ\text{C}$ <!-- feedback: Incorrecto. Este es el diferencial de caída de la temperatura. -->
 
 ### Explicacion Pedagogica
 Al evaluar el límite de $T(t) = 20 + 60 \cdot e^{-0,05t}$ cuando el tiempo $t$ tiende a infinito, se comprueba que el exponente negativo hace que la expresión tienda a cero, quedando únicamente el término constante de $20^\circ\text{C}$.
