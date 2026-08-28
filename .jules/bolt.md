@@ -18,3 +18,6 @@
 ## 2024-05-18 - Avoid Chained Array Methods in Reactive Blocks
 **Learning:** Chaining methods like `.slice().reverse().slice()` within reactive blocks (like `$derived.by` in Svelte) causes unnecessary intermediate array allocations and multiple iteration passes, which can cause frame drops.
 **Action:** Replace chained array manipulations with single-pass loops or mathematical indexing (e.g., iterating backwards from the array end) to extract data efficiently without mutation or allocations.
+## 2024-05-18 - Optimize array shuffling with O(n) Fisher-Yates algorithm
+**Learning:** Using `array.sort(() => Math.random() - 0.5)` for shuffling is both slow (O(n log n)) and statistically biased because the random comparator violates the strict weak ordering required by standard sorting algorithms.
+**Action:** Replace random `.sort()` with an in-place Fisher-Yates shuffle algorithm which guarantees O(n) performance and unbiased randomness, especially when randomizing potentially large datasets like question arrays fetched from the API.
