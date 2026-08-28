@@ -14,12 +14,12 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const hooksSrc = join(__dirname, "..", ".husky");
+const hooksSrc = join(__dirname, "..", "..", ".husky");
 const gitHooks = join(__dirname, "..", "..", ".git", "hooks");
 
-if (!existsSync(gitHooks)) {
-  console.error("❌ .git/hooks not found at", gitHooks);
-  process.exit(1);
+if (!existsSync(gitHooks) || !existsSync(hooksSrc)) {
+  console.log("ℹ️ Skipping git hooks installation (CI/Container environment)");
+  process.exit(0);
 }
 
 const files = readdirSync(hooksSrc).filter(
