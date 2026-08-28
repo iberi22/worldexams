@@ -114,42 +114,39 @@
 
       <div class="mb-12 bg-red-500/10 border border-red-500/20 p-5 rounded-xl">
         <h3 class="text-xl font-bold text-red-300 mb-4">Explicación en Video</h3>
-        {#if true}
-          {@const youtubeTarget = videoMeta?.youtube_url || videoDefaults.youtube_channel_url}
-          {#if youtubeTarget}
-            <div class="flex flex-wrap items-center gap-3">
+        {#if videoMeta?.youtube_url}
+          <div class="flex flex-wrap items-center gap-3">
+            <a
+              href={videoMeta.youtube_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="px-4 py-2 bg-red-600 hover:bg-red-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+            >
+              Ver en YouTube
+            </a>
+            {#if videoMeta?.instagram_url || videoDefaults.instagram_url}
               <a
-                href={youtubeTarget}
+                href={videoMeta?.instagram_url || videoDefaults.instagram_url}
                 target="_blank"
                 rel="noopener noreferrer"
-                class="px-4 py-2 bg-red-600 hover:bg-red-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+                class="px-4 py-2 bg-pink-600/80 hover:bg-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
               >
-                {videoMeta?.youtube_url ? 'Ver en YouTube' : 'Ver Canal en YouTube'}
+                Instagram
               </a>
-              {#if videoMeta?.instagram_url || videoDefaults.instagram_url}
-                <a
-                  href={videoMeta?.instagram_url || videoDefaults.instagram_url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="px-4 py-2 bg-pink-600/80 hover:bg-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
-                >
-                  Instagram
-                </a>
-              {/if}
-              {#if videoMeta?.tiktok_url || videoDefaults.tiktok_url}
-                <a
-                  href={videoMeta?.tiktok_url || videoDefaults.tiktok_url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="px-4 py-2 bg-black/70 hover:bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-white/20 transition-colors"
-                >
-                  TikTok
-                </a>
-              {/if}
-            </div>
-          {:else}
-            <p class="text-sm text-white/60">Video en generación para esta pregunta.</p>
-          {/if}
+            {/if}
+            {#if videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+              <a
+                href={videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="px-4 py-2 bg-black/70 hover:bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-white/20 transition-colors"
+              >
+                TikTok
+              </a>
+            {/if}
+          </div>
+        {:else}
+          <p class="text-sm text-white/60">Video en generación para esta pregunta.</p>
         {/if}
       </div>
     </article>
