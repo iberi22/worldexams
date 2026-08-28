@@ -233,7 +233,7 @@ En una cámara oscura de 20 cm de largo, se forma la imagen de un árbol de 15 m
 - [ ] A) 5 cm
   <!-- feedback: Incorrecto. Error en la conversión de unidades o en la proporción. -->
 - [x] B) 10 cm
-  <!-- feedback: Correcto. Los triángulos son semejantes. $\text{Altura_árbol} / \text{Distancia} = \text{Altura_imagen} / \text{Largo_cámara}$. $15 / 30 = h / 0.20 \Rightarrow 0.5 = h / 0.20 \Rightarrow h = 0.10$ m $= 10$ cm. -->
+  <!-- feedback: Correcto. Los triángulos son semejantes. $\text{Altura}_{\text{árbol}} / \text{Distancia} = \text{Altura}_{\text{imagen}} / \text{Largo}_{\text{cámara}}$. $15 / 30 = h / 0.20 \Rightarrow 0.5 = h / 0.20 \Rightarrow h = 0.10$ m $= 10$ cm. -->
 - [ ] C) 15 cm
   <!-- feedback: Incorrecto. La imagen no puede tener el mismo valor numérico que la altura real en unidades diferentes. -->
 - [ ] D) 7.5 cm
