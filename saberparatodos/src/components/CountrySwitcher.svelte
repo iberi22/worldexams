@@ -11,9 +11,17 @@
   }
 
   function selectCountry(code: CountryCode) {
-    // Save to cookie and reload
-    document.cookie = `spt_country=${code}; path=/; max-age=31536000`; // 1 year
-    window.location.reload();
+    const countryCode = code.toUpperCase();
+    document.cookie = `spt_country=${countryCode}; path=/; max-age=31536000; SameSite=Lax`;
+    try {
+      localStorage.setItem('worldexams_country', JSON.stringify({
+        code: countryCode,
+        timestamp: Date.now()
+      }));
+    } catch {}
+    const url = new URL(window.location.href);
+    url.searchParams.set('country', countryCode.toLowerCase());
+    window.location.href = url.toString();
   }
 
   function close(e: MouseEvent) {

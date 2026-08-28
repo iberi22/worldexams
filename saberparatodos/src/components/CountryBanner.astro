@@ -58,20 +58,21 @@ const currentCountryData = countries.find(c => c.code === currentCountry) || cou
   document.querySelectorAll('.country-btn[data-country]').forEach(btn => {
     btn.addEventListener('click', (e) => {
       e.preventDefault();
-      const countryCode = (btn as HTMLElement).dataset.country || 'CO';
+      const countryCode = ((btn as HTMLElement).dataset.country || 'CO').toUpperCase();
 
-      // Use the setCountryOverride function from country-detector
-      // It will cache the country and redirect
-      if (typeof (window as any).setCountryOverride === 'function') {
-        (window as any).setCountryOverride(countryCode);
-      } else {
-        // Fallback: cache and reload
+      // Persist in cookie (for SSR Astro middleware) and localStorage (for client-side cache)
+      document.cookie = `spt_country=${countryCode}; path=/; max-age=31536000; SameSite=Lax`;
+      try {
         localStorage.setItem('worldexams_country', JSON.stringify({
           code: countryCode,
           timestamp: Date.now()
         }));
-        window.location.reload();
-      }
+      } catch {}
+
+      // Update URL search parameter and navigate
+      const url = new URL(window.location.href);
+      url.searchParams.set('country', countryCode.toLowerCase());
+      window.location.href = url.toString();
     });
   });
 
