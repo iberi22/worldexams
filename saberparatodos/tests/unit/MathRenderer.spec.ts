@@ -5,8 +5,8 @@ describe('MathRenderer (logic)', () => {
     // Read the svelte file to extract the renderMath logic for testing
     // Since we don't have @testing-library/svelte
     const svelteCode = fs.readFileSync('src/components/MathRenderer.svelte', 'utf8');
-    const escapeHtmlMatches = svelteCode.match(/function escapeHtml[\s\S]*?return result;\n  \}/);
-    const codeStr = escapeHtmlMatches ? escapeHtmlMatches[0] : '';
+    const renderMathMatches = svelteCode.match(/function renderMath[\s\S]*?\n  \}/);
+    const codeStr = renderMathMatches ? renderMathMatches[0] : '';
     
     // Evaluate the code to create the function
     const evaluateRenderMath = (text: string) => {
@@ -15,16 +15,17 @@ describe('MathRenderer (logic)', () => {
         const BLOCK_MATH_REGEX = /\$\$([\s\S]*?)\$\$/g;
         const INLINE_MATH_REGEX = /(?<![\d\w])\$([^\$\n]+?)\$(?![\d\w])/g;
         const MAX_CACHE_SIZE = 500;
+        const escapeHtml = (str: string) => str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
         
         // Remove typescript types for eval
         const jsCode = codeStr.replace(/: string\[\]/g, '').replace(/: string/g, '').replace(/!;/g, ';');
         
-        const fn = new Function('katex', 'renderCache', 'BLOCK_MATH_REGEX', 'INLINE_MATH_REGEX', 'MAX_CACHE_SIZE', `
+        const fn = new Function('katex', 'renderCache', 'BLOCK_MATH_REGEX', 'INLINE_MATH_REGEX', 'MAX_CACHE_SIZE', 'escapeHtml', `
             ${jsCode}
             return renderMath(\`${text.replace(/`/g, '\\`')}\`);
         `);
         
-        return fn(katex, renderCache, BLOCK_MATH_REGEX, INLINE_MATH_REGEX, MAX_CACHE_SIZE);
+        return fn(katex, renderCache, BLOCK_MATH_REGEX, INLINE_MATH_REGEX, MAX_CACHE_SIZE, escapeHtml);
     };
 
     it('escapes html tags properly', () => {
