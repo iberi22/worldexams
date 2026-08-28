@@ -21,18 +21,61 @@ export function normalizeSubjectKey(subject: string): string {
     .replace(/^_+|_+$/g, '');
 
   const aliasMap: Record<string, string> = {
+    // Sociales / Humanidades
     socialesyciudadanas: 'sociales_y_ciudadanas',
     sociales_ciudadanas: 'sociales_y_ciudadanas',
+    sociales_y_ciudadanas: 'sociales_y_ciudadanas',
     sociales: 'sociales_y_ciudadanas',
+    ciencias_sociales: 'sociales_y_ciudadanas',
+    cienciassociales: 'sociales_y_ciudadanas',
+    estudios_sociales: 'sociales_y_ciudadanas',
+    estudiossociales: 'sociales_y_ciudadanas',
+    cs_sociales: 'sociales_y_ciudadanas',
+    cssociales: 'sociales_y_ciudadanas',
+    geografia_historia: 'sociales_y_ciudadanas',
+    geografiahistoria: 'sociales_y_ciudadanas',
+    historia: 'sociales_y_ciudadanas',
+    civica: 'sociales_y_ciudadanas',
+
+    // Ciencias Naturales
     cienciasnaturales: 'ciencias_naturales',
+    ciencias_naturales: 'ciencias_naturales',
+    ciencias_naturaleza: 'ciencias_naturales',
+    cienciasnaturaleza: 'ciencias_naturales',
     ciencias: 'ciencias_naturales',
+    cs_naturales: 'ciencias_naturales',
+    csnaturales: 'ciencias_naturales',
+
+    // Lengua / Lectura / Comunicación / Portugués
     lectura_critica: 'lectura_critica',
     lecturacritica: 'lectura_critica',
+    lectura: 'lectura_critica',
     lenguaje: 'lectura_critica',
-    tecnologiaeinformatica: 'tecnologia_informatica',
-    tecnologiainformatica: 'tecnologia_informatica',
+    lengua: 'lectura_critica',
+    lengua_castellana: 'lectura_critica',
+    lenguacastellana: 'lectura_critica',
+    lengua_espanola: 'lectura_critica',
+    lenguaespanola: 'lectura_critica',
+    lengua_literatura: 'lectura_critica',
+    lengualiteratura: 'lectura_critica',
+    comunicacion: 'lectura_critica',
+    espanol: 'lectura_critica',
+    portugues: 'lectura_critica',
+    redacao: 'lectura_critica',
+
+    // Matemáticas
+    matematica: 'matematicas',
+    matematicas: 'matematicas',
+
+    // Idiomas
     english: 'ingles',
-    matematica: 'matematicas'
+    ingles: 'ingles',
+    ing: 'ingles',
+    frances: 'ingles',
+
+    // Tecnología
+    tecnologiaeinformatica: 'tecnologia_informatica',
+    tecnologiainformatica: 'tecnologia_informatica'
   };
   return aliasMap[normalized] || normalized;
 }
@@ -142,13 +185,57 @@ export function getPackSubjectAliases(subject: string): string[] {
   const normalized = normalizeSubjectKey(subject);
   switch (normalized) {
     case 'sociales_y_ciudadanas':
-      return ['sociales', 'sociales_ciudadanas', 'ciencias_sociales', 'sociales_y_ciudadanas'];
+      return [
+        'sociales',
+        'sociales_ciudadanas',
+        'ciencias_sociales',
+        'sociales_y_ciudadanas',
+        'estudios_sociales',
+        'historia',
+        'cs_sociales',
+        'geografia_historia',
+        'civica'
+      ];
+    case 'ciencias_naturales':
+      return [
+        'ciencias_naturales',
+        'ciencias',
+        'cs_naturales',
+        'ciencias_naturaleza'
+      ];
     case 'lectura_critica':
-      return ['lectura_critica', 'lectura-critica', 'lenguaje'];
-    case 'lenguaje':
-      return ['lenguaje', 'lectura_critica', 'lectura-critica'];
+      return [
+        'lectura_critica',
+        'lectura-critica',
+        'lengua',
+        'lenguaje',
+        'lengua_castellana',
+        'lengua_espanola',
+        'lengua_literatura',
+        'comunicacion',
+        'espanol',
+        'lectura',
+        'portugues',
+        'redacao'
+      ];
+    case 'matematicas':
+      return [
+        'matematicas',
+        'matematica',
+        'Matematica'
+      ];
+    case 'ingles':
+      return [
+        'ingles',
+        'ing',
+        'english',
+        'frances'
+      ];
     case 'tecnologia_informatica':
-      return ['tecnologia_informatica', 'tecnologia_e_informatica'];
+      return [
+        'tecnologia_informatica',
+        'tecnologia_e_informatica'
+      ];
     default:
       return [normalized];
   }

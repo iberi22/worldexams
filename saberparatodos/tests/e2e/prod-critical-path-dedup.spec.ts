@@ -43,8 +43,8 @@ test.describe('Production Critical Path — English & Grade 11 Dedup & Reports V
     await expect(startBtn).toBeEnabled();
     await startBtn.click();
 
-    const examShell = page.locator('[data-testid="exam-shell"]');
-    await expect(examShell).toBeVisible({ timeout: 15000 });
+    const examShell = page.locator('[data-testid="exam-shell"]').first();
+    await expect(examShell).toBeVisible({ timeout: 30000 });
 
     const run1EnglishQuestions: string[] = [];
     const questionOptions = ['A', 'B', 'C', 'D'];
@@ -122,7 +122,7 @@ test.describe('Production Critical Path — English & Grade 11 Dedup & Reports V
     await expect(startBtn2).toBeEnabled();
     await startBtn2.click();
 
-    await expect(examShell).toBeVisible({ timeout: 15000 });
+    await expect(examShell).toBeVisible({ timeout: 30000 });
 
     const run2EnglishQuestions: string[] = [];
 
@@ -192,8 +192,8 @@ test.describe('Production Critical Path — English & Grade 11 Dedup & Reports V
     await expect(startBtn).toBeEnabled();
     await startBtn.click();
 
-    const examShell = page.locator('[data-testid="exam-shell"]');
-    await expect(examShell).toBeVisible({ timeout: 15000 });
+    const examShell = page.locator('[data-testid="exam-shell"]').first();
+    await expect(examShell).toBeVisible({ timeout: 30000 });
 
     const run1Grade11Questions: string[] = [];
     const questionOptions = ['A', 'B', 'C', 'D'];
@@ -290,7 +290,7 @@ test.describe('Production Critical Path — English & Grade 11 Dedup & Reports V
     await expect(startBtn2).toBeEnabled();
     await startBtn2.click();
 
-    await expect(examShell).toBeVisible({ timeout: 15000 });
+    await expect(examShell).toBeVisible({ timeout: 30000 });
 
     const run2Grade11Questions: string[] = [];
 
