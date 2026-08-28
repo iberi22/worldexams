@@ -24,7 +24,7 @@ export default defineConfig({
     screenshot: 'on',
   },
   webServer: process.env.CI || !useWebServer ? undefined : {
-    command: 'rm -rf node_modules/.vite && npm run dev -- --port 4321 --force',
+    command: 'npm run dev -- --port 4321',
     port: 4321,
     reuseExistingServer: true,
     timeout: 120000,

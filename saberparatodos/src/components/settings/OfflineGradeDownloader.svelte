@@ -118,7 +118,7 @@
   });
 </script>
 
-<div class="bg-white/5 border border-white/10 rounded-2xl p-6 backdrop-blur-md space-y-6">
+<div class="offline-downloader-container bg-white/5 border border-white/10 rounded-2xl p-6 backdrop-blur-md space-y-6">
   <div class="flex items-center justify-between flex-wrap gap-4 border-b border-white/10 pb-4">
     <div>
       <h2 class="text-xl font-bold text-white flex items-center gap-2">
