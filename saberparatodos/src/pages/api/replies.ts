@@ -6,7 +6,7 @@ import {
   getServerRuntimeEnv,
   type RuntimeLocals,
 } from '../../lib/server-runtime';
-import { sanitizeContent, rateLimitMap, RATE_LIMIT_WINDOW_MS } from './explanations';
+import { sanitizeContent, rateLimitMap, RATE_LIMIT_WINDOW_MS, cleanupRateLimitMap } from './explanations';
 
 // WX-302 capa 3: hilos por explicación (reply / citar / ampliar)
 // Usa community_replies si existe; fallback in-memory para tests sin supabase
@@ -47,8 +47,13 @@ function jsonResponse(data: unknown, status = 200) {
   });
 }
 
+const CLEANUP_PROBABILITY = 0.05;
+
 function checkReplyRateLimit(nodeHash: string): boolean {
   const now = Date.now();
+  if (Math.random() < CLEANUP_PROBABILITY) {
+    cleanupRateLimitMap(now);
+  }
   const key = `reply:${nodeHash}`;
   const entry = rateLimitMap.get(key);
   if (!entry) {
