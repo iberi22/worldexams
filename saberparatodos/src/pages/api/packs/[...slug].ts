@@ -63,18 +63,28 @@ async function proxyPack(request: Request, slug: string | undefined) {
       },
     });
   }
-  const upstreamResponse = await fetch(upstreamUrl, {
-    method: request.method,
-    headers: {
-      Accept: request.headers.get('accept') || 'application/json',
-    },
-  });
+  try {
+    const upstreamResponse = await fetch(upstreamUrl, {
+      method: request.method,
+      headers: {
+        Accept: request.headers.get('accept') || 'application/json',
+      },
+    });
 
-  return new Response(request.method === 'HEAD' ? null : upstreamResponse.body, {
-    status: upstreamResponse.status,
-    statusText: upstreamResponse.statusText,
-    headers: copyResponseHeaders(upstreamResponse.headers),
-  });
+    return new Response(request.method === 'HEAD' ? null : upstreamResponse.body, {
+      status: upstreamResponse.status,
+      statusText: upstreamResponse.statusText,
+      headers: copyResponseHeaders(upstreamResponse.headers),
+    });
+  } catch (error) {
+    return new Response(JSON.stringify({ error: 'Failed to fetch upstream pack.', details: String(error) }), {
+      status: 502,
+      headers: {
+        'Content-Type': 'application/json',
+        ...CORS_HEADERS,
+      },
+    });
+  }
 }
 
 export const GET: APIRoute = async ({ params, request }) => proxyPack(request, params.slug);
