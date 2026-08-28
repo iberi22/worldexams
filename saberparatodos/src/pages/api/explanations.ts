@@ -44,9 +44,21 @@ export function sanitizeContent(input: string): string {
 // ---------------------------------------------------------------------------
 export const rateLimitMap = new Map<string, { lastAt: number }>();
 export const RATE_LIMIT_WINDOW_MS = 60 * 1000;
+const CLEANUP_PROBABILITY = 0.05;
+
+export function cleanupRateLimitMap(now: number) {
+  for (const [key, value] of rateLimitMap.entries()) {
+    if (value.lastAt + RATE_LIMIT_WINDOW_MS < now) {
+      rateLimitMap.delete(key);
+    }
+  }
+}
 
 export function checkRateLimit(nodeHash: string): boolean {
   const now = Date.now();
+  if (Math.random() < CLEANUP_PROBABILITY) {
+    cleanupRateLimitMap(now);
+  }
   const entry = rateLimitMap.get(nodeHash);
   if (!entry) {
     rateLimitMap.set(nodeHash, { lastAt: now });
