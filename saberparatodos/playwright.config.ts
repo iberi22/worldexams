@@ -24,7 +24,7 @@ export default defineConfig({
     screenshot: 'on',
   },
   webServer: process.env.CI || !useWebServer ? undefined : {
-    command: 'npm run dev -- --port 4321',
+    command: 'npm --prefix saberparatodos run dev -- --port 4321',
     port: 4321,
     reuseExistingServer: true,
     timeout: 120000,
