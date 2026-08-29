@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T21:14:50.029Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles partículas subatómicas componen el núcleo de un átomo y definen la masa atómica casi en su totalidad?",
+      "context": "En la clase de química de un colegio en Tunja, se discute la constitución subatómica de los átomos neutros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protones y neutrones.",
+          "is_correct": true,
+          "feedback": "Correcto. Los protones y neutrones (nucleones) se localizan en el núcleo atómico concentrando casi toda la masa."
+        },
+        {
+          "letter": "B",
+          "text": "Protones y electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones orbitan fuera del núcleo en la nube electrónica."
+        },
+        {
+          "letter": "C",
+          "text": "Neutrones y electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones tienen una masa despreciable (aproximadamente 1/1836 la del protón)."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente fotones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fotones son cuantos de radiación electromagnética, no partículas estructurales de materia sólida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El núcleo atómico alberga a los protones (con carga positiva) y neutrones (neutros), los cuales tienen masas aproximadas de $1\\text{ u.m.a.}$ cada uno. Los electrones orbitan en la corteza electrónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos protones, electrones y neutrones posee un átomo neutro de Sodio-23?",
+      "context": "Un estudiante en Bogotá consulta la tabla periódica y encuentra que el átomo de Sodio ($Na$) tiene número atómico $Z=11$ y número de masa $A=23$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 protones, 11 electrones y 12 neutrones.",
+          "is_correct": true,
+          "feedback": "Correcto. Z = 11 (protones y electrones en átomo neutro). Neutrones N = A - Z = 23 - 11 = 12."
+        },
+        {
+          "letter": "B",
+          "text": "11 protones, 12 electrones y 11 neutrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un átomo neutro el número de protones es strictly igual al de electrones."
+        },
+        {
+          "letter": "C",
+          "text": "23 protones, 11 electrones y 12 neutrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A=23 es la suma de protones y neutrones, no el número atómico Z."
+        },
+        {
+          "letter": "D",
+          "text": "12 protones, 11 electrones y 11 neutrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Z=11 define inequívocamente el número de protones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número atómico $Z=11$ especifica la cantidad de protones (y electrones en estado neutro). El número de masa $A=23$ es $A = Z + N \\implies N = 23 - 11 = 12$ neutrones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v3",
+      "statement": "¿Qué experimento histórico realizado por Ernest Rutherford demostró la existencia de un núcleo atómico pequeño, denso y cargado positivamente?",
+      "context": "En un ensayo histórico en la Universidad de Antioquia, se repasa la evolución de los modelos atómicos desde Thomson hasta Bohr.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bombardeo de una lámina delgada de oro con partículas alfa.",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación sorpresiva a grandes ángulos de algunas partículas alfa demostró la presencia del núcleo positivo denso."
+        },
+        {
+          "letter": "B",
+          "text": "La prueba del tubo de rayos catódicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El experimento de J.J. Thomson con rayos catódicos permitió descubrir el electrón."
+        },
+        {
+          "letter": "C",
+          "text": "El experimento de la gota de aceite de Millikan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El experimento de Millikan sirvió para determinar la carga fundamental del electrón."
+        },
+        {
+          "letter": "D",
+          "text": "La difusión de rayos X por cristales de NaCl.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Experimento de Bragg para la difracción de rayos X en cristales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En 1911, Rutherford bombardeó láminas de oro con partículas alfa. Al observar que la mayoría atravesaba la lámina pero unas pocas rebotaban a ángulos mayores de $90^\\circ$, concluyó que la carga positiva y la masa del átomo están concentradas en un núcleo central muy pequeño.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v4",
+      "statement": "Según el modelo atómico de Niels Bohr, ¿cuándo emite fotones de luz un átomo?",
+      "context": "Un laboratorio de espectroscopia en Medellín analiza las líneas de emisión luminosa de una lámpara de vapor de sodio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando un electrón salta desde una órbita de mayor energía a una de menor energía.",
+          "is_correct": true,
+          "feedback": "Correcto. La transición hacia un nivel de energía inferior emite un fotón de energía E = h \\nu = E_2 - E_1."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando un electrón absorbe energía y asciende a un nivel excitado superior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ascender de nivel absorbe fotones (espectro de absorción)."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando el protón del núcleo cambia su giro de espín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las transiciones ópticas atómicas se deben a saltos cuánticos de los electrones."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando el electrón se detiene por completo en el núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de Bohr prohíbe que los electrones caigan al núcleo mediante órbitas estacionarias cuantizadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bohr postuló que un átomo emite radiación electromagnética (luz) solo cuando un electrón realiza una transición cuántica desde un estado estacionario de mayor energía ($E_2$) a uno de menor energía ($E_1$), liberando un fotón con energía $\\Delta E = h \\nu$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la configuración electrónica abreviada correcta para el átomo neutro de Hierro ($Z=26$)?",
+      "context": "Se determina la configuración electrónica del átomo de Hierro en su estado fundamental ($Z=26$) en el laboratorio de Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[Ar] 4s^2 3d^6$",
+          "is_correct": true,
+          "feedback": "Correcto. El Argón cubre 18 electrones. Sumando 4s^2 3d^6 completamos los 26 electrones del hierro."
+        },
+        {
+          "letter": "B",
+          "text": "$[Ar] 4s^1 3d^7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excepción no presente en el hierro (ocurre en cromo y cobre por estabilidad)."
+        },
+        {
+          "letter": "C",
+          "text": "$[Kr] 4s^2 3d^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Kriptón tiene Z=36, superando al número atómico del Hierro."
+        },
+        {
+          "letter": "D",
+          "text": "$[Ar] 3d^8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitieron los 2 electrones en el subnivel 4s."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando el principio de Auf-bau y la regla de las diagonales: Argón ($Z=18$). Los 8 electrones restantes ocupan el subnivel $4s^2$ (menor energía) y luego el subnivel $3d^6$. Así: $[Ar] 4s^2 3d^6$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son los valores del número cuántico principal ($n$) y secundario o azimutal ($l$) para dicho electrón?",
+      "context": "Un estudiante en Cali analiza los cuatro números cuánticos de un electrón ubicado en el subnivel $3p^4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n = 3$ y $l = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. El nivel principal es n=3. Para el subnivel tipo p, el número cuántico azimutal l=1."
+        },
+        {
+          "letter": "B",
+          "text": "$n = 3$ y $l = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. l=0 corresponde a subniveles tipo s."
+        },
+        {
+          "letter": "C",
+          "text": "$n = 4$ y $l = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. l=2 corresponde a subniveles tipo d."
+        },
+        {
+          "letter": "D",
+          "text": "$n = 3$ y $l = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor máximo de l es n-1 = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número cuántico principal $n$ indica el nivel energético ($n=3$). El número cuántico secundario o azimutal $l$ define la forma del orbital: $s \\implies l=0$, $p \\implies l=1$, $d \\implies l=2$, $f \\implies l=3$. Por ende, $n=3$ y $l=1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v7",
+      "statement": "¿En qué se diferencian estructuralmente los núcleos de Carbono-12 ($^{12}C$) y Carbono-14 ($^{14}C$)?",
+      "context": "En un espectrómetro de masas en Bogotá se analizan dos especies químicas del mismo elemento: el Isótopo Carbono-12 y el Isótopo Carbono-14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la cantidad de neutrones: Carbono-12 tiene 6 neutrones y Carbono-14 tiene 8 neutrones.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos poseen Z=6 protones por ser carbono, pero difieren en 2 neutrones (12-6=6 vs 14-6=8)."
+        },
+        {
+          "letter": "B",
+          "text": "En la cantidad de protones: Carbono-14 tiene 8 protones y Carbono-12 tiene 6 protones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si cambiara el número de protones cambiaría la identidad del elemento químico (sería Oxígeno)."
+        },
+        {
+          "letter": "C",
+          "text": "En la cantidad de electrones de valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los isótopos neutros poseen idéntica configuración electrónica."
+        },
+        {
+          "letter": "D",
+          "text": "Carbono-14 no posee protones en su núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los núcleos atómicos estables o inestables de carbono poseen 6 protones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los isótopos son átomos del mismo elemento químico con igual número atómico $Z$ (igual número de protones) pero diferente número de masa $A$, lo que significa que poseen diferente número de neutrones ($N = A - Z$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se distribuyen los 3 electrones en los tres orbitales degenerados $2p_x$, $2p_y$ y $2p_z$?",
+      "context": "Se examina el subnivel $2p^3$ del Nitrógeno ($Z=7$) aplicando la Regla de Máxima Multiplicidad de Hund.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un electrón despareado en cada uno de los tres orbitales p con espines paralelos.",
+          "is_correct": true,
+          "feedback": "Correcto. La regla de Hund exige semi-llenar primero los orbitales degenerados con espines paralelos para minimizar la repulsión electrónica."
+        },
+        {
+          "letter": "B",
+          "text": "Dos electrones apareados en el primer orbital p, uno en el segundo y ninguno en el tercero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incumple la regla de Hund al aparear electrones antes de semi-llenar todos los orbitales disponibles."
+        },
+        {
+          "letter": "C",
+          "text": "Tres electrones apareados en el mismo orbital $2p_x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violaría además el principio de exclusión de Pauli (máximo 2 electrones por orbital)."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres electrones permanecen fuera de la capa $n=2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocupan el nivel de valencia $n=2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Regla de Hund establece que la distribución electrónica más estable en orbitales de igual energía (degenerados) es aquella que presenta el mayor número de electrones despareados con espines paralelos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la frecuencia $\nu$ de esta radiación luminosa?",
+      "context": "Un fotón de luz violeta emitido por una lámpara de hidrógeno en Bucaramanga tiene una longitud de onda $lambda = 400\text{ nm}$ ($4 \times 10^{-7}\text{ m}$). Datos: $c = 3 \times 10^8\text{ m/s}$, $h = 6.63 \times 10^{-34}\text{ J}cdot\text{s}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7.5 \times 10^{14}\text{ Hz}$",
+          "is_correct": true,
+          "feedback": "Correcto. De c = lambda\nu \\implies\nu = c / lambda = (3 \times 10^8) / (4 \times 10^{-7}) = 7.5 \times 10^{14}\text{ Hz}."
+        },
+        {
+          "letter": "B",
+          "text": "$1.2 \times 10^{15}\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de la velocidad por la longitud de onda."
+        },
+        {
+          "letter": "C",
+          "text": "$7.5 \times 10^{10}\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conversión decimal errónea de nanómetros a metros."
+        },
+        {
+          "letter": "D",
+          "text": "$3.0 \times 10^{8}\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la frecuencia con la velocidad de la luz c."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La relación entre velocidad, frecuencia y longitud de onda para la radiación electromagnética en el vacío es $c = lambda cdot\nu$. Despejando la frecuencia: $\nu = \\frac{c}{lambda} = \\frac{3 \times 10^8\text{ m/s}}{4 \times 10^{-7}\text{ m}} = 7.5 \times 10^{14}\text{ Hz}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué se afirma que $Mg^{2+}$ y $Ne$ son especies isoelectrónicas?",
+      "context": "Se compara el ion Magnesio $Mg^{2+}$ ($Z=12$) con el átomo neutro de Neón $Ne$ ($Z=10$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ambas poseen exactamente la misma cantidad de electrones (10 electrones en total) y la misma configuración electrónica ($1s^2 2s^2 2p^6$).",
+          "is_correct": true,
+          "feedback": "Correcto. Al perder 2 electrones, el Mg^{2+} queda con 12 - 2 = 10 electrones, igualando al Ne neutro (10 electrones)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen el mismo número de masa atómica $A$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen diferente masa y composición nuclear."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ambas pertenecen al mismo grupo de la tabla periódica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El magnesio es alcalinotérreo y el neón es un gas noble."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ambas emiten fotones alfa con la misma energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las propiedades químicas e isoelectricidad dependen de los electrones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos especies son isoelectrónicas cuando poseen exactamente el mismo número de electrones y, por ende, idéntica estructura y configuración electrónica en estado fundamental ($10$ e$^-$ para $Mg^{2+}$ y $Ne$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la implicación fundamental del Principio de Incertidumbre de Heisenberg?",
+      "context": "Un físico teórico en la Universidad Nacional en Bogotá evalúa el Principio de Incertidumbre de Heisenberg para una partícula subatómica de masa $m$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es imposible conocer simultáneamente y con precisión absoluta la posición ($Delta x$) y el momento lineal ($Delta p$) de un electrón.",
+          "is_correct": true,
+          "feedback": "Correcto. La naturaleza dual de la materia impone un límite intrínseco al conocimiento simultáneo de posición y momento."
+        },
+        {
+          "letter": "B",
+          "text": "El electrón se mueve en órbitas circulares planas perfectamente definidas alrededor del núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta idea determinista pertenece al modelo clásico de Bohr superado por la mecánica cuántica."
+        },
+        {
+          "letter": "C",
+          "text": "La carga del electrón disminuye progresivamente a medida que aumenta su velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carga eléctrica fundamental es una constante física invariable."
+        },
+        {
+          "letter": "D",
+          "text": "Los neutrones se transforman espontáneamente en fotones al medir su posición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio no establece transmutación de masa en fotones por medición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Principio de Incertidumbre de Heisenberg establece que el producto de las incertidumbres en la posición y en el momento lineal de una partícula tiene un límite inferior fundamental ($Delta x cdot Delta p ge \\frac{h}{4pi}$). Esto reemplaza la noción clásica de trayectorias exactas por orbitales de probabilidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué en un mismo orbital atómico no pueden existir más de dos electrones y qué condición deben cumplir sus números cuánticos?",
+      "context": "Se analiza el número cuántico de espín ($m_s = pm 1/2$) y el Principio de Exclusión de Pauli para el llenado del orbital $1s$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque dos electrones en un mismo átomo no pueden tener los cuatro números cuánticos idénticos; por ende, en un orbital deben tener espines opuestos (+1/2 y -1/2).",
+          "is_correct": true,
+          "feedback": "Correcto. Principio de Exclusión de Pauli: un orbital puede alojar máximo dos electrones si difieren en el espín."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los electrones del mismo orbital se atraen magnéticamente si tienen el mismo espín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Espines iguales generan repulsión por el principio de exclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el nivel n=1 no posee suficiente espacio geométrico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio aplica a todos los orbitales de todos los niveles."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la carga del núcleo repele al tercer electrón fuera del átomo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La restricción proviene de la naturaleza fermiónica y el principio de Pauli."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Principio de Exclusión de Pauli afirma que dos fermiones (como los electrones) en un átomo no pueden compartir los mismos 4 números cuánticos ($n, l, m_l, m_s$). Al compartir $n, l, m_l$ dentro del mismo orbital, están obligados a tener espines antiparalelos ($m_s = +1/2$ y $-1/2$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la longitud de onda asociada a la naturaleza ondulatoria del electrón?",
+      "context": "Se calcula la longitud de onda de de Broglie para un electrón de masa $m_e = 9.1 \times 10^{-31}\text{ kg}$ que viaja a $2 \times 10^6\text{ m/s}$ en un tubo de rayos catódicos. Dato: $h = 6.63 \times 10^{-34}\text{ J}cdot\text{s}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3.64 \times 10^{-10}\text{ metros}$ ($0.364\text{ nm}$)",
+          "is_correct": true,
+          "feedback": "Correcto. lambda = h / (m v) = 6.63 \times 10^{-34} / (9.1 \times 10^{-31} \times 2 \times 10^6) = 3.64 \times 10^{-10}\text{ m}."
+        },
+        {
+          "letter": "B",
+          "text": "$1.20 \times 10^{-6}\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Divisor mal multiplicado en el momento lineal."
+        },
+        {
+          "letter": "C",
+          "text": "$5.50 \times 10^{-15}\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la masa en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$6.63 \times 10^{-34}\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la constante de Planck con la longitud de onda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis de Louis de Broglie asigna una dualidad onda-partícula a toda materia en movimiento: $lambda = \\frac{h}{p} = \\frac{h}{m v}$. Evaluando: $lambda = \\frac{6.63 \times 10^{-34}}{(9.1 \times 10^{-31})(2 \times 10^6)} = 3.64 \times 10^{-10}\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la configuración electrónica fundamental real del Cromo ($Z=24$) y qué la justifica termodinámicamente?",
+      "context": "Un estudiante investiga las excepciones en la configuración electrónica del Cromo ($Z=24$) y del Cobre ($Z=29$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[Ar] 4s^1 3d^5$, porque la condición de subnivel d semilleno otorga una estabilidad energética adicional por simetría de intercambio.",
+          "is_correct": true,
+          "feedback": "Correcto. Promover un electrón del 4s al 3d logra dos subniveles con estabilidad especial: 4s^1 (semilleno) y 3d^5 (semilleno)."
+        },
+        {
+          "letter": "B",
+          "text": "$[Ar] 4s^2 3d^4$, según el llenado estricto por regla de las diagonales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta configuración teórica es menos estable que la forma real promovida [Ar] 4s^1 3d^5."
+        },
+        {
+          "letter": "C",
+          "text": "$[Ar] 3d^6$, destruyendo el subnivel 4s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los átomos de los metales de transición conservan al menos un electrón en la capa externa 4s."
+        },
+        {
+          "letter": "D",
+          "text": "$[Kr] 4s^1 3d^5$, utilizando el núcleo inerte del Kriptón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Kriptón (Z=36) sobrepasa el número atómico del cromo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Cromo ($Z=24$) presenta una anomalía en el principio de Auf-bau. La configuración experimental real es $[Ar] 4s^1 3d^5$ en lugar de $[Ar] 4s^2 3d^4$, debido a la especial estabilidad cuántica que brindan los subniveles $d$ exactamente semillenos ($d^5$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v15",
+      "statement": "¿Qué ocurre con la energía cinética máxima de los fotoelectrones emitidos si se duplica la intensidad (brillo) de la luz incidente sin alterar su frecuencia?",
+      "context": "Se analiza el efecto fotoeléctrico descubierto por Hertz y explicado por Einstein, donde luz ultravioleta incide sobre una lámina de Zinc liberando electrones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía cinética máxima permanece exactamente constante, pero aumenta la cantidad de electrones emitidos por segundo.",
+          "is_correct": true,
+          "feedback": "Correcto. La energía cinética de los fotoelectrones depende de la frecuencia. La intensidad afecta la cantidad de fotones, no la energía individual."
+        },
+        {
+          "letter": "B",
+          "text": "La energía cinética máxima se duplica instantáneamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La física clásica predecía esto, pero el efecto fotoeléctrico demostró que la energía depende únicamente de la frecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "Los electrones dejan de emitirse de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La emisión persiste si la frecuencia supera la frecuencia umbral."
+        },
+        {
+          "letter": "D",
+          "text": "Se reduce a la mitad por sobrecalentamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intensidad lumínica determina el flujo de fotones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la teoría cuántica de Einstein, la energía cinética máxima de los electrones emitidos es $E_{k,max} = h\nu - Phi$. Solo depende de la frecuencia del fotón incidente $\nu$. Aumentar la intensidad incrementa la masa de fotones incidentes por segundo (mayor corriente fotoeléctrica), pero no la energía individual de cada fotoelectrón.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la longitud de onda $lambda$ del fotón emitido en esta transición electrónica?",
+      "context": "Un electrón en el átomo de Hidrógeno desciende desde el nivel $n=4$ hasta el nivel $n=2$ (Serie de Balmer). Se consulta la constante de Rydberg $R_H = 1.097 \times 10^7\text{ m}^{-1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$486\text{ nm}$ ($4.86 \times 10^{-7}\text{ m}$)",
+          "is_correct": true,
+          "feedback": "Correcto. Ecuación de Rydberg: 1/lambda = R_H (1/2^2 - 1/4^2) = R_H (3/16) \\implies lambda = 4.86 \times 10^{-7}\text{ m} = 486\text{ nm}."
+        },
+        {
+          "letter": "B",
+          "text": "$656\text{ nm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la transición de n=3 a n=2 (línea H-alfa)."
+        },
+        {
+          "letter": "C",
+          "text": "$121\text{ nm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la serie de Lyman (n=2 a n=1) en la zona ultravioleta."
+        },
+        {
+          "letter": "D",
+          "text": "$912\text{ nm}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al límite de la serie de Lyman."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la fórmula de Rydberg para el hidrógeno: $\\frac{1}{lambda} = R_H \\left(\\frac{1}{n_1^2} - \\frac{1}{n_2^2}\r\\right)$. Para la línea Balmer $n_1=2, n_2=4$: $\\frac{1}{lambda} = 1.097 \times 10^7 \times \\left(\\frac{3}{16}\r\\right) = 2.056 \times 10^6\text{ m}^{-1} \\implies lambda approx 4.86 \times 10^{-7}\text{ m} = 486\text{ nm}$ (luz verde-azulada).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v17",
+      "statement": "¿Qué significado físico posee el cuadrado del módulo de la función de onda ($|psi|^2$) según la interpretación estadística de Max Born?",
+      "context": "En un estudio de mecánica cuántica en Bogotá, se evalúan las soluciones de la ecuación de onda de Schrödinger para el átomo de Hidrógeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la densidad de probabilidad de encontrar al electrón en una región específica del espacio tridimensional (concepto de orbital).",
+          "is_correct": true,
+          "feedback": "Correcto. Born estableció que |psi|^2 dV mide la probabilidad espacial de localizar al electrón en una región del espacio alrededor del núcleo."
+        },
+        {
+          "letter": "B",
+          "text": "Determina la trayectoria elíptica exacta descrita por el electrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mecánica cuántica abandona el concepto determinista de trayectoria exacta."
+        },
+        {
+          "letter": "C",
+          "text": "Cuantifica la carga eléctrica destruida durante la oscilación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carga del electrón permanece constante."
+        },
+        {
+          "letter": "D",
+          "text": "Expresa la fuerza de gravedad entre el electrón y el protón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. |psi|^2 es una densidad de probabilidad, no una fuerza dinámica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función de onda $psi$ no es directamente medible en sí misma. Max Born demostró que el cuadrado de su módulo $|psi|^2$ (densidad de probabilidad) cuantifica la probabilidad por unidad de volumen de encontrar a la partícula en una posición determinada, lo que fundamenta la definición matemática de orbital atómico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de los siguientes juegos de números cuánticos $(n, l, m_l, m_s)$ es FÍSICAMENTE IMPOSIBLE para un electrón en cualquier átomo?",
+      "context": "Se analizan los cuatro números cuánticos posibles para un electrón en un átomo neutro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(n=2, l=2, m_l=0, m_s=+1/2)$",
+          "is_correct": true,
+          "feedback": "Correcto. El número cuántico azimutal l solo puede tomar valores enteros desde 0 hasta n-1. Para n=2, el valor máximo de l es 1 (subniveles s y p). l=2 es imposible."
+        },
+        {
+          "letter": "B",
+          "text": "$(n=3, l=1, m_l=-1, m_s=-1/2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Juego válido que corresponde a un electrón en el subnivel 3p."
+        },
+        {
+          "letter": "C",
+          "text": "$(n=1, l=0, m_l=0, m_s=+1/2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Juego válido para un electrón en el orbital 1s."
+        },
+        {
+          "letter": "D",
+          "text": "$(n=4, l=2, m_l=-2, m_s=-1/2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Juego válido para un electrón en el subnivel 4d."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reglas de restricción cuántica:\n1) $n = 1, 2, 3...$\n2) $l = 0, 1... (n-1)$\n3) $m_l = -l ... +l$\n4) $m_s = pm 1/2$\nPara $n=2$, el valor máximo permitido para $l$ es $2-1 = 1$. Un juego con $n=2, l=2$ violaría la regla fundamental de subniveles ($2d$ no existe).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v19",
+      "statement": "¿Qué número cuántico explica directamente el desdoblamiento de las líneas espectrales en el efecto Zeeman?",
+      "context": "Se analiza el efecto Zeeman en espectroscopia atómica avanzada, donde las líneas espectrales individuales se desdoblan en múltiples componentes en presencia de un campo magnético externo intenso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número cuántico magnético ($m_l$), que cuantifica la orientación espacial de las órbitas y remueve la degeneración energética al aplicar un campo magnético.",
+          "is_correct": true,
+          "feedback": "Correcto. En presencia de un campo magnético, los orbitales con igual l pero diferente m_l adquieren niveles de energía ligeramente distintos, desdoblando las líneas espectrales."
+        },
+        {
+          "letter": "B",
+          "text": "El número cuántico principal ($n$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. n determina la energía principal en ausencia de campos externos."
+        },
+        {
+          "letter": "C",
+          "text": "El número cuántico azimutal ($l$) exclusivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. l define la forma del subnivel y el momento angular de órbita."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del protón en el núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa nuclear no responde con desdoblamientos magnéticos espectrales típicos del efecto Zeeman."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En ausencia de campo magnético, los $2l+1$ orbitales de un subnivel son degenerados (igual energía). Al aplicar un campo magnético externo, la interacción con el momento magnético orbital depende del número cuántico magnético $m_l$ (orientación espacial), rompiendo la degeneración y desdoblando las líneas (Efecto Zeeman).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué la segunda energía de ionización del Helio es más del doble de la primera energía de ionización?",
+      "context": "Se evalúa la energía de ionización del átomo de Helio ($He, Z=2$). La primera energía de ionización es $24.6\text{ eV}$, mientras que la segunda energía de ionización es $54.4\text{ eV}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al remover el primer electrón desaparece la repulsión electrón-electrón, y el segundo electrón experimenta la carga nuclear efectiva completa (+2) sin apantallamiento.",
+          "is_correct": true,
+          "feedback": "Correcto. En el catión He^+, la atracción de los 2 protones sobre el único electrón restante no sufre apantallamiento, reteniendo al electrón con mucha mayor energía."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el segundo electrón pertenece al nivel principal n=2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos electrones del helio neutro residen en el mismo nivel n=1."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la masa del núcleo disminuye tras la primera ionización.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa nuclear se mantiene inalterada."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la constante de Planck cambia tras retirar un electrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las constantes universales no varían con el estado de ionización atómica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el $He$ neutro ($1s^2$), cada electrón ejerce cierto apantallamiento sobre el otro reduciendo la carga nuclear efectiva $Z_{efectiva} < 2$. Tras remover el primer electrón, el electrón residual en el $He^+$ experimenta la carga completa $Z=+2$ sin ningún tipo de repulsión entre electrones, requiriendo $54.4\text{ eV}$ (cuatro veces la del Hidrógeno: $13.6 \times 2^2 = 54.4\text{ eV}$).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
