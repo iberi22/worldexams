@@ -11,3 +11,6 @@
 ## 2024-11-20 - [Add explicit type="button" to action buttons]
 **Learning:** Svelte buttons without an explicit `type` attribute inside potentially reactive contexts can sometimes be misinterpreted by assistive technologies or unexpectedly trigger form submissions if wrapped later. Adding `type="button"` ensures consistent, predictable behavior.
 **Action:** Always explicitly declare `type="button"` for interactive `<button>` elements that are not intended to submit forms.
+## 2026-08-29 - Missing `type="button"` and `aria-label` in Svelte UI components
+**Learning:** In Svelte components where buttons rely heavily on SVGs (icon-only), many lacked `aria-label` resulting in an inaccessible experience for screen readers. Furthermore, many missing `type="button"` attributes exposed the app to unintended form submissions in nested layouts, since Svelte defaults to `type="submit"` for native `<button>`.
+**Action:** Found a robust pattern to locate unlabelled icon buttons in `.svelte` files and enforce adding `aria-label`. Consistently include `type="button"` unless they explicitly submit forms. Ensure TypeScript correctly infers type casts like `(btn as HTMLButtonElement)` when manipulating disabled states.
