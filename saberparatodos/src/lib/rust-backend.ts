@@ -227,15 +227,15 @@ class RustBackendClient {
 // Singleton instance
 export const rustBackend = new RustBackendClient();
 
-// Auto-detect if Rust server is available
-export async function detectBackendMode(): Promise<'rust' | 'supabase'> {
+// Auto-detect backend mode (Rust server or P2P Mesh primary mode)
+export async function detectBackendMode(): Promise<'rust' | 'edge-mesh' | 'supabase'> {
   const isRustAvailable = await rustBackend.healthCheck();
 
   if (isRustAvailable) {
     console.log('[Backend] Rust server detected, using local mode');
     return 'rust';
   } else {
-    console.log('[Backend] Rust server not available, falling back to Supabase');
-    return 'supabase';
+    console.log('[Backend] Using Red P2P Mesh (Experimental) with Supabase Realtime fallback');
+    return 'edge-mesh';
   }
 }
