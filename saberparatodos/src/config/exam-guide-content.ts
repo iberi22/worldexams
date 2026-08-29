@@ -126,7 +126,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaTitle: 'Listo para practicar?',
     ctaDescription: 'Accede a preguntas verificadas, identifica tus brechas y mejora tu rendimiento con practica guiada.',
     ctaLabel: 'Iniciar Simulacro Gratuito',
-    authoritySummary: 'Esta guia sintetiza la informacion publica del ICFES y la organiza en una experiencia de estudio mas accionable.',
+    authoritySummary: 'Esta guía es evaluada y mantenida de forma abierta por la comunidad educativa de WorldExams a partir de fuentes públicas del ICFES.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
     infographic: {
       title: 'Como se organiza la evaluacion en Colombia',
@@ -330,7 +330,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaTitle: 'Listo para practicar?',
     ctaDescription: 'Activa una ruta de practica por componente y entiende mejor como se estructura tu examen objetivo.',
     ctaLabel: 'Iniciar Practica Guiada',
-    authoritySummary: 'Esta guia resume estructura y criterios de practica a partir de referencias publicas del ecosistema EXANI y CENEVAL.',
+    authoritySummary: 'Esta guía es evaluada y mantenida de forma abierta por la comunidad educativa de WorldExams a partir de fuentes públicas del CENEVAL y EXANI.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
     gradesTitle: 'Estructura general del examen',
     gradeCards: [
@@ -405,7 +405,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaTitle: '¿Listo para practicar?',
     ctaDescription: 'Activa una ruta de practica por componente y entiende mejor como se estructura tu examen objetivo.',
     ctaLabel: 'Iniciar Práctica',
-    authoritySummary: 'Esta guia usa la plantilla compartida del producto y la metadata actual del Ministerio de Educación de la Nación.',
+    authoritySummary: 'Esta guía es evaluada de forma abierta por la comunidad educativa de WorldExams a partir de información pública del Ministerio de Educación de la Nación.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
   },
   CL: {
@@ -434,7 +434,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaTitle: '¿Listo para practicar?',
     ctaDescription: 'Activa una ruta de practica por componente y entiende mejor como se estructura tu examen objetivo.',
     ctaLabel: 'Iniciar Práctica',
-    authoritySummary: 'Esta guia usa la plantilla compartida del producto y la metadata actual de la Agencia de Calidad de la Educación.',
+    authoritySummary: 'Esta guía es evaluada de forma abierta por la comunidad educativa de WorldExams a partir de información pública de la Agencia de Calidad de la Educación.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
     preuCard: {
       grade: 'PreU',
@@ -471,7 +471,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaTitle: '¿Listo para practicar?',
     ctaDescription: 'Activa una ruta de practica por componente y entiende mejor como se estructura tu examen objetivo.',
     ctaLabel: 'Iniciar Práctica',
-    authoritySummary: 'Esta guia usa la plantilla compartida del producto y la metadata actual del MINEDU.',
+    authoritySummary: 'Esta guía es evaluada de forma abierta por la comunidad educativa de WorldExams a partir de información pública del MINEDU.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
     preuCard: {
       grade: 'PreU',
@@ -508,7 +508,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaTitle: '¿Listo para practicar?',
     ctaDescription: 'Activa una ruta de practica por componente y entiende mejor como se estructura tu examen objetivo.',
     ctaLabel: 'Iniciar Práctica',
-    authoritySummary: 'Esta guia usa la plantilla compartida del producto y la metadata actual de la SENESCYT.',
+    authoritySummary: 'Esta guía es evaluada de forma abierta por la comunidad educativa de WorldExams a partir de información pública de la SENESCYT.',
     authorityUpdatedLabel: 'Actualizado abril 2026',
     preuCard: {
       grade: 'PreU',
@@ -545,7 +545,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaTitle: 'Pronto para praticar?',
     ctaDescription: 'Ative uma rota de prática por componente e entenda melhor como seu exame alvo é estruturado.',
     ctaLabel: 'Iniciar Prática',
-    authoritySummary: 'Este guia usa o template compartilhado do produto e os metadados atuais do INEP.',
+    authoritySummary: 'Este guia é avaliado de forma aberta pela comunidade educativa do WorldExams a partir de informações públicas do INEP.',
     authorityUpdatedLabel: 'Atualizado abril 2026',
   },
 };
@@ -585,7 +585,7 @@ export function getExamGuideContent(countryConfig: CountryConfig): ExamGuideCont
     ctaTitle: 'Listo para practicar?',
     ctaDescription: `Explora la experiencia base del producto mientras se completa la localizacion de ${countryConfig.name}.`,
     ctaLabel: 'Explorar Practica',
-    authoritySummary: `Esta guia usa la plantilla compartida del producto y la metadata actual de ${countryConfig.examAuthority}.`,
+    authoritySummary: `Esta guía es evaluada de forma abierta por la comunidad educativa de WorldExams a partir de información pública de ${countryConfig.examAuthority}.`,
     authorityUpdatedLabel: 'Actualizado abril 2026',
     preuCard,
   };
