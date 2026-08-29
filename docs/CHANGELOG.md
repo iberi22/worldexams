@@ -1,3 +1,22 @@
+## [0.15.3] - 2026-08-28
+
+### v0.15.3: Multi-Country Pack Canonical Aliases, Country Persistence, Zero-Latency SSR Proxy & E2E Validation
+
+#### Added
+- **Country Persistence Architecture**: Implemented dual-layer persistence (Client Cookie `spt_country` with `SameSite=Lax` + `localStorage` + URL query sync) ensuring selected country banner/context persists across refreshes and SSR navigation.
+- **Canonical Alias Packs Generation**: Generated 8,231 canonical alias JSON pack bundles across `saberparatodos/public/api/packs/` and `apps/worldexams-api/public/v1/packs/`, covering all subject nomenclature variations across 21 countries.
+- **Multi-Country Subject Normalizer**: Extended `normalizeSubjectKey()` and `getPackSubjectAliases()` with full support for LATAM/Iberoamerican curriculums (`cs-naturales`, `cs-sociales`, `estudios_sociales`, `comunicacion`, `portugues`, `lenguaje`, `espanol`, `ciencias-naturaleza`).
+- **Production Critical Path E2E Suite**: Created `tests/e2e/prod-critical-path-dedup.spec.ts` testing 10-question sequential runs for English and Grade 11, question rotation, MMR calculation, and IndexedDB persistence.
+- **Deployment Protocol & Checklist**: Standardized `docs/DEPLOYMENT_CHECKLIST.md` pre-flight, deploy, and smoke verification protocols.
+
+#### Changed
+- **CI/CD GitHub Actions**: Replaced `self-hosted` runner targets with standard `ubuntu-latest` cloud runners across `deploy-production.yml`, `deploy-preview.yml`, and `deploy-gh-pages.yml`.
+- **Pack Fetcher**: Defaulted `staticOrigin` to `window.location.origin` in browser runtime to route all pack requests through local high-speed SSR proxy.
+
+#### Fixed
+- **API Proxy 502 / 404 Errors**: Resolved SSR pack proxy failures by prioritizing local filesystem files before attempting upstream remote fetch.
+- **E2E Playwright Strict Mode**: Corrected multi-element selector collisions on `exam-shell` locators.
+
 ## [0.15.0] - 2026-06-01
 
 ### v0.15.0: CI/CD Fixes + Preview Workflow + Packs Regeneration
