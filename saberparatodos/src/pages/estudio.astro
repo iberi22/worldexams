@@ -172,9 +172,9 @@ import ExportButton from '../components/studio/ExportButton.astro';
         </div>
       `).join('');
     }
-    function escapeHtml(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+    function escapeHtml(s: any){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
-    window.addEventListener('studio:pdf-selected', async (e) => {
+    window.addEventListener('studio:pdf-selected', async (e: any) => {
       // @ts-ignore
       const file = e.detail?.file;
       selectedFile = file || null;
@@ -184,17 +184,17 @@ import ExportButton from '../components/studio/ExportButton.astro';
       if (!file) return;
       show(parseStatus, `📄 Ingestando ${file.name} …`, 'info');
       try {
-        const meta = (window.__STUDIO_GET_META__?.() || {});
+        const meta = ((window as any).__STUDIO_GET_META__?.() || {});
         const query = [meta.tema, meta.asignatura, file.name.replace(/\.pdf$/i,'')].filter(Boolean).join(' ');
         const { parsed, selected } = await ingestPDFForRAG(file, { query, topK: 5, chunkSize: 900 });
         parsedText = parsed.text;
         ragChunks = selected;
         show(parseStatus, `✓ PDF ingerido: ${parsed.numPages} pág(s) · ${parsed.text.length.toLocaleString()} caracteres · ${selected.length} chunks RAG`, 'ok');
         renderChunks(selected);
-        if (btnGenerar) btnGenerar.disabled = false;
+        if (btnGenerar) (btnGenerar as HTMLButtonElement).disabled = false;
       } catch (err) {
         show(parseStatus, `✗ Error al ingerir PDF: ${String((err as Error)?.message || err)}`, 'error');
-        if (btnGenerar) btnGenerar.disabled = false;
+        if (btnGenerar) (btnGenerar as HTMLButtonElement).disabled = false;
       }
     });
     window.addEventListener('studio:pdf-cleared', () => {
@@ -204,14 +204,14 @@ import ExportButton from '../components/studio/ExportButton.astro';
     });
 
     // Difficulty/bloom helpers matching bundle-export
-    function bloomFor(i, total) {
+    function bloomFor(i: number, total: number) {
       const r = (i+1)/total;
       if (r <= 0.2) return i%2===0 ? 'Remember' : 'Understand';
       if (r <= 0.5) return 'Apply';
       if (r <= 0.8) return 'Analyze';
       return 'Evaluate';
     }
-    function diffFor(i, total) {
+    function diffFor(i: number, total: number) {
       const r = (i+1)/total;
       if (r <= 0.2) return 'D3-D4';
       if (r <= 0.5) return 'D5-D6';
@@ -219,7 +219,7 @@ import ExportButton from '../components/studio/ExportButton.astro';
       return 'D9-D10';
     }
 
-    function buildPrompt(meta, selectedChunks, count) {
+    function buildPrompt(meta: any, selectedChunks: any[], count: number) {
       const regionHint = getCountryRuleHint(meta.countryCode) || COUNTRY_RULE_HINTS[meta.countryCode] || '';
       const chunkText = selectedChunks.map((c,i)=>`[Chunk ${i+1}] ${c.text.slice(0, 700)}`).join('\n\n');
       return `Genera exactamente ${count} preguntas de ${meta.asignatura} grado ${meta.grado} sobre "${meta.tema}" para Latinoamérica (país ${meta.countryCode}).
@@ -232,7 +232,7 @@ ${chunkText || '(sin RAG — usa conocimiento curricular general)'}
 `.trim();
     }
 
-    function mockQuestionsFromRAG(selectedChunks, count, meta) {
+    function mockQuestionsFromRAG(selectedChunks: any[], count: number, meta: any) {
       // Deterministic fallback when LLM unavailable — still produces valid v5.2-shaped questions from RAG text
       const base = selectedChunks[0]?.text?.slice(0, 220) || `Tema ${meta.tema} de ${meta.asignatura}`;
       return Array.from({ length: count }, (_, i) => {
@@ -259,7 +259,7 @@ ${chunkText || '(sin RAG — usa conocimiento curricular general)'}
       });
     }
 
-    function parseLlmJson(raw, count) {
+    function parseLlmJson(raw: any, count: number) {
       const m = String(raw || '').match(/\[[\s\S]*\]/);
       if (!m) return [];
       try {
@@ -301,7 +301,7 @@ ${chunkText || '(sin RAG — usa conocimiento curricular general)'}
 
     btnGenerar?.addEventListener('click', async () => {
       const count = Number((genCountEl as HTMLSelectElement)?.value || 10);
-      const meta = (window.__STUDIO_GET_META__?.() || { country:'colombia', countryCode:'CO', grado:6, asignatura:'matematicas', tema:'tema-generado' });
+      const meta = ((window as any).__STUDIO_GET_META__?.() || { country:'colombia', countryCode:'CO', grado:6, asignatura:'matematicas', tema:'tema-generado' });
       if (!selectedFile && ragChunks.length===0) {
         show(genStatus, 'Primero sube un PDF (o igual puedes generar demo sin PDF, se usarán plantillas).', 'info');
       }
