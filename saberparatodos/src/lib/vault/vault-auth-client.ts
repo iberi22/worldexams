@@ -4,8 +4,8 @@
  */
 
 import {
-  AuthChallenge,
-  VaultAuthResponse,
+  type AuthChallenge,
+  type VaultAuthResponse,
   assertNoPII
 } from './types';
 

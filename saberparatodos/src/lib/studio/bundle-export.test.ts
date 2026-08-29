@@ -127,7 +127,6 @@ describe('generateBundleMarkdown', () => {
     );
     expect(content).toContain('**EJE:**');
     expect(content).not.toContain('**ICFES:**');
-    expect(content).toContain('CO-MAT' === '' ? '' : ''); // keep coverage
   });
 
   it('normaliza dificultad suelta [D3] a rango [D3-D4]', () => {

@@ -87,7 +87,7 @@ export class P2PService {
 
     // Use exported values from supabase.ts to ensure consistency
     const sbUrl = supabaseUrl?.trim();
-    const sbKey = supabaseAnonKey?.trim();
+    const sbKey = (supabaseAnonKey || '').trim();
 
     if (!sbUrl || !sbUrl.startsWith('http')) {
         console.error('❌ Invalid Supabase URL:', sbUrl);
@@ -155,7 +155,7 @@ export class P2PService {
     this.myPeerId = selfId;
 
     const sbUrl = supabaseUrl?.trim();
-    const sbKey = supabaseAnonKey?.trim();
+    const sbKey = (supabaseAnonKey || '').trim();
 
     if (!sbUrl || !sbUrl.startsWith('http')) {
         console.error('❌ Invalid Supabase URL:', sbUrl);

@@ -268,6 +268,7 @@ export interface AppQuestion {
   explanation?: string;
   grade: number;
   difficulty: number;
+  answered?: boolean;
   bundleId?: string;
   context?: string;
   topics?: string[];
