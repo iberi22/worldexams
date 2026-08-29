@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-27-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.187Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define la velocidad media de una reacción química A -> B?",
+      "context": "En un experimento cinético en Colombia sobre velocidad de reacción, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La variación de la concentración de reactivo o producto por unidad de tiempo.",
+          "is_correct": true,
+          "feedback": "v = -Δ[A]/Δt = +Δ[B]/Δt."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo necesario para que cambie el color del recipiente.",
+          "is_correct": false,
+          "feedback": "Se mide como cambio de concentración molar sobre tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de las masas molares de reactivos.",
+          "is_correct": false,
+          "feedback": "Es un parámetro cinético de cambio temporal."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura a la cual la mezcla hierve.",
+          "is_correct": false,
+          "feedback": "Es la tasa de cambio de concentración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La velocidad de reacción mide la rapidez con que se consumen los reactivos o se forman los productos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v2",
+      "statement": "Según la teoría de colisiones, para que una colisión entre reactivos sea efectiva debe poseer...",
+      "context": "En un experimento cinético en Colombia sobre teoría de colisiones, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carga eléctrica nula y masa infinita.",
+          "is_correct": false,
+          "feedback": "La carga no es el factor determinante de la eficacia de choque."
+        },
+        {
+          "letter": "B",
+          "text": "Orientación espacial adecuada y energía igual o superior a la energía de activación (Ea).",
+          "is_correct": true,
+          "feedback": "Una colisión eficaz requiere energía suficiente y la geometría molecular correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Cualquier velocidad sin importar la orientación.",
+          "is_correct": false,
+          "feedback": "Choques con orientación desfavorable no producen reacción."
+        },
+        {
+          "letter": "D",
+          "text": "Temperatura de 0 Kelvin exactamente.",
+          "is_correct": false,
+          "feedback": "A 0 K las colisiones son mínimas o nulas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para formar productos, las moléculas deben chocar con orientación geométrica propicia y energía mayor a la energía de activación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué al aumentar la temperatura en 10 °C en Medellín se duplica habitualmente la velocidad de reacción?",
+      "context": "En un experimento cinético en Colombia sobre efecto de la temperatura en cinética, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye la masa molar de los reactivos a la mitad.",
+          "is_correct": false,
+          "feedback": "La masa molar es una constante invariable."
+        },
+        {
+          "letter": "B",
+          "text": "Elimina la energía de activación por completo.",
+          "is_correct": false,
+          "feedback": "La energía de activación se mantiene, se supera con mayor facilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la fracción de moléculas con energía cinética mayor o igual a la Ea.",
+          "is_correct": true,
+          "feedback": "El calentamiento incrementa la energía cinética aumentando drásticamente las colisiones eficaces."
+        },
+        {
+          "letter": "D",
+          "text": "Se destruyen los enlaces covalentes espontáneamente.",
+          "is_correct": false,
+          "feedback": "El efecto cinético radica en la distribución de energía de Maxwell-Boltzmann."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al elevar la temperatura aumenta la fracción de colisiones molecularmente efectivas que superan la barrera de Ea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v4",
+      "statement": "En una reacción de primer orden respecto al reactivo A (v = k [A]), si se duplica la concentración [A], la velocidad...",
+      "context": "En un experimento cinético en Colombia sobre efecto de la concentración, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se cuadruplica.",
+          "is_correct": false,
+          "feedback": "Eso sucedería si fuera una reacción de segundo orden."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece constante.",
+          "is_correct": false,
+          "feedback": "En orden 1 la velocidad cambia al modificar [A]."
+        },
+        {
+          "letter": "C",
+          "text": "Se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "La velocidad se incrementa."
+        },
+        {
+          "letter": "D",
+          "text": "Se duplica.",
+          "is_correct": true,
+          "feedback": "En orden 1, la velocidad es directamente proporcional a [A]."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ley de velocidad v = k [A]¹ indica dependencia lineal directa con la concentración del reactivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo actúa un catalizador químico para incrementar la velocidad de una reacción?",
+      "context": "En un experimento cinético en Colombia sobre función de un catalizador, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporciona un mecanismo alternativo con una menor energía de activación (Ea).",
+          "is_correct": true,
+          "feedback": "El catalizador disminuye Ea sin alterarse químicamente al final de la reacción."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta el rendimiento teórico máximo de productos.",
+          "is_correct": false,
+          "feedback": "No altera el equilibrio ni la cantidad teórica de productos."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la entalpía global de la reacción (ΔH).",
+          "is_correct": false,
+          "feedback": "La entalpía de reactivos y productos permanece invariable."
+        },
+        {
+          "letter": "D",
+          "text": "Consume los productos formados velozmente.",
+          "is_correct": false,
+          "feedback": "Se recupera inalterado al finalizar el proceso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un catalizador aumenta la velocidad de reacción ofreciendo una ruta mecanística de menor energía de activación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v6",
+      "statement": "La ecuación de Arrhenius k = A · e^(-Ea / RT) demuestra que la constante de velocidad k aumenta cuando...",
+      "context": "En un experimento cinético en Colombia sobre ecuación de arrhenius, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye la temperatura T hacia 0 K.",
+          "is_correct": false,
+          "feedback": "Al bajar T la constante k disminuye significativamente."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la temperatura T o disminuye la energía de activación Ea.",
+          "is_correct": true,
+          "feedback": "Al subir T o bajar Ea, el exponente negativo disminuye aumentando el valor de k."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la energía de activación Ea al triple.",
+          "is_correct": false,
+          "feedback": "Una mayor Ea reduce exponencialmente la constante k."
+        },
+        {
+          "letter": "D",
+          "text": "La constante A de frecuencia cae a cero.",
+          "is_correct": false,
+          "feedback": "La constante A se mantiene relativamente constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ecuación de Arrhenius relaciona la constante de velocidad k con la temperatura y la energía de activación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v7",
+      "statement": "Dada la ley de velocidad experimental v = k [A]² [B]¹, ¿cuál es el orden global de la reacción?",
+      "context": "En un experimento cinético en Colombia sobre orden global de reacción, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Segundo orden.",
+          "is_correct": false,
+          "feedback": "Se deben sumar los exponentes de A (2) y B (1)."
+        },
+        {
+          "letter": "B",
+          "text": "Primer orden.",
+          "is_correct": false,
+          "feedback": "2 + 1 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "Tercer orden (2 + 1 = 3).",
+          "is_correct": true,
+          "feedback": "El orden global es la suma de los exponentes de las concentraciones en la ley de velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "Cuarto orden.",
+          "is_correct": false,
+          "feedback": "El valor correcto es 3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El orden global de reacción es la suma de los órdenes parciales respecto a cada reactivo en la ley de velocidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v8",
+      "statement": "Para una reacción de primer orden, la vida media (t_1/2 = 0.693 / k) se caracteriza por...",
+      "context": "En un experimento cinético en Colombia sobre vida media en primer orden, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar linealmente al duplicar la concentración inicial.",
+          "is_correct": false,
+          "feedback": "Eso ocurre en reacciones de segundo orden."
+        },
+        {
+          "letter": "B",
+          "text": "Depender de la presión barométrica local.",
+          "is_correct": false,
+          "feedback": "La constante k define la vida media."
+        },
+        {
+          "letter": "C",
+          "text": "Ser igual a cero en todo momento.",
+          "is_correct": false,
+          "feedback": "La vida media es un lapso finito constante."
+        },
+        {
+          "letter": "D",
+          "text": "Ser independiente de la concentración inicial del reactivo.",
+          "is_correct": true,
+          "feedback": "En primer orden t_1/2 no cambia al variar la concentración inicial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En cinéticas de primer orden, el tiempo requerido para reducir la concentración a la mitad es constante e independiente de [A]0.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el carbón en polvo arde mucho más rápido que un tronco de madera de igual masa en Tunja?",
+      "context": "En un experimento cinético en Colombia sobre efecto del área superficial, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el polvo presenta una mayor área de superficie de contacto expuesta a las colisiones con el O2.",
+          "is_correct": true,
+          "feedback": "Un mayor fraccionamiento incrementa el área expuesta, multiplicando la frecuencia de colisiones por segundo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el polvo tiene menor energía de activación que el tronco.",
+          "is_correct": false,
+          "feedback": "La naturaleza química es la misma, luego Ea es idéntica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el tronco carece de átomos de carbono.",
+          "is_correct": false,
+          "feedback": "Ambos contienen carbono orgánico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el polvo genera su propio oxígeno interno.",
+          "is_correct": false,
+          "feedback": "El oxígeno proviene del aire en ambos casos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En reacciones heterogéneas sólido-gas, el aumento del área de contacto incrementa la frecuencia de colisiones reactivas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué representa el 'complejo activado' en la cima del perfil de energía de una reacción?",
+      "context": "En un experimento cinético en Colombia sobre estado de transición o complejo activado, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sustancia estable que se puede aislar en un frasco.",
+          "is_correct": false,
+          "feedback": "El complejo activado no se puede aislar debido a su alta inestabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Una estructura inestable de máxima energía con enlaces parcialmente formados y rotos.",
+          "is_correct": true,
+          "feedback": "El estado de transición es una configuración transitoria de alta energía entre reactivos y productos."
+        },
+        {
+          "letter": "C",
+          "text": "El producto final completamente cristalizado.",
+          "is_correct": false,
+          "feedback": "Se ubica en el punto máximo de la barrera de activación."
+        },
+        {
+          "letter": "D",
+          "text": "Los reactivos iniciales antes de mezclarse.",
+          "is_correct": false,
+          "feedback": "Representa la cúspide energética del proceso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estado de transición es la especie química inestable de mayor energía a lo largo de la ruta de reacción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v11",
+      "statement": "Para una reacción de orden cero (v = k), ¿cuáles son las unidades de la constante de velocidad k?",
+      "context": "En un experimento cinético en Colombia sobre unidades de la constante k en orden cero, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "s⁻¹",
+          "is_correct": false,
+          "feedback": "s⁻¹ son las unidades de k para primer orden."
+        },
+        {
+          "letter": "B",
+          "text": "L / (mol · s)",
+          "is_correct": false,
+          "feedback": "Esas son unidades de k para segundo orden."
+        },
+        {
+          "letter": "C",
+          "text": "mol / (L · s)  o  M / s",
+          "is_correct": true,
+          "feedback": "Como v = k, k debe tener las mismas unidades que la velocidad de reacción."
+        },
+        {
+          "letter": "D",
+          "text": "L² / (mol² · s)",
+          "is_correct": false,
+          "feedback": "Esas corresponden a tercer orden."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las unidades de la constante de velocidad k varían según el orden global de la reacción para asegurar la coherencia dimensional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v12",
+      "statement": "Si un catalizador líquido se disuelve completamente en la fase líquida de los reactivos, se clasifica como...",
+      "context": "En un experimento cinético en Colombia sobre catalizador homogéneo vs heterogéneo, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Catalizador heterogéneo.",
+          "is_correct": false,
+          "feedback": "Los heterogéneos se encuentran en una fase física distinta (ej. sólido en líquido)."
+        },
+        {
+          "letter": "B",
+          "text": "Inhibidor biológico irreversible.",
+          "is_correct": false,
+          "feedback": "No es un inhibidor, es un catalizador en la misma fase."
+        },
+        {
+          "letter": "C",
+          "text": "Enzima insoluble.",
+          "is_correct": false,
+          "feedback": "Está totalmente disuelto en la mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "Catalizador homogéneo.",
+          "is_correct": true,
+          "feedback": "Un catalizador homogéneo se encuentra en la misma fase física que los reactivos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un catalizador es homogéneo si forma una sola fase con el sistema reactivo y heterogéneo si está en fase distinta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v13",
+      "statement": "¿Qué es un 'intermediario de reacción' en un mecanismo multietapa?",
+      "context": "En un experimento cinético en Colombia sobre intermediario de reacción, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una especie que se produce en una etapa temprana y se consume por completo en una etapa posterior.",
+          "is_correct": true,
+          "feedback": "Los intermediarios no aparecen en la ecuación química global neta."
+        },
+        {
+          "letter": "B",
+          "text": "Una sustancia que acelera la reacción sin consumirse.",
+          "is_correct": false,
+          "feedback": "Eso es la definición de catalizador."
+        },
+        {
+          "letter": "C",
+          "text": "El reactivo que se encuentra en mayor proporción inicial.",
+          "is_correct": false,
+          "feedback": "Ese es el reactivo en exceso."
+        },
+        {
+          "letter": "D",
+          "text": "El producto final purificado.",
+          "is_correct": false,
+          "feedback": "Los intermediarios se consumen dentro del mecanismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un intermediario se sintetiza en un paso elemental y se consume en otro subsecuente del mecanismo de reacción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v14",
+      "statement": "En un mecanismo de reacción en tres pasos, la velocidad de la reacción global viene determinada por...",
+      "context": "En un experimento cinético en Colombia sobre etapa determinante de la velocidad, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El paso elemental más rápido.",
+          "is_correct": false,
+          "feedback": "Las etapas rápidas no limitan la velocidad global."
+        },
+        {
+          "letter": "B",
+          "text": "El paso elemental más lento del mecanismo.",
+          "is_correct": true,
+          "feedback": "La etapa más lenta es el 'cuello de botella' que controla la tasa global."
+        },
+        {
+          "letter": "C",
+          "text": "El promedio simple del tiempo de las tres etapas.",
+          "is_correct": false,
+          "feedback": "La etapa lenta impone el límite cinético."
+        },
+        {
+          "letter": "D",
+          "text": "La etapa que tenga menor número de moléculas.",
+          "is_correct": false,
+          "feedback": "La velocidad depende de la constante cinético-molecular de la etapa lenta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La etapa determinante de la velocidad es el paso elemental más lento de una secuencia cinéticamente acoplada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v15",
+      "statement": "Los órdenes de reacción (x, y) en la ley v = k [A]^x [B]^y deben determinarse obligatoriamente mediante...",
+      "context": "En un experimento cinético en Colombia sobre determinación experimental del orden, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los coeficientes estequiométricos de la ecuación balanceada.",
+          "is_correct": false,
+          "feedback": "Solo coinciden si la reacción es un paso elemental directo."
+        },
+        {
+          "letter": "B",
+          "text": "El peso molecular del catalizador.",
+          "is_correct": false,
+          "feedback": "No derivan del peso molecular."
+        },
+        {
+          "letter": "C",
+          "text": "Experimentos laboratorio que midan velocidades iniciales.",
+          "is_correct": true,
+          "feedback": "Los órdenes de reacción son magnitudes empíricas que no siempre coinciden con los coeficientes estequiométricos."
+        },
+        {
+          "letter": "D",
+          "text": "El volumen del vaso de precipitados.",
+          "is_correct": false,
+          "feedback": "No dependen de la geometría del recipiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los órdenes de reacción son parámetros estrictamente empíricos derivados de datos experimentales cinéticos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v16",
+      "statement": "En una reacción endotérmica (ΔH > 0), la energía de activación directa (Ea_directa) es...",
+      "context": "En un experimento cinético en Colombia sobre reacción endotérmica y energía de activación, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menor que la energía de activación inversa.",
+          "is_correct": false,
+          "feedback": "En procesos endotérmicos los productos tienen mayor energía que los reactivos."
+        },
+        {
+          "letter": "B",
+          "text": "Igual a cero en todos los casos.",
+          "is_correct": false,
+          "feedback": "Toda reacción requiere superar una barrera energética."
+        },
+        {
+          "letter": "C",
+          "text": "Igual a la entalpía dividida entre la temperatura.",
+          "is_correct": false,
+          "feedback": "Ea_directa supera a Ea_inversa en la magnitud de ΔH."
+        },
+        {
+          "letter": "D",
+          "text": "Mayor que la energía de activación inversa (Ea_inversa).",
+          "is_correct": true,
+          "feedback": "Ea_directa = Ea_inversa + ΔH. Al ser ΔH positivo, Ea_directa es mayor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En diagramas endotérmicos, la barrera energética directa es superior a la inversa por el valor de ΔH.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v17",
+      "statement": "¿Por qué la reacción entre H2 y Cl2 se dispara violentamente al ser expuesta a radiación luz ultravioleta?",
+      "context": "En un experimento cinético en Colombia sobre efecto de la luz en fotoquímica, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La luz aporta la energía de fotones hν para romper el enlace Cl-Cl generando radicales libres.",
+          "is_correct": true,
+          "feedback": "La absorción de fotones fotoliza el Cl2 iniciando una reacción en cadena muy rápida."
+        },
+        {
+          "letter": "B",
+          "text": "La luz enfría los reactivos facilitando su unión.",
+          "is_correct": false,
+          "feedback": "La luz aporta energía electromagnética activadora."
+        },
+        {
+          "letter": "C",
+          "text": "La luz convierte el Cl2 en un gas noble inerte.",
+          "is_correct": false,
+          "feedback": "Genera radicales de cloro altamente reactivos."
+        },
+        {
+          "letter": "D",
+          "text": "La luz destruye la masa del hidrógeno.",
+          "is_correct": false,
+          "feedback": "La masa se conserva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las reacciones fotoquímicas se inician mediante la absorción de fotones que suministran la energía necesaria para escindir enlaces.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v18",
+      "statement": "Al calentar un gas de 300 K a 400 K, la curva de distribución de Maxwell-Boltzmann...",
+      "context": "En un experimento cinético en Colombia sobre energía cinética molecular de maxwell-boltzmann, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se desplaza hacia la izquierda aumentando las moléculas inmóviles.",
+          "is_correct": false,
+          "feedback": "El calentamiento desplaza la curva hacia mayores energías."
+        },
+        {
+          "letter": "B",
+          "text": "Se desplaza hacia la derecha y se aplana, aumentando las moléculas de alta velocidad.",
+          "is_correct": true,
+          "feedback": "El promedio de energía aumenta y la curva se ensancha abarcando mayor velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece idéntica sin ningún cambio.",
+          "is_correct": false,
+          "feedback": "La distribución cinético-molecular cambia con la temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte en una línea vertical en v = 0.",
+          "is_correct": false,
+          "feedback": "Representa una mayor diversidad de energías más altas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aumento de temperatura extiende la distribución de velocidades hacia valores más elevados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v19",
+      "statement": "A diferencia de un catalizador, un inhibidor químico agregado a una reacción...",
+      "context": "En un experimento cinético en Colombia sobre inhibidor cinético, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la velocidad al triple.",
+          "is_correct": false,
+          "feedback": "Los inhibidores retrasan o detienen la reacción."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia la masa molar de los productos.",
+          "is_correct": false,
+          "feedback": "No modifica las fórmulas químicas finales."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye la velocidad de la reacción o bloquea el mecanismo catalítico.",
+          "is_correct": true,
+          "feedback": "Un inhibidor reduce la velocidad cinético-molecular o desactiva catalizadores."
+        },
+        {
+          "letter": "D",
+          "text": "Genera calor infinito en la mezcla.",
+          "is_correct": false,
+          "feedback": "Reduce la tasa de conversión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los inhibidores reducen la velocidad de reacción interfiriendo con los reactivos, intermediarios o catalizadores.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle-v20",
+      "statement": "Al aumentar la presión total reduciendo el volumen en una reacción gaseosa 2A(g) -> B(g), la velocidad...",
+      "context": "En un experimento cinético en Colombia sobre efecto de la presión en gases, Camilo analiza los datos de velocidad obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye porque las moléculas se quedan sin espacio para chocar.",
+          "is_correct": false,
+          "feedback": "Mayor concentración incrementa la frecuencia efectiva de choque."
+        },
+        {
+          "letter": "B",
+          "text": "Se mantiene inalterada.",
+          "is_correct": false,
+          "feedback": "La velocidad de fases gaseosas cambia con la presión/volumen."
+        },
+        {
+          "letter": "C",
+          "text": "Cae a cero inmediatamente.",
+          "is_correct": false,
+          "feedback": "Aumenta significativamente."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta debido al incremento en la concentración de las moléculas reactivas.",
+          "is_correct": true,
+          "feedback": "Al reducir V aumenta la concentración [A] = n/V, incrementando las colisiones por segundo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprimir un sistema gaseoso incrementa la concentración de las especies reactivas, elevando la velocidad de reacción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

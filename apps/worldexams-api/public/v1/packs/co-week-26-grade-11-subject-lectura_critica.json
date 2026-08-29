@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-26-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.198Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v1",
+      "statement": "¿En cuál de las siguientes oraciones la tilde diacrítica se utiliza de forma gramaticalmente correcta según la RAE?",
+      "context": "Tilde diacrítica en monosílabos homónimos (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Él le pidió un té caliente a su madre, pero ella no se lo sirvió a mí.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'él' (pronombre), 'té' (sustantivo) y 'mí' (pronombre) llevan tilde diacrítica diferenciadora."
+        },
+        {
+          "letter": "B",
+          "text": "El le pidio un te caliente a su madre, pero ella no se lo sirvio a mi.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque omite todas las tildes diacríticas indispensables para deshacer la ambigüedad."
+        },
+        {
+          "letter": "C",
+          "text": "Él le pidió un te caliente a su madre, pero ella no se lo sirvió a mi.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque le falta la tilde diacrítica al sustantivo 'té' y al pronombre 'mí'."
+        },
+        {
+          "letter": "D",
+          "text": "El le pidió un té caliente a su madre, pero ella no se lo sirvió a mí.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque le falta la tilde al pronombre personal sujeto 'Él'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tilde diacrítica distingue palabras monosílabas de igual forma pero diferente categoría gramatical.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia semántica introduce colocar comas en 'Los profesores, que apoyaron el paro, marcharon ayer'?",
+      "context": "Uso de la coma en explicaciones suplementarias (incisos) (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica que la totalidad de los profesores apoyaron el paro (inciso explicativo).",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas delimitan una proposición subordinada explicativa que abarca a todo el antecedente."
+        },
+        {
+          "letter": "B",
+          "text": "Señala que solo una parte restringida de los profesores apoyó la manifestación (cláusula especificativa).",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lectura especificativa no lleva comas encerrando la subordinada."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los profesores no asistieron a la marcha por estar dictando clase en la universidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto afirma explícitamente que los profesores marcharon ayer."
+        },
+        {
+          "letter": "D",
+          "text": "Provoca un error de sintaxis que invalida la comprensión del sujeto de la oración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la delimitación de incisos explicativos con comas es una regla plena del español."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las comas en cláusulas relativas transforman el sentido de especificativo (restringido) a explicativo (universal).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la palabra 'fácilmente' conserva la tilde en la primera sílaba mientras que 'felizmente' no la lleva?",
+      "context": "Acentuación de adverbios terminados en '-mente' (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los adverbios en '-mente' mantienen la acentuación ortográfica del adjetivo primitivo ('fácil' lleva tilde, 'feliz' no).",
+          "is_correct": true,
+          "feedback": "Es correcta porque los adverbios formados con el sufijo '-mente' son palabras ditónicas que respetan la tilde de la base."
+        },
+        {
+          "letter": "B",
+          "text": "Porque 'fácilmente' es una palabra aguda y 'felizmente' es una palabra esdrújula según el conteo silábico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el conteo de sílabas del compuesto no altera la norma del adjetivo de origen."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las palabras de más de tres sílabas siempre deben llevar tilde obligatoria en la vocal 'a'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la extensión silábica no determina por sí sola la presencia de tilde."
+        },
+        {
+          "letter": "D",
+          "text": "Porque fue una decisión arbitraria tomada por los impresores del siglo XIX sin ninguna regla gramatical.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque responde a la norma ortográfica de la Real Academia Española para adjetivos sufijados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conservación de la tilde en adverbios en '-mente' depende exclusivamente de la ortografía del adjetivo base.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes oraciones utiliza correctamente el punto y coma ante una locución adversativa extensa?",
+      "context": "Uso del punto y coma ante conectores de contraste (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El equipo de investigación trabajó arduamente durante varios meses; sin embargo, los resultados no fueron los esperados.",
+          "is_correct": true,
+          "feedback": "Es correcta porque separa dos miembros oracionales extensos, el segundo de los cuales empieza con el conector 'sin embargo'."
+        },
+        {
+          "letter": "B",
+          "text": "El equipo de investigación trabajó; arduamente durante varios meses sin embargo los resultados no fueron los esperados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque corta la relación gramatical entre el verbo y el adverbio de modo."
+        },
+        {
+          "letter": "C",
+          "text": "El equipo de investigación trabajó arduamente durante varios meses sin embargo; los resultados no fueron los esperados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque coloca el punto y coma después de la locución conjuntiva en lugar de antecederla."
+        },
+        {
+          "letter": "D",
+          "text": "El equipo de investigación trabajó arduamente; durante varios meses sin embargo los resultados; no fueron los esperados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque fragmenta arbitrariamente el complemento circunstancial y el sujeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto y coma se coloca antes de conectores adversativos o concesivos cuando las proposiciones son extensas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué la palabra 'raíz' lleva tilde en la 'í' a pesar de ser una palabra aguda terminada en 'z'?",
+      "context": "Diferencia entre el hiato acentual y el diptongo (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se produce un hiato por la presencia de una vocal cerrada tónica que rompe el diptongo con la vocal abierta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la tilde marca la acentuación disolvente (hiato) entre la vocal abierta átona y la cerrada tónica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todas las palabras monosílabas en español llevan tilde obligatoria sin excepción alguna.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'raíz' no es monosílaba (posee dos sílabas: ra-íz) y no todos los monosílabos llevan tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es una palabra de origen griego que no sigue las reglas del idioma castellano.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aunque proceda del latín, sigue la regla general del hiato acentual del español."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las palabras terminadas en la letra 'z' siempre deben tildarse en la última vocal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la letra 'z' al final no exige tilde (ejemplo: eficaz, audaz)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El hiato acentual rompe la secuencia de diptongo obligando a tildar la vocal cerrada tónica sin importar la terminación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v6",
+      "statement": "¿En cuál de los siguientes enunciados se aplican correctamente los dos puntos para dar paso a una cita?",
+      "context": "Uso de los dos puntos antes de una cita textual directa (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El filósofo afirmó tajantemente: 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los dos puntos se colocan tras el verbo de habla o declaración antes de la cita entre comillas."
+        },
+        {
+          "letter": "B",
+          "text": "El filósofo afirmó: tajantemente 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque interrumpe la locución adverbial 'afirmó tajantemente'."
+        },
+        {
+          "letter": "C",
+          "text": "El filósofo: afirmó tajantemente 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque separa el sujeto del sintagma verbal de forma agramatical."
+        },
+        {
+          "letter": "D",
+          "text": "El filósofo afirmó tajantemente 'El conocimiento comienza por: los sentidos, pero no todo procede de ellos'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque coloca los dos puntos dentro del complemento preposicional de la cita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los dos puntos anuncian la reproducción literal de las palabras registradas tras verbos de decir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo debe escribirse correctamente el prefijo 'ex' en la expresión que designa a un antiguo presidente?",
+      "context": "Ortografía de los prefijos según las normas de la RAE (2010) (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresidente, escrito en una sola palabra sin guion ni espacio intermedio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los prefijos se escriben soldados a la base léxica uni-verbal según la Ortografía de 2010."
+        },
+        {
+          "letter": "B",
+          "text": "Ex-presidente, unido necesariamente por un guion medio ortográfico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el guion solo se reserva para bases que empiezan por mayúscula o número (ej. ex-URSS)."
+        },
+        {
+          "letter": "C",
+          "text": "Ex presidente, separado por un espacio en blanco como dos palabras independientes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la escritura separada era la norma antigua abrogada por la RAE."
+        },
+        {
+          "letter": "D",
+          "text": "ExPresidente, mezclando mayúsculas y minúsculas sin criterio léxico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se deben intercalar mayúsculas internas en palabras derivadas comunes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los prefijos se unen directamente a la palabra base sin espacio ni guion cuando esta es univerbal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la palabra 'qué' lleva tilde en la frase 'No entiendo qué pretendes demostrar con esa actitud'?",
+      "context": "Acentuación diacrítica de los interrogativos y exclamativos (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque funciona como un pronombre interrogativo indirecto que exige tilde diacrítica sustantiva.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los relativos/interrogativos llevan tilde cuando poseen sentido interrogativo o exclamativo indirecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es una palabra aguda terminada en vocal y todas las agudas se tildan sin excepción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no todas las palabras agudas se tildan, solo las terminadas en n, s o vocal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque actúa como una conjunción subordinante completiva equivalente a 'decir que'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque si fuera conjunción completiva sería átona y se escribiría sin tilde."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se encuentra ubicada en la mitad de una oración interrogativa directa con signos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración es interrogativa indirecta y no lleva signos de apertura o cierre (¿?)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los pronombres interrogativos e exclamativos conservan la tilde diacrítica en estructuras indirectas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el error sintáctico-ortográfico en la frase 'Compró frutas como manzanas, peras, uvas, etc...'?",
+      "context": "Uso de los puntos suspensivos en enumeraciones incompletas (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La redundancia de combinar la abreviatura 'etc.' con los puntos suspensivos, pues ambos indican lo mismo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la abreviatura 'etc.' y los puntos suspensivos son equivalentes; usar ambos es un pleonasmo gráfico."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de la coma antes de la palabra 'frutas' en la introducción de la oración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la puntuación antes del sustantivo es adecuada en este contexto."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de una tilde diacrítica sobre la palabra 'como' en la estructura comparativa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'como' es aquí una preposición comparativa/ejemplificativa átona sin tilde."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir los nombres de las frutas en letra minúscula en lugar de mayúscula inicial.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los nombres comunes de frutas se escriben en minúscula según las normas del español."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "No se deben usar simultáneamente la abreviatura 'etc.' y los puntos suspensivos al final de una lista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v10",
+      "statement": "¿En cuál oración se utiliza correctamente el sustantivo 'porqué'?",
+      "context": "Ortografía de las secuencias 'porque', 'por que', 'por qué' y 'porqué' (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No comprendo el porqué de su repentina renuncia al cargo de director.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'porqué' es un sustantivo masculino que significa 'causa o razón' y va precedido de determinante."
+        },
+        {
+          "letter": "B",
+          "text": "Ella protestó porqué no estaba de acuerdo con el aumento de los impuestos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque debió usarse la conjunción causal 'porque' escrita junta y sin tilde."
+        },
+        {
+          "letter": "C",
+          "text": "¿Porqué no fuiste a la reunión del consejo académico celebrada ayer?",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en oraciones interrogativas directas debe usarse la secuencia separada y con tilde 'por qué'."
+        },
+        {
+          "letter": "D",
+          "text": "Ese es el motivo porqué lucharon los estudiantes durante todo el semestre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se requería la secuencia 'por que' (preposición + relativo)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sustantivo 'porqué' equivale a 'motivo o razón' y se reconoce por admitir plural o determinantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes opciones presenta el uso adecuado de la conjunción adversativa 'sino'?",
+      "context": "Diferencia entre 'sino' (conjunción) y 'si no' (condicional + negación) (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No busca obtener la victoria para sí mismo, sino para el bienestar de toda la comunidad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'sino' contrapone una afirmación a una negación previa en un enunciado adversativo."
+        },
+        {
+          "letter": "B",
+          "text": "Sino estudias con dedicación para el examen, no lograrás obtener la beca universitaria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se requería la secuencia condicional negativa 'si no' (si no estudias...)."
+        },
+        {
+          "letter": "C",
+          "text": "No sé sino vendrá a la fiesta de graduación organizada por los estudiantes del colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una duda condicional que exige 'si no'."
+        },
+        {
+          "letter": "D",
+          "text": "Dime sino te gusta el café que preparé esta mañana en la cocina de la casa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque requiere la conjunción condicional 'si' seguida del adverbio de negación 'no'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conjunción adversativa 'sino' contrapone un concepto positivo a uno negativo previo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo debe puntuarse la inclusión de la voz del narrador según la RAE?",
+      "context": "Uso de la raya (m dash) en la inserción de aclaraciones narrativas (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "—No podemos rendirnos ahora —dijo el capitán—; el puerto está muy cerca.",
+          "is_correct": true,
+          "feedback": "Es correcta porque se emplea la raya (—) pegada a la primera y última palabra del inciso narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "-No podemos rendirnos ahora -dijo el capitán-; el puerto está muy cerca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se utilizó el guion corto (-) en lugar de la raya de diálogo (—)."
+        },
+        {
+          "letter": "C",
+          "text": "(No podemos rendirnos ahora) dijo el capitán; el puerto está muy cerca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los paréntesis no son el signo adecuado para acotar las intervenciones del diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "\"No podemos rendirnos ahora\" dijo el capitán; el puerto está muy cerca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque faltan las rayas o la puntuación adecuada tras las comillas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los diálogos y sus incisos narrativos se delimitan mediante el uso de la raya (—), no del guion corto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v13",
+      "statement": "¿Por qué la palabra 'canción' lleva tilde en la 'o' mientras que 'canciones' no la lleva?",
+      "context": "Acentuación de palabras con diptongo tónico (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque 'canción' es aguda terminada en 'n', mientras que 'canciones' es grave terminada en 's'.",
+          "is_correct": true,
+          "feedback": "Es correcta porque al añadir el plural '-es' la sílaba tónica se desplaza de posición convirtiéndose en grave terminada en 's'."
+        },
+        {
+          "letter": "B",
+          "text": "Porque 'canción' es una palabra de origen francés y 'canciones' procede del vocablo latín.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambas palabras proceden del latín e historia del castellano."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en plural las palabras en español pierden siempre la tilde sin importar la sílaba tónica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque muchos plurales conservan la tilde si siguen la regla (ej. árbol -> árboles)."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la letra 'o' siempre debe tildarse cuando se encuentra en la última sílaba de un sustantivo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las agudas terminadas en 'o' se tildan, pero no los sustantivos graves terminados en 's'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cambio de número en los sustantivos altera la condición de la sílaba tónica respecto a las reglas generales de acentuación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v14",
+      "statement": "¿En qué caso es correcto usar comillas o cursiva para un término extranjero según la RAE?",
+      "context": "Uso de las comillas dobles para señalar palabras extranjeras o impropias (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al incorporar un extranjerismo no adaptado como 'online' o 'software' en un texto en español.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los extranjerismos crudos deben distinguirse tipográficamente mediante cursiva o comillas."
+        },
+        {
+          "letter": "B",
+          "text": "Para resaltar los nombres propios de las ciudades capitales de los departamentos colombianos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los nombres propios geográficos no requieren comillas ni cursiva."
+        },
+        {
+          "letter": "C",
+          "text": "Para encerrar los números de las páginas en el índice de un libro académico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la paginación no lleva ningún tipo de distinción encomillada."
+        },
+        {
+          "letter": "D",
+          "text": "Siempre que se escriba una palabra que tenga más de cinco vocales en su estructura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el conteo de vocales no determina el uso de comillas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los extranjerismos no adaptados al español se marcan tipográficamente mediante cursiva o comillas dobles.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de las siguientes grafías de números cardinales es la correcta según las normas actuales?",
+      "context": "Ortografía de los numerales compuestos ( Ortografía RAE 2010) (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Veintiséis, escrito en una sola palabra con tilde en la vocal 'e'.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los números del 21 al 29 se escriben en una sola palabra y 'veintiséis' lleva tilde por ser aguda terminada en 's'."
+        },
+        {
+          "letter": "B",
+          "text": "Veinti seis, escrito en dos palabras separadas por un espacio en blanco.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la grafía separada para los numerales de la tercera decena es arcaica e incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "Veinte y seis, escrito en tres palabras usando la conjunción copulativa 'y'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las tres palabras corresponden a la norma antigua previa a la unificación léxica de la década."
+        },
+        {
+          "letter": "D",
+          "text": "Veintiseis, escrito en una sola palabra pero omitiendo la tilde obligatoria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque le falta la tilde ortográfica en la sílaba tónica 'séis'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los numerales del 21 al 29 se escriben unicomponenciales y siguen las reglas generales de acentuación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la norma ortográfica exclusiva del español sobre los signos de entonación?",
+      "context": "Uso de los signos de interrogación y exclamación dobles en español (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es obligatorio colocar tanto el signo de apertura (¿ / ¡) como el de cierre (? / !).",
+          "is_correct": true,
+          "feedback": "Es correcta porque el español es la única lengua que exige signos dobles de apertura y cierre para delimitar el enunciado."
+        },
+        {
+          "letter": "B",
+          "text": "Solo se debe colocar el signo al final de la oración al igual que en la lengua inglesa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque omitir el signo de apertura es un anglicismo ortográfico agramatical en castellano."
+        },
+        {
+          "letter": "C",
+          "text": "Los signos de apertura solo se utilizan en textos legales y discursos políticos oficiales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los signos dobles se aplican a toda clase de textos escritos en español."
+        },
+        {
+          "letter": "D",
+          "text": "Se pueden colocar tres signos de apertura y ninguno de cierre si la pregunta es muy urgente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la simetría de apertura y cierre debe mantenerse obligatoriamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A diferencia de otros idiomas, el español exige de forma obligatoria el uso de los signos de apertura y cierre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v17",
+      "statement": "¿Cómo debe escribirse el sustantivo 'presidente' en el enunciado 'El presidente asistió a la cumbre'?",
+      "context": "Uso de la mayúscula en los cargos y títulos de dignidad (RAE 2010) (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En minúscula inicial, independientemente de que se refiera a la máxima autoridad de la nación.",
+          "is_correct": true,
+          "feedback": "Es correcta porque según la Ortografía de 2010 los cargos públicos o títulos se escriben con minúscula inicial."
+        },
+        {
+          "letter": "B",
+          "text": "En mayúscula inicial obligatoria en todos los casos por tratarse de un cargo de alta dignidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la regla antigua que tildaba de mayúscula los cargos solemnes fue modificada por la RAE."
+        },
+        {
+          "letter": "C",
+          "text": "Con la primera letra en mayúscula y las demás en letras cursivas según el protocolo del Estado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la combinación de cursivas y mayúsculas es un error de formato."
+        },
+        {
+          "letter": "D",
+          "text": "Escribiendo todas las letras del sustantivo en mayúsculas sostenidas dentro del párrafo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las mayúsculas sostenidas en cuerpo de texto no responden a la norma orthográfica estándar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los nombres de cargos, títulos o dignidades se escriben con minúscula inicial por ser sustantivos comunes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de los siguientes verbos está escrito correctamente en pretérito imperfecto de indicativo?",
+      "context": "Ortografía de las palabras con doble grafía consonántica ('b' y 'v') (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caminaba, porque las terminaciones del pretérito imperfecto de la primera conjugación (-ar) se escriben con 'b'.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el desinencia del pretérito imperfecto de la conjugación -ar (-aba, -abas, -ábamos) se escribe con 'b'."
+        },
+        {
+          "letter": "B",
+          "text": "Caminava, escrito con 'v' por ser una acción ocurrida en el pasado distante.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque incurre en una falta ortográfica grave al usar 'v' en la desinencia imperfecta de la 1a conjugación."
+        },
+        {
+          "letter": "C",
+          "text": "Caminaba, pero alternando la 'b' y la 'v' según el número gramatical del sujeto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la desinencia flexiva es invariable en su grafía consonántica 'b'."
+        },
+        {
+          "letter": "D",
+          "text": "Caminaba, escrito con 'v' obligatoria únicamente cuando se usa en textos poéticos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el género literario no altera las reglas fundamentales de la ortografía verbal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las formas del pretérito imperfecto de indicativo de los verbos de la primera conjugación se escriben siempre con 'b'.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v19",
+      "statement": "¿Cómo se acentúan los términos en la palabra compuesta 'teórico-práctico'?",
+      "context": "Acentuación de las palabras compuestas unidas por guion (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada uno de los componentes conserva la tilde que le corresponde de forma independiente ('teórico' y 'práctico').",
+          "is_correct": true,
+          "feedback": "Es correcta porque en los compuestos de dos adjetivos unidos por guion cada elemento mantiene su acentuación propia."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el primer elemento conserva la tilde, mientras que el segundo la pierde por estar al final.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la unión por guion no priva al segundo componente de su acento ortográfico."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos elementos pierden la tilde por convertirse en una palabra compuesta grave sin excepción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el guion preserva la independencia fónica y ortográfica de cada adjetivo."
+        },
+        {
+          "letter": "D",
+          "text": "Se eliminan las tildes y se agrega una coma en lugar del guion entre ambos adjetivos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sustituir el guion por una coma transforma la estructura en una coordinación agramatical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las palabras compuestas unidas por guion, cada elemento conserva su acentuación gráfica independiente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué el dominio de las normas ortográficas y de puntuación es esencial en la prueba Saber 11?",
+      "context": "Síntesis sobre la importancia de la corrección ortográfica en la Lectura Crítica (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la puntuación y la ortografía estructuran la cohesión sintáctica y evitan ambigüedades en la interpretación del sentido.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los signos de puntuación y la ortografía regulan las relaciones sintácticas de los textos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la RAE penaliza económicamente a las familias de los estudiantes que cometen errores tipográficos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la evaluación académica es de competencias intelectuales y no una sanción monetaria."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los exámenes de lectura crítica se corrigen mediante robots que solo leen las tildes y no las palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las pruebas evalúan la comprensión de la información, donde la sintaxis y puntuación dan el sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la ortografía perfecta es el único requisito para ingresar a cualquier carrera universitaria sin presentar exámenes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la admisión universitaria pondera múltiples competencias del saber y no solo la ortografía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ortografía y la puntuación son herramientas sintácticas al servicio de la precisión y la validez de la interpretación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W26-ortografia-avanzada-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

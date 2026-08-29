@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-30-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.200Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la tesis central que defiende el autor sobre el impacto de las redes sociales en el debate público?",
+      "context": "Repaso Periodo 3: Tesis en ensayos de opinión contemporáneos (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plataformas digitales promueven la polarización y las cámaras de eco al primar el algoritmo de la indignación sobre el argumento.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sintetiza la denuncia del escrito sobre cómo el diseño algorítmico fractura el consenso democrático."
+        },
+        {
+          "letter": "B",
+          "text": "Las redes sociales son invenciones inofensivas que no tienen ningún efecto en la política o la cultura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque niega la evidencia documentada en el texto sobre la influencia de las redes en la sociedad."
+        },
+        {
+          "letter": "C",
+          "text": "La tecnología digital debe prohibirse por completo para regresar al uso exclusivo del correo postal impreso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque plantea una medida neoludita extrema que no forma parte de las conclusiones del ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los usuarios de internet opinan de manera idéntica y neutral sobre todos los temas sociales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desconoce la diversidad y la polarización de opiniones que el propio texto analiza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Saber identificar la postura central en ensayos de actualidad es una competencia clave del componente pragmático.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "¿Qué presupuesto no declarado sostiene la frase 'debemos reducir el presupuesto de cultura para priorizar la seguridad'?",
+      "context": "Repaso Periodo 3: Identificación de la premisa implícita en un texto político (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El supuesto de que la inversión en cultura y educación no contribuye a la prevención de la violencia ni a la seguridad ciudadana.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la propuesta reposa sobre la falsa dicotomía de considerar a la cultura como un gasto prescindible sin valor social."
+        },
+        {
+          "letter": "B",
+          "text": "La certeza de que todos los artistas colombianos son personas de inmensa riqueza económica personal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el sector cultural suele sufrir de precariedad de recursos y no de opulencia económica."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación de que los policías deben ser contratados como actores de teatro en los municipios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase plantea un recorte presupuestal y no un cambio de profesión para la fuerza pública."
+        },
+        {
+          "letter": "D",
+          "text": "El supuesto de que la cultura es la única actividad que genera ingresos financieros inmediatos al Estado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el argumento suele tratar a la cultura como un gasto superficial y no como un motor financiero directo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las premisas implícitas devela los marcos ideológicos y los sesgos no declarados por el emisor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "¿En cuál de los siguientes enunciados el conector 'es decir' cumple una función de reformulación adecuada?",
+      "context": "Repaso Periodo 3: Cohesión sintáctica mediante conectores explicativos (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El paciente padece de cefalea crónica; es decir, sufre de dolores de cabeza intensos y recurrentes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'es decir' aclara el término técnico 'cefalea' traduciéndolo a un lenguaje accesible de igual sentido."
+        },
+        {
+          "letter": "B",
+          "text": "El paciente padece de cefalea crónica; es decir, mañana saldrá a jugar al fútbol con sus amigos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no aclara el diagnóstico sino que introduce una actividad contradictoria con la dolencia."
+        },
+        {
+          "letter": "C",
+          "text": "El paciente padece de cefalea crónica; es decir, los medicamentos son muy caros en la farmacia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desplaza la explicación de la enfermedad hacia un problema comercial de precios."
+        },
+        {
+          "letter": "D",
+          "text": "El paciente padece de cefalea crónica; es decir, la ciudad de Bogotá es muy fría en el mes de diciembre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque introduce un dato meteorológico ajeno al campo semántico del enunciado médico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los marcadores explicativos garantizan la equivalencia semántica aclarando tecnicismos en el discurso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "¿Qué recurso retórico se utiliza en una caricatura que dibuja a un político como un títere movido por hilos de dinero?",
+      "context": "Repaso Periodo 3: Análisis de caricaturas políticas y sátira visual (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La metáfora visual, que representa la pérdida de autonomía y la subordinación del dirigente a los intereses de los poderes económicos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la imagen del títere personifica visualmente la falta de independencia política frente al capital."
+        },
+        {
+          "letter": "B",
+          "text": "La paradoja temporal, al situar al político en la época de los dinosaurios jurásicos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la metáfora visual no se refiere a épocas prehistóricas sino a relaciones de poder actuales."
+        },
+        {
+          "letter": "C",
+          "text": "La elipsis ortográfica, al eliminar todas las vocales de las frases que pronuncia el candidato.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no atañe a la supresión de letras en la escritura sino a la simbología gráfica."
+        },
+        {
+          "letter": "D",
+          "text": "La onomatopeya sonora, al reproducir el ruido físico que hacen los billetes de banco al doblarse.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la caricatura actúa sobre el plano de la representación visual y no en el de los sonidos físicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La interpretación de textos discontinuos (caricaturas) exige descifrar metáforas y símbolos visuales de crítica social.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué pierde validez un estudio médico que afirma que una medicina cura el cáncer basado en un solo paciente?",
+      "context": "Repaso Periodo 3: Evaluación de la solidez de una evidencia en un artículo científico (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque carece de una muestra estadísticamente representativa y de un grupo de control que permita descartar el efecto placebo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el rigor del método científico exige ensayos clínicos aleatorizados con muestras amplias para validar una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la medicina debe ser probada obligatoriamente en más de diez millones de seres humanos antes de escribir sobre ella.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se requieren cifras imposibles pero sí muestras probabilísticas suficientes y rigurosas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los médicos no tienen derecho a publicar resultados de investigaciones en revistas impresas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la publicación de hallazgos en revistas por pares es el canal estándar de la ciencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la palabra 'cáncer' es un término tabú que no puede ser mencionado en estudios universitarios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la investigación oncóloga requiere denominar con precisión la patología sin tabúes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La validez científica de un argumento empírico exige evidencia representativa, replicable y probada estadísticamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué es falaz afirmar que 'si permitimos que los jóvenes usen el celular en el recreo, pronto nadie sabrá leer ni escribir y colapsará la civilización'?",
+      "context": "Repaso Periodo 3: Detección de la falacia de la pendiente resbaladiza (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque exagera desproporcionadamente las consecuencias futuras sin demostrar una cadena causal inevitable entre el hecho y la catástrofe.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la pendiente resbaladiza asume sin pruebas que un paso pequeño conducirá inevitablemente a un desenlace extremo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los teléfonos celulares son artefactos destructivos que eliminan la capacidad de pensar en menos de cinco minutos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque valida la afirmación falaz en lugar de analizar la falla del razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la educación escolar debe prohibir el uso de cualquier aparato que requiera electricidad para funcionar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque propone una postura neoludita que no analiza la estructura de la falacia argumentativa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la frase contiene un error de concordancia entre el sujeto en plural y el verbo en singular.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración es correcta en su sintaxis pero falsa y desproporcionada en su lógica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia de la pendiente resbaladiza encadena consecuencias hipotéticas extremas sin sustento probatorio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "¿Qué interpretación debe darse a la frase 'Juan tiene un corazón de piedra' en una novela de costumbres?",
+      "context": "Repaso Periodo 3: La distinción entre sentido literal y sentido figurado (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sentido figurado (metáfora) que denota insensibilidad, frialdad afectiva y falta de empatía hacia los demás.",
+          "is_correct": true,
+          "feedback": "Es correcta porque utiliza la dureza e insensibilidad de la roca como imagen de la falta de afecto humano."
+        },
+        {
+          "letter": "B",
+          "text": "Sentido literal (denotativo) que indica que los órganos del personaje están hechos de mineral calcáreo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplicaría una lectura denotativa absurda que destruye la verosimilitud narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Sentido científico que demuestra que el personaje necesita una cirugía urgente para extraerle una roca de la aorta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde un recurso literario de caracterización psicológica con una patología médica real."
+        },
+        {
+          "letter": "D",
+          "text": "Sentido gramatical que señala que la palabra 'corazón' debe escribirse siempre con la letra inicial en mayúscula.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ortografía de los nombres comunes no se altera por el uso del lenguaje figurado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar el sentido denotativo del connotativo es indispensable para descifrar la caracterización en la literatura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función cumple la locución 'a pesar de que' en el enunciado 'A pesar de contar con pocos recursos, el proyecto fue un éxito'?",
+      "context": "Repaso Periodo 3: El papel de los conectores concesivos en la argumentación (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducir una dificultad o condición adversa que no logra impedir el logro del resultado positivo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los conectores concesivos indican un obstáculo que resulta insuficiente para frenar la acción principal."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar la causa biológica por la cual el proyecto no pudo realizarse en la ciudad de Medellín.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto afirma categóricamente que el proyecto logró culminar con éxito."
+        },
+        {
+          "letter": "C",
+          "text": "Anunciar la suspensión definitiva de todas las actividades académicas en el colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no posee un valor de clausura ni de cancelación institucional."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el éxito de un proyecto depende únicamente de la suerte y el azar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se destaca la perseverancia y gestión frente a la escasez y no el mero azar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La concesividad señala la superación de un impedimento en favor del desarrollo de la tesis o acción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la intencionalidad principal de un informe sobre el estado de las vías publicado por el INVÍAS?",
+      "context": "Repaso Periodo 3: El análisis del propósito del autor en textos informativos (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporcionar datos objetivos y actualizados a los ciudadanos sobre la transitabilidad de las carreteras del país.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los informes institucionales buscan ofrecer información pública útil, veraz y oportuna."
+        },
+        {
+          "letter": "B",
+          "text": "Vender automóviles y motocicletas a los viajeros que transitan por las vías nacionales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el organismo público de infraestructura no es un concesionario de venta de vehículos."
+        },
+        {
+          "letter": "C",
+          "text": "Entretener a la población con cuentos de terror sobre fantasmas que aparecen en las curvas de la noche.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desvirtúa el carácter técnico del informe convirtiéndolo en un relato de ficción."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer a los lectores de que viajen únicamente en avión para evitar el transporte terrestre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el informe vial informa el estado de las carreteras y no promueve el desuso del transporte terrestre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el propósito comunicativo según el emisor y el género del texto garantiza una lectura adecuada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué un periodista incluye en su reportaje las declaraciones de las víctimas, del alcalde y de los socorristas?",
+      "context": "Repaso Periodo 3: La polifonía y el contraste de voces en un reportaje (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para ofrecer una cobertura plural y completa que permita al lector construir una visión objetiva del suceso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la polifonía informativa aporta diferentes dimensiones (experiencia vivida, gestión y atención) al hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el periodista no tenía ganas de escribir y prefirió dejar que otros hicieran su trabajo de redacción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la selección y edición de testimonios exige alto trabajo periodístico de investigación."
+        },
+        {
+          "letter": "C",
+          "text": "Para confundir al público haciendo que nadie entienda lo que realmente ocurrió en la tragedia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el contraste de fuentes bien estructurado busca la claridad y el equilibrio del reportaje."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el código de ética periodística exige que todas las personas del país opinen en la misma noticia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se seleccionan fuentes relevantes al hecho y no la totalidad de la población de la nación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polifonía informativa contrasta diversas voces e intereses garantizando el equilibrio y el rigor periodístico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "¿Qué falla lógica comete un participante que dice 'no debemos escuchar la propuesta del economista porque es un hombre divorciado'?",
+      "context": "Repaso Periodo 3: La detección de la falacia ad hominem en un debate (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descalifica la propuesta técnica atacando la vida privada del profesional sin examinar la validez de sus datos económicos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la falacia ad hominem sustituye la refutación del argumento por la agresión a la persona del emisor."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el estado civil de las personas determina de forma matemática su capacidad intelectual.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el estado civil no guarda ninguna relación analítica con la validez de un modelo económico."
+        },
+        {
+          "letter": "C",
+          "text": "Aplica correctamente la regla de la lógica formal que exige la pureza moral de los conferencistas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lógica formal evalúa la consistencia de las proposiciones y no la vida privada de los sujetos."
+        },
+        {
+          "letter": "D",
+          "text": "Prueba que las ciencias económicas sólo pueden ser estudiadas por personas que viven en monasterios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el conocimiento económico está abierto a cualquier investigador independientemente de su vida privada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia ad hominem distorsiona el debate razonado al desviar la atención de las premisas hacia la persona.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "¿Qué quiere decir un autor cuando escribe que 'la puntualidad colombiana es una virtud que deslumbra al mundo entero'?",
+      "context": "Repaso Periodo 3: El análisis de la ironía en textos ensayísticos (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Criticar sarcásticamente la impuntualidad sistemática que predomina en los compromisos sociales y laborales del país.",
+          "is_correct": true,
+          "feedback": "Es correcta porque utiliza la afirmación laudatoria exagerada para ironizar sobre un defecto socialmente reconocido."
+        },
+        {
+          "letter": "B",
+          "text": "Celebrar con orgullo nacional el premio internacional que recibió Colombia por ser el país más puntual del planeta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no existe tal galardón y el texto utiliza la figura retórica para señalar una falla cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Exigir que todos los relojes de pared del país sean destruidos y reemplazados por relojes de sol antiguos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una lectura literal absurda que desconoce el sentido irónico y satírico."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que en Colombia los compromisos se cumplen exactamente a la hora y minuto fijados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto busca precisamente llamar la atención sobre el incumplimiento habitual de los horarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía requiere contrastar el significado literal con el conocimiento compartido de la realidad para descifrar el mensaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "¿En qué opción la elipsis verbal se aplica de manera impecable para garantizar la cohesión del enunciado?",
+      "context": "Repaso Periodo 3: El uso de la elipsis para evitar la redundancia (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estudiante de Grado 11 resolvió las preguntas de matemáticas; la estudiante, las de lectura crítica.",
+          "is_correct": true,
+          "feedback": "Es correcta porque omite el verbo 'resolvió' en la segunda proposición sustituyéndolo acertadamente por una coma elíptica."
+        },
+        {
+          "letter": "B",
+          "text": "El estudiante de Grado 11 resolvió las preguntas de matemáticas; la estudiante resolvió las de lectura crítica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque repite innecesariamente el verbo 'resolvió' haciendo la frase más pesada y monótona."
+        },
+        {
+          "letter": "C",
+          "text": "El estudiante de Grado 11 resolvió las preguntas de matemáticas; la estudiante resolvió las preguntas de lectura crítica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque incurre en redundancia léxica al repetir tanto el verbo como el sustantivo 'preguntas'."
+        },
+        {
+          "letter": "D",
+          "text": "El estudiante de Grado 11 resolvió las preguntas de matemáticas; la estudiante la resolvió las de lectura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque introduce una errata sintáctica agramatical al acumular el pronombre 'la' antes del verbo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elipsis verbal mediante la coma elíptica agiliza la lectura y elimina repeticiones innecesarias en el texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué tiene mayor peso en un debate sobre salud pública el dictamen de la Organización Mundial de la Salud que la anécdota de un vecino?",
+      "context": "Repaso Periodo 3: La distinción entre argumento de autoridad y argumento de experiencia personal (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la OMS basa sus recomendaciones en investigaciones científicas a gran escala, mientras que la anécdota es un hecho aislado e incontrolado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el argumento de autoridad científica reposa en el rigor de estudios validados y no en casos individuales aislados."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los funcionarios de la OMS son personas que tienen más dinero que los vecinos del barrio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la validez epistémica de una recomendación médica no depende de la riqueza económica de los emisores."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las anécdotas personales están prohibidas por la ley en todas las conversaciones informales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las anécdotas son legítimas en la vida cotidiana pero insuficientes para fundamentar políticas de salud."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los datos científicos se obtienen mediante la revelación de visiones poéticas nocturnas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el método científico se apoya en la contrastación empírica y no en revelaciones místicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza de un argumento de autoridad académica reside en el rigor metodológico y la amplitud de las evidencias empíricas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "¿Cómo se describe el tono de un articulista que utiliza términos como 'saqueo descarado', 'vergüenza nacional' e 'impunidad insoportable'?",
+      "context": "Repaso Periodo 3: El análisis del tono del autor en la columna de opinión (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indignado y vehemente, expresando un fuerte rechazo ético ante un acto de corrupción pública.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la adjetivación cargada de valoraciones morales fuertes manifiesta la indignación del emisor."
+        },
+        {
+          "letter": "B",
+          "text": "Neutro e imparcial, limitándose a transcribir las leyes del código penal sin emitir juicio alguno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el uso de vocabulario altamente evaluativo dista de la neutralidad de un informe técnico."
+        },
+        {
+          "letter": "C",
+          "text": "Jocoso y divertido, contando chistes para que los lectores se rían del mal uso de los recursos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los términos denotan gravedad e indignación moral y no intención cómica o de entretenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Depresivo y nostálgico, recordando con tristeza la infancia en la finca de sus abuelos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la temática de la denuncia anticorrupción no atañe al recuerdo melancólico de la infancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tono del autor se infiere a través de la carga evaluativa del léxico y los recursos expresivos empleados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de las siguientes oraciones contiene una proposición subordinada sustantiva en función de objeto directo?",
+      "context": "Repaso Periodo 3: La estructura sintáctica de las oraciones compuestas subordinadas (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El profesor anunció que los resultados del examen se publicarán el próximo viernes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'que los resultados del examen se publicarán el próximo viernes' responde a la pregunta ¿qué anunció el profesor? (Objeto Directo)."
+        },
+        {
+          "letter": "B",
+          "text": "El profesor, que llegó temprano a la universidad, dictó su clase de filosofía de la ciencia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una subordinada adjetiva o relativa que modifica al sustantivo 'profesor'."
+        },
+        {
+          "letter": "C",
+          "text": "El profesor caminó por el parque de la ciudad mientras los estudiantes leían en la biblioteca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contiene una subordinada adverbial temporal (mientras...)."
+        },
+        {
+          "letter": "D",
+          "text": "El profesor enseñó en la universidad porque le apasiona la formación de los jóvenes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contiene una subordinada adverbial causal (porque...)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las proposiciones subordinadas sustantivas pueden desempeñar la función de objeto directo del verbo principal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "¿Por qué el título 'La amenaza invisible: microplásticos en el agua potable' resulta altamente eficaz?",
+      "context": "Repaso Periodo 3: El valor pragmático del título en textos expositivos (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sintetiza el problema de investigación (microplásticos en el agua) y utiliza una metáfora de impacto (amenaza invisible) para captar la atención.",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina la precisión informativa de la temática con un giro retórico que despierta el interés crítico del público."
+        },
+        {
+          "letter": "B",
+          "text": "Porque utiliza un idioma extranjero para que solo las personas que hablan inglés puedan entenderlo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título está escrito en español estándar y no en una lengua extranjera."
+        },
+        {
+          "letter": "C",
+          "text": "Porque promete regalar filtros de agua a todos los lectores que compren el periódico impreso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los títulos orientan el marco hermenéutico de la lectura y no son promociones comerciales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque afirma que los microplásticos son seres vivos que caminan por las calles de la ciudad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una interpretación literal disparatada que confunde partículas sintéticas con organismos animados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un título eficaz equilibra la precisión conceptual del tema con el gancho pragmático de lectura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué es fallido argumentar que 'todos los jóvenes colombianos son apáticos ante la política' basándose en la conducta de dos estudiantes?",
+      "context": "Repaso Periodo 3: La detección de generalizaciones apresuradas (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque incurre en una generalización apresurada al extrapolar el comportamiento de una muestra insignificante a toda la población juvenil.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la inducción falaz pretende validar una regla universal a partir de un par de casos no representativos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la ley prohíbe que los jóvenes de dieciséis años tengan opiniones sobre la política del país.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los jóvenes son sujetos de derechos con plena libertad de opinión y formación ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los estudiantes de los colegios colombianos dedican todo su tiempo libre a resolver ecuaciones matemáticas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque generaliza falsamente la conducta diaria del estudiantado sin sustento empírico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque dos estudiantes representan una muestra numéricamente gigantesca que permite sacar conclusiones definitivas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque dos individuos constituyen una muestra minúscula totalmente insuficiente para generalizar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia de generalización apresurada infiere leyes universales a partir de evidencias insuficientes o sesgadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "¿Qué función cumple una tabla estadística en un artículo de prensa sobre la inflación en Colombia?",
+      "context": "Repaso Periodo 3: La articulación entre el texto escrito y la evidencia gráfica en textos discontinuos (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporcionar los datos numéricos precisos y respaldados por el DANE que sustentan el análisis cualitativo del periodista.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto discontinuo (tabla) aporta el sustento empírico cuantitativo que valida el diagnóstico del texto continuo."
+        },
+        {
+          "letter": "B",
+          "text": "Llenar un espacio vacío de la página para que el periódico no tenga que imprimir la foto del autor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los elementos gráficos se integran con intención informativa y no por mero relleno del diseño."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el periodista sabe realizar operaciones de división de números decimales de forma manual.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las cifras provienen de entidades oficiales de investigación estadística y no de un examen de cálculo personal."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir que los lectores utilicen calculadoras financieras para poder leer la columna de opinión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lectura crítica de tablas busca comprender tendencias y contrastes, no realizar operaciones matemáticas complejas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integración de textos continuos y discontinuos fortalece la validez del diagnóstico mediante pruebas cuantitativas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué se afirma que la Lectura Crítica transforma al estudiante de un receptor pasivo en un ciudadano autónomo?",
+      "context": "Repaso Periodo 3: Síntesis integrada de competencias en Lectura Crítica (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque lo capacita para descifrar intenciones discursivas, evaluar la validez de los argumentos y construir una postura ética propia en la sociedad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la competencia lectora crítica fundamenta el libre pensamiento, el juicio reflexivo y la formación de una ciudadanía consciente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque le permite memorizar el contenido de todos los periódicos que se publican en el país diariamente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la meta no es la acumulación memorística irreflexiva de noticias sino el desarrollo de habilidades analíticas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque le garantiza la obtención de un título universitario de doctorado de forma automática sin estudiar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la educación superior requiere un proceso riguroso de formación académica continua."
+        },
+        {
+          "letter": "D",
+          "text": "Porque evita que los ciudadanos tengan que pagar impuestos o cumplir las leyes de la Constitución.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la Lectura Crítica fomenta el respeto consciente por los derechos y los deberes en un Estado de Derecho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Lectura Crítica es la herramienta intelectual clave para el ejercicio de una ciudadanía libre, ética y conceptualmente fundamentada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

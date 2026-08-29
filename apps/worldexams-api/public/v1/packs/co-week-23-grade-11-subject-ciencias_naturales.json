@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-23-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.184Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v1",
+      "statement": "Al mezclar dos cuerpos a distintas temperaturas en un recipiente aislado en Bogotá, ¿cuándo cesa el flujo neto de calor?",
+      "context": "En una práctica de laboratorio en Colombia sobre equilibrio térmico, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando ambos cuerpos alcanzan exactamente la misma temperatura.",
+          "is_correct": true,
+          "feedback": "El equilibrio térmico se define por la igualdad de temperaturas."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando la masa del cuerpo frío supera la del caliente.",
+          "is_correct": false,
+          "feedback": "El equilibrio depende de la temperatura, no de igualar masas."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando la presión atmosférica se duplica.",
+          "is_correct": false,
+          "feedback": "La temperatura es la variable fundamental del equilibrio térmico."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando toda la energía interna se elimina.",
+          "is_correct": false,
+          "feedback": "La energía interna no desaparece."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El flujo de calor neto entre dos cuerpos en contacto térmico se detiene al alcanzar la misma temperatura (equilibrio térmico).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v2",
+      "statement": "¿Qué magnitud mide la cantidad de calor necesaria para elevar en 1 K la temperatura de 1 kg de una sustancia?",
+      "context": "En una práctica de laboratorio en Colombia sobre capacidad calorífica sensible, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor latente de fusión.",
+          "is_correct": false,
+          "feedback": "El calor latente corresponde a cambios de fase a T constante."
+        },
+        {
+          "letter": "B",
+          "text": "El calor específico.",
+          "is_correct": true,
+          "feedback": "Por definición, el calor específico c = Q / (m·ΔT)."
+        },
+        {
+          "letter": "C",
+          "text": "La conductividad eléctrica molar.",
+          "is_correct": false,
+          "feedback": "Es una propiedad de transporte de carga."
+        },
+        {
+          "letter": "D",
+          "text": "La tensión superficial del fluido.",
+          "is_correct": false,
+          "feedback": "Es una propiedad de interfaz líquida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El calor específico c representa la inercia térmica por unidad de masa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v3",
+      "statement": "Durante la ebullición del agua pura a nivel del mar en Cartagena, ¿qué ocurre con la temperatura mientras coexisten líquido y vapor?",
+      "context": "En una práctica de laboratorio en Colombia sobre cambio de fase a presión constante, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta continuamente a medida que se absorbe calor.",
+          "is_correct": false,
+          "feedback": "La energía entregada se usa para romper enlaces (calor latente), no para subir T."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye hasta alcanzar 0 °C.",
+          "is_correct": false,
+          "feedback": "El agua hirviendo no baja su temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece constante a 100 °C durante toda la ebullición.",
+          "is_correct": true,
+          "feedback": "Los cambios de fase de sustancias puras a presión constante suceden a temperatura constante."
+        },
+        {
+          "letter": "D",
+          "text": "Fluctúa aleatoriamente entre 50 °C y 150 °C.",
+          "is_correct": false,
+          "feedback": "La temperatura de ebullición es fija a presión constante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Durante un cambio de fase de una sustancia pura a presión constante, la temperatura se mantiene fija.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el mecanismo principal de transferencia de calor en un sólido metálico como una barra de cobre?",
+      "context": "En una práctica de laboratorio en Colombia sobre transferencia por conducción, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convección forzada.",
+          "is_correct": false,
+          "feedback": "La convección requiere transporte de masa en fluidos."
+        },
+        {
+          "letter": "B",
+          "text": "Radiación electromagnética visible.",
+          "is_correct": false,
+          "feedback": "Ocurre principalmente por ondas electromagnéticas en el vacío."
+        },
+        {
+          "letter": "C",
+          "text": "Sublimación progresiva.",
+          "is_correct": false,
+          "feedback": "Es un cambio de estado sólido-gas."
+        },
+        {
+          "letter": "D",
+          "text": "Conducción térmica.",
+          "is_correct": true,
+          "feedback": "La conducción ocurre por colisiones atómicas y electrones libres en sólidos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La conducción es el mecanismo dominante de transferencia térmica en sólidos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v5",
+      "statement": "En un recipiente con agua calentada al fuego en Medellín, el ascenso del agua caliente y descenso del agua fría se debe a...",
+      "context": "En una práctica de laboratorio en Colombia sobre transferencia por convección, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convección térmica generada por diferencias de densidad.",
+          "is_correct": true,
+          "feedback": "El agua caliente se dilata, disminuye su densidad y flota."
+        },
+        {
+          "letter": "B",
+          "text": "Conducción electromagnética de masa.",
+          "is_correct": false,
+          "feedback": "La convección es transporte macroscópico de masa en fluidos."
+        },
+        {
+          "letter": "C",
+          "text": "Radiación infrarroja de fotones.",
+          "is_correct": false,
+          "feedback": "La radiación no requiere masa fluida en movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Difusión osmótica de sales.",
+          "is_correct": false,
+          "feedback": "No se trata de transporte de soluto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La convección involucra el movimiento de fluido motivado por gradientes de densidad causados por la temperatura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo llega la energía térmica desde el Sol hasta la atmósfera colombiana a través del espacio?",
+      "context": "En una práctica de laboratorio en Colombia sobre radiación térmica, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por conducción en el aire interplanetario.",
+          "is_correct": false,
+          "feedback": "El espacio interplanetario es un vacío casi perfecto."
+        },
+        {
+          "letter": "B",
+          "text": "Mediante radiación electromagnética que no requiere medio material.",
+          "is_correct": true,
+          "feedback": "La radiación se propaga a la velocidad de la luz en el vacío."
+        },
+        {
+          "letter": "C",
+          "text": "Por convección del viento solar denso.",
+          "is_correct": false,
+          "feedback": "El calor solar absorbido llega por ondas electromagnéticas."
+        },
+        {
+          "letter": "D",
+          "text": "Por capilaridad atmosférica.",
+          "is_correct": false,
+          "feedback": "La capilaridad es un fenómeno de tensión en líquidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La radiación térmica no requiere un medio material para transferir energía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v7",
+      "statement": "Al calentar una riel de acero en una vía férrea en Cali, su longitud aumenta debido a...",
+      "context": "En una práctica de laboratorio en Colombia sobre dilatación térmica lineal, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El incremento en el número de protones del núcleo.",
+          "is_correct": false,
+          "feedback": "La temperatura no altera la estructura nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "La pérdida masiva de electrones hacia el aire.",
+          "is_correct": false,
+          "feedback": "No hay ionización ni pérdida de masa."
+        },
+        {
+          "letter": "C",
+          "text": "La mayor amplitud de vibración térmica de los átomos en la red cristalina.",
+          "is_correct": true,
+          "feedback": "Al subir T, los átomos vibran más y aumenta la distancia promedio interatómica."
+        },
+        {
+          "letter": "D",
+          "text": "El colapso de los enlaces de hidrógeno.",
+          "is_correct": false,
+          "feedback": "El acero tiene enlaces metálicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La dilatación térmica ocurre porque el aumento de energía cinética incrementa la separación promedio atómica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v8",
+      "statement": "Para derretir 2 kg de hielo a 0 °C en Manizales sin cambiar la temperatura, se requiere calcular...",
+      "context": "En una práctica de laboratorio en Colombia sobre calor latente de fusión, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Q = m · c · ΔT",
+          "is_correct": false,
+          "feedback": "ΔT es cero durante el cambio de fase."
+        },
+        {
+          "letter": "B",
+          "text": "Q = P · V / R",
+          "is_correct": false,
+          "feedback": "Esa es la ecuación de gases ideales."
+        },
+        {
+          "letter": "C",
+          "text": "Q = m · g · h",
+          "is_correct": false,
+          "feedback": "Esa es energía potencial gravitacional."
+        },
+        {
+          "letter": "D",
+          "text": "Q = m · L_fusión",
+          "is_correct": true,
+          "feedback": "El calor necesario para cambio de fase es Q = m · L."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En los cambios de fase a temperatura constante, el calor intercambiado se calcula como Q = m · L.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué al tocar una mesa de metal y una de madera a 20 °C en Popayán, el metal se siente más frío?",
+      "context": "En una práctica de laboratorio en Colombia sobre sensación térmica y conductividad, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el metal tiene mayor conductividad térmica y extrae calor de la piel más rápido.",
+          "is_correct": true,
+          "feedback": "La sensación térmica depende de la rapidez de transferencia de calor."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la temperatura del metal es de 0 °C.",
+          "is_correct": false,
+          "feedback": "Ambos objetos están a la misma temperatura ambiente de 20 °C."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la madera genera calor propio espontáneamente.",
+          "is_correct": false,
+          "feedback": "La madera no genera calor por sí misma."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el metal absorbe electrones de la mano.",
+          "is_correct": false,
+          "feedback": "Es un proceso de transferencia de calor, no de carga eléctrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conductividad térmica influye en la tasa de flujo de calor percibida por el tacto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v10",
+      "statement": "¿A cuántos grados Celsius corresponden 300 Kelvin en un registro meteorológico en Bucaramanga?",
+      "context": "En una práctica de laboratorio en Colombia sobre escala absoluta de kelvin, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "573.15 °C",
+          "is_correct": false,
+          "feedback": "No se debe sumar 273.15 al pasar de Kelvin a Celsius."
+        },
+        {
+          "letter": "B",
+          "text": "26.85 °C",
+          "is_correct": true,
+          "feedback": "T(°C) = T(K) - 273.15 = 300 - 273.15 = 26.85 °C."
+        },
+        {
+          "letter": "C",
+          "text": "300 °C",
+          "is_correct": false,
+          "feedback": "Kelvin y Celsius tienen diferente punto de cero."
+        },
+        {
+          "letter": "D",
+          "text": "-26.85 °C",
+          "is_correct": false,
+          "feedback": "300 K está por encima del punto de congelación del agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conversión entre escalas es T(°C) = T(K) - 273.15.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v11",
+      "statement": "En un calorímetro rígido en Ibagué, se introducen 100 g de agua a 80 °C en 100 g de agua a 20 °C. La T de equilibrio es...",
+      "context": "En una práctica de laboratorio en Colombia sobre calorímetro ideal, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 °C",
+          "is_correct": false,
+          "feedback": "La T_eq debe estar entre 20 °C y 80 °C."
+        },
+        {
+          "letter": "B",
+          "text": "30 °C",
+          "is_correct": false,
+          "feedback": "Al tener masas y calores específicos iguales, T_eq es el promedio exacto."
+        },
+        {
+          "letter": "C",
+          "text": "50 °C",
+          "is_correct": true,
+          "feedback": "T_eq = (m1·T1 + m2·T2)/(m1+m2) = (100·80 + 100·20)/200 = 50 °C."
+        },
+        {
+          "letter": "D",
+          "text": "0 °C",
+          "is_correct": false,
+          "feedback": "La T de equilibrio no puede caer fuera del rango inicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por conservación de la energía, Σ Q = 0 en un calorímetro aislado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v12",
+      "statement": "¿Qué caracteriza teóricamente la temperatura del Cero Absoluto (0 Kelvin o -273.15 °C)?",
+      "context": "En una práctica de laboratorio en Colombia sobre cero absoluto, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La evaporación instantánea de todos los elementos.",
+          "is_correct": false,
+          "feedback": "A 0 K las sustancias se encuentran en estado sólido perfecto."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento infinito de la presión en gases ideales.",
+          "is_correct": false,
+          "feedback": "A 0 K la presión teórica de un gas ideal tiende a cero."
+        },
+        {
+          "letter": "C",
+          "text": "La emisión máxima de rayos X.",
+          "is_correct": false,
+          "feedback": "No hay emisión de radiación térmica significativa a 0 K."
+        },
+        {
+          "letter": "D",
+          "text": "La mínima agitación térmica molecular posible y entalpía mínima del sistema.",
+          "is_correct": true,
+          "feedback": "En 0 K el movimiento térmico traslacional clásico de las partículas cesa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cero absoluto representa el límite inferior de temperatura donde la energía cinética molecular es mínima.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v13",
+      "statement": "¿Cómo influyen los gases de efecto invernadero en la temperatura promedio de la atmósfera colombiana?",
+      "context": "En una práctica de laboratorio en Colombia sobre efecto invernadero natural, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Absorben radiación infrarroja emitida por la Tierra y la reemiten en todas direcciones.",
+          "is_correct": true,
+          "feedback": "La atmósfera retiene parte del calor reemitido por la superficie terrestre."
+        },
+        {
+          "letter": "B",
+          "text": "Reflejan el 100% de la luz solar incidente al espacio exterior.",
+          "is_correct": false,
+          "feedback": "Eso aumentaría el albedo y enfriaría el planeta."
+        },
+        {
+          "letter": "C",
+          "text": "Bloquean el paso de la gravedad terrestre.",
+          "is_correct": false,
+          "feedback": "No interactúan con la aceleración de la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "Destruyen las moléculas de nitrógeno del aire.",
+          "is_correct": false,
+          "feedback": "Los gases de efecto invernadero absorben radiación térmica infrarroja."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El efecto invernadero atmosférico atrapa radiación infrarroja manteniendo la temperatura habitable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v14",
+      "statement": "Un elemento bimetálico se curva al calentarse debido a que sus dos metales tienen...",
+      "context": "En una práctica de laboratorio en Colombia sobre bimetal en termostatos, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diferentes densidades magnéticas.",
+          "is_correct": false,
+          "feedback": "La curva se produce por dilatación diferencial."
+        },
+        {
+          "letter": "B",
+          "text": "Diferentes coeficientes de dilatación térmica lineal.",
+          "is_correct": true,
+          "feedback": "Al dilatar en distinta proporción, la tira se dobla hacia el metal de menor coeficiente."
+        },
+        {
+          "letter": "C",
+          "text": "Igual punto de fusión y ebullición.",
+          "is_correct": false,
+          "feedback": "Si tuvieran igual dilatación no se curvarían."
+        },
+        {
+          "letter": "D",
+          "text": "Cargas eléctricas opuestas.",
+          "is_correct": false,
+          "feedback": "Es un fenómeno puramente térmico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dilatación diferencial de dos metales unidos fuerza la flexión de la lámina bimetálica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué la evaporación del sudor en la piel en Barranquilla disminuye la temperatura corporal?",
+      "context": "En una práctica de laboratorio en Colombia sobre termodinámica del sudor, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el sudor transfiere hielo directamente a los poros.",
+          "is_correct": false,
+          "feedback": "El sudor es líquido y absorbe calor para evaporarse."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la piel detiene el flujo sanguíneo por completo.",
+          "is_correct": false,
+          "feedback": "La sudoración es un mecanismo de disipación de calor por cambio de fase."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la evaporación requiere absorber el calor latente de vaporización de la piel.",
+          "is_correct": true,
+          "feedback": "Las moléculas de mayor energía cinética se escapan, enfriando el líquido restante."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la humedad reacciona químicamente creando aire helado.",
+          "is_correct": false,
+          "feedback": "La evaporación es un proceso físico de cambio de fase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaporación del agua de la piel requiere consumir calor latente (Q = m·L_v), enfriando el cuerpo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v16",
+      "statement": "Si la combustión de 1 g de carbón en un calorímetro libera 30 kJ, ¿cuánto calor liberan 50 g de carbón?",
+      "context": "En una práctica de laboratorio en Colombia sobre calor de combustión, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 kJ",
+          "is_correct": false,
+          "feedback": "50 por 30 es 1500."
+        },
+        {
+          "letter": "B",
+          "text": "300 kJ",
+          "is_correct": false,
+          "feedback": "Se multiplica la masa por el poder calorífico."
+        },
+        {
+          "letter": "C",
+          "text": "3000 kJ",
+          "is_correct": false,
+          "feedback": "El valor correcto es 1500 kJ."
+        },
+        {
+          "letter": "D",
+          "text": "1500 kJ",
+          "is_correct": true,
+          "feedback": "Q = 50 g × 30 kJ/g = 1500 kJ."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El calor liberado en una reacción exotérmica es directamente proporcional a la masa del reactivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v17",
+      "statement": "¿En qué principio físico se basa un termómetro de resistencia de platino?",
+      "context": "En una práctica de laboratorio en Colombia sobre termometría de resistencia, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cambio de la resistencia eléctrica del metal en función de la temperatura.",
+          "is_correct": true,
+          "feedback": "La resistividad eléctrica de un conductor metálico varía linealmente con T."
+        },
+        {
+          "letter": "B",
+          "text": "La variación del volumen de mercurio en un tubo capilar.",
+          "is_correct": false,
+          "feedback": "Eso es termometría de dilatación de fluidos."
+        },
+        {
+          "letter": "C",
+          "text": "La emisión de partículas alfa por núcleos inestables.",
+          "is_correct": false,
+          "feedback": "Eso es decaimiento radiactivo."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio de color de una solución indicadora de pH.",
+          "is_correct": false,
+          "feedback": "Eso mide acidez o basicidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las propiedades físicas que varían monótonamente con la temperatura se usan como termométricas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v18",
+      "statement": "El experimento histórico de Joule con paletas en agua demostró la equivalencia entre...",
+      "context": "En una práctica de laboratorio en Colombia sobre experimento de joule, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza magnética y carga nuclear.",
+          "is_correct": false,
+          "feedback": "Trataba sobre conversión W -> Q."
+        },
+        {
+          "letter": "B",
+          "text": "Trabajo mecánico y energía térmica (1 cal ≈ 4.184 J).",
+          "is_correct": true,
+          "feedback": "Joule estableció el equivalente mecánico del calor."
+        },
+        {
+          "letter": "C",
+          "text": "Presión atmosférica y volumen atómico.",
+          "is_correct": false,
+          "feedback": "Estudió el trabajo deformador en fluidos disipativos."
+        },
+        {
+          "letter": "D",
+          "text": "Masa molar y velocidad de la luz.",
+          "is_correct": false,
+          "feedback": "Corresponde a la física moderna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Joule demostró que el trabajo mecánico puede convertirse cuantitativamente en calor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v19",
+      "statement": "El elevado calor específico del agua (4184 J/kg·K) permite que el océano Atlántico en Cartagena...",
+      "context": "En una práctica de laboratorio en Colombia sobre capacidad calorífica del agua, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se congele completamente a 20 °C.",
+          "is_correct": false,
+          "feedback": "El agua se congela a 0 °C a 1 atm."
+        },
+        {
+          "letter": "B",
+          "text": "Evapore toda su masa en horas soleadas.",
+          "is_correct": false,
+          "feedback": "Exige enorme calor latente y específico."
+        },
+        {
+          "letter": "C",
+          "text": "Actúe como un regulador térmico amortiguando los cambios bruscos de temperatura.",
+          "is_correct": true,
+          "feedback": "El alto calor específico exige gran cantidad de energía para cambiar T."
+        },
+        {
+          "letter": "D",
+          "text": "Tenga temperatura de 100 °C en la superficie permanentemente.",
+          "is_correct": false,
+          "feedback": "La temperatura promedio se mantiene templada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El alto calor específico del agua amortigua las variaciones climáticas térmicas en zonas costeras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle-v20",
+      "statement": "Durante el día en Santa Marta, la tierra se calienta más rápido que el mar porque...",
+      "context": "En una práctica de laboratorio en Colombia sobre brisa marina, Valentina analiza el siguiente fenómeno térmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua marina no absorbe radiación del Sol.",
+          "is_correct": false,
+          "feedback": "El agua absorbe radiación pero sube T más lentamente por su alto c."
+        },
+        {
+          "letter": "B",
+          "text": "La presión sobre el mar es siempre cero.",
+          "is_correct": false,
+          "feedback": "La presión atmosférica es similar en la costa."
+        },
+        {
+          "letter": "C",
+          "text": "La tierra emite luz ultravioleta refractada.",
+          "is_correct": false,
+          "feedback": "La diferencia de calentamiento se debe al calor específico."
+        },
+        {
+          "letter": "D",
+          "text": "La tierra tiene menor calor específico que el agua marina.",
+          "is_correct": true,
+          "feedback": "Al tener menor c, la tierra sube su T más rápido con la radiación solar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El menor calor específico de la tierra provoca mayor elevación de temperatura diurna, generando brisas marinas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

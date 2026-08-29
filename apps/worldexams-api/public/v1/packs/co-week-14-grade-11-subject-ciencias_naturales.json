@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-14-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.178Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define la potencia mecánica ($P$) en términos de trabajo ($W$) y tiempo ($t$)?",
+      "context": "Un ingeniero técnico en Bogotá verifica las especificaciones de un motor eléctrico de elevador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P = \\frac{W}{t}$, medida en Vatios (Watts, $1 \\text{ W} = 1 \\text{ J/s}$).",
+          "is_correct": true,
+          "feedback": "Correcto. La potencia es la rapidez con la que se realiza trabajo o se transfiere energía por unidad de tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "$P = W \\cdot t$, medida en Julios por segundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar trabajo por tiempo no da potencia."
+        },
+        {
+          "letter": "C",
+          "text": "$P = F \\cdot t$, medida en Newtons segundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fuerza por tiempo es el impulso mecánico."
+        },
+        {
+          "letter": "D",
+          "text": "$P = \\frac{m \\cdot v}{t}$, medida en Pascales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa relación no corresponde a la definición de potencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia es la tasa temporal a la que se realiza trabajo: $P = W/t$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula para calcular la eficiencia porcentual de una máquina térmica o mecánica?",
+      "context": "En una fábrica en Medellín se analiza la eficiencia energética ($\ne$) de una bomba hidráulica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\eta = \\left(\\frac{P_{\\text{útil}}}{P_{\\text{total ent.}}}\\right) \\times 100\\%$.",
+          "is_correct": true,
+          "feedback": "Correcto. La eficiencia es el cociente entre la potencia o energía útil obtenida y la potencia o energía total suministrada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\eta = \\left(\\frac{P_{\\text{perdid.}}}{P_{\\text{útil}}}\\right) \\times 100\\%$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relaciona la pérdida con lo útil sin expresar el rendimiento total."
+        },
+        {
+          "letter": "C",
+          "text": "$\\eta = P_{\\text{total}} \\cdot P_{\\text{útil}}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar potencias no genera un número adimensional porcentual."
+        },
+        {
+          "letter": "D",
+          "text": "$\\eta = 100\\% - P_{\\text{útil}}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la definición adimensional de rendimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La eficiencia energética es el porcentaje de energía o potencia suministrada que se convierte en trabajo útil.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué fórmula alternativa expresa la potencia instantánea entregada por el motor?",
+      "context": "Un automóvil en Cali se desplaza a velocidad constante $v$ impulsado por una fuerza de tracción $F$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P = F \\cdot v \\cdot \\cos(\\theta)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Puesto que $W = F \\cdot d$, sustituyendo en $P = W/t$ resulta $P = F \\cdot (d/t) = F \\cdot v$."
+        },
+        {
+          "letter": "B",
+          "text": "$P = F / v$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir fuerza entre velocidad no produce vatios."
+        },
+        {
+          "letter": "C",
+          "text": "$P = m \\cdot a \\cdot t$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No refleja la potencia instantánea a velocidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "$P = \\frac{1}{2} F v^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La potencia es lineal con respecto a la fuerza y la velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que $v = d/t$, la potencia mecánica puede expresarse como $P = F cdot v$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el ciclo termodinámico ideal que establece el límite superior de eficiencia para cualquier máquina térmica?",
+      "context": "En una central termoeléctrica en Barranquilla, se estudia la eficiencia teórica máxima según la Termodinámica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ciclo de Carnot.",
+          "is_correct": true,
+          "feedback": "Correcto. El ciclo de Carnot opera entre dos fuentes térmicas de forma reversible, marcando la máxima eficiencia teórica posible ($eta = 1 - T_C/T_H$)."
+        },
+        {
+          "letter": "B",
+          "text": "Ciclo Krebs.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Krebs es una ruta metabólica bioquímica celular."
+        },
+        {
+          "letter": "C",
+          "text": "Ciclo Otto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el ciclo de motores de combustión interna a gasolina, pero no es el ciclo ideal máximo."
+        },
+        {
+          "letter": "D",
+          "text": "Ciclo de Calvin.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la fase oscura de la fotosíntesis en plantas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teorema de Carnot demuestra que ninguna máquina térmica puede ser más eficiente que una máquina reversible de Carnot entre las mismas temperaturas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la potencia útil desarrollada por el motor del elevador? (Considere $g = 9.8 \\text{ m/s}^2$).",
+      "context": "Un elevador de carga en Tunja levanta una masa de 500 kg a una altura de 12 metros en un tiempo de 10 segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5880 \\text{ Vatios} (5.88 \\text{ kW})$.",
+          "is_correct": true,
+          "feedback": "Correcto. $W = mgh = 500 \\times 9.8 \\times 12 = 58,800 \\text{ J}$. $P = 58,800 / 10 = 5880 \\text{ W}$."
+        },
+        {
+          "letter": "B",
+          "text": "$600 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar la masa por la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "$58,800 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir el trabajo entre el tiempo de 10 segundos."
+        },
+        {
+          "letter": "D",
+          "text": "$4900 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó un valor incorrecto de altura o gravedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P = mgh / t = (500 \times 9.8 \times 12) / 10 = 5880 \text{ W}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el porcentaje de eficiencia energética de este motor y cuánta potencia disipa en forma de calor?",
+      "context": "Un motor consume $10 \\text{ kW}$ de potencia eléctrica para mover una cinta transportadora en Bucaramanga, entregando $7.5 \\text{ kW}$ de potencia mecánica útil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eficiencia del 75% y disipa $2.5 \\text{ kW}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $eta = (7.5 / 10) \times 100% = 75%$. La potencia perdida es $10 - 7.5 = 2.5 \text{ kW}$."
+        },
+        {
+          "letter": "B",
+          "text": "Eficiencia del 25% y disipa $7.5 \\text{ kW}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la potencia útil con la disipada."
+        },
+        {
+          "letter": "C",
+          "text": "Eficiencia del 100% sin disipación térmica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna máquina real carece de pérdidas térmicas."
+        },
+        {
+          "letter": "D",
+          "text": "Eficiencia del 80% y disipa $1.5 \\text{ kW}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división $7.5 / 10$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rendimiento $eta = 7.5/10 = 75%$. Pérdida disipada $= 10 - 7.5 = 2.5 \text{ kW}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué potencia mecánica útil está suministrando el motor del camión en ese tramo?",
+      "context": "Un camión en Manizales asciende por una pendiente aplicando una fuerza constante de $4000 \\text{ N}$ a una velocidad uniforme de $15 \\text{ m/s}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60,000 \\text{ Vatios} (60 \\text{ kW})$.",
+          "is_correct": true,
+          "feedback": "Correcto. $P = F \\cdot v = 4000 \\text{ N} \\times 15 \\text{ m/s} = 60,000 \\text{ W} = 60 \\text{ kW}$."
+        },
+        {
+          "letter": "B",
+          "text": "$266.6 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió fuerza entre velocidad en lugar de multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "$4000 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la velocidad del vehículo."
+        },
+        {
+          "letter": "D",
+          "text": "$600,000 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agregó un cero adicional por error multiplicativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P = F cdot v = 4000 \times 15 = 60,000 \text{ W} = 60 \text{ kW}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué conclusión sobre la eficiencia energética justifica reemplazar el bombillo incandescente por el LED?",
+      "context": "En un taller de electrónica en Armenia, se compara un bombillo LED de $10 \\text{ W}$ con uno incandescente de $60 \\text{ W}$. Ambos producen el mismo flujo luminoso útil ($800 \\text{ lúmenes}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El LED transforma una proporción mucho mayor de energía eléctrica en luz visible, reduciendo el desperdicio en calor.",
+          "is_correct": true,
+          "feedback": "Correcto. Los bombillos incandescentes disipan >90% de la energía como calor, mientras los LED tienen alta eficiencia lumínica."
+        },
+        {
+          "letter": "B",
+          "text": "El bombillo incandescente produce luz fría sin disipar calor al ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los incandescentes se calientan fuertemente debido al filamento de tungsteno."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos bombillos consumen la misma energía por hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El LED consume 10 W frente a los 60 W del incandescente."
+        },
+        {
+          "letter": "D",
+          "text": "El LED requiere un transformador nuclear para encender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Opera con corriente eléctrica estándar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El LED requiere $10 \text{ W}$ para la misma luz que el incandescente de $60 \text{ W}$, disipando mucho menos calor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v9",
+      "statement": "¿Qué potencia útil está desarrollando la bomba? (Considere $g = 10 \\text{ m/s}^2$).",
+      "context": "Una bomba eléctrica de agua en Cartagena extrae $0.05 \\text{ m}^3$ de agua ($50 \\text{ kg}$) por segundo desde un pozo de $20 \\text{ m}$ de profundidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10,000 \\text{ Vatios} (10 \\text{ kW})$.",
+          "is_correct": true,
+          "feedback": "Correcto. Trabajo por segundo $= (m/t) \\cdot g \\cdot h = 50 \\text{ kg/s} \\times 10 \\text{ m/s}^2 \\times 20 \\text{ m} = 10,000 \\text{ W} = 10 \\text{ kW}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1000 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por la aceleración de la gravedad $g=10$."
+        },
+        {
+          "letter": "C",
+          "text": "$500 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó únicamente masa por profundidad."
+        },
+        {
+          "letter": "D",
+          "text": "$200,000 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los factores de escala."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Potencia $= (m/t) cdot g cdot h = 50 \times 10 \times 20 = 10,000 \text{ W} = 10 \text{ kW}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.61,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la eficiencia de conversión fotovoltaica del panel solar?",
+      "context": "Se instala un panel solar fotovoltaico en La Guajira que recibe $1000 \\text{ W/m}^2$ de radiación solar sobre una área de $2 \\text{ m}^2$. El panel genera $400 \\text{ W}$ de potencia eléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20%.",
+          "is_correct": true,
+          "feedback": "Correcto. Potencia incidente total $= 1000 \\text{ W/m}^2 \\times 2 \\text{ m}^2 = 2000 \\text{ W}$. Eficiencia $= (400 / 2000) \\times 100\\% = 20\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "40%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicó la radiación solar por el área total de 2 m²."
+        },
+        {
+          "letter": "C",
+          "text": "50%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó $400 / 800$."
+        },
+        {
+          "letter": "D",
+          "text": "10%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división $400 / 2000$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Potencia recibida $= 2000 \text{ W}$. Eficiencia $= 400 / 2000 = 0.20 = 20%$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.59,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el límite máximo teórico de eficiencia energética ($\ne_{Carnot}$) que puede alcanzar esta máquina?",
+      "context": "Una máquina térmica teórica opera según el ciclo de Carnot entre una fuente caliente a $500 \\text{ K}$ ($227^\\circ\\text{C}$) y un sumidero frío a $300 \\text{ K}$ ($27^\\circ\\text{C}$) en Pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40%.",
+          "is_correct": true,
+          "feedback": "Correcto. $eta_{Carnot} = 1 - \\frac{T_C}{T_H} = 1 - \\frac{300}{500} = 1 - 0.6 = 0.4 = 40\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "60%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó $T_C / T_H$ en lugar de $1 - T_C / T_H$."
+        },
+        {
+          "letter": "C",
+          "text": "88.1%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó las temperaturas en grados Celsius ($27/227$) en lugar de la escala absoluta en Kelvin."
+        },
+        {
+          "letter": "D",
+          "text": "100%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para alcanzar 100% el sumidero frío debería estar al cero absoluto ($0 \text{ K}$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de Carnot $eta = 1 - T_C/T_H = 1 - 300/500 = 0.40 = 40%$. Las temperaturas deben estar obligatoriamente en Kelvin.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.56,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la eficiencia mecánica del plano inclinado?",
+      "context": "En un experimento en Cali, se eleva un bloque usando un plano inclinado de 5 metros de largo hasta una altura de 1 metro. La fuerza paralela aplicada es de 30 N para subir un bloque de 100 N.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "66.7%.",
+          "is_correct": true,
+          "feedback": "Correcto. Trabajo útil $= mgh = 100 \\text{ N} \\times 1 \\text{ m} = 100 \\text{ J}$. Trabajo invertido $= F \\cdot d = 30 \\text{ N} \\times 5 \\text{ m} = 150 \\text{ J}$. Eficiencia $= (100/150) \\times 100\\% = 66.7\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "100%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró la pérdida energética producida por la fricción sobre el plano."
+        },
+        {
+          "letter": "C",
+          "text": "30%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó $30 / 100$."
+        },
+        {
+          "letter": "D",
+          "text": "50%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Errores en la relación entre trabajo útil y trabajo suministrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Trabajo útil $= 100 \text{ J}$. Trabajo aplicado $= 150 \text{ J}$. Eficiencia $= 100/150 = 66.7%$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.53,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v13",
+      "statement": "¿Qué motor realiza más trabajo útil por unidad de combustible y cuál es su eficiencia?",
+      "context": "Un grupo de investigación en Bogotá compara dos motores de automóvil A y B. El motor A disipa $60 \\text{ kJ}$ de calor por cada $100 \\text{ kJ}$ de combustible inyectado. El motor B disipa $75 \\text{ kJ}$ de calor por cada $100 \\text{ kJ}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El motor A es más eficiente con un 40% de rendimiento útil.",
+          "is_correct": true,
+          "feedback": "Correcto. Trabajo útil A $= 100 - 60 = 40 \\text{ kJ} \\Rightarrow 40\\%$. Trabajo útil B $= 100 - 75 = 25 \\text{ kJ} \\Rightarrow 25\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "El motor B es más eficiente con un 75% de rendimiento útil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la energía disipada con la energía útil."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos motores entregan exactamente la misma potencia útil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El motor A disipa menos calor recuperando mayor trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "El motor A tiene un rendimiento del 60%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 60% es la fracción disipada como calor residual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Motor A: Trabajo útil $= 100 - 60 = 40 \text{ kJ} Rightarrow 40%$. Motor B: $25%$. El motor A es superior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la potencia eléctrica final neta disponible entregada a la red de alta tensión?",
+      "context": "Un generador hidroeléctrico en San Carlos (Antioquia) recibe un trabajo hidráulico de $50 \\text{ MJ}$ por segundo. La turbina tiene una eficiencia del 90% y el generador eléctrico acoplado una eficiencia del 95%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$42.75 \\text{ Megavatios} (42.75 \\text{ MW})$.",
+          "is_correct": true,
+          "feedback": "Correcto. Eficiencia global $\\eta_{total} = \\eta_1 \\times \\eta_2 = 0.90 \\times 0.95 = 0.855 (85.5\\%)$. Potencia $= 50 \\text{ MW} \\times 0.855 = 42.75 \\text{ MW}$."
+        },
+        {
+          "letter": "B",
+          "text": "$47.5 \\text{ MW}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No incluyó las pérdidas mecánicas de la turbina hidráulica."
+        },
+        {
+          "letter": "C",
+          "text": "$45.0 \\text{ MW}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No incluyó las pérdidas magnéticas/eléctricas del generador."
+        },
+        {
+          "letter": "D",
+          "text": "$50.0 \\text{ MW}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió 100% de rendimiento en ambas etapas acopladas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En sistemas en serie las eficiencias se multiplican: $eta_{total} = 0.90 \times 0.95 = 0.855$. Potencia $= 50 \times 0.855 = 42.75 \text{ MW}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.46,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v15",
+      "statement": "¿Qué cantidad total de trabajo mecánico realizó el ciclista en ese intervalo de tiempo?",
+      "context": "Un ciclista profesional de 70 kg escala el Alto de Patios en Bogotá manteniendo una potencia constante de 350 W durante 20 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$420,000 \\text{ Julios} (420 \\text{ kJ})$.",
+          "is_correct": true,
+          "feedback": "Correcto. $W = P \\cdot t = 350 \\text{ W} \\times (20 \\times 60 \\text{ s}) = 350 \\times 1200 \\text{ s} = 420,000 \\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$7000 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó 350 por 20 minutos sin convertir el tiempo a segundos."
+        },
+        {
+          "letter": "C",
+          "text": "$17.5 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la potencia entre el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "$24,500 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó el peso del ciclista por el tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$W = P cdot t = 350 \text{ W} \times 1200 \text{ s} = 420,000 \text{ J} = 420 \text{ kJ}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.43,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v16",
+      "statement": "¿Qué porcentaje de la eficiencia máxima teórica de Carnot está logrando la planta geotérmica real?",
+      "context": "En una central geotérmica en Nariño se opera una planta entre un fluido geotérmico a $200^\\circ\\text{C}$ ($473 \\text{ K}$) y aire ambiente a $20^\\circ\\text{C}$ ($293 \\text{ K}$). En la práctica la planta alcanza una eficiencia del 25%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65.7% de la eficiencia de Carnot.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\eta_{Carnot} = 1 - (293/473) = 1 - 0.6195 = 0.3805 (38.05\\%)$. Fracción alcanzada $= 25\\% / 38.05\\% = 65.7\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "25.0% de la eficiencia de Carnot.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la eficiencia neta absoluta con la relación respecto al límite de Carnot."
+        },
+        {
+          "letter": "C",
+          "text": "90.0% de la eficiencia de Carnot.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó temperaturas en Celsius ($20/200$) para Carnot."
+        },
+        {
+          "letter": "D",
+          "text": "100% de la eficiencia de Carnot.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna planta real opera al 100% del límite de Carnot."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$eta_{Carnot} = 38.05%$. La relación real/teórica $= 25 / 38.05 = 65.7%$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.4,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar la eficiencia global del ciclo de vida (desde la extracción del recurso hasta la entrega en red), ¿por qué los aerogeneradores presentan una ventaja de sostenibilidad decisiva?",
+      "context": "Un comité de energía renovable en Colombia evalúa la instalación de parques eólicos en La Guajira frente a plantas térmicas de carbón en Boyacá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la fuente eólica no requiere combustión, evitando pérdidas por entalpía irrecoverable de escape y emisiones de $CO_2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas térmicas están limitadas por el rendimiento de Carnot y la pérdida por gases de combustión, mientras que la energía eólica convierte directamente energía cinética en eléctrica sin degradación térmica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los aerogeneradores violan la Ley de Conservación de la Energía al no disipar calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún dispositivo violará la primera ley de la termodinámica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la combustión del carbón produce un 99% de rendimiento eléctrico sin residuos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eficiencia de plantas de carbón raras veces supera el 35-40%."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el viento viaja a velocidad infinita en las costas colombianas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento posee velocidades finitas sujetas a la física de fluidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conversión directa cinético-eléctrica de los aerogeneradores evita los límites térmicos severos de la combustión de carbón.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.36,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v18",
+      "statement": "Si el cuerpo humano convierte la energía química de los alimentos en trabajo muscular útil con una eficiencia media de sólo 20-25%, ¿qué ocurre con el 75-80% restante de la energía metabólica?",
+      "context": "En un centro de alto rendimiento deportivo en Bogotá, se estudia el metabolismo muscular de atletas evaluando el consumo de oxígeno ($VO_2$) y la potencia producida en ergómetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se disipa como energía térmica (calor corporal), requiriendo mecanismos de sudoración y vasodilatación para mantener la homeostasis.",
+          "is_correct": true,
+          "feedback": "Correcto. La respiración celular y la contracción muscular disipan la mayor parte de la energía como calor no aprovechable mecánicamente."
+        },
+        {
+          "letter": "B",
+          "text": "Se almacena indefinidamente en forma de uranio radioactivo en los huesos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirmación absurda sobre el metabolismo biológico."
+        },
+        {
+          "letter": "C",
+          "text": "Se destruye por completo sin manifestación física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no se destruye, se transforma en energía térmica."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte íntegramente en masa adiposa instantánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía gastada durante el ejercicio no se convierte en grasa, se disipa como calor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bajo rendimiento mecánico de los músculos convierte cerca del 80% del gasto energético en calor corporal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.33,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v19",
+      "statement": "¿Qué impacto tiene esta modificación sobre las pérdidas por efecto Joule ($I^2 R$) y la eficiencia final del motor?",
+      "context": "Un fabricante de motores eléctricos en Cundinamarca propone reemplazar el bobinado de cobre convencional por materiales superconductores de alta temperatura crítica refrigerados por nitrógeno líquido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elimina las pérdidas por resistencia eléctrica ($R = 0$), elevando la eficiencia eléctrica del motor a niveles cercanos al 99%.",
+          "is_correct": true,
+          "feedback": "Correcto. La superconductividad anula la resistencia eléctrica ($R = 0$), suprimiendo la disipación de calor por efecto Joule."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta drásticamente la resistencia eléctrica generando más calor interno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La superconductividad destruye la resistencia, no la incrementa."
+        },
+        {
+          "letter": "C",
+          "text": "Reduce la potencia entregada al 0% debido al congelamiento de la corriente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corriente fluye sin impedimentos en estado superconductor."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el motor en una máquina del tiempo termodinámica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La superconductividad obedece las leyes de la física."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al anular la resistencia $R$, el calentamiento $I^2 R$ desaparece y la eficiencia eléctrica roza el 100%.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.3,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v20",
+      "statement": "Debido a la resistencia interna de la batería, parte de la energía se convierte en calor durante la recarga rápida. ¿Qué estrategia tecnológica minimiza este deterioro de eficiencia?",
+      "context": "Un grupo de científicos evalúa la eficiencia de una batería de iones de litio en un vehículo eléctrico en Medellín durante un ciclo de carga y descarga rápido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Implementar un sistema de gestión térmica activa (chillers) y regular la tasa de corriente según la temperatura del paquete.",
+          "is_correct": true,
+          "feedback": "Correcto. Mantener la batería en su rango óptimo de temperatura evita el aumento excesivo de resistencia interna y previene la degradación."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar el voltaje a valores infinitos sin limitar la corriente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso provocaría una explosión térmica o daño catastrófico."
+        },
+        {
+          "letter": "C",
+          "text": "Remover los electrolitos líquidos dejando las celdas al vacío absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin electrolito no hay conducción iónica entre ánodo y cátodo."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar las celdas de litio por láminas de madera tratada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera es un aislante no electroquímico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gestión térmica activa controla la temperatura interna de la batería, reduciendo pérdidas por resistencia y preservando la eficiencia del ciclo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.26,
+      "bundle_id": "CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

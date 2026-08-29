@@ -49,7 +49,8 @@ export async function prepareSoloExamQuestions(
       grade: request.grade,
       subject: isPreuMode ? null : request.subject,
       threshold: isPreuMode ? 100 : 50,
-      maxQuestions: isPreuMode ? 300 : 200
+      maxQuestions: isPreuMode ? 300 : 200,
+      period: request.examMode === 'period' ? request.period : undefined
     });
 
     if (request.useDiagnostic && request.grade > 3) {
@@ -113,13 +114,15 @@ export async function prepareSoloExamQuestions(
   filtered = applyFilters(filtered, request);
 
   if (filtered.length < request.count && !request.englishDiagnostic) {
+    const searchPages = request.examMode === 'period' ? [1, 2, 3] : [1];
     const expandedPool = await deepSearchPool({
       repository: deps.repository,
       currentPool: pool,
       grade: request.grade,
       subject: request.subject,
       useDiagnostic: Boolean(request.useDiagnostic),
-      pages: [1]
+      pages: searchPages,
+      period: request.examMode === 'period' ? request.period : undefined
     });
 
     pool = expandedPool;

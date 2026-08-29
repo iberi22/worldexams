@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.214Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el área calculada por integración definida?",
+      "context": "Durante una sesión de repaso en Bogotá, Juan evalúa el área bajo la curva de $f(x) = x^3$ en $[0, 2]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^2 x^3 dx = [\\frac{x^4}{4}]_0^2 = \\frac{16}{4} = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir entre 4 al antiderivar $x^3$."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se evaluó $2^4 = 16$ sin integrar."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar la fracción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\int_0^2 x^3 dx = \\left[ \\frac{x^4}{4} \\right]_0^2 = \\frac{16}{4} = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "¿Qué volumen tiene el cono generado?",
+      "context": "En Medellín, Valentina repasa el volumen de revolución al rotar $y = x$ en $[0, 2]$ sobre el eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{8}{3}\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^2 x^2 dx = \\pi [\\frac{x^3}{3}]_0^2 = \\frac{8}{3}\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$8\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividió entre 3."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró $x$ en lugar de $x^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{3}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular $2^3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$V = \\pi \\int_0^2 x^2 dx = \\frac{8}{3}\\pi$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son las coordenadas del punto medio $M$?",
+      "context": "En Cali, Mateo revisa el punto medio del segmento entre $A(-4, 2)$ y $B(6, 8)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 5)$",
+          "is_correct": true,
+          "feedback": "Correcto. $M = (\\frac{-4+6}{2}, \\frac{2+8}{2}) = (1, 5)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la división entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "$(5, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtieron las coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "$(-1, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo errado al sumar $-4+6$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$M = (\\frac{2}{2}, \\frac{10}{2}) = (1, 5)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es su ecuación canónica?",
+      "context": "En Barranquilla, Camila verifica la ecuación del círculo con centro en el origen y radio $r = 6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2 = 36$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + y^2 = 6^2 = 36$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + y^2 = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió elevar el radio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + y^2 = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 en lugar de elevar al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$(x-6)^2 + y^2 = 36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a un centro desplazado en $(6,0)$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$x^2 + y^2 = R^2 = 36$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área encerrada?",
+      "context": "En Cartagena, Santiago halla el área entre las curvas $y = x$ y $y = x^2$ en el intervalo $[0, 1]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^1 (x - x^2) dx = [\\frac{x^2}{2} - \\frac{x^3}{3}]_0^1 = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar fracciones."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde solo a la integral de $x$."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las integrales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\int_0^1 (x - x^2) dx = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son las coordenadas de $P'$?",
+      "context": "En Bucaramanga, Sofia revisa la traslación del punto $P(3, -1)$ según el vector $\\vec{{v}} = (-2, 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $(3+(-2), -1+4) = (1, 3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(-6, -4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron las coordenadas."
+        },
+        {
+          "letter": "C",
+          "text": "$(5, -5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó el vector."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, -3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la ordenada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P' = (3-2, -1+4) = (1, 3)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor del límite?",
+      "context": "En Manizales, Alejandro evalúa el límite de la sucesión $a_n = \\frac{{6n + 1}}{{2n - 3}}$ cuando $n \\to \\infty$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Razón de coeficientes de mayor grado: $\\frac{6}{2} = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó solo el numerador."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los grados son iguales, no es 0."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite es un valor real finito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\\lim \\frac{6n+1}{2n-3} = \\frac{6}{2} = 3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son sus coordenadas polares con $r > 0$?",
+      "context": "En Pereira, Daniela convierte el punto cartesiano $(0, 4)$ a coordenadas polares $(r, \\theta)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(4, \\frac{\\pi}{2})$",
+          "is_correct": true,
+          "feedback": "Correcto. $r = 4$, punto sobre el eje $+y$ $\\implies \\theta = \\frac{\\pi}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al punto $(4,0)$ sobre el eje $+x$."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, \\pi)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al punto $(-4,0)$ sobre el eje $-x$."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, \\frac{\\pi}{2})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Radio incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distancia al origen $r=4$. Ángulo en el eje $y$ positivo es $90^\\circ = \\frac{\\pi}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor de $S_5$?",
+      "context": "En Cúcuta, Nicolas calcula la suma de los primeros 5 términos de la progresión geométrica $1, 2, 4, 8, 16...$",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31",
+          "is_correct": true,
+          "feedback": "Correcto. $S_5 = 1 + 2 + 4 + 8 + 16 = 31$ (fórmula $S_n = \\frac{1(2^5 - 1)}{2 - 1} = 31$)."
+        },
+        {
+          "letter": "B",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. 32 es el sexto término $a_6$."
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma acumulada."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es únicamente el quinto término $a_5$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$S_5 = \\frac{a_1(r^5 - 1)}{r - 1} = \\frac{1(32 - 1)}{1} = 31$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "¿Cuáles son las coordenadas de los focos?",
+      "context": "En Ibagué, Mariana halla los focos de la elipse $\\frac{{x^2}}{{25}} + \\frac{{y^2}}{{16}} = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(\\pm 3, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. $c = \\sqrt{25 - 16} = \\sqrt{9} = 3$. Focos en $(\\pm 3, 0)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, \\pm 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elipse es horizontal, los focos están en el eje $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$(\\pm 9, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sacar la raíz cuadrada a $c^2 = 9$."
+        },
+        {
+          "letter": "D",
+          "text": "$(\\pm 5, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los vértices mayores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$c^2 = a^2 - b^2 = 25 - 16 = 9 \\implies c = 3$. Focos en $(\\pm 3, 0)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor convergente del área?",
+      "context": "En Pasto, Carlos calcula la integral impropia del área bajo $f(x) = \\frac{{1}}{{x^2}}$ en $[1, \\infty)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_1^\\infty x^{-2} dx = [-x^{-1}]_1^\\infty = 0 - (-1) = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una integral impropia convergente a 1."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La superficie acotada es estrictamente positiva."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar el límite superior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\\lim_{b \\to \\infty} \\left[ -\\frac{1}{x} \\right]_1^b = 1.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la distancia exacta?",
+      "context": "En Santa Marta, Gabriela calcula la distancia del punto $P(1, 1)$ a la recta $3x + 4y + 3 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\frac{|3(1) + 4(1) + 3|}{\\sqrt{3^2 + 4^2}} = \\frac{|10|}{5} = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir entre $\\sqrt{A^2+B^2}=5$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma del numerador."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor del denominador solo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$d = \\frac{|3+4+3|}{5} = \\frac{10}{5} = 2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "Usando $x = y/3$, ¿cuál es el volumen del sólido por discos?",
+      "context": "En Villavicencio, Andres rota la recta $y = 3x$ sobre el eje $y$ para $y \\in [0, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\pi",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^3 (y/3)^2 dy = \\frac{\\pi}{9} [\\frac{y^3}{3}]_0^3 = \\frac{\\pi}{9} (9) = \\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "3\\pi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó elevar 3 al cuadrado en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "9\\pi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se rotó sobre el eje $x$."
+        },
+        {
+          "letter": "D",
+          "text": "\\frac{\\pi}{3}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar la fracción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$V = \\pi \\int_0^3 \\frac{y^2}{9} dy = \\frac{\\pi}{9} \\left( \\frac{27}{3} \\right) = \\pi$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la conclusión del análisis de convergencia?",
+      "context": "En Armenia, Isabella comprueba si la serie alternada $\\sum_{{n=1}}^\\infty \\frac{{(-1)^{{n+1}}}}{{n^2}}$ converge absolutamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Converge absolutamente.",
+          "is_correct": true,
+          "feedback": "Correcto. La serie de valores absolutos es $\\sum \\frac{1}{n^2}$, una $p$-serie con $p=2 > 1$, la cual converge."
+        },
+        {
+          "letter": "B",
+          "text": "Converge condicionalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para ser condicional la serie de valores absolutos debería diverger."
+        },
+        {
+          "letter": "C",
+          "text": "Diverge.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es absolutamente convergente."
+        },
+        {
+          "letter": "D",
+          "text": "El criterio de $p$-series no aplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica directamente a los valores absolutos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\\sum |a_n| = \\sum \\frac{1}{n^2} < \\infty \\implies$ convergencia absoluta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el volumen exacto?",
+      "context": "En Neiva, Felipe revisa el volumen de una esfera mediante la rotación de $y = \\sqrt{{4 - x^2}}$ en $[-2, 2]$ sobre el eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{32}{3}\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\frac{4}{3}\\pi (2^3) = \\frac{32}{3}\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor $4/3$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{16}{3}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró solo en el semieje positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$32\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 4 de más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fórmula esférica $V = \\frac{4}{3}\\pi r^3 = \\frac{32}{3}\\pi$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el ángulo de inclinación?",
+      "context": "En Popayán, Lucia evalúa el ángulo entre las rectas $y = x$ y $y = 0$ (eje $x$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan(\\theta) = 1 \\implies \\theta = 45^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "$90^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una recta vertical."
+        },
+        {
+          "letter": "C",
+          "text": "$30^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\tan(30^\\circ) = 1/\\sqrt{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$60^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\tan(60^\\circ) = \\sqrt{3}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pendiente $m=1 \\implies \\theta = \\arctan(1) = 45^\\circ$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "¿Cuántos pétalos tiene esta rosa polar?",
+      "context": "En Montería, Diego evalúa la simetría de la rosa polar $r = 4\\sin(3\\theta)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 pétalos",
+          "is_correct": true,
+          "feedback": "Correcto. Como $n=3$ es impar, el número de pétalos es exactamente $n = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "6 pétalos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6 pétalos tendría si $n=3$ fuera par, pero $n$ es impar."
+        },
+        {
+          "letter": "C",
+          "text": "4 pétalos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a $n=2$."
+        },
+        {
+          "letter": "D",
+          "text": "1 pétalo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un gráfico multilobulado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para $r = a \\sin(n\\theta)$ con $n$ impar, la figura posee exactamente $n$ pétalos (3 pétalos).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la suma exacta $S$?",
+      "context": "En Tunja, Paula compara la suma de la serie geométrica infinitamente decreciente $1 + \\frac{{1}}{{3}} + \\frac{{1}}{{9}} + ...$",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $S = \\frac{1}{1 - 1/3} = \\frac{1}{2/3} = \\frac{3}{2} = 1.5$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió restar $r$ de 1 en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al dividir fracciones."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la suma de los dos primeros términos únicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$S = \\frac{a}{1-r} = \\frac{1}{2/3} = \\frac{3}{2}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor exacto de su excentricidad $e$?",
+      "context": "En Riohacha, Samuel analiza la excentricidad de la parábola $y^2 = 4x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición geométrica, toda parábola tiene excentricidad $e = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0 es la excentricidad de una circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. $e < 1$ corresponde a una elipse."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. $e > 1$ corresponde a una hipérbola."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La excentricidad $e$ de toda parábola es por definición igual a 1.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "¿Qué condición requiere la función $f(x)$ en $[a, b]$ para que este teorema sea aplicable directamente?",
+      "context": "En Florencia, Andrea reflexiona sobre el Teorema Fundamental del Cálculo para evaluar $\\int_a^b f(x) dx = F(b) - F(a)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que $f(x)$ sea continua en el intervalo cerrado $[a, b]$.",
+          "is_correct": true,
+          "feedback": "Correcto. La continuidad de $f$ garantiza la existencia de la antiderivada $F$ y la validez del teorema."
+        },
+        {
+          "letter": "B",
+          "text": "Que $f(x)$ sea siempre positiva en $[a, b]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede tomar valores negativos (el área neta considera signos)."
+        },
+        {
+          "letter": "C",
+          "text": "Que $f(x)$ sea una función polinómica obligatoriamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica a cualquier función continua."
+        },
+        {
+          "letter": "D",
+          "text": "Que los límites de integración $a$ y $b$ sean enteros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $a$ y $b$ pueden ser cualesquiera números reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Teorema Fundamental del Cálculo exige la continuidad de $f(x)$ en $[a,b]$ para asegurar que $F'(x) = f(x)$ exista.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

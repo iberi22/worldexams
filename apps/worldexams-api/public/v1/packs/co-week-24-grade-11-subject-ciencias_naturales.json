@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-24-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.185Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v1",
+      "statement": "A temperatura constante, si el volumen de una muestra de gas ideal se reduce a la mitad, su presión...",
+      "context": "En un análisis experimental en Colombia sobre el tema de ley de boyle, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se duplica.",
+          "is_correct": true,
+          "feedback": "P1·V1 = P2·V2. Si V2 = V1/2, entonces P2 = 2·P1."
+        },
+        {
+          "letter": "B",
+          "text": "Se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "La presión aumenta al comprimir a T constante."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece idéntica.",
+          "is_correct": false,
+          "feedback": "La presión cambia inversamente al volumen."
+        },
+        {
+          "letter": "D",
+          "text": "Cuadruplica su masa.",
+          "is_correct": false,
+          "feedback": "La masa del gas se conserva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley de Boyle establece que a temperatura constante P es inversamente proporcional a V.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v2",
+      "statement": "A presión constante, si la temperatura absoluta de un gas aumenta de 300 K a 600 K, su volumen...",
+      "context": "En un análisis experimental en Colombia sobre el tema de ley de charles, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye a la mitad.",
+          "is_correct": false,
+          "feedback": "Al calentar un gas a P constante se expande."
+        },
+        {
+          "letter": "B",
+          "text": "Se duplica.",
+          "is_correct": true,
+          "feedback": "V1/T1 = V2/T2. Si T se duplica, V también se duplica."
+        },
+        {
+          "letter": "C",
+          "text": "Cae a cero.",
+          "is_correct": false,
+          "feedback": "El volumen no desaparece."
+        },
+        {
+          "letter": "D",
+          "text": "Permanece sin cambios.",
+          "is_correct": false,
+          "feedback": "El volumen aumenta con la temperatura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley de Charles indica que V es directamente proporcional a T en Kelvin a presión constante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v3",
+      "statement": "Calcula el volumen ocupado por 1 mol de gas ideal a 1 atm y 273.15 K (R = 0.0821 L·atm/mol·K).",
+      "context": "En un análisis experimental en Colombia sobre el tema de ecuación de estado pv=nrt, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11.2 Litros",
+          "is_correct": false,
+          "feedback": "22.4 L es el volumen molar estándar."
+        },
+        {
+          "letter": "B",
+          "text": "44.8 Litros",
+          "is_correct": false,
+          "feedback": "Es el volumen de 2 moles."
+        },
+        {
+          "letter": "C",
+          "text": "22.4 Litros",
+          "is_correct": true,
+          "feedback": "V = nRT/P = 1 · 0.0821 · 273.15 / 1 = 22.4 L."
+        },
+        {
+          "letter": "D",
+          "text": "1.0 Litros",
+          "is_correct": false,
+          "feedback": "El cálculo entrega 22.4 L."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mol de cualquier gas ideal en condiciones normales de T y P (CNTP) ocupa aproximadamente 22.4 L.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v4",
+      "statement": "Un contenedor en Bogotá tiene 2 moles de N2 y 3 moles de O2 a una presión total de 5 atm. La presión parcial de N2 es...",
+      "context": "En un análisis experimental en Colombia sobre el tema de presiones parciales de dalton, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 atm",
+          "is_correct": false,
+          "feedback": "3 atm es la presión parcial del O2."
+        },
+        {
+          "letter": "B",
+          "text": "5 atm",
+          "is_correct": false,
+          "feedback": "5 atm es la presión total del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "1 atm",
+          "is_correct": false,
+          "feedback": "La fracción molar de N2 es 0.4."
+        },
+        {
+          "letter": "D",
+          "text": "2 atm",
+          "is_correct": true,
+          "feedback": "P_N2 = X_N2 · P_total = (2/5) · 5 atm = 2 atm."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Ley de Dalton establece que la presión parcial de un gas es su fracción molar por la presión total.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v5",
+      "statement": "Según la teoría cinético-molecular, la temperatura absoluta de un gas es una medida de...",
+      "context": "En un análisis experimental en Colombia sobre el tema de teoría cinético-molecular, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía cinética promedio de sus moléculas.",
+          "is_correct": true,
+          "feedback": "T es directamente proporcional a E_k promedio de las partículas."
+        },
+        {
+          "letter": "B",
+          "text": "El tamaño físico de los átomos.",
+          "is_correct": false,
+          "feedback": "El tamaño atómico es constante."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de protones en el núcleo.",
+          "is_correct": false,
+          "feedback": "No depende del número atómico."
+        },
+        {
+          "letter": "D",
+          "text": "La atracción gravitacional intermolecular.",
+          "is_correct": false,
+          "feedback": "En gases ideales se desprecian las fuerzas intermoleculares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La temperatura refleja la energía cinética media traslacional de las partículas del gas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v6",
+      "statement": "Entre el gas Helio (M = 4 g/mol) y el dióxido de carbono (M = 44 g/mol), ¿cuál efunde más rápido y por qué?",
+      "context": "En un análisis experimental en Colombia sobre el tema de difusión gaseosa y ley de graham, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El CO2, porque es una molécula más pesada.",
+          "is_correct": false,
+          "feedback": "Las moléculas más pesadas se mueven más lentamente."
+        },
+        {
+          "letter": "B",
+          "text": "El Helio, porque tiene menor masa molar.",
+          "is_correct": true,
+          "feedback": "La Ley de Graham establece que la velocidad de efusión es inversamente proporcional a √M."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos difunden a idéntica velocidad.",
+          "is_correct": false,
+          "feedback": "Diferente masa molar implica diferente velocidad media."
+        },
+        {
+          "letter": "D",
+          "text": "El CO2 porque tiene más átomos.",
+          "is_correct": false,
+          "feedback": "La masa molar determina la velocidad de difusión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley de Graham de la efusión indica que gases más livianos difunden más rápidamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v7",
+      "statement": "¿Bajo cuáles condiciones de presión y temperatura un gas real se desvía MÁS del comportamiento ideal?",
+      "context": "En un análisis experimental en Colombia sobre el tema de desviación de idealidad, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Baja presión y alta temperatura.",
+          "is_correct": false,
+          "feedback": "Esas son las condiciones de comportamiento ideal perfecto."
+        },
+        {
+          "letter": "B",
+          "text": "Presión cero y temperatura infinita.",
+          "is_correct": false,
+          "feedback": "Tiende a idealidad pura."
+        },
+        {
+          "letter": "C",
+          "text": "Alta presión y baja temperatura.",
+          "is_correct": true,
+          "feedback": "A alta P y baja T las interacciones moleculares y el volumen propio no son despreciables."
+        },
+        {
+          "letter": "D",
+          "text": "Condiciones normales de 1 atm y 273 K.",
+          "is_correct": false,
+          "feedback": "En CNTP muchos gases se comportan casi idealmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los gases reales se desvían de la idealidad a presiones elevadas y bajas temperaturas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v8",
+      "statement": "Un gas pasa de P1=1 atm, V1=2 L, T1=300 K a P2=2 atm, T2=600 K. ¿Cuál es su nuevo volumen V2?",
+      "context": "En un análisis experimental en Colombia sobre el tema de ley combinada de los gases, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 Litros",
+          "is_correct": false,
+          "feedback": "Al duplicar T y P simultáneamente, el volumen se mantiene en 2 L."
+        },
+        {
+          "letter": "B",
+          "text": "1 Litro",
+          "is_correct": false,
+          "feedback": "El volumen se conserva en 2 L."
+        },
+        {
+          "letter": "C",
+          "text": "0.5 Litros",
+          "is_correct": false,
+          "feedback": "El despeje entrega V2 = 2 L."
+        },
+        {
+          "letter": "D",
+          "text": "2 Litros",
+          "is_correct": true,
+          "feedback": "(P1·V1)/T1 = (P2·V2)/T2 => (1·2)/300 = (2·V2)/600 => V2 = 2 L."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ley combinada (P1·V1)/T1 = (P2·V2)/T2 permite calcular el estado final de un gas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuáles son las unidades de la constante R = 0.0821 en la ecuación PV=nRT?",
+      "context": "En un análisis experimental en Colombia sobre el tema de constante universal r, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L · atm / (mol · K)",
+          "is_correct": true,
+          "feedback": "Son las unidades estándar para P en atm y V en litros."
+        },
+        {
+          "letter": "B",
+          "text": "J / (kg · °C)",
+          "is_correct": false,
+          "feedback": "Esas son unidades de calor específico."
+        },
+        {
+          "letter": "C",
+          "text": "N · m / s",
+          "is_correct": false,
+          "feedback": "Esas son unidades de potencia (Watts)."
+        },
+        {
+          "letter": "D",
+          "text": "g / L",
+          "is_correct": false,
+          "feedback": "Es unidad de densidad de un gas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las unidades de R deben ser coherentes con las magnitudes utilizadas en PV=nRT.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v10",
+      "statement": "Para un gas ideal perfecto, ¿cuál es el valor del factor de compresibilidad Z = PV / (nRT)?",
+      "context": "En un análisis experimental en Colombia sobre el tema de factor de compresibilidad z, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cero",
+          "is_correct": false,
+          "feedback": "Z no es nulo."
+        },
+        {
+          "letter": "B",
+          "text": "Exactamente 1",
+          "is_correct": true,
+          "feedback": "Z = 1 para todo gas ideal bajo cualquier condición."
+        },
+        {
+          "letter": "C",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Z = 1 identifica el comportamiento ideal."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Z es finito e igual a 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El factor de compresibilidad Z cuantifica la desviación de un gas real frente a Z = 1 ideal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v11",
+      "statement": "Al llevar una bolsa de papas sellada desde Cartagena (nivel del mar) a la cima de Monserrate en Bogotá, la bolsa se infla porque...",
+      "context": "En un análisis experimental en Colombia sobre el tema de presión en la cima de monserrate, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura en Bogotá es más alta que en Cartagena.",
+          "is_correct": false,
+          "feedback": "En Bogotá la temperatura es más baja."
+        },
+        {
+          "letter": "B",
+          "text": "El aire dentro de la bolsa se convierte en helio.",
+          "is_correct": false,
+          "feedback": "La composición química no cambia."
+        },
+        {
+          "letter": "C",
+          "text": "La presión atmosférica exterior disminuye y el gas interno se expande.",
+          "is_correct": true,
+          "feedback": "Al bajar P externa, el gas dentro de la bolsa se expande (Ley de Boyle)."
+        },
+        {
+          "letter": "D",
+          "text": "La gravedad en la montaña atrae las moléculas hacia arriba.",
+          "is_correct": false,
+          "feedback": "Es un efecto de diferencia de presión atmosférica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La menor presión barométrica en alturas eleva la diferencia de presión interna expandiendo el empaque flexible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo varía la densidad (d = P·M / R·T) de un gas ideal al aumentar la presión a temperatura constante?",
+      "context": "En un análisis experimental en Colombia sobre el tema de densidad de un gas ideal, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye drásticamente a cero.",
+          "is_correct": false,
+          "feedback": "La densidad se incrementa al comprimir."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece completamente inalterada.",
+          "is_correct": false,
+          "feedback": "La densidad de los gases depende de la presión."
+        },
+        {
+          "letter": "C",
+          "text": "Se vuelve negativa.",
+          "is_correct": false,
+          "feedback": "La densidad es una magnitud siempre positiva."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta proporcionalmente a la presión.",
+          "is_correct": true,
+          "feedback": "Mayor presión empaqueta más moléculas por unidad de volumen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La densidad de un gas ideal es directamente proporcional a su presión y masa molar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v13",
+      "statement": "Una mezcla gaseosa contiene 80% de N2 (28 g/mol) y 20% de O2 (32 g/mol). Su masa molar promedio es...",
+      "context": "En un análisis experimental en Colombia sobre el tema de mezcla de gases y masa molar media, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28.8 g/mol",
+          "is_correct": true,
+          "feedback": "M_prom = (0.80 × 28) + (0.20 × 32) = 22.4 + 6.4 = 28.8 g/mol."
+        },
+        {
+          "letter": "B",
+          "text": "30.0 g/mol",
+          "is_correct": false,
+          "feedback": "Es la media aritmética simple, no la ponderada."
+        },
+        {
+          "letter": "C",
+          "text": "60.0 g/mol",
+          "is_correct": false,
+          "feedback": "Es superior a las masas individuales."
+        },
+        {
+          "letter": "D",
+          "text": "14.0 g/mol",
+          "is_correct": false,
+          "feedback": "Es inferior a ambos componentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La masa molar promedio de una mezcla de gases es la suma ponderada por las fracciones molares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v14",
+      "statement": "Si la presión total de aire húmedo en Cali es 740 mmHg y la presión de vapor de agua es 20 mmHg, la presión de aire seco es...",
+      "context": "En un análisis experimental en Colombia sobre el tema de humedad y presión de vapor del agua, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "760 mmHg",
+          "is_correct": false,
+          "feedback": "Se restan las presiones parciales."
+        },
+        {
+          "letter": "B",
+          "text": "720 mmHg",
+          "is_correct": true,
+          "feedback": "P_seco = P_total - P_H2O = 740 - 20 = 720 mmHg."
+        },
+        {
+          "letter": "C",
+          "text": "740 mmHg",
+          "is_correct": false,
+          "feedback": "El vapor de agua aporta a la presión total."
+        },
+        {
+          "letter": "D",
+          "text": "1480 mmHg",
+          "is_correct": false,
+          "feedback": "No se suman las magnitudes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En mezclas con vapor de agua, la presión parcial del gas seco se calcula restando la presión de vapor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v15",
+      "statement": "La velocidad cuadrática media de las moléculas de un gas ideal depende de...",
+      "context": "En un análisis experimental en Colombia sobre el tema de velocidad cuadrática media (v_rms), Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El volumen del recipiente únicamente.",
+          "is_correct": false,
+          "feedback": "No depende del volumen del recipiente."
+        },
+        {
+          "letter": "B",
+          "text": "La carga eléctrica del núcleo.",
+          "is_correct": false,
+          "feedback": "No depende de interacciones eléctricas en gases ideales."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura absoluta y la masa molar del gas (v_rms = √(3RT/M)).",
+          "is_correct": true,
+          "feedback": "v_rms se incrementa con T y disminuye con masas molares mayores."
+        },
+        {
+          "letter": "D",
+          "text": "El color del recipiente metálico.",
+          "is_correct": false,
+          "feedback": "Propiedad macroscópica sin efecto en cinético-molecular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "v_rms cuantifica la velocidad promedio cuadrática de las partículas en función de T y M.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v16",
+      "statement": "En la ecuación de Van der Waals (P + a n²/V²)(V - n b) = nRT, el parámetro 'a' corrige...",
+      "context": "En un análisis experimental en Colombia sobre el tema de ecuación de van der waals, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El volumen propio ocupado por las moléculas.",
+          "is_correct": false,
+          "feedback": "El parámetro 'b' corrige el volumen molcular excluído."
+        },
+        {
+          "letter": "B",
+          "text": "La carga de los protones libres.",
+          "is_correct": false,
+          "feedback": "No mide carga subatómica."
+        },
+        {
+          "letter": "C",
+          "text": "La masa de los fotones disipados.",
+          "is_correct": false,
+          "feedback": "Es una corrección para gases reales."
+        },
+        {
+          "letter": "D",
+          "text": "Las fuerzas de atracción intermoleculares.",
+          "is_correct": true,
+          "feedback": "El término 'a' ajusta la presión reducida por atraccción intermolecular."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ecuación de Van der Waals corrige la atracción intermolecular (parámetro a) y el volumen molecular (parámetro b).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v17",
+      "statement": "Un manómetro conectado a un tanque de gas en Bucaramanga muestra una altura h = 10 cm Hg sobre la atmosférica (760 mmHg). La P absoluta es...",
+      "context": "En un análisis experimental en Colombia sobre el tema de manometría de tubo abierto, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "770 mmHg",
+          "is_correct": true,
+          "feedback": "P_abs = P_atm + P_man = 760 + 10 = 770 mmHg."
+        },
+        {
+          "letter": "B",
+          "text": "750 mmHg",
+          "is_correct": false,
+          "feedback": "Se suma la presión manométrica positiva."
+        },
+        {
+          "letter": "C",
+          "text": "10 mmHg",
+          "is_correct": false,
+          "feedback": "10 mmHg es la presión manométrica."
+        },
+        {
+          "letter": "D",
+          "text": "760 mmHg",
+          "is_correct": false,
+          "feedback": "La presión absoluta incluye la atmosférica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión absoluta de un fluido es la suma de la presión atmosférica local y la presión manométrica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v18",
+      "statement": "Al comprimir isotérmicamente dióxido de carbono por debajo de su temperatura crítica, el gas...",
+      "context": "En un análisis experimental en Colombia sobre el tema de gas real en condensación, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se convierte en plasma ionizado.",
+          "is_correct": false,
+          "feedback": "El plasma requiere elevadísimas temperaturas."
+        },
+        {
+          "letter": "B",
+          "text": "Se licúa pasando a estado líquido.",
+          "is_correct": true,
+          "feedback": "Por debajo de T_crítica la compresión causa cambio de fase a líquido."
+        },
+        {
+          "letter": "C",
+          "text": "Desaparece sin dejar residuos.",
+          "is_correct": false,
+          "feedback": "La masa se conserva."
+        },
+        {
+          "letter": "D",
+          "text": "Se transforma en luz coherente.",
+          "is_correct": false,
+          "feedback": "No ocurre emisión láser."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por debajo de la temperatura crítica, la compresión de un gas induce su condensación al estado líquido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v19",
+      "statement": "Volúmenes iguales de gases diferentes en las mismas condiciones de T y P contienen...",
+      "context": "En un análisis experimental en Colombia sobre el tema de principio de avogadro, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La misma masa en gramos.",
+          "is_correct": false,
+          "feedback": "Masa depende de la masa molar de cada gas."
+        },
+        {
+          "letter": "B",
+          "text": "La misma densidad en g/L.",
+          "is_correct": false,
+          "feedback": "La densidad difiere según la masa molar."
+        },
+        {
+          "letter": "C",
+          "text": "El mismo número de moléculas.",
+          "is_correct": true,
+          "feedback": "El principio de Avogadro establece que V ∝ n a T y P constantes."
+        },
+        {
+          "letter": "D",
+          "text": "Diferente cantidad de sustancia.",
+          "is_correct": false,
+          "feedback": "Contienen idéntico número de moles y moléculas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El principio de Avogadro relaciona directamente el volumen ocupado con el número de moléculas del gas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle-v20",
+      "statement": "Al expandir un gas real a través de una válvula porosa (estrangulamiento a entalpía constante), el gas...",
+      "context": "En un análisis experimental en Colombia sobre el tema de efecto joule-thomson, Santiago evalúa el siguiente sistema gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantiene su temperatura exactamente invariable en todos los casos.",
+          "is_correct": false,
+          "feedback": "Eso solo ocurriría estrictamente en un gas ideal perfecto."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta su masa molar al triple.",
+          "is_correct": false,
+          "feedback": "La masa molar es una constante de la sustancia."
+        },
+        {
+          "letter": "C",
+          "text": "Se destruye por choque molecular.",
+          "is_correct": false,
+          "feedback": "Las moléculas se conservan."
+        },
+        {
+          "letter": "D",
+          "text": "Se enfría o se calienta según su temperatura de inversión.",
+          "is_correct": true,
+          "feedback": "El efecto Joule-Thomson causa variación de T en gases reales en expansión poródica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El efecto Joule-Thomson describe el cambio de temperatura que experimenta un gas real al expandirse libremente en un proceso isentálpico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -132,11 +132,11 @@ function shuffleArray<T>(array: T[]): T[] {
 
 // ─── Main API Functions ──────────────────────────────────────────────────────
 
-export async function fetchQuestions(grade: number, subject: string, page: number = 1): Promise<AppQuestion[]> {
+export async function fetchQuestions(grade: number, subject: string, page: number = 1, period?: number): Promise<AppQuestion[]> {
   const normalizedSubject = normalizeSubjectKey(subject);
-  const cacheKey = `${grade}-${normalizedSubject}-${page}`;
+  const cacheKey = `${grade}-${normalizedSubject}-${page}-${period || 'all'}`;
   if (questionCache.has(cacheKey)) return questionCache.get(cacheKey)!;
-  const questions = await fetchQuestionsFromPacks(grade, normalizedSubject, page);
+  const questions = await fetchQuestionsFromPacks(grade, normalizedSubject, page, period);
   questionCache.set(cacheKey, questions);
   return questions;
 }
@@ -155,19 +155,16 @@ export async function getAvailableSubjects(grade: number): Promise<string[]> {
   return subjectMap[grade] || subjectMap[11];
 }
 
-export async function fetchAllQuestionsForGrade(grade: number, isGuest: boolean = true, maxQuestions: number = 300): Promise<AppQuestion[]> {
+export async function fetchAllQuestionsForGrade(grade: number, isGuest: boolean = true, maxQuestions: number = 300, period?: number): Promise<AppQuestion[]> {
   const subjects = await getAvailableSubjects(grade);
-  const maxPages = grade === 11
-    ? 1
-    : Math.max(1, Math.min(10, Math.ceil(maxQuestions / 10)));
+  const maxPages = Math.max(1, Math.min(10, Math.ceil(maxQuestions / 10)));
   const results: AppQuestion[][] = [];
 
   for (const subject of subjects) {
     for (let page = 1; page <= maxPages; page++) {
-      const pageQuestions = await fetchQuestionsFromPacks(grade, subject, page);
+      const pageQuestions = await fetchQuestionsFromPacks(grade, subject, page, period);
       if (pageQuestions.length === 0) break;
       results.push(pageQuestions);
-      if (pageQuestions.length < 10) break;
     }
   }
 

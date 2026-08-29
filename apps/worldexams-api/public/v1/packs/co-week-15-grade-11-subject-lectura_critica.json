@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-15-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.192Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué anomalía de rigor informativo presenta la portada descrita?",
+      "context": "En la portada de un diario nacional impreso se publica un titular en grandes caracteres rojos: \"¡CAOS EN LA CAPITAL POR PARO DE TRANSPORTE!\", acompañado por una foto tomada en una estación de autobús abarrotada tres años atrás durante una emergencia diferente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de coincidencia temporal entre la imagen fotográfica de archivo y el hecho noticioso actual.",
+          "is_correct": true,
+          "feedback": "Correcto. Usar fotos de archivo descontextualizadas para ilustrar un hecho presente tergiversa la representación objetiva de la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de tinta roja para imprimir el titular principal del periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color de la tinta es una decisión de diseño tipográfico y no un fallo directo de rigor periodístico."
+        },
+        {
+          "letter": "C",
+          "text": "La inclusión de noticias sobre transporte público en la primera página.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte es un tema de interés público legítimo en las portadas."
+        },
+        {
+          "letter": "D",
+          "text": "La difusión de la prensa en formato físico de papel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El medio físico de publicación es irrelevante para la validez ética del dato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El periodismo riguroso exige correspondencia exacta entre el texto verbal y el registro icónico (fotografías) para no desinformar ni manipular la percepción del lector.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función periodística de la \"Fe de erratas\" en el portal de noticias?",
+      "context": "En una noticia de un portal web sobre la aprobación de una reforma tributaria en el Congreso de la República, se incluye una sección etiquetada como \"Fe de erratas: En la versión previa se afirmó erróneamente que el IVA subiría al 21%. La cifra correcta aprobada es del 19%\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corregir públicamente un error de hecho cometido en una edición anterior para transparentar la información.",
+          "is_correct": true,
+          "feedback": "Correcto. La fe de erratas es un mecanismo deontológico que rectifica equivocaciones cuantitativas o conceptuales."
+        },
+        {
+          "letter": "B",
+          "text": "Ocultar la información real sobre el IVA a los ciudadanos para evitar protestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fe de erratas hace exactamente lo contrario: visibiliza la equivocación para dar el dato verídico."
+        },
+        {
+          "letter": "C",
+          "text": "Cobrar una tarifa adicional a los lectores que deseen conocer el texto corregido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rectificación forma parte del deber informativo y no constituye un cobro comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Cancelar la validez de las leyes aprobadas por el Congreso colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un medio de comunicación rectifica datos pero no legisla ni anula leyes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fe de erratas evidencia el compromiso con la verdad y la transparencia en la labor periodística al enmendar errores fácticos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v3",
+      "statement": "La difusión inmediata del primer mensaje sin verificación previa por parte de los usuarios es un fenómeno típico de:",
+      "context": "Un tuit viral transmitido durante una jornada electoral en Bogotá afirma: \"Atención: Se suspendieron las votaciones en la localidad de Suba por alteración del orden público\". Diez minutos después, la Registraduría Nacional desmiente la información confirmando la normalidad de la jornada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desinformación y propagación de noticias falsas (*fake news*) en redes sociales.",
+          "is_correct": true,
+          "feedback": "Correcto. La réplica impulsiva de rumores no verificados en redes enrarece el clima democrático y genera pánico injustificado."
+        },
+        {
+          "letter": "B",
+          "text": "Periodismo de investigación riguroso y galardonado a nivel internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de verificación contrasta con la investigación periodística académica y profesional."
+        },
+        {
+          "letter": "C",
+          "text": "Comunicación institucional coordinada entre el gobierno y los jurados de votación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje era falso y fue desmentido por la autoridad oficial (Registraduría)."
+        },
+        {
+          "letter": "D",
+          "text": "Educación ciudadana sobre los derechos de participación política.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generar desinformación electoral vulnera el ejercicio libre e informado del voto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ecosistema de redes sociales facilita la viralización de contenidos no contrastados, lo que exige una lectura crítica y verificación antes de compartir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v4",
+      "statement": "El autor respalda su afirmación sobre la economía utilizando como fuente:",
+      "context": "En un artículo de opinión publicado en una revista semanal, el autor escribe: \"Según datos del DANE del último trimestre, la inflación descendió un 0.5% en Colombia, lo que representa una ligera recuperación del poder adquisitivo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una institución oficial de estadística pública (DANE) que aporta datos empíricos contrastables.",
+          "is_correct": true,
+          "feedback": "Correcto. Citar al Departamento Administrativo Nacional de Estadística da solidez probatoria al enunciado."
+        },
+        {
+          "letter": "B",
+          "text": "Una encuesta informal realizada a sus familiares y vecinos más cercanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto cita explícitamente al DANE y no un muestreo informal de allegados."
+        },
+        {
+          "letter": "C",
+          "text": "Una predicción astrólogica publicada en una revista de entretenimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuente señalada es una entidad técnica de estadística del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "Su intuición personal sin recurrir a ninguna cifra cuantitativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor aporta un porcentaje específico (0.5%) atribuidos al organismo oficial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar fuentes institucionales o académicas acreditadas en los textos periodísticos permite evaluar el fundamento empírico de las aseveraciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v5",
+      "statement": "La diferencia entre los encuadres noticiosos de ambos canales demuestra que:",
+      "context": "Dos canales de televisión cubren la misma manifestación ciudadana en Medellín. El Canal A abre su emisión con la frase: \"Vándalos bloquean las vías afectando a trabajadores\". El Canal B inicia diciendo: \"Miles de ciudadanos marchan pacíficamente en defensa de sus derechos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La selección del léxico y el enfoque editorial (*framing*) orientan la interpretación ideológica del hecho noticioso.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de términos como \"Vándalos\" vs. \"Ciudadanos\" muestra cómo los medios encuadran la realidad para sesgar a la audiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Uno de los canales transmitió desde Medellín y el otro desde una ciudad extranjera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos cubren el mismo evento en el mismo lugar; la diferencia radica en el enfoque discursivo."
+        },
+        {
+          "letter": "C",
+          "text": "Las manifestaciones sociales carecen de interés para los televidentes colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hecho de ser la noticia de apertura de ambos canales prueba su alta relevancia pública."
+        },
+        {
+          "letter": "D",
+          "text": "Los periodistas no pueden utilizar adjetivos en la construcción de sus titulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos son utilizados precisamente para aplicar el sesgo o encuadre deseado por el canal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de *framing* o encuadre periodístico revela que los medios no reflejan la realidad de forma neutra, sino que la construyen mediante selecciones del lenguaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v6",
+      "statement": "En un debate sobre el cambio climático, una manifestación típica de la posverdad sería:",
+      "context": "El término \"Posverdad\" fue elegido palabra del año al describir situaciones en las que los hechos objetivos son menos influyentes en la formación de la opinión pública que las apelaciones a las emociones y a las creencias personales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descalificar los informes científicos consensuados argumentando que \"yo siento en mi corazón que el clima no ha cambiado\".",
+          "is_correct": true,
+          "feedback": "Correcto. Anteponer las emociones o corazonadas individuales sobre las evidencias científicas objetivas es la esencia de la posverdad."
+        },
+        {
+          "letter": "B",
+          "text": "Publicar estadísticas detalladas sobre el derretimiento de los glaciares andinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estadísticas empíricas son datos objetivos que se oponen a la lógica de la posverdad."
+        },
+        {
+          "letter": "C",
+          "text": "Organizar un foro académico con físicos y meteorólogos para evaluar el aumento de la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foro experto busca la contrastación rigurosa de hechos y no la manipulación emotiva."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir que los gobiernos reduzcan las emisiones de gases de efecto invernadero mediante leyes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una propuesta de política pública basada en diagnósticos científicos y no en subjetividades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la posverdad implica reconocer cómo las pasiones, creencias previas y visceralidad desplazan a los hechos empíricos contrastables en la esfera pública.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v7",
+      "statement": "Este fenómeno de aislamiento informativo generado por algoritmos de personalización se conoce como:",
+      "context": "En redes sociales, un algoritmo de recomendación muestra a un usuario únicamente publicaciones, noticias y videos que coinciden con su postura política contra una ley ambiental, ocultando cualquier argumento o análisis favorable a la ley.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cámara de eco (*echo chamber*) o burbuja de filtro.",
+          "is_correct": true,
+          "feedback": "Correcto. Los algoritmos refuerzan los prejuicios del usuario mostrándole solo lo que confirma sus ideas previo, aislándolo de visiones diversas."
+        },
+        {
+          "letter": "B",
+          "text": "Pluralismo informativo garantizado por la Constitución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cámara de eco destruye el pluralismo al encerrar al ciudadano en una sola perspectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Biblioteca digital abierta a todas las corrientes de pensamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La burbuja de filtro restringe el acceso a la variedad de fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Auditoría independiente de los medios de comunicación masivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un mecanismo algorítmico automatizado y no un proceso de control ético periodístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las cámaras de eco en plataformas digitales reducen la diversidad del debate democrático al retroalimentar los sesgos cognitivos preexistentes del lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v8",
+      "statement": "El noticiero incurrió en una falla grave de ética periodística al omitir:",
+      "context": "Un noticiero de radio emite una entrevista con un supuesto especialista en economía que afirma que una moneda extranjera colapsará mañana. Tras la emisión, se descubre que el entrevistado era el dueño de una casa de cambio que buscaba comprar divisas baratas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto de intereses del entrevistado y la verificación previa de su idoneidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Ocultar que el entrevistado se beneficia económicamente de sus propias declaraciones manipula a la audiencia en favor de intereses privados."
+        },
+        {
+          "letter": "B",
+          "text": "La musicalización de fondo durante la transmisión de la entrevista radial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La música de fondo es un recurso de producción y no un factor de ética informativa."
+        },
+        {
+          "letter": "C",
+          "text": "La publicación del horóscopo financiero del día para los oyentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La astrología no forma parte de los estándares de verificación periodística."
+        },
+        {
+          "letter": "D",
+          "text": "El cobro de una boleta de entrada a los oyentes por sintonizar la emisora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radio abierta no cobra entradas; el problema central fue la falta de transparencia sobre el conflicto de intereses."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Revelar los conflictos de interés de las fuentes es un principio de transparencia periodística para evitar manipulaciones comerciales o políticas de la opinión pública.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v9",
+      "statement": "La relación entre el titular sensacionalista (*clickbait*) y el cuerpo de la noticia evidencia:",
+      "context": "Un titular periodístico sensacionalista afirma: \"¡Científicos descubren que el consumo de agua causa la muerte!\". Al leer la noticia completa, el texto aclara que ingerir más de 10 litros de agua de forma compulsiva en una hora puede generar intoxicación hídrica grave.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una exageración engañosa diseñada para capturar clics mediante la descontextualización de un dato científico extremo.",
+          "is_correct": true,
+          "feedback": "Correcto. El titulares busca alarmar al lector omitiendo la condición extrema (10 litros en 1 hora) para forzar la lectura del enlace."
+        },
+        {
+          "letter": "B",
+          "text": "Un resumen impecable y fiel de las leyes universales de la biología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El titular sugiere falsamente que beber agua en condiciones normales es letal."
+        },
+        {
+          "letter": "C",
+          "text": "Una campaña de salud pública para promover el desuso total del agua potable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca la salud sino la monetización de clics a costa del pánico infundado."
+        },
+        {
+          "letter": "D",
+          "text": "Una exigencia legal de los motores de búsqueda en internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El *clickbait* es una estrategia comercial sesgada y no un mandato normativo técnico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El *clickbait* o ciberanzuelo distorsiona los titulares mediante la descontextualización para generar curiosidad morbosa o pánico comercializable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v10",
+      "statement": "La omisión de la etiqueta de \"Recreación\" induce al telespectador a:",
+      "context": "En un informe especial sobre la delincuencia juvenil, un programa de televisión utiliza imágenes dramatizadas con actores, pero no coloca en pantalla el letrero aclaratorio de \"Recreación / Actores\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundir una representación ficcional escenificada con un registro documental en vivo de un delito real.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin la aclaración gráfica, la audiencia asume que la cámara registró un hecho delictivo real en tiempo presente."
+        },
+        {
+          "letter": "B",
+          "text": "Apagar inmediatamente el televisor por fallas en la señal de alta definición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de etiqueta induce a error interpretativo sobre la veracidad de las imágenes, no a fallas técnicas."
+        },
+        {
+          "letter": "C",
+          "text": "Exigir que los actores reciban premios de actuación dramática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es informativo y de engaño documental, no de evaluación artística de los actores."
+        },
+        {
+          "letter": "D",
+          "text": "Comprender que todas las noticias de la televisión son caricaturas animadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El televidente tiende a creer en la veracidad del video periodístico si no se le advierte lo contrario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios audiovisuales deben deslindar claramente el material documental auténtico de las recreaciones ficcionales para preservar la honestidad informativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v11",
+      "statement": "Este escenario ilustra el impacto negativo de la concentración de la propiedad de los medios de comunicación sobre:",
+      "context": "Un importante conglomerado económico en Colombia compra el 100% de las acciones de un periódico independiente. Seis meses después, los periodistas que investigaban los delitos ambientales de las empresas de ese mismo conglomerado son despedidos o reasignados a la sección de deportes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La independencia editorial y la libertad de prensa frente a los intereses económicos de los dueños.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando los grupos económicos controlan los medios, tienden a censurar las investigaciones periodísticas que afectan sus finanzas."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento en la velocidad de impresión de los ejemplares de papel del periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El caso analiza la censura e independencia editorial, no la eficiencia técnica de las imprentas."
+        },
+        {
+          "letter": "C",
+          "text": "El interés de los ciudadanos por los resultados de los partidos de fútbol local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reasignación a deportes es una forma de censura indirecta y no una respuesta a la demanda de los lectores."
+        },
+        {
+          "letter": "D",
+          "text": "La disminución de las pautas publicitarias de productos de belleza en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco del problema es el conflicto entre la propiedad del medio y la libertad de investigación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las estructuras de propiedad de los medios es clave para comprender cómo el poder económico puede limitar el derecho a la información libre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué las tecnologías de *deepfake* representan un desafío inédito para la democracia y la verdad en la era digital?",
+      "context": "Un video manipulado mediante Inteligencia Artificial (*deepfake*) muestra a un dirigente político colombiano aceptando un soborno en efectivo. El video se vuelve viral en horas y acumula 5 millones de reproducciones antes de que un equipo de verificación forense demuestre que el rostro y la voz fueron generados digitalmente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fabrican evidencias audiovisuales falsas hiperrealistas que erosionan la confianza pública antes de que sea posible desmentirlas.",
+          "is_correct": true,
+          "feedback": "Correcto. La mentira visual hiperrealista se difunde a mayor velocidad que la verificación, destruyendo reputaciones de forma casi irreparable."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reducen el consumo de energía de las computadoras que procesan imágenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impacto del *deepfake* es político y epistemológico, no de ahorro eléctrico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque obligan a los políticos a tomar cursos obligatorios de actuación cinematográfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La técnica suplanta a la persona real sin su intervención; no es un problema de actuación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque demuestran que las redes sociales son invulnerables a la desinformación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los *deepfakes* prueban exactamente lo contrario: la extrema vulnerabilidad de las redes frente al engaño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de los *deepfakes* exige comprender la fragilidad de la prueba audiovisual contemporánea y la necesidad de desarrollar un pensamiento crítico hiper-verificador.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v13",
+      "statement": "La estructura discursiva de este artículo periodístico viola el principio de:",
+      "context": "Un artículo de prensa sobre una reforma laboral titula: \"Empresarios advierten catástrofe económica por aumento de vacaciones\". En el cuerpo del texto, 15 párrafos citan a líderes de gremios económicos y solo una línea final menciona: \"Los sindicatos consideran justa la medida\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equilibrio informativo y contraste de fuentes, al otorgar un espacio abrumadoramente desigual a una de las partes.",
+          "is_correct": true,
+          "feedback": "Correcto. El equilibrio exige dar representación justa e imparcial a los distintos actores involucrados en el debate."
+        },
+        {
+          "letter": "B",
+          "text": "Brevedad en la redacción de noticias sobre economía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta no es la longitud del texto sino la desproporción en las voces citadas."
+        },
+        {
+          "letter": "C",
+          "text": "Uso obligatorio de gráficos en tercera dimensión para explicar las leyes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una cuestión de diseño gráfico sino de equidad periodística en las fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Publicación de boletines oficiales del Ministerio del Trabajo únicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El medio debe contrastar voces diversas (gremios, trabajadores, estado) de forma equilibrada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desequilibrio en la asignación de espacio y voz a las distintas partes de un debate evidencia un sesgo editorial que favorece a un actor específico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v14",
+      "statement": "El uso persistente de la ironía por parte del columnista busca:",
+      "context": "Un columnista de opinión utiliza constantemente la ironía y el sarcasmo para referirse a los proyectos de ley del gobierno, usando términos como \"las mentes brillantes de la burocracia\" o \"los genios del ahorro público\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ridiculizar la competencia del gobierno mediante el elogio fingido, expresando lo contrario de lo que dice literalmente.",
+          "is_correct": true,
+          "feedback": "Correcto. La ironía antiprástica dice lo contrario de lo que piensa (llamar \"genios\" para tachar de ineptos) con el fin de descalificar."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar su profunda admiración y respeto profesional por los ministros del Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ironía es un recurso humorístico-crítico y no un elogio sincero hacia el gobierno."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar con sencillez pedagógica los trámites de contratación estatal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca la explicación objetiva de trámites sino la burla política sobre la gestión."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar el uso de figuras literarias en los textos periodísticos de opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ironía es una de las figuras retóricas centrales en el periodismo de opinión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis retórico del artículo de opinión requiere identificar el sentido figurado de la ironía, donde el significado pretendido se opone al sentido literal del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v15",
+      "statement": "La asociación persistente entre el político absuelto y las imágenes de archivo con esposas constituye:",
+      "context": "Durante la cobertura de un escándalo financiero, un canal de televisión emite repetidamente imágenes de archivo de un político saliendo de un juzgado con esposas en las manos, a pesar de que la fiscalía acaba de declarar su inocencia absoluta y el cierre del caso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un linchamiento mediático que perpetúa un sesgo de culpabilidad en el espectador en detrimento de la verdad judicial.",
+          "is_correct": true,
+          "feedback": "Correcto. Repetir imágenes incriminatorias del pasado tras la absolución contamina la percepción del espectador y vulnera el derecho a la honra."
+        },
+        {
+          "letter": "B",
+          "text": "Una cobertura objetiva que informa en tiempo real sobre las últimas decisiones de la corte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Emitir imágenes desmentidas contraviene la verdad del fallo de absolución judicial."
+        },
+        {
+          "letter": "C",
+          "text": "Un método pedagógico para enseñar derecho penal a los televidentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición morbosa de imágenes no cumple fines de educación jurídica objetiva."
+        },
+        {
+          "letter": "D",
+          "text": "Una exigencia legal de los abogados defensores del político.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los defensores exigirían la transmisión de la inocencia y no las imágenes incriminatorias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso irresponsable de imágenes de archivo incriminatorias violenta la presunción de inocencia y genera sesgos punitivos irreparables en la audiencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la falacia lógica en la que incurre el autor del blog al evaluar la viabilidad técnica de la carretera?",
+      "context": "En un blog político se afirma: \"Si el periódico X defiende la construcción de la carretera, es únicamente porque sus accionistas tienen constructoras. Por lo tanto, el proyecto de la carretera es técnicamente inviable y destructivo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia *ad hominem* circunstancial, al desacreditar la validez técnica de una obra basándose solo en los intereses de quien la apoya.",
+          "is_correct": true,
+          "feedback": "Correcto. Que los accionistas tengan constructoras exige vigilancia, pero no prueba técnicamente si la carretera está bien o mal diseñada."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia de apelación a la autoridad científica indiscutible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no apela a científicos sino que ataca el interés económico de los accionistas del periódico."
+        },
+        {
+          "letter": "C",
+          "text": "Demostración empírica basada en estudios de suelo y topografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no ofrece ningún estudio topográfico ni dato de ingeniería civil."
+        },
+        {
+          "letter": "D",
+          "text": "Argumentación por analogía entre el transporte terrestre y el aéreo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna analogía entre tipos de transporte en el fragmento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Detectar falacias en el periodismo de opinión implica diferenciar entre la crítica legítima a los conflictos de interés y la descalificación deductiva infundada (*ad hominem*).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v17",
+      "statement": "¿Qué diagnóstico sobre el impacto de las tecnologías de la información sustenta la tesis del ensayista?",
+      "context": "Un ensayista analiza la paradoja de la información en el siglo XXI: \"Nunca antes la humanidad tuvo acceso a tantos datos e información en tiempo real, pero jamás había sido tan difícil construir consensos sociales basados en hechos compartidos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hiperfragmentación de la audiencia en nichos algorítmicos genera realidades paralelas inconciliables que destruyen el debate público común.",
+          "is_correct": true,
+          "feedback": "Correcto. El exceso de información filtrada crea tribus digitales con \"verdades\" propias incompatibles con el consenso democrático."
+        },
+        {
+          "letter": "B",
+          "text": "Las tecnologías de la información han logrado eliminar por completo el analfabetismo en el mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo analiza la dificultad de lograr consensos sociales y no los índices de alfabetización."
+        },
+        {
+          "letter": "C",
+          "text": "El acceso masivo a datos garantiza que todos los ciudadanos piensen de forma idéntica e imparcial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto resalta precisamente el problema opuesto: la fragmentación extrema de la opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Los periódicos de papel son el único medio capaz de conectarse a internet de alta velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación absurda y ajena al diagnóstico filosófico sobre la información digital."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica de los medios contemporáneos examina cómo la superabundancia informativa y la polarización algorítmica debilitan los espacios de consenso democrático.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v18",
+      "statement": "Desde una perspectiva de derechos humanos y democracia liberal, la principal objeción a esta propuesta de ley es que:",
+      "context": "Ante el aumento exponencial de las *fake news*, un proyecto de ley propone que el Estado cree un \"Ministerio de la Verdad\" con facultades para censurar y multar a cualquier medio de comunicación o ciudadano que publique información calificada por el gobierno como \"falsa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Otorga al gobierno de turno el poder autoritario de definir qué es verdad, abriendo la puerta a la censura política y al ahogo de la disidencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Monopolizar la verdad en manos del Estado destruye la libertad de prensa y permite perseguir la crítica bajo el pretexto de \"combatir la falsedad\"."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza la absoluta transparencia en el tratamiento de todas las noticias del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La censura gubernamental ahoga la transparencia y promueve la verdad oficial única."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentará los ingresos económicos de los periodistas independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los periodistas independientes serían los primeros perseguidos o silenciados por el órgano censurado."
+        },
+        {
+          "letter": "D",
+          "text": "Obligará a los ciudadanos a leer únicamente obras literarias de ficción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La objeción central es la amenaza autoritaria a la libertad de expresión y la prensa libre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la regulación de los medios implica ponderar el peligro de las *fake news* frente al riesgo aún mayor de establecer la censura previa por parte del poder político.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v19",
+      "statement": "¿Qué consecuencia cognitiva y crítica deriva de este hábito de consumo de información hiperbreve?",
+      "context": "Un informe sobre consumo de medios en jóvenes revela que el 80% se informa exclusivamente a través de fragmentos de video de 15 segundos en plataformas como TikTok o Instagram Reels, sin consultar los enlaces a los artículos fuente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promueve una comprensión superficial y fragmentaria de problemas complejos, reduciendo la capacidad de análisis contextual.",
+          "is_correct": true,
+          "feedback": "Correcto. Los videos ultra-cortos privilegian el impacto emocional y la brevedad, eliminando los matices y el rigor analítico."
+        },
+        {
+          "letter": "B",
+          "text": "Desarrolla un pensamiento analítico superior comparable al de un graduado de doctorado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad extrema impide el desarrollo del análisis complejo y de la argumentación profunda."
+        },
+        {
+          "letter": "C",
+          "text": "Asegura la erradicación total de cualquier tipo de sesgo discursivo en las redes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los videos breves explotan intensamente los sesgos afectivos para lograr retención."
+        },
+        {
+          "letter": "D",
+          "text": "Facilita la memorización completa de las leyes de la física cuántica en segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una pretensión infundada; los problemas complejos exigen lectura y estudio contextualizado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación de los formatos informativos contemporáneos advierte que la brevedad extrema perjudica la asimilación profunda de la realidad socio-política.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la premisa pedagógica que justifica la alfebatización mediática como la solución más sostenible contra la posverdad?",
+      "context": "Para combatir la desinformación sin recurrir a la censura estatal, varias organizaciones internacionales proponen la incorporación obligatoria de programas de \"Alfabetización Mediática e Informacional\" en la educación secundaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empoderar a los ciudadanos con herramientas críticas de verificación para que puedan evaluar de forma autónoma la veracidad de los mensajes.",
+          "is_correct": true,
+          "feedback": "Correcto. Desarrollar el pensamiento crítico en los lectores crea un \"sistema inmunológico\" frente al engaño y la manipulación informativa."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir el uso de teléfonos inteligentes y computadoras a todos los estudiantes menores de edad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alfabetización mediática ensaya el uso crítico de la tecnología y no su prohibición obsoleta."
+        },
+        {
+          "letter": "C",
+          "text": "Obligar a los estudiantes a memorizar las noticias publicadas por un solo periódico oficial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fomenta el contraste de fuentes diversas y no el adoctrinamiento en una sola voz."
+        },
+        {
+          "letter": "D",
+          "text": "Convertir a todos los bachilleres del país en dueños de canales de televisión privada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es formar audiencias críticas e informadas y no necesariamente empresarios de medios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La alfabetización mediática se consolida como la estrategia democrática óptima para cultivar ciudadanos autónomos capaces de auditar la información que consumen.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W15-medios-comunicacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

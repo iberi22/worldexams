@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-23-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.210Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué figura tridimensional de revolución se genera y cuál es su volumen?",
+      "context": "En Bogotá, Juan rota la recta horizontal $y = 3$ sobre el eje $x$ entre $x=0$ y $x=5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cilindro recto de volumen $45\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^5 3^2 \\, dx = \\pi [9x]_0^5 = 45\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "Un cono recto de volumen $15\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una recta paralela al eje de rotación forma un cilindro."
+        },
+        {
+          "letter": "C",
+          "text": "Un cilindro recto de volumen $15\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió elevar el radio al cuadrado ($3^2=9$)."
+        },
+        {
+          "letter": "D",
+          "text": "Una esfera de volumen $45\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una recta constante no genera una esfera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al rotar la línea constante $y = r$ alrededor del eje $x$ en $[0, h]$, el sólido generado es un cilindro de radio $r=3$ y altura $h=5$, con volumen $V = \\pi r^2 h = 45\\pi$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el volumen del cono resultante?",
+      "context": "Un artesano en Medellín, Valentina, utiliza el método de discos para hallar el volumen al rotar $y = 2x$ en $[0, 2]$ sobre el eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{32}{3}\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^2 (2x)^2 \\, dx = 4\\pi \\int_0^2 x^2 \\, dx = 4\\pi [\\frac{x^3}{3}]_0^2 = \\frac{32}{3}\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$32\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir entre 3 al calcular la antiderivada de $x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$16\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor 4 procedente de $(2x)^2 = 4x^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{16}{3}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar $2^3 = 8$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El radio del disco es $f(x) = 2x$. Elevando al cuadrado: $f(x)^2 = 4x^2$. La integral es $V = \\pi \\int_0^2 4x^2 dx = 4\\pi \\left[ \\frac{8}{3} \\right] = \\frac{32}{3}\\pi$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué volumen tiene la esfera generada?",
+      "context": "En Cali, Mateo calcula el volumen de una esfera de radio $R=3$ haciendo girar $y = \\sqrt{9 - x^2}$ en $[-3, 3]$ alrededor del eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_{-3}^3 (9 - x^2) \\, dx = \\pi [9x - \\frac{x^3}{3}]_{-3}^3 = \\pi (18 - (-18)) = 36\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$18\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó solo el semieje positivo $[0,3]$."
+        },
+        {
+          "letter": "C",
+          "text": "$54\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al multiplicar el radio al cubo."
+        },
+        {
+          "letter": "D",
+          "text": "$27\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor $\\frac{4}{3}$ de la fórmula del volumen esférico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por fórmula: $V = \\frac{4}{3}\\pi R^3 = \\frac{4}{3}\\pi (27) = 36\\pi$. Por integración: $\\pi \\int_{-3}^3 (9 - x^2) dx = 36\\pi$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el volumen del tazón parabólico obtenido?",
+      "context": "En Barranquilla, Camila hace girar la parábola $y = x^2$ en torno al eje $y$ para $y \\in [0, 4]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $x = \\sqrt{y}$, $V = \\pi \\int_0^4 (\\sqrt{y})^2 \\, dy = \\pi \\int_0^4 y \\, dy = \\pi [\\frac{y^2}{2}]_0^4 = 8\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividió por 2 al integrar $y$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{64}{5}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se rotó sobre el eje $x$ en lugar del eje $y$."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sustituir los límites de integración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando $x = \\sqrt{y}$. El volumen respecto al eje $y$ es $\\pi \\int_0^4 (\\sqrt{y})^2 dy = \\pi \\int_0^4 y dy = 8\\pi$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el volumen del sólido de revolución?",
+      "context": "En Cartagena, Santiago calcula el volumen al girar la región comprendida por $y = \\sqrt{x}$ sobre el eje $x$ desde $x=0$ hasta $x=9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{81}{2}\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^9 x \\, dx = \\pi [\\frac{x^2}{2}]_0^9 = \\frac{81}{2}\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$81\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir por 2."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{18}{3}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró $\\sqrt{x}$ sin elevar al cuadrado previamente."
+        },
+        {
+          "letter": "D",
+          "text": "$18\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la potencia de 9."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuadrado del radio es $(\\sqrt{x})^2 = x$. La integral resulta en $\\pi \\int_0^9 x \\, dx = \\frac{81}{2}\\pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el volumen encerrado entre las dos superficies?",
+      "context": "En Bucaramanga, Sofia aplica el método de arandelas a la región limitada por $y = x$ e $y = x^2$ al girar alrededor del eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{15}\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^1 (x^2 - x^4) \\, dx = \\pi (\\frac{1}{3} - \\frac{1}{5}) = \\frac{2}{15}\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{15}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo común de fracciones."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{8}{15}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las funciones cuadráticas en lugar de restarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{30}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó $(x - x^2)^2$ incorrectamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Radio exterior $R(x) = x$, radio interior $r(x) = x^2$. $V = \\pi \\int_0^1 (x^2 - x^4) dx = \\frac{2}{15}\\pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el volumen del sólido de revolución generado?",
+      "context": "En Manizales, Alejandro rota la curva $y = e^x$ en $[0, 1]$ alrededor del eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\pi}{2}(e^2 - 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^1 e^{2x} \\, dx = \\pi [\\frac{e^{2x}}{2}]_0^1 = \\frac{\\pi}{2}(e^2 - 1)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi(e^2 - 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir entre 2 al hacer la sustitución."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi(e - 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se elevó $e^x$ al cuadrado antes de integrar."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\pi}{2} e^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la evaluación en $x=0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integral de $(e^x)^2 = e^{2x}$ es $\\frac{e^{2x}}{2}$. Evaluada entre 0 y 1 da $\\frac{\\pi}{2}(e^2 - 1)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué volumen se obtiene?",
+      "context": "En Pereira, Daniela evalúa el volumen al rotar la recta $y = 2x$ en $[0, 3]$ alrededor del eje $y$ mediante el método de cascarones cilíndricos ($V = 2\\pi \\int x f(x) dx$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = 2\\pi \\int_0^3 x (2x) \\, dx = 4\\pi \\int_0^3 x^2 \\, dx = 4\\pi [\\frac{x^3}{3}]_0^3 = 4\\pi (9) = 36\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$18\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor 2 del método de cascarones."
+        },
+        {
+          "letter": "C",
+          "text": "$54\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la integral cúbica."
+        },
+        {
+          "letter": "D",
+          "text": "$72\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 dos veces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por cascarones cilíndricos: $V = 2\\pi \\int_0^3 x(2x) dx = 4\\pi \\int_0^3 x^2 dx = 4\\pi \\left( \\frac{27}{3} \\right) = 36\\pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el volumen del sólido?",
+      "context": "En Cúcuta, Nicolas gira $y = \\frac{1}{x}$ en $[1, 4]$ alrededor del eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{4}\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_1^4 x^{-2} \\, dx = \\pi [-\\frac{1}{x}]_1^4 = \\pi (1 - \\frac{1}{4}) = \\frac{3}{4}\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi \\ln(4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró $1/x$ sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{4}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó solo el valor en el límite superior."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{4}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó en lugar de restar el valor inferior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El integrando es $(1/x)^2 = x^{-2}$. La antiderivada es $-1/x$. Evaluando entre 1 y 4 obtenemos $\\pi(1 - 1/4) = \\frac{3}{4}\\pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué valor numérico tiene el volumen?",
+      "context": "En Ibagué, Mariana calcula el volumen del sólido al girar $y = x^3$ en $[0, 1]$ sobre el eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\pi}{7}$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^1 (x^3)^2 \\, dx = \\pi \\int_0^1 x^6 \\, dx = \\frac{\\pi}{7}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\pi}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró $x^3$ directamente sin elevarlo al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar el exponente en la antiderivada."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\pi}{14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió entre 2 erróneamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$[f(x)]^2 = (x^3)^2 = x^6$. La integral de $x^6$ en $[0,1]$ da $[\\frac{x^7}{7}]_0^1 = \\frac{1}{7}$, resultando en $\\frac{\\pi}{7}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v11",
+      "statement": "¿Qué volumen tiene el cono de altura 4 y radio 2 obtenido?",
+      "context": "En Pasto, Carlos analiza la rotación del triángulo con vértices $(0,0)$, $(2,0)$ y $(2,4)$ alrededor del eje de la recta $x=2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{16}{3}\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\frac{1}{3}\\pi r^2 h = \\frac{1}{3}\\pi (2^2)(4) = \\frac{16}{3}\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir entre 3 para la fórmula del cono."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{32}{3}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se duplicó el radio del cono."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8}{3}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al elevara al cuadrado el radio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un triángulo rectángulo rotado sobre un cateto forma un cono recto de radio $r=2$ y altura $h=4$. $V = \\frac{1}{3}\\pi r^2 h = \\frac{16}{3}\\pi$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v12",
+      "statement": "Usando $\\sin^2(x) = \\frac{1 - \\cos(2x)}{2}$, ¿cuál es el volumen generado?",
+      "context": "En Santa Marta, Gabriela analiza la región entre $y = \\sin(x)$ y el eje $x$ en $[0, \\pi]$ girada sobre el eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\pi^2}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^{\\pi} \\frac{1-\\cos(2x)}{2} \\, dx = \\frac{\\pi}{2} [x - \\frac{\\sin(2x)}{2}]_0^{\\pi} = \\frac{\\pi^2}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividió entre 2 la constante del integrando."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó el factor de $\\pi$ exterior."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\pi^2}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los límites de integración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$V = \\pi \\int_0^\\pi \\sin^2(x) dx = \\frac{\\pi}{2} \\int_0^\\pi (1 - \\cos(2x)) dx = \\frac{\\pi}{2} [\\pi - 0] = \\frac{\\pi^2}{2}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v13",
+      "statement": "Sabiendo que el radio del círculo es $r=2$ (área $A = 4\\pi$) y el centroide está en $R=4$, ¿cuál es su volumen por el Teorema de Pappus ($V = 2\\pi R A$)?",
+      "context": "En Villavicencio, Andres examina el volumen de un toro (dona) formado al girar un círculo $(x-4)^2 + y^2 = 4$ alrededor del eje $y$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32\\pi^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = 2\\pi (4) (4\\pi) = 32\\pi^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\pi^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor 2 en Pappus."
+        },
+        {
+          "letter": "C",
+          "text": "$64\\pi^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se duplicó el radio de giro."
+        },
+        {
+          "letter": "D",
+          "text": "$32\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar $\\pi$ al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Teorema de Pappus expresa $V = (2\\pi R) \\cdot A = (2\\pi \\cdot 4)(4\\pi) = 32\\pi^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el radio $R(x)$ del disco para aplicar la integral de volumen?",
+      "context": "En Armenia, Isabella rota la región delimitada por $y = x^2$ y la recta $y = 4$ alrededor de la recta $y = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$R(x) = 4 - x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia desde la curva $y=x^2$ al eje de rotación $y=4$ es $4 - x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$R(x) = x^2 - 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio geométrico debe ser un valor no negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$R(x) = x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se tuvo en cuenta que el eje de rotación está desplazado a $y=4$."
+        },
+        {
+          "letter": "D",
+          "text": "$R(x) = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al radio máximo constante, no al perfil variable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al rotar alrededor de una recta horizontal $y = k$, la distancia/radio desde la curva $y=f(x)$ hasta el eje es $R(x) = |k - f(x)| = 4 - x^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el volumen obtenido?",
+      "context": "En Neiva, Felipe compara dos métodos de volumen para la región entre $y=x^2$ y $y=x$ girada sobre el eje $y$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\pi}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. Cascarones: $2\\pi \\int_0^1 x(x - x^2) dx = 2\\pi (\\frac{1}{3} - \\frac{1}{4}) = \\frac{\\pi}{6}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la resta de integrales."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\pi}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la diferencia de fracciones."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2\\pi}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la rotación sobre el eje $x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$V = 2\\pi \\int_0^1 (x^2 - x^3) dx = 2\\pi \\left( \\frac{1}{3} - \\frac{1}{4} \\right) = 2\\pi \\left( \\frac{1}{12} \\right) = \\frac{\\pi}{6}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué este sólido tiene un volumen finito pero una superficie infinita?",
+      "context": "En Popayán, Lucia analiza la Trompeta de Gabriel (rotación de $y = \\frac{1}{x}$ para $x \\ge 1$ sobre el eje $x$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la integral del volumen $\\int x^{-2} dx$ converge, mientras la superficie $\\int x^{-1}\\sqrt{{1+(x^{-2})^2}} dx$ diverge.",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente -2 permite la convergencia del volumen, mientras que -1 causa la divergencia del área superficial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ambas integrales son finitas por definición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La superficie de la Trompeta de Gabriel es estrictamente infinita."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la integral del volumen es indeterminada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen converge exactamente a $\\pi$."
+        },
+        {
+          "letter": "D",
+          "text": "Es una paradoja falsa y la superficie también es finita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un resultado matemáticamente comprobado de integrales impropias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen depende de $\\int_1^\\infty x^{-2} dx = 1$ (finito), mientras la superficie depende de $\\int_1^\\infty \\frac{1}{x} dx = \\infty$ (divergente).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v17",
+      "statement": "¿Es correcto afirmar que el volumen por cascarones es $\\frac{\\pi}{2}$?",
+      "context": "En Montería, Diego evalúa el volumen al rotar $y = 1 - x^2$ en $[0, 1]$ alrededor del eje $y$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque $V = 2\\pi \\int_0^1 x(1 - x^2) dx = 2\\pi (\\frac{1}{2} - \\frac{1}{4}) = \\frac{\\pi}{2}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $2\\pi [\\frac{x^2}{2} - \\frac{x^4}{4}]_0^1 = 2\\pi (\\frac{1}{4}) = \\frac{\\pi}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "No, el volumen es $\\pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó restar la fracción $\\frac{1}{4}$."
+        },
+        {
+          "letter": "C",
+          "text": "No, el volumen es $\\frac{\\pi}{4}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor $2\\pi$ del método."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, pero solo si se usa el método de discos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos métodos válidos entregan exactamente el mismo volumen de $\\frac{\\pi}{2}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por cascarones: $V = 2\\pi \\int_0^1 (x - x^3) dx = 2\\pi \\left( \\frac{1}{2} - \\frac{1}{4} \\right) = \\frac{\\pi}{2}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v18",
+      "statement": "¿Qué proporción del volumen del cilindro representa el volumen de la esfera (Teorema de Arquímedes)?",
+      "context": "En Tunja, Paula analiza la relación entre el volumen de una esfera de radio $R$ y el cilindro que la circunscribe (radio $R$, altura $2R$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $V_{esfera} = \\frac{4}{3}\\pi R^3$, $V_{cilindro} = \\pi R^2 (2R) = 2\\pi R^3$. La razón es $\\frac{4/3}{2} = \\frac{2}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la razón entre una pirámide y un prisma de igual base y altura."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razón invertida incorrectamente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la razón de un cono inscrito en el cilindro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Arquímedes demostró que $V_{esfera} / V_{cilindro} = \\frac{\\frac{4}{3}\\pi R^3}{2\\pi R^3} = \\frac{2}{3}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el integrando correcto al rotar la recta $y = \\frac{R}{H} x$ sobre el eje $x$?",
+      "context": "En Riohacha, Samuel comprueba la consistencia de calcular el volumen de un cono de radio $R$ y altura $H$ por integrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\pi \\left(\\frac{R}{H}\\right)^2 x^2",
+          "is_correct": true,
+          "feedback": "Correcto. $[f(x)]^2 = (\\frac{R}{H} x)^2 = \\frac{R^2}{H^2} x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "\\pi \\frac{R}{H} x^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó elevar la pendiente $\\frac{R}{H}$ al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "\\pi \\frac{R^2}{H} x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los exponentes de la variable y la altura."
+        },
+        {
+          "letter": "D",
+          "text": "2\\pi \\frac{R}{H} x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión entre discos y la fórmula de circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El radio del disco a la distancia $x$ es $y = \\frac{R}{H} x$. La superficie del disco es $\\pi y^2 = \\pi \\frac{R^2}{H^2} x^2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el volumen exacto del sólido?",
+      "context": "En Florencia, Andrea evalúa el sólido generado al girar $y = \\sec(x)$ en $[0, \\frac{\\pi}{4}]$ alrededor del eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\pi",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi \\int_0^{\\pi/4} \\sec^2(x) \\, dx = \\pi [\\tan(x)]_0^{\\pi/4} = \\pi (1 - 0) = \\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "\\frac{\\pi}{2}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asumió que $\\tan(\\pi/4) = 1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "2\\pi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se duplicó el resultado de la integración."
+        },
+        {
+          "letter": "D",
+          "text": "\\pi^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar los límites en la función tangente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $\\sec^2(x)$ es $\\tan(x)$. Evaluando de 0 a $\\pi/4$: $\\pi [\\tan(\\pi/4) - \\tan(0)] = \\pi(1 - 0) = \\pi$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W23-solidos-revolucion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

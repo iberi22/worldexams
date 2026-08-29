@@ -291,12 +291,25 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   const exam = (url.searchParams.get("exam") || "icfes").toLowerCase()
   const subject = normalizeSubjectKey(url.searchParams.get("subject") || "matematicas")
   const page = Math.max(1, parseInt(url.searchParams.get("page") || "1", 10) || 1)
-  const pageSize = 10
+  const pageSize = 20
+  const periodRaw = url.searchParams.get("period")
+  const period = periodRaw ? parseInt(periodRaw, 10) : undefined
+
   const subjectAliases = getSubjectPackAliases(subject)
   const countryPrefixes = getCountryPackPrefixes(country)
-  const weekCandidates = [getCurrentWeek(), 1]
-  const candidates: string[] = []
 
+  let weekCandidates: number[] = [getCurrentWeek(), 1]
+  if (period && period >= 1 && period <= 4) {
+    const periodWeeks: number[] = []
+    const startWeek = (period - 1) * 10 + 1
+    const endWeek = Math.min(40, period * 10)
+    for (let w = startWeek; w <= endWeek; w++) {
+      periodWeeks.push(w)
+    }
+    weekCandidates = Array.from(new Set([...periodWeeks, getCurrentWeek(), 1]))
+  }
+
+  const candidates: string[] = []
   for (const week of weekCandidates) {
     for (const subjectAlias of subjectAliases) {
       for (const prefix of countryPrefixes) {
@@ -306,16 +319,33 @@ async function fetchPublicQuestions(request: Request, env: Env) {
     }
   }
 
-  for (const path of candidates) {
-    const assetResponse = await env.ASSETS.fetch(new Request(new URL(path, url.origin).toString(), {
-      method: "GET",
-      headers: request.headers,
-    }))
-    if (!assetResponse.ok) continue
+  const fetchedQuestions: any[] = []
+  const loadedPaths: string[] = []
 
-    const pack = await assetResponse.json<any>()
-    const allQuestions = Array.isArray(pack?.questions) ? pack.questions : []
-    const normalizedQuestions = allQuestions.map(normalizePackQuestion)
+  for (const path of candidates) {
+    try {
+      const assetResponse = await env.ASSETS.fetch(new Request(new URL(path, url.origin).toString(), {
+        method: "GET",
+        headers: request.headers,
+      }))
+      if (!assetResponse.ok) continue
+
+      const pack = await assetResponse.json<any>()
+      const packQuestions = Array.isArray(pack?.questions) ? pack.questions : []
+      if (packQuestions.length > 0) {
+        fetchedQuestions.push(...packQuestions)
+        loadedPaths.push(path)
+        if (!period) {
+          break
+        }
+      }
+    } catch {
+      continue
+    }
+  }
+
+  if (fetchedQuestions.length > 0) {
+    const normalizedQuestions = fetchedQuestions.map(normalizePackQuestion)
     const deduped = dedupeQuestions(normalizedQuestions)
     const startIndex = (page - 1) * pageSize
     const questions = deduped.questions.slice(startIndex, startIndex + pageSize)
@@ -331,12 +361,12 @@ async function fetchPublicQuestions(request: Request, env: Env) {
       subject,
       page,
       meta: {
-        available_questions: allQuestions.length,
+        available_questions: fetchedQuestions.length,
         deduplicated_questions: deduped.questions.length,
         duplicate_filtered: deduped.duplicateCount,
         filtered_out: deduped.duplicateCount,
         source: "worker-assets",
-        pack_path: path,
+        pack_path: loadedPaths.join(", "),
       },
     }, 200, {
       "Cache-Control": "public, max-age=3600, s-maxage=3600",

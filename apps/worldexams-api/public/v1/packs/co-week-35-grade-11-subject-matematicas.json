@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-35-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.216Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v1",
+      "statement": "Â¿CuÃ¡l es el tÃ©rmino tÃ©cnico utilizado para referirse al valor numÃ©rico calculado a partir de la muestra que se usa para estimar el parÃ¡metro poblacional?",
+      "context": "En un estudio de mercado realizado en BogotÃ¡ sobre una muestra representativa de 400 personas, se estimÃ³ la media de ingresos mensuales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "EstadÃ­stico",
+          "is_correct": true,
+          "feedback": "Un estadÃ­stico o estimador puntual es cualquier medida cuantitativa calculada sobre los datos de una muestra."
+        },
+        {
+          "letter": "B",
+          "text": "ParÃ¡metro",
+          "is_correct": false,
+          "feedback": "Un parÃ¡metro es una propiedad fija de la poblaciÃ³n completa, no de la muestra."
+        },
+        {
+          "letter": "C",
+          "text": "Sesgo",
+          "is_correct": false,
+          "feedback": "El sesgo mide el error sistemÃ¡tico en la estimaciÃ³n, no el valor numÃ©rico en sÃ­."
+        },
+        {
+          "letter": "D",
+          "text": "Varianza poblacional",
+          "is_correct": false,
+          "feedback": "Es un parÃ¡metro especÃ­fico de dispersiÃ³n en la poblaciÃ³n, no el tÃ©rmino general."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los parÃ¡metros resumen caracterÃ­sticas de la poblaciÃ³n completa (desconocidos en general), mientras que los estadÃ­sticos (o estimadores) se calculan a partir de la muestra para aproximar dichos parÃ¡metros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v2",
+      "statement": "Â¿QuÃ© significa que el intervalo de confianza sea del 95%?",
+      "context": "Un analista polÃ­tico calcula un intervalo de confianza del 95% para la proporciÃ³n de votantes a favor de un candidato en MedellÃ­n.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que si se repitiera el muestreo muchas veces, aproximadamente el 95% de los intervalos construidos contendrÃ­an el parÃ¡metro real.",
+          "is_correct": true,
+          "feedback": "El nivel de confianza expresa la frecuencia a largo plazo con que el procedimiento de estimaciÃ³n captura el parÃ¡metro poblacional verdadero."
+        },
+        {
+          "letter": "B",
+          "text": "Que existe un 95% de probabilidad de que el candidato gane la elecciÃ³n.",
+          "is_correct": false,
+          "feedback": "El nivel de confianza describe el mÃ©todo de estimaciÃ³n, no el resultado electoral."
+        },
+        {
+          "letter": "C",
+          "text": "Que el 95% de la poblaciÃ³n votarÃ¡ exactamente por ese candidato.",
+          "is_correct": false,
+          "feedback": "Confunde la proporciÃ³n estimada de votos con el nivel de confianza del intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la muestra contiene al 95% de los votantes de la ciudad.",
+          "is_correct": false,
+          "feedback": "Confunde el tamaÃ±o muestral con el nivel de confianza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un intervalo de confianza al $95%$ garantiza que el mÃ©todo utilizado genera intervalos que contienen el verdadero parÃ¡metro poblacional en el $95%$ de las muestras posibles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v3",
+      "statement": "Â¿CÃ³mo se calcula el error estÃ¡ndar de la media muestral ($sigma_{\\bar{x}}$)?",
+      "context": "En un estudio sobre el rendimiento en matemÃ¡ticas en Cali, se toma una muestra aleatoria de tamaÃ±o $n$ de una poblaciÃ³n con desviaciÃ³n estÃ¡ndar $sigma$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$sigma_{\\bar{x}} = \\frac{sigma}{sqrt{n}}$",
+          "is_correct": true,
+          "feedback": "El error estÃ¡ndar de la media disminuye de forma inversamente proporcional a la raÃ­z cuadrada del tamaÃ±o de la muestra."
+        },
+        {
+          "letter": "B",
+          "text": "$sigma_{\\bar{x}} = \\frac{sigma}{n}$",
+          "is_correct": false,
+          "feedback": "Le falta elevar n a la raÃ­z cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "$sigma_{\\bar{x}} = sigma cdot sqrt{n}$",
+          "is_correct": false,
+          "feedback": "Multiplica en lugar de dividir por la raÃ­z de n."
+        },
+        {
+          "letter": "D",
+          "text": "$sigma_{\\bar{x}} = \\frac{n}{sigma}$",
+          "is_correct": false,
+          "feedback": "Invierte los tÃ©rminos de la fracciÃ³n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el Teorema del LÃ­mite Central, la desviaciÃ³n estÃ¡ndar de la distribuciÃ³n muestral de la media (error estÃ¡ndar) es $sigma_{\\bar{x}} = \\frac{sigma}{sqrt{n}}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v4",
+      "statement": "Â¿QuÃ© efecto produce este aumento del tamaÃ±o de la muestra sobre el margen de error del intervalo de confianza?",
+      "context": "Un investigador aumenta el tamaÃ±o de la muestra de 100 a 400 personas en una encuesta aplicada en Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El margen de error se reduce a la mitad.",
+          "is_correct": true,
+          "feedback": "Como el error estÃ¡ndar depende de 1/sqrt(n), al cuadruplicar n (de 100 a 400), sqrt(400)=20 frente a sqrt(100)=10, se reduce a la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "El margen de error se reduce a la cuarta parte.",
+          "is_correct": false,
+          "feedback": "Olvida que la relaciÃ³n con n es a travÃ©s de la raÃ­z cuadrada y no lineal."
+        },
+        {
+          "letter": "C",
+          "text": "El margen de error se duplica.",
+          "is_correct": false,
+          "feedback": "Confunde la relaciÃ³n; a mayor muestra, menor es el margen de error."
+        },
+        {
+          "letter": "D",
+          "text": "El margen de error permanece exactamente igual.",
+          "is_correct": false,
+          "feedback": "El tamaÃ±o de la muestra influye directamente en la precisiÃ³n del intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al cuadruplicar el tamaÃ±o muestral $n$, el factor $sqrt{n}$ se duplica en el denominador del error estÃ¡ndar, por lo cual el margen de error se reduce exactamente a la mitad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v5",
+      "statement": "Â¿CuÃ¡l es el margen de error $E$ para la estimaciÃ³n de la media poblacional?",
+      "context": "La media muestral de masa corporal en un grupo de 100 estudiantes de Cartagena es $\\bar{x} = 65$ kg, con una desviaciÃ³n estÃ¡ndar conocida de la poblaciÃ³n $sigma = 10$ kg. Para un nivel de confianza del 95%, $Z_{0.025} = 1.96$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.96 kg",
+          "is_correct": true,
+          "feedback": "E = Z * (sigma / sqrt(n)) = 1.96 * (10 / sqrt(100)) = 1.96 * (10 / 10) = 1.96 kg."
+        },
+        {
+          "letter": "B",
+          "text": "19.6 kg",
+          "is_correct": false,
+          "feedback": "Se olvidÃ³ dividir entre sqrt(n) o se multiplicÃ³ por 10 directamente."
+        },
+        {
+          "letter": "C",
+          "text": "0.196 kg",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ dos veces por 10 por error."
+        },
+        {
+          "letter": "D",
+          "text": "3.92 kg",
+          "is_correct": false,
+          "feedback": "Corresponde al ancho total del intervalo de confianza (2 * E) en lugar del margen de error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El margen de error es $E = Z_{alpha/2} \\frac{sigma}{sqrt{n}} = 1.96 cdot \\frac{10}{sqrt{100}} = 1.96 cdot 1 = 1.96$ kg.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v6",
+      "statement": "Â¿CuÃ¡l es el valor estimado de la media muestral $\\bar{x}$ y el margen de error $E$ de este estudio?",
+      "context": "Un intervalo de confianza del 90% para el gasto promedio diario en transporte en Bucaramanga resultÃ³ ser $[12,000; 16,000]$ COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media $\\bar{x} = 14,000$ COP y Margen de error $E = 2,000$ COP",
+          "is_correct": true,
+          "feedback": "Media = (12000 + 16000)/2 = 14000 COP. Margen de error = (16000 - 12000)/2 = 2000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "Media $\\bar{x} = 14,000$ COP y Margen de error $E = 4,000$ COP",
+          "is_correct": false,
+          "feedback": "TomÃ³ el ancho total del intervalo como el margen de error en lugar de la mitad."
+        },
+        {
+          "letter": "C",
+          "text": "Media $\\bar{x} = 12,000$ COP y Margen de error $E = 2,000$ COP",
+          "is_correct": false,
+          "feedback": "TomÃ³ el lÃ­mite inferior como el centro del intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "Media $\\bar{x} = 16,000$ COP y Margen de error $E = 4,000$ COP",
+          "is_correct": false,
+          "feedback": "TomÃ³ el lÃ­mite superior como el centro del intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El centro del intervalo equidistante es la media muestral $\\bar{x} = \\frac{L_{inf} + L_{sup}}{2} = 14,000$ COP, y la semidistancia al lÃ­mite es el margen de error $E = \\frac{16,000 - 12,000}{2} = 2,000$ COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v7",
+      "statement": "Â¿CuÃ¡l es el valor del estimador puntual de la proporciÃ³n poblacional $hat{p}$?",
+      "context": "En una encuesta a 400 ciudadanos de Pereira, 240 afirmaron utilizar bicicleta los fines de semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.60",
+          "is_correct": true,
+          "feedback": "p_hat = x / n = 240 / 400 = 0.60 (o 60%)."
+        },
+        {
+          "letter": "B",
+          "text": "0.40",
+          "is_correct": false,
+          "feedback": "Corresponde a la proporciÃ³n muestral de personas que NO usan bicicleta (160/400)."
+        },
+        {
+          "letter": "C",
+          "text": "0.24",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 240 entre 1000 por error de escala."
+        },
+        {
+          "letter": "D",
+          "text": "1.66",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ el total entre los casos favorables (400/240)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La proporciÃ³n muestral $hat{p}$ se obtiene mediante la razÃ³n entre el nÃºmero de Ã©xitos $x$ y el tamaÃ±o total de la muestra $n$: $hat{p} = \\frac{240}{400} = 0.60$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v8",
+      "statement": "Â¿CÃ³mo se deben plantear las hipÃ³tesis nula ($H_0$) y alternativa ($H_a$)?",
+      "context": "Se quiere realizar una prueba de hipÃ³tesis para verificar si la altura promedio de las plantas en un cultivo en Cundinamarca supera los 50 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$H_0: mu le 50$ cm vs $H_a: mu > 50$ cm",
+          "is_correct": true,
+          "feedback": "La hipÃ³tesis nula contiene la igualdad o la afirmaciÃ³n por defecto, mientras que la alternativa refleja la sospecha o prueba del investigador (mu > 50)."
+        },
+        {
+          "letter": "B",
+          "text": "$H_0: mu > 50$ cm vs $H_a: mu le 50$ cm",
+          "is_correct": false,
+          "feedback": "IntercambiÃ³ los roles de las hipÃ³tesis nula y alternativa."
+        },
+        {
+          "letter": "C",
+          "text": "$H_0: mu = 50$ cm vs $H_a: mu < 50$ cm",
+          "is_correct": false,
+          "feedback": "La alternativa apunta en sentido opuesto a la sospecha planteada en el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "$H_0: \\bar{x} = 50$ cm vs $H_a: \\bar{x} > 50$ cm",
+          "is_correct": false,
+          "feedback": "Las hipÃ³tesis se plantean sobre los parÃ¡metros poblacionales (mu), nunca sobre los estadÃ­sticos muestrales (x_bar)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipÃ³tesis alternativa $H_a$ expresa la condiciÃ³n que el investigador desea probar (en este caso, que la media $mu$ es mayor a 50 cm). $H_0$ incluye el signo de igualdad ($le 50$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v9",
+      "statement": "Â¿CuÃ¡l es la conclusiÃ³n estadÃ­stica correcta respecto a la hipÃ³tesis nula $H_0$?",
+      "context": "En un estudio con nivel de significancia $alpha = 0.05$, un investigador obtiene un $p$-valor igual a 0.02 tras analizar los datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se rechaza la hipÃ³tesis nula $H_0$ porque el $p$-valor es menor que el nivel de significancia $alpha$.",
+          "is_correct": true,
+          "feedback": "Como p-valor (0.02) < alpha (0.05), existe suficiente evidencia estadÃ­stica para rechazar H0."
+        },
+        {
+          "letter": "B",
+          "text": "No se rechaza la hipÃ³tesis nula $H_0$ porque el $p$-valor es mayor que cero.",
+          "is_correct": false,
+          "feedback": "La regla de decisiÃ³n compara el p-valor con alpha, no con cero."
+        },
+        {
+          "letter": "C",
+          "text": "Se acepta definitivamente la hipÃ³tesis nula $H_0$.",
+          "is_correct": false,
+          "feedback": "Un p-valor bajo conduce al rechazo de H0, no a su aceptaciÃ³n."
+        },
+        {
+          "letter": "D",
+          "text": "La prueba no es vÃ¡lida y debe repetirse.",
+          "is_correct": false,
+          "feedback": "Un p-valor menor a alpha es completamente vÃ¡lido y concluyente para rechazar H0."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla de decisiÃ³n estipula que si $p\text{-valor} le alpha$, se rechaza $H_0$ debido a que los datos observados son altamente improbables bajo la suposiciÃ³n de que $H_0$ sea cierta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v10",
+      "statement": "Â¿CuÃ¡l es el valor del error estÃ¡ndar $sigma_{hat{p}} = sqrt{\\frac{hat{p}(1-hat{p})}{n}}$?",
+      "context": "Se calcula el error estÃ¡ndar de la proporciÃ³n muestral en un sondeo con $hat{p} = 0.5$ y $n = 100$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.05",
+          "is_correct": true,
+          "feedback": "sigma_p = sqrt((0.5 * 0.5) / 100) = sqrt(0.25 / 100) = sqrt(0.0025) = 0.05."
+        },
+        {
+          "letter": "B",
+          "text": "0.25",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ dividir por n y extraer la raÃ­z de la fracciÃ³n completa."
+        },
+        {
+          "letter": "C",
+          "text": "0.50",
+          "is_correct": false,
+          "feedback": "Corresponde al valor directo de p_hat."
+        },
+        {
+          "letter": "D",
+          "text": "0.0025",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ extraer la raÃ­z cuadrada final al resultado de la varianza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo en la fÃ³rmula: $sigma_{hat{p}} = sqrt{\\frac{0.5   imes 0.5}{100}} = sqrt{\\frac{0.25}{100}} = sqrt{0.0025} = 0.05$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v11",
+      "statement": "Â¿CuÃ¡l es el tamaÃ±o de muestra mÃ­nimo $n$ requerido para cumplir con esta precisiÃ³n?",
+      "context": "Un fabricante de empaques en Manizales desea estimar la masa media de sus productos con un margen de error mÃ¡ximo de 2 gramos y un nivel de confianza del 95% ($Z = 2$). Se sabe que la desviaciÃ³n estÃ¡ndar poblacional es $sigma = 10$ gramos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "is_correct": true,
+          "feedback": "n = (Z * sigma / E)^2 = (2 * 10 / 2)^2 = (10)^2 = 100."
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ elevar al cuadrado el tÃ©rmino de la ecuaciÃ³n."
+        },
+        {
+          "letter": "C",
+          "text": "400",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ por 4 el resultado correcto."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "CalculÃ³ solo Z * sigma / E sin elevar al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando $n$ de la fÃ³rmula del margen de error $E = Z \\frac{sigma}{sqrt{n}}$ se obtiene $n = left(\\frac{Z cdot sigma}{E}\right)^2 = left(\\frac{2   imes 10}{2}\right)^2 = 10^2 = 100$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v12",
+      "statement": "Si un investigador reduce el nivel de significancia $alpha$ de 0.05 a 0.01, Â¿quÃ© ocurre con las probabilidades de cometer ambos errores?",
+      "context": "En una prueba de hipÃ³tesis, el Error Tipo I consiste en rechazar la hipÃ³tesis nula $H_0$ cuando esta es realmente verdadera, mientras que el Error Tipo II consiste en no rechazar $H_0$ cuando es falsa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye la probabilidad del Error Tipo I ($alpha$) y aumenta la probabilidad del Error Tipo II ($\\beta$).",
+          "is_correct": true,
+          "feedback": "Al hacer la prueba mÃ¡s exigente para rechazar H0 (disminuyendo alpha), es menos probable rechazarla cuando es verdadera, pero aumenta el riesgo de no rechazarla cuando es falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la probabilidad de ambos errores simultÃ¡neamente.",
+          "is_correct": false,
+          "feedback": "La relaciÃ³n entre ambos errores bajo tamaÃ±o muestral fijo es opuesta."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye la probabilidad del Error Tipo II y aumenta el Error Tipo I.",
+          "is_correct": false,
+          "feedback": "Invierte el efecto de reducir alpha."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas probabilidades disminuyen sin cambiar el tamaÃ±o muestral.",
+          "is_correct": false,
+          "feedback": "Para reducir ambos errores simultÃ¡neamente es indispensable aumentar el tamaÃ±o de la muestra n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Manteniendo el tamaÃ±o de muestra constante, existe un compromiso recÃ­proco entre los errores: al reducir la probabilidad $alpha$ (Error Tipo I), se dificulta el rechazo de $H_0$, lo que incrementa $\\beta$ (Error Tipo II).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v13",
+      "statement": "Â¿CuÃ¡l de las siguientes afirmaciones sobre los niveles de confianza de los dos intervalos es correcta?",
+      "context": "Un informe estadÃ­stico presenta dos intervalos de confianza construidos sobre los mismos datos muestrales de salarios en Neiva:\nIntervalo A: $[1,200,000; 1,800,000]$ COP\nIntervalo B: $[1,300,000; 1,700,000]$ COP",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Intervalo A tiene un nivel de confianza MAYOR que el Intervalo B.",
+          "is_correct": true,
+          "feedback": "Un intervalo mÃ¡s ancho ofrece mayor cobertura y por tanto corresponde a un nivel de confianza mÃ¡s elevado."
+        },
+        {
+          "letter": "B",
+          "text": "El Intervalo B tiene un nivel de confianza MAYOR que el Intervalo A.",
+          "is_correct": false,
+          "feedback": "Un intervalo mÃ¡s estrecho reduce la certidumbre de capturar el parÃ¡metro verdadero."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos intervalos tienen exactamente el mismo nivel de confianza.",
+          "is_correct": false,
+          "feedback": "La amplitud del intervalo cambia directamente al modificar el nivel de confianza (Z)."
+        },
+        {
+          "letter": "D",
+          "text": "No es posible comparar sus niveles de confianza con la informaciÃ³n dada.",
+          "is_correct": false,
+          "feedback": "SÃ­ es posible, pues a mayor amplitud corresponde mayor nivel de confianza bajo la misma muestra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para la misma muestra, a mayor amplitud del intervalo de confianza corresponde un valor crÃ­tico $Z$ mÃ¡s alto, y por consiguiente un mayor nivel de confianza. El Intervalo A es mÃ¡s amplio (ancho 600,000 vs 400,000), por lo que posee mayor confianza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v14",
+      "statement": "Â¿QuÃ© decisiÃ³n se debe tomar a un nivel de significancia del 1% ($alpha = 0.01$)?",
+      "context": "Para evaluar si un nuevo mÃ©todo pedagÃ³gico mejora el puntaje en lectura en un colegio de Tunja, se aplica una prueba Z de una cola. El valor Z calculado a partir de los datos es $Z_{calc} = 2.33$, mientras que el valor crÃ­tico para $alpha = 0.01$ es $Z_{crit} = 2.33$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rechazar $H_0$, ya que el estadÃ­stico cae exactamente sobre el lÃ­mite de la regiÃ³n de rechazo.",
+          "is_correct": true,
+          "feedback": "Al alcanzar o superar el valor crÃ­tico (Z_calc >= Z_crit), la evidencia se encuentra en la regiÃ³n de rechazo."
+        },
+        {
+          "letter": "B",
+          "text": "No rechazar $H_0$, porque se requiere estrictamente que sea mayor a 3.0.",
+          "is_correct": false,
+          "feedback": "La regla de rechazo utiliza el valor crÃ­tico Z_crit correspondiente al nivel alpha."
+        },
+        {
+          "letter": "C",
+          "text": "Aceptar $H_0$ concluyendo que el mÃ©todo empeora el desempeÃ±o.",
+          "is_correct": false,
+          "feedback": "El valor positivo indica una mejora muestral en la direcciÃ³n de la hipÃ³tesis alternativa."
+        },
+        {
+          "letter": "D",
+          "text": "Modificar el nivel de significancia a 5% para poder decidir.",
+          "is_correct": false,
+          "feedback": "Se puede decidir directamente con el valor crÃ­tico del 1%."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que $Z_{calc} = 2.33 ge Z_{crit} = 2.33$, el estadÃ­stico de prueba entra en la regiÃ³n crÃ­tica, permitiendo rechazar la hipÃ³tesis nula $H_0$ al nivel $alpha = 0.01$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v15",
+      "statement": "Â¿CuÃ¡l es el intervalo de confianza del 95% para la proporciÃ³n poblacional de deportistas?",
+      "context": "Un estudio estima que la proporciÃ³n de estudiantes que practican deporte en Armenia es $hat{p} = 0.40$ con un margen de error del $5%$ ($E = 0.05$) al $95%$ de confianza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[0.35, 0.45]$",
+          "is_correct": true,
+          "feedback": "IC = [p_hat - E, p_hat + E] = [0.40 - 0.05, 0.40 + 0.05] = [0.35, 0.45]."
+        },
+        {
+          "letter": "B",
+          "text": "$[0.30, 0.50]$",
+          "is_correct": false,
+          "feedback": "Se restÃ³ y sumÃ³ el doble del margen de error (0.10)."
+        },
+        {
+          "letter": "C",
+          "text": "$[0.40, 0.45]$",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ restar el margen de error para obtener el lÃ­mite inferior."
+        },
+        {
+          "letter": "D",
+          "text": "$[0.90, 1.00]$",
+          "is_correct": false,
+          "feedback": "ConfundiÃ³ la proporciÃ³n muestral con el nivel de confianza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El intervalo de confianza se construye como $hat{p} pm E = 0.40 pm 0.05 = [0.35, 0.45]$, o en porcentaje $[35%, 45%]$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v16",
+      "statement": "Â¿CuÃ¡l es el valor del estadÃ­stico de prueba $Z = \\frac{hat{p} - p_0}{sqrt{\\frac{p_0(1-p_0)}{n}}}$ bajo la hipÃ³tesis nula de moneda justa ($p_0 = 0.5$)?",
+      "context": "Se prueba una moneda para verificar si estÃ¡ sesgada hacia la cara. Se lanza 100 veces y se obtienen 60 caras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.0",
+          "is_correct": true,
+          "feedback": "p_hat = 60/100 = 0.6. Z = (0.6 - 0.5) / sqrt((0.5*0.5)/100) = 0.1 / sqrt(0.0025) = 0.1 / 0.05 = 2.0."
+        },
+        {
+          "letter": "B",
+          "text": "1.0",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 0.1 entre 0.1 por error."
+        },
+        {
+          "letter": "C",
+          "text": "4.0",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ extraer la raÃ­z cuadrada del denominador."
+        },
+        {
+          "letter": "D",
+          "text": "0.2",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 0.1 por 2 en lugar de dividir entre el error estÃ¡ndar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$hat{p} = 0.60, p_0 = 0.50, n = 100$.\nError estÃ¡ndar $= sqrt{\\frac{0.5   imes 0.5}{100}} = 0.05$.\n$Z = \\frac{0.60 - 0.50}{0.05} = \\frac{0.10}{0.05} = 2.0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v17",
+      "statement": "Â¿CuÃ¡l es el valor de $Z_{calc}$ y la conclusiÃ³n adecuada con $alpha = 0.05$ ($Z_{crit} = -1.645$)?",
+      "context": "Un laboratorio farmacÃ©utico en BogotÃ¡ afirma que un nuevo analgÃ©sico reduce el tiempo de alivio a menos de 20 minutos en promedio. Una muestra de 36 pacientes arrojÃ³ una media de $\\bar{x} = 18$ minutos con desviaciÃ³n estÃ¡ndar poblacional $sigma = 6$ minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$Z_{calc} = -2.00$; se RECHAZA $H_0$, respaldando la afirmaciÃ³n del laboratorio.",
+          "is_correct": true,
+          "feedback": "Z = (18 - 20) / (6 / sqrt(36)) = -2 / (6 / 6) = -2 / 1 = -2.00. Como -2.00 < -1.645, cae en la regiÃ³n de rechazo."
+        },
+        {
+          "letter": "B",
+          "text": "$Z_{calc} = -0.33$; NO se rechaza $H_0$, descartando la eficacia.",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ multiplicar el denominador por sqrt(36)."
+        },
+        {
+          "letter": "C",
+          "text": "$Z_{calc} = 2.00$; se rechaza $H_0$ por ser una prueba bilateral Ãºnicamente.",
+          "is_correct": false,
+          "feedback": "ConfundiÃ³ el signo de la diferencia (18 - 20 es negativo)."
+        },
+        {
+          "letter": "D",
+          "text": "$Z_{calc} = -1.20$; la muestra es insuficiente para concluir.",
+          "is_correct": false,
+          "feedback": "CalculÃ³ incorrectamente el error estÃ¡ndar dividiendo 6 entre 5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$H_0: mu ge 20$ vs $H_a: mu < 20$.\n$Z_{calc} = \\frac{18 - 20}{6/sqrt{36}} = \\frac{-2}{1} = -2.00$.\nDado que $-2.00 < -1.645$, se rechaza $H_0$ a un nivel de significancia del 5%, concluyendo que el tiempo de alivio es significativamente menor a 20 minutos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v18",
+      "statement": "Â¿CuÃ¡l es el tamaÃ±o de muestra $n$ mÃ¡s conservador (peor escenario probabilÃ­stico) que debe seleccionar?",
+      "context": "Un politÃ³logo en MedellÃ­n desea estimar una proporciÃ³n con un margen de error mÃ¡ximo de $3%$ ($E = 0.03$) y $95%$ de confianza ($Z = 1.96$). No dispone de estudios previos sobre el valor de $p$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1068",
+          "is_correct": true,
+          "feedback": "Cuando p es desconocido, se usa p = 0.5 para maximizar la varianza: n = (1.96^2 * 0.5 * 0.5) / (0.03^2) = (3.8416 * 0.25) / 0.0009 = 0.9604 / 0.0009 = 1067.11 -> redondeando hacia arriba n = 1068."
+        },
+        {
+          "letter": "B",
+          "text": "534",
+          "is_correct": false,
+          "feedback": "UsÃ³ p = 0.25 en lugar de maximizar el producto p*(1-p) = 0.25."
+        },
+        {
+          "letter": "C",
+          "text": "267",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ elevar el margen de error E al cuadrado en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "400",
+          "is_correct": false,
+          "feedback": "Valor predeterminado genÃ©rico no relacionado con el cÃ¡lculo formal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En ausencia de informaciÃ³n previa, se asume $p = 0.5$ para obtener el tamaÃ±o muestral mÃ¡ximo de seguridad:\n$n = \\frac{Z^2 cdot p(1-p)}{E^2} = \\frac{(1.96)^2 cdot (0.5)(0.5)}{(0.03)^2} = \\frac{3.8416 cdot 0.25}{0.0009} approx 1067.11$.\nSe redondea siempre al siguiente entero superior: $n = 1068$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v19",
+      "statement": "Â¿CÃ³mo se comparan los mÃ¡rgenes de error $E_A$ y $E_B$ de ambas firmas al mismo nivel de confianza?",
+      "context": "Dos firmas encuestadoras miden el porcentaje de aprobaciÃ³n de una obra de infraestructura en Cali:\nFirmas A: $n_A = 100$, $hat{p}_A = 0.60$\nFirmas B: $n_B = 400$, $hat{p}_B = 0.60$",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$E_A = 2 cdot E_B$",
+          "is_correct": true,
+          "feedback": "Como E es proporcional a 1/sqrt(n), E_A / E_B = sqrt(400) / sqrt(100) = 20 / 10 = 2. El margen de la firma A es el doble que el de B."
+        },
+        {
+          "letter": "B",
+          "text": "$E_A = 4 cdot E_B$",
+          "is_correct": false,
+          "feedback": "No aplicÃ³ la raÃ­z cuadrada a la razÃ³n entre los tamaÃ±os muestrales (400/100 = 4)."
+        },
+        {
+          "letter": "C",
+          "text": "$E_A = E_B$",
+          "is_correct": false,
+          "feedback": "AsumiÃ³ errÃ³neamente que tener la misma proporciÃ³n muestral p_hat implica igual margen de error."
+        },
+        {
+          "letter": "D",
+          "text": "$E_A = 0.5 cdot E_B$",
+          "is_correct": false,
+          "feedback": "InvirtiÃ³ la relaciÃ³n; la muestra mÃ¡s pequeÃ±a (A) produce un margen de error mayor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que $E propto \\frac{1}{sqrt{n}}$, se cumple $\\frac{E_A}{E_B} = sqrt{\\frac{n_B}{n_A}} = sqrt{\\frac{400}{100}} = sqrt{4} = 2$. AsÃ­, $E_A = 2 E_B$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v20",
+      "statement": "Â¿CuÃ¡l es la conclusiÃ³n de la prueba de hipÃ³tesis bilateral equivalente a un nivel de significancia $alpha = 0.05$?",
+      "context": "Un auditor evalÃºa si el saldo promedio de cuentas por cobrar en un banco de Cartagena difiere de 5,000,000 COP ($H_0: mu = 5,000,000$). Tras analizar una muestra, construye un intervalo de confianza del 95%: $[5,100,000; 5,800,000]$ COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se RECHAZA $H_0$, porque el valor nulo de 5,000,000 COP no se encuentra contenido dentro del intervalo de confianza del 95%.",
+          "is_correct": true,
+          "feedback": "Si el valor hipotÃ©tico bajo H0 no cae dentro del intervalo de confianza del (1 - alpha), se rechaza H0 al nivel alpha."
+        },
+        {
+          "letter": "B",
+          "text": "No se rechaza $H_0$, porque el intervalo contiene Ãºnicamente valores positivos.",
+          "is_correct": false,
+          "feedback": "La regla de equivalencia evalÃºa si el valor puntual especificado en H0 pertenece al intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "Se acepta $H_0$, concluyendo que la media poblacional es exactamente 5,000,000 COP.",
+          "is_correct": false,
+          "feedback": "Como el valor 5,000,000 estÃ¡ fuera del intervalo, la evidencia estÃ¡ en contra de H0."
+        },
+        {
+          "letter": "D",
+          "text": "La prueba no es concluyente sin calcular directamente el $p$-valor.",
+          "is_correct": false,
+          "feedback": "Existe una equivalencia lÃ³gica completa entre intervalos de confianza y pruebas bilaterales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cualquier valor hipotÃ©tico $mu_0$ que quede fuera del intervalo de confianza del $(1-alpha)%$ serÃ¡ rechazado por una prueba de hipÃ³tesis bilateral al nivel de significancia $alpha$. Como $5,000,000\notin [5,100,000; 5,800,000]$, se rechaza $H_0$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

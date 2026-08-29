@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-31-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.200Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones sintetiza la postura de un autor que critica el tecnocentrismo moderno?",
+      "context": "Simulacro Saber 11: Identificación de la tesis en un texto filosófico complejo (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El progreso tecnológico desprovisto de regulación ética reduce la dignidad humana y degrada el medio ambiente.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sintetiza la tesis central del ensayo sobre los riesgos de la técnica desenfrenada sin dirección moral."
+        },
+        {
+          "letter": "B",
+          "text": "Las máquinas y los computadores deben ser venerados como las nuevas divinidades supremas del universo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque representa la postura fetichista hacia la tecnología que el texto precisamente combate."
+        },
+        {
+          "letter": "C",
+          "text": "La humanidad debe suspender la enseñanza de las matemáticas y la física en todas las escuelas del planeta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el ensayo busca una tecnología humanizada y ética, no la destrucción de la ciencia."
+        },
+        {
+          "letter": "D",
+          "text": "La tecnología es un fenómeno idéntico al desarrollo de las artes plásticas durante el Renacimiento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque equipara confusamente la técnica moderna con los movimientos estéticos de la historia del arte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Determinar la tesis en textos filosóficos exige destilar la afirmación debatible que sostiene la totalidad de la argumentación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v2",
+      "statement": "¿Qué falla lógica presenta un argumento que sostiene que 'la baja de impuestos a los más ricos siempre beneficia a los pobres mediante el derrame económico'?",
+      "context": "Simulacro Saber 11: Evaluación de la validez de las premisas en un debate económico (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asume como una verdad inmutable una hipótesis discutible que carece de evidencia empírica universal que la respalde.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la teoría del derrame económico (trickle-down) es una hipótesis ideológica no respaldada unánimemente por los datos."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra mediante leyes matemáticas incontrovertibles que la pobreza desaparecerá en 24 horas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la economía no posee leyes absolutas de resolución instantánea de la pobreza."
+        },
+        {
+          "letter": "C",
+          "text": "Es una verdad incontrovertible aceptada por todos los economistas de todas las escuelas del mundo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque existen múltiples corrientes económicas (como el keynesianismo) que refutan esa premisa."
+        },
+        {
+          "letter": "D",
+          "text": "Incurre en una falacia de acusación popular al insultar a los trabajadores del sector industrial.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la falla es de sustento empírico de la premisa y no un ataque ad hominem a los obreros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la validez de las premisas requiere contrastar las afirmaciones teóricas con la evidencia empírica y los datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la intención principal de un articulista al exponer las contradicciones entre los discursos electorales y las votaciones reales en el Congreso?",
+      "context": "Simulacro Saber 11: Análisis del propósito comunicativo en un texto argumentativo-periodístico (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desenmascarar la incoherencia de los legisladores y promover el voto informado y crítico entre los ciudadanos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la crítica periodística busca ejercer control social y fortalecer la autonomía crítica del electorado."
+        },
+        {
+          "letter": "B",
+          "text": "Vender un curso de oratoria y dicción para los políticos que cometen errores de pronunciación en público.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el objetivo es de denuncia política e investigación y no un negocio de asesoría de imagen."
+        },
+        {
+          "letter": "C",
+          "text": "Convencer a la población de que las elecciones presidenciales deben ser suspendidas indefinidamente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el periodismo democrático defiende el sistema electoral promoviendo su transparencia y no su abolición."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que la política es un tema divertido para reírse durante los programas de televisión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aborda la gravedad de la representación política y no un espectáculo cómico de entretenimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el propósito comunicativo en editoriales de prensa implica reconocer la función de fiscalización del poder.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v4",
+      "statement": "¿Qué idea no declarada sostiene el argumento 'debemos prohibir los videojuegos porque aumentan la agresión juvenil'?",
+      "context": "Simulacro Saber 11: Detección de supuestos e ideas implícitas (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El supuesto de que existe una relación causa-efecto directa y lineal entre el consumo de ficción interactiva y la conducta real.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el argumento asume implícitamente que la exposición a pantallas determina de forma inevitable la violencia en el mundo real."
+        },
+        {
+          "letter": "B",
+          "text": "La certeza de que todos los jóvenes del país juegan videojuegos durante 24 horas al día sin comer.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque generaliza exageradamente la dedicación de los jóvenes sin analizar la premisa de causalidad."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación de que los creadores de videojuegos son personas que carecen de conocimientos de computación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el desarrollo de videojuegos exige altísimos conocimientos de programación e ingeniería de software."
+        },
+        {
+          "letter": "D",
+          "text": "El presupuesto de que la violencia social en Colombia nació con la invención de las consolas digitales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desconoce las causas históricas, sociales y políticas de la violencia real del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las presuposiciones ocultas en la argumentación es vital para cuestionar afirmaciones deterministas simplistas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v5",
+      "statement": "¿Qué cambio de sentido se produce si se sustituye el conector 'sin embargo' por 'por consiguiente' en un párrafo?",
+      "context": "Simulacro Saber 11: Cohesión sintáctica y función de los conectores adversativos (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se transforma una relación de oposición o contraste en una relación de consecuencia o deducción lógica.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'sin embargo' expresa contraste o salvedad, mientras que 'por consiguiente' expresa un resultado deductivo."
+        },
+        {
+          "letter": "B",
+          "text": "Se corrige un error de ortografía que impedía la lectura del texto por parte del sistema ICFES.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambos conectores son normativos en la sintaxis española y no constituyen erratas."
+        },
+        {
+          "letter": "C",
+          "text": "El texto se convierte automáticamente en un poema de amor escrito en versos de arte mayor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cambio de un enlace sintáctico no altera la naturaleza genérica de un escrito expositivo a uno poético."
+        },
+        {
+          "letter": "D",
+          "text": "No se produce ningún cambio de sentido porque ambos conectores son sinónimos perfectos intercambiables.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque alterar un conector adversativo por uno consecutivo modifica de forma radical la lógica del enunciado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores articulan las relaciones lógicas de la oración; cambiarlos altera la dirección argumentativa del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v6",
+      "statement": "¿En qué coinciden y en qué difieren el Autor A (empresarial) y el Autor B (sindical) sobre la jornada de trabajo?",
+      "context": "Simulacro Saber 11: Comparación de posturas contrapuestas en dos textos sobre la reforma laboral (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos coinciden en que la productividad es clave, pero A defiende la flexibilización horaria y B exige recargos nocturnos garantizados.",
+          "is_correct": true,
+          "feedback": "Es correcta porque identifica con precisión el punto de encuentro conceptual (productividad) y la discrepancia sobre derechos y costos."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos coinciden en que las empresas deben cerrar en todo el país y los trabajadores deben quedarse en casa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye posturas disparatadas que no representan las teorías económicas de la flexibilización o la protección laboral."
+        },
+        {
+          "letter": "C",
+          "text": "El Autor A sostiene que los trabajadores no deben recibir salario y el Autor B dice que el dinero no existe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque plantea posiciones absurdas que desvirtúan el debate sobre el salario y los costos laborales."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos autores coinciden en todos sus argumentos y firmaron el mismo documento con nombres cruzados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desconoce la evidente confrontación de intereses e ideas entre el enfoque empresarial y el sindical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comparación de textos exige identificar con rigor los puntos de convergencia temática y las divergencias de fondo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué diferencia semántico-pragmática existe en un titular que habla de 'recorte necesario' frente a uno que habla de 'mutilación social'?",
+      "context": "Simulacro Saber 11: Análisis del sesgo ideológico a través del lenguaje valorativo (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primer titular legitima la medida como un ajuste técnico indispensable; el segundo la condena como un ataque a los derechos.",
+          "is_correct": true,
+          "feedback": "Es correcta meidante la selección léxica valorativa ('necesario' vs 'mutilación') los periódicos orientan la percepción ideológica del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos titulares expresan una neutralidad absoluta sin tomar posición alguna frente a la noticia económica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el uso de términos con fuerte carga connotativa es el indicio más claro de toma de posición y falta de neutralidad."
+        },
+        {
+          "letter": "C",
+          "text": "El primer titular está escrito en idioma francés y el segundo en idioma español antiguo del siglo XVI.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambos titulares están escritos en español moderno y normativo."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestran que los periodistas que redactaron los titulares trabajan en el mismo departamento de publicidad privada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque muestran dos enfoques de línea editorial contrapuestos en la prensa de opinión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de marcas léxicas evaluativas permite revelar la orientación ideológica y el encuadre (framing) de la información.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v8",
+      "statement": "Al contrastar un texto sobre la Amazonia con un mapa de deforestación por hectáreas, ¿qué conclusión es correcta?",
+      "context": "Simulacro Saber 11: Interpretación de textos discontinuos (tablas e infografías sobre deforestación) (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La evidencia cartográfica confirma que las áreas de mayor pérdida forestal coinciden con las zonas de expansión ganadera ilegal.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la lectura crítica de textos mixtos exige articular la información cuantitativa/gráfica con el análisis conceptual del texto."
+        },
+        {
+          "letter": "B",
+          "text": "El mapa demuestra que la selva amazónica ha crecido en un 300% durante los últimos cinco años en Colombia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contradice la tendencia empírica real registrada por los mapas satelitales sobre el avance de la deforestación."
+        },
+        {
+          "letter": "C",
+          "text": "El texto escrito niega los datos del mapa afirmando que en la Amazonia no existen árboles ni vegetación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la relación entre texto e imagen en una infografía rigurosa es de complementariedad y comprobación."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla estadística demuestra que la deforestación es un fenómeno provocado exclusivamente por el viento nocturno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ignora los factores antrópicos (ganadería, acaparamiento de tierras) que la evidencia cartográfica denuncia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura de textos mixtos o discontinuos requiere integrar la información gráfica con las tesis del escrito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué es fallido argumentar que 'o bien apoyas incondicionalmente esta ley de transporte o estás a favor del caos y la muerte en las vías'?",
+      "context": "Simulacro Saber 11: Detección de la falacia de falsa dicotomía o falso dilema (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque reduce opciones complejas a dos alternativas extremas excluyentes, ignorando posibilidades de reforma o vías intermedias.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la falsa dicotomía fuerza al lector a elegir entre la aceptación total o la catástrofe sin matices."
+        },
+        {
+          "letter": "B",
+          "text": "Porque demuestra una profunda sabiduría filosófica que exige la adhesión inmediata de todos los ciudadanos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque validar el dilema es caer en la trampa falaz de la polarización argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las leyes de transporte son aprobadas únicamente por los ciudadanos que conducen vehículos de carreras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las leyes se debaten en el Congreso por los representantes de toda la ciudadanía."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el texto utiliza un lenguaje poético de alta belleza estética que no admite ser analizado sintácticamente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no posee valor poético sino una estructura de coerción persuasiva falaz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia del falso dilema oculta las alternativas intermedias para forzar al interlocutor a aceptar una postura extrema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué una teoría que afirma que 'todos los acontecimientos del mundo son provocados por duendes invisibles e indetectables' carece de validez científica?",
+      "context": "Simulacro Saber 11: Evaluación de la solidez argumentativa mediante el criterio de falsabilidad (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no formula ninguna predicción contrastable que pueda ser empíricamente verificada o refutada por la experiencia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque para el racionalismo crítico de Popper un enunciado de fe dogmática que no puede refutarse no es ciencia."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los duendes son seres de gran inteligencia que no se dejan fotografiar por los científicos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la incuestionabilidad de una entidad indetectable es precisamente el indicio de su falta de carácter científico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la ciencia moderna prohibió el uso de palabras que empiecen por la letra 'd' en sus informes de laboratorio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el criterio de demarcación es lógico-empírico y no una prohibición alfabética."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la teoría es demasiado hermosa para ser comprendida por personas que no tienen títulos universitarios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la belleza o complejidad no otorgan estatus de hipótesis empírica verificable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El criterio de falsabilidad exige que las hipótesis científicas se sometan al riesgo de ser refutadas por la experiencia empírica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v11",
+      "statement": "¿Qué efecto semántico produce la frase 'la burocracia es un monstruo de mil cabezas que devora la iniciativa privada'?",
+      "context": "Simulacro Saber 11: Reconocimiento de figuras retóricas en el ensayo crítico (la metáfora) (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visualizar e intensificar la crítica a la hipertrofia administrativa mediante una imagen de desproporción y voracidad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la metáfora zoológica/mitológica amplifica el impacto persuasivo de la denuncia contra el trámite excesivo."
+        },
+        {
+          "letter": "B",
+          "text": "Afirmar que los funcionarios de las oficinas públicas tienen múltiples cabezas biológicas sobre sus hombros.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una lectura literal absurda que desconoce el funcionamiento del lenguaje figurado."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que la administración pública está compuesta por seres de la mitología griega que viven en cuevas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye una realidad física al tropo retórico que es una herramienta del análisis de estilo."
+        },
+        {
+          "letter": "D",
+          "text": "Probar que los empresarios privados son caballeros medievales que usan espadas de bronce en su trabajo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque lleva la metáfora a una interpretación literal de novela de fantasía sin sentido analítico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metáfora en el ensayo persuasivo refuerza la carga evaluativa del discurso mediante esquemas analógicos de alto impacto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v12",
+      "statement": "¿A qué referente concreto alude el demostrativo 'aquella' en la cláusula 'La norma A deroga a la norma B; aquella quedará sin vigencia'?",
+      "context": "Simulacro Saber 11: Análisis de la deixis anafórica en textos legales (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la 'norma B', por ser el antecedente femenino más cercano en la estructura del enunciado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en el uso de los demostrativos 'este/aquel', 'aquella' remite al primer término nombrado o antecedente previo distante."
+        },
+        {
+          "letter": "B",
+          "text": "A la 'norma A', por ser la primera palabra que aparece en el texto completo de la ley.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'esta' remitiría al término más cercano (norma B), mientras que 'aquella' remite al primero de la relación (norma A) o segundo en distinción."
+        },
+        {
+          "letter": "C",
+          "text": "Al Congreso de la República que aprobó la derogación durante la sesión plenaria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el demostrativo recupera un sustantivo expresado en la oración y no la institución externa."
+        },
+        {
+          "letter": "D",
+          "text": "Al texto de la Constitución Política de 1991 que regula las votaciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la deixis anafórica opera sobre los antecedentes presentes en el texto inmediato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deixis demostrativa anafórica regula la referencia precisa de elementos antecedidos en textos normativos complejos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v13",
+      "statement": "¿Qué actitud expresa un cronista que describe la desnutrición infantil en La Guajira mediante frases secas, datos de fallecidos y descripciones sin eufemismos?",
+      "context": "Simulacro Saber 11: Identificación del tono de denuncia en la crónica narrativa (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una actitud de denuncia ética rigurosa, indignada pero contenida por el respeto a la gravedad de los hechos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la sequedad expresiva combinada con datos duros enfatiza la crudeza de la tragedia sin amarillismo."
+        },
+        {
+          "letter": "B",
+          "text": "Un tono festivo e indolente que celebra la falta de agua en las comunidades indígenas del departamento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto evidencia compromiso con la verdad sociopolítica de las víctimas."
+        },
+        {
+          "letter": "C",
+          "text": "Un estilo poético romántico enfocado en alabar la belleza de las estrellas del desierto nocturno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cronista no busca la evasión estética bucólica ante la vulneración de derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Una postura desinteresada propia de quien escribe un catálogo de venta de electrodomésticos para el hogar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crónica de denuncia social contrapone su rigor al discurso mercantil neutro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tono en la crónica testimonial y de denuncia refleja el posicionamiento ético del narrador frente a la injusticia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v14",
+      "statement": "¿Qué clase de oposición léxica se establece entre los términos 'constitucional' e 'inconstitucional'?",
+      "context": "Simulacro Saber 11: Reconocimiento de relaciones de antonimia complementaria (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antonimia complementaria o binaria, donde una norma solo puede pertenecer a una de las dos categorías de forma excluyente.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en el derecho constitucional un acto o norma es ajustado a la carta magna o contraviene su texto (binario)."
+        },
+        {
+          "letter": "B",
+          "text": "Antonimia gradual, porque existen múltiples estados intermedios como 'medianamente constitucional'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en la técnica jurídica de control de constitucionalidad no caben grados intermedios de validez formal."
+        },
+        {
+          "letter": "C",
+          "text": "Sinonimia absoluta, porque ambas palabras significan exactamente lo mismo en la jurisprudencia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque denotan valores jurídicos opuestos: uno es válido y el otro nulo por inconstitucional."
+        },
+        {
+          "letter": "D",
+          "text": "Homonimia sintáctica, porque las dos palabras se pronuncian igual y tienen el mismo origen étimológico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el prefijo negativo 'in-' establece una marcada oposición morfológica y fonética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antonimia complementaria excluye el término medio: la afirmación de un opuesto implica la negación categórica del otro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué resulta fallido defender que 'el consumo de azúcar es sano porque lo afirmó un famoso actor de cine en una entrevista'?",
+      "context": "Simulacro Saber 11: Evaluación del argumento ad verecundiam (apelación inapropiada a la autoridad) (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el actor no es una autoridad médica ni científica competente en nutrición o endocrinología.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la falacia ad verecundiam apela al prestigio de una celebridad en un campo ajeno a su especialidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los actores de cine tienen prohibido hablar sobre alimentos en programas de televisión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las personas públicas tienen libertad de expresión, pero su opinión no constituye evidencia médica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el azúcar es un mineral que se extrae de las minas de carbón del departamento del Cesar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde el origen vegetal de la caña de azúcar con la extracción de minerales fósiles."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las entrevistas de televisión solo pueden ser concedidas por diplomáticos de carrera.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el formato de entrevista televisiva está abierto a múltiples profesiones de la sociedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia ad verecundiam comete el error de validar una premisa apoyándose en la fama de alguien incompetente en la materia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v16",
+      "statement": "¿Qué falta de ética periodística ocurre cuando se cita solo media frase de un entrevistado para hacerle decir lo opuesto a su postura?",
+      "context": "Simulacro Saber 11: Análisis de la polifonía y la cita descontextualizada (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manipulación discursiva por descontextualización, que altera la intencionalidad pragmática del emisor original.",
+          "is_correct": true,
+          "feedback": "Es correcta porque amputar el contexto de una cita tergiversa la verdad y violenta la honestidad informativa."
+        },
+        {
+          "letter": "B",
+          "text": "Ejercicio de síntesis brillante que ayuda al lector a ahorrar tiempo de lectura en el periódico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la síntesis legítima debe resumir con fidelidad el pensamiento y no invertir su sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Aplicación estricta del derecho a la libertad de prensa consagrado en la Constitución de 1991.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la libertad de prensa exige el deber correlativo de la veracidad y la imparcialidad en la información."
+        },
+        {
+          "letter": "D",
+          "text": "Demostración de que la sintaxis del español permite cambiar el sentido de los verbos de forma libre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la alteración malintencionada no es una virtud lingüística sino un fraude informativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La citación honesta exige preservar el marco contextual para respetar la intencionalidad del emisor citado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v17",
+      "statement": "¿Con qué intención afirma un articulista que 'agradecemos profundamente al Congreso por trabajar tan arduamente dos horas a la semana'?",
+      "context": "Simulacro Saber 11: Uso de la ironía en el periodismo de opinión política (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Criticar sarcásticamente el ausentismo y la baja productividad de los legisladores nacionales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque utiliza el elogio irónico para resaltar de manera punzante una falta grave de compromiso público."
+        },
+        {
+          "letter": "B",
+          "text": "Entregar una medalla de honor a los congresistas por su dedicación incondicional al servicio del país.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto denuncia precisamente la falta de trabajo y no rinde un tributo sincero."
+        },
+        {
+          "letter": "C",
+          "text": "Sugerir que las sesiones del Parlamento deben durar únicamente cinco minutos para ahorrar energía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ironía busca señalar el incumplimiento del deber y no reducir aún más el tiempo de sesión."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar las reglas del derecho laboral sobre la jornada de trabajo de los obreros de la construcción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crítica se dirige al poder legislativo y no a la legislación laboral del sector obrero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía en la columna de opinión moviliza la complicidad del lector para censurar conductas antipáticas del poder.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v18",
+      "statement": "Si se parte de las premisas 'Todos los países democráticos garantizan la libertad de prensa' y 'Colombia es un país democrático', ¿qué conclusión se deduce?",
+      "context": "Simulacro Saber 11: Reconocimiento de la estructura explicativa de la deducción (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia garantiza la libertad de prensa en su ordenamiento y práctica social.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la conclusión válida se desprende necesariamente de la premisa categórica universal y la premisa particular."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia debe prohibir la publicación de periódicos y revistas independientes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contradice de forma directa la deducción lógica de las premisas de partida."
+        },
+        {
+          "letter": "C",
+          "text": "Ningún país del continente americano posee instituciones democráticas sólidas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque excede e invalida la premisa menor referida a Colombia en el contexto democrático."
+        },
+        {
+          "letter": "D",
+          "text": "La libertad de prensa es un concepto inventado por los científicos de la computación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque introduce un elemento ajeno al campo conceptual del razonamiento planteado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La validez deductiva garantiza la verdad de la conclusión a condición de que las premisas de partida sean verdaderas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la tesis implícita de un editorial que denuncia la falta de agua en Quibdó contrastada con los altos presupuestos asignados a la región?",
+      "context": "Simulacro Saber 11: Identificación de la tesis implícita en un editorial de prensa (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corrupción y la mala gestión pública han impedido que los recursos estatales se traduzcan en bienestar real para la población.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el contraste entre presupuesto abundante y escasez del servicio devela la falla estructural de la corrupción."
+        },
+        {
+          "letter": "B",
+          "text": "La ciudad de Quibdó está ubicada en un desierto donde nunca ha llovido en la historia del planeta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Quibdó es una de las zonas con mayor pluviosidad del mundo, lo que agrava el escándalo de la falta de acueducto."
+        },
+        {
+          "letter": "C",
+          "text": "Los ciudadanos de la región prefieren no tener agua potable en sus casas por razones culturales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye a la población un rechazo absurdo al acceso a servicios públicos básicos."
+        },
+        {
+          "letter": "D",
+          "text": "El Ministerio de Hacienda debe dejar de enviar dinero a las regiones de la periferia colombiana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la denuncia exige transparencia en la ejecución del gasto público y no el abandono estatal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Develar la tesis implícita en un editorial requiere relacionar las denuncias de hechos con la crítica a las causas estructurales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el perfil del estudiante que alcanza el Nivel 4 (máximo) en la prueba Saber 11 de Lectura Crítica?",
+      "context": "Simulacro Saber 11: Síntesis final de la prueba de Lectura Crítica (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un lector capaz de evaluar la validez de los argumentos, identificar sesgos, contextualizar ideológicamente los textos y valorar su alcance ético.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el Nivel 4 exige el dominio integrado de la lectura literal, inferencial y la evaluación crítica de textos complejos."
+        },
+        {
+          "letter": "B",
+          "text": "Un estudiante que memoriza de memoria todas las preguntas del cuadernillo de años anteriores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el examen renueva sus textos y evalúa competencias analíticas y no memorización de patrones."
+        },
+        {
+          "letter": "C",
+          "text": "Alguien que lee quinientas palabras por minuto aunque no comprenda ninguna de las oraciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la velocidad veloz sin comprensión sintáctico-semántica carece de valor evaluativo."
+        },
+        {
+          "letter": "D",
+          "text": "Un alumno que le da la razón a todas las opciones de respuesta sin analizar los textos del examen.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la prueba exige discriminar las opciones mediante el razonamiento lógico fundamentado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Nivel 4 de Lectura Crítica certifica un pensamiento autónomo, analítico y éticamente reflexivo ante cualquier discurso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

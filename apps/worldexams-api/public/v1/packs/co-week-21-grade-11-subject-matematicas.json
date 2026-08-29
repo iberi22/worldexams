@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-21-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.209Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v1",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{1} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$13$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{1} 2x \\, dx = [x^2]_{0}^{1} = 1^2 - 0^2 = 1$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v2",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{2} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$11$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{2} 2x \\, dx = [x^2]_{0}^{2} = 2^2 - 0^2 = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v3",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{3} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$21$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{3} 2x \\, dx = [x^2]_{0}^{3} = 3^2 - 0^2 = 9$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v4",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{4} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$19$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$23$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$28$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{4} 2x \\, dx = [x^2]_{0}^{4} = 4^2 - 0^2 = 16$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v5",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{5} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$28$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$32$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$37$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{5} 2x \\, dx = [x^2]_{0}^{5} = 5^2 - 0^2 = 25$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v6",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{6} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$39$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$43$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$48$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{6} 2x \\, dx = [x^2]_{0}^{6} = 6^2 - 0^2 = 36$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v7",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{7} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$49$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$52$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$56$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$61$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{7} 2x \\, dx = [x^2]_{0}^{7} = 7^2 - 0^2 = 49$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v8",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{8} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$64$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$67$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$71$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$76$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{8} 2x \\, dx = [x^2]_{0}^{8} = 8^2 - 0^2 = 64$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v9",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{9} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$81$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$84$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$88$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$93$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{9} 2x \\, dx = [x^2]_{0}^{9} = 9^2 - 0^2 = 81$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v10",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{10} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$103$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$107$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$112$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{10} 2x \\, dx = [x^2]_{0}^{10} = 10^2 - 0^2 = 100$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v11",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{11} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$121$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$124$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$128$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$133$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{11} 2x \\, dx = [x^2]_{0}^{11} = 11^2 - 0^2 = 121$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v12",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{12} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$144$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$147$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$151$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$156$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{12} 2x \\, dx = [x^2]_{0}^{12} = 12^2 - 0^2 = 144$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v13",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{13} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$169$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$172$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$176$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$181$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{13} 2x \\, dx = [x^2]_{0}^{13} = 13^2 - 0^2 = 169$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v14",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{14} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$196$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$199$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$203$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$208$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{14} 2x \\, dx = [x^2]_{0}^{14} = 14^2 - 0^2 = 196$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v15",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{15} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$225$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$228$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$232$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$237$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{15} 2x \\, dx = [x^2]_{0}^{15} = 15^2 - 0^2 = 225$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v16",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{16} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$256$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$259$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$263$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$268$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{16} 2x \\, dx = [x^2]_{0}^{16} = 16^2 - 0^2 = 256$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v17",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{17} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$289$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$292$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$296$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$301$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{17} 2x \\, dx = [x^2]_{0}^{17} = 17^2 - 0^2 = 289$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v18",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{18} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$324$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$327$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$331$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$336$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{18} 2x \\, dx = [x^2]_{0}^{18} = 18^2 - 0^2 = 324$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v19",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{19} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$361$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$364$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$368$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$373$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{19} 2x \\, dx = [x^2]_{0}^{19} = 19^2 - 0^2 = 361$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v20",
+      "statement": "Calcule el valor de la integral definida $\\int_{0}^{20} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
+      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$400$",
+          "is_correct": true,
+          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$403$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+        },
+        {
+          "letter": "C",
+          "text": "$407$",
+          "is_correct": false,
+          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+        },
+        {
+          "letter": "D",
+          "text": "$412$",
+          "is_correct": false,
+          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{20} 2x \\, dx = [x^2]_{0}^{20} = 20^2 - 0^2 = 400$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

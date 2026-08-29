@@ -28,8 +28,8 @@ export interface QuestionValidationResult {
 }
 
 export interface QuestionRepository {
-  fetchAllQuestionsForGrade(grade: number, isGuest?: boolean, maxQuestions?: number): Promise<AppQuestion[]>;
-  fetchQuestions(grade: number, subject: string, page?: number): Promise<AppQuestion[]>;
+  fetchAllQuestionsForGrade(grade: number, isGuest?: boolean, maxQuestions?: number, period?: number): Promise<AppQuestion[]>;
+  fetchQuestions(grade: number, subject: string, page?: number, period?: number): Promise<AppQuestion[]>;
   fetchBulkQuestions(grades: number[], limit?: number): Promise<AppQuestion[]>;
   fetchEnglishQuestionsAllGrades(limit?: number, balanced?: boolean, cefrLevelNum?: number): Promise<AppQuestion[]>;
 }

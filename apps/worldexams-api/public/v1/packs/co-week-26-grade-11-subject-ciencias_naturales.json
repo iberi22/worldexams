@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-26-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.186Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántas moléculas de agua (H2O) hay en 1 mol de agua pura?",
+      "context": "En un cálculo estequiométrico en Colombia sobre concepto de mol y número de avogadro, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.022 × 10²³ moléculas.",
+          "is_correct": true,
+          "feedback": "Un mol contiene exactamente el número de Avogadro de entidades elementales."
+        },
+        {
+          "letter": "B",
+          "text": "1000 moléculas.",
+          "is_correct": false,
+          "feedback": "Un mol es una cantidad macroscópica equivalente a 6.022 × 10²³."
+        },
+        {
+          "letter": "C",
+          "text": "3.00 × 10⁸ moléculas.",
+          "is_correct": false,
+          "feedback": "3 × 10⁸ m/s es la velocidad de la luz."
+        },
+        {
+          "letter": "D",
+          "text": "12.0 moléculas.",
+          "is_correct": false,
+          "feedback": "12 es la masa atómica del carbono-12."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un mol contiene 6.022 × 10²³ partículas (átomos, moléculas o iones).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v2",
+      "statement": "Dadas las masas atómicas C = 12 g/mol y H = 1 g/mol, ¿cuál es la masa molar del metano (CH4)?",
+      "context": "En un cálculo estequiométrico en Colombia sobre masa molar del metano, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 g/mol",
+          "is_correct": false,
+          "feedback": "No olvide multiplicar los 4 átomos de hidrógeno."
+        },
+        {
+          "letter": "B",
+          "text": "16 g/mol",
+          "is_correct": true,
+          "feedback": "M = 12 + (4 × 1) = 16 g/mol."
+        },
+        {
+          "letter": "C",
+          "text": "28 g/mol",
+          "is_correct": false,
+          "feedback": "Corresponde al N2 o CO."
+        },
+        {
+          "letter": "D",
+          "text": "48 g/mol",
+          "is_correct": false,
+          "feedback": "El valor correcto es 16 g/mol."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La masa molar de una molécula es la suma de las masas atómicas multiplicadas por sus respectivos subíndices.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v3",
+      "statement": "Si se hacen reaccionar 2 moles de H2 con 2 moles de O2 según 2H2 + O2 -> 2H2O, ¿cuál es el reactivo límite?",
+      "context": "En un cálculo estequiométrico en Colombia sobre reactivo límite en síntesis de agua, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El O2",
+          "is_correct": false,
+          "feedback": "Queda 1 mol de O2 en exceso."
+        },
+        {
+          "letter": "B",
+          "text": "El H2O formado",
+          "is_correct": false,
+          "feedback": "El H2O es el producto de la reacción."
+        },
+        {
+          "letter": "C",
+          "text": "El H2",
+          "is_correct": true,
+          "feedback": "2 moles de H2 consumen solo 1 mol de O2. El H2 se agota primero."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, ambos reaccionan completamente.",
+          "is_correct": false,
+          "feedback": "Existe un reactivo en exceso (O2)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reactivo límite es aquel que se consume totalmente primero y determina la cantidad máxima de producto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v4",
+      "statement": "Si estequiométricamente debían obtenerse 50 g de aspirina y experimentalmente se obtuvieron 40 g, ¿cuál es el rendimiento?",
+      "context": "En un cálculo estequiométrico en Colombia sobre rendimiento porcentual, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125 %",
+          "is_correct": false,
+          "feedback": "El rendimiento práctico no puede superar el 100%."
+        },
+        {
+          "letter": "B",
+          "text": "20 %",
+          "is_correct": false,
+          "feedback": "40 de 50 equivale al 80%."
+        },
+        {
+          "letter": "C",
+          "text": "50 %",
+          "is_correct": false,
+          "feedback": "El cálculo entrega 80%."
+        },
+        {
+          "letter": "D",
+          "text": "80 %",
+          "is_correct": true,
+          "feedback": "Rendimiento = (Obtenido / Teórico) × 100 = (40 / 50) × 100 = 80%."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El rendimiento de reacción expresa el porcentaje de producto real obtenido frente al cálculo teórico estequiométrico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v5",
+      "statement": "En la combustión completa de 16 g de CH4 con 64 g de O2 en un recipiente cerrado, la masa total de productos (CO2 + H2O) es...",
+      "context": "En un cálculo estequiométrico en Colombia sobre ley de conservación de la materia, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 g",
+          "is_correct": true,
+          "feedback": "Masa de reactivos = 16 g + 64 g = 80 g. Por Lavoisier, la masa de productos es 80 g."
+        },
+        {
+          "letter": "B",
+          "text": "16 g",
+          "is_correct": false,
+          "feedback": "La masa no se destruye en la reacción química."
+        },
+        {
+          "letter": "C",
+          "text": "64 g",
+          "is_correct": false,
+          "feedback": "Deben sumarse todos los reactivos consumidos."
+        },
+        {
+          "letter": "D",
+          "text": "32 g",
+          "is_correct": false,
+          "feedback": "Se conserva la masa total de 80 g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley de Lavoisier establece que en una reacción química la masa total de los reactivos es igual a la masa total de los productos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v6",
+      "statement": "La masa molar de la glucosa (C6H12O6) es 180 g/mol (C=12, H=1, O=16). ¿Cuál es el porcentaje en masa de Carbono?",
+      "context": "En un cálculo estequiométrico en Colombia sobre composición porcentual de glucosa, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "72 %",
+          "is_correct": false,
+          "feedback": "72 es la masa de carbono, pero se divide entre 180 para obtener el porcentaje."
+        },
+        {
+          "letter": "B",
+          "text": "40 %",
+          "is_correct": true,
+          "feedback": "%C = (6 × 12 / 180) × 100 = (72 / 180) × 100 = 40%."
+        },
+        {
+          "letter": "C",
+          "text": "12 %",
+          "is_correct": false,
+          "feedback": "12 es la masa atómica del carbono."
+        },
+        {
+          "letter": "D",
+          "text": "50 %",
+          "is_correct": false,
+          "feedback": "El porcentaje en masa de carbono es 40%."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La composición porcentual en masa de un elemento es (masa del elemento en la fórmula / masa molar total) × 100.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v7",
+      "statement": "Un compuesto orgánico contiene 85.7% de C y 14.3% de H en masa. Su fórmula empírica es...",
+      "context": "En un cálculo estequiométrico en Colombia sobre fórmula empírica, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CH",
+          "is_correct": false,
+          "feedback": "La relación atómica es 1 átomo de C por cada 2 de H."
+        },
+        {
+          "letter": "B",
+          "text": "CH3",
+          "is_correct": false,
+          "feedback": "La relación exacta es 1:2."
+        },
+        {
+          "letter": "C",
+          "text": "CH2",
+          "is_correct": true,
+          "feedback": "Moles: C = 85.7/12 = 7.14; H = 14.3/1 = 14.3. Relación H/C = 2 -> CH2."
+        },
+        {
+          "letter": "D",
+          "text": "C2H5",
+          "is_correct": false,
+          "feedback": "La fórmula más simple entera es CH2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fórmula empírica representa la proporción entera más simple entre los átomos de un compuesto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos moles de NaOH se requieren para neutralizar completamente 1 mol de H2SO4? (H2SO4 + 2NaOH -> Na2SO4 + 2H2O)",
+      "context": "En un cálculo estequiométrico en Colombia sobre relación molar en neutralización, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 mol de NaOH",
+          "is_correct": false,
+          "feedback": "El H2SO4 posee dos protones acidificantes (diprótico)."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 moles de NaOH",
+          "is_correct": false,
+          "feedback": "Se requieren 2 moles de base por cada mol de ácido diprótico."
+        },
+        {
+          "letter": "C",
+          "text": "4 moles de NaOH",
+          "is_correct": false,
+          "feedback": "La estequiometría balanceada requiere exactamente 2 moles."
+        },
+        {
+          "letter": "D",
+          "text": "2 moles de NaOH",
+          "is_correct": true,
+          "feedback": "La ecuación balanceada muestra una relación molar 1:2 entre el ácido diprótico y la base."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El balanceo de ecuaciones químicas determina las relaciones molares cuantitativas de reactivos y productos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v9",
+      "statement": "¿Qué volumen de CO2 gaseoso en CNTP (0 °C y 1 atm) se produce al descomponer 2 moles de CaCO3? (CaCO3 -> CaO + CO2)",
+      "context": "En un cálculo estequiométrico en Colombia sobre volumen molar en cntp, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "44.8 Litros",
+          "is_correct": true,
+          "feedback": "2 moles de CaCO3 producen 2 moles de CO2. 2 × 22.4 L = 44.8 L."
+        },
+        {
+          "letter": "B",
+          "text": "22.4 Litros",
+          "is_correct": false,
+          "feedback": "Se forman 2 moles de gas, ocupando el doble de 22.4 L."
+        },
+        {
+          "letter": "C",
+          "text": "11.2 Litros",
+          "is_correct": false,
+          "feedback": "Es el volumen de 0.5 moles."
+        },
+        {
+          "letter": "D",
+          "text": "89.6 Litros",
+          "is_correct": false,
+          "feedback": "El valor correcto es 44.8 L."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En CNTP, un mol de cualquier gas ideal ocupa un volumen estandarizado de 22.4 L.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v10",
+      "statement": "Si reaccionan 5 moles de A con 6 moles de B según A + 2B -> C, ¿cuántos moles de A quedan sin reaccionar?",
+      "context": "En un cálculo estequiométrico en Colombia sobre reactivo en exceso restante, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 moles de A",
+          "is_correct": false,
+          "feedback": "A es el reactivo en exceso y no se agota."
+        },
+        {
+          "letter": "B",
+          "text": "2 moles de A",
+          "is_correct": true,
+          "feedback": "6 moles de B consumen 3 moles de A. Quedan 5 - 3 = 2 moles de A en exceso."
+        },
+        {
+          "letter": "C",
+          "text": "3 moles de A",
+          "is_correct": false,
+          "feedback": "Se consumen 3 moles de A, quedando 2 moles sin reaccionar."
+        },
+        {
+          "letter": "D",
+          "text": "1 mol de A",
+          "is_correct": false,
+          "feedback": "5 - 3 = 2 moles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cantidad de reactivo en exceso restante es la inicial menos la consumida por el reactivo límite.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v11",
+      "statement": "Si se usan 100 g de piedra caliza con 80% de pureza en CaCO3, ¿cuántos gramos de CaCO3 puro reaccionan?",
+      "context": "En un cálculo estequiométrico en Colombia sobre pureza de reactivos, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 g",
+          "is_correct": false,
+          "feedback": "20 g corresponden a impurezas inertes."
+        },
+        {
+          "letter": "B",
+          "text": "20 g",
+          "is_correct": false,
+          "feedback": "20 g es la masa de las impurezas."
+        },
+        {
+          "letter": "C",
+          "text": "80 g",
+          "is_correct": true,
+          "feedback": "Masa pura = 100 g × 0.80 = 80 g de CaCO3."
+        },
+        {
+          "letter": "D",
+          "text": "50 g",
+          "is_correct": false,
+          "feedback": "El 80% de 100 g es 80 g."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cálculos estequiométricos deben realizarse únicamente con la masa de sustancia pura reactiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v12",
+      "statement": "¿Cuántos moles de NaCl están disueltos en 2 Litros de una solución acuosa 0.5 M?",
+      "context": "En un cálculo estequiométrico en Colombia sobre estequiometría de soluciones molaridad, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.25 moles de NaCl",
+          "is_correct": false,
+          "feedback": "Se multiplica la concentración por el volumen."
+        },
+        {
+          "letter": "B",
+          "text": "2.5 moles de NaCl",
+          "is_correct": false,
+          "feedback": "0.5 por 2 resulta 1.0."
+        },
+        {
+          "letter": "C",
+          "text": "0.5 moles de NaCl",
+          "is_correct": false,
+          "feedback": "El valor correcto es 1.0 mol."
+        },
+        {
+          "letter": "D",
+          "text": "1.0 mol de NaCl",
+          "is_correct": true,
+          "feedback": "Moles = Molaridad × Volumen (L) = 0.5 mol/L × 2 L = 1.0 mol."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Molaridad (M) expresa los moles de soluto disueltos por cada litro de solución.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v13",
+      "statement": "Al oxidar 2 moles de hierro puro (4Fe + 3O2 -> 2Fe2O3), ¿cuántos moles de Fe2O3 se producen?",
+      "context": "En un cálculo estequiométrico en Colombia sobre masa teórica de fe2o3, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 mol de Fe2O3",
+          "is_correct": true,
+          "feedback": "La relación molar es 4 Fe : 2 Fe2O3 (2:1). 2 moles de Fe forman 1 mol de Fe2O3."
+        },
+        {
+          "letter": "B",
+          "text": "2.0 moles de Fe2O3",
+          "is_correct": false,
+          "feedback": "4 moles de Fe forman 2 de Fe2O3, luego 2 moles forman 1."
+        },
+        {
+          "letter": "C",
+          "text": "4.0 moles de Fe2O3",
+          "is_correct": false,
+          "feedback": "La proporción estequiométrica es 2 a 1."
+        },
+        {
+          "letter": "D",
+          "text": "0.5 moles de Fe2O3",
+          "is_correct": false,
+          "feedback": "El cálculo estequiométrico indica 1.0 mol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estequiometría permite predecir los moles de producto formados a partir de los coeficientes de la ecuación balanceada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v14",
+      "statement": "¿Cuántos moles corresponden a 64 g de oxígeno molecular (O2, M = 32 g/mol)?",
+      "context": "En un cálculo estequiométrico en Colombia sobre conversión de gramos a moles de o2, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 mol de O2",
+          "is_correct": false,
+          "feedback": "32 g representan 1 mol de O2."
+        },
+        {
+          "letter": "B",
+          "text": "2.0 moles de O2",
+          "is_correct": true,
+          "feedback": "n = masa / M = 64 g / (32 g/mol) = 2.0 moles."
+        },
+        {
+          "letter": "C",
+          "text": "4.0 moles de O2",
+          "is_correct": false,
+          "feedback": "64 dividido 32 da 2.0."
+        },
+        {
+          "letter": "D",
+          "text": "0.5 moles de O2",
+          "is_correct": false,
+          "feedback": "El resultado es 2.0 moles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El número de moles se obtiene dividiendo la masa dada entre la masa molar de la molécula.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v15",
+      "statement": "¿Qué factor NO afecta el rendimiento teórico calculado en el papel para una reacción química?",
+      "context": "En un cálculo estequiométrico en Colombia sobre rendimiento teórico máximo, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa de reactivo límite agregada.",
+          "is_correct": false,
+          "feedback": "La masa del reactivo límite determina directamente el rendimiento teórico."
+        },
+        {
+          "letter": "B",
+          "text": "La pureza de los reactivos empleados.",
+          "is_correct": false,
+          "feedback": "La pureza modifica la masa real reactiva disponible."
+        },
+        {
+          "letter": "C",
+          "text": "El color del recipiente de vidrio usado en el laboratorio.",
+          "is_correct": true,
+          "feedback": "El rendimiento teórico es un cálculo estequiométrico ideal independiente del color del matraz."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación química balanceada de la reacción.",
+          "is_correct": false,
+          "feedback": "Los coeficientes estequiométricos fijan la proporción teórica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rendimiento teórico es una propiedad matemática derivada exclusivamente de la estequiometría y las masas de reactivo puro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v16",
+      "statement": "Al balancear la combustión completa del propano (C3H8 + x O2 -> 3 CO2 + 4 H2O), el coeficiente x es...",
+      "context": "En un cálculo estequiométrico en Colombia sobre balanceo de ecuación de combustión del propano, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Se requieren 10 átomos de O en total."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "5 moléculas de O2 aportan los 10 átomos de oxígeno necesarios."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "10 es el número de átomos, 5 es el coeficiente de O2."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Átomos de O en productos = (3×2) + (4×1) = 10. Luego x = 10 / 2 = 5."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El balanceo de materia garantiza que el número de átomos de cada elemento sea igual en ambos lados de la ecuación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v17",
+      "statement": "¿Qué volumen de H2 en CNTP se produce al reaccionar 1 mol de Zn con exceso de HCl? (Zn + 2HCl -> ZnCl2 + H2)",
+      "context": "En un cálculo estequiométrico en Colombia sobre cálculo de volumen de h2, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22.4 Litros",
+          "is_correct": true,
+          "feedback": "1 mol de Zn produce 1 mol de H2. En CNTP ocupan 22.4 L."
+        },
+        {
+          "letter": "B",
+          "text": "11.2 Litros",
+          "is_correct": false,
+          "feedback": "1 mol de gas en CNTP ocupa 22.4 L."
+        },
+        {
+          "letter": "C",
+          "text": "44.8 Litros",
+          "is_correct": false,
+          "feedback": "No se forman 2 moles de gas."
+        },
+        {
+          "letter": "D",
+          "text": "2.0 Litros",
+          "is_correct": false,
+          "feedback": "El volumen molar es 22.4 L/mol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La relación molar 1:1 entre Zn y H2 indica que se libera 1 mol de H2 equivalente a 22.4 L en CNTP.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v18",
+      "statement": "La Ley de Proust establece que cuando dos o más elementos se combinan para formar un compuesto determinado...",
+      "context": "En un cálculo estequiométrico en Colombia sobre ley de las proporciones definidas (proust), Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo hacen en proporciones aleatorias dependiendo de la velocidad de mezclado.",
+          "is_correct": false,
+          "feedback": "La proporción de masa en un compuesto puro es fija."
+        },
+        {
+          "letter": "B",
+          "text": "Lo hacen siempre en una relación de masa constante y definida.",
+          "is_correct": true,
+          "feedback": "Un compuesto químico puro contiene siempre los mismos elementos en las mismas proporciones de masa."
+        },
+        {
+          "letter": "C",
+          "text": "La masa de los reactivos siempre se destruye en un 50%.",
+          "is_correct": false,
+          "feedback": "La masa se conserva en las reacciones."
+        },
+        {
+          "letter": "D",
+          "text": "Los volúmenes de los sólidos se duplican espontáneamente.",
+          "is_correct": false,
+          "feedback": "Trata sobre proporciones definidas de masa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley de las Proporciones Definidas establece que la composición centesimal de un compuesto puro es constante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v19",
+      "statement": "Cuando el carbono forma CO (28 g/mol) y CO2 (44 g/mol) con el oxígeno, las masas de O que se unen a 12 g de C están en relación...",
+      "context": "En un cálculo estequiométrico en Colombia sobre ley de las proporciones múltiples (dalton), Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 : 1",
+          "is_correct": false,
+          "feedback": "32 es el doble de 16."
+        },
+        {
+          "letter": "B",
+          "text": "2 : 3",
+          "is_correct": false,
+          "feedback": "La relación entre 16 y 32 es 1:2."
+        },
+        {
+          "letter": "C",
+          "text": "1 : 2",
+          "is_correct": true,
+          "feedback": "En CO 12 g de C se unen a 16 g de O. En CO2 12 g de C se unen a 32 g de O. Relación 16:32 = 1:2."
+        },
+        {
+          "letter": "D",
+          "text": "3 : 4",
+          "is_correct": false,
+          "feedback": "La relación entre 16 g y 32 g es de números enteros sencillos 1 a 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Ley de Proporciones Múltiples indica que las masas de un elemento que se combinan con una masa fija de otro están en relación de números enteros sencillos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle-v20",
+      "statement": "Si 1 mol de un gas se calienta de 273 K a 546 K a 1 atm, el volumen ocupado por el producto gaseoso...",
+      "context": "En un cálculo estequiométrico en Colombia sobre estequiometría de gas a temperatura ambiente, Andrés analiza la siguiente transformación química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permanece en 22.4 Litros.",
+          "is_correct": false,
+          "feedback": "El volumen de un gas se expande con la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Se reduce a 11.2 Litros.",
+          "is_correct": false,
+          "feedback": "El calentamiento aumenta el volumen."
+        },
+        {
+          "letter": "C",
+          "text": "Cae a 0 Litros.",
+          "is_correct": false,
+          "feedback": "El gas no se condensa al calentarse."
+        },
+        {
+          "letter": "D",
+          "text": "Se duplica a 44.8 Litros.",
+          "is_correct": true,
+          "feedback": "Al duplicar T en Kelvin a P constante (Ley de Charles), V pasa de 22.4 L a 44.8 L."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El volumen de los gases producidos estequiométricamente depende de la temperatura y presión según la ley de gases.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

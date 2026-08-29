@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-22-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.196Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones expresa mejor la tesis central del autor?",
+      "context": "Análisis de un ensayo sobre la transición energética en Colombia (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La transición energética debe ser justa, gradual e incluyente con las comunidades étnicas de La Guajira.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la tesis sintetiza la propuesta de equidad social y gradualidad planteada en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia debe prohibir de inmediato la extracción de petróleo sin importar las consecuencias financieras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el autor no aboga por una suspensión drástica sino por una transición gradual."
+        },
+        {
+          "letter": "C",
+          "text": "El carbón es la única fuente de riqueza sostenible para la economía nacional a largo plazo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el ensayo cuestiona expresamente la dependencia indefinida del carbón."
+        },
+        {
+          "letter": "D",
+          "text": "Las energías renovables representan una moda pasajera promovida por países industrializados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el escrito defiende el valor estratégico de las energías limpias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis constituye el núcleo argumentativo del ensayo y debe expresar la postura debatible del autor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo organiza el autor la secuencia de sus argumentos?",
+      "context": "Examen de la estructura argumentativa en la columna de opinión (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta el diagnóstico del problema ambiental, examina datos socioeconómicos y propone alternativas comunitarias.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sigue la estructura lógica canónica: planteamiento, sustentación empírica y cierre propositivo."
+        },
+        {
+          "letter": "B",
+          "text": "Relata una anécdota personal infantil y concluye con una fórmula matemática de costos energéticos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde un ensayo crítico con una narración autobiográfica irrelevante."
+        },
+        {
+          "letter": "C",
+          "text": "Enumera los nombres de los ministros de ambiente sin ofrecer ningún análisis conceptual.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una lista de nombres no constituye una argumentación articulada."
+        },
+        {
+          "letter": "D",
+          "text": "Inicia con la conclusión final y luego transcribe el reglamento interno de una empresa privada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la conclusión resulta infundada si se coloca sin antecedentes argumentativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la arquitectura textual permite comprender la progresión del pensamiento ensayístico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v3",
+      "statement": "¿Qué evidencia fortalece el argumento del autor sobre la pérdida de biodiversidad?",
+      "context": "Identificación de argumentos de autoridad en un escrito académico (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los informes científicos del Instituto Humboldt que documentan la reducción de especies endémicas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el Instituto Humboldt es una institución oficial y especializada en biodiversidad."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión informal compartida por un conductor de taxi durante un trancón urbano.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el testimonio informal carece de rigor y representatividad científica."
+        },
+        {
+          "letter": "C",
+          "text": "Las publicaciones anónimas virales difundidas en redes sociales durante el fin de semana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los rumores anónimos en redes no ofrecen validez empírica."
+        },
+        {
+          "letter": "D",
+          "text": "La corazonada intuitiva del articulista basada en la observación del clima local.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la intuición personal no sustituye la investigación documentada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento de autoridad requiere apelar a fuentes institucionales o expertas de legitimidad reconocida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v4",
+      "statement": "¿De qué manera responde el autor a quienes afirman que las renovables son muy costosas?",
+      "context": "Evaluación de la estrategia de contraargumentación empleada (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demuestra que los costos del impacto ambiental a largo plazo superan con creces la inversión inicial en tecnología limpia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque refuta la objeción financiera contrastando el gasto inicial con los costos futuros de inacción."
+        },
+        {
+          "letter": "B",
+          "text": "Descalifica moralmente a sus opositores tildándolos de enemigos del progreso y de la patria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque incurre en una falacia ad hominem en lugar de aportar razones financieras."
+        },
+        {
+          "letter": "C",
+          "text": "Acepta que el argumento contrario es imbatible y renuncia a defender su postura original.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el ensayista no abandona su tesis sino que la defiende mediante evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia bruscamente de tema y se dedica a criticar la calidad del transporte público en Bogotá.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la evasión temática evidencia incapacidad de contraargumentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La contraargumentación efectiva invalida las objeciones del adversario mediante razonamientos sólidos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v5",
+      "statement": "¿Qué relación lógica establece el conector 'sin embargo' al inicio del tercer párrafo?",
+      "context": "Análisis del conector adversativo 'sin embargo' en el párrafo 3 (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce una salvedad o matiz crítico frente a los indicadores de crecimiento económico expuestos previamente.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'sin embargo' es un conector adversativo que contrapone una restricción a la idea anterior."
+        },
+        {
+          "letter": "B",
+          "text": "Indica la causa biológica directa por la cual las plantas realizan la fotosíntesis en el desierto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde un enlace discursivo con una explicación causal biológica."
+        },
+        {
+          "letter": "C",
+          "text": "Anuncia la conclusión definitiva del ensayo despidiéndose formalmente de los lectores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se ubica en el cierre ni tiene valor recapitulativo."
+        },
+        {
+          "letter": "D",
+          "text": "Funciona como un nexo aditivo equivalente a la conjunción copulativa 'y' sin marcar contraste.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no suma elementos análogos sino que introduce una oposición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores adversativos regulan los giros lógicos y las restricciones dentro de la argumentación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v6",
+      "statement": "¿Con qué intención afirma el autor que 'la burocracia estatal brilla por su velocidad prodigiosa'?",
+      "context": "Uso de la ironía discursiva en la crítica institucional (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Denunciar sarcásticamente la lentitud e ineficiencia de los trámites administrativos en el país.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ironía dice lo opuesto de lo que piensa para enfatizar una falla del sistema."
+        },
+        {
+          "letter": "B",
+          "text": "Elogiar genuinamente al ministerio por la prontitud en la expedición de licencias ambientales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto demuestra a lo largo de los párrafos la demora del Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Sugerir que los funcionarios públicos deberían competir en carreras de atletismo internacional.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una lectura literal absurda que desconoce la figura retórica."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar las propiedades físicas de la luz solar en las oficinas gubernamentales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde la metáfora de 'brillar' con un fenómeno de la óptica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía exige interpretar la disparidad entre el significado literal y el sentido pragmático pretendido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el fin último que persigue el ensayo publicado en la revista universitaria?",
+      "context": "Identificación del propósito comunicativo global del autor (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Persuadir a la opinión pública sobre la necesidad de adoptar un modelo de desarrollo sostenible.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el ensayo argumentativo busca convencer al lector sobre una tesis de interés social."
+        },
+        {
+          "letter": "B",
+          "text": "Promover la venta de una marca específica de paneles solares fabricados en el exterior.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desvirtúa el ensayo académico convirtiéndolo en un anuncio comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Narrar una historia de ficción sobre duendes que habitan en los bosques de niebla de los Andes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde la argumentación de hechos reales con el género narrativo fantástico."
+        },
+        {
+          "letter": "D",
+          "text": "Dictar una sentencia judicial de obligatorio cumplimiento para las empresas mineras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un ensayista no posee la facultad jurisdiccional de dictar sentencias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El propósito comunicativo orienta la selección de recursos discursivos y el tono de la argumentación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v8",
+      "statement": "¿Qué supuesto no declarado sostiene el argumento de que 'la naturaleza tiene derechos propios'?",
+      "context": "Reconocimiento de premisas implícitas o presuposiciones (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La idea filosófica de que el valor del medio ambiente no depende exclusivamente de su utilidad para el ser humano.",
+          "is_correct": true,
+          "feedback": "Es correcta porque asumir derechos ecológicos presupone un valor intrínseco (biocentrismo) no antropocéntrico."
+        },
+        {
+          "letter": "B",
+          "text": "La certeza de que las rocas y los ríos pueden redactar leyes en el Congreso de la República.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque otorga facultades del lenguaje humano a elementos inanimados de forma absurda."
+        },
+        {
+          "letter": "C",
+          "text": "El supuesto de que la economía de mercado es la única institución sagrada e intocable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la premisa implícita choca con la mercantilización absoluta de la naturaleza."
+        },
+        {
+          "letter": "D",
+          "text": "La creencia de que todos los seres humanos deben abandonar las ciudades y vivir en cScope.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no promueve el colapso urbano sino el reconocimiento de límites ecológicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar presuposiciones permite desentrañar el marco axiológico o filosófico que sustenta el texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué resulta insuficiente fundamentar una política nacional solo en una encuesta de cinco personas?",
+      "context": "Evaluación de la pertinencia y suficiencia de las evidencias (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la muestra es cuantitativamente insignificante y carece de representatividad estadística.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el rigor estadístico exige muestras representativas para inferir tendencias poblacionales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las encuestas presenciales están prohibidas por la Constitución Política de 1991.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la Constitución no prohíbe las encuestas de opinión pública."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cinco personas son demasiadas y generan confusión en el procesamiento de datos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cinco encuestados constituyen una cifra minúscula, no excesiva."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los ciudadanos con títulos de doctorado tienen derecho a responder encuestas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atenta contra el principio de universalidad en la investigación social."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suficiencia de las pruebas determina la validez y generalizabilidad de las conclusiones del ensayo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes afirmaciones del texto corresponde a un hecho empírico?",
+      "context": "Distinción entre hechos comprobables y opiniones valorativas (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura media global ha aumentado aproximadamente 1,1 °C desde la era preindustrial.",
+          "is_correct": true,
+          "feedback": "Es correcta porque presenta una medición objetiva y contrastable con registros meteorológicos."
+        },
+        {
+          "letter": "B",
+          "text": "La indiferencia de los ciudadanos ante el calentamiento global es una falta moral imperdonable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque juzgar la indiferencia como 'falta moral' es un juicio ético o apreciación subjetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Los paisajes montañosos de Colombia son los más hermosos y sobrecogedores del planeta tierra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la 'hermosura' es una valoración estética personal no medible de forma absoluta."
+        },
+        {
+          "letter": "D",
+          "text": "Es preferible vivir en una cabaña de madera que en un apartamento de concreto en la capital.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque expresa una preferencia individual de estilo de vida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar datos objetivos de juicios de valor es un pilar indispensable de la lectura crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se describe el tono dominante del autor a lo largo del texto?",
+      "context": "Análisis de la actitud o tono del ensayista ante el tema (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Riguroso y comprometido, con un matiz de denuncia ponderada frente a la degradación ambiental.",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina el sustento analítico con una postura crítica seria sobre el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Burlesco y despreocupado, celebrando la destrucción de los bosques con risas sarcásticas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no toma a la ligera la problemática ni celebra el deterioro ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Agresivo e injurioso, amenazando físicamente a los lectores que no compartan su visión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la pasión argumentativa no se traduce en violencia ni insultos al lector."
+        },
+        {
+          "letter": "D",
+          "text": "Fantasioso y delirante, afirmando que habla con seres extraterrestres sobre la capa de ozono.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mantiene los pies en la realidad sin caer en delirios de ficción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tono refleja la postura emotiva e intelectual del emisor hacia la materia discursiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v12",
+      "statement": "¿De qué manera se articulan el primer y el último párrafo del documento?",
+      "context": "Relación entre la introducción y la conclusión del ensayo (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión retoma la hipótesis planteada en la apertura y sintetiza la validación lograda mediante los argumentos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la conclusión cumple la función de cerrar el círculo argumentativo demostrando la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "El último párrafo afirma lo opuesto a la introducción dejando al lector sin saber qué piensa el autor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una contradicción no resuelta destruye la coherencia del escrito."
+        },
+        {
+          "letter": "C",
+          "text": "La introducción habla sobre la Amazonia y la conclusión se dedica a explicar la física cuántica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque rompe la unidad temática y la continuidad del texto."
+        },
+        {
+          "letter": "D",
+          "text": "El cierre es una copia textual idéntica del primer párrafo sin aportar ningún avance conceptual.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque repetir el inicio sin sintetizar el desarrollo muestra falta de elaboración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia global exige que la conclusión selle la indagación abierta en la introducción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v13",
+      "statement": "¿Qué función cumple comparar el río Magdalena con las arterias del cuerpo humano?",
+      "context": "Uso discursivo de analogías explicativas complejas (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ilustrar cómo la contaminación en un tramo afecta la salud e integridad de todo el ecosistema fluvial.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la analogía permite comprender la interconexión y fragilidad del sistema hídrico."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el agua dulce tiene la misma composición química que la sangre humana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde una metáfora biológica con una identidad de composición física."
+        },
+        {
+          "letter": "C",
+          "text": "Sugerir que los médicos de los hospitales deben dedicarse a la pesca de subienda.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la analogía no propone un cambio de profesión para el personal de salud."
+        },
+        {
+          "letter": "D",
+          "text": "Afirmar que los barcos de vapor funcionan alimentados por pulsaciones cardíacas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una interpretación literal mecánica ajena al recurso retórico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La analogía facilita la transferencia de esquemas explicativos desde un ámbito conocido a uno complejo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué incurre en falacia la frase 'no debemos creerle al biólogo porque usa anteojos y es muy tímido'?",
+      "context": "Detección de falacias argumentativas (Ad Hominem) (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque descalifica el argumento atacando características personales del científico que nada tienen que ver con su estudio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la falacia ad hominem desplaza la discusión del plano del argumento al ataque personal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los científicos que usan anteojos siempre cometen errores en los cálculos del laboratorio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque validar el prejuicio es aceptar la falacia como razonamiento correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la timidez es una prueba irrefutable de que los datos sobre la deforestación son falsos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el rasgo de personalidad no afecta la validez empírica de una investigación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el autor demuestra una profunda erudición en la historia de la medicina optométrica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atacar el aspecto físico no representa erudición sino falta de rigor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las falacias ad hominem invalidan el debate al sustituir las razones por descalificaciones adjetivas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué el título 'El crepúsculo de los ríos: un llamado a la acción' resulta adecuado?",
+      "context": "Evaluación de la función pragmática del título (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sintetiza la gravedad del diagnóstico ambiental y anticipa la postura propositiva del autor.",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina el componente metafórico (crepúsculo) con el propósito pragmático (llamado a la acción)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es el título de una canción de salsa muy popular en la ciudad de Cali.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su función en el ensayo no es servir de referencia discográfica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque utiliza palabras escritas en un código secreto que solo los científicos entienden.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque usa el idioma español estándar y no un código criptográfico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque garantiza que el libro se venda al precio más alto en las librerías del país.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título busca orientar el sentido de la lectura y no fijar tarifas comerciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El título constituye el primer marco hermenéutico que orienta las expectativas de lectura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v16",
+      "statement": "¿Qué enriquece el debate al incluir testimonios de campesinos, empresarios y académicos?",
+      "context": "Análisis de la polifonía y convergencia de perspectivas (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite abordar la problemática desde múltiples ángulos e intereses, ofreciendo una visión integral.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la polifonía bien estructurada amplía el horizonte de análisis y fortalece el juicio crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el autor no tenía ideas propias y tuvo que copiar textos ajenos para llenar páginas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque integrar fuentes es una fortaleza metodológica y no un síntoma de falta de ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Genera un caos verbal que impide saber cuál es la verdadera intención del escrito.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el ensayista se encarga de articular las distintas voces bajo un hilo conductor."
+        },
+        {
+          "letter": "D",
+          "text": "Prueba que los campesinos y los académicos opinan exactamente lo mismo sobre todos los temas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la riqueza del debate estriba precisamente en los matices y tensiones entre actores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polifonía discursiva pondera diferentes voces sociales para evitar reduccionismos simplistas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v17",
+      "statement": "¿De qué manera influye la historia del conflicto armado en la reflexión sobre la tierra?",
+      "context": "Incidencia del contexto sociocultural colombiano en el escrito (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evidencia que el despojo de tierras y la violencia han marcado la relación con el territorio y la naturaleza.",
+          "is_correct": true,
+          "feedback": "Es correcta porque ubica las problemáticas ecológicas en el marco histórico de las disputas territoriales del país."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que Colombia es un país habitado exclusivamente por diplomáticos suizos en paz perpetua.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque niega la dolorosa realidad del conflicto interno de la nación."
+        },
+        {
+          "letter": "C",
+          "text": "Prueba que la violencia no ha tenido ningún impacto en la economía agraria nacional.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el conflicto armado y el despojo han afectado profundamente el campo colombiano."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga al autor a escribir el ensayo en dialectos antiguos ya desaparecidos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto se redacta en español contemporáneo estándar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el contexto sociocultural resulta imprescindible para juzgar la pertinencia de las tesis socioambientales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v18",
+      "statement": "Si se acepta que 'todos los humedales regulan las inundaciones' y que 'La Conejera es un humedal', ¿qué se deduce?",
+      "context": "Verificación de la validez de la inferencia deductiva (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que La Conejera cumple la función de regular las inundaciones en su entorno geográfico.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la conclusión se deriva necesariamente de la premisa mayor universal y la premisa menor singular."
+        },
+        {
+          "letter": "B",
+          "text": "Que La Conejera es una cadena de montañas ubicada en el departamento del Nariño.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque altera la naturaleza geográfica del objeto de estudio expresado en las premisas."
+        },
+        {
+          "letter": "C",
+          "text": "Que ningún humedal del planeta puede almacenar agua durante las épocas de lluvia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contradice abiertamente la premisa mayor categórica."
+        },
+        {
+          "letter": "D",
+          "text": "Que las inundaciones son provocadas intencionalmente por los científicos de la capital.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque introduce un elemento externo infundado que no atañe a la deducción lógica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La validez deductiva exige que la conclusión esté contenida conceptualmente en las premisas de partida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v19",
+      "statement": "¿Qué diferencia existe entre calificar un proyecto como 'reforma audaz' o como 'improvisación peligrosa'?",
+      "context": "Evaluación del sesgo ideológico mediante la elección de adjetivos (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera adjetivación denota aprobación y valentía, mientras que la segunda sugiere irresponsabilidad y riesgo.",
+          "is_correct": true,
+          "feedback": "Es correcta meidante la adjetivación valorativa se trasluce la simpatía o el rechazo ideológico del emisor."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas expresiones significan exactamente lo mismo y no revelan la postura del emisor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque orientan el juicio del lector en direcciones diametralmente opuestas."
+        },
+        {
+          "letter": "C",
+          "text": "La primera opción es un insulto gravísimo y la segunda es un poema de amor romántico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque distorsiona completamente las funciones pragmáticas de ambas expresiones."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestran que el autor desconoce el significado de las palabras en el idioma castellano.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque evidencia el uso preciso de la carga connotativa del léxico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis del léxico adjetivo permite desenmascarar la toma de posición implícita en textos persuasivos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué se puede considerar que el ensayo analizado posee un alto valor formativo?",
+      "context": "Síntesis crítica global de la validez del escrito (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque articula una tesis clara, premisas verificables, rigor en la contraargumentación y compromiso ético.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reúne los criterios fundamentales de consistencia discursiva, validez empírica y trascendencia social."
+        },
+        {
+          "letter": "B",
+          "text": "Porque fue publicado en un papel con bordes dorados y tipografía dorada de lujo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el lujo tipográfico no añade validez intelectual ni conceptual al escrito."
+        },
+        {
+          "letter": "C",
+          "text": "Porque le da la razón al lector en todos sus prejuicios sin obligarlo a pensar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la educación crítica busca desafiar los prejuicios y estimular la reflexión autónoma."
+        },
+        {
+          "letter": "D",
+          "text": "Porque promete regalar automóvil último modelo a quienes aprueben la lectura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los incentivos materiales no forman parte de los atributos de calidad de un ensayo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación sintética final integra el análisis de forma, contenido, metodología e impacto en la comunidad lectora.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W22-ensayo-critico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

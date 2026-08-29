@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-17-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.180Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué magnitud termodinámica representa el calor intercambiado por un sistema en un proceso a presión constante ($q_p$)?",
+      "context": "En el laboratorio de fisicoquímica en Bogotá se mide el intercambio de calor a presión constante en un calorímetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Variación de entalpía ($\\Delta H$).",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición termodinámica, $Delta H = q_p$ a presión constante."
+        },
+        {
+          "letter": "B",
+          "text": "Energía libre de Helmholtz ($Delta A$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa el trabajo a volumen y temperatura constantes."
+        },
+        {
+          "letter": "C",
+          "text": "Trabajo eléctrico no expansivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $q_p$ es transferencia de calor térmico."
+        },
+        {
+          "letter": "D",
+          "text": "Entropía molar estándar ($S^circ$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La entropía mide la dispersión de energía, no la transferencia de calor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En condiciones de presión constante, la cantidad de calor absorbido o liberado por una reacción química es igual al cambio de entalpía ($Delta H$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se clasifica termodinámicamente una reacción donde $\\Delta H > 0$ y absorbe calor del entorno?",
+      "context": "En Medellín se estudia la reacción de disolución de nitrato de amonio en agua, observando un enfriamiento del recipiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción endotérmica.",
+          "is_correct": true,
+          "feedback": "Correcto. Las reacciones endotérmicas absorben calor ($Delta H > 0$), reduciendo la temperatura del entorno."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción exotérmica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reacciones exotérmicas liberan calor ($Delta H < 0$)."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción isocórica inerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Término no relacionado con la absorción o liberación de calor."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción adiafánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe esa clasificación en termoquímica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si la entalpía de los productos es mayor que la de los reactivos ($Delta H > 0$), el proceso es endotérmico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ley enuncia que si una reacción se efectúa en varias etapas, la variación de entalpía total es la suma de las variaciones de entalpía de cada etapa?",
+      "context": "En Cali se enuncia una ley fundamental de la termoquímica que permite calcular entalpías de reacción sumando ecuaciones intermedias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ley de Hess.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley de Hess establece que la entalpía es una función de estado independiente de la ruta."
+        },
+        {
+          "letter": "B",
+          "text": "Ley de Charles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe la relación entre volumen y temperatura en gases."
+        },
+        {
+          "letter": "C",
+          "text": "Ley de Henry.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe la solubilidad de un gas en un líquido."
+        },
+        {
+          "letter": "D",
+          "text": "Ley de Faraday.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relaciona la electrólisis con la carga eléctrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley de Hess se basa en que la entalpía es una función de estado; por ende, $Delta H$ depende solo de estados inicial y final.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor por convención de la entalpía estándar de formación de cualquier elemento químico en su forma alotrópica más estable?",
+      "context": "En Barranquilla se consulta la tabla de entalpías estándar de formación ($\\Delta H_f^\\circ$) de diversas sustancias puras a $25^\\circ\\text{C}$ y $1 \\text{ atm}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0 \\text{ kJ/mol}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por convención termoquímica internacional, $Delta H_f^circ = 0$ para elementos puros en su estado estándar."
+        },
+        {
+          "letter": "B",
+          "text": "$100 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se le asigna un valor positivo arbitrario."
+        },
+        {
+          "letter": "C",
+          "text": "$-285.8 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a la formación del agua líquida."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de la masa molar del elemento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cero por definición para todos los elementos en estado de referencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La entalpía de formación de un elemento puro en su estado termodinámico estándar a 298.15 K es cero por convenio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la entalpía estándar de combustión ($Delta H_{rxn}^circ$) de un mol de metano?",
+      "context": "Un estudiante en Bucaramanga calcula la entalpía de combustión del metano ($CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$) usando entalpías de formación: $\\Delta H_f^\\circ(CH_4) = -74.8 \\text{ kJ/mol}$, $\\Delta H_f^\\circ(CO_2) = -393.5 \\text{ kJ/mol}$, $\\Delta H_f^\\circ(H_2O_{(l)}) = -285.8 \\text{ kJ/mol}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-890.3 \\text{ kJ/mol}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $Delta H_{rxn} = [-393.5 + 2(-285.8)] - [-74.8 + 0] = [-393.5 - 571.6] + 74.8 = -965.1 + 74.8 = -890.3 \text{ kJ/mol}$."
+        },
+        {
+          "letter": "B",
+          "text": "$+890.3 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las combustiones son exotérmicas y tienen signo negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$-604.5 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar la formación del agua por su coeficiente estequiométrico de 2."
+        },
+        {
+          "letter": "D",
+          "text": "$-965.1 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No restó la entalpía de formación del reactivo $CH_4$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$Delta H_{rxn} = sum n Delta H_f^circ(\text{productos}) - sum m Delta H_f^circ(\text{reactivos}) = -890.3 \text{ kJ/mol}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la entalpía molar de combustión del propano estimada a partir de estos datos?",
+      "context": "En Manizales se queman 4 gramos de gas propano ($C_3H_8$, masa molar $44 \\text{ g/mol}$) en un calorímetro de bomba. La reacción libera $200 \\text{ kJ}$ de calor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-2200 \\text{ kJ/mol}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Moles de propano $= 4/44 = 0.0909 \\text{ mol}$. $Delta H = -200 \\text{ kJ} / 0.0909 \\text{ mol} = -2200 \\text{ kJ/mol}$."
+        },
+        {
+          "letter": "B",
+          "text": "$-880 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó 200 por 4.4 en lugar de dividir adecuadamente."
+        },
+        {
+          "letter": "C",
+          "text": "$-50 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió 200 kJ entre los 4 gramos obteniendo kJ/g, no kJ/mol."
+        },
+        {
+          "letter": "D",
+          "text": "$-4400 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de factor 2 en el cálculo molar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Moles $= 4/44 = 0.0909 \text{ mol}$. Entalpía molar $= -200 / 0.0909 = -2200 \text{ kJ/mol}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la variación de energía libre de Gibbs ($\\Delta G$) a la temperatura de ebullición ($373.15 \\text{ K}$)?",
+      "context": "En Tunja se evapora 1 mol de agua líquida a $100^\\circ\\text{C}$ requeridos $40.7 \\text{ kJ}$ de calor. El cambio de entropía del sistema es $\\Delta S = +109 \\text{ J/(mol K)}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0 \\text{ kJ/mol}$ (estado de equilibrio de fase).",
+          "is_correct": true,
+          "feedback": "Correcto. En el punto de cambio de fase ($100^circ\text{C}$), las fases líquida y vapor están en equilibrio, por lo que $Delta G = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$-40.7 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $Delta G$ no es igual a $-Delta H$."
+        },
+        {
+          "letter": "C",
+          "text": "$+40.7 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el punto de ebullición el proceso no es imposible ni espontáneo en una sola dirección."
+        },
+        {
+          "letter": "D",
+          "text": "$-40660 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al no convertir Julios a kilojulios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el punto de ebullición la transición de fase es reversible y está en equilibrio, de modo que $Delta G = Delta H - TDelta S = 0$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v8",
+      "statement": "¿A qué rango de temperaturas la reacción será espontánea ($\\Delta G < 0$)?",
+      "context": "En Pereira se analiza la espontaneidad de una reacción con $\\Delta H = -50 \\text{ kJ}$ y $\\Delta S = -100 \\text{ J/K}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A temperaturas inferiores a $500 \\text{ K}$ ($227^\\circ\\text{C}$).",
+          "is_correct": true,
+          "feedback": "Correcto. $Delta G = -50,000 - T(-100) < 0 Rightarrow 100 T < 50,000 Rightarrow T < 500 \text{ K}$."
+        },
+        {
+          "letter": "B",
+          "text": "A cualquier temperatura superior a $500 \\text{ K}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A alta temperatura el término $-TDelta S$ se vuelve positivo y domina, haciendo $Delta G > 0$."
+        },
+        {
+          "letter": "C",
+          "text": "A ninguna temperatura la reacción puede ser espontánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser exotérmica ($Delta H < 0$), es espontánea a bajas temperaturas."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente al cero absoluto ($0 \text{ K}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es espontánea en todo el rango de 0 K a 500 K."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para $Delta H < 0$ y $Delta S < 0$, la reacción es espontánea solo por debajo de la temperatura crítica $T = Delta H / Delta S = 500 \text{ K}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la energía del enlace individual C-H en el metano?",
+      "context": "En Armenia se calcula la energía de enlace promedio C-H sabiendo que la atomización del metano ($CH_{4(g)} \\rightarrow C_{(g)} + 4H_{(g)}$) requiere $1660 \\text{ kJ/mol}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$415 \\text{ kJ/mol}$.",
+          "is_correct": true,
+          "feedback": "Correcto. La molécula de metano posee 4 enlaces equivalentes C-H: $1660 / 4 = 415 \text{ kJ/mol}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1660 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la energía requerida para romper los 4 enlaces de la molécula."
+        },
+        {
+          "letter": "C",
+          "text": "$830 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió únicamente entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "$332 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió entre 5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Energía de enlace C-H $= 1660 \text{ kJ/mol} / 4 \text{ enlaces} = 415 \text{ kJ/mol}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué cantidad de calor liberó la disolución de $NaOH$? (Tome capacidad calorífica del agua $c = 4.18 \\text{ J/(g }^circ\text{C)}$ y masa de solución $110 \\text{ g}$).",
+      "context": "En Cartagena se disuelven 10 gramos de hidróxido de sodio ($NaOH$) en 100 gramos de agua dentro de un calorímetro de vasos de icopor, registrando un aumento de temperatura de $20^\\circ\\text{C}$ a $42^\\circ\\text{C}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10,115.6 \\text{ Julios} (10.11 \\text{ kJ})$.",
+          "is_correct": true,
+          "feedback": "Correcto. $q = m \\cdot c \\cdot \\Delta T = 110 \\text{ g} \\times 4.18 \\text{ J/(g }^circ\\text{C)} \\times 22^\\circ\\text{C} = 10,115.6 \\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$9,196.0 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó únicamente la masa de agua (100 g) sin sumar el soluto (110 g)."
+        },
+        {
+          "letter": "C",
+          "text": "$4,598.0 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó un incremento de temperatura de $11^circ\text{C}$."
+        },
+        {
+          "letter": "D",
+          "text": "$220.0 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó masa por variación de temperatura sin la capacidad calorífica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$q = m_{solución} cdot c cdot Delta T = 110 \times 4.18 \times 22 = 10,115.6 \text{ J} = 10.11 \text{ kJ}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v11",
+      "statement": "¿Qué establece la Tercera Ley de la Termodinámica respecto a la entropía de un cristal perfecto?",
+      "context": "Un investigador en Bogotá evalúa la Tercera Ley de la Termodinámica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La entropía de una sustancia cristalina pura y perfecta es exactamente cero al cero absoluto ($0 \\text{ K}$).",
+          "is_correct": true,
+          "feedback": "Correcto. A 0 K cesa el movimiento térmico y existe un único microestado ordenado ($S = k ln 1 = 0$)."
+        },
+        {
+          "letter": "B",
+          "text": "La entropía del universo disminuye en todo proceso espontáneo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Segunda Ley establece que la entropía del universo *aumenta*."
+        },
+        {
+          "letter": "C",
+          "text": "El calor no puede fluir de un cuerpo frío a uno caliente sin trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una formulación de la Segunda Ley (Clausius)."
+        },
+        {
+          "letter": "D",
+          "text": "La energía no se crea ni se destruye.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la Primera Ley de la Termodinámica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Tercera Ley fija el punto de referencia nulo de la entropía: $S = 0$ a $T = 0 \text{ K}$ para cristales perfectos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v12",
+      "statement": "¿A partir de qué temperatura mínima aproximada se vuelve espontánea la descomposición industrial del $CaCO_3$?",
+      "context": "En Cali se analiza la reacción endotérmica de descomposición de carbonato de calcio ($CaCO_{3(s)} \\rightarrow CaO_{(s)} + CO_{2(g)}$) con $\\Delta H^circ = +178 \\text{ kJ/mol}$ y $\\Delta S^circ = +160 \\text{ J/(mol K)}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1112.5 \\text{ K} (839.35^\\circ\\text{C})$.",
+          "is_correct": true,
+          "feedback": "Correcto. $Delta G = Delta H - TDelta S = 0 Rightarrow T = \frac{Delta H}{Delta S} = \frac{178,000 \text{ J}}{160 \text{ J/K}} = 1112.5 \text{ K}$."
+        },
+        {
+          "letter": "B",
+          "text": "$298.15 \\text{ K} (25^\\circ\\text{C})$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A temperatura ambiente $Delta G > 0$ y el carbonato es estable."
+        },
+        {
+          "letter": "C",
+          "text": "$500.0 \\text{ K}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A 500 K $Delta G = 178 - 500(0.16) = +98 \text{ kJ/mol} > 0$."
+        },
+        {
+          "letter": "D",
+          "text": "$2000.0 \\text{ K}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción se vuelve espontánea mucho antes, a 1112.5 K."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Temperatura de equilibrio $T = Delta H / Delta S = 178,000 / 160 = 1112.5 \text{ K}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v13",
+      "statement": "¿Por qué la entalpía de neutralización del ácido acético ($-55.2 \\text{ kJ/mol}$) es ligeramente menos exotérmica que la del $HCl$ ($-57.3 \\text{ kJ/mol}$)?",
+      "context": "En Medellín se determina la entalpía de neutralización entre un ácido fuerte ($HCl$) y una base fuerte ($NaOH$) versus un ácido débil ($CH_3COOH$) con $NaOH$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parte del calor generado se consume en la ionización endergónica del ácido acético débil.",
+          "is_correct": true,
+          "feedback": "Correcto. El ácido acético requiere absorber calor para disociar previamente sus protones antes de ser neutralizados."
+        },
+        {
+          "letter": "B",
+          "text": "El ácido acético destruye el agua formada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La neutralización produce agua en ambos casos."
+        },
+        {
+          "letter": "C",
+          "text": "El $HCl$ contiene enlaces metálicos de alta energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $HCl$ es una molécula covalente en solución acuosa."
+        },
+        {
+          "letter": "D",
+          "text": "La sal acetato de sodio es altamente volátil e inestable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acetato de sodio es una sal acuosa estable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ácido débil requiere energía de disociación ($Delta H_{disociación} > 0$), reduciendo el calor neto liberado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v14",
+      "statement": "Si la pendiente de la recta $\\ln K$ vs $1/T$ es negativa, ¿qué se concluye sobre la entalpía de la reacción?",
+      "context": "Se grafica la variación de la constante de equilibrio $K_{eq}$ en función de la temperatura ($1/T$) mediante la ecuación de van 't Hoff ($\n \\frac{d \\ln K}{d(1/T)} = -\\frac{\\Delta H^circ}{R}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reacción es endotérmica ($\\Delta H^circ > 0$).",
+          "is_correct": true,
+          "feedback": "Correcto. Como la pendiente es $-Delta H^circ / R$, una pendiente negativa implica $-Delta H^circ < 0 Rightarrow Delta H^circ > 0$."
+        },
+        {
+          "letter": "B",
+          "text": "La reacción es exotérmica ($\\Delta H^circ < 0$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para una reacción exotérmica la pendiente $-Delta H^circ / R$ sería positiva."
+        },
+        {
+          "letter": "C",
+          "text": "La reacción no altera la concentración de reactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante $K$ cambia con la temperatura según van 't Hoff."
+        },
+        {
+          "letter": "D",
+          "text": "La entalpía es exactamente cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $Delta H^circ = 0$, la pendiente sería totalmente horizontal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De la ecuación de van 't Hoff, Pendiente $= -Delta H^circ / R$. Una pendiente negativa indica $Delta H^circ > 0$ (endotérmica).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué la vaporización del etanol aumenta la entropía del sistema ($\\Delta S_{sistema} > 0$)?",
+      "context": "En Tunja se evapora etanol en un recipiente abierto a presión atmosférica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las moléculas en fase gaseosa tienen mayor libertad de movimiento y volumen de dispersión que en fase líquida.",
+          "is_correct": true,
+          "feedback": "Correcto. El paso de líquido a gas incrementa drásticamente el número de microestados accesibles."
+        },
+        {
+          "letter": "B",
+          "text": "Los átomos de carbono se convierten en fotones de luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vaporización es un cambio de fase físico sin transmutación atómica."
+        },
+        {
+          "letter": "C",
+          "text": "El etanol gaseoso destruye los enlaces covalentes C-C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gas mantiene intacta la estructura molecular del etanol."
+        },
+        {
+          "letter": "D",
+          "text": "El calor absorbido se destruye al pasar a gas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía se conserva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estado gaseoso presenta un número mucho mayor de microestados y desorden espacial que el estado líquido, incrementando $S$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v16",
+      "statement": "Usando la Ley de Hess, ¿cuál es el cambio de entalpía para la transición alótropa $C_{(\text{grafito})} \\rightarrow C_{(\text{diamante})}$?",
+      "context": "En un experimento en Bucaramanga se mide el calor de combustión del grafito y del diamante a $25^\\circ\\text{C}$ y 1 atm: $C_{(\text{grafito})} + O_2 \\rightarrow CO_2$, $\\Delta H_1 = -393.5 \\text{ kJ/mol}$; $C_{(\text{diamante})} + O_2 \\rightarrow CO_2$, $\\Delta H_2 = -395.41 \\text{ kJ/mol}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$+1.91 \\text{ kJ/mol}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Restando las ecuaciones: $Delta H = Delta H_1 - Delta H_2 = -393.51 - (-395.41) = +1.91 \text{ kJ/mol}$."
+        },
+        {
+          "letter": "B",
+          "text": "$-788.92 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó ambas combustiones sin invertir la segunda reacción."
+        },
+        {
+          "letter": "C",
+          "text": "$-1.91 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Errores de signo en la aplicación de la Ley de Hess."
+        },
+        {
+          "letter": "D",
+          "text": "$0 \\text{ kJ/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grafito y el diamante tienen diferente contenido entálpico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$Delta H_{transición} = -393.51 - (-395.41) = +1.91 \text{ kJ/mol}$. El grafito es termodinámicamente más estable a 298 K.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.39,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v17",
+      "statement": "Dado que la reacción es exotérmica, aumentar la temperatura reduce el rendimiento de equilibrio ($K_p$ menor). ¿Por qué en la industria se opera a una alta temperatura de $450^\\circ\\text{C}$ en lugar de temperatura ambiente?",
+      "context": "Un grupo de ingenieros químicos en Bogotá evalúa la síntesis industrial del amoníaco ($N_{2(g)} + 3H_{2(g)} \\rightleftharpoons 2NH_{3(g)}$, $\\Delta H^circ = -92.2 \\text{ kJ/mol}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para lograr una velocidad de reacción cinéticamente viable impulsada por la energía de activación, usando un catalizador de hierro.",
+          "is_correct": true,
+          "feedback": "Correcto. A temperatura ambiente la velocidad es impracticable lenta. Se sacrifica rendimiento de equilibrio para obtener alta velocidad cinética."
+        },
+        {
+          "letter": "B",
+          "text": "Porque a $450^circ\text{C}$ la reacción se vuelve 100% irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equilibrio sigue existiendo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el nitrógeno se convierte en helio a esa temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay reacciones nucleares en catálisis de Haber-Bosch."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la entalpía cambia de signo a positiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $Delta H^circ$ se mantiene negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El proceso Haber-Bosch es un compromiso entre cinética (alta velocidad a $450^circ\text{C}$) y termodinámica (equilibrio desplaza a reactivos).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v18",
+      "statement": "Si el límite teórico de trabajo eléctrico útil de la celda está dado por la variación de energía libre de Gibbs ($\\Delta G^circ = -237.1 \\text{ kJ/mol}$) y no por la entalpía total ($\\Delta H^circ = -285.8 \\text{ kJ/mol}$), ¿cuál es el rendimiento termodinámico teórico máximo de esta celda?",
+      "context": "Se investiga la eficiencia energética de celdas de combustible de hidrógeno ($H_2 + \\frac{1}{2}O_2 \\rightarrow H_2O_{(l)}$) en Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "83.0%.",
+          "is_correct": true,
+          "feedback": "Correcto. Rendimiento máximo $= (Delta G^circ / Delta H^circ) \times 100% = (237.1 / 285.8) \times 100% = 82.96% approx 83.0%$."
+        },
+        {
+          "letter": "B",
+          "text": "100.0%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término $TDelta S$ disipado impide alcanzar el 100%."
+        },
+        {
+          "letter": "C",
+          "text": "40.0%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestima la capacidad de conversión electroquímica de la celda de combustible."
+        },
+        {
+          "letter": "D",
+          "text": "50.0%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división de los parámetros termodinámicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La máxima fracción de calor de combustión convertible en trabajo eléctrico útil es $eta = Delta G^circ / Delta H^circ = 83.0%$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v19",
+      "statement": "Al evaluar la estabilidad relativa de los polimorfos A y B a $37^\\circ\\text{C}$ (temperatura corporal), se determina que $\\Delta H_{A\\rightarrow B} = +5 \\text{ kJ/mol}$ y $\\Delta G_{A\\rightarrow B} = -2 \\text{ kJ/mol}$. ¿Qué conclusión se deriva?",
+      "context": "Un laboratorio farmacéutico en Cali investiga la cristalización de un polimorfo de un principio activo analgésico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El polimorfo B es el estado termodinámicamente estable a $37^\\circ\\text{C}$ impulsado por un aumento de entropía ($\\Delta S > 0$).",
+          "is_correct": true,
+          "feedback": "Correcto. Como $Delta G < 0$, la transición A $\rightarrow$ B es espontánea, a pesar de ser endotérmica ($Delta H > 0$), dirigida por entropía."
+        },
+        {
+          "letter": "B",
+          "text": "El polimorfo A es infinitamente más estable y no se transforma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $Delta G < 0$ indica que B es más estable que A."
+        },
+        {
+          "letter": "C",
+          "text": "La muestra se evapora instantáneamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un cambio de fase sólido-sólido."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura corporal destruye los enlaces de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura molecular del analgésico no se destruye."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un $Delta G < 0$ con $Delta H > 0$ exige que $TDelta S > Delta H$, siendo un proceso impulsado por entropía hacia la forma B.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v20",
+      "statement": "La descomposición explosiva $2NH_4NO_{3(s)} \\rightarrow 2N_{2(g)} + O_{2(g)} + 4H_2O_{(g)}$ presenta $\\Delta H \\ll 0$ y $\\Delta S \\gg 0$. ¿Por qué esta combinación termodinámica es catastrófica?",
+      "context": "Se evalúa la seguridad de tanques de almacenamiento de nitrato de amonio ($NH_4NO_3$) en depósitos agrícolas en Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Origina un $\\Delta G$ masivamente negativo a toda temperatura y una enorme expansión por gas y calor liberado.",
+          "is_correct": true,
+          "feedback": "Correcto. Liberar gran calor ($Delta H < 0$) y aumentar abruptamente los moles de gas ($Delta S > 0$) genera una explosión espontánea devastadora."
+        },
+        {
+          "letter": "B",
+          "text": "Porque absorbe todo el oxígeno del planeta enfriando el tanque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción libera oxígeno gaseoso y genera elevadísimas temperaturas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque convierte el nitrógeno en hierro sólido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirmación ajena a la química del nitrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Porque requiere de una fuente infinita de agua para iniciar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción es autofinanciada termodinámicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$Delta H < 0$ y $Delta S > 0$ garantizan $Delta G < 0$ extremante negativo a cualquier temperatura con violenta liberación de gases.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.25,
+      "bundle_id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

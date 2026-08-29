@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-27-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.198Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v1",
+      "statement": "¿A qué elemento gramatical remite el pronombre 'ellos' en la frase 'Los senadores debatieron la ley; ellos votaron a favor'?",
+      "context": "Análisis de la deixis anafórica en editoriales (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al sustantivo plural 'senadores' mencionado en la proposición anterior.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'ellos' realiza una anáfora al recuperar la referencia al sujeto 'senadores'."
+        },
+        {
+          "letter": "B",
+          "text": "A la ley constitucional que se encontraba en proceso de discusión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'ley' es un sustantivo femenino singular inacoplable con 'ellos'."
+        },
+        {
+          "letter": "C",
+          "text": "A los ciudadanos que asistieron a las barras del Congreso de la República.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los asistentes a las barras no son el sujeto gramatical antecedentes."
+        },
+        {
+          "letter": "D",
+          "text": "Al presidente que sancionó la norma al final de la jornada legislativa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el presidente no se menciona como antecedente directo en la cláusula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deixis anafórica garantiza la cohesión textual mediante pronombres que recuperan referentes previos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes enunciados cumple con las normas de concordancia gramatical de la RAE?",
+      "context": "Concordancia con sustantivos colectivos partitivos (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mayoría de los manifestantes marchó pacíficamente por la avenida principal.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el verbo concuerda en singular con el núcleo colectivo partitivo 'la mayoría'."
+        },
+        {
+          "letter": "B",
+          "text": "La mayoría de los manifestantes marcháron pacíficamente por la avenida principal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque incurre en una acentuación ortográfica aberrante en la conjugación verbal."
+        },
+        {
+          "letter": "C",
+          "text": "La mayoría de los manifestante marcharon pacíficamente por la avenida principal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta por la falta de concordancia de número en el complemento 'manifestante'."
+        },
+        {
+          "letter": "D",
+          "text": "La mayoría de los manifestantes marcharemos pacíficamente por la avenida principal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta por alterar la tercera persona gramatical sustituyéndola por la primera plural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los colectivos partitivos admiten concordancia en singular con el núcleo o en plural con el adyacente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v3",
+      "statement": "¿Qué propósito cumple el marcador discursivo 'es decir' en la redacción de un artículo de divulgación científica?",
+      "context": "Función discursiva del marcador de reformulación 'es decir' (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aclarar o reexplicar una afirmación compleja previa mediante términos más comprensibles.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'es decir' es un conector de reformulación explicativa."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir una contradicción tajante que anula lo expresado en el párrafo anterior.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no tiene función adversativa sino aclaratoria."
+        },
+        {
+          "letter": "C",
+          "text": "Iniciar una lista cronológica de los descubrimientos astronómicos del siglo XVII.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no ordena secuencias temporales en el discurso."
+        },
+        {
+          "letter": "D",
+          "text": "Concluir formalmente un ensayo despidiéndose de los lectores de la revista.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no posee carácter recapitulativo ni de despedida final."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los marcadores de reformulación facilitan la comprensión lectora al reexpresar la información.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes oraciones corresponde a una pasiva refleja gramaticalmente correcta?",
+      "context": "Uso de la pasiva refleja con el pronombre 'se' (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se publicaron los resultados oficiales de la prueba Saber 11 esta mañana.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el verbo plural 'publicaron' concuerda con el sujeto paciente plural 'los resultados'."
+        },
+        {
+          "letter": "B",
+          "text": "Se publicó los resultados oficiales de la prueba Saber 11 esta mañana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque incumple la concordancia de número entre el verbo y el sujeto paciente."
+        },
+        {
+          "letter": "C",
+          "text": "Se publicaron a los resultados oficiales de la prueba Saber 11 esta mañana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la pasiva refleja de cosas no lleva la preposición 'a'."
+        },
+        {
+          "letter": "D",
+          "text": "Se publicó por el ICFES los resultados oficiales de la prueba Saber 11 esta mañana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la pasiva refleja no suele llevar complemento agente explícito y debe concordar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pasiva refleja exige concordancia obligatoria entre el verbo pasivo y el sujeto paciente de la oración.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v5",
+      "statement": "¿En qué opción se emplea de manera impecable el pronombre relativo 'cuyo'?",
+      "context": "Uso del relativo posesivo 'cuyo' en oraciones compuestas (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La investigadora cuya hipótesis fue premiada presentó su ponencia en la universidad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'cuya' concuerda en femenino singular con el sustantivo poseído ('hipótesis')."
+        },
+        {
+          "letter": "B",
+          "text": "La investigadora que su hipótesis fue premiada presentó su ponencia en la universidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta por el uso vulgar del 'quesuísmo' ('que su') en lugar del relativo correcto cuyo."
+        },
+        {
+          "letter": "C",
+          "text": "La investigadora cuya de su hipótesis fue premiada presentó su ponencia en la universidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta por la redundancia agramatical de acumular cuyo + de + su."
+        },
+        {
+          "letter": "D",
+          "text": "La investigadora quien su hipótesis fue premiada presentó su ponencia en la universidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta por emplear el relativo de persona 'quien' con sentido posesivo sin concordancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El relativo 'cuyo' concuerda en género y número con la cosa poseída y enlaza proposiciones subordinadas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v6",
+      "statement": "¿Qué función cumplen los organizadores 'en primer lugar' y 'por último' en un ensayo?",
+      "context": "Marcadores de ordenación discursiva (en primer lugar, por último) (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructurar la secuencia del discurso guiando al lector a lo largo del desarrollo de las ideas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque organizan la información jerárquicamente en el tiempo o espacio del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar dudas sobre la veracidad de los datos presentados en el texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no indican incertidumbre sino ordenamiento expositivo."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazar el uso de los signos de puntuación como la coma y el punto seguido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los organizadores no eximen del uso adecuado de la puntuación."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir diálogos dramáticos entre personajes de ficción dentro de un texto informativo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se usan para abrir diálogos sino para secuenciar apartados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores organizadores jerarquizan las partes del escrito facilitando el mapa de lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fenómeno de cohesión se presenta en la oración 'Juan compró libros; Valentina, revistas'?",
+      "context": "La elipsis como mecanismo de cohesión textual (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elipsis verbal, donde la coma sustituye al verbo 'compró' para evitar su repetición innecesaria.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la elipsis omite un elemento lingüístico recuperable por el contexto sintáctico."
+        },
+        {
+          "letter": "B",
+          "text": "Anáfora pronominal, mediante el reemplazo de Valentina por un pronombre personal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay sustitución pronominal sino omisión del núcleo verbal."
+        },
+        {
+          "letter": "C",
+          "text": "Catáfora explicativa, al anticipar los títulos de las revistas que se van a comprar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se anticipa información futura sino que se elide el verbo previo."
+        },
+        {
+          "letter": "D",
+          "text": "Pleonasmo sintáctico, al reiterar palabras redundantes dentro de la proposición.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la elipsis es un mecanismo de economía y no de redundancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elipsis suprime elementos redundantes sin perder la inteligibilidad del enunciado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación lógica se establece mediante el conector 'por lo tanto' en un texto argumentativo?",
+      "context": "Uso del conector consecutivo 'por lo tanto' (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce la consecuencia o deducción que se deriva de las premisas expuestas anteriormente.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'por lo tanto' es un conector consecutivo que da paso a la conclusión o efecto."
+        },
+        {
+          "letter": "B",
+          "text": "Señala una restricción o concesión frente a la afirmación expresada en la cláusula previa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las restricciones corresponden a conectores adversativos (sin embargo)."
+        },
+        {
+          "letter": "C",
+          "text": "Indica la causa u origen biológico de un fenómeno natural descrito en el párrafo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las causas se introducen mediante conectores causales (porque, ya que)."
+        },
+        {
+          "letter": "D",
+          "text": "Sirve para ejemplificar una anécdota personal sin valor en el argumento principal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no introduce ejemplos sino deducciones lógicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores consecutivos expresan el resultado o la conclusión lógica derivada de lo dicho previamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipo de referencia deíctica se observa en 'Esto es lo que afirmo: la educación es la clave'?",
+      "context": "Catáfora gramatical mediante pronombres demostrativos (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Catáfora, porque el demostrativo 'esto' anticipa la idea que se enunciará a continuación.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la catáfora proyecta la referencia hacia un elemento textual posterior."
+        },
+        {
+          "letter": "B",
+          "text": "Anáfora, porque 'esto' retoma una idea explicada ampliamente en el capítulo anterior.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la información referida se encuentra adelante y no atrás en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Elipsis, porque se ha eliminado la palabra 'educación' del sujeto gramatical.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la palabra 'educación' aparece explícitamente en el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Homofonía, porque las palabras 'esto' y 'clave' suenan exactamente igual al pronunciarse.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'esto' y 'clave' no guardan ninguna semejanza fonética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La catáfora anticipa elementos del discurso que se explicitarán posteriormente en el escrito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué un redactor reemplaza 'el perro' por 'el canino' en el segundo párrafo de una noticia?",
+      "context": "Cohesión léxica por sustitución sinonímica (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para evitar la monotonía léxica mediante la sustitución por un sinónimo o hiperónimo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la sustitución sinonímica mantiene la continuidad referencial sin repeticiones molestas."
+        },
+        {
+          "letter": "B",
+          "text": "Para confundir al lector haciéndole creer que en el segundo párrafo aparece un animal distinto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el contexto periodístico asegura la correferencialidad entre perro y canino."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la palabra 'perro' está prohibida por las normas gramaticales del idioma español.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'perro' es un sustantivo plenamente legítimo y normativo."
+        },
+        {
+          "letter": "D",
+          "text": "Para demostrar que el periodista conoce el idioma latín de forma fluida.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se busca elegancia y cohesión en castellano, no ostentación lingüística."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sustitución sinonímica es una estrategia de cohesión que mantiene la coherencia temática evitando la repetición.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v11",
+      "statement": "¿Qué función cumple el conector 'a pesar de que' en la frase 'A pesar de la lluvia, la marcha continuó'?",
+      "context": "Uso de conectores concesivos (aunque, si bien, a pesar de que) (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresar un obstáculo o dificultad que no impide la realización de la acción principal.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los conectores concesivos introducen una traba superada por la acción del verbo principal."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar la causa absoluta por la cual las personas decidieron regresar a sus casas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la marcha no se canceló; la lluvia no funcionó como causa de detención."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir una comparación cuantitativa entre el volumen de agua y el número de marchantes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se realiza una medición de magnitudes comparadas."
+        },
+        {
+          "letter": "D",
+          "text": "Concluir definitivamente el relato de los hechos ocurridos durante el fin de semana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no tiene función recapitulativa o de cierre final del discurso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La concesividad señala un impedimento que resulta ineficaz para neutralizar la acción principal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v12",
+      "statement": "¿Cuándo se utiliza adecuadamente el marcador 'a propósito' en una conversación académica?",
+      "context": "Marcadores discursivos de digresión (por cierto, a propósito) (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para introducir una observación lateral o tema secundario relacionado tangencialmente con la charla.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'a propósito' o 'por cierto' son marcadores de digresión que abren un parentesis temático."
+        },
+        {
+          "letter": "B",
+          "text": "Para insultar de forma malintencionada a uno de los participantes del debate.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la norma discursiva académica prohíbe el uso de marcadores para agravios."
+        },
+        {
+          "letter": "C",
+          "text": "Para señalar que se ha llegado al final de la clase y los alumnos pueden salir.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no funciona como fórmula de clausura del tiempo de clase."
+        },
+        {
+          "letter": "D",
+          "text": "Para corregir una falla de ortografía cometida por el docente en el tablero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no cumple la función de corrección tipográfica o gramatical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los marcadores de digresión permiten introducir incisos temáticos sin romper la fluidez del diálogo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la forma gramaticalmente correcta según la RAE para expresar la presencia de personas?",
+      "context": "Concordancia del verbo 'haber' en construcciones impersonales (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hubo muchas protestas en la plaza pública durante la tarde.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el verbo 'haber' en su uso impersonal que denota existencia es inalterable en plural (hubo)."
+        },
+        {
+          "letter": "B",
+          "text": "Hubieron muchas protestas en la plaza pública durante la tarde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la forma pluralizada 'hubieron' es un vulgarismo agramatical en uso impersonal."
+        },
+        {
+          "letter": "C",
+          "text": "Habrán muchas protestas en la plaza pública durante la tarde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el verbo impersonal debe ir en singular (habrá y no habrán)."
+        },
+        {
+          "letter": "D",
+          "text": "Han habidos muchas protestas en la plaza pública durante la tarde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta por la forma errónea 'habidos' en el participio del compuesto impersonal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo 'haber' impersonal carece de sujeto y solo se conjuga en tercera persona del singular.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v14",
+      "statement": "¿Qué error comete quien escribe 'o sea' como una sola palabra ('osea')?",
+      "context": "Uso de los conectores explicativos (o sea, es decir, esto es) (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incurre en una falta de ortografía al confundir la locución explicativa con el adjetivo relativo a los huesos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'o sea' (locución explicativa) va en dos palabras, mientras que 'ósea' es relativo a hueso."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra un amplio dominio del vocabulario de la medicina ortopédica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la equivocación refleja un error de segmentación léxica y no un mérito médico."
+        },
+        {
+          "letter": "C",
+          "text": "Aplica correctamente la reforma ortográfica de la RAE publicada en 2020.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la RAE no ha aprobado la unificación léxica de la locución 'o sea'."
+        },
+        {
+          "letter": "D",
+          "text": "Escribe correctamente la conjunción adversativa que reemplaza a la palabra 'pero'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'o sea' es explicativo y no una conjunción adversativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La locución explicativa 'o sea' se compone de dos palabras independientes y no debe confundirse con 'ósea'.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v15",
+      "statement": "¿Qué sentido aporta la locución 'en todo caso' al inicio de una oración conclusiva?",
+      "context": "Marcadores de distanciamiento (en todo caso, de todos modos) (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relativizar lo dicho previamente o matizar la posición del autor dando por sentado lo esencial.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los marcadores de distanciamiento permiten matizar o dar por superada una discusión parcial."
+        },
+        {
+          "letter": "B",
+          "text": "Afirmar que todo lo expresado en el texto son mentiras sin fundamento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no descalifica la verdad del texto sino que reajusta su alcance."
+        },
+        {
+          "letter": "C",
+          "text": "Iniciar una descripción detallada de los muebles presentes en una habitación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no tiene por función la descripción de objetos físicos."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir la repetición exacta del texto en voz alta por parte del público.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no es una consigna de lectura en voz alta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los marcadores de distanciamiento permiten al emisor matizar su compromiso con las afirmaciones previas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de las siguientes estructuras causales presenta la puntuación adecuada?",
+      "context": "Uso del conector causal 'ya que' al inicio de oraciones (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ya que la reunión fue cancelada, los delegados regresaron a sus ciudades de origen.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la proposición subordinada causal antepuesta al núcleo verbal se separa con una coma."
+        },
+        {
+          "letter": "B",
+          "text": "Ya que la reunión fue cancelada los delegados regresaron, a sus ciudades de origen.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque falta la coma que debe delimitar el final de la subordinada antepuesta."
+        },
+        {
+          "letter": "C",
+          "text": "Ya que, la reunión fue cancelada los delegados regresaron a sus ciudades de origen.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque coloca la coma de forma ilícita justo después de la locución conjuntiva."
+        },
+        {
+          "letter": "D",
+          "text": "Ya que la reunión, fue cancelada los delegados, regresaron a sus ciudades de origen.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque fragmenta la proposición con comas agramaticales entre sujeto y verbo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones subordinadas causales antepuestas a la principal deben separarse mediante una coma.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v17",
+      "statement": "¿En qué tipo de texto resulta imprescindible la reiteración exacta de términos sin usar sinónimos?",
+      "context": "Cohesión por recurrencia léxica exacta (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En los textos jurídicos y normativos, para evitar cualquier resquicio de ambigüedad interpretativa.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en el derecho la precisión del concepto técnico exige fijedad léxica y repetición exacta."
+        },
+        {
+          "letter": "B",
+          "text": "En los poemas de amor romántico dedicados a la naturaleza y las flores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la poesía privilegia la variedad metafórica y el ritmo léxico."
+        },
+        {
+          "letter": "C",
+          "text": "En las fábulas infantiles que enseñan valores morales a los niños pequeños.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la literatura infantil emplea variaciones y juegos de palabras."
+        },
+        {
+          "letter": "D",
+          "text": "En los artículos de chismes sobre la vida privada de los artistas de televisión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el periodismo de entretenimiento busca la variedad adjetiva no restrictiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En discursos de alta precisión técnica o legal, la repetición léxica exacta prevalece sobre la variación elegante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v18",
+      "statement": "¿Qué función cumple la locución 'es más' en un discurso persuasivo?",
+      "context": "Marcadores de recalcitración o intensificación (más aún, es más) (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Añadir un argumento de mayor peso o intensidad para reforzar la postura que se defiende.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'es más' funciona como un conector aditivo intensificativo que refuerza la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Restar importancia a los datos presentados para que el público no se preocupe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no atenúa los datos sino que añade énfasis y fortaleza a la argumentación."
+        },
+        {
+          "letter": "C",
+          "text": "Señalar que la conferencia durará dos horas más de lo previsto originalmente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no informa sobre la duración temporal del evento."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar que se deben sumar dos números enteros en una operación matemática.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una interpretación literal aritmética ajena a la función discursiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los marcadores de intensificación introducen argumentos con mayor carga persuasiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v19",
+      "statement": "¿Qué elemento garantiza que un ensayo de diez páginas no se desarticule en fragmentos aislados?",
+      "context": "Análisis de la coherencia global y los hilos conductores (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de un hilo conductor o eje temático mantenido mediante conectores y cohesión léxica.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la coherencia global reposa en la articulación de la tesis a través de la red de enlaces."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de hojas de papel de colores diferentes en cada uno de los capítulos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los aspectos de diseño gráfico no garantizan la estructura lógica del pensamiento."
+        },
+        {
+          "letter": "C",
+          "text": "La obligación de colocar la palabra 'fin' al término de cada párrafo escrito.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la palabra 'fin' no crea cohesión sintáctica ni semántica entre ideas."
+        },
+        {
+          "letter": "D",
+          "text": "La inclusión de una lista de nombres de actores famosos en la mitad del texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque intercalar nombres inconexos destruye la unidad del ensayo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia global se logra mediante la presencia ininterrumpida de un eje temático sustentado por marcadores.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué el ICFES evalúa la gramática textual y los marcadores discursivos en Lectura Crítica?",
+      "context": "Síntesis sobre la gramática textual en la prueba Saber 11 (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permiten identificar cómo se construyen las relaciones lógicas entre las oraciones y párrafos de un texto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque comprender la red de marcadores y referentes es indispensable para descifrar el sentido global."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se busca que los estudiantes memoricen el diccionario de la lengua española sin comprenderlo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la prueba no mide la memorización ciega sino la capacidad analítica y relacional."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la gramática textual es un juego de entretenimiento para los momentos de descanso escolar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una competencia académica central para la educación superior."
+        },
+        {
+          "letter": "D",
+          "text": "Porque permite clasificar a los estudiantes según su velocidad para escribir en computadores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no evalúa destrezas dactilográficas sino competencias lectoras críticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gramática textual constituye la arquitectura sobre la que se sostiene la interpretación crítica del discurso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W27-gramatica-textual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
