@@ -71,16 +71,18 @@ jobs:
           name: dist-${{ github.sha }}
           path: saberparatodos/dist
 
-      - name: Deploy to Cloudflare Pages (Preview)
+      - name: 🔧 Normalize Cloudflare Wrangler Preview Config
+        working-directory: ./saberparatodos
+        run: node scripts/normalize-wrangler-config.mjs --target preview
+
+      - name: ⚡ Deploy SaberParaTodos SSR Worker (Preview)
         id: deploy
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: saberparatodos
-          directory: saberparatodos/dist
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref_name }}
+          workingDirectory: 'saberparatodos'
+          command: deploy --config dist/server/wrangler.json --name=saberparatodos-preview
 
   deploy-api-preview:
     needs: validate-and-build
