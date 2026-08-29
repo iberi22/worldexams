@@ -65,8 +65,7 @@ export async function fetchUserProfile(userId?: string): Promise<{ profile: User
 
     const targetId = userId || user.id;
 
-    const { data, error } = await supabase
-      .from('profiles')
+    const { data, error } = await (supabase.from('profiles') as any)
       .select('id, display_name, avatar_url, institution, subjects_interest, country, created_at, updated_at')
       .eq('id', targetId)
       .maybeSingle();
@@ -128,8 +127,7 @@ export async function saveUserProfile(profileData: Partial<UserProfile>): Promis
       updated_at: new Date().toISOString()
     };
 
-    const { data, error } = await supabase
-      .from('profiles')
+    const { data, error } = await (supabase.from('profiles') as any)
       .upsert(payload, { onConflict: 'id' })
       .select('id, display_name, avatar_url, institution, subjects_interest, country, created_at, updated_at')
       .single();
@@ -170,8 +168,7 @@ export async function deleteUserProfile(): Promise<{ success: boolean; error?: s
       return { success: true };
     }
 
-    const { error } = await supabase
-      .from('profiles')
+    const { error } = await (supabase.from('profiles') as any)
       .update({
         display_name: null,
         avatar_url: null,
