@@ -81,7 +81,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           workingDirectory: 'apps/worldexams-api'
-          command: deploy --env production
+          command: deploy
 
   # =========================================================================
   # Phase 3: Build & Deploy SaberParaTodos SSR PWA (saberparatodos.space)
