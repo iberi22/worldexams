@@ -82,59 +82,59 @@ function buildDefaultContent(countryConfig: RuntimeCountryConfig): SiteShellCont
   const authority = countryConfig.institutionName;
 
   return {
-    footerDescription: `Runtime compartido de practica para ${countryName}. Branding, SEO y contenido curricular se localizan por tenant sin duplicar el shell del producto.`,
-    footerDisclaimer: `No afiliado oficialmente con ${authority}. Contenido educativo basado en informacion publica y configuracion local del tenant.`,
+    footerDescription: `Plataforma abierta de práctica para ${countryName}. WorldExams es una plataforma educativa abierta para estudiantes de países hispanohablantes.`,
+    footerDisclaimer: `No afiliado oficialmente con ${authority}. Contenido educativo de libre acceso basado en información pública y curaduría abierta.`,
     about: {
       title: `Sobre ${siteName}`,
-      description: `Conoce como ${siteName} funciona como runtime reutilizable para ${countryName} y otros paises de World Exams.`,
-      heroIntro: `${siteName} convierte la misma base de producto en una experiencia local para ${countryName}, manteniendo shell compartido y contenido localizado por tenant.`,
-      missionTitle: 'Nuestra mision',
+      description: `WorldExams es una plataforma educativa abierta para estudiantes de países hispanohablantes, ofreciendo preparación gratuita para ${countryName} y la región.`,
+      heroIntro: `WorldExams es una plataforma educativa abierta para estudiantes de países hispanohablantes, ofreciendo simulacros, guías de estudio e inteligencia educativa accesible para todos.`,
+      missionTitle: 'Nuestra misión',
       missionParagraphs: [
-        `Queremos que preparar ${examLabel} no dependa de clonar aplicaciones ni de rehacer la interfaz para cada pais.`,
-        'El runtime central vive en saberparatodos, mientras la identidad editorial, SEO, guias y contenidos curriculares se resuelven desde configuracion compartida y modulos localizados.',
-        'Eso nos permite lanzar nuevos paises con una base coherente, controlando deuda tecnica y manteniendo una experiencia profesional para estudiantes y equipos internos.'
+        `Queremos democratizar el acceso a la preparación para ${examLabel} y reducir las brechas educativas en Latinoamérica y España.`,
+        'Ofrecemos un entorno de práctica libre, abierto e interactivo donde cada estudiante puede evaluar sus conocimientos, recibir tutoría explicativa y medir su progreso.',
+        'WorldExams se construye como una iniciativa abierta y sin fines de lucro, impulsada por la comunidad académica y tecnológica.'
       ],
-      missionVisualCaption: `${countryName} dentro de una arquitectura multi-pais`,
-      missionVisualSubcaption: `Shell compartido. Contenido localizado. Guia ${guideLabel}.`,
+      missionVisualCaption: `${countryName} en la red educativa regional`,
+      missionVisualSubcaption: `Plataforma abierta. Contenido localizado. Guía ${guideLabel}.`,
       ecosystemTitle: 'Ecosistema de estudio',
-      ecosystemDescription: `El runtime integra practica, analitica, feedback y componentes editoriales listos para adaptarse a ${countryName}.`,
-      featureSectionTitle: 'Que ofrece esta plantilla',
+      ecosystemDescription: `Integración continua de práctica adaptativa, analítica de aprendizaje y asistentes explicativos para ${countryName}.`,
+      featureSectionTitle: 'Qué ofrece la plataforma',
       features: [
         {
-          title: 'Tenanting centralizado',
-          description: 'La identidad del pais, el examen, los grados, las asignaturas y el theming se resuelven desde config compartida.'
+          title: 'Simulacros adaptativos',
+          description: 'Preguntas agrupadas por asignaturas, competencias y niveles acordes al marco educativo de cada país.'
         },
         {
-          title: 'SEO localizado',
-          description: 'Titulos, descripciones, FAQs y schema se ajustan al tenant activo sin bifurcar layouts.'
+          title: 'Acceso abierto y gratuito',
+          description: 'Sin muros de pago ni suscripciones obligatorias para que cualquier estudiante pueda practicar libremente.'
         },
         {
-          title: 'Runtime reutilizable',
-          description: 'La UI base, navegacion y widgets se conservan, mientras el contenido institucional se desacopla en modulos especificos.'
+          title: 'Tecnología offline-first',
+          description: 'Funciona incluso con conectividades inestables o sin internet mediante almacenamiento local inteligente.'
         },
         {
-          title: 'Operacion documentada',
-          description: 'La separacion entre sitio institucional y runtime de producto queda trazada en docs, skills y manifests.'
+          title: 'Explicaciones paso a paso',
+          description: 'Retroalimentación pedagógica detallada y razonada para potenciar el aprendizaje conceptual.'
         },
         {
-          title: 'Extensible por pais',
-          description: `Se pueden sumar nuevos paises como ${countryName} agregando configuracion y contenido, no forks enteros.`
+          title: 'Cobertura regional',
+          description: `Diseñado para estudiantes de ${countryName} y adaptado a los sistemas educativos de diversos países hispanohablantes.`
         },
         {
-          title: 'Open source',
-          description: 'El trabajo sigue visible para auditoria, correccion y colaboracion tecnica dentro del monorepo.'
+          title: 'Código abierto',
+          description: 'Desarrollado como iniciativa transparente y colaborativa abierta a la contribución comunitaria.'
         }
       ],
-      statsSectionTitle: 'En numeros',
+      statsSectionTitle: 'En números',
       stats: [
-        { value: '24/7', label: 'Practica disponible' },
-        { value: '1', label: 'Runtime compartido' },
-        { value: 'N', label: 'Paises configurables' },
-        { value: 'OSS', label: 'Operacion abierta' },
+        { value: '24/7', label: 'Práctica disponible' },
+        { value: '100%', label: 'Acceso abierto' },
+        { value: '15+', label: 'Países soportados' },
+        { value: 'OSS', label: 'Código abierto' },
       ],
-      feedbackTitle: 'Tu feedback mejora el runtime',
-      feedbackDescription: `Si encuentras errores en la experiencia de ${countryName} o ves copy que aun no es tenant-aware, reportarlo ayuda a endurecer la plantilla para los siguientes paises.`,
-      contributionCta: 'Guia de contribucion',
+      feedbackTitle: 'Tu opinión fortalece la plataforma',
+      feedbackDescription: `Si encuentras imprecisiones en las preguntas de ${countryName} o tienes sugerencias de contenido, reportarlo ayuda a mejorar la experiencia para miles de estudiantes.`,
+      contributionCta: 'Guía de contribución',
       practiceCta: 'Comenzar a practicar'
     },
     contact: {
@@ -189,71 +189,71 @@ function buildDefaultContent(countryConfig: RuntimeCountryConfig): SiteShellCont
 
 const localizedContent: Partial<Record<RuntimeCountryConfig['code'], SiteShellContentOverride>> = {
   CO: {
-    footerDescription: 'Plataforma abierta de practica para las pruebas Saber en Colombia. El runtime compartido mantiene shell comun y localiza contenido, SEO y guias por tenant.',
+    footerDescription: 'Plataforma abierta de práctica para las pruebas Saber en Colombia. WorldExams ofrece preparación libre y sin costo para estudiantes de todo el país.',
     about: {
       stats: [
-        { value: '24/7', label: 'Practica disponible' },
-        { value: '1', label: 'Runtime compartido' },
+        { value: '24/7', label: 'Práctica disponible' },
+        { value: '100%', label: 'Acceso abierto' },
         { value: '580+', label: 'Bundles curados' },
-        { value: 'OSS', label: 'Operacion abierta' },
+        { value: 'OSS', label: 'Código abierto' },
       ],
     },
-    footerDisclaimer: 'No afiliado oficialmente con el ICFES. Contenido educativo basado en informacion publica y curaduria editorial interna.',
+    footerDisclaimer: 'No afiliado oficialmente con el ICFES. Contenido educativo basado en información pública y curaduría editorial abierta.',
     preparacion: {
-      heroIntro: 'Desde la inscripcion oficial hasta tu primera sesion de simulacro para ICFES Saber.',
+      heroIntro: 'Desde la inscripción oficial hasta tu primera sesión de simulacro para ICFES Saber.',
       step1Title: 'Confirma tu calendario',
       step1Description: 'Verifica las fechas oficiales, el tipo de registro y la ruta vigente publicada por el ICFES antes de pagar o diligenciar formularios.',
       step2Title: 'Registro oficial',
-      step2Description: 'Confirma que nombres, documento y datos socioeconomicos coincidan exactamente con tus documentos oficiales.',
-      planOfficialNote: 'La fuente oficial del ICFES prevalece sobre cualquier resumen interno de este runtime.'
+      step2Description: 'Confirma que nombres, documento y datos socioeconómicos coincidan exactamente con tus documentos oficiales.',
+      planOfficialNote: 'La fuente oficial del ICFES prevalece sobre cualquier resumen de esta plataforma.'
     }
   },
   MX: {
     about: {
-      heroIntro: 'Esta experiencia adapta el runtime de World Exams a Mexico para trabajar guias, practica y componentes editoriales alrededor de PLANEA y EXANI sin rehacer la plataforma.',
+      heroIntro: 'WorldExams en México ofrece guías, simulacros y material educativo para la preparación de pruebas como PLANEA y EXANI de forma abierta y gratuita.',
       missionParagraphs: [
-        'La meta no es clonar sitios por pais. La meta es reutilizar la misma base tecnica y cambiar solo lo que realmente debe localizarse para Mexico.',
-        'Eso incluye branding, metadata SEO, nomenclatura escolar, guias y copy institucional, mientras la experiencia base sigue siendo compartida.',
-        'Con este enfoque, el onboarding de nuevos paises se convierte en una operacion de configuracion y contenido, no en una bifurcacion costosa del frontend.'
+        'Nuestra meta es poner al alcance de cada estudiante mexicano herramientas de práctica de alta calidad sin costo.',
+        'Localizamos los temarios, competencias curriculares y guías de admisión para alinearlos al contexto de la educación media y superior en México.',
+        'Fomentamos el aprendizaje autónomo e inclusivo para postulantes a universidades e instituciones de todo el país.'
       ],
-      missionVisualSubcaption: 'Mexico como tenant activo sobre runtime comun.'
+      missionVisualSubcaption: 'Plataforma abierta adaptada a la comunidad educativa en México.'
     },
     contact: {
-      description: 'Escribenos para dudas sobre la plantilla de Mexico, localizacion curricular o siguientes pasos del runtime tenant-aware.'
+      description: 'Escríbenos para dudas sobre los recursos en México, colaboración editorial o aportes al proyecto educativo.'
     },
     preparacion: {
-      heroIntro: 'Desde la convocatoria institucional hasta tu primera ruta de practica para EXANI-II.',
+      heroIntro: 'Desde la convocatoria institucional hasta tu primera ruta de práctica para EXANI-II.',
       step1Title: 'Confirma tu convocatoria',
-      step1Description: 'Revisa la convocatoria publicada por tu universidad o sede aplicadora, valida requisitos y confirma si usaras una ficha institucional o un registro directo.',
-      step2Title: 'Completa tu ficha de admision',
-      step2Description: 'Confirma folio, sede, carrera objetivo y todos tus datos personales antes de cerrar el proceso de admision.',
-      planOfficialNote: 'Cuando una universidad publique reglas especificas, esa convocatoria prevalece sobre cualquier resumen editorial de EXANI-II.'
+      step1Description: 'Revisa la convocatoria publicada por tu universidad o sede aplicadora, valida requisitos y confirma si usarás una ficha institucional o un registro directo.',
+      step2Title: 'Completa tu ficha de admisión',
+      step2Description: 'Confirma folio, sede, carrera objetivo y todos tus datos personales antes de cerrar el proceso de admisión.',
+      planOfficialNote: 'Cuando una universidad publique reglas específicas, esa convocatoria prevalece sobre cualquier resumen informativo de EXANI-II.'
     }
   },
   AR: {
     about: {
-      heroIntro: 'Esta variante usa el mismo runtime para Argentina, pero ya incorpora copy localizado para validar que la plantilla no depende de un esquema binario CO/MX.',
+      heroIntro: 'WorldExams en Argentina acerca recursos de ejercitación y guías académicas abiertas para estudiantes secundarios y aspirantes universitarios.',
       missionParagraphs: [
-        'La prueba argentina sirve como ensayo real del modelo multi-pais: misma base tecnica, distinta capa editorial.',
-        'En vez de duplicar rutas y componentes, localizamos metadatos, textos institucionales, labels y mensajes de soporte desde un modulo dedicado.',
-        'Eso deja lista la plantilla para sumar contenido curricular argentino de forma incremental sin tocar el shell compartido.'
+        'Buscamos respaldar el ingreso universitario y la nivelación de conocimientos mediante ejercitación continua y explicaciones conceptuales claras.',
+        'Nuestros módulos incorporan preguntas orientadas a los temarios de nivel secundario y pruebas de ingreso en universidades nacionales.',
+        'Promovemos una comunidad de aprendizaje colaborativa y de libre acceso.'
       ],
-      missionVisualSubcaption: 'Argentina como tercer tenant de validacion.'
+      missionVisualSubcaption: 'Recursos abiertos de práctica académica para Argentina.'
     },
     contact: {
-      description: 'Si ves algo que todavia suena generico o demasiado colombiano en la experiencia de Argentina, este canal sirve justamente para detectar esos residuos.',
+      description: 'Canal abierto para sugerencias sobre contenidos académicos y colaboración en Argentina.',
       faq: [
         {
-          question: 'Esta version ya esta lista para un lanzamiento completo en Argentina?',
-          answer: 'Todavia no. La plantilla ya soporta tenanting coherente, pero el contenido curricular y las rutas editoriales siguen en expansion.'
+          question: 'Esta versión ya está disponible para estudiantes en Argentina?',
+          answer: 'Sí. La plataforma permite la práctica y consulta de guías, y su banco de contenidos académicos se actualiza periódicamente.'
         },
         {
-          question: 'Por que usar Argentina como tenant de prueba?',
-          answer: 'Porque obliga a validar un tercer contexto real y a sacar del runtime cualquier supuesto escondido que solo funcione para Colombia o Mexico.'
+          question: 'Cómo se adapta el contenido al sistema educativo argentino?',
+          answer: 'Revisamos temarios de secundaria e ingreso universitario para ofrecer ejercitación alineada a las exigencias académicas locales.'
         },
         {
-          question: 'Se puede sumar contenido localizado sin tocar el shell?',
-          answer: 'Si. Ese es precisamente el objetivo: usar modulos tenant-aware para copy y contenido, mientras layouts y componentes base permanecen compartidos.'
+          question: 'Es una plataforma gratuita?',
+          answer: 'Sí. WorldExams es 100% gratuita y abierta para toda la comunidad de estudiantes.'
         }
       ]
     }
