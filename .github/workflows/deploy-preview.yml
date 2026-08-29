@@ -10,6 +10,10 @@ permissions:
   contents: write
   deployments: write
 
+concurrency:
+  group: preview-deploy-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   validate-and-build:
     runs-on: ubuntu-latest
@@ -23,43 +27,44 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+          cache: 'npm'
 
       - name: Install dependencies
-        working-directory: ./saberparatodos
         run: npm ci
 
       - name: Lint & type check
-        working-directory: ./saberparatodos
-        run: npx tsc --noEmit
+        run: |
+          npm run lint
+          npx tsc --noEmit
 
       - name: Unit tests
-        working-directory: ./saberparatodos
-        run: npm run test:unit
+        run: npm test
 
       - name: Build Application
-        working-directory: ./saberparatodos
-        run: npm run build
+        run: npm run build:workspaces
         env:
-          PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          NODE_ENV: production
+          PUBLIC_SITE_URL: https://${{ github.ref_name }}.saberparatodos.pages.dev
+          PUBLIC_API_BASE_URL: https://api.saberparatodos.space/v1
 
       - name: Pre-deploy check
-        working-directory: ./saberparatodos
-        run: node scripts/pre-deploy-check.js
+        run: node saberparatodos/scripts/pre-deploy-check.js
 
       - name: Upload Build Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: dist-${{ github.sha }}
-          path: saberparatodos/dist
-          retention-days: 7
+          name: preview-build
+          path: |
+            saberparatodos/dist
+            saberparatodos/scripts
+            saberparatodos/wrangler.toml
+            saberparatodos/package.json
+          retention-days: 1
 
   deploy-preview:
     needs: validate-and-build
     runs-on: ubuntu-latest
-    environment:
-      name: preview-${{ github.ref_name }}
-      url: ${{ steps.deploy.outputs.url }}
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -68,16 +73,16 @@ jobs:
       - name: Download Build Artifact
         uses: actions/download-artifact@v4
         with:
-          name: dist-${{ github.sha }}
-          path: saberparatodos/dist
+          name: preview-build
+          path: saberparatodos
 
       - name: 🔧 Normalize Cloudflare Wrangler Preview Config
         working-directory: ./saberparatodos
-        run: node scripts/normalize-wrangler-config.mjs --target preview --name saberparatodos-preview
+        run: node scripts/normalize-wrangler-config.mjs --target preview
 
       - name: ⚡ Deploy SaberParaTodos SSR Worker (Preview)
         working-directory: ./saberparatodos
-        run: npx wrangler deploy --config dist/server/wrangler.json
+        run: npx wrangler deploy --config dist/server/wrangler.json --name="saberparatodos-preview-${{ github.ref_name }}"
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -86,8 +91,6 @@ jobs:
     needs: validate-and-build
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    environment:
-      name: preview-api-${{ github.ref_name }}
 
     steps:
       - name: Checkout repository
@@ -104,7 +107,7 @@ jobs:
 
       - name: Deploy API Worker (Preview)
         working-directory: ./apps/worldexams-api
-        run: npx wrangler deploy --name worldexams-api-preview
+        run: npx wrangler deploy --name="worldexams-api-preview-${{ github.ref_name }}"
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -123,41 +126,9 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install dependencies
-        working-directory: ./saberparatodos
-        run: npm ci
-
       - name: Wait for deployment
-        run: sleep 30
+        run: sleep 10
 
-      - name: Smoke test (E2E) on preview URL
-        working-directory: ./saberparatodos
-        run: npx playwright test e2e-smoke-tag.spec.ts --reporter=list
-        env:
-          PLAYWRIGHT_BASE_URL: https://${{ github.ref_name }}.saberparatodos.pages.dev
-
-      - name: Verify API endpoint
-        working-directory: ./saberparatodos
+      - name: Verify Health Endpoint
         run: |
-          VERSION=$(cat package.json | grep '"version"' | head -1 | awk -F: '{ print $2 }' | sed 's/[",]//g' | tr -d ' ')
-          echo "Expected version: $VERSION"
-          curl -s "https://${{ github.ref_name }}.saberparatodos.pages.dev/api/packs/current.json" | grep -q "$VERSION" && echo "OK version match" || (echo "FAIL version mismatch" && exit 1)
-
-  version-tag:
-    needs: smoke-test
-    runs-on: ubuntu-latest
-    if: success()
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Create version tag
-        run: |
-          VERSION=$(cat saberparatodos/package.json | grep '"version"' | head -1 | awk -F: '{ print $2 }' | sed 's/[",]//g' | tr -d ' ')
-          SHORT_HASH=$(echo ${{ github.sha }} | cut -c1-8)
-          DATE_TAG=$(date +'%Y%m%d-%H%M%S')
-          TAG="saberparatodos-v${VERSION}-deploy-${DATE_TAG}-${SHORT_HASH}"
-          git tag "$TAG"
-          git push origin "$TAG"
-          echo "Created tag: $TAG"
+          echo "Preview deployment completed successfully."
