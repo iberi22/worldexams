@@ -1,0 +1,34 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
+import TeacherToolkit from '../components/docentes/TeacherToolkit.svelte';
+
+const countryConfig = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
+---
+
+<Layout
+  title={`Portal Docente & Toolkit Pedagógico | ${countryConfig.product.siteName}`}
+  description={`Espacio libre para docentes y educadores en ${countryConfig.name}. Herramientas de seguimiento, banco de preguntas exportable, generador de talleres y diagnósticos sin registro.`}
+>
+  <div class="min-h-screen bg-gradient-to-b from-gray-950 via-[#0a0a0f] to-black text-white py-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-6xl mx-auto space-y-12">
+      <!-- Hero Header -->
+      <div class="text-center space-y-4 max-w-3xl mx-auto">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-400 text-xs font-mono uppercase tracking-widest">
+          <span class="w-2 h-2 rounded-full bg-amber-400 animate-pulse"></span>
+          Acceso 100% Libre y Sin Registro
+        </div>
+        <h1 class="text-3xl sm:text-5xl font-black text-[#F5F5DC] tracking-tight">
+          Espacio Docente & Acompañamiento
+        </h1>
+        <p class="text-sm sm:text-base text-white/70 leading-relaxed">
+          Diseñado para maestros, tutores y directores de grupo en <strong class="text-amber-300">{countryConfig.name}</strong>. 
+          Monitorea procesos de aprendizaje, genera talleres para el aula y crea salones de práctica grupal sin fricciones ni registros obligatorios.
+        </p>
+      </div>
+
+      <!-- Svelte Interactive Toolkit -->
+      <TeacherToolkit client:load runtimeCountry={countryConfig} />
+    </div>
+  </div>
+</Layout>
