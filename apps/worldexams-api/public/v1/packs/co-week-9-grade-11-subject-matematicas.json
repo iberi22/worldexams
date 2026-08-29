@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v1",
+      "statement": "Si la hipotenusa mide $20\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Bogotá, Mateo calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(30°) = 1/2 => opuesto = 20 * (1/2) = 10."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$15\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(30°) = 1/2 => opuesto = 20 * (1/2) = 10.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v2",
+      "statement": "Si la hipotenusa mide $10\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Medellín, Sofia calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(60°) = 1/2 => adyacente = 10 * (1/2) = 5."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$8\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$2.5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(60°) = 1/2 => adyacente = 10 * (1/2) = 5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v3",
+      "statement": "Si la hipotenusa mide $12\\text{ m}$, ¿cuál es la longitud del cateto adyacente sabiendo que los dos catetos son iguales?",
+      "context": "En Cali, Diego calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6\\sqrt{2}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(45°) = \\sqrt{2}/2 => adyacente = 12 * (\\sqrt{2}/2) = 6\\sqrt{2}."
+        },
+        {
+          "letter": "B",
+          "text": "$12\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$3\\sqrt{2}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(45°) = \\sqrt{2}/2 => adyacente = 12 * (\\sqrt{2}/2) = 6\\sqrt{2}.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v4",
+      "statement": "Si la hipotenusa mide $40\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Barranquilla, Valentina calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20\\sqrt{3}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(30°) = \\sqrt{3}/2 => adyacente = 40 * (\\sqrt{3}/2) = 20\\sqrt{3}."
+        },
+        {
+          "letter": "B",
+          "text": "$40\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$20\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\sqrt{3}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(30°) = \\sqrt{3}/2 => adyacente = 40 * (\\sqrt{3}/2) = 20\\sqrt{3}.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v5",
+      "statement": "Si la hipotenusa mide $30\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Bucaramanga, Santiago calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15\\sqrt{3}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(60°) = \\sqrt{3}/2 => opuesto = 30 * (\\sqrt{3}/2) = 15\\sqrt{3}."
+        },
+        {
+          "letter": "B",
+          "text": "$30\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$15\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\sqrt{3}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(60°) = \\sqrt{3}/2 => opuesto = 30 * (\\sqrt{3}/2) = 15\\sqrt{3}.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v6",
+      "statement": "Si la hipotenusa mide $8\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Cartagena, Mariana calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\sqrt{2}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(45°) = \\sqrt{2}/2 => opuesto = 8 * (\\sqrt{2}/2) = 4\\sqrt{2}."
+        },
+        {
+          "letter": "B",
+          "text": "$8\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\sqrt{2}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(45°) = \\sqrt{2}/2 => opuesto = 8 * (\\sqrt{2}/2) = 4\\sqrt{2}.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v7",
+      "statement": "Si la hipotenusa mide $10\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Pereira, Juan calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(30°) = 1/2 => opuesto = 10 * (1/2) = 5."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$7.5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$2.5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(30°) = 1/2 => opuesto = 10 * (1/2) = 5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v8",
+      "statement": "Si la hipotenusa mide $16\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Manizales, Camila calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(60°) = 1/2 => adyacente = 16 * (1/2) = 8."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$12\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(60°) = 1/2 => adyacente = 16 * (1/2) = 8.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v9",
+      "statement": "Si la hipotenusa mide $20\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Santa Marta, Alejandro calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\sqrt{2}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(45°) = \\sqrt{2}/2 => opuesto = 20 * (\\sqrt{2}/2) = 10\\sqrt{2}."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$10\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$5\\sqrt{2}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(45°) = \\sqrt{2}/2 => opuesto = 20 * (\\sqrt{2}/2) = 10\\sqrt{2}.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v10",
+      "statement": "Si la hipotenusa mide $60\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Pasto, Isabella calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(30°) = 1/2 => opuesto = 60 * (1/2) = 30."
+        },
+        {
+          "letter": "B",
+          "text": "$60\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$45\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$15\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(30°) = 1/2 => opuesto = 60 * (1/2) = 30.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v11",
+      "statement": "Si la hipotenusa mide $24\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Bogotá, Mateo calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(60°) = 1/2 => adyacente = 24 * (1/2) = 12."
+        },
+        {
+          "letter": "B",
+          "text": "$24\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$18\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(60°) = 1/2 => adyacente = 24 * (1/2) = 12.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v12",
+      "statement": "Si la hipotenusa mide $50\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Medellín, Sofia calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\sqrt{3}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(30°) = \\sqrt{3}/2 => adyacente = 50 * (\\sqrt{3}/2) = 25\\sqrt{3}."
+        },
+        {
+          "letter": "B",
+          "text": "$50\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$25\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$12.5\\sqrt{3}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(30°) = \\sqrt{3}/2 => adyacente = 50 * (\\sqrt{3}/2) = 25\\sqrt{3}.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v13",
+      "statement": "Si la hipotenusa mide $40\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Cali, Diego calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20\\sqrt{3}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(60°) = \\sqrt{3}/2 => opuesto = 40 * (\\sqrt{3}/2) = 20\\sqrt{3}."
+        },
+        {
+          "letter": "B",
+          "text": "$40\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$20\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\sqrt{3}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(60°) = \\sqrt{3}/2 => opuesto = 40 * (\\sqrt{3}/2) = 20\\sqrt{3}.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v14",
+      "statement": "Si la hipotenusa mide $14\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Barranquilla, Valentina calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7\\sqrt{2}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(45°) = \\sqrt{2}/2 => adyacente = 14 * (\\sqrt{2}/2) = 7\\sqrt{2}."
+        },
+        {
+          "letter": "B",
+          "text": "$14\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$7\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$3.5\\sqrt{2}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(45°) = \\sqrt{2}/2 => adyacente = 14 * (\\sqrt{2}/2) = 7\\sqrt{2}.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v15",
+      "statement": "Si la hipotenusa mide $16\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Bucaramanga, Santiago calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(30°) = 1/2 => opuesto = 16 * (1/2) = 8."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$12\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(30°) = 1/2 => opuesto = 16 * (1/2) = 8.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v16",
+      "statement": "Si la hipotenusa mide $18\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Cartagena, Mariana calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(60°) = 1/2 => adyacente = 18 * (1/2) = 9."
+        },
+        {
+          "letter": "B",
+          "text": "$18\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$13.5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$4.5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(60°) = 1/2 => adyacente = 18 * (1/2) = 9.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v17",
+      "statement": "Si la hipotenusa mide $16\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Pereira, Juan calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8\\sqrt{2}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(45°) = \\sqrt{2}/2 => opuesto = 16 * (\\sqrt{2}/2) = 8\\sqrt{2}."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$8\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\sqrt{2}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(45°) = \\sqrt{2}/2 => opuesto = 16 * (\\sqrt{2}/2) = 8\\sqrt{2}.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v18",
+      "statement": "Si la hipotenusa mide $100\\text{ m}$, ¿cuál es la longitud del cateto opuesto?",
+      "context": "En Manizales, Camila calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: sin(30°) = 1/2 => opuesto = 100 * (1/2) = 50."
+        },
+        {
+          "letter": "B",
+          "text": "$100\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$75\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$25\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(30°) = 1/2 => opuesto = 100 * (1/2) = 50.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v19",
+      "statement": "Si la hipotenusa mide $50\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Santa Marta, Alejandro calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(60°) = 1/2 => adyacente = 50 * (1/2) = 25."
+        },
+        {
+          "letter": "B",
+          "text": "$50\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$35\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$12.5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(60°) = 1/2 => adyacente = 50 * (1/2) = 25.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle-v20",
+      "statement": "Si la hipotenusa mide $80\\text{ m}$, ¿cuál es la longitud del cateto adyacente?",
+      "context": "En Pasto, Isabella calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40\\sqrt{3}\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la razón trigonométrica: cos(30°) = \\sqrt{3}/2 => adyacente = 80 * (\\sqrt{3}/2) = 40\\sqrt{3}."
+        },
+        {
+          "letter": "B",
+          "text": "$80\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$40\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
+        },
+        {
+          "letter": "D",
+          "text": "$20\\sqrt{3}\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(30°) = \\sqrt{3}/2 => adyacente = 80 * (\\sqrt{3}/2) = 40\\sqrt{3}.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geométrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W09-trigonometria-basica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

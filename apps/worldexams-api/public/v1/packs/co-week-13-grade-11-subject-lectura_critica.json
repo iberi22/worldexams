@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-13-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.191Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elemento visual de la viñeta representa explícitamente la carga financiera que soporta el ciudadano?",
+      "context": "En una viñeta del caricaturista colombiano Matador, se muestra a un ciudadano empujando un enorme bulto marcado con la palabra \"IMPUESTOS\" cuesta arriba en una montaña con forma de alcancía rota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bulto pesado etiquetado con la palabra \"IMPUESTOS\".",
+          "is_correct": true,
+          "feedback": "Correcto. El bulto rotulado es la representación figurativa directa de las obligaciones tributarias del ciudadano."
+        },
+        {
+          "letter": "B",
+          "text": "La forma circular de la alcancía en la cima de la montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alcancía rota simboliza el destino o mal manejo de los recursos, no la carga misma."
+        },
+        {
+          "letter": "C",
+          "text": "El cielo despejado dibujado al fondo de la imagen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fondo es un elemento decorativo neutro y no representa la carga económica."
+        },
+        {
+          "letter": "D",
+          "text": "El calzado deportivo que viste el personaje principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vestimenta es indumentaria secundaria del personaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la caricatura política, las etiquetas de texto introducidas dentro de los objetos figurativos cumplen la función de anclar el significado literal de los símbolos visuales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v2",
+      "statement": "Según las convenciones del lenguaje del cómic, un globo con contorno punteado significa que el personaje está:",
+      "context": "En una tira cómica de tres viñetas, un personaje habla en la primera viñeta utilizando un bocadillos (globo de texto) con contorno de línea punteada y tipografía pequeña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hablando en voz muy baja o susurrando para no ser escuchado.",
+          "is_correct": true,
+          "feedback": "Correcto. La convención gráfica de la línea punteada denota susurro, secreto o volumen de voz bajo."
+        },
+        {
+          "letter": "B",
+          "text": "Gritando con rabia hacia su interlocutor en la escena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grito se representa convencionalmente con globos de bordes estrellados u ostentosos."
+        },
+        {
+          "letter": "C",
+          "text": "Pensando en silencio sin emitir ningún sonido articulado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pensamiento se representa con globos en forma de nube y pequeñas burbujas dirigidas al personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Cantando una melodía alegre en un escenario público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canto se acompaña habitualmente de notas musicales dibujadas alrededor del globo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El reconocimiento de la semiología del cómic (tipos de globos, líneas, onomatopeyas) es fundamental para decodificar la información textual en textos discontinuos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v3",
+      "statement": "La transformación visual de las palabras en un \"chorro de agua\" busca transmitir que el discurso del político es:",
+      "context": "Una caricatura editorial de Vladdo presenta a un político sosteniendo un discurso vibrante frente a un micrófono. De su boca no salen palabras, sino un chorro de agua que inundó a los asistentes instalados en la primera fila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pura demagogia y palabrería vacía (un \"chorro de babas\" en la jerga popular).",
+          "is_correct": true,
+          "feedback": "Correcto. La caricatura traduce visualmente una metáfora popular para criticar la vacuidad del discurso político."
+        },
+        {
+          "letter": "B",
+          "text": "Un aporte fundamental para solucionar la sequía de los ríos del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se representa como recurso hídrico valioso, sino como inundación molesta de palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Una propuesta técnica para construir un nuevo acueducto municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La viñeta no alude a proyectos de infraestructura real, sino a la retórica del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Una narración literaria sobre el origen de las lluvias en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El marco discursivo es la sátira política y no la mitología o narrativa sobre el clima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las caricaturas frecuentemente convierten expresiones modismos o metáforas del lenguaje cotidiano en imágenes literales con fines satíricos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v4",
+      "statement": "El signo de interrogación cubierto de telarañas en el globo de pensamiento simboliza que el estudiante:",
+      "context": "En una viñeta humorística de Pepón, un estudiante sentado ante un examen del ICFES tiene sobre su cabeza un globo en forma de nube que contiene un signo de interrogación gigantesco lleno de telarañas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Experimenta un vacío total de conocimientos por falta de estudio prolongado.",
+          "is_correct": true,
+          "feedback": "Correcto. Las telarañas asociadas al signo de interrogación representan inactividad cognitiva o ignorancia sobre el tema."
+        },
+        {
+          "letter": "B",
+          "text": "Descubrió una respuesta brillante e innovadora para la pregunta de la prueba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La telaraña connota olvido y falta de uso, no genialidad ni conocimiento fresco."
+        },
+        {
+          "letter": "C",
+          "text": "Quiere convertirse en un experto biólogo especializado en aracnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de telarañas es un recurso metafórico y no un interés temático académico."
+        },
+        {
+          "letter": "D",
+          "text": "Protesta airadamente contra las condiciones físicas del salón de clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El elemento gráfico se ubica dentro del globo de pensamiento reflexivo, no en el entorno físico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los símbolos icónicos abstractos dentro de los globos de pensamiento comunican estados mentales o actitudinales de los personajes sin necesidad de texto explícito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la ironía central que articula la crítica en esta caricatura?",
+      "context": "En una caricatura política colombiana sobre la corrupción en la contratación pública, un funcionario sonriente sostiene una tijera gigante con la que corta una cinta inaugural marcada con la cifra \"100% de la obra\". Al fondo, el puente recién inaugurado se muestra desplomándose en el río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El contraste entre la celebración oficial del funcionario y el fracaso estructural real de la obra.",
+          "is_correct": true,
+          "feedback": "Correcto. La ironía surge de la oposición visual entre el orgullo festivo del político y la ruina física inmediata de la infraestructura."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de tijeras de tamaño desproporcionado en eventos protocolares del gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tijeras son un detalle de utilería y no el núcleo de la contradicción irónica de la escena."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de agua suficiente en el río para amortiguar la caída del puente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema denunciado es la corrupción e ingeniería deficiente, no el caudal del río."
+        },
+        {
+          "letter": "D",
+          "text": "La habilidad del dibujante para ilustrar puentes en zonas montañosas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La maestría del dibujo es el soporte técnico, no la estructura argumentativa de la sátira."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía visual en la caricatura de opinión radica en la contraposición deliberada de dos realidades incongruentes (el discurso triunfalista vs. la catástrofe evidente).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v6",
+      "statement": "La pregunta de Mafalda a su padre cumple la función discursiva de:",
+      "context": "En una tira de *Mafalda* de Quino, la protagonista observa a su padre trabajando afanosamente frente a una pila de facturas. Mafalda lo mira y le pregunta: \"¿Y este mes qué vas a ser cuando seas grande? ¿Pagador de deudas?\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuestionar de manera mordaz la reducción de la vida adulta a la mera rutina de obligaciones financieras.",
+          "is_correct": true,
+          "feedback": "Correcto. La mirada infantil de Mafalda problematiza la pérdida de ideales adultos frente al consumismo y las deudas."
+        },
+        {
+          "letter": "B",
+          "text": "Pedirle orientación profesional a su padre para elegir una carrera universitaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mafalda no busca consejo laboral, sino que ironiza sobre la condición económica de su padre."
+        },
+        {
+          "letter": "C",
+          "text": "Expresar su admiración por la eficiencia de su padre en la contabilidad del hogar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono del personaje es crítico y compasivo, no de admiración contable."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar a los lectores de la tira cómica a elaborar un presupuesto mensual sin errores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tira busca reflexionar existencialmente, no dar lecciones de finanzas personales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis discursivo de tiras cómicas clásicas evalúa cómo el diálogo entre personajes expone tensiones filosóficas, sociales o cotidianas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué juicio de valor emite el caricaturista sobre la naturaleza del debate político a partir de esta analogía visual?",
+      "context": "Una caricatura de opinión representa un debate presidencial. Los candidatos aparecen dibujados como gallos de pelea dentro de una gallera, con las espuelas puestas, rodeados de plumas volando y sin ningún texto verbal en la viñeta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las contiendas electorales se han degradado en agresiones violentas e irracionales sin ideas de fondo.",
+          "is_correct": true,
+          "feedback": "Correcto. Equiparar el debate democrático con una pelea de gallos denuncia la violencia verbal y la falta de propuestas maduras."
+        },
+        {
+          "letter": "B",
+          "text": "Que la avicultura es la principal actividad económica defendida por los candidatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora animal es un recurso satírico de descalificación del debate, no un tema agropecuario."
+        },
+        {
+          "letter": "C",
+          "text": "Que los candidatos presidenciales demostraron un excelente nivel de preparación técnica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen de gallos peleando connota salvajismo y caos, distando de ser una felicitación."
+        },
+        {
+          "letter": "D",
+          "text": "Que la ausencia de palabras en la caricatura prueba la neutralidad absoluta del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caricatura muda es altamente expresiva y comunica una clara postura crítica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las metáforas animales en la caricatura política son recursos analógicos destinados a ridiculizar comportamientos institucionales o sociales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v8",
+      "statement": "El uso del recurso publicitario (\"Se vende...\") en el letrero del oso constituye una técnica de:",
+      "context": "En una viñeta de caricatura ambiental, se observa a un oso anteojos colombiano parado sobre el último tronco seco de un bosque arrasado. El oso sostiene un letrero escrito a mano que dice: \"Se vende hábitat con excelente vista al desierto\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sátira trágica que denuncia la destrucción irretornable del entorno natural.",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicar un lenguaje inmobiliario a una catástrofe ecológica subraya con sarcasmo la pérdida irremediable del bosque."
+        },
+        {
+          "letter": "B",
+          "text": "Oferta comercial legítima para atraer inversionistas turísticos a la selva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El letrero no busca vender propiedad finca raíz real, sino impactar éticamente al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Instrucción técnica de conservación ambiental dictada por biólogos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es una expresión ficcional y satírica, no un manual científico."
+        },
+        {
+          "letter": "D",
+          "text": "Promoción del turismo ecológico en zonas protegidas de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen del desierto y el tronco seco representa destrucción y no atractivo turístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sarcasmo en la caricatura adopta formas de discurso incongruentes (como anuncios de venta) en contextos de devastación para suscitar alarma ética.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v9",
+      "statement": "¿De qué forma contribuye la proyección de las \"sombras gigantescas de los gatos\" a la tensión narrativa de la escena?",
+      "context": "En la novela gráfica *Maus* de Art Spiegelman, los judíos son dibujados como ratones y los nazis como gatos. En una escena, los ratones intentan ocultarse en un sótano estrecho mientras sombras gigantescas de gatos se proyectan sobre la pared exterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intensa la sensación de amenaza inminente y la desproporción de poder entre perseguidores y perseguidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las sombras agigantadas simbolizan el terror psicológico y el dominio abrumador del opresor."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que los gatos eran animales con visión nocturna superior dentro del sótano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las formas animales son alegóricas de grupos humanos durante el Holocausto, no un estudio zoológico."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la escena transcurre durante una fiesta de sombras chinescas en el ghetto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contexto es de persecución y exterminio, sin ningún espacio para el entretenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Sugiere que los personajes principales lograron escapar sanos y salvos del peligro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de la sombra amenazante incrementa el suspenso y la vulnerabilidad de las víctimas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de la novela gráfica exige interpretar el valor expresivo de las sombras, encuadres y alegorías antropomórficas en la narrativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v10",
+      "statement": "El impacto gráfico de las flechas saliendo de la pantalla hacia el espectador representa:",
+      "context": "En una viñeta cómica, un usuario está sentado frente al televisor recibiendo una ráfaga de noticias trágicas. De la pantalla del televisor salen disparadas hacia la cabeza del personaje pequeñas flechas con palabras como \"Crisis\", \"Guerra\", \"Inflación\" y \"Desempleo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El efecto abrumador y agresivo del exceso de información negativa en la salud mental del ciudadano.",
+          "is_correct": true,
+          "feedback": "Correcto. Las flechas simbolizan la agresión psicológica constante que ejercen las noticias trágicas sobre el público."
+        },
+        {
+          "letter": "B",
+          "text": "El funcionamiento técnico de la emisión de ondas electromagnéticas en la televisión digital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intención gráfica no es física ni de telecomunicaciones, sino emocional y crítica."
+        },
+        {
+          "letter": "C",
+          "text": "El deseo del espectador de interactuar directamente con los presentadores de noticias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El personaje aparece abrumado y agredido, no deseoso de participación activa."
+        },
+        {
+          "letter": "D",
+          "text": "Una recomendación médica para mejorar la calidad de la visión al mirar pantallas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La viñeta es una crítica a la saturación informativa y no un consejo de optometría."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los vectores y líneas de acción en las viñetas comunican dinamismo y efectos psicológicos ejercidos sobre los personajes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v11",
+      "statement": "¿De qué manera el contraste entre el letrero oficial y la escena representada cuestiona la eficacia de la propaganda estatal?",
+      "context": "En una caricatura política colombiana sobre la abstención electoral, se observa un centro de votación totalmente vacío con una enorme telaraña tapando la puerta de entrada. En la pared, un cartel oficial dice: \"El futuro del país está en tus manos\", mientras al lado un perro callejero duerme plácidamente sobre las urnas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evidencia la profunda desconexión entre el discurso institucional motivador y el desinterés ciudadano real.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase pomposa del cartel choca frontalmente con la desolación y la apatía del recinto electoral."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las urnas de votación son el lugar preferido por los animales para descansar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia del perro durmiendo es un indicador de abandono e inactividad, no un tema veterinario."
+        },
+        {
+          "letter": "C",
+          "text": "Felícita al gobierno por mantener la limpieza de los puestos de votación durante la jornada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las telarañas y la desolación representan descuido y falta de participación, no limpieza."
+        },
+        {
+          "letter": "D",
+          "text": "Exige que las campañas publicitarias del Estado se impriman en tipografías más grandes y coloridas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica no es sobre el diseño tipográfico, sino sobre la ilegitimidad del mensaje frente a la realidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico de caricaturas requiere confrontar el texto verbal explícito (mensajes oficiales) con la escenografía visual para desenmascarar contradicciones ideológicas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v12",
+      "statement": "La transposición de elementos de la navegación web (cookies, anuncios pop-up) al formato en papel de un periódico cumple la función de:",
+      "context": "Un dibujante publica una viñeta donde un ciudadano intenta leer un periódico impreso, pero cada página está tapada por ventanas emergentes cuadradas dibujadas con papel y cartón que dicen \"Aceptar cookies\", \"Suscríbase hoy\" y \"Cierre este anuncio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Satirizar la invasión agresiva de la publicidad digital que interrumpe la experiencia natural de lectura.",
+          "is_correct": true,
+          "feedback": "Correcto. Al llevar el estorbo de la publicidad digital al plano del papel impreso, el autor resalta lo absurdo y molesto de la saturación publicitaria."
+        },
+        {
+          "letter": "B",
+          "text": "Promover la sustitución definitiva de los periódicos de papel por portales de noticias digitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La viñeta critica justamente la molestia provocada por las dinámicas digitales de anuncios."
+        },
+        {
+          "letter": "C",
+          "text": "Enseñar a los lectores de periódicos tradicionales a programar páginas de internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se ofrecen contenidos técnicos ni pedagógicos sobre código web."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los periódicos impresos de Colombia son más económicos que las suscripciones en línea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sátira no aborda temas de comparación de precios, sino de interferencia en la atención del lector."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La caricatura utiliza el anacronismo o el cruce de medios (digital vs. impreso) para hacer evidente la incomodidad de ciertos fenómenos tecnológicos contemporáneos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v13",
+      "statement": "La composición visual dividida por el cristal del ventana establece una relación sintáctica de:",
+      "context": "En una viñeta de crítica social, se representa a dos personas en un restaurante. Una de ellas fotografía la comida con su teléfono inteligente iluminado con un potente flash, mientras la otra persona, desnutrida y vestida con harapos afuera en la calle, mira a través del cristal del ventana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Segregación y abismo social entre el consumo vanidoso de la era digital y la pobreza extrema.",
+          "is_correct": true,
+          "feedback": "Correcto. El cristal actúa como barrera física y simbólica que separa el privilegio desconectado de la necesidad urgente."
+        },
+        {
+          "letter": "B",
+          "text": "Colaboración armónica entre los clientes del restaurante y los transeúntes de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay colaboración; hay una tajante frontera de desigualdad y exclusión visual."
+        },
+        {
+          "letter": "C",
+          "text": "Promoción gastronómica de los platos locales ofertados en las redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plato de comida es un pivote de contraste social y no un objeto publicitario gastronómico."
+        },
+        {
+          "letter": "D",
+          "text": "Explicación técnica sobre el correcto uso de la luz de flash en la fotografía en interiores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La iluminación del teléfono contrasta con la sombra exterior para remarcar la superficialidad del acto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de divisores espaciales en la viñeta (ventanas, muros, rejas) estructura relaciones semánticas de exclusión, inequidad o incomunicación social.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v14",
+      "statement": "El gesto de la Dama de la Justicia al levantarse la venda altera el mito clásico de la equidad judicial para denunciar:",
+      "context": "En una viñeta satírica sobre la justicia, se dibuja a la estatua de la Dama de la Justicia (usualmente con los ojos vendados) levantándose ligeramente la venda con un dedo para mirar la bolsa de dinero que sostiene uno de los litigantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parcialidad y corrupción de los tribunales influenciados por el poder económico.",
+          "is_correct": true,
+          "feedback": "Correcto. Romper la ceguera simbólica de la Justicia demuestra que la imparcialidad sucumbe ante el soborno y el dinero."
+        },
+        {
+          "letter": "B",
+          "text": "La necesidad de que los jueces mejoren su visión mediante exámenes médicos periódicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gesto es un acto deliberado de venalidad y no un problema de salud visual."
+        },
+        {
+          "letter": "C",
+          "text": "El respeto absoluto de los magistrados por las leyes escritas en la Constitución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Espiar el dinero viola la esencia misma del deber y el principio de equidad."
+        },
+        {
+          "letter": "D",
+          "text": "Una nueva tendencia en la escultura neoclásica para decorar los palacios de justicia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La viñeta modifica el ícono alegórico clásico con fines de crítica discursiva y no artística."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Subvertir los atributos de un símbolo universal (la ceguera de la justicia) es una estrategia discursiva clave en la caricatura para poner al descubierto la degradación institucional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v15",
+      "statement": "El cambio drástico en el ritmo y estilo de la última viñeta produce el efecto narrativo de:",
+      "context": "En una página de historieta, las primeras cuatro viñetas muestran un ritmo acelerado con encuadres en primer plano, muchas onomatopeyas (\"¡BOOM!\", \"¡CRASH!\") y bordes en zigzag. La última viñeta es un plano general panorámico en blanco y negro, totalmente en silencio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crear una pausa dramática que enfatiza la desolación o las consecuencias trágicas del caos previo.",
+          "is_correct": true,
+          "feedback": "Correcto. El paso de la hiperactividad ruidosa al silencio panorámico en blanco y negro acentúa el vacío y la gravedad del desenlace."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar que el impresor se quedó sin tinta de color al terminar la edición del ejemplar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste de color y ausencia de sonido es un recurso expresivo intencional del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Confundir al lector para que no entienda cómo terminó la batalla entre los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La viñeta panorámica aclara el resultado mostrando el escenario devastado."
+        },
+        {
+          "letter": "D",
+          "text": "Sugerir que los personajes principales comenzaron a bailar alegremente en la oscuridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono en blanco y negro desolado excluye interpretaciones festivas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencialidad en el cómic maneja la tensión dramática modificando la escala de los planos, la paleta cromática y la presencia o ausencia de efectos sonoros gráficos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v16",
+      "statement": "¿Qué perspectiva geopolítica expresa el caricaturista mediante la desproporción de las embarcaciones?",
+      "context": "Una caricatura representa la relación de Colombia con las potencias mundiales. Colombia aparece dibujada como una pequeña barca de madera a la deriva en un océano embravecido, donde dos gigantescos trasatlánticos (con las banderas de EE.UU. y China) generan olas inmensas que amenazan con volcarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vulnerabilidad y dependencia de las naciones pequeñas frente a las disputas de las superpotencias.",
+          "is_correct": true,
+          "feedback": "Correcto. El frágil bote a la deriva frente a los colosos marinos simboliza el escaso margen de maniobra de los países en desarrollo en las guerras comerciales globales."
+        },
+        {
+          "letter": "B",
+          "text": "La superioridad de la navegación artesanal colombiana sobre la tecnología militar extranjera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La barca de madera está a punto de volcar, lo que evidencia fragilidad y no superioridad."
+        },
+        {
+          "letter": "C",
+          "text": "El interés de Colombia por adquirir trasatlánticos de carga para competir en el comercio marítimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escena es una alegoría de indefensión geopolítica, no una propuesta de compras navales."
+        },
+        {
+          "letter": "D",
+          "text": "La cooperación pacífica y equilibrada entre los tres estados para proteger los océanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las olas colosales producidas por los buques amenazan con destruir la barca, evidenciando conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las metáforas de escala espacial y de poder militar/económico en la caricatura política permiten analizar relaciones de dominación en la política internacional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar éticamente la validez discursiva de esta caricatura, se concluye que incurre en:",
+      "context": "Un lector analiza una caricatura de opinión que ridiculiza a una líder defensora de derechos humanos en Colombia, deformando sus rasgos físicos de manera grotesca y atribuyéndole vínculos delictivos sin presentar pruebas verbales ni argumentativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ataque *ad hominem* y difamatorio que sustituye la crítica política legítima por la estigmatización personal.",
+          "is_correct": true,
+          "feedback": "Correcto. Descalificar mediante la mofa física e imputaciones falsas violenta el debate democrático y recurre a la falacia ad hominem."
+        },
+        {
+          "letter": "B",
+          "text": "Un ejercicio modélico de libertad de prensa fundamentado en la investigación periodística objetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difamación y el insulto gráfico sin evidencia no constituyen periodismo riguroso ni ético."
+        },
+        {
+          "letter": "C",
+          "text": "Una valiosa lección de arte neofigurativo que enriquece el patrimonio cultural del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito estigmatizador anula el valor pedagógico o cultural legítimo en la esfera pública."
+        },
+        {
+          "letter": "D",
+          "text": "Una demostración imparcial de las debilidades metodológicas del movimiento social.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay análisis de ideas ni de métodos, sino ataques de tinte personal y prejuicioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica de la caricatura exige deslindar la libertad de sátira política del insulto estigmatizante o falacia *ad hominem* que vulnera la dignidad de los sujetos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v18",
+      "statement": "Al comparar la eficacia comunicativa de ambos formatos para sensibilizar al público general, se deduce que:",
+      "context": "Dos editoriales analizan el problema del cambio climático. El Editorial A es un texto continuo de 1.000 palabras con datos estadísticos del Panel Intergubernamental de Cambio Climático (IPCC). El Editorial B es una caricatura de viñeta única que muestra a la Tierra encendida en llamas colocada sobre un cono de helado que se derrite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caricatura ofrece una síntesis metafórica de impacto emocional inmediato, mientras que el texto continuo proporciona la sustentación empírica detallada.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos formatos son complementarios: la imagen condensa el problema con fuerza persuasiva y el texto suministra la prueba científica."
+        },
+        {
+          "letter": "B",
+          "text": "El texto continuo es inútil porque la gente ya no lee contenidos que superen un párrafo de extensión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto riguroso conserva su validez académica indispensable para la toma de decisiones fundadas."
+        },
+        {
+          "letter": "C",
+          "text": "La caricatura carece de todo valor porque las metáforas visuales son incapaces de transmitir mensajes serios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora visual posee una notable efectividad pragmática para condensar ideas complejas y generar conciencia."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos editoriales son idénticos en su estructura sintáctica y no presentan ninguna diferencia de recepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recepción cognitiva de un texto continuo denotativo difiere sustancialmente de la de una imagen discontinuas conativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica comparativa pondera los alcances persuasivos y la profundidad explicativa de los textos continuos frente a los discontinuos (caricatura).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v19",
+      "statement": "Desde una perspectiva crítica, el sesgo ideológico principal de esta historieta radica en:",
+      "context": "Una historieta patrocinada por un gremio bancario presenta a un joven trabajador que logra el éxito financiero únicamente ahorrando su dinero en una cuenta de ahorros de dicha entidad, ignorando las variables de inflación, desempleo y salarios reales del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocultar los factores estructurales de la economía para promover una visión individualista e interesada del éxito financiero.",
+          "is_correct": true,
+          "feedback": "Correcto. La historieta invisibiliza el contexto macroeconómico con el fin comercial de promocionar los productos financieros del patrocinador."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a los jóvenes a gastar todo su dinero en bienes de consumo innecesarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cómic promueve el ahorro en el banco patrocinador y no el gasto desmedido."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar con absoluto rigor académico las causas históricas de la inflación en Latinoamérica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historieta evade deliberadamente el análisis de la inflación para simplificar su relato comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Cuestionar el papel de los bancos en la acumulación de riqueza en la sociedad contemporánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser financiado por un gremio bancario, el cómic busca legitimar al sector y no cuestionarlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el patrocinio y la intencionalidad corporativa en cómics institucionales permite revelar la manipulación argumentativa y los sesgos del mensaje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle-v20",
+      "statement": "¿Qué premisa conceptual sustenta la afirmación del analista sobre la función social de la caricatura?",
+      "context": "Un analista de medios afirma que \"la caricatura de opinión en Colombia ha sido un contrapoder fundamental frente a los abusos de las élites a lo largo de los siglos XIX y XX\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su capacidad para burlar la censura y cuestionar la autoridad a través del humor, la ironía y la metáfora gráfica.",
+          "is_correct": true,
+          "feedback": "Correcto. Históricamente, el carácter polisémico del humor y la imagen ha permitido señalar abusos de poder donde el discurso directo era perseguido."
+        },
+        {
+          "letter": "B",
+          "text": "Su sometimiento estricto a los boletines de prensa emitidos por las instituciones del Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser contrapoder implica independencia y confrontación con la versión oficial, no sometimiento."
+        },
+        {
+          "letter": "C",
+          "text": "El hecho de que solo las personas con educación universitaria puedan comprender las viñetas satíricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eficacia de la caricatura radica precisamente en su alcance masivo y popular."
+        },
+        {
+          "letter": "D",
+          "text": "Su rechazo a tratar temas de relevancia política o social para enfocarse únicamente en el entretenimiento absurdo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caricatura de opinión política aborda centralmente las dinámicas del poder y la sociedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación del rol histórico del periodismo gráfico implica comprender la caricatura como un dispositivo deliberativo de resistencia y contrapoder democrático.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W13-comic-caricatura-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

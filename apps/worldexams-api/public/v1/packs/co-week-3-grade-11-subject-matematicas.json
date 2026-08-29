@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.201Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}$?",
+      "context": "En un experimento sobre velocidad en Bucaramanga, Alejandro modela la posición con la función $f(x) = \\frac{x^2 - 4}{x - 2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 4 = (x - 2)(x + 2)$, se simplifica $x + 2$, dando 2 + 2 = 4."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 4 = (x - 2)(x + 2)$, cancelamos $(x - 2)$ y evaluamos $\\lim_{x \\to 2} (x + 2) = 2 + 2 = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$?",
+      "context": "En un experimento sobre velocidad en Cartagena, Isabella modela la posición con la función $f(x) = \\frac{x^2 - 9}{x - 3}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 9 = (x - 3)(x + 3)$, se simplifica $x + 3$, dando 3 + 3 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 9 = (x - 3)(x + 3)$, cancelamos $(x - 3)$ y evaluamos $\\lim_{x \\to 3} (x + 3) = 3 + 3 = 6$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 4} \\frac{x^2 - 16}{x - 4}$?",
+      "context": "En un experimento sobre velocidad en Pereira, Mateo modela la posición con la función $f(x) = \\frac{x^2 - 16}{x - 4}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 16 = (x - 4)(x + 4)$, se simplifica $x + 4$, dando 4 + 4 = 8."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 16 = (x - 4)(x + 4)$, cancelamos $(x - 4)$ y evaluamos $\\lim_{x \\to 4} (x + 4) = 4 + 4 = 8$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 5} \\frac{x^2 - 25}{x - 5}$?",
+      "context": "En un experimento sobre velocidad en Manizales, Sofia modela la posición con la función $f(x) = \\frac{x^2 - 25}{x - 5}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 25 = (x - 5)(x + 5)$, se simplifica $x + 5$, dando 5 + 5 = 10."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 25 = (x - 5)(x + 5)$, cancelamos $(x - 5)$ y evaluamos $\\lim_{x \\to 5} (x + 5) = 5 + 5 = 10$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 6} \\frac{x^2 - 36}{x - 6}$?",
+      "context": "En un experimento sobre velocidad en Santa Marta, Diego modela la posición con la función $f(x) = \\frac{x^2 - 36}{x - 6}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 36 = (x - 6)(x + 6)$, se simplifica $x + 6$, dando 6 + 6 = 12."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 36 = (x - 6)(x + 6)$, cancelamos $(x - 6)$ y evaluamos $\\lim_{x \\to 6} (x + 6) = 6 + 6 = 12$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 7} \\frac{x^2 - 49}{x - 7}$?",
+      "context": "En un experimento sobre velocidad en Pasto, Valentina modela la posición con la función $f(x) = \\frac{x^2 - 49}{x - 7}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 49 = (x - 7)(x + 7)$, se simplifica $x + 7$, dando 7 + 7 = 14."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 49 = (x - 7)(x + 7)$, cancelamos $(x - 7)$ y evaluamos $\\lim_{x \\to 7} (x + 7) = 7 + 7 = 14$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 8} \\frac{x^2 - 64}{x - 8}$?",
+      "context": "En un experimento sobre velocidad en Bogotá, Santiago modela la posición con la función $f(x) = \\frac{x^2 - 64}{x - 8}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 64 = (x - 8)(x + 8)$, se simplifica $x + 8$, dando 8 + 8 = 16."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 64 = (x - 8)(x + 8)$, cancelamos $(x - 8)$ y evaluamos $\\lim_{x \\to 8} (x + 8) = 8 + 8 = 16$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 9} \\frac{x^2 - 81}{x - 9}$?",
+      "context": "En un experimento sobre velocidad en Medellín, Mariana modela la posición con la función $f(x) = \\frac{x^2 - 81}{x - 9}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 81 = (x - 9)(x + 9)$, se simplifica $x + 9$, dando 9 + 9 = 18."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 81 = (x - 9)(x + 9)$, cancelamos $(x - 9)$ y evaluamos $\\lim_{x \\to 9} (x + 9) = 9 + 9 = 18$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 10} \\frac{x^2 - 100}{x - 10}$?",
+      "context": "En un experimento sobre velocidad en Cali, Juan modela la posición con la función $f(x) = \\frac{x^2 - 100}{x - 10}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 100 = (x - 10)(x + 10)$, se simplifica $x + 10$, dando 10 + 10 = 20."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 100 = (x - 10)(x + 10)$, cancelamos $(x - 10)$ y evaluamos $\\lim_{x \\to 10} (x + 10) = 10 + 10 = 20$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 11} \\frac{x^2 - 121}{x - 11}$?",
+      "context": "En un experimento sobre velocidad en Barranquilla, Camila modela la posición con la función $f(x) = \\frac{x^2 - 121}{x - 11}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 121 = (x - 11)(x + 11)$, se simplifica $x + 11$, dando 11 + 11 = 22."
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "33",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 121 = (x - 11)(x + 11)$, cancelamos $(x - 11)$ y evaluamos $\\lim_{x \\to 11} (x + 11) = 11 + 11 = 22$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 12} \\frac{x^2 - 144}{x - 12}$?",
+      "context": "En un experimento sobre velocidad en Bucaramanga, Alejandro modela la posición con la función $f(x) = \\frac{x^2 - 144}{x - 12}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 144 = (x - 12)(x + 12)$, se simplifica $x + 12$, dando 12 + 12 = 24."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 144 = (x - 12)(x + 12)$, cancelamos $(x - 12)$ y evaluamos $\\lim_{x \\to 12} (x + 12) = 12 + 12 = 24$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 13} \\frac{x^2 - 169}{x - 13}$?",
+      "context": "En un experimento sobre velocidad en Cartagena, Isabella modela la posición con la función $f(x) = \\frac{x^2 - 169}{x - 13}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "26",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 169 = (x - 13)(x + 13)$, se simplifica $x + 13$, dando 13 + 13 = 26."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "39",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 169 = (x - 13)(x + 13)$, cancelamos $(x - 13)$ y evaluamos $\\lim_{x \\to 13} (x + 13) = 13 + 13 = 26$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 14} \\frac{x^2 - 196}{x - 14}$?",
+      "context": "En un experimento sobre velocidad en Pereira, Mateo modela la posición con la función $f(x) = \\frac{x^2 - 196}{x - 14}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 196 = (x - 14)(x + 14)$, se simplifica $x + 14$, dando 14 + 14 = 28."
+        },
+        {
+          "letter": "B",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "42",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 196 = (x - 14)(x + 14)$, cancelamos $(x - 14)$ y evaluamos $\\lim_{x \\to 14} (x + 14) = 14 + 14 = 28$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 15} \\frac{x^2 - 225}{x - 15}$?",
+      "context": "En un experimento sobre velocidad en Manizales, Sofia modela la posición con la función $f(x) = \\frac{x^2 - 225}{x - 15}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 225 = (x - 15)(x + 15)$, se simplifica $x + 15$, dando 15 + 15 = 30."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 225 = (x - 15)(x + 15)$, cancelamos $(x - 15)$ y evaluamos $\\lim_{x \\to 15} (x + 15) = 15 + 15 = 30$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 16} \\frac{x^2 - 256}{x - 16}$?",
+      "context": "En un experimento sobre velocidad en Santa Marta, Diego modela la posición con la función $f(x) = \\frac{x^2 - 256}{x - 16}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 256 = (x - 16)(x + 16)$, se simplifica $x + 16$, dando 16 + 16 = 32."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "48",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 256 = (x - 16)(x + 16)$, cancelamos $(x - 16)$ y evaluamos $\\lim_{x \\to 16} (x + 16) = 16 + 16 = 32$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 17} \\frac{x^2 - 289}{x - 17}$?",
+      "context": "En un experimento sobre velocidad en Pasto, Valentina modela la posición con la función $f(x) = \\frac{x^2 - 289}{x - 17}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "34",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 289 = (x - 17)(x + 17)$, se simplifica $x + 17$, dando 17 + 17 = 34."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "51",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 289 = (x - 17)(x + 17)$, cancelamos $(x - 17)$ y evaluamos $\\lim_{x \\to 17} (x + 17) = 17 + 17 = 34$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 18} \\frac{x^2 - 324}{x - 18}$?",
+      "context": "En un experimento sobre velocidad en Bogotá, Santiago modela la posición con la función $f(x) = \\frac{x^2 - 324}{x - 18}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 324 = (x - 18)(x + 18)$, se simplifica $x + 18$, dando 18 + 18 = 36."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "54",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 324 = (x - 18)(x + 18)$, cancelamos $(x - 18)$ y evaluamos $\\lim_{x \\to 18} (x + 18) = 18 + 18 = 36$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 19} \\frac{x^2 - 361}{x - 19}$?",
+      "context": "En un experimento sobre velocidad en Medellín, Mariana modela la posición con la función $f(x) = \\frac{x^2 - 361}{x - 19}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "38",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 361 = (x - 19)(x + 19)$, se simplifica $x + 19$, dando 19 + 19 = 38."
+        },
+        {
+          "letter": "B",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "57",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 361 = (x - 19)(x + 19)$, cancelamos $(x - 19)$ y evaluamos $\\lim_{x \\to 19} (x + 19) = 19 + 19 = 38$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 20} \\frac{x^2 - 400}{x - 20}$?",
+      "context": "En un experimento sobre velocidad en Cali, Juan modela la posición con la función $f(x) = \\frac{x^2 - 400}{x - 20}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 400 = (x - 20)(x + 20)$, se simplifica $x + 20$, dando 20 + 20 = 40."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 400 = (x - 20)(x + 20)$, cancelamos $(x - 20)$ y evaluamos $\\lim_{x \\to 20} (x + 20) = 20 + 20 = 40$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el valor del límite $\\lim_{x \\to 21} \\frac{x^2 - 441}{x - 21}$?",
+      "context": "En un experimento sobre velocidad en Barranquilla, Camila modela la posición con la función $f(x) = \\frac{x^2 - 441}{x - 21}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando $x^2 - 441 = (x - 21)(x + 21)$, se simplifica $x + 21$, dando 21 + 21 = 42."
+        },
+        {
+          "letter": "B",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste directamente sin cancelar la indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite."
+        },
+        {
+          "letter": "D",
+          "text": "63",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 441 = (x - 21)(x + 21)$, cancelamos $(x - 21)$ y evaluamos $\\lim_{x \\to 21} (x + 21) = 21 + 21 = 42$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W03-limites-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

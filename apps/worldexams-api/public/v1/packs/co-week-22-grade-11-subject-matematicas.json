@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-22-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.210Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la integral definida que representa dicha área y cuál es su valor?",
+      "context": "En Bogotá, Juan evalúa el área delimitada por la función $f(x) = 3$ y el eje $x$ en el intervalo $[0, 4]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int_0^4 3 \\, dx = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. La integral de una constante $c$ de $a$ a $b$ es $c(b-a) = 3(4) = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int_0^4 3 \\, dx = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó el límite superior en lugar de multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "$\\int_0^4 3x \\, dx = 24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró la constante como si fuera $3x$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int_0^4 3 \\, dx = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente al valor de la función constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para una función constante $f(x) = k \\ge 0$, el área bajo la curva en $[a, b]$ es un rectángulo de base $(b-a)$ y altura $k$, resultando en $\\int_a^b k \\, dx = k(b-a)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v2",
+      "statement": "Al calcular $\\int_0^6 x \\, dx$, ¿qué valor de área se obtiene?",
+      "context": "Un grupo de ingenieros en Medellín liderado por Valentina analiza el área bajo la curva $f(x) = x$ desde $x = 0$ hasta $x = 6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. La antiderivada es $\\frac{x^2}{2}$, evaluada de 0 a 6 da $\\frac{36}{2} - 0 = 18$."
+        },
+        {
+          "letter": "B",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir por 2 al calcular la antiderivada de $x$."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor del límite superior, no el área."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar $6^2 / 2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integral definida $\\int_0^6 x \\, dx = \\left[ \\frac{x^2}{2} \\right]_0^6 = \\frac{36}{2} - 0 = 18$. Geométricamente representa un triángulo de base 6 y altura 6.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor del área?",
+      "context": "En un proyecto ambiental en Cali, Mateo necesita calcular el área entre $f(x) = 2x$ y el eje $x$ en $[1, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_1^3 2x \\, dx = [x^2]_1^3 = 3^2 - 1^2 = 9 - 1 = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió restar la evaluación en el límite inferior $x=1$."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron los límites en lugar de integrarlos."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la diferencia de cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integral de $2x$ es $x^2$. Aplicando el Segundo Teorema Fundamental del Cálculo en $[1, 3]$: $F(3) - F(1) = 9 - 1 = 8$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el área exacta de esta región?",
+      "context": "En la zona industrial de Barranquilla, Camila calcula la región plana comprendida por $f(x) = x^2$ en el intervalo $[0, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^3 x^2 \\, dx = [\\frac{x^3}{3}]_0^3 = \\frac{27}{3} = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividió entre 3 al antiderivar $x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la integración con multiplicar $x \\cdot 2$."
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división del término cúbico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $x^2$ es $\\frac{x^3}{3}$. Evaluando en 3 resulta $\\frac{3^3}{3} = 9$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la medida del área encerrada?",
+      "context": "En Cartagena, Santiago investiga el área entre la curva $f(x) = 4 - x^2$ y el eje $x$ entre sus raíces $x = -2$ y $x = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{32}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_{-2}^2 (4 - x^2) \\, dx = [4x - \\frac{x^3}{3}]_{-2}^2 = (8 - \\frac{8}{3}) - (-8 + \\frac{8}{3}) = \\frac{32}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{16}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó solo para el intervalo $[0, 2]$ sin multiplicar por 2 por simetría."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar la fracción en la integración."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la antiderivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por simetría, $2 \\int_0^2 (4 - x^2) \\, dx = 2 \\left[ 4(2) - \\frac{8}{3} \\right] = 2 \\left( 8 - \\frac{8}{3} \\right) = \\frac{32}{3}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son los puntos de intersección de las dos funciones que definen los límites de integración?",
+      "context": "Un economista en Bucaramanga, Sofia, estima el superávit mediante la diferencia de áreas entre $f(x) = x+2$ y $g(x) = x^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -1$ y $x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando $x^2 = x + 2 \\implies x^2 - x - 2 = 0 \\implies (x-2)(x+1) = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$ y $x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la ecuación cuadrática completa."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -2$ y $x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos erróneos al factorizar la cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$ y $x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces no hacen iguales las dos funciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar los límites de integración entre dos curvas, se igualan $f(x) = g(x)$. La ecuación $x^2 - x - 2 = 0$ entrega $x = 2$ y $x = -1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el área entre las dos curvas?",
+      "context": "Continuando el análisis en Manizales, Alejandro debe calcular el área de la región encerrada entre $f(x) = x+2$ y $g(x) = x^2$ en $[-1, 2]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{9}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_{-1}^2 ((x+2) - x^2) \\, dx = [\\frac{x^2}{2} + 2x - \\frac{x^3}{3}]_{-1}^2 = \\frac{10}{3} - (-\\frac{7}{6}) = \\frac{9}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{15}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos al restar los términos en el límite inferior."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integraron por separado y se sumaron en vez de restar."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{7}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la parte negativa de la evaluación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área entre curvas es $\\int_a^b (superior - inferior) \\, dx$. En este caso $\\int_{-1}^2 (x + 2 - x^2) \\, dx = \\frac{9}{2} = 4.5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor exacto del área?",
+      "context": "En un taller técnico en Pereira, Daniela determina el área bajo la función exponencial $f(x) = e^x$ en el intervalo $[0, 1]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^1 e^x \\, dx = [e^x]_0^1 = e^1 - e^0 = e - 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó que $e^0 = 1$ en el límite inferior."
+        },
+        {
+          "letter": "C",
+          "text": "$e + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó en lugar de restar el límite inferior."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asumió que la integral de $e^x$ es $x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $e^x$ es $e^x$. Evaluando de 0 a 1 obtenemos $e^1 - e^0 = e - 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el desplazamiento total (área bajo la curva $v(t)$) en esos 2 segundos?",
+      "context": "En Cúcuta, Nicolas mide la velocidad de un flujo de agua dada por $v(t) = 3t^2 + 2t$ en m/s desde $t=0$ hasta $t=2$ s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 m",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^2 (3t^2 + 2t) \\, dt = [t^3 + t^2]_0^2 = 8 + 4 = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "16 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar las potencias de $t$."
+        },
+        {
+          "letter": "C",
+          "text": "8 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se consideró únicamente el término cúbico $t^3$."
+        },
+        {
+          "letter": "D",
+          "text": "10 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma final de los términos integrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integral de la velocidad $v(t)$ representa la distancia/desplazamiento: $\\int_0^2 (3t^2 + 2t) \\, dt = [t^3 + t^2]_0^2 = 2^3 + 2^2 = 12$ metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v10",
+      "statement": "¿Qué valor numérico tiene el área calculada?",
+      "context": "En Ibagué, Mariana calcula el área de la región comprendida entre la curva $y = \\sqrt{x}$ y el eje $x$ desde $x = 0$ hasta $x = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{16}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^4 x^{1/2} \\, dx = [\\frac{2}{3} x^{3/2}]_0^4 = \\frac{2}{3}(8) = \\frac{16}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó $4 \\times 2$ en lugar de aplicar la regla de la potencia para radicales."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se evaluó $\\sqrt{4} \\times 2$ sin antiderivar."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el factor 2 en $\\frac{2}{3}$ de la antiderivada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $x^{1/2}$ es $\\frac{x^{3/2}}{3/2} = \\frac{2}{3}x^{3/2}$. Para $x=4$, $4^{3/2} = 8$, luego $\\frac{2}{3}(8) = \\frac{16}{3}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor total del área encerrada?",
+      "context": "Un estudio topográfico en Pasto llevado a cabo por Carlos analiza la región entre $f(x) = \\sin(x)$ y el eje $x$ en $[0, \\pi]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^{\\pi} \\sin(x) \\, dx = [-\\cos(x)]_0^{\\pi} = -(-1) - (-1) = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la integración de 0 a $\\pi$ con un periodo completo $[0, 2\\pi]$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se evaluó solo en $\\pi/2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se colocó el límite de integración como resultado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área bajo la curva seno desde 0 hasta $\\pi$ se obtiene mediante $\\int_0^\\pi \\sin(x) \\, dx = [-\\cos(x)]_0^\\pi = 1 - (-1) = 2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v12",
+      "statement": "Si se requiere el área neta entre la curva y el eje $x$ (área geométrica total), ¿cuál es el resultado?",
+      "context": "En Santa Marta, Gabriela compara las áreas de $f(x) = x^3$ en el intervalo $[-1, 1]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_{-1}^0 (-x^3)\\,dx + \\int_0^1 x^3\\,dx = \\frac{1}{4} + \\frac{1}{4} = \\frac{1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor de la integral definida directa $\\int_{-1}^1 x^3 \\, dx$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se duplicó erróneamente el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó solo el área en el primer cuadrante $[0, 1]$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área geométrica exige tomar el valor absoluto de la función donde es negativa: $\\int_{-1}^0 (-x^3)dx + \\int_0^1 x^3 dx = \\frac{1}{4} + \\frac{1}{4} = \\frac{1}{2}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el área de la región que encierran ambas parábolas?",
+      "context": "En Villavicencio, Andres analiza la región acotada por las parabólicas $y = x^2$ e $y = 2x - x^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Intersección $x=0, 1$. $\\int_0^1 (2x - 2x^2) \\, dx = [x^2 - \\frac{2x^3}{3}]_0^1 = 1 - \\frac{2}{3} = \\frac{1}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se simplificó la resta de coeficientes."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al integrar $2x^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 2 innecesariamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Igualando las funciones se hallan los límites $x=0$ y $x=1$. Integrando la diferencia $(2x - x^2) - x^2 = 2x - 2x^2$ de 0 a 1 resulta $\\frac{1}{3}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el valor del área obtenida?",
+      "context": "En un centro de investigaciones en Armenia, Isabella debe hallar el área limitada por $y = \\frac{1}{x}$, el eje $x$, y las rectas $x = 1$ y $x = e$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_1^e \\frac{1}{x} \\, dx = [\\ln|x|]_1^e = \\ln(e) - \\ln(1) = 1 - 0 = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asumió que la antiderivada era $x$ o $e$."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó $\\ln(e) - 1$ erróneamente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\ln(e) + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó $\\ln(1) = 1$ en lugar de 0."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La antiderivada de $\\frac{1}{x}$ es $\\ln|x|$. Al evaluar en los límites $x=1$ y $x=e$, tenemos $\\ln(e) - \\ln(1) = 1 - 0 = 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el área del área encerrada en el primer cuadrante?",
+      "context": "En Neiva, Felipe evalúa el área encerrada entre la recta $y = x$ y la curva $y = x^3$ en el primer cuadrante ($x \\ge 0$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Puntos de corte en $[0,1]$: $\\int_0^1 (x - x^3) \\, dx = [\\frac{x^2}{2} - \\frac{x^4}{4}]_0^1 = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde solo a la integral de $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las integrales en lugar de restarlas."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar las potencias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En $[0, 1]$, la recta $y=x$ está por encima de $y=x^3$. El área es $\\int_0^1 (x - x^3) \\, dx = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la medida de esa superficie?",
+      "context": "Un diseñador en Popayán, Lucia, calcula el área delimitada por $f(x) = \\cos(x)$ y el eje $x$ en $[-\\frac{\\pi}{2}, \\frac{\\pi}{2}]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_{-\\pi/2}^{\\pi/2} \\cos(x) \\, dx = [\\sin(x)]_{-\\pi/2}^{\\pi/2} = 1 - (-1) = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión con la simetría de una función impar."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó solo de $0$ a $\\pi/2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de sustitución."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $\\cos(x)$ es una función par en $[-\\pi/2, \\pi/2]$, el área es $2 \\int_0^{\\pi/2} \\cos(x) \\, dx = 2(1) = 2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v17",
+      "statement": "El método A integra respecto a $x$: $2 \\int_0^2 (4 - x^2) dx$. El método B integra respecto a $y$: $\\int_0^4 2\\sqrt{{y}} dy$. ¿Qué se concluye?",
+      "context": "En Montería, Diego analiza la validez de dos métodos para hallar el área entre $y = x^2$ y la recta $y = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos métodos son válidos y producen el mismo resultado: $\\frac{32}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Integrar respecto a $x$ o a $y$ entrega la misma área geométrica."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el método A es correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integración respecto a $y$ es completamente válida."
+        },
+        {
+          "letter": "C",
+          "text": "El método B da 16 y el método A da 8.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos entregan $\\frac{32}{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los métodos es correcto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos definen la misma región."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Integrando respecto a $y$: $\\int_0^4 2 y^{1/2} dy = [\\frac{4}{3} y^{3/2}]_0^4 = \\frac{32}{3}$. Coincide con la integración respecto a $x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el valor aproximado del área y cómo se compara con el área exacta?",
+      "context": "En Tunja, Paula evalúa la aproximación del área bajo $f(x) = x^2$ en $[0, 2]$ mediante suma de Riemann izquierda con $n=2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Área aproximada = 1; es una subestimación del área exacta ($\\frac{8}{3} \\approx 2.67$).",
+          "is_correct": true,
+          "feedback": "Correcto. Puntos izquierdos en $x=0$ ($f=0$) y $x=1$ ($f=1$). Suma = $1(0)+1(1) = 1 < 2.67$."
+        },
+        {
+          "letter": "B",
+          "text": "Área aproximada = 5; es sobreestimación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 corresponde a la suma por la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "Área aproximada = 2.67; coincide exactamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una suma finita con $n=2$ no es exacta para parábolas."
+        },
+        {
+          "letter": "D",
+          "text": "Área aproximada = 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo por la izquierda da 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para $n=2$ en $[0,2]$, $\\Delta x = 1$. Suma izquierda $= f(0)(1) + f(1)(1) = 0 + 1 = 1$. Como $f(x)$ es creciente, subestima el área real de $\\frac{8}{3}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v19",
+      "statement": "¿Es convergente el área de esta región no acotada y cuál es su valor?",
+      "context": "En Riohacha, Samuel examina el área bajo $f(x) = \\frac{1}{x^2}$ desde $x=1$ hasta $x=b$ cuando $b \\to \\infty$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, es convergente y el área total es 1.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\lim_{b \\to \\infty} [-x^{-1}]_1^b = \\lim_{b \\to \\infty} (1 - \\frac{1}{b}) = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "No, el área diverge a infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una integral impropia convergente."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, es convergente y el área es 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La región suma un área positiva de 1."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla del límite de integrales impropias entrega 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Integral impropia $\\int_1^\\infty x^{-2} \\, dx = \\lim_{b \\to \\infty} [ -1/x ]_1^b = 1 - 0 = 1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el área de esta región plana?",
+      "context": "En Florencia, Andrea analiza la región encerrada por $y = |x|$ y $y = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Triángulo con base 4 y altura 2: $\\frac{4 \\times 2}{2} = 4$. Por integración $2 \\int_0^2 (2 - x) dx = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó solo la mitad en el primer cuadrante."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asumió un rectángulo de $4 \\times 2$."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la integración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Geométricamente es un triángulo de base 4 y altura 2, área $\\frac{4 \\times 2}{2} = 4$. Por integración $2 \\int_0^2 (2 - x) dx = 4$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W22-area-bajo-curva-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

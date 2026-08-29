@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-29-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.214Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las coordenadas rectangulares $(x, y)$?",
+      "context": "En Bogotá, Juan convierte el punto en coordenadas polares $(r, \\theta) = (4, \\frac{{\\pi}}{{3}})$ a coordenadas cartesianas $(x, y)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 2\\sqrt{3})$",
+          "is_correct": true,
+          "feedback": "Correcto. $x = 4 \\cos(\\pi/3) = 4(1/2) = 2$, $y = 4 \\sin(\\pi/3) = 4(\\sqrt{3}/2) = 2\\sqrt{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$(2\\sqrt{3}, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtieron las funciones coseno y seno."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, 4\\sqrt{3})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir entre 2 los valores trigonométricos."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó $\\sin(\\pi/4) = 1/\\sqrt{2}$ por error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$x = r \\cos(\\theta) = 4 \\cos(60^\\circ) = 2$. $y = r \\sin(\\theta) = 4 \\sin(60^\\circ) = 2\\sqrt{3}$. Coordenadas: $(2, 2\\sqrt{3})$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son sus coordenadas polares $(r, \\theta)$?",
+      "context": "En Medellín, Valentina convierte el punto cartesiano $(x, y) = (-3, 3)$ a coordenadas polares con $r > 0$ y $0 \\le \\theta < 2\\pi$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3\\sqrt{2}, \\frac{3\\pi}{4})$",
+          "is_correct": true,
+          "feedback": "Correcto. $r = \\sqrt{(-3)^2 + 3^2} = \\sqrt{18} = 3\\sqrt{2}$. En el cuadrante II, $\\theta = \\pi - \\arctan(1) = \\frac{3\\pi}{4}$."
+        },
+        {
+          "letter": "B",
+          "text": "$(18, \\frac{\\pi}{4})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se sacó raíz a $r^2=18$ y se usó el cuadrante I."
+        },
+        {
+          "letter": "C",
+          "text": "$(3\\sqrt{2}, \\frac{\\pi}{4})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ubicó el ángulo en el primer cuadrante."
+        },
+        {
+          "letter": "D",
+          "text": "$(6, \\frac{3\\pi}{4})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar $\\sqrt{18}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$r = \\sqrt{9+9} = 3\\sqrt{2}$. Como $x < 0$ y $y > 0$, el punto está en el segundo cuadrante: $\\theta = 135^\\circ = \\frac{3\\pi}{4}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v3",
+      "statement": "¿Qué figura geométrica representa en el plano cartesiano y cuál es su ecuación rectangular?",
+      "context": "En Cali, Mateo analiza la ecuación polar $r = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una circunferencia centrada en el origen de ecuación $x^2 + y^2 = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. $r = 5 \\implies r^2 = 25 \\implies x^2 + y^2 = 25$."
+        },
+        {
+          "letter": "B",
+          "text": "Una recta vertical de ecuación $x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una recta vertical es $r = 5\\sec(\\theta)$."
+        },
+        {
+          "letter": "C",
+          "text": "Una recta horizontal de ecuación $y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una recta horizontal es $r = 5\\csc(\\theta)$."
+        },
+        {
+          "letter": "D",
+          "text": "Una parábola con vértice en el origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. $r=c$ constante siempre representa un círculo en coordenadas polares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $r = \\sqrt{x^2+y^2}$, elevar al cuadrado la constante $r=5$ da $x^2+y^2=25$, una circunferencia de radio 5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la ecuación polar de esta recta?",
+      "context": "En Barranquilla, Camila convierte la ecuación cartesiana de la recta $y = 2x$ a coordenadas polares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\tan(\\theta) = 2$ (o $\\theta = \\arctan(2)$)",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo $y = r\\sin\\theta$ y $x = r\\cos\\theta$: $r\\sin\\theta = 2r\\cos\\theta \\implies \\frac{\\sin\\theta}{\\cos\\theta} = 2 \\implies \\tan\\theta = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$r = 2\\cos(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ecuación representa una circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "$r = 2\\tan(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se simplificó el radio $r$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\theta = 2r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta que pasa por el origen tiene ángulo constante, independiente de $r$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para rectas que pasan por el origen $y = mx$, en polares la expresión es $\\tan(\\theta) = m \\implies \\theta = \\arctan(m)$ constante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor máximo del radio $r$ y en qué ángulo $\\theta$ ocurre?",
+      "context": "En Cartagena, Santiago gráfica la cardioide dada por la ecuación polar $r = 2(1 + \\cos\\theta)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$r_{máx} = 4$ en $\\theta = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. El máximo de $\\cos(\\theta)$ es $1$ en $\\theta = 0$. $r = 2(1 + 1) = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$r_{máx} = 2$ en $\\theta = \\pi/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $\\pi/2$, $\\cos(\\pi/2)=0 \\implies r=2$."
+        },
+        {
+          "letter": "C",
+          "text": "$r_{máx} = 0$ en $\\theta = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $\\pi$, $\\cos(\\pi)=-1 \\implies r=0$, que es el valor mínimo."
+        },
+        {
+          "letter": "D",
+          "text": "$r_{máx} = 8$ en $\\theta = 2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó $2 \\times 4$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$r(\\theta) = 2(1 + \\cos\\theta)$ alcanza su valor máximo cuando $\\cos\\theta = 1 \\implies \\theta = 0$, obteniéndose $r = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v6",
+      "statement": "Para el círculo de radio $R$, $r = R$ en $[0, 2\\pi]$, ¿se verifica el área del círculo?",
+      "context": "En Bucaramanga, Sofia calcula el área $A$ encerrada por la curva polar $r = f(\\theta)$ mediante $A = \\frac{{1}}{{2}} \\int_a^b r^2 d\\theta$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, $A = \\frac{1}{2} \\int_0^{2\\pi} R^2 d\\theta = \\frac{R^2}{2} (2\\pi) = \\pi R^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Aplica la fórmula integral polar confirmando la conocida superficie $\\pi R^2$."
+        },
+        {
+          "letter": "B",
+          "text": "No, da $2\\pi R^2$ por falta de dividir entre 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula polar incluye el factor $1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "No, da $\\frac{1}{2}\\pi R^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró en $[0, \\pi]$ en lugar de $[0, 2\\pi]$."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede aplicar a circunferencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula de área en polares aplica a cualquier región de contorno $r(\\theta)$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$A = \\frac{1}{2} \\int_0^{2\\pi} R^2 d\\theta = \\frac{R^2}{2} [\\theta]_0^{2\\pi} = \\pi R^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es su ecuación cartesiana correspondiente?",
+      "context": "En Manizales, Alejandro convierte la ecuación polar de la circunferencia $r = 4\\cos(\\theta)$ a coordenadas cartesianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 2)^2 + y^2 = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por $r$: $r^2 = 4r\\cos\\theta \\implies x^2 + y^2 = 4x \\implies (x-2)^2 + y^2 = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + y^2 = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a $r=4$, no $r=4\\cos\\theta$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + (y - 2)^2 = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería $r = 4\\sin\\theta$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 4)^2 + y^2 = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió completar cuadrados dividiendo $4/2=2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$r^2 = 4r\\cos\\theta \\implies x^2 + y^2 - 4x = 0 \\implies (x-2)^2 + y^2 = 4$. Circunferencia de centro $(2,0)$ y radio 2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos pétalos tiene la rosa polar $r = a \\cos(n\\theta)$ cuando $n=2$ es par?",
+      "context": "En Pereira, Daniela evalúa la simetría de la rosa de cuatro pétalos dada por $r = 3\\cos(2\\theta)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 pétalos",
+          "is_correct": true,
+          "feedback": "Correcto. Para $r = a \\cos(n\\theta)$, si $n$ es par el número de pétalos es $2n = 2(2) = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "2 pétalos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $n$ fuera impar tendría $n$ pétalos."
+        },
+        {
+          "letter": "C",
+          "text": "8 pétalos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó $2n$ por 2 de nuevo."
+        },
+        {
+          "letter": "D",
+          "text": "1 pétalo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un gráfico simétrico multilobulado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regla de las rosas polares $r = a \\cos(n\\theta)$: si $n$ es par, la rosa tiene $2n$ pétalos. Para $n=2$, tiene 4 pétalos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el área de un pétalo?",
+      "context": "En Cúcuta, Nicolas calcula el área de un pétalo de la rosa $r = 2\\cos(2\\theta)$ en el intervalo de un pétalo $[-\\frac{{\\pi}}{{4}}, \\frac{{\\pi}}{{4}}]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\pi}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $A = \\frac{1}{2} \\int_{-\\pi/4}^{\\pi/4} 4\\cos^2(2\\theta) d\\theta = 2 \\int_{-\\pi/4}^{\\pi/4} \\frac{1+\\cos(4\\theta)}{2} d\\theta = \\int_{-\\pi/4}^{\\pi/4} (1+\\cos(4\\theta)) d\\theta = \\frac{\\pi}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir entre 2 al integrar la identidad."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al área total de los 4 pétalos juntos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\pi}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró solo en $[0, \\pi/4]$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Área de 1 pétalo: $A = \\int_{-\\pi/4}^{\\pi/4} \\cos^2(2\\theta) d\\theta = \\int_{-\\pi/4}^{\\pi/4} \\frac{1+\\cos(4\\theta)}{2} d\\theta = \\frac{\\pi}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v10",
+      "statement": "¿Qué sucede con el radio $r$ a medida que $\\theta$ aumenta infinitamente?",
+      "context": "En Ibagué, Mariana grafica la espiral de Arquímedes $r = a \\theta$ para $\\theta \\ge 0$ con $a = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El radio $r$ crece de forma lineal ilimitadamente a medida que se dan vueltas.",
+          "is_correct": true,
+          "feedback": "Correcto. $r = \\theta$, por ende crece de manera directamente proporcional al ángulo girado."
+        },
+        {
+          "letter": "B",
+          "text": "El radio $r$ oscila entre $-1$ y $1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $r = \\theta$ no es una función trigonométrica oscilante."
+        },
+        {
+          "letter": "C",
+          "text": "El radio $r$ se aproxima asintóticamente a 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se estabiliza."
+        },
+        {
+          "letter": "D",
+          "text": "El gráfico colapsa en el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al crecer $\\theta$, la curva se aleja del polo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la Espiral de Arquímedes $r = a\\theta$, la distancia al origen $r$ es proporcional al ángulo de rotación $\\theta$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v11",
+      "statement": "¿Para qué ángulos $\\theta \\in [0, 2\\pi)$ se cruzan ambas curvas?",
+      "context": "En Pasto, Carlos halla los puntos de intersección entre las curvas polares $r = 2$ y $r = 4\\cos(\\theta)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\theta = \\frac{\\pi}{3}$ y $\\theta = \\frac{5\\pi}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $4\\cos\\theta = 2 \\implies \\cos\\theta = 1/2 \\implies \\theta = \\pi/3, 5\\pi/3$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\theta = \\frac{\\pi}{6}$ y $\\theta = \\frac{11\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos(\\pi/6) = \\sqrt{3}/2 \\neq 1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\theta = \\frac{\\pi}{2}$ y $\\theta = \\frac{3\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos(\\pi/2) = 0 \\implies r=0 \\neq 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\theta = 0$ y $\\theta = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos(0)=1 \\implies r=4 \\neq 2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Igualando los radios: $4\\cos\\theta = 2 \\implies \\cos\\theta = 1/2$. En $[0, 2\\pi)$ los ángulos son $\\theta = \\pi/3 (60^\\circ)$ y $\\theta = 5\\pi/3 (300^\\circ)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v12",
+      "statement": "Usando $x = r\\cos\\theta$ y $y = r\\sin\\theta$, ¿cuál es la fórmula de $\\frac{dy}{dx}$ en función de $\\theta$?",
+      "context": "En Santa Marta, Gabriela analiza la pendiente $m = \\frac{{dy}}{{dx}}$ de la tangente a una curva polar $r = f(\\theta)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{dy}{dx} = \\frac{r'(\\theta)\\sin\\theta + r(\\theta)\\cos\\theta}{r'(\\theta)\\cos\\theta - r(\\theta)\\sin\\theta}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la regla de la cadena $\\frac{dy/d\\theta}{dx/d\\theta}$ derivando los productos $x(\\theta)$ y $y(\\theta)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{dy}{dx} = \\frac{r'(\\theta)}{r(\\theta)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite la dependencia trigonométrica de los ejes rectangulares."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{dy}{dx} = \\tan(\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Válido únicamente si $r'(\\theta) = 0$ y en casos particulares."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{dy}{dx} = \\frac{r(\\theta)\\sin\\theta}{r'(\\theta)\\cos\\theta}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite la derivada del producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Derivando $y = r(\\theta)\\sin\\theta$ y $x = r(\\theta)\\cos\\theta$ respecto a $\\theta$, la razón $\\frac{dy/d\\theta}{dx/d\\theta}$ entrega la fórmula completa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la fórmula integral correcta para la longitud de arco en coordenadas polares?",
+      "context": "En Villavicencio, Andres examina la longitud de arco $L$ de una curva polar $r = f(\\theta)$ en $[a, b]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$L = \\int_a^b \\sqrt{r^2 + \\left(\\frac{dr}{d\\theta}\\right)^2} d\\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada de $(dx)^2 + (dy)^2 = (dr)^2 + r^2(d\\theta)^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$L = \\int_a^b \\sqrt{1 + r^2} d\\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no toma en cuenta la tasa de cambio $dr/d\\theta$."
+        },
+        {
+          "letter": "C",
+          "text": "$L = \\int_a^b r d\\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es únicamente la longitud de arco para un círculo de radio constante."
+        },
+        {
+          "letter": "D",
+          "text": "$L = \\int_a^b \\left(r + \\frac{dr}{d\\theta}\\right) d\\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la suma cuadrática bajo la raíz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En polares, el elemento diferencial de arco es $ds = \\sqrt{r^2 + (r')^2} d\\theta$. La integral de $a$ a $b$ entrega la longitud total.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la representación polar con $r > 0$?",
+      "context": "En Armenia, Isabella evalúa el punto cartesiano $(0, -5)$ expresado en coordenadas polares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(5, \\frac{3\\pi}{2})$",
+          "is_correct": true,
+          "feedback": "Correcto. $r = \\sqrt{0^2 + (-5)^2} = 5$. El eje $-y$ corresponde al ángulo $\\theta = \\frac{3\\pi}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$(5, \\frac{\\pi}{2})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al punto $(0, 5)$ en el eje $+y$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-5, \\frac{3\\pi}{2})$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar $r=-5$ apuntaría hacia el eje $+y$."
+        },
+        {
+          "letter": "D",
+          "text": "$(5, \\pi)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al punto $(-5, 0)$ en el eje $-x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto $(0, -5)$ se encuentra en el eje vertical negativo. Su distancia al origen es $r=5$ y su ángulo es $270^\\circ = \\frac{3\\pi}{2}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v15",
+      "statement": "Sabiendo que $r' = -\\sin\\theta$, ¿cuál es el valor de la integral de longitud total?",
+      "context": "En Neiva, Felipe calcula la longitud de la cardioide $r = 1 + \\cos(\\theta)$ para $\\theta \\in [0, 2\\pi]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. $L = \\int_0^{2\\pi} \\sqrt{(1+\\cos\\theta)^2 + (-\\sin\\theta)^2} d\\theta = \\int_0^{2\\pi} \\sqrt{2+2\\cos\\theta} d\\theta = 2\\int_0^{2\\pi} |\\cos(\\theta/2)| d\\theta = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el perímetro aproximado de un círculo de radio 1."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó solo para el semicírculo superior $[0, \\pi]$."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar la integral trigonométrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud total de la cardioide estándar $r = a(1+\\cos\\theta)$ es $8a$. Para $a=1$, la longitud es 8 exacto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v16",
+      "statement": "¿Qué figura representa esta ecuación y a qué distancia mínima pasa del origen?",
+      "context": "En Popayán, Lucia analiza la ecuación polar de la recta $r \\cos(\\theta - \\frac{{\\pi}}{{4}}) = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una recta cuya distancia perpendicular mínima al origen es 2.",
+          "is_correct": true,
+          "feedback": "Correcto. La forma $r \\cos(\\theta - \\theta_0) = p$ es la ecuación polar de una recta a distancia $p$ del polo."
+        },
+        {
+          "letter": "B",
+          "text": "Una circunferencia de radio 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la ecuación de una recta, no un círculo."
+        },
+        {
+          "letter": "C",
+          "text": "Una elipse de excentricidad $1/2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No incluye el término $e\\cos\\theta$ en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "Una espiral que pasa por el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico no pasa por el origen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma normal polar de una recta es $r \\cos(\\theta - \\alpha) = p$, donde $p$ es la distancia perpendicular del origen a la recta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v17",
+      "statement": "¿Representan ambos pares polares exactamente el mismo punto geométrico en el plano?",
+      "context": "En Montería, Diego evalúa las dos representaciones polares del mismo punto $(r, \\theta) = (3, \\frac{{\\pi}}{{6}})$ y $(-3, \\frac{{7\\pi}}{{6}})$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque un radio negativo $-r$ invierte la dirección del ángulo en $180^\\circ$ ($\\frac{7\\pi}{6} - \\pi = \\frac{\\pi}{6}$).",
+          "is_correct": true,
+          "feedback": "Correcto. En polares $(-r, \\theta) = (r, \\theta + \\pi)$. Así $(-3, 7\\pi/6) = (3, 7\\pi/6 - \\pi) = (3, \\pi/6)$."
+        },
+        {
+          "letter": "B",
+          "text": "No, representan puntos simétricos respecto al origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un radio negativo junto con el ángulo desfasado $180^\\circ$ apuntan al mismo punto."
+        },
+        {
+          "letter": "C",
+          "text": "No, un radio negativo es un error matemático que no se puede graficar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las coordenadas polares permiten radios negativos."
+        },
+        {
+          "letter": "D",
+          "text": "Solo son iguales si $\\theta = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad $(-r, \\theta) = (r, \\theta + \\pi)$ se cumple para cualquier ángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En coordenadas polares, $(-r, \\theta)$ se define como el punto a distancia $|r|$ en la dirección opuesta a $\\theta$, que equivale a $(r, \\theta + \\pi)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v18",
+      "statement": "Usando $A = \\frac{1}{2} \\int_0^{2\\pi} 4(1+\\cos\\theta)^2 d\\theta$, ¿cuál es el área total encerrada?",
+      "context": "En Tunja, Paula analiza el área total de la región dentro de la cardioide $r = 2(1 + \\cos\\theta)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $A = 2 \\int_0^{2\\pi} (1 + 2\\cos\\theta + \\cos^2\\theta) d\\theta = 2 (2\\pi + 0 + \\pi) = 6\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$4\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el término $\\cos^2\\theta$ al integrar."
+        },
+        {
+          "letter": "C",
+          "text": "$8\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 erróneamente."
+        },
+        {
+          "letter": "D",
+          "text": "$3\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó solo el área en un semicírculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula general del área de una cardioide $r = a(1+\\cos\\theta)$ es $A = \\frac{3}{2}\\pi a^2$. Para $a=2$: $A = \\frac{3}{2}\\pi (4) = 6\\pi$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v19",
+      "statement": "¿Qué cónica representa esta ecuación polar cuando la excentricidad $e = 1$?",
+      "context": "En Riohacha, Samuel evalúa las cónicas unificadas en coordenadas polares $r = \\frac{{p}}{{1 - e \\cos\\theta}}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una parábola",
+          "is_correct": true,
+          "feedback": "Correcto. $e=1$ define por propiedad universal una parábola en coordenadas polares."
+        },
+        {
+          "letter": "B",
+          "text": "Una elipse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere $0 < e < 1$."
+        },
+        {
+          "letter": "C",
+          "text": "Una hipérbola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere $e > 1$."
+        },
+        {
+          "letter": "D",
+          "text": "Una circunferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere $e = 0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ecuación polar unificada de cónicas con foco en el polo: $r = \\frac{ed}{1 \\pm e\\cos\\theta}$. Si $e=1$, la cónica es una parábola.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle-v20",
+      "statement": "Sabiendo que reemplazar $\\theta \\to -\\theta$ da $r = -3\\sin(2\\theta)$, ¿qué tipo de simetría posee?",
+      "context": "En Florencia, Andrea examina la simetría de la ecuación polar $r = 3\\sin(2\\theta)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es simétrica respecto al origen (polo) y a las rectas bisectrices.",
+          "is_correct": true,
+          "feedback": "Correcto. Al cambiar $\\theta \\to -\\theta$, el radio cambia de signo, lo que indica simetría respecto al eje vertical $y$ y al origen."
+        },
+        {
+          "letter": "B",
+          "text": "Es simétrica exclusivamente respecto al eje polar ($x$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función seno impar altera el signo."
+        },
+        {
+          "letter": "C",
+          "text": "No presenta ningún tipo de simetría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rosas de $n$ par poseen múltiples ejes de simetría."
+        },
+        {
+          "letter": "D",
+          "text": "Es una función asimétrica no graficable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una rosa regular de 4 pétalos totalmente simétrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $r(-\\theta) = -r(\\theta)$, la curva es simétrica respecto al eje a $90^\\circ$ (eje $y$) y presenta simetría respecto al polo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W29-coordenadas-polares-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

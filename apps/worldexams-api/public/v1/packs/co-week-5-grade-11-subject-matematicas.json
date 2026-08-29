@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.202Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 1| = 3$?",
+      "context": "En Pereira, Diego analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ o $x = -1$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 1 = 3$ y $2x - 1 = -3$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3.0$ o $x = -2.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 3 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 1 = 3 \\implies x = 2.0$ y $2x - 1 = -3 \\implies x = -1.0$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 2| = 5$?",
+      "context": "En Manizales, Valentina analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3.5$ o $x = -1.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 2 = 5$ y $2x - 2 = -5$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 3.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4.5$ o $x = -2.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 5 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 2 = 5 \\implies x = 3.5$ y $2x - 2 = -5 \\implies x = -1.5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 3| = 7$?",
+      "context": "En Santa Marta, Santiago analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$ o $x = -2$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 3 = 7$ y $2x - 3 = -7$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 6.0$ o $x = -3.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 7 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 3 = 7 \\implies x = 5.0$ y $2x - 3 = -7 \\implies x = -2.0$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 4| = 9$?",
+      "context": "En Pasto, Mariana analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6.5$ o $x = -2.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 4 = 9$ y $2x - 4 = -9$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 6.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 7.5$ o $x = -3.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 9 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 4 = 9 \\implies x = 6.5$ y $2x - 4 = -9 \\implies x = -2.5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 5| = 11$?",
+      "context": "En Bogotá, Juan analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 8$ o $x = -3$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 5 = 11$ y $2x - 5 = -11$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 9.0$ o $x = -4.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 11 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 5 = 11 \\implies x = 8.0$ y $2x - 5 = -11 \\implies x = -3.0$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 6| = 13$?",
+      "context": "En Medellín, Camila analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 9.5$ o $x = -3.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 6 = 13$ y $2x - 6 = -13$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 9.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10.5$ o $x = -4.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 13 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 6 = 13 \\implies x = 9.5$ y $2x - 6 = -13 \\implies x = -3.5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 7| = 15$?",
+      "context": "En Cali, Alejandro analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 11$ o $x = -4$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 7 = 15$ y $2x - 7 = -15$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 12.0$ o $x = -5.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 15 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 7 = 15 \\implies x = 11.0$ y $2x - 7 = -15 \\implies x = -4.0$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 8| = 17$?",
+      "context": "En Barranquilla, Isabella analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12.5$ o $x = -4.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 8 = 17$ y $2x - 8 = -17$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 12.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 13.5$ o $x = -5.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 17 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 8 = 17 \\implies x = 12.5$ y $2x - 8 = -17 \\implies x = -4.5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 9| = 19$?",
+      "context": "En Bucaramanga, Mateo analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 14$ o $x = -5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 9 = 19$ y $2x - 9 = -19$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 15.0$ o $x = -6.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 19 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 9 = 19 \\implies x = 14.0$ y $2x - 9 = -19 \\implies x = -5.0$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 10| = 21$?",
+      "context": "En Cartagena, Sofia analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 15.5$ o $x = -5.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 10 = 21$ y $2x - 10 = -21$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 15.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 16.5$ o $x = -6.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 21 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 10 = 21 \\implies x = 15.5$ y $2x - 10 = -21 \\implies x = -5.5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 11| = 23$?",
+      "context": "En Pereira, Diego analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 17$ o $x = -6$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 11 = 23$ y $2x - 11 = -23$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 18.0$ o $x = -7.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 23 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 11 = 23 \\implies x = 17.0$ y $2x - 11 = -23 \\implies x = -6.0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 12| = 25$?",
+      "context": "En Manizales, Valentina analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 18.5$ o $x = -6.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 12 = 25$ y $2x - 12 = -25$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 18.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 19.5$ o $x = -7.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 25 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 12 = 25 \\implies x = 18.5$ y $2x - 12 = -25 \\implies x = -6.5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 13| = 27$?",
+      "context": "En Santa Marta, Santiago analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 20$ o $x = -7$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 13 = 27$ y $2x - 13 = -27$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 21.0$ o $x = -8.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 27 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 13 = 27 \\implies x = 20.0$ y $2x - 13 = -27 \\implies x = -7.0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 14| = 29$?",
+      "context": "En Pasto, Mariana analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 21.5$ o $x = -7.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 14 = 29$ y $2x - 14 = -29$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 21.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 22.5$ o $x = -8.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 29 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 14 = 29 \\implies x = 21.5$ y $2x - 14 = -29 \\implies x = -7.5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 15| = 31$?",
+      "context": "En Bogotá, Juan analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 23$ o $x = -8$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 15 = 31$ y $2x - 15 = -31$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 23$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 24.0$ o $x = -9.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 31 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 15 = 31 \\implies x = 23.0$ y $2x - 15 = -31 \\implies x = -8.0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 16| = 33$?",
+      "context": "En Medellín, Camila analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 24.5$ o $x = -8.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 16 = 33$ y $2x - 16 = -33$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 24.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 25.5$ o $x = -9.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 33 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 16 = 33 \\implies x = 24.5$ y $2x - 16 = -33 \\implies x = -8.5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 17| = 35$?",
+      "context": "En Cali, Alejandro analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 26$ o $x = -9$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 17 = 35$ y $2x - 17 = -35$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 26$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 27.0$ o $x = -10.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 35 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 17 = 35 \\implies x = 26.0$ y $2x - 17 = -35 \\implies x = -9.0$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 18| = 37$?",
+      "context": "En Barranquilla, Isabella analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 27.5$ o $x = -9.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 18 = 37$ y $2x - 18 = -37$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 27.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 28.5$ o $x = -10.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 37 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 18 = 37 \\implies x = 27.5$ y $2x - 18 = -37 \\implies x = -9.5$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 19| = 39$?",
+      "context": "En Bucaramanga, Mateo analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 29$ o $x = -10$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 19 = 39$ y $2x - 19 = -39$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 29$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 30.0$ o $x = -11.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 39 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 19 = 39 \\implies x = 29.0$ y $2x - 19 = -39 \\implies x = -10.0$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 20| = 41$?",
+      "context": "En Cartagena, Sofia analiza el valor absoluto y las propiedades de orden de los números reales para la medición de tolerancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 30.5$ o $x = -10.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteando $2x - 20 = 41$ y $2x - 20 = -41$ se obtienen las dos soluciones válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo $x = 30.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste considerar el caso negativo del valor absoluto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 31.5$ o $x = -11.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la división entre el coeficiente 2."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 41 > 0, la ecuación sí tiene dos soluciones reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación $|A| = B$ (con $B \\ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 20 = 41 \\implies x = 30.5$ y $2x - 20 = -41 \\implies x = -10.5$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W05-numeros-reales-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.203Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v1",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 1} = 25$?",
+      "context": "En un estudio financiero en Santa Marta, Juan calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 1 = 2 \\implies t = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 1 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 1} = 5^{2}$. Al igualar exponentes, $t - 1 = 2 \\implies t = 2 + 1 = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 2} = 8$?",
+      "context": "En un estudio financiero en Pasto, Camila calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 2 = 3 \\implies t = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 2 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 2} = 2^{3}$. Al igualar exponentes, $t - 2 = 3 \\implies t = 3 + 2 = 5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v3",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 3} = 5$?",
+      "context": "En un estudio financiero en Bogotá, Alejandro calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 3}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Como $5 = 5^{1}$, igualamos exponentes: $t - 3 = 1 \\implies t = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 3 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 3} = 5^{1}$. Al igualar exponentes, $t - 3 = 1 \\implies t = 1 + 3 = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v4",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 4} = 4$?",
+      "context": "En un estudio financiero en Medellín, Isabella calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 4}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Como $4 = 2^{2}$, igualamos exponentes: $t - 4 = 2 \\implies t = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 4 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 4} = 2^{2}$. Al igualar exponentes, $t - 4 = 2 \\implies t = 2 + 4 = 6$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v5",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 5} = 125$?",
+      "context": "En un estudio financiero en Cali, Mateo calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 5}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 5 = 3 \\implies t = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 5 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 5} = 5^{3}$. Al igualar exponentes, $t - 5 = 3 \\implies t = 3 + 5 = 8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v6",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 6} = 2$?",
+      "context": "En un estudio financiero en Barranquilla, Sofia calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 6}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. Como $2 = 2^{1}$, igualamos exponentes: $t - 6 = 1 \\implies t = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 6 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 6} = 2^{1}$. Al igualar exponentes, $t - 6 = 1 \\implies t = 1 + 6 = 7$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v7",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 7} = 25$?",
+      "context": "En un estudio financiero en Bucaramanga, Diego calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 7}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 7 = 2 \\implies t = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 7 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 7} = 5^{2}$. Al igualar exponentes, $t - 7 = 2 \\implies t = 2 + 7 = 9$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v8",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 8} = 8$?",
+      "context": "En un estudio financiero en Cartagena, Valentina calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 8}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": true,
+          "feedback": "Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 8 = 3 \\implies t = 11$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 8 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 8} = 2^{3}$. Al igualar exponentes, $t - 8 = 3 \\implies t = 3 + 8 = 11$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v9",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 9} = 5$?",
+      "context": "En un estudio financiero en Pereira, Santiago calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 9}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. Como $5 = 5^{1}$, igualamos exponentes: $t - 9 = 1 \\implies t = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 9 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 9} = 5^{1}$. Al igualar exponentes, $t - 9 = 1 \\implies t = 1 + 9 = 10$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v10",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 10} = 4$?",
+      "context": "En un estudio financiero en Manizales, Mariana calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 10}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Como $4 = 2^{2}$, igualamos exponentes: $t - 10 = 2 \\implies t = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 10 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 10} = 2^{2}$. Al igualar exponentes, $t - 10 = 2 \\implies t = 2 + 10 = 12$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v11",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 11} = 125$?",
+      "context": "En un estudio financiero en Santa Marta, Juan calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 11}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": true,
+          "feedback": "Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 11 = 3 \\implies t = 14$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 11 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 11} = 5^{3}$. Al igualar exponentes, $t - 11 = 3 \\implies t = 3 + 11 = 14$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v12",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 12} = 2$?",
+      "context": "En un estudio financiero en Pasto, Camila calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 12}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. Como $2 = 2^{1}$, igualamos exponentes: $t - 12 = 1 \\implies t = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 12 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 12} = 2^{1}$. Al igualar exponentes, $t - 12 = 1 \\implies t = 1 + 12 = 13$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v13",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 13} = 25$?",
+      "context": "En un estudio financiero en Bogotá, Alejandro calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 13}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 13 = 2 \\implies t = 15$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 13 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 13} = 5^{2}$. Al igualar exponentes, $t - 13 = 2 \\implies t = 2 + 13 = 15$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v14",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 14} = 8$?",
+      "context": "En un estudio financiero en Medellín, Isabella calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 14}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 14 = 3 \\implies t = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 14 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 14} = 2^{3}$. Al igualar exponentes, $t - 14 = 3 \\implies t = 3 + 14 = 17$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v15",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 15} = 5$?",
+      "context": "En un estudio financiero en Cali, Mateo calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 15}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "is_correct": true,
+          "feedback": "Correcto. Como $5 = 5^{1}$, igualamos exponentes: $t - 15 = 1 \\implies t = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 15 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 15} = 5^{1}$. Al igualar exponentes, $t - 15 = 1 \\implies t = 1 + 15 = 16$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v16",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 16} = 4$?",
+      "context": "En un estudio financiero en Barranquilla, Sofia calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 16}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. Como $4 = 2^{2}$, igualamos exponentes: $t - 16 = 2 \\implies t = 18$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 16 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 16} = 2^{2}$. Al igualar exponentes, $t - 16 = 2 \\implies t = 2 + 16 = 18$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v17",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 17} = 125$?",
+      "context": "En un estudio financiero en Bucaramanga, Diego calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 17}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 17 = 3 \\implies t = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 17 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 17} = 5^{3}$. Al igualar exponentes, $t - 17 = 3 \\implies t = 3 + 17 = 20$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v18",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 18} = 2$?",
+      "context": "En un estudio financiero en Cartagena, Valentina calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 18}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "19",
+          "is_correct": true,
+          "feedback": "Correcto. Como $2 = 2^{1}$, igualamos exponentes: $t - 18 = 1 \\implies t = 19$."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 18 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 18} = 2^{1}$. Al igualar exponentes, $t - 18 = 1 \\implies t = 1 + 18 = 19$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v19",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $5^{t - 19} = 25$?",
+      "context": "En un estudio financiero en Pereira, Santiago calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 19}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 19 = 2 \\implies t = 21$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 19 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $5^{t - 19} = 5^{2}$. Al igualar exponentes, $t - 19 = 2 \\implies t = 2 + 19 = 21$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle-v20",
+      "statement": "¿Para qué valor de $t$ se cumple la ecuación $2^{t - 20} = 8$?",
+      "context": "En un estudio financiero en Manizales, Mariana calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 20}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23",
+          "is_correct": true,
+          "feedback": "Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 20 = 3 \\implies t = 23$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 20 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste incorrectamente las bases."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresando ambos lados en la misma base: $2^{t - 20} = 2^{3}$. Al igualar exponentes, $t - 20 = 3 \\implies t = 3 + 20 = 23$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W07-exponenciales-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

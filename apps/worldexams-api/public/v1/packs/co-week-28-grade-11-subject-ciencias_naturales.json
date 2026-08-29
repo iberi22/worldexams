@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-28-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.187Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define matemáticamente el pH de una solución acuosa?",
+      "context": "En un análisis de laboratorio en Colombia sobre definición de ph, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pH = -log10 [H+] o -log10 [H3O+]",
+          "is_correct": true,
+          "feedback": "El pH mide el logaritmo negativo de la concentración molar de iones hidronio."
+        },
+        {
+          "letter": "B",
+          "text": "pH = +log10 [OH-]",
+          "is_correct": false,
+          "feedback": "Esa fórmula se refiere a pOH con iones hidróxido."
+        },
+        {
+          "letter": "C",
+          "text": "pH = [H+] × [OH-]",
+          "is_correct": false,
+          "feedback": "Ese producto es Kw = 1 × 10⁻¹⁴."
+        },
+        {
+          "letter": "D",
+          "text": "pH = 14 + log10 [H+]",
+          "is_correct": false,
+          "feedback": "La relación correcta es pH = -log10 [H+]."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH se define como el logaritmo negativo en base 10 de la concentración de protones en solución.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v2",
+      "statement": "Una solución acuosa neutra a 25 °C posee un pH de...",
+      "context": "En un análisis de laboratorio en Colombia sobre escala de acidez a 25 °c, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.0",
+          "is_correct": false,
+          "feedback": "pH 0 representa una solución fuertemente ácida 1 M."
+        },
+        {
+          "letter": "B",
+          "text": "7.0",
+          "is_correct": true,
+          "feedback": "A 25 °C, [H+] = 10⁻⁷ M, por lo tanto pH = 7.0."
+        },
+        {
+          "letter": "C",
+          "text": "14.0",
+          "is_correct": false,
+          "feedback": "pH 14 representa una solución fuertemente básica 1 M."
+        },
+        {
+          "letter": "D",
+          "text": "1.0",
+          "is_correct": false,
+          "feedback": "pH 1 es ácido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A 25 °C, una solución con pH = 7 es neutra ([H+] = [OH-] = 10⁻⁷ M).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v3",
+      "statement": "Según la teoría de Brønsted-Lowry, un ácido se define como...",
+      "context": "En un análisis de laboratorio en Colombia sobre ácidos y bases brønsted-lowry, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda especie que aporta grupos OH- a la solución.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a la definición de base de Arrhenius."
+        },
+        {
+          "letter": "B",
+          "text": "Un aceptor de pares de electrones exclusivamente.",
+          "is_correct": false,
+          "feedback": "Esa es la definición de Lewis."
+        },
+        {
+          "letter": "C",
+          "text": "Toda especie química capaz de donar un protón (H+) a otra especie.",
+          "is_correct": true,
+          "feedback": "Un ácido es un donador de protones H+."
+        },
+        {
+          "letter": "D",
+          "text": "Un compuesto inerte insoluble en agua.",
+          "is_correct": false,
+          "feedback": "Los ácidos de Brønsted interactúan donando H+."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La teoría de Brønsted-Lowry clasifica a los ácidos como donadores de protones (H+) y a las bases como aceptoras.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v4",
+      "statement": "Si una solución acuosa a 25 °C tiene un pH de 3, ¿cuál es su pOH?",
+      "context": "En un análisis de laboratorio en Colombia sobre relación ph y poh, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.0",
+          "is_correct": false,
+          "feedback": "pH y pOH suman 14."
+        },
+        {
+          "letter": "B",
+          "text": "7.0",
+          "is_correct": false,
+          "feedback": "La suma debe ser igual a 14."
+        },
+        {
+          "letter": "C",
+          "text": "14.0",
+          "is_correct": false,
+          "feedback": "pOH es 11."
+        },
+        {
+          "letter": "D",
+          "text": "11.0",
+          "is_correct": true,
+          "feedback": "pH + pOH = 14.0. Luego pOH = 14 - 3 = 11.0."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En soluciones acuosas a 25 °C se cumple la relación pH + pOH = 14.0.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v5",
+      "statement": "Calcula el pH de una solución 0.01 M de ácido clorhídrico (HCl), considerando su ionización 100% completa.",
+      "context": "En un análisis de laboratorio en Colombia sobre ácido fuerte en ionización total, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.0",
+          "is_correct": true,
+          "feedback": "[H+] = 0.01 M = 10⁻² M. pH = -log(10⁻²) = 2.0."
+        },
+        {
+          "letter": "B",
+          "text": "1.0",
+          "is_correct": false,
+          "feedback": "10⁻² M entrega pH = 2."
+        },
+        {
+          "letter": "C",
+          "text": "4.0",
+          "is_correct": false,
+          "feedback": "log(0.01) es -2, luego pH es 2."
+        },
+        {
+          "letter": "D",
+          "text": "12.0",
+          "is_correct": false,
+          "feedback": "pH 12 es básico, el HCl es un ácido fuerte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ácidos fuertes se disocian totalmente en agua, por lo que [H+] es igual a la molaridad del ácido monoprótico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v6",
+      "statement": "Si se disuelven 40 g de NaOH (M = 40 g/mol) en agua hasta completar 2 Litros de solución, su Molaridad es...",
+      "context": "En un análisis de laboratorio en Colombia sobre molaridad de una solución, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 M",
+          "is_correct": false,
+          "feedback": "1 mol en 2 L da 0.5 M."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 M",
+          "is_correct": true,
+          "feedback": "Moles = 40/40 = 1 mol. Molaridad = 1 mol / 2 L = 0.5 M."
+        },
+        {
+          "letter": "C",
+          "text": "2.0 M",
+          "is_correct": false,
+          "feedback": "Se divide entre el volumen total en litros."
+        },
+        {
+          "letter": "D",
+          "text": "0.2 M",
+          "is_correct": false,
+          "feedback": "1 / 2 = 0.5 M."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La molaridad M = moles de soluto / litros de solución.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v7",
+      "statement": "¿Qué volumen de agua debe agregarse a 100 mL de HCl 2 M para obtener una solución 0.5 M? (C1·V1 = C2·V2)",
+      "context": "En un análisis de laboratorio en Colombia sobre dilución de soluciones, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "400 mL de agua",
+          "is_correct": false,
+          "feedback": "400 mL es el volumen final total."
+        },
+        {
+          "letter": "B",
+          "text": "100 mL de agua",
+          "is_correct": false,
+          "feedback": "Para bajar de 2 M a 0.5 M se quadruplica el volumen."
+        },
+        {
+          "letter": "C",
+          "text": "300 mL de agua",
+          "is_correct": true,
+          "feedback": "V2 = (2 M × 100 mL) / 0.5 M = 400 mL total. Agua agregada = 400 - 100 = 300 mL."
+        },
+        {
+          "letter": "D",
+          "text": "200 mL de agua",
+          "is_correct": false,
+          "feedback": "Se requieren 300 mL adicionales de solvente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Durante la dilución moles de soluto se conservan (C1·V1 = C2·V2). El agua a añadir es V2 - V1.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la función principal de una solución tampón o buffer (ej. H2CO3 / HCO3- en sangre)?",
+      "context": "En un análisis de laboratorio en Colombia sobre solución amortiguadora (buffer), Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener el agua a 100 °C de ebullición.",
+          "is_correct": false,
+          "feedback": "No regula el punto de ebullición."
+        },
+        {
+          "letter": "B",
+          "text": "Evaporar el solvente rápidamente.",
+          "is_correct": false,
+          "feedback": "Regula el pH biológico."
+        },
+        {
+          "letter": "C",
+          "text": "Convertir todas las sales en gas nitrógeno.",
+          "is_correct": false,
+          "feedback": "Es un sistema de equilibrio ácido-base."
+        },
+        {
+          "letter": "D",
+          "text": "Resistir cambios drásticos de pH al adicionar pequeñas cantidades de ácido o base.",
+          "is_correct": true,
+          "feedback": "Un buffer neutraliza H+ o OH- añadidos manteniendo el pH relativamente constante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buffer contiene un ácido débil y su base conjugada, amortiguando las variaciones bruscas de pH.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v9",
+      "statement": "A 25 °C, el producto iónico del agua pura Kw es igual a...",
+      "context": "En un análisis de laboratorio en Colombia sobre constante de autoionización kw, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 × 10⁻¹⁴",
+          "is_correct": true,
+          "feedback": "Kw = [H+]·[OH-] = 1.0 × 10⁻¹⁴ a 25 °C."
+        },
+        {
+          "letter": "B",
+          "text": "1.0 × 10⁻⁷",
+          "is_correct": false,
+          "feedback": "10⁻⁷ es la concentración de [H+] en agua pura."
+        },
+        {
+          "letter": "C",
+          "text": "14.0",
+          "is_correct": false,
+          "feedback": "14 es el pKw = -log(Kw)."
+        },
+        {
+          "letter": "D",
+          "text": "1.0",
+          "is_correct": false,
+          "feedback": "Kw es 10⁻¹⁴ a 25 °C."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El producto iónico del agua Kw = [H+][OH-] es una constante de equilibrio fundamental de valor 10⁻¹⁴ a 25 °C.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo actúa la fenolftaleína para indicar el punto final en una titulación ácido-base?",
+      "context": "En un análisis de laboratorio en Colombia sobre indicadores ácido-base, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambia de rojo a azul únicamente a pH 1.",
+          "is_correct": false,
+          "feedback": "La fenolftaleína se torna rosa en ambiente básico."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia de incoloro en medio ácido a rosa en medio básico (pH > 8.2).",
+          "is_correct": true,
+          "feedback": "Es un ácido débil orgánico cuya forma desprotonada tiene color rosa perceptible."
+        },
+        {
+          "letter": "C",
+          "text": "Emite luz fluorescente a pH neutro 7.",
+          "is_correct": false,
+          "feedback": "No es una molécula quimioluminiscente."
+        },
+        {
+          "letter": "D",
+          "text": "Precipita en forma de sólido negro a pH 3.",
+          "is_correct": false,
+          "feedback": "Permanece en solución cambiando de coloración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los indicadores ácido-base son ácidos o bases orgánicas débiles cuyas formas protonada y desprotonada presentan colores distintos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v11",
+      "statement": "Una solución acuosa de acetato de sodio (CH3COONa, sal de ácido débil y base fuerte) tendrá un pH...",
+      "context": "En un análisis de laboratorio en Colombia sobre hidrólisis de sales, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácido (pH < 7).",
+          "is_correct": false,
+          "feedback": "La sal de ácido débil y base fuerte genera un medio básico."
+        },
+        {
+          "letter": "B",
+          "text": "Neutro (pH = 7).",
+          "is_correct": false,
+          "feedback": "Ocurre hidrólisis del anión básico."
+        },
+        {
+          "letter": "C",
+          "text": "Básico (pH > 7).",
+          "is_correct": true,
+          "feedback": "El anión acetato CH3COO- sufre hidrólisis aceptando H+ del agua y liberando OH-."
+        },
+        {
+          "letter": "D",
+          "text": "Igual a 0.",
+          "is_correct": false,
+          "feedback": "El pH es superior a 7."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las sales derivadas de ácido débil y base fuerte sufren hidrólisis aniónica produciendo soluciones básicas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v12",
+      "statement": "Si el producto de solubilidad (Ksp) del AgCl es 1.8 × 10⁻¹⁰, al mezclar soluciones resultando en Qsp = 1.0 × 10⁻⁸...",
+      "context": "En un análisis de laboratorio en Colombia sobre solubilidad y producto ksp, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No ocurre precipitación y la solución queda insaturada.",
+          "is_correct": false,
+          "feedback": "Qsp supera a Ksp."
+        },
+        {
+          "letter": "B",
+          "text": "El agua se evapora instantáneamente.",
+          "is_correct": false,
+          "feedback": "La precipitación ocurre en fase líquida."
+        },
+        {
+          "letter": "C",
+          "text": "Los iones se convierten en gas cloro.",
+          "is_correct": false,
+          "feedback": "Precipita la sal AgCl."
+        },
+        {
+          "letter": "D",
+          "text": "Se forma un precipitado sólido de AgCl.",
+          "is_correct": true,
+          "feedback": "Como Qsp > Ksp, la solución está sobresaturada y el exceso precipita."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando el cociente de reacción iónico Qsp supera el Ksp, el sistema precipita hasta restablecer el equilibrio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v13",
+      "statement": "¿Qué distingue a un electrolito fuerte de uno débil en solución acuosa?",
+      "context": "En un análisis de laboratorio en Colombia sobre electrolitos fuertes vs débiles, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El electrolito fuerte se disocia completamente en iones, conduciendo muy bien la electricidad.",
+          "is_correct": true,
+          "feedback": "Los electrolitos fuertes se ionizan al 100% en agua."
+        },
+        {
+          "letter": "B",
+          "text": "El electrolito débil no se disuelve en absoluto.",
+          "is_correct": false,
+          "feedback": "Los electrolitos débiles sí se disuelven pero se ionizan parcialmente."
+        },
+        {
+          "letter": "C",
+          "text": "El electrolito fuerte flota en aceite mineral.",
+          "is_correct": false,
+          "feedback": "Se refiere a la ionización en solución acuosa."
+        },
+        {
+          "letter": "D",
+          "text": "El electrolito débil emite electrones libres por radiación.",
+          "is_correct": false,
+          "feedback": "La distinción es la fracción de disociación iónica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los electrolitos fuertes se ionizan completamente en agua; los débiles se disocian de forma parcial en un equilibrio reversible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v14",
+      "statement": "Un vinagre comercial en Medellín contiene ácido acético con pH = 3. ¿Cuál es la concentración de [H+]?",
+      "context": "En un análisis de laboratorio en Colombia sobre grado de acidez del vinagre comercial, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.0 M",
+          "is_correct": false,
+          "feedback": "[H+] se obtiene elevando 10 a la -pH."
+        },
+        {
+          "letter": "B",
+          "text": "1.0 × 10⁻³ M",
+          "is_correct": true,
+          "feedback": "[H+] = 10^(-pH) = 10⁻³ M = 0.001 M."
+        },
+        {
+          "letter": "C",
+          "text": "1.0 × 10⁻¹¹ M",
+          "is_correct": false,
+          "feedback": "10⁻¹¹ M corresponde al pOH 11."
+        },
+        {
+          "letter": "D",
+          "text": "0.3 M",
+          "is_correct": false,
+          "feedback": "10⁻³ es 0.001 M."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La concentración de hidronios se calcula invirtiendo la definición de pH: [H+] = 10^(-pH).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v15",
+      "statement": "Una solución glucosada al 5% m/v contiene...",
+      "context": "En un análisis de laboratorio en Colombia sobre porcentaje masa en volumen (%m/v), Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 g de glucosa en 1000 mL de solución.",
+          "is_correct": false,
+          "feedback": "Es por 100 mL de solución."
+        },
+        {
+          "letter": "B",
+          "text": "5 moles de glucosa por litro.",
+          "is_correct": false,
+          "feedback": "Son gramos, no moles."
+        },
+        {
+          "letter": "C",
+          "text": "5 g de glucosa en 100 mL de solución.",
+          "is_correct": true,
+          "feedback": "% m/v representa gramos de soluto por cada 100 mL de solución."
+        },
+        {
+          "letter": "D",
+          "text": "5 kg de glucosa en 1 L.",
+          "is_correct": false,
+          "feedback": "5% m/v son 5 g en 100 mL."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concentración % m/v se define como los gramos de soluto disueltos en 100 mL de solución final.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v16",
+      "statement": "Al calentar un refresco carbonatado abierto en Cartagena, la solubilidad del gas CO2 disuelto...",
+      "context": "En un análisis de laboratorio en Colombia sobre efecto de la temperatura en solubilidad de gases, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta al doble atrapando más gas.",
+          "is_correct": false,
+          "feedback": "Los gases se vuelven menos solubles en caliente."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece idéntica sin liberar burbujas.",
+          "is_correct": false,
+          "feedback": "El calentamiento expulsa el gas."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el líquido en sólido.",
+          "is_correct": false,
+          "feedback": "El gas se desorbe de la solución acuosa."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuye y el gas se escapa de la solución.",
+          "is_correct": true,
+          "feedback": "La solubilidad de la mayoría de los gases en líquidos disminuye al aumentar la temperatura."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A mayor temperatura la energía cinética molecular permite a los gases disueltos vencer las atracciones y escapar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v17",
+      "statement": "Una solución contiene 2 moles de etanol y 8 moles de agua. La fracción molar del etanol (X_etanol) es...",
+      "context": "En un análisis de laboratorio en Colombia sobre fracción molar, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.20",
+          "is_correct": true,
+          "feedback": "X_etanol = moles etanol / moles totales = 2 / (2 + 8) = 2 / 10 = 0.20."
+        },
+        {
+          "letter": "B",
+          "text": "0.25",
+          "is_correct": false,
+          "feedback": "Se divide entre moles totales (10)."
+        },
+        {
+          "letter": "C",
+          "text": "0.80",
+          "is_correct": false,
+          "feedback": "0.80 es la fracción molar del agua."
+        },
+        {
+          "letter": "D",
+          "text": "2.0",
+          "is_correct": false,
+          "feedback": "La fracción molar es adimensionada y menor o igual a 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fracción molar X es el cociente entre los moles de un componente y los moles totales disueltos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v18",
+      "statement": "Al agregar acetato de sodio (CH3COONa) a una solución de ácido acético (CH3COOH), el pH de la mezcla...",
+      "context": "En un análisis de laboratorio en Colombia sobre efecto común en equilibrio de acidez, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye drásticamente a pH 1.",
+          "is_correct": false,
+          "feedback": "Al reducir [H+] el pH sube (menos ácido)."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta, reduciendo la acidez por el principio de Le Chatelier.",
+          "is_correct": true,
+          "feedback": "El anión CH3COO- extra desplaza el equilibrio hacia la izquierda consumiendo [H+]."
+        },
+        {
+          "letter": "C",
+          "text": "Se mantiene en 0.",
+          "is_correct": false,
+          "feedback": "El efecto del ión común reduce la disociación del ácido débil."
+        },
+        {
+          "letter": "D",
+          "text": "Vuelve ácida la base fuerte.",
+          "is_correct": false,
+          "feedback": "El pH aumenta volviéndose menos ácido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El efecto del ión común reprime la ionización del ácido débil desplazando el equilibrio hacia la forma no disociada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v19",
+      "statement": "Una solución de H2SO4 1.0 M tiene una Normalidad (N) frente a reacciones de neutralización igual a...",
+      "context": "En un análisis de laboratorio en Colombia sobre normalidad n, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 N",
+          "is_correct": false,
+          "feedback": "El H2SO4 es un ácido diprótico (2 protones por molécula)."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 N",
+          "is_correct": false,
+          "feedback": "Se multiplica la molaridad por 2."
+        },
+        {
+          "letter": "C",
+          "text": "2.0 N",
+          "is_correct": true,
+          "feedback": "Normalidad = Molaridad × número de H+ donables = 1.0 M × 2 = 2.0 N."
+        },
+        {
+          "letter": "D",
+          "text": "4.0 N",
+          "is_correct": false,
+          "feedback": "1.0 × 2 = 2.0 N."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Normalidad mide la cantidad de equivalentes reactivos por litro; para un ácido diprótico N = 2 × M.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle-v20",
+      "statement": "La presión osmótica (π = M·R·T) de una solución depende directamente de...",
+      "context": "En un análisis de laboratorio en Colombia sobre presión osmótica π, Mariana determina las propiedades químicas de la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color y olor del soluto orgánico.",
+          "is_correct": false,
+          "feedback": "Las propiedades coligativas dependen del número de partículas, no de su identidad o color."
+        },
+        {
+          "letter": "B",
+          "text": "La forma del recipiente de almacenamiento.",
+          "is_correct": false,
+          "feedback": "No depende de la geometría del matraz."
+        },
+        {
+          "letter": "C",
+          "text": "El número de protones en el núcleo del solvente.",
+          "is_correct": false,
+          "feedback": "Depende del número de partículas por unidad de volumen."
+        },
+        {
+          "letter": "D",
+          "text": "La concentración molar de partículas de soluto disueltas (propiedad coligativa).",
+          "is_correct": true,
+          "feedback": "La presión osmótica es una propiedad coligativa proporcional a la molaridad total de partículas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las propiedades coligativas como la presión osmótica dependen únicamente de la concentración de partículas de soluto disueltas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

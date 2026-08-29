@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-38-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.217Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v1",
+      "statement": "Â¿CuÃ¡l es la razÃ³n de cambio (diferencia comÃºn $d$) de esta sucesiÃ³n aritmÃ©tica de depÃ³sitos?",
+      "context": "Un plan de ahorro en un banco de BogotÃ¡ establece que una persona deposita 10,000 COP la primera semana, 15,000 COP la segunda, 20,000 COP la tercera y asÃ­ sucesivamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5,000 COP",
+          "is_correct": true,
+          "feedback": "La diferencia comÃºn d = 15000 - 10000 = 20000 - 15000 = 5000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "10,000 COP",
+          "is_correct": false,
+          "feedback": "Corresponde al primer tÃ©rmino a_1 de la sucesiÃ³n."
+        },
+        {
+          "letter": "C",
+          "text": "15,000 COP",
+          "is_correct": false,
+          "feedback": "Corresponde al segundo tÃ©rmino a_2 de la sucesiÃ³n."
+        },
+        {
+          "letter": "D",
+          "text": "2,500 COP",
+          "is_correct": false,
+          "feedback": "DividiÃ³ la diferencia entre 2 por error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una sucesiÃ³n aritmÃ©tica, la diferencia comÃºn $d$ es la resta entre cualquier tÃ©rmino y su predecesor inmediato: $d = a_n - a_{n-1} = 15,000 - 10,000 = 5,000$ COP.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v2",
+      "statement": "Â¿CuÃ¡l es la razÃ³n comÃºn $r$ de esta sucesiÃ³n geomÃ©trica?",
+      "context": "Un cultivo de microorganismos en MedellÃ­n duplica su poblaciÃ³n cada hora, comenzando con 3 bacterias en la hora cero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Al duplicarse cada hora, el factor de crecimiento multiplicativo constante es r = 2."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Corresponde al valor inicial de bacterias (a_0) en el experimento."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ el tÃ©rmino inicial por la razÃ³n."
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "Corresponde al recÃ­proco de la razÃ³n de crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una sucesiÃ³n geomÃ©trica tiene la forma $a_n = a_0 cdot r^n$. Dado que el nÃºmero de bacterias se duplica a cada paso, la razÃ³n multiplicativa es $r = 2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v3",
+      "statement": "Â¿CuÃ¡les son los primeros cuatro tÃ©rminos de esta sucesiÃ³n?",
+      "context": "Se define la sucesiÃ³n $a_n = 3n - 2$ para $n ge 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 4, 7, 10",
+          "is_correct": true,
+          "feedback": "a_1 = 3(1)-2 = 1; a_2 = 3(2)-2 = 4; a_3 = 3(3)-2 = 7; a_4 = 3(4)-2 = 10."
+        },
+        {
+          "letter": "B",
+          "text": "3, 6, 9, 12",
+          "is_correct": false,
+          "feedback": "EvaluÃ³ 3n ignorando la resta de 2 en la fÃ³rmula."
+        },
+        {
+          "letter": "C",
+          "text": "1, 3, 5, 7",
+          "is_correct": false,
+          "feedback": "UsÃ³ una diferencia comÃºn d = 2 en lugar de d = 3."
+        },
+        {
+          "letter": "D",
+          "text": "2, 5, 8, 11",
+          "is_correct": false,
+          "feedback": "SumÃ³ 2 en lugar de restar 2 en el tÃ©rmino general."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo los valores de $n in {1, 2, 3, 4}$ en la expresiÃ³n general $a_n = 3n - 2$:\n$a_1 = 1, a_2 = 4, a_3 = 7, a_4 = 10$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v4",
+      "statement": "Â¿CuÃ¡ntos puntos tiene la quinta figura ($T_5$)?",
+      "context": "En una secuencia de figuras geomÃ©tricas en Cali, el nÃºmero de puntos formados viene dado por la fÃ³rmula de nÃºmeros triangulares $T_n = \\frac{n(n+1)}{2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "T_5 = (5 * 6) / 2 = 30 / 2 = 15."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Corresponde a T_4 = (4 * 5)/2 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 5^2 (nÃºmero cuadrado) en lugar del nÃºmero triangular."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ dividir entre 2 la multiplicaciÃ³n n*(n+1)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo $n=5$ en la fÃ³rmula de los nÃºmeros triangulares: $T_5 = \\frac{5   imes 6}{2} = 15$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v5",
+      "statement": "Â¿CuÃ¡l es el tÃ©rmino vigÃ©simo ($a_{20}$) de esta progresiÃ³n?",
+      "context": "Una progresiÃ³n aritmÃ©tica en Barranquilla comienza con $a_1 = 4$ y tiene una diferencia comÃºn $d = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "61",
+          "is_correct": true,
+          "feedback": "a_20 = a_1 + (20 - 1)*d = 4 + 19*3 = 4 + 57 = 61."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 20 * 3 + 4 ignorando que el tÃ©rmino a_1 ya cuenta como el primero (usÃ³ n en lugar de n-1)."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 20 * 3."
+        },
+        {
+          "letter": "D",
+          "text": "57",
+          "is_correct": false,
+          "feedback": "Corresponde solo al producto 19 * 3 sin sumar el primer tÃ©rmino a_1 = 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fÃ³rmula del tÃ©rmino $n$-Ã©simo de una progresiÃ³n aritmÃ©tica es $a_n = a_1 + (n-1)d$.\nPara $n=20$: $a_{20} = 4 + (19)(3) = 4 + 57 = 61$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v6",
+      "statement": "Â¿CuÃ¡l es la suma total acumulada ahorrada al cabo de los 5 meses ($S_5$)?",
+      "context": "Una persona ahorra 100,000 COP el primer mes y duplica la cantidad ahorrada cada mes consecutivo durante 5 meses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,100,000 COP",
+          "is_correct": true,
+          "feedback": "S_5 = a_1 * (r^5 - 1) / (r - 1) = 100000 * (2^5 - 1) / (2 - 1) = 100000 * 31 = 3100000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "1,600,000 COP",
+          "is_correct": false,
+          "feedback": "Corresponde Ãºnicamente al ahorro realizado en el quinto mes a_5 = 100000 * 16."
+        },
+        {
+          "letter": "C",
+          "text": "3,200,000 COP",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 100000 * 2^5 sin restar 1 en la fÃ³rmula de la serie geomÃ©trica."
+        },
+        {
+          "letter": "D",
+          "text": "1,500,000 COP",
+          "is_correct": false,
+          "feedback": "RealizÃ³ una suma aritmÃ©tica incorrecta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de una serie geomÃ©trica finita es $S_n = a_1 \\frac{r^n - 1}{r - 1}$.\nPara $a_1 = 100,000, r = 2, n = 5$: $S_5 = 100,000 \\frac{32 - 1}{1} = 3,100,000$ COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v7",
+      "statement": "Â¿CuÃ¡l es el valor de la suma $1 + 2 + 3 + dots + 50$?",
+      "context": "La suma de los primeros $n$ nÃºmeros enteros positivos viene dada por $S_n = \\frac{n(n+1)}{2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1275",
+          "is_correct": true,
+          "feedback": "S_50 = (50 * 51) / 2 = 25 * 51 = 1275."
+        },
+        {
+          "letter": "B",
+          "text": "2550",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ dividir entre 2 la multiplicaciÃ³n 50 * 51."
+        },
+        {
+          "letter": "C",
+          "text": "1250",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 50 * 25."
+        },
+        {
+          "letter": "D",
+          "text": "1300",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 50 * 26."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la fÃ³rmula de la suma de Gauss para $n=50$:\n$S_{50} = \\frac{50   imes 51}{2} = 25   imes 51 = 1275$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v8",
+      "statement": "Â¿CuÃ¡ntos asientos en total tiene la tribuna ($S_{15}$)?",
+      "context": "En un estadio de fÃºtbol en Bucaramanga, la primera fila tiene 20 asientos y cada fila posterior tiene 2 asientos mÃ¡s que la anterior. Hay 15 filas en total.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "510",
+          "is_correct": true,
+          "feedback": "a_1 = 20, d = 2. a_15 = 20 + 14*2 = 48. S_15 = (15/2)*(a_1 + a_15) = 7.5 * (20 + 48) = 7.5 * 68 = 510."
+        },
+        {
+          "letter": "B",
+          "text": "480",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 15 * 32 (tomando la capacidad media de forma errÃ³nea)."
+        },
+        {
+          "letter": "C",
+          "text": "300",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 15 por la cantidad de asientos de la primera fila."
+        },
+        {
+          "letter": "D",
+          "text": "720",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 15 * 48 sin aplicar la divisiÃ³n entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$a_{15} = 20 + (14)(2) = 48$ asientos.\nSuma total $S_{15} = \\frac{n}{2}(a_1 + a_{15}) = \\frac{15}{2}(20 + 48) = 7.5   imes 68 = 510$ asientos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v9",
+      "statement": "Â¿CuÃ¡l es la suma infinita de todos los tÃ©rminos de esta sucesiÃ³n ($S_infty$)?",
+      "context": "Considere la sucesiÃ³n geomÃ©trica infinita $16, 8, 4, 2, 1, \\frac{1}{2}, dots$",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "is_correct": true,
+          "feedback": "S_inf = a_1 / (1 - r) = 16 / (1 - 0.5) = 16 / 0.5 = 32."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "DividiÃ³ 16 entre 0.25 por error."
+        },
+        {
+          "letter": "C",
+          "text": "31",
+          "is_correct": false,
+          "feedback": "SumÃ³ los primeros 5 tÃ©rminos enteros ignorando la suma infinita de los fraccionarios."
+        },
+        {
+          "letter": "D",
+          "text": "La suma diverge a infinito",
+          "is_correct": false,
+          "feedback": "Como |r| = 0.5 < 1, la serie geomÃ©trica converge a un valor finito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para una serie geomÃ©trica convergente ($|r| < 1$), la suma infinita se calcula como $S_infty = \\frac{a_1}{1 - r}$.\nAquÃ­ $a_1 = 16$ y $r = 0.5$: $S_infty = \\frac{16}{1 - 0.5} = \\frac{16}{0.5} = 32$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v10",
+      "statement": "Â¿QuÃ© altura alcanza la pelota despuÃ©s del tercer rebote?",
+      "context": "Una pelota se deja caer en Cartagena desde una altura de 10 metros. En cada rebote alcanza $\\frac{3}{4}$ de la altura anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.21875 metros",
+          "is_correct": true,
+          "feedback": "Altura tras 3 rebotes = 10 * (3/4)^3 = 10 * (27/64) = 270/64 = 4.21875 metros."
+        },
+        {
+          "letter": "B",
+          "text": "5.625 metros",
+          "is_correct": false,
+          "feedback": "Corresponde a la altura alcanzada tras el segundo rebote: 10 * (9/16)."
+        },
+        {
+          "letter": "C",
+          "text": "7.500 metros",
+          "is_correct": false,
+          "feedback": "Corresponde a la altura alcanzada tras el primer rebote: 10 * (3/4)."
+        },
+        {
+          "letter": "D",
+          "text": "3.162 metros",
+          "is_correct": false,
+          "feedback": "CalculÃ³ una potencia incorrecta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La altura tras $n$ rebotes es $h_n = h_0 cdot r^n$. Para $n=3, h_0 = 10, r = 0.75$:\n$h_3 = 10   imes (0.75)^3 = 10   imes 0.421875 = 4.21875$ metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v11",
+      "statement": "Â¿CuÃ¡l es el valor del primer tÃ©rmino $a_1$ y la diferencia comÃºn $d$?",
+      "context": "En una sucesiÃ³n aritmÃ©tica en Manizales, el tercer tÃ©rmino es $a_3 = 11$ y el sÃ©ptimo tÃ©rmino es $a_7 = 27$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_1 = 3, d = 4$",
+          "is_correct": true,
+          "feedback": "a_7 - a_3 = 4d -> 27 - 11 = 16 -> 4d = 16 -> d = 4. Luego a_1 = a_3 - 2d = 11 - 8 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "$a_1 = 4, d = 3$",
+          "is_correct": false,
+          "feedback": "IntercambiÃ³ los valores del primer tÃ©rmino y la diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "$a_1 = 1, d = 5$",
+          "is_correct": false,
+          "feedback": "Si d=5, a_3 serÃ­a 1 + 10 = 11 pero a_7 serÃ­a 1 + 30 = 31 (no 27)."
+        },
+        {
+          "letter": "D",
+          "text": "$a_1 = 2, d = 4$",
+          "is_correct": false,
+          "feedback": "Si a_1 = 2 y d = 4, a_3 serÃ­a 10 (no 11)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$a_7 = a_3 + 4d Rightarrow 27 = 11 + 4d Rightarrow 4d = 16 Rightarrow d = 4$.\nSustituyendo en $a_3 = a_1 + 2d Rightarrow 11 = a_1 + 2(4) Rightarrow a_1 = 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v12",
+      "statement": "Â¿CuÃ¡l es el valor del octavo tÃ©rmino ($F_8$) de la sucesiÃ³n de Fibonacci?",
+      "context": "La famosa SucesiÃ³n de Fibonacci se define recursivamente como $F_1 = 1, F_2 = 1, F_n = F_{n-1} + F_{n-2}$ para $n ge 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "F1=1, F2=1, F3=2, F4=3, F5=5, F6=8, F7=13, F8=21."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Corresponde al sÃ©ptimo tÃ©rmino F_7."
+        },
+        {
+          "letter": "C",
+          "text": "34",
+          "is_correct": false,
+          "feedback": "Corresponde al noveno tÃ©rmino F_9."
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "SumÃ³ 8 + 10 errÃ³neamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calculando tÃ©rmino a tÃ©rmino mediante la relaciÃ³n de recurrencia:\n$1, 1, 2, 3, 5, 8, 13, 21$. Por lo tanto, $F_8 = 21$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v13",
+      "statement": "Â¿A quÃ© expresiÃ³n simplificada equivale la suma de los primeros $n$ nÃºmeros impares?",
+      "context": "Se quiere calcular la suma de los primeros $n$ tÃ©rminos de la serie $sum_{k=1}^n (2k - 1)$, que representa la suma de los primeros nÃºmeros impares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n^2$",
+          "is_correct": true,
+          "feedback": "1 = 1^2, 1+3 = 4 = 2^2, 1+3+5 = 9 = 3^2, ... la suma de los primeros n impares es siempre n^2."
+        },
+        {
+          "letter": "B",
+          "text": "$n(n+1)$",
+          "is_correct": false,
+          "feedback": "Corresponde a la suma de los primeros n nÃºmeros PARES (2 + 4 + ... + 2n)."
+        },
+        {
+          "letter": "C",
+          "text": "$2n^2 - 1$",
+          "is_correct": false,
+          "feedback": "ExpresiÃ³n algebraica errÃ³nea."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{n^2}{2}$",
+          "is_correct": false,
+          "feedback": "DividiÃ³ entre 2 el resultado real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "DemostraciÃ³n por inducciÃ³n o mediante suma telescÃ³pica: $sum_{k=1}^n (2k - 1) = 2 sum k - sum 1 = 2 \\frac{n(n+1)}{2} - n = n^2 + n - n = n^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v14",
+      "statement": "Â¿CuÃ¡l es la funciÃ³n $V(t)$ que representa el valor de la mÃ¡quina al cabo de $t$ aÃ±os?",
+      "context": "Una maquinaria en Pereira pierde el $10%$ de su valor comercial cada aÃ±o transcurrido (depreciaciÃ³n geomÃ©trica). El costo original fue de 50,000,000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V(t) = 50,000,000 cdot (0.90)^t$",
+          "is_correct": true,
+          "feedback": "Al perder el 10% cada aÃ±o, conserva el 90% (0.90) de su valor del aÃ±o anterior: V(t) = V_0 * (0.90)^t."
+        },
+        {
+          "letter": "B",
+          "text": "$V(t) = 50,000,000 cdot (0.10)^t$",
+          "is_correct": false,
+          "feedback": "UsÃ³ el porcentaje de depreciaciÃ³n en lugar del valor retenido (0.90)."
+        },
+        {
+          "letter": "C",
+          "text": "$V(t) = 50,000,000 - 5,000,000 t$",
+          "is_correct": false,
+          "feedback": "AsumiÃ³ una depreciaciÃ³n lineal constante en lugar de una tasa porcentual geomÃ©trica."
+        },
+        {
+          "letter": "D",
+          "text": "$V(t) = 50,000,000 cdot (1.10)^t$",
+          "is_correct": false,
+          "feedback": "CalculÃ³ apreciaciÃ³n (ganancia del 10%) en lugar de depreciaciÃ³n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una tasa de depreciaciÃ³n anual del $10%$ implica que el factor retenido anual es $1 - 0.10 = 0.90$. La funciÃ³n geomÃ©trica del valor es $V(t) = V_0(0.90)^t$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v15",
+      "statement": "Â¿CuÃ¡l es el lÃ­mite de la suma de esta serie cuando $n$ tiende a infinito?",
+      "context": "Dada la serie telescÃ³pica $sum_{k=1}^n left( \\frac{1}{k} - \\frac{1}{k+1} \right)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "La suma parcial Sn se cancela telescÃ³picamente: Sn = (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1). Cuando n -> inf, 1/(n+1) -> 0, luego la suma es 1."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Corresponde al lÃ­mite del tÃ©rmino 1/(n+1), no a la suma total de la serie."
+        },
+        {
+          "letter": "C",
+          "text": "$infty$",
+          "is_correct": false,
+          "feedback": "AsumiÃ³ divergencia sin aplicar la propiedad telescÃ³pica."
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "EstimÃ³ el valor del segundo tÃ©rmino de la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al desplegar los tÃ©rminos de la serie telescÃ³pica, los tÃ©rminos intermedios se anulan mutuamente:\n$S_n = 1 - \\frac{1}{n+1}$. Calculando el lÃ­mite: $lim_{n   o infty} left(1 - \\frac{1}{n+1}\right) = 1 - 0 = 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v16",
+      "statement": "Â¿Al cabo de cuÃ¡ntos aÃ±os el capital acumulado superarÃ¡ por primera vez los 1,200,000 COP? (Utilice $log(1.20) approx 0.07918$ y $log(1.05) approx 0.02119$).",
+      "context": "Una persona deposita 1,000,000 COP a una tasa de interÃ©s compuesto del $5%$ anual en un fondo de inversiÃ³n en Armenia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 aÃ±os",
+          "is_correct": true,
+          "feedback": "1000000 * (1.05)^t = 1200000 -> (1.05)^t = 1.20 -> t = log(1.20) / log(1.05) = 0.07918 / 0.02119 = 3.736 aÃ±os. Por lo tanto, al cabo de 4 aÃ±os se supera por primera vez."
+        },
+        {
+          "letter": "B",
+          "text": "3 aÃ±os",
+          "is_correct": false,
+          "feedback": "A los 3 aÃ±os el capital es 1000000 * (1.05)^3 = 1157625 COP, aÃºn no alcanza los 1.200.000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "5 aÃ±os",
+          "is_correct": false,
+          "feedback": "A los 5 aÃ±os ya se superÃ³ previamente en el aÃ±o 4."
+        },
+        {
+          "letter": "D",
+          "text": "2 aÃ±os",
+          "is_correct": false,
+          "feedback": "A los 2 aÃ±os el capital es solo 1102500 COP."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$1,000,000(1.05)^t = 1,200,000 Rightarrow (1.05)^t = 1.20$.\nTomando logaritmos: $t = \\frac{log(1.20)}{log(1.05)} approx \\frac{0.07918}{0.02119} approx 3.74$ aÃ±os.\nRedondeando al entero superior en aÃ±os completos: 4 aÃ±os.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v17",
+      "statement": "Â¿CuÃ¡l es la distancia total recorrida acumulada durante los primeros 10 dÃ­as de entrenamiento? (Utilice $(1.10)^{10} approx 2.5937$).",
+      "context": "Un atleta en BogotÃ¡ entrena para un maratÃ³n. El primer dÃ­a corre 5 km y cada dÃ­a siguiente aumenta la distancia en un $10%$ respecto al dÃ­a anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "79.68 km",
+          "is_correct": true,
+          "feedback": "S_10 = a_1 * (r^10 - 1) / (r - 1) = 5 * (2.5937 - 1) / (1.10 - 1) = 5 * 1.5937 / 0.10 = 5 * 15.937 = 79.685 km."
+        },
+        {
+          "letter": "B",
+          "text": "12.96 km",
+          "is_correct": false,
+          "feedback": "Corresponde Ãºnicamente a la distancia recorrida el dÃ©cimo dÃ­a a_10 = 5 * (1.10)^9."
+        },
+        {
+          "letter": "C",
+          "text": "50.00 km",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 5 * 10 de manera lineal ignorando el incremento del 10%."
+        },
+        {
+          "letter": "D",
+          "text": "129.68 km",
+          "is_correct": false,
+          "feedback": "ErrÃ³ en la divisiÃ³n entre r - 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es la suma de una serie geomÃ©trica con $a_1 = 5, r = 1.10, n = 10$:\n$S_{10} = 5 \\frac{(1.10)^{10} - 1}{1.10 - 1} = 5 \\frac{2.5937 - 1}{0.10} = 5   imes 15.937 = 79.685$ km.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v18",
+      "statement": "Â¿CuÃ¡les son los valores de los coeficientes $A, B$ y $C$?",
+      "context": "Se quiere encontrar la fÃ³rmula cuadrÃ¡tica del tÃ©rmino general $a_n = A n^2 + B n + C$ para la sucesiÃ³n $3, 8, 15, 24, 35, dots$",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = 1, B = 2, C = 0$",
+          "is_correct": true,
+          "feedback": "a_n = n^2 + 2n. Para n=1: 1+2=3; n=2: 4+4=8; n=3: 9+6=15; n=4: 16+8=24. Satisface perfectamente la sucesiÃ³n."
+        },
+        {
+          "letter": "B",
+          "text": "$A = 2, B = 1, C = 0$",
+          "is_correct": false,
+          "feedback": "Si a_n = 2n^2 + n, a_1 = 3 pero a_2 = 8 + 2 = 10 (no 8)."
+        },
+        {
+          "letter": "C",
+          "text": "$A = 1, B = 0, C = 2$",
+          "is_correct": false,
+          "feedback": "Si a_n = n^2 + 2, a_1 = 3 pero a_2 = 6 (no 8)."
+        },
+        {
+          "letter": "D",
+          "text": "$A = 1, B = 1, C = 1$",
+          "is_correct": false,
+          "feedback": "Si a_n = n^2 + n + 1, a_1 = 3 pero a_2 = 7 (no 8)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizando las primeras diferencias de $3, 8, 15, 24$: son $5, 7, 9$.\nLas segundas diferencias son $2, 2$.\nPor tanto, $2A = 2 Rightarrow A = 1$.\n$3A + B = 5 Rightarrow 3(1) + B = 5 Rightarrow B = 2$.\n$A + B + C = 3 Rightarrow 1 + 2 + C = 3 Rightarrow C = 0$. La fÃ³rmula es $a_n = n^2 + 2n$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v19",
+      "statement": "Â¿CuÃ¡l es el valor exacto de la suma de esta serie aritmÃ©tico-geomÃ©trica?",
+      "context": "Se define la suma infinita de cuadrados $S = 1 + \\frac{2}{2} + \\frac{3}{4} + \\frac{4}{8} + \\frac{5}{16} + dots + \\frac{n}{2^{n-1}} + dots$",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "S = sum(n / 2^(n-1)). Multiplicando por 1/2: S/2 = sum(n / 2^n). Restando S - S/2 = 1 + 1/2 + 1/4 + 1/8 + ... = 2. Luego S/2 = 2 -> S = 4."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Corresponde a la suma S/2 o a la serie geomÃ©trica simple."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "ErrÃ³ en el proceso de resta telescÃ³pica."
+        },
+        {
+          "letter": "D",
+          "text": "La serie es divergente",
+          "is_correct": false,
+          "feedback": "Como el tÃ©rmino general n/2^(n-1) tiende a 0 rÃ¡pidamente, la serie es convergente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicamos la serie $S$ por la razÃ³n $\\frac{1}{2}$:\n$\\frac{1}{2}S = \\frac{1}{2} + \\frac{2}{4} + \\frac{3}{8} + dots$\nRestando $S - \\frac{1}{2}S = 1 + left(\\frac{2}{2} - \\frac{1}{2}\right) + left(\\frac{3}{4} - \\frac{2}{4}\right) + dots$\n$\\frac{1}{2}S = 1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + dots = \\frac{1}{1 - 0.5} = 2$.\nPor ende, $S = 4$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v20",
+      "statement": "Si el perÃ­metro inicial del triÃ¡ngulo equilÃ¡tero original es $P_0 = 3$ metros, Â¿cuÃ¡l es el perÃ­metro $P_n$ de la figura tras $n$ iteraciones?",
+      "context": "En un fractal tipo Copo de Nieve de Koch en Tunja, en cada paso se reemplaza cada segmento de longitud $L$ por 4 segmentos de longitud $\\frac{L}{3}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P_n = 3 cdot left(\\frac{4}{3}\right)^n$",
+          "is_correct": true,
+          "feedback": "En cada paso el nÃºmero de lados se multiplica por 4 y la longitud de cada lado se multiplica por 1/3, por lo que el perÃ­metro total se multiplica por (4/3): P_n = P_0 * (4/3)^n."
+        },
+        {
+          "letter": "B",
+          "text": "$P_n = 3 cdot left(\\frac{3}{4}\right)^n$",
+          "is_correct": false,
+          "feedback": "InvirtiÃ³ la razÃ³n de crecimiento, lo que indicarÃ­a que el perÃ­metro disminuye en lugar de aumentar."
+        },
+        {
+          "letter": "C",
+          "text": "$P_n = 3 + 4n$",
+          "is_correct": false,
+          "feedback": "AsumiÃ³ un crecimiento lineal en lugar de geomÃ©trico."
+        },
+        {
+          "letter": "D",
+          "text": "$P_n = 3$ para todo $n$",
+          "is_correct": false,
+          "feedback": "AsumiÃ³ errÃ³neamente que el perÃ­metro se mantiene constante como en la conservaciÃ³n de Ã¡rea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En cada iteraciÃ³n del fractal de Koch, cada lado de longitud $l$ se transforma en 4 lados de longitud $l/3$. Por consiguiente, la longitud total del perÃ­metro aumenta por un factor constante de $\\frac{4}{3}$ en cada paso: $P_n = 3 left(\\frac{4}{3}\right)^n$. Conforme $n   o infty$, el perÃ­metro tiende a infinito.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-34-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.215Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v1",
+      "statement": "Â¿CuÃ¡l es la suma total de las probabilidades $sum P(X = x_i)$ para cualquier distribuciÃ³n de probabilidad vÃ¡lida?",
+      "context": "En una variable aleatoria discreta $X$, la suma de las probabilidades de todos los valores posibles debe cumplir con la propiedad fundamental de las distribuciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Por axiÃ³matica de la probabilidad, la suma de las probabilidades sobre todo el espacio muestral es siempre igual a 1."
+        },
+        {
+          "letter": "B",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Se confundiÃ³ el valor 1 de la probabilidad teÃ³rica con el porcentaje del 100%."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La suma no puede ser 0 ya que indicarÃ­a un evento imposible en todo el espacio muestral."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de la variable",
+          "is_correct": false,
+          "feedback": "La suma es siempre 1 independientemente de la variable aleatoria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda funciÃ³n de probabilidad cumple $sum_{i} P(X = x_i) = 1$, lo que garantiza que la probabilidad del espacio muestral completo sea del 100% (o 1 en escala unitaria).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v2",
+      "statement": "Â¿CuÃ¡l es la probabilidad de vender al menos 1 carro en un dÃ­a determinado?",
+      "context": "Se presenta una tabla de distribuciÃ³n de probabilidad para la cantidad de carros vendidos en un dÃ­a en un concesionario de BogotÃ¡:\n$X = 0 Rightarrow P = 0.5$, $X = 1 Rightarrow P = 0.3$, $X = 2 Rightarrow P = 0.2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "is_correct": true,
+          "feedback": "P(X >= 1) = P(X=1) + P(X=2) = 0.3 + 0.2 = 0.5. O tambiÃ©n 1 - P(X=0) = 1 - 0.5 = 0.5."
+        },
+        {
+          "letter": "B",
+          "text": "0.3",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de vender EXACTAMENTE 1 carro."
+        },
+        {
+          "letter": "C",
+          "text": "0.2",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de vender EXACTAMENTE 2 carros."
+        },
+        {
+          "letter": "D",
+          "text": "0.8",
+          "is_correct": false,
+          "feedback": "Se sumÃ³ P(X=0) + P(X=1) = 0.8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Al menos 1\" abarca $X=1$ y $X=2$. Sumando sus probabilidades: $P(X ge 1) = 0.3 + 0.2 = 0.5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v3",
+      "statement": "Â¿Alrededor de quÃ© porcentaje de estudiantes tiene una estatura comprendida entre 160 cm y 170 cm ($mu pm 1sigma$)?",
+      "context": "La estatura de los estudiantes de grado 11 de un colegio en MedellÃ­n sigue una distribuciÃ³n normal con media $mu = 165$ cm y desviaciÃ³n estÃ¡ndar $sigma = 5$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "68%",
+          "is_correct": true,
+          "feedback": "SegÃºn la regla empÃ­rica de la distribuciÃ³n normal, el intervalo (mu - sigma, mu + sigma) concentra aproximadamente el 68% de los datos."
+        },
+        {
+          "letter": "B",
+          "text": "95%",
+          "is_correct": false,
+          "feedback": "Corresponde al intervalo mu +/- 2 sigma (155 cm a 175 cm)."
+        },
+        {
+          "letter": "C",
+          "text": "99.7%",
+          "is_correct": false,
+          "feedback": "Corresponde al intervalo mu +/- 3 sigma (150 cm a 180 cm)."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Representa el Ã¡rea a un solo lado de la media en una distribuciÃ³n simÃ©trica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la regla empÃ­rica (o 68-95-99.7) de una distribuciÃ³n normal, el $68.27%$ de la poblaciÃ³n se encuentra dentro de $pm 1$ desviaciÃ³n estÃ¡ndar alrededor de la media.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v4",
+      "statement": "Â¿CuÃ¡l es la fÃ³rmula para calcular el valor esperado (o media) $mu$ de esta distribuciÃ³n binomial?",
+      "context": "En un experimento binomial de 10 ensayos independientes con probabilidad de Ã©xito $p = 0.4$ en cada ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$mu = n cdot p$",
+          "is_correct": true,
+          "feedback": "En una distribuciÃ³n binomial B(n, p), la media o valor esperado es mu = n * p = 10 * 0.4 = 4."
+        },
+        {
+          "letter": "B",
+          "text": "$mu = n cdot p cdot (1-p)$",
+          "is_correct": false,
+          "feedback": "Esta fÃ³rmula corresponde a la varianza sigma^2 de la distribuciÃ³n binomial."
+        },
+        {
+          "letter": "C",
+          "text": "$mu = sqrt{n cdot p cdot (1-p)}$",
+          "is_correct": false,
+          "feedback": "Esta fÃ³rmula corresponde a la desviaciÃ³n estÃ¡ndar sigma de la distribuciÃ³n binomial."
+        },
+        {
+          "letter": "D",
+          "text": "$mu = \\frac{p}{n}$",
+          "is_correct": false,
+          "feedback": "Es una razÃ³n sin significado probabilÃ­stico en el modelo binomial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para una variable aleatoria binomial $X sim B(n,p)$, el valor esperado se calcula mediante la multiplicaciÃ³n del nÃºmero de ensayos por la probabilidad de Ã©xito en cada ensayo: $E[X] = n cdot p$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v5",
+      "statement": "Â¿CuÃ¡l es el valor esperado de la ganancia neta para un comprador de un billete?",
+      "context": "En un juego de loterÃ­a en Cali, un billete cuesta 5,000 COP. La probabilidad de ganar un premio de 100,000 COP es 0.02, y la probabilidad de no ganar nada es 0.98.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3,000 COP",
+          "is_correct": true,
+          "feedback": "E[Ganancia Neta] = (100000 - 5000)*0.02 + (-5000)*0.98 = 95000*0.02 - 4900 = 1900 - 4900 = -3000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "2,000 COP",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ el valor esperado del premio (0.02 * 100000 = 2000 COP) sin restar el costo del billete."
+        },
+        {
+          "letter": "C",
+          "text": "-5,000 COP",
+          "is_correct": false,
+          "feedback": "Se asumiÃ³ que siempre se pierde el costo total del billete."
+        },
+        {
+          "letter": "D",
+          "text": "0 COP",
+          "is_correct": false,
+          "feedback": "Se asumiÃ³ incorrectamente que el juego es totalmente justo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El valor esperado de la ganancia neta es $E[X] = (95,000)(0.02) + (-5,000)(0.98) = 1,900 - 4,900 = -3,000$ COP. El comprador pierde en promedio 3,000 COP por juego.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v6",
+      "statement": "Â¿CuÃ¡l es la probabilidad de que responda correctamente exactamente 4 preguntas?",
+      "context": "Un estudiante responde al azar una prueba corta de 5 preguntas de verdadero o falso ($p = 0.5$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{32}$",
+          "is_correct": true,
+          "feedback": "P(X=4) = C(5,4) * (0.5)^4 * (0.5)^1 = 5 * (1/16) * (1/2) = 5/32 = 0.15625."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{32}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de acertar las 5 preguntas P(X=5)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{10}{32}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de acertar exactamente 2 o 3 preguntas (C(5,2)/32)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{5}$",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 1 entre el nÃºmero total de preguntas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usando la fÃ³rmula binomial $P(X=k) = \\binom{n}{k} p^k (1-p)^{n-k}$ con $n=5, k=4, p=0.5$:\n$P(X=4) = 5 cdot (0.5)^4 cdot (0.5)^1 = \\frac{5}{32}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v7",
+      "statement": "Â¿QuÃ© porcentaje aproximado de estudiantes obtuvo un puntaje entre 220 y 380 ($mu pm 2sigma$)?",
+      "context": "Los puntajes de un simulacro PreICFES en Barranquilla siguen una distribuciÃ³n normal con media $mu = 300$ y desviaciÃ³n estÃ¡ndar $sigma = 40$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "95%",
+          "is_correct": true,
+          "feedback": "De acuerdo con la regla empÃ­rica 68-95-99.7, el rango mu +/- 2 sigma engloba aproximadamente el 95% de la distribuciÃ³n normal."
+        },
+        {
+          "letter": "B",
+          "text": "68%",
+          "is_correct": false,
+          "feedback": "Corresponde al rango entre 260 y 340 (mu +/- 1 sigma)."
+        },
+        {
+          "letter": "C",
+          "text": "99.7%",
+          "is_correct": false,
+          "feedback": "Corresponde al rango entre 180 y 420 (mu +/- 3 sigma)."
+        },
+        {
+          "letter": "D",
+          "text": "80%",
+          "is_correct": false,
+          "feedback": "Valor arbitrario no correspondiente a las propiedades estÃ¡ndar de la curva gaussiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El intervalo $[300 - 2(40), 300 + 2(40)] = [220, 380]$ representa 2 desviaciones estÃ¡ndar a cada lado de la media. Por regla empÃ­rica, abarca el $95%$ de los datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v8",
+      "statement": "Â¿CuÃ¡l es la desviaciÃ³n estÃ¡ndar $sigma$ de esta distribuciÃ³n?",
+      "context": "En una distribuciÃ³n binomial con $n = 100$ ensayos y probabilidad de Ã©xito $p = 0.2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Varianza sigma^2 = n*p*(1-p) = 100 * 0.2 * 0.8 = 16. La desviaciÃ³n estÃ¡ndar sigma = sqrt(16) = 4."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Corresponde a la varianza sigma^2, faltÃ³ extraer la raÃ­z cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Corresponde a la media mu = n*p = 100 * 0.2 = 20."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 4 entre 2 sin justificaciÃ³n probabilÃ­stica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La varianza binomial es $sigma^2 = n p (1-p) = 100(0.2)(0.8) = 16$. Por ende, la desviaciÃ³n estÃ¡ndar es $sigma = sqrt{16} = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v9",
+      "statement": "Â¿CuÃ¡l es el valor esperado $E[X]$ del nÃºmero de fallas del equipo?",
+      "context": "Una variable aleatoria discreta $X$ representa el nÃºmero de fallas en un equipo en Bucaramanga y tiene la siguiente tabla:\n$X = 0 Rightarrow 0.6$, $X = 1 Rightarrow 0.3$, $X = 2 Rightarrow 0.1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "is_correct": true,
+          "feedback": "E[X] = (0 * 0.6) + (1 * 0.3) + (2 * 0.1) = 0 + 0.3 + 0.2 = 0.5."
+        },
+        {
+          "letter": "B",
+          "text": "1.0",
+          "is_correct": false,
+          "feedback": "Se sumÃ³ 0.6 + 0.3 + 0.1 en lugar de ponderar por los valores de X."
+        },
+        {
+          "letter": "C",
+          "text": "0.3",
+          "is_correct": false,
+          "feedback": "Se eligiÃ³ solo el tÃ©rmino correspondiente a X = 1."
+        },
+        {
+          "letter": "D",
+          "text": "0.6",
+          "is_correct": false,
+          "feedback": "Se seleccionÃ³ la probabilidad mÃ¡s alta (el valor modal de X)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El valor esperado es la suma ponderada de cada valor por su probabilidad: $E[X] = 0(0.6) + 1(0.3) + 2(0.1) = 0.5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v10",
+      "statement": "Â¿CuÃ¡l es la probabilidad de que NINGUNO de los 3 productos presente imperfecciones?",
+      "context": "En un proceso de control de calidad en Cartagena, el 10% de los productos presenta imperfecciones. Se toma una muestra de 3 productos al azar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.729",
+          "is_correct": true,
+          "feedback": "La probabilidad de no tener imperfecciÃ³n es q = 0.9. P(X=0) = (0.9)^3 = 0.729."
+        },
+        {
+          "letter": "B",
+          "text": "0.900",
+          "is_correct": false,
+          "feedback": "Se tomÃ³ solo la probabilidad de un producto individual no imperfecto."
+        },
+        {
+          "letter": "C",
+          "text": "0.271",
+          "is_correct": false,
+          "feedback": "Corresponde al complemento 1 - 0.729 (probabilidad de que al menos uno estÃ© imperfecto)."
+        },
+        {
+          "letter": "D",
+          "text": "0.001",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de que TODOS los 3 productos estÃ©n imperfectos (0.10)^3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al ser elecciones independientes, la probabilidad de que los 3 salgan sin imperfecciones es $P(X=0) = (1 - 0.10)^3 = (0.90)^3 = 0.729$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v11",
+      "statement": "Â¿CuÃ¡l es la puntuaciÃ³n Z (puntaje estandarizado) correspondiente a la estatura de este estudiante?",
+      "context": "Las estaturas de una poblaciÃ³n en Pereira se distribuyen normalmente con $mu = 170$ cm y $sigma = 10$ cm. Un estudiante tiene una estatura de 185 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5",
+          "is_correct": true,
+          "feedback": "Z = (X - mu) / sigma = (185 - 170) / 10 = 15 / 10 = 1.5."
+        },
+        {
+          "letter": "B",
+          "text": "1.0",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ (185 - 170) / 15."
+        },
+        {
+          "letter": "C",
+          "text": "15.0",
+          "is_correct": false,
+          "feedback": "Se restÃ³ 185 - 170 pero se olvidÃ³ dividir entre la desviaciÃ³n estÃ¡ndar sigma."
+        },
+        {
+          "letter": "D",
+          "text": "-1.5",
+          "is_correct": false,
+          "feedback": "Se restÃ³ en orden inverso (170 - 185) obteniendo un signo negativo errÃ³neo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El puntaje estandarizado $Z$ mide cuÃ¡ntas desviaciones estÃ¡ndar estÃ¡ un dato por encima o por debajo de la media: $Z = \\frac{X - mu}{sigma} = \\frac{185 - 170}{10} = 1.5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v12",
+      "statement": "Â¿CuÃ¡l es la varianza $Var(X)$ de esta variable aleatoria?",
+      "context": "Una variable aleatoria $X$ tiene un valor esperado $E[X] = 5$ y $E[X^2] = 29$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Usando la fÃ³rmula de la varianza Var(X) = E[X^2] - (E[X])^2 = 29 - 5^2 = 29 - 25 = 4."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Se restÃ³ 29 - 5 sin elevar E[X] al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Se extrajo la raÃ­z cuadrada de la varianza (obteniendo la desviaciÃ³n estÃ¡ndar)."
+        },
+        {
+          "letter": "D",
+          "text": "54",
+          "is_correct": false,
+          "feedback": "Se sumaron E[X^2] + (E[X])^2 = 29 + 25 = 54."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La varianza se define computacionalmente como $Var(X) = E[X^2] - (E[X])^2$. Sustituyendo los valores: $Var(X) = 29 - 5^2 = 29 - 25 = 4$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v13",
+      "statement": "Â¿CuÃ¡l es la probabilidad de que $Z$ se encuentre entre -1 y 1 ($P(-1 < Z < 1)$)?",
+      "context": "En una distribuciÃ³n normal estÃ¡ndar $Z sim N(0,1)$, se sabe que $P(Z < 1) approx 0.8413$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.6826",
+          "is_correct": true,
+          "feedback": "P(-1 < Z < 1) = P(Z < 1) - P(Z < -1) = 0.8413 - (1 - 0.8413) = 0.8413 - 0.1587 = 0.6826."
+        },
+        {
+          "letter": "B",
+          "text": "0.3413",
+          "is_correct": false,
+          "feedback": "Corresponde solo al Ã¡rea entre 0 y 1 (mitad del intervalo deseado)."
+        },
+        {
+          "letter": "C",
+          "text": "0.1587",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad en la cola superior P(Z > 1)."
+        },
+        {
+          "letter": "D",
+          "text": "0.9544",
+          "is_correct": false,
+          "feedback": "Corresponde al Ã¡rea dentro de 2 desviaciones estÃ¡ndar en lugar de 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por simetrÃ­a, $P(Z < -1) = 1 - P(Z < 1) = 1 - 0.8413 = 0.1587$. Por lo tanto, $P(-1 < Z < 1) = 0.8413 - 0.1587 = 0.6826$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v14",
+      "statement": "Â¿CuÃ¡l es la probabilidad de obtener AL MENOS 1 respuesta correcta si se contesta al azar?",
+      "context": "Una prueba de 4 preguntas de opciÃ³n mÃºltiple tiene 4 opciones por pregunta ($p = 0.25$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{175}{256}$",
+          "is_correct": true,
+          "feedback": "P(X >= 1) = 1 - P(X=0). P(X=0) = (3/4)^4 = 81/256. 1 - 81/256 = 175/256."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{81}{256}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de obtener 0 respuestas correctas P(X=0)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{256}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de acertar las 4 preguntas P(X=4)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Se restÃ³ 1 - 0.25 sin elevar a la potencia correspondiente al nÃºmero de preguntas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mediante el evento complementario: $P(X ge 1) = 1 - P(X = 0) = 1 - left(\\frac{3}{4}\right)^4 = 1 - \\frac{81}{256} = \\frac{175}{256}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v15",
+      "statement": "Â¿CuÃ¡l es el porcentaje de componentes que se espera que duren MÃS de 1200 horas?",
+      "context": "La duraciÃ³n en horas de un componente electrÃ³nico fabricado en Manizales tiene distribuciÃ³n normal con $mu = 1000$ h y $sigma = 100$ h.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5%",
+          "is_correct": true,
+          "feedback": "Z = (1200 - 1000)/100 = 2. Por la regla 68-95-99.7, mu +/- 2 sigma cubre el 95%. Las colas exteriores suman 5%, por lo que la cola superior Z > 2 es el 2.5%."
+        },
+        {
+          "letter": "B",
+          "text": "5.0%",
+          "is_correct": false,
+          "feedback": "Se sumaron las dos colas externas (Z > 2 y Z < -2) sin dividir entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "16.0%",
+          "is_correct": false,
+          "feedback": "Corresponde a la cola superior Z > 1 (mÃ¡s de 1100 horas)."
+        },
+        {
+          "letter": "D",
+          "text": "97.5%",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad acumulada P(X < 1200) en lugar de la cola superior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$Z = \\frac{1200 - 1000}{100} = 2$. Dado que $P(-2 < Z < 2) approx 95%$, el Ã¡rea en las colas fuera del intervalo es $100% - 95% = 5%$. Por simetrÃ­a, la cola superior $P(Z > 2) = \\frac{5%}{2} = 2.5%$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v16",
+      "statement": "Â¿CuÃ¡l debe ser el valor constante de $k$ para que sea una funciÃ³n de probabilidad vÃ¡lida?",
+      "context": "En una distribuciÃ³n de probabilidad discreta dada por $P(X = x) = k cdot x$ para $x in {1, 2, 3, 4}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{10}$",
+          "is_correct": true,
+          "feedback": "La suma de probabilidades k*(1 + 2 + 3 + 4) = 10k = 1 -> k = 1/10 = 0.1."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 1 entre la cantidad de valores posibles (4) sin considerar la suma ponderada por x."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{24}$",
+          "is_correct": false,
+          "feedback": "Se multiplicaron los valores 1 * 2 * 3 * 4 = 24 en lugar de sumarlos."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Se asumiÃ³ k=1 ignorando que la suma de probabilidades superarÃ­a ampliamente 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "CondiciÃ³n de normalizaciÃ³n: $sum P(X=x) = k(1) + k(2) + k(3) + k(4) = 10k = 1 Rightarrow k = \\frac{1}{10}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v17",
+      "statement": "Â¿CuÃ¡l es el valor esperado y la decisiÃ³n financiera mÃ¡s adecuada si el costo del proyecto es de 20 millones COP?",
+      "context": "Un inversionista en BogotÃ¡ analiza un proyecto. Si la economÃ­a crece, ganarÃ¡ 50 millones COP con probabilidad 0.4. Si permanece estable, ganarÃ¡ 10 millones con probabilidad 0.4. Si entra en recesiÃ³n, perderÃ¡ 30 millones con probabilidad 0.2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor esperado es 18 millones COP, por lo que el proyecto NO recupera el costo inicial de 20 millones COP.",
+          "is_correct": true,
+          "feedback": "E[X] = (50*0.4) + (10*0.4) + (-30*0.2) = 20 + 4 - 6 = 18 millones. Como 18 < 20, la inversiÃ³n esperada genera pÃ©rdida neta."
+        },
+        {
+          "letter": "B",
+          "text": "El valor esperado es 24 millones COP, por lo que el proyecto es rentable.",
+          "is_correct": false,
+          "feedback": "Se olvidÃ³ incluir el signo negativo en la pÃ©rdida de 30 millones durante la recesiÃ³n."
+        },
+        {
+          "letter": "C",
+          "text": "El valor esperado es 30 millones COP, superando ampliamente la inversiÃ³n.",
+          "is_correct": false,
+          "feedback": "Se realizÃ³ un cÃ¡lculo errÃ³neo sumando directamente las ganancias sin ponderar por probabilidades."
+        },
+        {
+          "letter": "D",
+          "text": "El valor esperado es 0 millones COP, quedando en punto de equilibrio.",
+          "is_correct": false,
+          "feedback": "Se restaron de forma incorrecta los valores monetarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$E[X] = 50(0.4) + 10(0.4) + (-30)(0.2) = 20 + 4 - 6 = 18$ millones COP. Como el ingreso esperado de 18 millones es menor que el costo de inversiÃ³n de 20 millones, el rendimiento neto esperado es negativo ($-2$ millones).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v18",
+      "statement": "Si un usuario es atendido en la taquilla, Â¿cuÃ¡l es la probabilidad de que su atenciÃ³n demore ENTRE 4.5 y 7.5 minutos?",
+      "context": "El tiempo de atenciÃ³n en una taquilla de banco en Armenia se aproxima a una distribuciÃ³n normal con $mu = 6$ minutos y $sigma = 1.5$ minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.68",
+          "is_correct": true,
+          "feedback": "Z1 = (4.5 - 6)/1.5 = -1. Z2 = (7.5 - 6)/1.5 = 1. El rango entre -1 y 1 desviaciones estÃ¡ndar abarca aproximadamente el 68% de los casos."
+        },
+        {
+          "letter": "B",
+          "text": "0.95",
+          "is_correct": false,
+          "feedback": "Corresponde al intervalo de +/- 2 desviaciones estÃ¡ndar (3 a 9 minutos)."
+        },
+        {
+          "letter": "C",
+          "text": "0.34",
+          "is_correct": false,
+          "feedback": "Corresponde a medio intervalo (de 6 a 7.5 minutos Ãºnicamente)."
+        },
+        {
+          "letter": "D",
+          "text": "0.50",
+          "is_correct": false,
+          "feedback": "Se asumiÃ³ arbitrariamente la mitad de la poblaciÃ³n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Estandarizando la variable: $Z_1 = \\frac{4.5 - 6}{1.5} = -1.0$ y $Z_2 = \\frac{7.5 - 6}{1.5} = 1.0$. Por la regla empÃ­rica de la normal, el Ã¡rea comprendida entre $Z = -1$ y $Z = 1$ es aproximadamente $0.683$ (68%).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v19",
+      "statement": "Â¿CuÃ¡les son los valores del nÃºmero de ensayos $n$ y la probabilidad de Ã©xito $p$?",
+      "context": "Una variable aleatoria binomial $X$ tiene una media $mu = 12$ y una varianza $sigma^2 = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n = 16, p = 0.75$",
+          "is_correct": true,
+          "feedback": "mu = n*p = 12 y sigma^2 = n*p*(1-p) = 3 -> 12*(1-p) = 3 -> 1 - p = 3/12 = 0.25 -> p = 0.75. Luego n = 12 / 0.75 = 16."
+        },
+        {
+          "letter": "B",
+          "text": "$n = 24, p = 0.50$",
+          "is_correct": false,
+          "feedback": "Si n=24 y p=0.5, la varianza serÃ­a 24*0.5*0.5 = 6, no 3."
+        },
+        {
+          "letter": "C",
+          "text": "$n = 12, p = 1.00$",
+          "is_correct": false,
+          "feedback": "Si p=1 la varianza serÃ­a 0, contradiciendo sigma^2 = 3."
+        },
+        {
+          "letter": "D",
+          "text": "$n = 20, p = 0.60$",
+          "is_correct": false,
+          "feedback": "Si n=20 y p=0.6, la media serÃ­a 12 pero la varianza serÃ­a 20*0.6*0.4 = 4.8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo $mu = n p = 12$ en $sigma^2 = n p (1-p) = 3$:\n$12(1-p) = 3 Rightarrow 1-p = \\frac{3}{12} = 0.25 Rightarrow p = 0.75$.\nPor ende, $n = \\frac{12}{0.75} = 16$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v20",
+      "statement": "Â¿CuÃ¡l es la varianza $sigma^2$ de la distribuciÃ³n de esta variable aleatoria $X$?",
+      "context": "Se analiza el nÃºmero de caras obtenidas al lanzar 4 monedas equilibradas. La variable aleatoria $X$ representa el nÃºmero de caras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0",
+          "is_correct": true,
+          "feedback": "Para una binomial con n=4 y p=0.5: sigma^2 = n*p*(1-p) = 4 * 0.5 * 0.5 = 1.0."
+        },
+        {
+          "letter": "B",
+          "text": "2.0",
+          "is_correct": false,
+          "feedback": "Corresponde a la media mu = n*p = 4 * 0.5 = 2.0."
+        },
+        {
+          "letter": "C",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 1 entre 2 errÃ³neamente."
+        },
+        {
+          "letter": "D",
+          "text": "4.0",
+          "is_correct": false,
+          "feedback": "Corresponde al nÃºmero total de ensayos n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para la variable binomial $X sim B(4, 0.5)$, la varianza viene dada por $sigma^2 = n p q = 4(0.5)(0.5) = 1.0$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

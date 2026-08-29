@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-29-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.199Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a la focalización interna en la estructura de un relato?",
+      "context": "La focalización narrativa en la teoría de Gérard Genette (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La perspectiva del narrador está estrictamente restringida a la percepción y conciencia de un personaje determinado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en la focalización interna la información narrada se filtra a través de la mente del personaje focalizador."
+        },
+        {
+          "letter": "B",
+          "text": "El narrador posee un conocimiento omnisciente absoluto de todos los pensamientos presentes, pasados y futuros.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe la focalización cero o el narrador omnisciente clásico."
+        },
+        {
+          "letter": "C",
+          "text": "El relato se limita a registrar únicamente la superficie exterior de los acontecimientos como si fuera una cámara de video neutra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque corresponde a la focalización externa u objetiva."
+        },
+        {
+          "letter": "D",
+          "text": "El autor del libro interrumpe el capítulo para explicar las condiciones de su contrato de publicación editorial.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe un comentario de autor ajeno a la teoría de las focalizaciones narrativas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La focalización interna limita el campo de visión e interpretación a la conciencia de un sujeto determinado en la trama.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se distingue la historia de la trama en el análisis crítico de una novela?",
+      "context": "Diferencia entre historia (fabula) y trama (syuzhet) en el formalismo ruso (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La historia es la reconstrucción cronológica lineal de los acontecimientos; la trama es la ordenación artística y anacrónica del relato.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los formalistas rusos separaron el material cronológico de partida (fabula) de su estructuración estética (syuzhet)."
+        },
+        {
+          "letter": "B",
+          "text": "La historia es el libro impreso en papel y la trama es la opinión de los críticos de prensa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde las dimensiones estructurales del texto con los soportes físicos o la recepción."
+        },
+        {
+          "letter": "C",
+          "text": "La historia trata sobre guerras reales pasadas y la trama sobre aventuras de ciencia ficción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la distinción atañe a la estructura narrativa de cualquier género y no a temas bélicos o fantásticos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos términos son sinónimos exactos intercambiables que no aportan ninguna utilidad analítica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una de las dicotomías más productivas de la narratología moderna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La trama organiza artísticamente los materiales de la historia mediante alteraciones temporales (anacronías) y focos narrativos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el rasgo estético definitorio del realismo mágico en la literatura colombiana?",
+      "context": "El realismo mágico y la poetización de lo cotidiano en García Márquez (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La integración de sucesos prodigiosos o inverosímiles presentados con absoluta naturalidad dentro de la cotidianidad del relato.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el realismo mágico no busca asombrar al lector con explicaciones sino naturalizar el mito y la maravilla."
+        },
+        {
+          "letter": "B",
+          "text": "La explicación científica y matemática detallada de cada uno de los milagros que ocurren en el pueblo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la voz narrativa no intenta justificar los fenómenos mediante la ciencia."
+        },
+        {
+          "letter": "C",
+          "text": "La inclusión de tablas estadísticas sobre el comercio de banano en la Costa Caribe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la literatura garciamarquiana transfigura los hechos históricos en mitología narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "El rechazo a cualquier elemento fantástico o poético en favor de un realismo documental fotográfico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contrasta precisamente con el realismo naturalista o documental rígido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El realismo mágico asimila lo maravilloso como parte constitutiva de la realidad vivida y contada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v4",
+      "statement": "¿Qué función cumple la catarsis en el espectador de una tragedia según la Poética de Aristóteles?",
+      "context": "El concepto aristotélico de 'catarsis' en la tragedia clásica (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir la purificación emocional de los afectos a través de la vivencia de la compasión y el temor.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la catarsis opera como una purga o liberación sanadora de las pasiones en la comunidad dramática."
+        },
+        {
+          "letter": "B",
+          "text": "Incitara a los ciudadanos a rebelarse violentamente contra las leyes de la polis.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la tragedia busca la contemplación ética del destino y no la violencia civil desordenada."
+        },
+        {
+          "letter": "C",
+          "text": "Provocar el aburrimiento y el sueño para que los asistentes se retiren temprano del teatro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la experiencia trágica es de alta intensidad emotiva e intelectual."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar las reglas del comercio de granos y aceite de oliva en el mercado ateniense.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no es un manual de economía práctica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La catarsis aristotélica es la purificación emotiva que experimenta el espectador ante el destino del héroe trágico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tesis sostiene Roland Barthes en su famoso ensayo sobre la interpretación literaria?",
+      "context": "La 'muerte del autor' proclamada por Roland Barthes (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sentido de un texto no pertenece a la biografía ni a la intención del autor, sino a la construcción activa que realiza el lector.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Barthes emancipa al texto de la tiranía biográfica del autor otorgando la soberanía hermenéutica al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Los escritores que publiquen novelas de baja calidad deben ser juzgados y condenados por las autoridades.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la 'muerte del autor' es una metáfora epistemológica de la lectura y no una sanción jurídica."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los libros de la literatura universal deben ser publicados bajo el seudónimo de 'Anónimo'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no exige la supresión del nombre del autor sino la descentración de su autoridad de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Las obras literarias son producidas automáticamente por máquinas sin intervención de la creatividad humana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el ensayo de Barthes analiza el lenguaje y la lectura y no la automatización computacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Roland Barthes desplaza el centro de la producción de significado del autor de origen al lector de destino.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v6",
+      "statement": "¿Qué desencadena la caída del héroe en la tragedia clásica como Edipo Rey?",
+      "context": "El concepto de 'héroe trágico' y la falla trágica (hamartia) (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hamartia o falla trágica, entendida como un error de juicio o la desmesura (hubris) que lo lleva a su propio destino aciago.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el héroe trágico no cae por maldad pura sino por un error fatal arraigado en la condición humana."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de dinero para pagar a sus soldados durante una batalla en el desierto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la tragedia griega se mueve en el plano ético-existencial del destino y no en el de las finanzas."
+        },
+        {
+          "letter": "C",
+          "text": "La mala suerte producida por romper un espejo de vidrio en el palacio real.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye la caída a una superstición menor ajena a la estructura poética del drama."
+        },
+        {
+          "letter": "D",
+          "text": "La intervención de un abogado que demuestra que las leyes de la ciudad eran nulas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desvirtúa el conflicto trágico sustituyendo la fuerza del Hado por un litigio burocrático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hamartia y la hubris constituyen las dinámicas internas que conducen al héroe a su inevitable desenlace trágico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v7",
+      "statement": "¿Qué caracteriza a la técnica del flujo de conciencia en la novela moderna (ej. Virginia Woolf, James Joyce)?",
+      "context": "El monólogo interior o flujo de conciencia (Stream of Consciousness) (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La representación ininterrumpida y caótica de los pensamientos, sensaciones y recuerdos tal como brotan en la mente del personaje.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reproduce la fluidez prerrefléxica y la libre asociación de ideas del pensamiento consciente e inconsciente."
+        },
+        {
+          "letter": "B",
+          "text": "La transcripción rigurosa de una entrevista de trabajo realizada por un funcionario administrativo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrevista laboral sigue un esquema rígido de preguntas y respuestas estructuradas."
+        },
+        {
+          "letter": "C",
+          "text": "La enumeración alfabética de los medicamentos que se venden en una farmacia de la capital.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una lista léxica no representa la experiencia subjetiva del pensamiento humano."
+        },
+        {
+          "letter": "D",
+          "text": "La lectura en voz alta de las leyes de tránsito por parte de un agente de policía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe un acto normativo funcional distante del monólogo interior lírico o subjetivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El flujo de conciencia captura el fluir caótico y asociativo de la mente humana en su inmediatez subjetiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v8",
+      "statement": "¿De qué manera estructuró Dostoyevski a sus personajes según la crítica de Mijaíl Bajtín?",
+      "context": "La polifonía en la novela dialógica de Fiódor Dostoyevski (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como sujetos libres capaces de defender sus propias visiones del mundo en igualdad de condiciones con la voz del narrador.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en la novela polifónica cada personaje encarna una postura ideológica viva y autónoma."
+        },
+        {
+          "letter": "B",
+          "text": "Como marionetas silenciosas que solo repiten los discursos políticos del autor del libro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la polifonía implica precisamente la renuncia del autor al monopolio de la verdad en el relato."
+        },
+        {
+          "letter": "C",
+          "text": "Como sombras mecánicas que carecen de emociones y pensamientos propiamente humanos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los personajes dostoievskianos son famosos por su profunda densidad psicológica e ideológica."
+        },
+        {
+          "letter": "D",
+          "text": "Como comentaristas de noticias deportivas que leen los periódicos de la época en voz alta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque reduce la complejidad ética de las grandes novelas a un ejercicio de locución periodística."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polifonía dostoyevskiana otorga independencia ideológica y existencial a las diversas voces del relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v9",
+      "statement": "¿Qué buscaba el 'efecto de distanciamiento' (Verfremdungseffekt) en el teatro brechtiano?",
+      "context": "El distanciamiento dramático en el teatro épico de Bertolt Brecht (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitar que el espectador se identifique emocionalmente de forma pasiva, estimulando su juicio crítico sobre la sociedad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Brecht rompe la ilusión teatral para que el espectador reflexione políticamente sobre las causas de la injusticia."
+        },
+        {
+          "letter": "B",
+          "text": "Lograr que el público llore de forma descontrolada durante toda la función teatral.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Brecht combatía el catarsis emotiva pasiva en favor de la toma de conciencia crítica del público."
+        },
+        {
+          "letter": "C",
+          "text": "Obligar a los actores a actuar de espaldas al público durante la representación de la obra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la técnica del distanciamiento recurre a canciones, letreros y rompimiento de la cuarta pared, no a actuar de espaldas."
+        },
+        {
+          "letter": "D",
+          "text": "Conseguir que los asistentes se retiren del teatro antes del segundo acto por falta de luces.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el fin es mantener al espectador despierto e inquisitivo y no ahuyentarlo de la sala."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teatro épico de Brecht utiliza el distanciamiento para transformar la contemplación estética en crítica sociopolítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v10",
+      "statement": "¿Qué entiende la crítica literaria por el término 'cronotopo'?",
+      "context": "El concepto de 'cronotopo' según Mijaíl Bajtín (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conexión indisoluble entre las relaciones temporales y espaciales que se articulan artísticamente en la literatura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cronotopo es la categoría de la poética que expresa la fusión del tiempo y el espacio en la narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "El reloj de pared que se utiliza en los teatros para controlar la duración de los intermedios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una interpretación física materialista al término que es una categoría de la teoría literaria."
+        },
+        {
+          "letter": "C",
+          "text": "La lista de fechas de nacimiento y muerte de los autores de una determinada generación literaria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cronología biográfica es una herramienta historiográfica y no el cronotopo novelesco."
+        },
+        {
+          "letter": "D",
+          "text": "El instrumento de navegación usado por los marineros para medir las corrientes oceánicas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde una categoría de la narratología con un artefacto náutico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cronotopo bajtiniano define la configuración concreta del tiempo y el espacio en los diversos géneros literarios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v11",
+      "statement": "¿Qué dimensión filosófico-literaria manifiesta la indiferencia del personaje Meursault ante la muerte de su madre?",
+      "context": "La literatura del absurdo en la obra de Albert Camus ('El extranjero') (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vivencia del absurdo, caracterizada por el divorcio entre la búsqueda de sentido del hombre y el silencio irracional del mundo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el sentimiento del absurdo camusiano emerge de la falta de sentido trascendente de la existencia humana."
+        },
+        {
+          "letter": "B",
+          "text": "La demostración de que Meursault era un robot biológico diseñado en un laboratorio militar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Meursault es el prototipo del hombre absurdo en la narrativa existencialista y no una criatura de ciencia ficción."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de educación que sufrían los ciudadanos de Argelia a principios del siglo XX.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la novela no plantea un problema de cobertura escolar sino un dilema ontológico existencial."
+        },
+        {
+          "letter": "D",
+          "text": "La prueba de que el personaje principal padecía de una enfermedad auditiva incurable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde la frialdad afectiva y la lucidez trágica con un diagnóstico médico sensorial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El absurdo camusiano plasma la desconexión entre el anhelo de sentido del individuo y el caos indiferente del universo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v12",
+      "statement": "¿Qué caracteriza a la estética del esperpento en la literatura iberoamericana?",
+      "context": "El grotesco y el esperpento en la crítica social (Valle-Inclán) (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La deformación sistemática de la realidad mediante espejos cóncavos y convexos para revelar la fealdad moral de la sociedad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el esperpento distorsiona groteschamente la realidad para expresar la degradación trágica de la cultura."
+        },
+        {
+          "letter": "B",
+          "text": "La pintura de retratos hermosos y perfectos de los reyes y diplomáticos de la corte.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el esperpento rechaza la idealización bella y busca la deformación crítica."
+        },
+        {
+          "letter": "C",
+          "text": "El uso del lenguaje formal de la matemática pura en la composición de versos líricos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no utiliza el código matemático sino la hiperbolización de la jerga y el grotesco literario."
+        },
+        {
+          "letter": "D",
+          "text": "La eliminación de los diálogos para dejar únicamente dibujos geométricos en las páginas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el esperpento es un arte del diálogo dramático y la acotación expresiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El esperpento utiliza la deformación grotesca como espejo crítico para denunciar la descomposición moral de las instituciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v13",
+      "statement": "¿Qué ocurre cuando un poema contemporáneo dialoga con el tópico del 'carpe diem' sin citar a Horacio?",
+      "context": "El concepto de 'intertextualidad implícita' o ecos líricos (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reactiva una tradición poética universal invadida por la conciencia de la fugacidad del tiempo y el disfrute del presente.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el tópico literario (topos) forma parte de la reserva simbólica que la poesía recrea a lo largo de los siglos."
+        },
+        {
+          "letter": "B",
+          "text": "Comete un plagio deshonesto que debe ser denunciado ante los tribunales internacionales de justicia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la recreación de un tópico clásico de la tradición lírica universal no constituye delito de plagio."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el poeta actual no sabe inventar temas nuevos y recurre a modas del siglo XXI.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los tópicos grecolatinos poseen miles de años y siguen vigentes como formas del sentir humano."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que el texto fue escrito para vender relojes de pared en una tienda comercial.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una interpretación mercantil utilitaria ajena al análisis estético del poema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La recreación de tópicos literarios clásicos (carpe diem, beatus ille) inscribe al texto en la continuidad de la memoria poética.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v14",
+      "statement": "¿Qué peligro de sesgo presenta un narrador omnisciente que emite constantemente juicios morales sobre los personajes?",
+      "context": "La voz narrativa omnisciente y su distanciamiento ético (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orienta la interpretación del lector imponiendo una postura valorativa e impidiendo una evaluación crítica autónoma de los hechos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la omnisciencia juzgadora reduce el margen de libertad hermenéutica del lector deconstruyendo la neutralidad."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza que la novela se convierta en un tratado de ciencia objetiva aceptado por las universidades.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el sesgo moral del narrador distorsiona precisamente la objetividad analítica del relato."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el autor del libro es una persona con intenciones divinas e infalibles.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la omnisciencia es un recurso de la ficción y no una atributo de divinidad real del escritor."
+        },
+        {
+          "letter": "D",
+          "text": "Provoca que las páginas del libro se borren automáticamente debido al peso de las opiniones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una idea irreal sobre el soporte físico del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intervención valorativa del narrador omnisciente condiciona la lectura crítica obligando a distinguir los hechos de los juicios de autor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v15",
+      "statement": "¿Qué función cumple la constante aparición de un pañuelo blanco en 'Otelo' de Shakespeare?",
+      "context": "El papel del motivo literario (leitmotiv) en la cohesión de la novela (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona como un leitmotiv o símbolo recurrente que articula los celos, la manipulación de Yago y la tragedia final.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el leitmotiv es un motivo simbólico que adquiere densidad semántica a lo largo de la obra hasta el desenlace."
+        },
+        {
+          "letter": "B",
+          "text": "Es un adorno vestimentario sin ninguna importancia para el desarrollo de la trama dramática.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el pañuelo es el detonante dramático central manipulado por la intriga de Yago."
+        },
+        {
+          "letter": "C",
+          "text": "Sirve para avisar al público que el actor que interpreta a Otelo tiene un resfriado severo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde el objeto simbólico de la obra con una dolencia del actor en la realidad física."
+        },
+        {
+          "letter": "D",
+          "text": "Representa un contrato de compraventa de terrenos agrícolas firmado en la ciudad de Venecia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la carga semántica del pañuelo atañe al amor y los celos, no a transacciones inmobiliarias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El leitmotiv organiza la red simbólica del texto otorgando cohesión e intensidad al conflicto dramático.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v16",
+      "statement": "¿Qué diferencia a la literatura testimonial (ej. 'Me llamo Rigoberta Menchú') de la ficción pura?",
+      "context": "La literatura de testimonio y la voz de las víctimas (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La intención de denunciar violaciones a los derechos humanos a partir de la memoria vivida de un sujeto de carne y hueso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el testimonio articula la urgencia ética de hacer visible la verdad histórica y la voz de los excluidos."
+        },
+        {
+          "letter": "B",
+          "text": "La invención de mundos fantásticos habitados por dragones y seres mitológicos inexistentes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la narrativa testimonial se funda en la memoria empírica y no en el género fantástico."
+        },
+        {
+          "letter": "C",
+          "text": "La obligación de escribir todas las oraciones en versos alejandrinos con rima consonante.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la literatura testimonial suele emplear la prosa directa o la transcripción de la oralidad."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de un lenguaje secreto que solo puede ser leído mediante espejos especiales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque busca la máxima difusión y transparencia denunciante y no el ocultamiento criptográfico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura testimonial entabla un compromiso ético con la verdad histórica y la memoria colectiva de la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v17",
+      "statement": "¿De qué manera Cervantes utiliza la locura de Don Quijote para realizar una crítica literaria y social?",
+      "context": "El análisis de la parodia de los libros de caballerías en 'El Quijote' (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Satiriza los excesos inverosímiles de las novelas de caballerías mientras contrapone los ideales éticos con la dura realidad de España.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el Quijote es una obra cumbre que parodia un género agotado creando la novela moderna de la ambigüedad."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la lectura de libros destruye el cerebro de forma biológica irreversible en todos los lectores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la locura quijotesca es una metáfora literaria y no un diagnóstico médico universal para la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene que los caballeros medievales eran seres inmortales que volaban por los cielos de la Mancha.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la novela contrasta precisamente los delirios caballerescos con la realidad material de los molinos y ventas."
+        },
+        {
+          "letter": "D",
+          "text": "Exige la quema de todas las bibliotecas del mundo para que la gente trabaje en la agricultura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el propio Cervantes amaba los libros y el célebre donoso escrutinio es un ejercicio de crítica refinada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cervantes revoluciona la narrativa al convertir la parodia de un género trillado en una meditación profunda sobre la libertad y la ilusión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v18",
+      "statement": "¿Qué entiende Hans Robert Jauss por 'horizonte de expectativas' de un público lector?",
+      "context": "La noción de 'horizonte de expectativas' en la estética de la recepción (Jauss) (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de criterios, convenciones y experiencias previas con los que los lectores de una época juzgan una obra nueva.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la estética de la recepción demuestra que los textos se leen desde los marcos culturales de cada tiempo histórico."
+        },
+        {
+          "letter": "B",
+          "text": "La línea geográfica del horizonte donde se oculta el sol vista desde la ventana de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde una noción hermenéutica con un fenómeno de la geografía física u óptica."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de dinero que un lector está dispuesto a gastar en la compra de periódicos al mes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque reduce la recepción estética a un indicador de gasto monetario del consumidor."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de reglas que los profesores de español imponen a sus alumnos para la lectura de tareas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se refiere a los marcos de sentido de la comunidad cultural y no a reglamentos escolares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El horizonte de expectativas de Jauss explica cómo la recepción y valoración de las obras varía a lo largo de las épocas históricas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v19",
+      "statement": "¿Qué efecto sintáctico-semántico produce el uso del hipérbaton en la poesía barroca?",
+      "context": "El metaforismo barroco y el hipérbaton en Sor Juana Inés de la Cruz (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Altera el orden lógico de las palabras en la oración para intensificar la belleza estética, el ritmo y la densidad expresiva.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el hipérbaton es una figura de transposición sintáctica orientada a la creación de belleza estilística."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la poetisa desconocía las reglas de la gramática castellana por no haber asistido a la escuela.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Sor Juana demuestra un conocimiento magistral de la sintaxis y la métrica del español."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que los poemas resulten imposibles de leer en cualquier idioma conocido por los seres humanos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la poesía barroca exige un esfuerzo de descodificación que premia al lector atento con gran belleza."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el poema en un formulario administrativo para el cobro de impuestos coloniales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la función del hipérbaton barroco es lírica y no burocrática-fiscal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El hipérbaton barroco tensiona la estructura sintáctica para potenciar la riqueza semántica y el ritmo de la creación poética.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué la capacidad de analizar textos literarios y sus recursos es indispensable en la lectura crítica?",
+      "context": "Síntesis sobre la competencia de crítica literaria en la prueba Saber 11 (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite desentrañar las múltiples capas de sentido, reconocer los artificios del lenguaje y evaluar el valor estético e ideológico de la obra.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el análisis literario desarrolla la agudeza hermenéutica, la empatía y la capacidad de interpretación profunda del discurso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque busca que los estudiantes se memoricen las biografías de todos los premios Nobel de literatura del mundo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la prueba no evalúa datos biográficos de memoria sino competencias de lectura analítica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque leer literatura es el único método conocido para aprobar los exámenes de matemáticas y física.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque si bien fomenta el pensamiento crítico general, cada disciplina posee sus propios métodos de conocimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque permite clasificar las obras de arte según el color de las portadas de los libros editados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el valor estético no depende de aspectos ornamentales externos del libro impreso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico de la literatura capacita al estudiante para comprender la condición humana a través de la densidad simbólica del lenguaje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W29-critica-literaria-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

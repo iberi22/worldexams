@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-25-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.197Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significado adquiere el término 'derecho' en la frase 'el ciudadano actuó de manera recta y conforme a derecho'?",
+      "context": "En el análisis de un editorial sobre legislación constitucional respecto a la polisemia contextual de la palabra 'derecho' (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conjunto de normas jurídicas legítimas que regulan la convivencia social.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en el contexto jurídico-constitucional 'derecho' remite al ordenamiento legal vigente."
+        },
+        {
+          "letter": "B",
+          "text": "Facultad individual para exigir un bien material en el mercado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se refiere a la dimensión objetiva de la norma, no a una transacción comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Extremidad corporal opuesta al lado izquierdo del ser humano.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desatiende el sentido figurado/jurídico usando el significado anatómico literal."
+        },
+        {
+          "letter": "D",
+          "text": "Línea recta trazada sobre un plano cartesiano sin curvaturas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque usa la acepción geométrica ajena al discurso legal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la capacidad de determinar el sentido de una palabra polisémica en función del contexto sintáctico y pragmático.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor connotativo del término 'sombra' en el poema 'Nocturno'?",
+      "context": "Durante la lectura crítica de un poema de José Asunción Silva respecto a la denotación y connotación de la palabra 'sombra' (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evoca la presencia intangible de la muerte, el duelo y la melancolía del poeta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el poema utiliza 'sombra' con una carga afectiva y simbólica ligada al luto."
+        },
+        {
+          "letter": "B",
+          "text": "Designa la proyección oscura producida por un cuerpo al tapar la luz del sol.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde la denotación física del fenómeno óptico con el sentido poético connotado."
+        },
+        {
+          "letter": "C",
+          "text": "Representa la silueta de un árbol frondoso en un parque de Bogotá.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ignora la temática lírica de la composición de Silva."
+        },
+        {
+          "letter": "D",
+          "text": "Indica la ausencia total de pigmentación en una pintura al óleo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una definición de las artes plásticas fuera del contexto lírico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la distinción entre el significado literal (denotativo) y el figurado o asociativo (connotativo) en textos literarios.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función semántica cumple la expresión 'ajuste temporal de tarifas' en lugar de 'incremento del pasaje'?",
+      "context": "Al examinar una nota de prensa sobre coyuntura económica respecto a el cambio semántico por eufemismo en el lenguaje político (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atenuar el impacto negativo de una noticia impopular mediante el uso de un eufemismo discursivo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los eufemismos sustituyen términos tabú o conflictivos por formulaciones más neutras o amables."
+        },
+        {
+          "letter": "B",
+          "text": "Proporcionar una definición exacta según el diccionario de finanzas públicas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el eufemismo busca precisamente opacar el rigor técnico directo."
+        },
+        {
+          "letter": "C",
+          "text": "Expresar una metáfora poética sobre la velocidad del transporte masivo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no posee intención estética o lírica sino de persuasión discursiva."
+        },
+        {
+          "letter": "D",
+          "text": "Corregir un error de redacción cometido por el equipo de diseño tipográfico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se trata de una errata sino de una estrategia comunicativa deliberada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la comprensión de los mecanismos de suavización o enmascaramiento semántico en el discurso público.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de relación de antonimia se establece entre los pares 'vivo / muerto'?",
+      "context": "En un ejercicio de análisis sintáctico-semántico de enunciados respecto a la relación semántica de antonimia complementaria (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antonimia complementaria, donde la afirmación de un término implica necesariamente la negación del otro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en los antónimos complementarios no hay término medio: si se está vivo no se está muerto."
+        },
+        {
+          "letter": "B",
+          "text": "Antonimia gradual, porque existen múltiples grados intermedios de intensidad entre ambos estados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no es una escala gradual (como caliente/frío)."
+        },
+        {
+          "letter": "C",
+          "text": "Antonimia recíproca, porque un término no puede existir sin que alguien ejerza la acción inversa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los antónimos recíprocos son del tipo comprar/vender."
+        },
+        {
+          "letter": "D",
+          "text": "Sinonimia conceptual, porque ambas palabras significan exactamente lo mismo en biología.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque son términos de significado opuesto, no sinónimos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa el reconocimiento de las distintas clases de relaciones de oposición léxica en la lengua.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v5",
+      "statement": "¿Qué problema semántico genera la oración 'el juez firmó la resolución en el banco'?",
+      "context": "En la revisión de un texto judicial redactado en Cali respecto a la ambigüedad léxica por homonimia (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una ambigüedad homonímica, al poder referirse a una entidad financiera o a un asiento de madera.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 'banco' (asiento) y 'banco' (institución financiera) son palabras homónimas de distinto origen y significado."
+        },
+        {
+          "letter": "B",
+          "text": "Una sinonimia absoluta entre el poder judicial y el sector bancario del país.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no existe sinonimia entre un mueble y una institución financiera."
+        },
+        {
+          "letter": "C",
+          "text": "Un error de concordancia de género entre el sustantivo y el adjetivo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración es gramaticalmente correcta en su concordancia."
+        },
+        {
+          "letter": "D",
+          "text": "Una falta total de sentido lógico que impide cualquier interpretación gramatical.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase tiene sentido pero ofrece dos lecturas posibles por ambigüedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la identificación de ambigüedades originadas por fenómenos de homonimia en textos funcionales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué elementos integran el campo semántico de 'sostenibilidad' en el texto?",
+      "context": "En el análisis de un artículo de opinión publicado en El Espectador respecto a el campo semántico del vocabulario ambiental (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Términos como 'biodiversidad', 'reciclaje', 'huella de carbono' y 'renovable'.",
+          "is_correct": true,
+          "feedback": "Es correcta porque un campo semántico reúne palabras que comparten un mismo núcleo de significado o tema."
+        },
+        {
+          "letter": "B",
+          "text": "Palabras relativas a la arquitectura colonial como 'barroco', 'almena' y 'arcada'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese conjunto pertenece al campo de la arquitectura de la Colonia."
+        },
+        {
+          "letter": "C",
+          "text": "Conceptos del mercado bursátil como 'dividendos', 'acciones' y 'especulación'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esos términos pertenecen al campo semántico de las finanzas bursátiles."
+        },
+        {
+          "letter": "D",
+          "text": "Vocabulario culinario como 'adobo', 'cocción', 'sazón' y 'gastronomía'.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque corresponden al ámbito de la gastronomía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la habilidad para agrupar léxico en función de sus relaciones de significado y pertenencia temática.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación semántica existe entre la palabra 'vehículo' (mencionada en el párrafo 1) y 'automóvil' (en el párrafo 2)?",
+      "context": "Al examinar la estructura discursiva de un ensayo en Medellín respecto a la hiperonimia e hiponimia en la cohesión léxica (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Vehículo' es el hiperónimo (término general) y 'automóvil' es su hipónimo (término específico).",
+          "is_correct": true,
+          "feedback": "Es correcta porque el hiperónimo posee un significado incluyente y de mayor extensión que el hipónimo."
+        },
+        {
+          "letter": "B",
+          "text": "'Vehículo' es el hipónimo y 'automóvil' es su hiperónimo inclusivo de mayor extensión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte la relación lógica de inclusión conceptual."
+        },
+        {
+          "letter": "C",
+          "text": "Son palabras antónimas que expresan conceptos radicalmente opuestos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay oposición de sentido entre vehículo y automóvil."
+        },
+        {
+          "letter": "D",
+          "text": "Son homófonas que se pronuncian igual pero se escriben con distinta ortografía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sus grafías y sonidos son totalmente distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la comprensión de los mecanismos de sustitución léxica mediante hiperónimos e hipónimos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se relaciona la palabra 'columna' con la palabra 'edificio' en la narración?",
+      "context": "En un texto descriptivo sobre la arquitectura del Museo del Oro respecto a la meronimia y holonimia en la descripción de estructuras (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Columna' es un merónimo (parte) respecto a 'edificio', que actúa como holónimo (todo).",
+          "is_correct": true,
+          "feedback": "Es correcta porque la meronimia designa la relación parte-todo (la columna es parte del edificio)."
+        },
+        {
+          "letter": "B",
+          "text": "'Columna' es el holónimo global y 'edificio' es una de sus pequeñas partes decorativas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte los conceptos: el edificio contiene a las columnas."
+        },
+        {
+          "letter": "C",
+          "text": "Son sinónimos perfectos intercambiables en cualquier contexto sintáctico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una parte no es sinónima de la totalidad del inmueble."
+        },
+        {
+          "letter": "D",
+          "text": "Son antónimos que señalan la destrucción de una obra arquitectónica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no denotan oposición semántica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la capacidad de identificar relaciones semánticas de parte-todo en textos descriptivos e informativos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v9",
+      "statement": "¿Qué metáfora conceptual subyace a la frase 'la selva devoró a los hombres sin dejar rastro'?",
+      "context": "En la crítica literaria de la novela 'La vorágine' respecto a el uso del lenguaje figurado a través de la metáfora conceptual (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La selva conceptualizada como un monstruo o depredador que engulle a las personas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque personifica la naturaleza virgen dándole atributos de un depredador voraz."
+        },
+        {
+          "letter": "B",
+          "text": "La selva descrita como un edén pacífico donde la humanidad vive en perfecta armonía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto transmite peligro y destrucción, no idilio bucólico."
+        },
+        {
+          "letter": "C",
+          "text": "La representación de la vegetación como una máquina industrial de acero inoxidable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la metáfora no es industrial sino orgánica/animalizada."
+        },
+        {
+          "letter": "D",
+          "text": "La identificación de los árboles con seres inanimados incapaces de generar sensaciones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque le atribuye una agencia feroz a la selva en lugar de pasividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la reconstrucción del significado subyacente en metáforas conceptuales complejas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué recurso semántico se emplea en la frase 'el país necesita más mentes brillantes y menos armas'?",
+      "context": "En la lectura de un titular de prensa económica en Barranquilla respecto a la metonimia por relación causa-efecto (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metonimia, donde 'mentes brillantes' representa a los intelectuales y 'armas' a la violencia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la metonimia sustituye el todo por la parte o la causa por el efecto (mente por pensador)."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole, mediante una exageración matemática numéricamente imposible de verificar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no es una desproporción numérica cuantitativa sino un reemplazo léxico."
+        },
+        {
+          "letter": "C",
+          "text": "Onomatopeya, que imita el sonido físico de un disparo o explosión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se imitan sonidos de la naturaleza."
+        },
+        {
+          "letter": "D",
+          "text": "Pleonasmo, al repetir palabras innecesarias que no añaden información.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay redundancia viciosa en la expresión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la identificación y análisis de metonimias en discursos persuasivos y periodísticos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v11",
+      "statement": "¿Qué ocurre semánticamente al incorporar el verbo 'ciberatacar' al idioma?",
+      "context": "En un artículo sobre trasformación digital en Colombia respecto a el desplazamiento semántico por neologismos técnicos (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se crea un neologismo por composición para nombrar una nueva realidad tecnológica.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los neologismos amplían el repertorio léxico para dar cuenta de innovaciones técnicas."
+        },
+        {
+          "letter": "B",
+          "text": "Se comete un barbarismo imperdonable que destruye las reglas del español.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una creación léxica legítima adaptada a la morfología del español."
+        },
+        {
+          "letter": "C",
+          "text": "Se recupera un término en desuso del español medieval del siglo XII.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no procede del castellano antiguo sino del contexto digital actual."
+        },
+        {
+          "letter": "D",
+          "text": "Se produce una tautología que invalida la comprensión del párrafo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no incurre en repetición vacía de conceptos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la interpretación de neologismos y su incorporación semántica en textos especializados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v12",
+      "statement": "¿A qué se refiere el deíctico 'nosotros' en la frase 'nosotros, los jóvenes de la patria, exigimos educación'?",
+      "context": "En el análisis de una carta abierta al presidente en Bogotá respecto a la influencia del contexto pragmático en la deixis (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al grupo específico de estudiantes que firman y respaldan la manifestación ciudadana.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el pronombre deíctico 'nosotros' adquiere referencia precisa según el emisor y la situación de enunciado."
+        },
+        {
+          "letter": "B",
+          "text": "A la totalidad de la población mundial de todas las edades y continentes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desborda el contexto de emisión delimitado por los firmantes jóvenes."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente al autor individual que redactó la carta en su oficina personal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el uso del plural incluye a la comunidad de jóvenes representados, no solo al amanuense."
+        },
+        {
+          "letter": "D",
+          "text": "A los personajes ficticios de una novela histórica del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se trata de un documento real de participación ciudadana actual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la identificación de la referencia deíctica a partir del contexto de enunciación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v13",
+      "statement": "¿Qué diferencia semántica existe entre calificar una obra como 'interesante', 'excelente' o 'sublime'?",
+      "context": "En la reseña crítica de una película en el Festival de Cine de Cartagena respecto a la gradación semántica en adjetivos valorativos (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresan una escala o gradación semántica de intensidad creciente en la valoración positiva.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los adjetivos valorativos admiten grados de intensidad (gradación semántica)."
+        },
+        {
+          "letter": "B",
+          "text": "Son términos idénticos en intensidad que pueden intercambiarse sin alterar el sentido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'sublime' expresa un grado de conmoción estética mucho mayor que 'interesante'."
+        },
+        {
+          "letter": "C",
+          "text": "Indican una gradación hacia el desprecio y la descalificación destructiva de la película.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los tres adjetivos implican una evaluación favorable, no negativa."
+        },
+        {
+          "letter": "D",
+          "text": "Pertenecen a campos semánticos opuestos que no admiten comparación alguna.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque comparten la categoría semántica de apreciación estética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa el reconocimiento de los matices de intensidad en la adjetivación evaluativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v14",
+      "statement": "¿Qué efecto semántico produce el uso de términos como 'etiología', 'patógeno' y 'asintomático'?",
+      "context": "En la lectura de un informe médico sobre salud pública en Quibdó respecto a el uso del lenguaje técnico o jerga especializada (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Otorga precisión denotativa y rigor especializado al diagnóstico clínico expuesto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los tecnicismos eliminan la ambigüedad y garantizan exactitud semántica en la ciencia."
+        },
+        {
+          "letter": "B",
+          "text": "Dificulta intencionadamente la lectura para que la población no comprenda sus derechos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el lenguaje técnico busca la validez objetiva, no la manipulación malintencionada."
+        },
+        {
+          "letter": "C",
+          "text": "Genera una atmósfera poética adecuada para la declamación en un teatro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no posee intención estética ni lírica."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra la falta de formación académica del profesional que redactó el reporte.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dominio de la jerga especializada demuestra precisamente conocimiento del área."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa el análisis de la función semántica del lenguaje técnico en textos científicos e informativos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v15",
+      "statement": "¿Cómo debe interpretarse la ambigüedad en 'el policía persiguió al ladrón en su automóvil'?",
+      "context": "En la corrección de estilo de una noticia periodística respecto a la ambigüedad sintáctico-semántica por mala colocación de modificadores (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No queda claro de quién es el automóvil (si del policía o del ladrón) debido al alcance del posesivo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la vaguedad del pronombre posesivo 'su' crea dos lecturas sintáctico-semánticas válidas."
+        },
+        {
+          "letter": "B",
+          "text": "Afirma con certeza que el automóvil pertenecía al alcalde de la ciudad de Cartagena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no menciona al alcalde en ninguna parte."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el ladrón corría a pie mientras el policía manejaba un camión de carga.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ambigüedad estriba precisamente en no saber quién conducía el vehículo."
+        },
+        {
+          "letter": "D",
+          "text": "Es un enunciado perfectamente claro que no admite más de una interpretación gramatical.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase es un caso clásico de anfibología o ambigüedad modificadora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la detección de fallas semánticas causadas por anfibología en la estructura de la oración.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v16",
+      "statement": "¿Qué sentido tiene la oración 'el teatro completo aplaudió de pie al finalizar la sinfonía'?",
+      "context": "En la descripción de un evento cultural en la ciudad de Manizales respecto a el cambio semántico por metonimia continente-contenido (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El término 'teatro' sustituye por metonimia a los espectadores u oyentes presentes en la sala.",
+          "is_correct": true,
+          "feedback": "Es correcta porque se emplea el continente (el teatro) para designar al contenido (el público asistente)."
+        },
+        {
+          "letter": "B",
+          "text": "Significa que los muros de concreto y las sillas de madera emitieron sonidos de aplausos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque interpreta el término 'teatro' de forma literal-material imposible."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el director de la orquesta aplaudió a solas en el escenario vacío.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ignora la presencia del público sustituido por la palabra 'teatro'."
+        },
+        {
+          "letter": "D",
+          "text": "Expresa que la sinfonía fue un fracaso absoluto y la gente abandonó el edificio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aplauso colectivo de pie es símbolo unánime de éxito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la comprensión del mecanismo metonímico continente por contenido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v17",
+      "statement": "¿Qué diferencia semántico-pragmática existe entre calificar a los manifestantes de 'huelguistas' o de 'vándalos'?",
+      "context": "Al comparar dos artículos sobre una huelga de transportadores en Colombia respecto a la carga ideológica de las marcas léxicas en la prensa (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revela el sesgo ideológico del medio: 'huelguistas' reconoce un derecho laboral, mientras que 'vándalos' criminaliza la protesta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la selección léxica evidencia la postura valorativa e ideológica del emisor frente a los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que ambas palabras son sinónimos exactos según el diccionario de la lengua española.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una palabra denota el ejercicio de un derecho y la otra un delito civil."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que los periodistas que escribieron los artículos pertenecen a la misma sala de redacción.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque evidencian dos enfoques ideológicos contrapuestos."
+        },
+        {
+          "letter": "D",
+          "text": "Carece de relevancia porque la adjetivación no afecta la percepción de los lectores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las palabras orientan activamente el juicio ético del público."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la capacidad de develar presupuestos ideológicos a través del análisis léxico-semántico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v18",
+      "statement": "¿Cómo funciona el juego semántico entre 'capital' (dinero) y 'Capital' (ciudad de Bogotá)?",
+      "context": "En el análisis de una viñeta gráfica de Matador sobre la corrupción respecto a la polisemia y el juego de palabras en la caricatura política (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explotar la polisemia de la palabra para criticar cómo los recursos financieros se concentran en la sede del gobierno.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la caricatura aprovecha la doble acepción (financiera y política) para construir el sentido humorístico-crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el dibujante comete errores de ortografía al no usar mayúsculas correctamente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se trata de una errata sino de un recurso expresivo intencionado."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar la historia geográfica del río Magdalena de forma cuantitativa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tema de la viñeta es la corrupción y la centralización, no la hidrografía."
+        },
+        {
+          "letter": "D",
+          "text": "Promover el turismo gastronómico en la región central de Colombia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la viñeta posee un propósito de denuncia sociopolítica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la lectura de textos discontinuos (caricatura) analizando juegos de palabras y polisemia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v19",
+      "statement": "¿Qué se entiende por 'isotopía semántica' a lo largo de un documento científico?",
+      "context": "En la revisión de un capítulo de libro sobre ecosistemas marinos respecto a la isotopía semántica en un texto expositivo sobre biología (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reiteración de un conjunto de rasgos semánticos comunes que garantizan la unidad temática del escrito.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la isotopía es la redundancia de categorías semánticas que asegura la coherencia profunda del texto."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia aleatoria de términos de física, poesía, derecho y cocina sin relación entre sí.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la dispersión de campos léxicos destruye la isotopía y la coherencia."
+        },
+        {
+          "letter": "C",
+          "text": "La traducción directa de un texto en tres idiomas simultáneos dentro del mismo párrafo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se refiere al plano del significado, no a la traducción políglota."
+        },
+        {
+          "letter": "D",
+          "text": "La obligación de usar una sola vocal en la redacción de todas las oraciones del texto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se confunde con un juego lipogramático ajeno al discurso académico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la identificación de redes de coherencia semántica (isotopías) en textos informativos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el significado profundo que se sintetiza en esta sentencia filosófica?",
+      "context": "Al evaluar la frase de Estanislao Zuleta: 'Desear una vida sin problemas es desear una vida de bobos' respecto a la síntesis de significado en la interpretación de aforismos (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el conflicto y la dificultad son constitutivos del crecimiento humano y del pensamiento crítico.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Zuleta critica el ideal infantil de una felicidad pasiva e invita a asumir el conflicto como motor del desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "Que las personas inteligentes nunca enfrentan problemas ni dificultades en su vida cotidiana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Zuleta sostiene precisamente lo opuesto: la vida inteligente requiere encarar problemas."
+        },
+        {
+          "letter": "C",
+          "text": "Que la felicidad consiste en no tener que tomar decisiones ni asumir responsabilidades en la sociedad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa postura corresponde al ideal que Zuleta tacha de infantil."
+        },
+        {
+          "letter": "D",
+          "text": "Que la educación debe eliminar todos los exámenes y evaluaciones del sistema escolar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque saca la frase de contexto al aplicarla reductivamente a los exámenes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la capacidad de interpretar y sintetizar el sentido ético-filosófico de enunciados aforísticos complejos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W25-semantica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

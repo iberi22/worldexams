@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.205Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Cali, Santiago analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 1t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(1t^2) = 2(1)t = 2t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$1t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$2t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$1t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $1t^2$ es $2t$ y la de $3t$ es $3$. Así, $s'(t) = 2t + 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Barranquilla, Mariana analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 2t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(2t^2) = 2(2)t = 4t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$2t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$4t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$2t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $2t^2$ es $4t$ y la de $3t$ es $3$. Así, $s'(t) = 4t + 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Bucaramanga, Juan analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 3t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(3t^2) = 2(3)t = 6t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$3t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$6t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$3t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $3t^2$ es $6t$ y la de $3t$ es $3$. Así, $s'(t) = 6t + 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Cartagena, Camila analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 4t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(4t^2) = 2(4)t = 8t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$4t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$8t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$4t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $4t^2$ es $8t$ y la de $3t$ es $3$. Así, $s'(t) = 8t + 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Pereira, Alejandro analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 5t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(5t^2) = 2(5)t = 10t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$5t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$10t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$5t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $5t^2$ es $10t$ y la de $3t$ es $3$. Así, $s'(t) = 10t + 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Manizales, Isabella analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 6t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(6t^2) = 2(6)t = 12t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$6t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$12t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$6t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $6t^2$ es $12t$ y la de $3t$ es $3$. Así, $s'(t) = 12t + 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Santa Marta, Mateo analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 7t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(7t^2) = 2(7)t = 14t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$7t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$14t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$7t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $7t^2$ es $14t$ y la de $3t$ es $3$. Así, $s'(t) = 14t + 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Pasto, Sofia analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 8t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(8t^2) = 2(8)t = 16t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$8t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$16t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$8t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $8t^2$ es $16t$ y la de $3t$ es $3$. Así, $s'(t) = 16t + 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Bogotá, Diego analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 9t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(9t^2) = 2(9)t = 18t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$9t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$18t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$9t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $9t^2$ es $18t$ y la de $3t$ es $3$. Así, $s'(t) = 18t + 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Medellín, Valentina analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 10t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(10t^2) = 2(10)t = 20t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$10t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$20t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$10t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $10t^2$ es $20t$ y la de $3t$ es $3$. Así, $s'(t) = 20t + 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Cali, Santiago analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 11t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$22t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(11t^2) = 2(11)t = 22t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$11t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$22t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$11t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $11t^2$ es $22t$ y la de $3t$ es $3$. Así, $s'(t) = 22t + 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Barranquilla, Mariana analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 12t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(12t^2) = 2(12)t = 24t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$12t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$24t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$12t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $12t^2$ es $24t$ y la de $3t$ es $3$. Así, $s'(t) = 24t + 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Bucaramanga, Juan analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 13t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$26t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(13t^2) = 2(13)t = 26t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$13t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$26t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$13t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $13t^2$ es $26t$ y la de $3t$ es $3$. Así, $s'(t) = 26t + 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Cartagena, Camila analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 14t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$28t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(14t^2) = 2(14)t = 28t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$14t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$28t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$14t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $14t^2$ es $28t$ y la de $3t$ es $3$. Así, $s'(t) = 28t + 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Pereira, Alejandro analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 15t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(15t^2) = 2(15)t = 30t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$15t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$30t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$15t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $15t^2$ es $30t$ y la de $3t$ es $3$. Así, $s'(t) = 30t + 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Manizales, Isabella analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 16t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(16t^2) = 2(16)t = 32t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$16t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$32t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$16t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $16t^2$ es $32t$ y la de $3t$ es $3$. Así, $s'(t) = 32t + 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Santa Marta, Mateo analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 17t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$34t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(17t^2) = 2(17)t = 34t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$17t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$34t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$17t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $17t^2$ es $34t$ y la de $3t$ es $3$. Así, $s'(t) = 34t + 3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Pasto, Sofia analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 18t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(18t^2) = 2(18)t = 36t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$18t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$36t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$18t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $18t^2$ es $36t$ y la de $3t$ es $3$. Así, $s'(t) = 36t + 3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Bogotá, Diego analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 19t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$38t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(19t^2) = 2(19)t = 38t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$19t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$38t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$19t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $19t^2$ es $38t$ y la de $3t$ es $3$. Así, $s'(t) = 38t + 3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?",
+      "context": "En Medellín, Valentina analiza la razón de cambio instantánea de la posición de un vehículo descrita por $s(t) = 20t^2 + 3t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40t + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia: $\\frac{d}{dt}(20t^2) = 2(20)t = 40t$ y $\\frac{d}{dt}(3t) = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$20t + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2."
+        },
+        {
+          "letter": "C",
+          "text": "$40t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste derivar el término lineal 3t."
+        },
+        {
+          "letter": "D",
+          "text": "$20t^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de derivación a t^2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia $\\frac{d}{dt}(a t^n) = a \\cdot n t^{n-1}$, la derivada de $20t^2$ es $40t$ y la de $3t$ es $3$. Así, $s'(t) = 40t + 3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W11-derivadas-concepto-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-18-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.208Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v1",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $1\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1\\text{ m}, y = 1\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 12\\text{ m}, y = 3\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5\\text{ m}, y = 9\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 1$, $x = 1\\text{ m}$ e $y = 1\\text{ m}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v2",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $4\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2\\text{ m}, y = 2\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 9\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 14\\text{ m}, y = 4\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6\\text{ m}, y = 10\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 4$, $x = 2\\text{ m}$ e $y = 2\\text{ m}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v3",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $9\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3\\text{ m}, y = 3\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 14\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 16\\text{ m}, y = 5\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7\\text{ m}, y = 11\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 9$, $x = 3\\text{ m}$ e $y = 3\\text{ m}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v4",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $16\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4\\text{ m}, y = 4\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 21\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 18\\text{ m}, y = 6\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8\\text{ m}, y = 12\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 16$, $x = 4\\text{ m}$ e $y = 4\\text{ m}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v5",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $25\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5\\text{ m}, y = 5\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 30\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 20\\text{ m}, y = 7\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 9\\text{ m}, y = 13\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 25$, $x = 5\\text{ m}$ e $y = 5\\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v6",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $36\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6\\text{ m}, y = 6\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 41\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 22\\text{ m}, y = 8\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 10\\text{ m}, y = 14\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 36$, $x = 6\\text{ m}$ e $y = 6\\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v7",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $49\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7\\text{ m}, y = 7\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 54\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 24\\text{ m}, y = 9\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 11\\text{ m}, y = 15\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 49$, $x = 7\\text{ m}$ e $y = 7\\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v8",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $64\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 8\\text{ m}, y = 8\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 69\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 26\\text{ m}, y = 10\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 12\\text{ m}, y = 16\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 64$, $x = 8\\text{ m}$ e $y = 8\\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v9",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $81\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 9\\text{ m}, y = 9\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 86\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 28\\text{ m}, y = 11\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 13\\text{ m}, y = 17\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 81$, $x = 9\\text{ m}$ e $y = 9\\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v10",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $100\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 10\\text{ m}, y = 10\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 105\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 30\\text{ m}, y = 12\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 14\\text{ m}, y = 18\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 100$, $x = 10\\text{ m}$ e $y = 10\\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v11",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $121\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 11\\text{ m}, y = 11\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 126\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 32\\text{ m}, y = 13\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 15\\text{ m}, y = 19\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 121$, $x = 11\\text{ m}$ e $y = 11\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v12",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $144\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12\\text{ m}, y = 12\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 149\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 34\\text{ m}, y = 14\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 16\\text{ m}, y = 20\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 144$, $x = 12\\text{ m}$ e $y = 12\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v13",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $169\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 13\\text{ m}, y = 13\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 174\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 36\\text{ m}, y = 15\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 17\\text{ m}, y = 21\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 169$, $x = 13\\text{ m}$ e $y = 13\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v14",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $196\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 14\\text{ m}, y = 14\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 201\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 38\\text{ m}, y = 16\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 18\\text{ m}, y = 22\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 196$, $x = 14\\text{ m}$ e $y = 14\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v15",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $225\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 15\\text{ m}, y = 15\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 230\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 40\\text{ m}, y = 17\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 19\\text{ m}, y = 23\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 225$, $x = 15\\text{ m}$ e $y = 15\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v16",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $256\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 16\\text{ m}, y = 16\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 261\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 42\\text{ m}, y = 18\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 20\\text{ m}, y = 24\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 256$, $x = 16\\text{ m}$ e $y = 16\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v17",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $289\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 17\\text{ m}, y = 17\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 294\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 44\\text{ m}, y = 19\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 21\\text{ m}, y = 25\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 289$, $x = 17\\text{ m}$ e $y = 17\\text{ m}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v18",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $324\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 18\\text{ m}, y = 18\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 329\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 46\\text{ m}, y = 20\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 22\\text{ m}, y = 26\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 324$, $x = 18\\text{ m}$ e $y = 18\\text{ m}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v19",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $361\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 19\\text{ m}, y = 19\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 366\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 48\\text{ m}, y = 21\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 23\\text{ m}, y = 27\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 361$, $x = 19\\text{ m}$ e $y = 19\\text{ m}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle-v20",
+      "statement": "Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $400\\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?",
+      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 20\\text{ m}, y = 20\\text{ m}$ (un cuadrado)",
+          "is_correct": true,
+          "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 405\\text{ m}, y = 1\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 50\\text{ m}, y = 22\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 24\\text{ m}, y = 28\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 400$, $x = 20\\text{ m}$ e $y = 20\\text{ m}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W18-optimizacion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

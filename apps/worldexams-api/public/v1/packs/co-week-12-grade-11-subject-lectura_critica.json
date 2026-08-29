@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-12-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.190Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función directa del ícono del grifo goteando en la infografía?",
+      "context": "En una infografía sobre el consumo responsable del agua en Bogotá, publicada por la Empresa de Acueducto y Alcantarillado, se presenta un ícono de un grifo goteando junto a la cifra: \"Una gota por segundo equivale a 30 litros de agua desperdiciados al día\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ilustrar visualmente la fuente del desperdicio de agua mencionado en la cifra explicativa.",
+          "is_correct": true,
+          "feedback": "Correcto. El ícono acompaña y refuerza visualmente la cifra cuantitativa sobre el goteo de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir completamente el texto explicativo sobre el consumo diario de agua en los hogares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ícono no sustituye al texto, sino que lo complementa sintéticamente."
+        },
+        {
+          "letter": "C",
+          "text": "Exponer una crítica abstracta sobre la infraestructura hidráulica de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función del ícono es directa e ilustrativa respecto al mensaje del uso doméstico."
+        },
+        {
+          "letter": "D",
+          "text": "Argumentar en favor de las tarifas del servicio público de agua potable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen no aborda aspectos tarifarios ni financieros del servicio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la lectura de textos discontinuos (infografías), los elementos icónicos cumplen la función semiótica de anclaje o ilustración del contenido verbal, permitiendo una rápida identificación del tema por parte del lector.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v2",
+      "statement": "Según la disposición del mapa infográfico, los colores diferenciados sirven principalmente para:",
+      "context": "Un mapa infográfico del Metro de Medellín utiliza colores diferenciados (Línea A en azul, Línea B en naranja, Metrocable en verde) y convenciones gráficas con pictogramas para señalar puntos de transferencia e intercambio modal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Distinguir claramente las diferentes líneas y modalidades de transporte del sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. El código de colores es una convención infográfica para segmentar rutas y facilitar la navegación visual."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar la velocidad promedio a la que se desplaza cada tren en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color de línea no denota magnitudes de velocidad ni tiempos de desplazamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Representar el costo económico del pasaje según la distancia recorrida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema tarifario no se codifica mediante los colores de las líneas."
+        },
+        {
+          "letter": "D",
+          "text": "Decorar el plano sin ninguna relación sintáctica con el servicio de transporte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores cumplen una función comunicativa funcional dentro de la infografía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los códigos cromáticos en las infografías actúan como organizadores visuales que permiten clasificar categorías de información de manera instantánea y ordenada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de dato busca comunicar de forma prioritaria el gráfico circular en este contexto infográfico?",
+      "context": "En una infografía del Ministerio de Salud de Colombia sobre la prevención del dengue en el Valle del Cauca, se incluye un diagrama circular (gráfico de pastel) dividido en cuatro secciones que representan los criaderos más frecuentes de mosquitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La proporción porcentual de cada tipo de criadero respecto al total detectado.",
+          "is_correct": true,
+          "feedback": "Correcto. Los gráficos circulares están diseñados específicamente para representar proporciones o porcentajes de un todo."
+        },
+        {
+          "letter": "B",
+          "text": "La secuencia cronológica de desarrollo de la larva del mosquito durante un mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia temporal se representa habitualmente mediante líneas de tiempo o diagramas de flujo."
+        },
+        {
+          "letter": "C",
+          "text": "La distribución geográfica detallada de los casos de dengue por municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución espacial requiere mapas de densidad o cartografía temática."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión cualitativa de los médicos sobre la efectividad de las vacunas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico circular muestra datos cuantitativos proporcionales, no opiniones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La infografía integra diversos recursos cuantitativos; reconocer la función del gráfico circular permite interpretar correctamente la información de proporciones relativas en textos discontinuos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué relación de sentido establece la línea temporal entre los tres materiales presentados?",
+      "context": "Una infografía sobre el reciclaje en Cali presenta una línea temporal que muestra la degradación de distintos materiales: una cáscara de fruta (2 semanas), una lata de aluminio (200 años) y una botella de plástico (450 años).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una escala comparativa del impacto ambiental según la duración del material en la naturaleza.",
+          "is_correct": true,
+          "feedback": "Correcto. La línea temporal ordena los objetos por su tiempo de biodegradación para concienciar sobre el impacto del plástico."
+        },
+        {
+          "letter": "B",
+          "text": "Un listado del costo monetario de producción de cada uno de los materiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos presentados corresponden al tiempo de biodegradación, no a valores de mercado."
+        },
+        {
+          "letter": "C",
+          "text": "Una guía de pasos secuenciales para fabricar botellas y latas recicladas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La línea temporal no describe un proceso de fabricación industrial."
+        },
+        {
+          "letter": "D",
+          "text": "Una demostración de que todos los materiales tardan el mismo tiempo en descomponerse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste expreso en la infografía evidencia la enorme diferencia en los tiempos de descomposición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las líneas de tiempo en textos infográficos sirven para establecer comparaciones temporales y relaciones de orden entre eventos u objetos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v5",
+      "statement": "A partir del uso del contraste cromático y tipográfico en la infografía, se infiere que la intención del diseñador es:",
+      "context": "Un afiche infográfico del Instituto Colombiano de Bienestar Familiar (ICBF) compara la nutrición infantil en dos zonas rurales mediante dos siluetas humanas: una coloreada en verde con porcentajes de nutrientes altos, y otra en gris con cifras alarmantes de desnutrición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generar un impacto visual inmediato que enfatice la disparidad en las condiciones de nutrición.",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste oposicional entre verde (positivo) y gris (deficiente) refuerza la tesis del desequilibrio social."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el color de la piel varía según el tipo de alimento consumido por los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso del color es simbólico y comunicativo, no biológico ni literal."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar los datos estadísticos reales utilizando elementos figurativos imprecisos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste busca visibilizar e iluminar los datos estadísticos, no distorsionarlos."
+        },
+        {
+          "letter": "D",
+          "text": "Promover la compra de suplementos vitamínicos de una marca comercial específica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El emisor institucional (ICBF) persigue fines de concientización pública y política social."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la evaluación discursiva de infografías, se analiza cómo los recursos retóricos visuales (color, tipografía, disposición) apoyan la intención comunicativa del emisor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué metaforización o relación analógica expresa la composición gráfica de la infografía?",
+      "context": "En una infografía sobre la deforestación en la Amazonía colombiana, se observa en la parte superior un gran árbol frondoso cortado en diagonal, cuyas raíces transformadas en monedas de oro caen hacia una máquina retroexcavadora en la base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La subordinación de los recursos naturales a la explotación económica a corto plazo.",
+          "is_correct": true,
+          "feedback": "Correcto. La transformación visual de las raíces en monedas que alimentan la maquinaria representa la mercantilización del bosque."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de la fertilidad del suelo gracias al uso de maquinaria pesada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retroexcavadora y la tala simbolizan la destrucción ambiental, no la mejora del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Una técnica agrícola moderna para extraer minerales valiosos de los árboles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen es una metáfora crítica de la deforestación, no un procedimiento técnico."
+        },
+        {
+          "letter": "D",
+          "text": "La neutralidad ambiental de las actividades mineras en zonas protegidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño gráfico denuncia explícitamente el impacto destructivo del extractivismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las infografías críticas emplean metáforas visuales para condensar argumentos complejos en una sola estructura semiótica interpretable por el lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se sintetiza la relación entre el recuadro explicativo y los gráficos cuantitativos de la infografía?",
+      "context": "Una infografía publicada por un periódico de circulación nacional muestra la producción cafetera en Colombia durante 2025. Incluye un mapa por departamentos, barras con toneladas exportadas y un recuadro explicativo titulado: \"El papel de los pequeños caficultores en la economía rural\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El recuadro ofrece el marco cualitativo y social que contextualiza las cifras cuantitativas mostradas en los gráficos.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto conceptualiza el trabajo humano que respalda los números de producción y exportación."
+        },
+        {
+          "letter": "B",
+          "text": "El recuadro contradice abiertamente las estadísticas expuestas en el mapa y en las barras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los elementos de una infografía bien estructurada operan de manera complementaria y coherente."
+        },
+        {
+          "letter": "C",
+          "text": "El recuadro reemplaza los datos geográficos para evitar el uso de mapas en el periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mapa y el recuadro coexisten en el mismo espacio comunicativo."
+        },
+        {
+          "letter": "D",
+          "text": "El recuadro presenta una ficción narrativa sin relación con la producción económica real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recuadro aporta análisis socioeconómico real sobre el sector cafetero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integración del componente verbal (cualitativo) y el icónico/estadístico (cuantitativo) es el núcleo funcional del formato infográfico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v8",
+      "statement": "El uso de la jerarquía dimensional (tamaño diferencial de las figuras) en esta infografía cumple la función de:",
+      "context": "Una infografía institucional sobre movilidad sostenible en Bogotá coloca en el centro a un ciclista en tamaño monumental, mientras que los automóviles particulares aparecen dibujados en tamaño reducido en los márgenes inferiores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Priorizar valorativamente el uso de la bicicleta como el actor central de la movilidad sostenible.",
+          "is_correct": true,
+          "feedback": "Correcto. En el lenguaje visual, mayor tamaño relativo equivale a mayor relevancia conceptual dentro del mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar que los automóviles en Bogotá son mecánicamente más pequeños que las bicicletas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño gráfico no representa las dimensiones físicas reales, sino la jerarquía simbólica."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar que los ciclistas ocupan la mayor parte de las vías vehiculares de la capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recurso gráfico busca valorar la movilidad alternativa, no describir ocupación espacial de vías."
+        },
+        {
+          "letter": "D",
+          "text": "Reducir el costo de impresión del afiche al usar figuras pequeñas para los carros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala espacial responde a criterios discursivos y no a ahorro de tinta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La jerarquía de tamaño es un recurso de diseño infográfico que asigna relevancia ideológica o temática a los componentes visuales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la estructura lógica dominante que organiza la información en esta infografía?",
+      "context": "Una infografía sobre hábitos de lectura en jóvenes colombianos presenta dos secciones paralelas: \"Formatos Digitales (E-books, redes)\" y \"Formatos Impresos (Libros, periódicos)\". En cada lado se incluyen porcentajes de uso diarios e íconos representativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una estructura de comparación y contraste entre dos modalidades de consumo lector.",
+          "is_correct": true,
+          "feedback": "Correcto. La disposición en columnas paralelas facilita la confrontación de datos entre lo digital y lo impreso."
+        },
+        {
+          "letter": "B",
+          "text": "Una estructura de causa y efecto que explica la invención de la imprenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se están analizando causas históricas sino comparando hábitos contemporáneos."
+        },
+        {
+          "letter": "C",
+          "text": "Una secuencia cronológica que narra la biografía de un escritor colombiano destacado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La infografía no tiene formato biográfico ni narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Un diagrama de procesos que enseña cómo reparar un dispositivo de lectura digital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es estadístico e informativo sobre hábitos, no un manual de instrucciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la organización sintáctica (paralelismo, secuencia, clasificación) en un texto discontinuo permite comprender mejor la información expuesta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v10",
+      "statement": "Las flechas continuas presentes en el diseño infográfico cumplen la función sintáctica de:",
+      "context": "En una infografía sobre la producción de energéticos sostenibles en la costa Caribe, aparecen flechas continuas que conectan la radiación solar, los paneles fotovoltaicos, las estaciones de transformación y las viviendas conectadas a la red eléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establecer la secuencia direccional del proceso de generación y distribución de energía.",
+          "is_correct": true,
+          "feedback": "Correcto. Las flechas operan como conectores de flujo que guían al lector a través de los pasos del proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Representar el costo económico de las facturas de luz en los hogares del Caribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las flechas no simbolizan valores monetarios sino direcciones de flujo operativo."
+        },
+        {
+          "letter": "C",
+          "text": "Señalar los errores técnicos cometidos durante la instalación de los paneles solares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El esquema muestra un flujo funcional continuo y sin fallas."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir el título principal de la infografía por un símbolo geométrico abstracto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las flechas son conectores internos y no reemplazan el título del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores gráficos (flechas, líneas de flujo) guían la ruta de lectura e indican causalidad o secuencia en diagramas de proceso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v11",
+      "statement": "¿De qué manera interactúan el elemento visual de la tortuga y el enunciado textual en la construcción del mensaje crítico?",
+      "context": "Una ONG ambientalista publica una infografía sobre el impacto del plástico de un solo uso en los océanos. La imagen principal es una tortuga marina cuya caparazón está dibujada como un paquete de papas fritas, acompañada por la frase en negrita: \"La fauna no elige lo que consume. Tú sí\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto interpela éticamente al lector haciéndolo responsable directo del sufrimiento animal ilustrado en la imagen.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de la metáfora gráfica con el pronombre \"Tú\" moviliza la conciencia y la responsabilidad del receptor."
+        },
+        {
+          "letter": "B",
+          "text": "El texto desmiente la imagen al afirmar que las tortugas comen empaques de plástico voluntariamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto enfatiza precisamente lo contrario: que los animales no eligen y son víctimas inintencionadas."
+        },
+        {
+          "letter": "C",
+          "text": "La imagen y el texto se contradicen para generar confusión en los compradores de supermercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contradicción; la sinergia verbal-icónica persigue un mensaje de denuncia unívoco."
+        },
+        {
+          "letter": "D",
+          "text": "La imagen busca promocionar marcas colombianas de snacks en envases biodegradables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El emisor ambientalista usa el empaque como símbolo del problema y no como publicidad de consumo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis discursivo de infografías evalúa cómo la retórica visual y la apelación textual al receptor interactúan para formular un juicio crítico o persuadir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v12",
+      "statement": "Al calificar el empleo informal como \"Mercado no estructurado\" y relegarlo visualmente a una zona sombreada, la infografía evidencia:",
+      "context": "Un informe económico oficial incluye una infografía sobre el desempleo juvenil. En ella, las cifras de jóvenes contratados formalmente se muestran con barras ascendentes de color claro, mientras que el trabajo informal se ubica en un recuadro sombreado con la etiqueta \"Mercado no estructurado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sesgo discursivo que suaviza la precariedad laboral mediante un eufemismo técnico y una marginación gráfica.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de términos neutros y zonas oscuras atenúa el impacto conceptual del empleo informal."
+        },
+        {
+          "letter": "B",
+          "text": "Una intención de ocultar por completo la existencia del trabajo informal en las estadísticas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dato sí aparece representado; lo que se analiza es la forma atenuada y sesgada de presentarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Un compromiso absoluto con el lenguaje poético para describir las dinámicas macroeconómicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término \"Mercado no estructurado\" es técnico-eufemístico, no poético."
+        },
+        {
+          "letter": "D",
+          "text": "Una prueba objetiva de que la informalidad carece de importancia en la economía colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La informalidad es estructural; la presentación gráfica busca minimizar su visibilidad problemática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el sesgo en infografías requiere examinar tanto el léxico seleccionado (eufemismos) como las decisiones de diseño espacial y cromático.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v13",
+      "statement": "Un lector que busque evaluar la sustentabilidad hídrica de la región durante la época de sequía debe integrar los siguientes datos de la infografía:",
+      "context": "En una infografía sobre el ciclo del agua en los páramos colombianos (como Chingaza), se incluye una gráfica de líneas que muestra la precipitación mensual en milímetros y un diagrama explicativo sobre la función retenedora del musgo frailejón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los puntos mínimos de la gráfica de precipitación mensual con la capacidad de retención de humedad atribuida al frailejón.",
+          "is_correct": true,
+          "feedback": "Correcto. Cruzar los meses de baja lluvia con la respuesta ecológica de la vegetación permite medir el balance de reserva de agua."
+        },
+        {
+          "letter": "B",
+          "text": "El color del musgo con el nombre técnico del autor de la infografía ambiental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color de la planta y la autoría no aportan datos sobre el volumen hídrico durante la sequía."
+        },
+        {
+          "letter": "C",
+          "text": "El título principal de la infografía con el número total de páginas del periódico donde fue impresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos externos del medio impreso no determinan la sustentabilidad ambiental del páramo."
+        },
+        {
+          "letter": "D",
+          "text": "La altitud sobre el nivel del mar con el costo del transporte desde Bogotá hasta el páramo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del transporte turístico es ajeno al análisis eco-hídrico del ecosistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura crítica de infografías exige la síntesis e integración de datos procedentes de distintos componentes visuales y textuales del documento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v14",
+      "statement": "¿Qué estrategia de persuasión o encuadre comunicativo utiliza la empresa minera en este diseño?",
+      "context": "Una infografía producida por una empresa minera resalta los \"Millones de pesos invertidos en escuelas locales\" mediante grandes números dorados, mientras que los datos sobre el volumen de agua utilizado en la extracción se presentan en una tipografía pequeña en la esquina inferior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visibilizar y magnificar los beneficios de la responsabilidad social para eclipsar los costos o impactos ambientales.",
+          "is_correct": true,
+          "feedback": "Correcto. La desproporción tipográfica e icónica resalta lo positivo (inversión) y minimiza lo problemático (uso del agua)."
+        },
+        {
+          "letter": "B",
+          "text": "Garantizar la máxima neutralidad científica en la divulgación de los datos extractivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño sesgado en tamaños y colores rompe el principio de neutralidad informativa."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el consumo de agua es el factor más importante en la economía de la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera el factor más importante para la empresa, no estaría relegado a la letra pequeña."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar de manera objetiva los pasos para construir una escuela rural con fondos públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El interés de la gráfica es la imagen corporativa de la empresa minera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de encuadre (framing) en infografías corporativas revela cómo la distribución tipográfica se usa para priorizar ciertos intereses sobre otros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v15",
+      "statement": "Para determinar cuál es la fuente energética con menor impacto climático directo, el lector debe centrar su análisis en:",
+      "context": "Una infografía comparativa analiza la producción energética de tres fuentes en Colombia: Hidroeléctrica, Térmica y Solar. Presenta tres columnas con íconos de emisiones de CO2, área requerida en hectáreas y costo de mantenimiento por megavatio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La comparación cruzada de la fila de íconos y cifras correspondientes a las emisiones de CO2 de cada fuente.",
+          "is_correct": true,
+          "feedback": "Correcto. Las emisiones de CO2 constituyen la variable directa de impacto en el calentamiento global y el clima."
+        },
+        {
+          "letter": "B",
+          "text": "La sumatoria del total de hectáreas requeridas por las tres plantas energéticas juntas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total de áreas no permite comparar el rendimiento específico por tipo de fuente."
+        },
+        {
+          "letter": "C",
+          "text": "La revisión de los colores corporativos utilizados en las etiquetas de los títulos de columna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las elecciones estéticas de título no contienen datos de emisión ni impacto climático."
+        },
+        {
+          "letter": "D",
+          "text": "La identificación de la fuente que tenga el costo de mantenimiento financiero más elevado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo económico de mantenimiento no equivale al volumen de impacto climático ambiental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La localización y focalización de variables específicas en tablas o matrices infográficas es esencial para extraer inferencias analíticas precisas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v16",
+      "statement": "El uso de la forma en espiral ascendente iluminada aporta un significado simbólico de:",
+      "context": "Una infografía sobre la historia de los Acuerdos de Paz en Colombia organiza los hechos en una espiral ascendente. El inicio (año 2012) está en la base estrecha y la firma del acuerdo (2016) se ubica en el vértice amplio, iluminado por una paloma de la paz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Progreso evolutivo y superación gradual hacia un logro colectivo de mayor trascendencia.",
+          "is_correct": true,
+          "feedback": "Correcto. La espiral que se expande hacia arriba sugiere un camino ascendente de maduración y esperanza."
+        },
+        {
+          "letter": "B",
+          "text": "Retroceso histórico impredecible hacia etapas de mayor conflicto armado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento ascendente e iluminado connota evolución positiva, no retroceso."
+        },
+        {
+          "letter": "C",
+          "text": "Repetición idéntica e infinita de los mismos errores del pasado sin solución alguna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La espiral se abre y culmina en un símbolo de paz, lo que rompe el bucle cerrado."
+        },
+        {
+          "letter": "D",
+          "text": "Estancamiento absoluto del proceso político en la fase inicial de negociación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura gráfica muestra dinamismo y avance continuo en las etapas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las estructuras compositivas en las infografías (líneas rectas, círculos, espirales) aportan capas de significado conceptual a la información cronológica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar la validez comunicativa de esta infografía, un lector crítico debe concluir que el gráfico es:",
+      "context": "Un candidato a la alcaldía presenta una infografía sobre la seguridad ciudadana donde muestra una caída drástica en la tasa de hurtos. Sin embargo, al examinar el eje vertical del gráfico de líneas, se observa que la escala comienza en 9.500 casos y termina en 10.000, reduciendo visualmente una variación mínima del 5% a una caída abismal hacia el fondo del plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Engañoso, porque la manipulación del origen de la escala vertical distorsiona la percepción visual de la magnitud real del cambio.",
+          "is_correct": true,
+          "feedback": "Correcto. Truncar el eje Y sin empezar en cero magnifica visualmente pequeñas variaciones, creando una falsa sensación de éxito drástico."
+        },
+        {
+          "letter": "B",
+          "text": "Riguroso y preciso, ya que mantiene la representación matemática exacta sin importar el diseño visual del eje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño visual altera deliberadamente la proporción perceptiva, vulnerando la objetividad comunicativa."
+        },
+        {
+          "letter": "C",
+          "text": "Incompleto, porque debió omitir por completo las cifras numéricas y presentar solo colores evaluativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta no es incluir cifras, sino alterar la escala cartesiana para manipular al electorado."
+        },
+        {
+          "letter": "D",
+          "text": "Innovador, pues rompe con las normas tradicionales de la geometría para facilitar la lectura del público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una innovación estética sino un truco gráfico bien documentado de manipulación de datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico de infografías estadísticas requiere evaluar la honestidad del diseño cartesiano, detectando distorsiones en escalas que sesgan la interpretación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la principal debilidad argumentativa de esta infografía al ser sometida a una evaluación de rigor académico?",
+      "context": "Una infografía sobre soberanía alimentaria en la región Andina contrapone la agricultura campesina tradicional frente a la producción agroindustrial de monocultivos. La gráfica asigna a la agricultura campesina valores de \"alta biodiversidad y menor huella de carbono\", pero no ofrece fuentes bibliográficas ni datos cuantitativos verificables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carecer de respaldo empírico y fuentes verificables que sustenten las afirmaciones categóricas sobre la sustentabilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto informativo/argumentativo sin citas ni sustento estadístico explícito pierde validez como evidencia sólida."
+        },
+        {
+          "letter": "B",
+          "text": "Incluir ilustraciones de cultivos campesinos en lugar de fotografías satelitales en alta resolución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de ilustraciones es plenamente válido en infografía; el problema es la falta de evidencia empírica."
+        },
+        {
+          "letter": "C",
+          "text": "Utilizar el idioma español en lugar de términos técnicos en inglés para nombrar las especies vegetales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma español es idóneo para el público destino y no constituye un fallo argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Promover el consumo de productos agrícolas cultivados en suelo colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enfoque temático no es el fallo; la falla radica en la ausencia de sustento probatorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La validez pragmática de una infografía depende de la trazabilidad y rigor de las fuentes informativas que sostienen sus tesis discursivas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v19",
+      "statement": "Desde una perspectiva crítica de la complejidad socioeconómica, ¿por qué esta representación infográfica resulta insuficiente o reductiva?",
+      "context": "Un portal de noticias publica una infografía interactiva que pretende explicar el impacto del aumento del salario mínimo en la inflación en Colombia. El diagrama relaciona causalmente y de forma directa ambos fenómenos mediante una sola flecha unidireccional: \"Mayor salario mínimo → Mayor inflación\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque simplifica un fenómeno multicausal en una relación determinista de causa-efecto, omitiendo variables como tasas de interés y costos de insumos.",
+          "is_correct": true,
+          "feedback": "Correcto. La economía es un sistema complejo; reducir la inflación a un solo factor genera un sesgo explicativo grave."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las flechas unidireccionales están prohibidas por las leyes internacionales del diseño gráfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen prohibiciones legales sobre el uso de flechas; el fallo es de complejidad conceptual y económica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el salario mínimo en Colombia se ajusta anualmente sin ninguna relación con la economía real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí existe relación económica, pero el modelo de la infografía la sobre-simplifica de forma engañosa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el portal debía presentar la información mediante un poema argumentativo y no mediante diagramas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El formato infográfico es adecuado; lo cuestionable es la reducción simplista de la multicausalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la suficiencia expositiva de un texto discontinuo implica detectar cuándo la esquematización infográfica incurre en reduccionismo o falacia de causa simple.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle-v20",
+      "statement": "Al comparar la efectividad persuasiva y la validez informativa de ambas infografías, se puede afirmar que:",
+      "context": "En el marco de una campaña contra la desinformación en Colombia, se analizan dos infografías sobre el mismo proyecto de ley ambiental. La Infografía A utiliza gráficos estadísticos con fuentes del Departamento Nacional de Planeación (DNP). La Infografía B emplea adjetivos descalificadores (\"ley macabra\", \"destrucción total\") acompañados de caricaturas grotescas de los congresistas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Infografía A fundamenta su postura en evidencia institucional contrastable, mientras la Infografía B apela al sesgo emotivo y al ataque ad hominem.",
+          "is_correct": true,
+          "feedback": "Correcto. La Infografía A ofrece argumentos de hecho basados en datos; la B recurre a recursos falaces y descalificaciones emotivas."
+        },
+        {
+          "letter": "B",
+          "text": "La Infografía B es superior porque logra conmover y asustar al lector utilizando adjetivos contundentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apelación al miedo o a la emoción violenta no aporta validez racional ni rigor informativo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas infografías poseen exactamente la misma validez académica al tratar sobre la misma ley de la República.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuentes y el tipo de lenguaje utilizado marcan una diferencia radical en el valor probatorio de ambas."
+        },
+        {
+          "letter": "D",
+          "text": "La Infografía A carece de utilidad pedagógica porque los datos estadísticos confunden siempre al ciudadano común.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos institucionales son la base de la deliberación pública informada y democrática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis comparativo de la eficacia pragmática y la honestidad argumentativa de distintos textos discontinuos permite consolidar el pensamiento crítico frente a la información mediática.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W12-infografia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
