@@ -27,6 +27,12 @@ export function resolveApiSubject(selectedSubject: string | null | undefined): s
   if (!raw) return '';
 
   const normalizedReadable = normalizeSubjectName(raw);
+  // "Simulacro Completo" es un MODO de la UI (todas las áreas), no una asignatura
+  // en questions_data. Enviarla como subject al API produce 404 en questions y
+  // packs; devolver '' hace que el pool use el grado-completo (fallback correcto).
+  if (normalizedReadable.includes('SIMULACRO') && normalizedReadable.includes('COMPLET')) {
+    return '';
+  }
   if (normalizedReadable.includes('INGLES') && normalizedReadable.includes('DIAGNOST')) {
     return 'ingles';
   }
