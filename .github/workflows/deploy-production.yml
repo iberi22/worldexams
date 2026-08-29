@@ -12,8 +12,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: production-deploy
-  cancel-in-progress: false
+  group: production-deploy-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   # =========================================================================
@@ -57,9 +57,6 @@ jobs:
     needs: audit-and-verify
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    environment:
-      name: production
-      url: https://api.saberparatodos.space
 
     steps:
       - name: 📥 Checkout repository
@@ -94,9 +91,6 @@ jobs:
     needs: audit-and-verify
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    environment:
-      name: production
-      url: https://saberparatodos.space
 
     steps:
       - name: 📥 Checkout repository
@@ -115,10 +109,8 @@ jobs:
         working-directory: ./saberparatodos
         run: npm run build
         env:
-          PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           PUBLIC_SITE_URL: https://saberparatodos.space
-          PUBLIC_API_BASE_URL: https://api.saberparatodos.space
+          PUBLIC_API_BASE_URL: https://api.saberparatodos.space/v1
 
       - name: 🔧 Normalize Cloudflare Wrangler Production Config
         working-directory: ./saberparatodos
